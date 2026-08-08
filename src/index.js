@@ -28,8 +28,7 @@ await ensureDir(outputRoot);
 const browser = await chromium.launch({ headless: !values.headed });
 const context = await browser.newContext({
   viewport: { width: 1440, height: 1200 },
-  locale: 'en-IN',
-  userAgent: 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
+  locale: 'en-IN'
 });
 
 const selected = products.slice(0, limit);
