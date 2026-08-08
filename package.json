@@ -1,0 +1,17 @@
+{
+  "name": "fabdale-product-data-scraper",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Playwright scraper for staging Fabdale product data and media for Laravel import.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scrape": "node src/index.js",
+    "install:browsers": "playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.54.2"
+  }
+}
