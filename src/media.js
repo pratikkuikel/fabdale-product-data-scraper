@@ -4,6 +4,8 @@ import { ensureDir, extensionFrom, unique } from './utils.js';
 
 const IMAGE_TYPES = new Set(['image/jpeg', 'image/png', 'image/webp', 'image/gif', 'image/avif']);
 const VIDEO_TYPES = new Set(['video/mp4', 'video/webm']);
+const MAX_IMAGES = 20;
+const MAX_VIDEOS = 10;
 
 export async function collectMediaCandidates(page, productJsonLd, capturedMediaUrls = []) {
   const domMedia = await page.evaluate(() => {
@@ -20,12 +22,13 @@ export async function collectMediaCandidates(page, productJsonLd, capturedMediaU
   });
 
   const jsonLdImages = normalizeJsonLdImages(productJsonLd?.image);
-  const capturedImages = capturedMediaUrls.filter((url) => looksLikeImage(url));
   const capturedVideos = capturedMediaUrls.filter((url) => looksLikeVideo(url) || looksLikeStream(url));
 
   return {
-    images: unique([...jsonLdImages, ...domMedia.images, ...capturedImages]),
-    videos: unique([...domMedia.videos, ...capturedVideos])
+    // Do not include every image network response: that would pull icons, banners and
+    // recommendations. JSON-LD + large rendered images are much closer to product media.
+    images: unique([...jsonLdImages, ...domMedia.images]).filter(isHttpUrl).slice(0, MAX_IMAGES),
+    videos: unique([...domMedia.videos, ...capturedVideos]).filter(isHttpUrl).slice(0, MAX_VIDEOS)
   };
 }
 
@@ -135,14 +138,19 @@ function normalizeJsonLdImages(image) {
   return [];
 }
 
-function looksLikeImage(url) {
-  return /\.(jpe?g|png|webp|gif|avif)(?:[?#]|$)/i.test(url);
-}
-
 function looksLikeVideo(url) {
   return /\.(mp4|webm)(?:[?#]|$)/i.test(url);
 }
 
 function looksLikeStream(url) {
   return /\.m3u8(?:[?#]|$)/i.test(url);
+}
+
+function isHttpUrl(value) {
+  try {
+    const url = new URL(value);
+    return url.protocol === 'http:' || url.protocol === 'https:';
+  } catch {
+    return false;
+  }
 }
