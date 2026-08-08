@@ -100,13 +100,14 @@ function validateProduct(product) {
     throw new Error('Each product entry must be an object.');
   }
 
-  if (!product.url) {
-    throw new Error(`Missing URL for product ${product.sku || product.product_id || '(unknown)'}.`);
+  const sourceUrl = product.url || extractFlipkartUrl(product.notes);
+  if (!sourceUrl) {
+    throw new Error(`Missing Flipkart URL for product ${product.sku || product.product_id || product.id || '(unknown)'}.`);
   }
 
-  const url = new URL(product.url);
+  const url = new URL(sourceUrl);
   if (!/(^|\.)flipkart\.com$/i.test(url.hostname)) {
-    throw new Error(`Only flipkart.com product URLs are accepted: ${product.url}`);
+    throw new Error(`Only flipkart.com product URLs are accepted: ${sourceUrl}`);
   }
 
   return {
@@ -114,6 +115,15 @@ function validateProduct(product) {
     sku: product.sku ?? null,
     url: url.toString()
   };
+}
+
+function extractFlipkartUrl(notes) {
+  if (typeof notes !== 'string' || notes.trim() === '') return null;
+
+  const match = notes.match(/https?:\/\/(?:[a-z0-9-]+\.)*flipkart\.com\/[^\s<>"']+/i);
+  if (!match) return null;
+
+  return match[0].replace(/[),.;]+$/, '');
 }
 
 async function writeManifest(outputRoot, results) {
