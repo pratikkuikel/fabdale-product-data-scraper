@@ -18,14 +18,14 @@ npm run install:browsers
 
 ## Input
 
-Export products from Batuly into JSON using this shape:
+Export products from Batuly into JSON. You can pass the Flipkart URL directly as `url`, or simply export the existing `notes` field and the scraper will extract the first Flipkart URL from it.
 
 ```json
 [
   {
     "product_id": 1234,
     "sku": "Fab-Dress-PURNB-001PK-S",
-    "url": "https://www.flipkart.com/..."
+    "notes": "Source: https://www.flipkart.com/..."
   }
 ]
 ```
