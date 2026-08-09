@@ -2,6 +2,7 @@ import { readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { parseArgs } from 'node:util';
 import { chromium } from 'playwright';
+import { parseCsv } from './csv.js';
 import { scrapeProduct } from './scrape-product.js';
 import { ensureDir, writeJson } from './utils.js';
 
@@ -50,6 +51,8 @@ try {
     results.push({
       product_id: result.product_id,
       sku: result.sku,
+      name: result.product?.name ?? null,
+      parent_id: result.product?.parent_id ?? null,
       url: result.source.url,
       status: result.crawl.status,
       error: result.crawl.error
@@ -81,15 +84,25 @@ async function loadProducts(options) {
   }
 
   if (!options.input) {
-    throw new Error('Provide --input products.json or --url https://www.flipkart.com/...');
+    throw new Error('Provide --input fabdale-product-scraper-input.csv or --url https://www.flipkart.com/...');
   }
 
   const inputPath = path.resolve(options.input);
-  const parsed = JSON.parse(await readFile(inputPath, 'utf8'));
-  const rows = Array.isArray(parsed) ? parsed : parsed.products;
+  const text = await readFile(inputPath, 'utf8');
+  const extension = path.extname(inputPath).toLowerCase();
+
+  let rows;
+  if (extension === '.csv') {
+    rows = parseCsv(text);
+  } else if (extension === '.json') {
+    const parsed = JSON.parse(text);
+    rows = Array.isArray(parsed) ? parsed : parsed.products;
+  } else {
+    throw new Error('Input file must be .csv or .json.');
+  }
 
   if (!Array.isArray(rows)) {
-    throw new Error('Input JSON must be an array or an object containing a products array.');
+    throw new Error('Input must contain product rows.');
   }
 
   return rows.map(validateProduct);
@@ -100,7 +113,10 @@ function validateProduct(product) {
     throw new Error('Each product entry must be an object.');
   }
 
-  const sourceUrl = product.url || extractFlipkartUrl(product.notes);
+  const sourceUrl = emptyToNull(product.flipkart_url)
+    || emptyToNull(product.url)
+    || extractFlipkartUrl(product.notes);
+
   if (!sourceUrl) {
     throw new Error(`Missing Flipkart URL for product ${product.sku || product.product_id || product.id || '(unknown)'}.`);
   }
@@ -111,8 +127,11 @@ function validateProduct(product) {
   }
 
   return {
-    product_id: product.product_id ?? product.id ?? null,
-    sku: product.sku ?? null,
+    product_id: emptyToNull(product.product_id ?? product.id),
+    sku: emptyToNull(product.sku),
+    name: emptyToNull(product.name),
+    parent_id: emptyToNull(product.parent_id),
+    notes: emptyToNull(product.notes),
     url: url.toString()
   };
 }
@@ -124,6 +143,12 @@ function extractFlipkartUrl(notes) {
   if (!match) return null;
 
   return match[0].replace(/[),.;]+$/, '');
+}
+
+function emptyToNull(value) {
+  if (value == null) return null;
+  const normalized = String(value).trim();
+  return normalized === '' ? null : normalized;
 }
 
 async function writeManifest(outputRoot, results) {
