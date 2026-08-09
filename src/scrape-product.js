@@ -27,6 +27,11 @@ export async function scrapeProduct({ context, input, outputRoot }) {
   const baseResult = {
     product_id: input.product_id ?? null,
     sku: input.sku ?? null,
+    product: {
+      name: input.name ?? null,
+      parent_id: input.parent_id ?? null,
+      notes: input.notes ?? null
+    },
     source: {
       url: input.url,
       scraped_at: startedAt
@@ -241,8 +246,6 @@ async function extractProductContent(page, jsonLd) {
       }
     }
 
-    // Fallback: inspect compact two-column rows across the page. Flipkart frequently
-    // renders specifications using nested divs rather than semantic tables.
     if (Object.keys(pairs).length < 3) {
       for (const node of sections) {
         const directChildren = [...node.children].map(textOf).filter(Boolean);
