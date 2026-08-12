@@ -136,7 +136,14 @@ Example `product.json`:
     "videos": []
   },
   "raw": {
-    "json_ld": {}
+    "json_ld": {},
+    "dom": {
+      "meta_description": "Raw page metadata",
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "specifications": {}
+    }
   }
 }
 ```
@@ -171,6 +178,14 @@ The Laravel importer should match by `product_id` and reuse Batuly's existing pr
 
 - The CSV parser supports quoted commas, quotes, and multiline `notes` fields produced by PHP `fputcsv`.
 - The scraper uses semantic fallbacks (JSON-LD, headings, tables, definition lists, and compact key/value rows) instead of depending only on unstable Flipkart CSS class names.
+- Product media prefers Flipkart's product-scoped JSON-LD gallery so recommendation cards and promotional images are not downloaded as catalog images.
+- HLS video rendition playlists are collapsed to their master manifest, and unrelated Minivet recommendation streams are excluded.
 - It detects obvious captcha/block pages and marks the product as failed; it does not attempt to bypass access controls.
 - Product images are downloaded when directly accessible. Direct MP4/WebM videos are downloaded; streaming manifests are recorded for later handling.
 - Treat the first run as validation: test a small sample across dresses, sarees, jeans, jewellery, etc. before running the full catalog.
+
+## Tests
+
+```bash
+npm test
+```

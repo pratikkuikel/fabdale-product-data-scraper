@@ -25,11 +25,38 @@ export async function collectMediaCandidates(page, productJsonLd, capturedMediaU
   const capturedVideos = capturedMediaUrls.filter((url) => looksLikeVideo(url) || looksLikeStream(url));
 
   return {
-    // Do not include every image network response: that would pull icons, banners and
-    // recommendations. JSON-LD + large rendered images are much closer to product media.
-    images: unique([...jsonLdImages, ...domMedia.images]).filter(isHttpUrl).slice(0, MAX_IMAGES),
-    videos: unique([...domMedia.videos, ...capturedVideos]).filter(isHttpUrl).slice(0, MAX_VIDEOS)
+    // Flipkart's JSON-LD gallery is product-scoped. Mixing it with every large DOM image
+    // also captures recommendation cards, offer banners and customer-review images.
+    images: selectProductImages(jsonLdImages, domMedia.images).slice(0, MAX_IMAGES),
+    videos: canonicalizeVideoUrls([...domMedia.videos, ...capturedVideos]).slice(0, MAX_VIDEOS)
   };
+}
+
+export function selectProductImages(jsonLdImages, domImages) {
+  const preferred = unique(jsonLdImages).filter(isHttpUrl);
+  if (preferred.length > 0) return preferred;
+
+  return unique(domImages)
+    .filter(isHttpUrl)
+    .filter((url) => !/\/www\/|\/promos?\//i.test(url));
+}
+
+export function canonicalizeVideoUrls(urls) {
+  const candidates = unique(urls)
+    .filter(isHttpUrl)
+    // Minivet catalog streams are recommendation/autoplay media, not the current
+    // product's gallery video. Product gallery streams use Flipkart's cgt/FPS path.
+    .filter((url) => !/\/minivet\/MINIVET_CATALOG\//i.test(url));
+  const manifestRoots = new Set(
+    candidates
+      .filter((url) => /\/manifest\.m3u8(?:[?#]|$)/i.test(url))
+      .map(streamRoot)
+  );
+
+  return candidates.filter((url) => {
+    if (!/\/chunk_stream\d+\.m3u8(?:[?#]|$)/i.test(url)) return true;
+    return !manifestRoots.has(streamRoot(url));
+  });
 }
 
 export async function downloadMedia({ context, sourceUrl, outputDir, candidates }) {
@@ -153,4 +180,12 @@ function isHttpUrl(value) {
   } catch {
     return false;
   }
+}
+
+function streamRoot(value) {
+  const url = new URL(value);
+  url.pathname = url.pathname.replace(/\/(?:manifest|chunk_stream\d+)\.m3u8$/i, '');
+  url.search = '';
+  url.hash = '';
+  return url.toString();
 }

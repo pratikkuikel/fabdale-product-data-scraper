@@ -90,10 +90,11 @@ export async function scrapeProduct({ context, input, outputRoot }) {
         status: 'success',
         error: null
       },
-      content: extracted,
+      content: extracted.content,
       media,
       raw: {
-        json_ld: jsonLd
+        json_ld: jsonLd,
+        dom: extracted.raw
       }
     };
 
@@ -136,14 +137,14 @@ async function detectBlock(page) {
 }
 
 async function expandUsefulSections(page) {
-  const labels = ['Read More', 'View More'];
+  const labels = ['Read More', 'View More', 'more'];
 
   for (const label of labels) {
     const locator = page.getByText(label, { exact: true });
-    const count = Math.min(await locator.count().catch(() => 0), 5);
+    const count = Math.min(await locator.count().catch(() => 0), 20);
 
     for (let index = 0; index < count; index += 1) {
-      await locator.nth(index).click({ timeout: 1_500 }).catch(() => {});
+      await locator.nth(index).click({ force: true, timeout: 1_500 }).catch(() => {});
     }
   }
 }
@@ -190,8 +191,6 @@ async function extractProductContent(page, jsonLd) {
     const title = textOf(document.querySelector('h1'));
     const metaDescription = document.querySelector('meta[name="description"]')?.content || null;
 
-    const sections = [...document.querySelectorAll('div, section')];
-
     const findHeadingContainer = (label) => {
       const heading = [...document.querySelectorAll('h1,h2,h3,h4,h5,div,span')]
         .find((node) => textOf(node)?.toLowerCase() === label.toLowerCase());
@@ -225,7 +224,8 @@ async function extractProductContent(page, jsonLd) {
     const addPair = (key, value) => {
       key = clean(key);
       value = clean(value);
-      if (!key || !value || key === value || key.length > 100 || value.length > 1_000) return;
+      if (!key || !value || key === value || key.length > 100 || value.length > 200) return;
+      if (['specifications', 'manufacturer info', 'general', 'general details'].includes(key.toLowerCase())) return;
       if (!pairs[key]) pairs[key] = value;
     };
 
@@ -246,10 +246,49 @@ async function extractProductContent(page, jsonLd) {
       }
     }
 
-    if (Object.keys(pairs).length < 3) {
-      for (const node of sections) {
+    const productHighlightsRoot = findHeadingContainer('Product highlights');
+    if (productHighlightsRoot) {
+      for (const node of productHighlightsRoot.querySelectorAll('div')) {
         const directChildren = [...node.children].map(textOf).filter(Boolean);
         if (directChildren.length === 2) addPair(directChildren[0], directChildren[1]);
+      }
+    }
+
+    const exactTextNode = (label) => [...document.querySelectorAll('div,span,h1,h2,h3,h4,h5')]
+      .find((node) => textOf(node)?.toLowerCase() === label.toLowerCase());
+    const allDetailsLabel = exactTextNode('All details');
+    const ratingsLabel = exactTextNode('Ratings and reviews');
+    const descriptionSections = [];
+    const descriptionSectionKeys = new Set();
+
+    if (allDetailsLabel) {
+      for (const node of document.querySelectorAll('div')) {
+        const followsAllDetails = Boolean(
+          allDetailsLabel.compareDocumentPosition(node) & Node.DOCUMENT_POSITION_FOLLOWING
+        );
+        const precedesRatings = ! ratingsLabel || Boolean(
+          node.compareDocumentPosition(ratingsLabel) & Node.DOCUMENT_POSITION_FOLLOWING
+        );
+
+        if (! followsAllDetails || ! precedesRatings) continue;
+
+        const directChildren = [...node.children].map(textOf).filter(Boolean);
+        if (directChildren.length !== 2) continue;
+
+        const [heading, rawBody] = directChildren;
+        const body = rawBody.replace(/\.\.\.more$/i, '…');
+        if (heading.length < 3 || heading.length > 80 || body.length < 40 || body.length > 1_500) continue;
+        if (
+          ['all details', 'showcase', 'specifications', 'description', 'manufacturer info', 'ratings and reviews', 'general']
+            .some((label) => heading.toLowerCase().includes(label))
+        ) continue;
+        if (/verified buyers|show all reviews|questions and answers/i.test(body)) continue;
+
+        const key = `${heading}\n${body}`;
+        if (descriptionSectionKeys.has(key)) continue;
+
+        descriptionSectionKeys.add(key);
+        descriptionSections.push({ heading, body });
       }
     }
 
@@ -258,21 +297,64 @@ async function extractProductContent(page, jsonLd) {
       meta_description: clean(metaDescription),
       highlights,
       description,
-      specifications: pairs
+      specifications: pairs,
+      description_sections: descriptionSections
     };
   });
 
   const jsonDescription = normalizeText(jsonLd?.description);
-  const highlights = dom.highlights.length ? dom.highlights : [];
+  const shortDescription = formatHighlights(dom.highlights, dom.specifications);
+  const longDescription = formatDescriptionSections(dom.description_sections);
 
   return {
-    title: normalizeText(jsonLd?.name) || dom.title,
-    short_description: highlights.length
-      ? highlights.join('\n')
-      : dom.meta_description || jsonDescription,
-    description: dom.description || jsonDescription || dom.meta_description,
-    specifications: dom.specifications
+    content: {
+      title: normalizeText(jsonLd?.name) || dom.title,
+      short_description: shortDescription || dom.meta_description || jsonDescription,
+      description: longDescription || dom.description || jsonDescription || dom.meta_description,
+      specifications: dom.specifications
+    },
+    raw: {
+      meta_description: dom.meta_description,
+      highlights: dom.highlights,
+      description: dom.description,
+      description_sections: dom.description_sections,
+      specifications: dom.specifications
+    }
   };
+}
+
+export function formatHighlights(highlights, specifications) {
+  if (highlights.length > 0) return highlights.join('\n');
+
+  const priority = [
+    'color',
+    'fabric',
+    'pattern',
+    'type',
+    'ideal for',
+    'fit',
+    'sleeve',
+    'occasion',
+    'style code',
+    'brand'
+  ];
+  const entries = Object.entries(specifications).sort(([left], [right]) => {
+    const leftIndex = priority.indexOf(left.toLowerCase());
+    const rightIndex = priority.indexOf(right.toLowerCase());
+    return (leftIndex === -1 ? priority.length : leftIndex)
+      - (rightIndex === -1 ? priority.length : rightIndex);
+  });
+
+  return entries
+    .slice(0, 8)
+    .map(([key, value]) => `${key}: ${value}`)
+    .join('\n') || null;
+}
+
+export function formatDescriptionSections(sections) {
+  return sections
+    .map(({ heading, body }) => `${heading}\n${body}`)
+    .join('\n\n') || null;
 }
 
 function normalizeText(value) {
