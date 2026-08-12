@@ -1,6 +1,20 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { canonicalizeVideoUrls, selectProductImages } from '../src/media.js';
+import { canonicalizeVideoUrls, normalizeImageQualityUrl, selectProductImages } from '../src/media.js';
+
+test('requests maximum configured quality from Flipkart product images', () => {
+  assert.equal(
+    normalizeImageQualityUrl('https://rukmini1.flixcart.com/image/1500/1500/product.jpeg?q=70', 100),
+    'https://rukmini1.flixcart.com/image/1500/1500/product.jpeg?q=100'
+  );
+});
+
+test('does not add Flipkart quality parameters to unrelated media hosts', () => {
+  assert.equal(
+    normalizeImageQualityUrl('https://example.com/image/1500/1500/product.jpeg', 100),
+    'https://example.com/image/1500/1500/product.jpeg'
+  );
+});
 
 test('uses the product-scoped JSON-LD gallery without DOM recommendations', () => {
   const jsonLdImages = [

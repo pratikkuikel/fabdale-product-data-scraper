@@ -1,4 +1,5 @@
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, rename, rm, writeFile } from 'node:fs/promises';
+import { randomUUID } from 'node:crypto';
 import path from 'node:path';
 
 export async function ensureDir(dir) {
@@ -14,9 +15,16 @@ export function safeName(value, fallback = 'product') {
   return normalized || fallback;
 }
 
-export async function writeJson(filePath, value) {
+export async function writeJsonAtomic(filePath, value) {
   await ensureDir(path.dirname(filePath));
-  await writeFile(filePath, `${JSON.stringify(value, null, 2)}\n`, 'utf8');
+  const temporaryPath = `${filePath}.${randomUUID()}.tmp`;
+
+  try {
+    await writeFile(temporaryPath, `${JSON.stringify(value, null, 2)}\n`, 'utf8');
+    await rename(temporaryPath, filePath);
+  } finally {
+    await rm(temporaryPath, { force: true }).catch(() => {});
+  }
 }
 
 export function unique(values) {

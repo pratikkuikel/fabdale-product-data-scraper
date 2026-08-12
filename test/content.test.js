@@ -1,8 +1,45 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { formatDescriptionSections, formatHighlights } from '../src/scrape-product.js';
+import { buildProductContent, formatDescriptionSections, formatHighlights } from '../src/scrape-product.js';
 
-test('uses product specifications as compact highlights when no list exists', () => {
+test('exposes only Product highlights as importer-facing specifications', () => {
+  const result = buildProductContent({
+    title: 'Black Dress',
+    meta_description: 'Description',
+    highlights: [],
+    description: null,
+    description_sections: [],
+    product_highlights: {
+      Color: 'Black',
+      Length: 'Ankle Length',
+      Pattern: 'Floral Print',
+      Type: 'Fit and Flare',
+      'Sleeve Length': '3/4 Sleeve',
+      Sleeve: '3/4 Sleeve'
+    },
+    raw_specifications: {
+      Brand: 'Example Brand',
+      'Style Code': 'ABC123',
+      Fabric: 'Cotton Blend'
+    }
+  });
+
+  assert.deepEqual(result.content.specifications, {
+    Color: 'Black',
+    Length: 'Ankle Length',
+    Pattern: 'Floral Print',
+    Type: 'Fit and Flare',
+    'Sleeve Length': '3/4 Sleeve',
+    Sleeve: '3/4 Sleeve'
+  });
+  assert.deepEqual(result.raw.specifications, {
+    Brand: 'Example Brand',
+    'Style Code': 'ABC123',
+    Fabric: 'Cotton Blend'
+  });
+});
+
+test('uses product-highlight attributes as the compact short description', () => {
   assert.equal(formatHighlights([], {
     Color: 'Purple',
     Pattern: 'Printed'

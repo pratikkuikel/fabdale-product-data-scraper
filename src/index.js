@@ -1,10 +1,9 @@
-import { readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { parseArgs } from 'node:util';
 import { chromium } from 'playwright';
-import { parseCsv } from './csv.js';
-import { scrapeProduct } from './scrape-product.js';
-import { ensureDir, writeJson } from './utils.js';
+import { CrawlStore } from './crawl-store.js';
+import { runCrawl } from './crawl-runner.js';
+import { loadProducts } from './product-input.js';
 
 const { values } = parseArgs({
   options: {
@@ -12,163 +11,133 @@ const { values } = parseArgs({
     output: { type: 'string', short: 'o', default: 'data' },
     url: { type: 'string' },
     sku: { type: 'string' },
-    'product-id': { type: 'string' },
+    'product-id': { type: 'string', multiple: true, default: [] },
+    status: { type: 'string', multiple: true, default: [] },
+    offset: { type: 'string', default: '0' },
     limit: { type: 'string' },
     delay: { type: 'string', default: '1000' },
-    headed: { type: 'boolean', default: false }
+    'retry-delay': { type: 'string', default: '2000' },
+    'max-attempts': { type: 'string', default: '3' },
+    'image-quality': { type: 'string', default: '100' },
+    'retry-failed': { type: 'boolean', default: false },
+    force: { type: 'boolean', default: false },
+    'no-media': { type: 'boolean', default: false },
+    headed: { type: 'boolean', default: false },
+    help: { type: 'boolean', short: 'h', default: false }
   }
 });
 
-const products = await loadProducts(values);
-const limit = positiveInteger(values.limit, products.length);
-const delayMs = nonNegativeInteger(values.delay, 1000);
+if (values.help) {
+  console.log(`Usage: npm run scrape -- --input <csv|json> [options]
+
+Options:
+  --output <dir>          Output directory (default: data)
+  --product-id <id>      Select a Batuly product ID; repeat or comma-separate
+  --status <status>      Select prior statuses; repeat or comma-separate
+  --offset <n>           Skip input rows before applying --limit
+  --limit <n>            Limit selected input rows
+  --delay <ms>           Delay between unique sources (default: 1000)
+  --retry-delay <ms>     Initial exponential retry delay (default: 2000)
+  --max-attempts <n>     Attempts per source in this run (default: 3)
+  --image-quality <1-100> Flipkart image quality (default: 100)
+  --retry-failed         Retry prior failed, partial, or blocked sources
+  --force                Re-scrape even verified successful sources
+  --no-media             Extract media metadata without downloading files
+  --headed               Show Chromium
+  --help                 Show this help`);
+  process.exit(0);
+}
+
+const options = normalizeOptions(values);
+const products = await loadProducts(options);
 const outputRoot = path.resolve(values.output);
+const store = new CrawlStore(outputRoot);
+let stopRequested = false;
 
-await ensureDir(outputRoot);
+process.once('SIGINT', requestStop);
+process.once('SIGTERM', requestStop);
 
-const browser = await chromium.launch({ headless: !values.headed });
-const context = await browser.newContext({
-  viewport: { width: 1440, height: 1200 },
-  locale: 'en-IN'
-});
+let browser = null;
+let context = null;
 
-const selected = products.slice(0, limit);
-const results = [];
-
-console.log(`Scraping ${selected.length} product(s) into ${outputRoot}`);
+console.log(`Preparing ${products.length} product row(s) in ${outputRoot}`);
 
 try {
-  for (let index = 0; index < selected.length; index += 1) {
-    const product = selected[index];
-    console.log(`[${index + 1}/${selected.length}] ${product.sku || product.product_id || product.url}`);
+  const result = await runCrawl({
+    products,
+    context,
+    getContext: async () => {
+      if (context) return context;
 
-    const result = await scrapeProduct({
-      context,
-      input: product,
-      outputRoot
-    });
-
-    results.push({
-      product_id: result.product_id,
-      sku: result.sku,
-      name: result.product?.name ?? null,
-      parent_id: result.product?.parent_id ?? null,
-      url: result.source.url,
-      status: result.crawl.status,
-      error: result.crawl.error
-    });
-
-    await writeManifest(outputRoot, results);
-
-    if (delayMs > 0 && index < selected.length - 1) {
-      await sleep(delayMs);
+      browser = await chromium.launch({ headless: !values.headed });
+      context = await browser.newContext({
+        viewport: { width: 1440, height: 1200 },
+        locale: 'en-IN'
+      });
+      return context;
+    },
+    store,
+    options,
+    shouldStop: () => stopRequested,
+    onProgress: ({ index, total, group, action }) => {
+      const label = group.representative.sku || group.representative.product_id || group.representative.url;
+      console.log(`[${index + 1}/${total}] ${label} (${group.products.length} row(s), ${action})`);
     }
+  });
+
+  console.log(`Done. Selected rows: ${result.selected}; Unique sources: ${result.sources}; Scraped: ${result.scraped}; Resumed/skipped: ${result.skipped}; Non-success: ${result.failed}`);
+
+  if (result.interrupted) {
+    console.error('Stopped safely after the current source. Run the same command to resume.');
+    process.exitCode = 130;
+  } else if (result.failed > 0) {
+    process.exitCode = 1;
   }
 } finally {
-  await browser.close();
+  await browser?.close();
 }
 
-const successful = results.filter((item) => item.status === 'success').length;
-const failed = results.length - successful;
-console.log(`Done. Success: ${successful}; Failed: ${failed}`);
-
-if (failed > 0) process.exitCode = 1;
-
-async function loadProducts(options) {
-  if (options.url) {
-    return [validateProduct({
-      product_id: options['product-id'] ?? null,
-      sku: options.sku ?? null,
-      url: options.url
-    })];
-  }
-
-  if (!options.input) {
-    throw new Error('Provide --input fabdale-product-scraper-input.csv or --url https://www.flipkart.com/...');
-  }
-
-  const inputPath = path.resolve(options.input);
-  const text = await readFile(inputPath, 'utf8');
-  const extension = path.extname(inputPath).toLowerCase();
-
-  let rows;
-  if (extension === '.csv') {
-    rows = parseCsv(text);
-  } else if (extension === '.json') {
-    const parsed = JSON.parse(text);
-    rows = Array.isArray(parsed) ? parsed : parsed.products;
-  } else {
-    throw new Error('Input file must be .csv or .json.');
-  }
-
-  if (!Array.isArray(rows)) {
-    throw new Error('Input must contain product rows.');
-  }
-
-  return rows.map(validateProduct);
+function requestStop() {
+  if (stopRequested) return;
+  stopRequested = true;
+  console.error('Stop requested; finishing the current source and saving progress...');
 }
 
-function validateProduct(product) {
-  if (!product || typeof product !== 'object') {
-    throw new Error('Each product entry must be an object.');
-  }
-
-  const sourceUrl = emptyToNull(product.flipkart_url)
-    || emptyToNull(product.url)
-    || extractFlipkartUrl(product.notes);
-
-  if (!sourceUrl) {
-    throw new Error(`Missing Flipkart URL for product ${product.sku || product.product_id || product.id || '(unknown)'}.`);
-  }
-
-  const url = new URL(sourceUrl);
-  if (!/(^|\.)flipkart\.com$/i.test(url.hostname)) {
-    throw new Error(`Only flipkart.com product URLs are accepted: ${sourceUrl}`);
+function normalizeOptions(raw) {
+  const statuses = splitValues(raw.status);
+  const allowedStatuses = new Set(['queued', 'processing', 'success', 'partial', 'blocked', 'failed']);
+  for (const status of statuses) {
+    if (!allowedStatuses.has(status)) throw new Error(`Invalid --status value: ${status}`);
   }
 
   return {
-    product_id: emptyToNull(product.product_id ?? product.id),
-    sku: emptyToNull(product.sku),
-    name: emptyToNull(product.name),
-    parent_id: emptyToNull(product.parent_id),
-    notes: emptyToNull(product.notes),
-    url: url.toString()
+    input: raw.input,
+    url: raw.url,
+    sku: raw.sku,
+    productIds: splitValues(raw['product-id']),
+    statuses,
+    offset: integerOption('--offset', raw.offset, { minimum: 0 }),
+    limit: raw.limit == null ? null : integerOption('--limit', raw.limit, { minimum: 1 }),
+    delayMs: integerOption('--delay', raw.delay, { minimum: 0 }),
+    retryDelayMs: integerOption('--retry-delay', raw['retry-delay'], { minimum: 0 }),
+    maxAttempts: integerOption('--max-attempts', raw['max-attempts'], { minimum: 1, maximum: 10 }),
+    imageQuality: integerOption('--image-quality', raw['image-quality'], { minimum: 1, maximum: 100 }),
+    retryFailed: raw['retry-failed'],
+    force: raw.force,
+    downloadMedia: !raw['no-media'],
+    checkpointEvery: 25
   };
 }
 
-function extractFlipkartUrl(notes) {
-  if (typeof notes !== 'string' || notes.trim() === '') return null;
-
-  const match = notes.match(/https?:\/\/(?:[a-z0-9-]+\.)*flipkart\.com\/[^\s<>"']+/i);
-  if (!match) return null;
-
-  return match[0].replace(/[),.;]+$/, '');
+function splitValues(values) {
+  return values.flatMap((value) => value.split(',')).map((value) => value.trim()).filter(Boolean);
 }
 
-function emptyToNull(value) {
-  if (value == null) return null;
-  const normalized = String(value).trim();
-  return normalized === '' ? null : normalized;
-}
-
-async function writeManifest(outputRoot, results) {
-  await writeJson(path.join(outputRoot, 'manifest.json'), {
-    generated_at: new Date().toISOString(),
-    products: results
-  });
-}
-
-function positiveInteger(value, fallback) {
-  if (value == null) return fallback;
+function integerOption(name, value, { minimum, maximum = Number.MAX_SAFE_INTEGER }) {
+  if (!/^\d+$/.test(value)) throw new Error(`${name} must be an integer.`);
   const number = Number.parseInt(value, 10);
-  return Number.isFinite(number) && number > 0 ? number : fallback;
-}
-
-function nonNegativeInteger(value, fallback) {
-  const number = Number.parseInt(value, 10);
-  return Number.isFinite(number) && number >= 0 ? number : fallback;
-}
-
-function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
+  if (number < minimum || number > maximum) {
+    throw new Error(`${name} must be between ${minimum} and ${maximum}.`);
+  }
+  return number;
 }

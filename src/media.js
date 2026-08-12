@@ -59,18 +59,40 @@ export function canonicalizeVideoUrls(urls) {
   });
 }
 
-export async function downloadMedia({ context, sourceUrl, outputDir, candidates }) {
+export async function downloadMedia({ context, sourceUrl, outputDir, candidates, imageQuality = 100, enabled = true }) {
   const imagesDir = path.join(outputDir, 'assets', 'images');
   const videosDir = path.join(outputDir, 'assets', 'videos');
+
+  if (!enabled) {
+    return {
+      images: candidates.images.map((url) => ({
+        source_url: url,
+        download_url: normalizeImageQualityUrl(url, imageQuality),
+        local_path: null,
+        downloaded: false,
+        reason: 'media_disabled'
+      })),
+      videos: candidates.videos.map((url) => ({
+        source_url: url,
+        local_path: null,
+        downloaded: false,
+        reason: looksLikeStream(url) ? 'streaming_manifest' : 'media_disabled'
+      }))
+    };
+  }
+
   await ensureDir(imagesDir);
   await ensureDir(videosDir);
 
   const images = [];
   for (let index = 0; index < candidates.images.length; index += 1) {
+    const originalUrl = candidates.images[index];
+    const downloadUrl = normalizeImageQualityUrl(originalUrl, imageQuality);
     images.push(await downloadAsset({
       context,
       sourceUrl,
-      url: candidates.images[index],
+      url: downloadUrl,
+      originalUrl,
       outputDir: imagesDir,
       relativeDir: 'assets/images',
       basename: `image-${String(index + 1).padStart(3, '0')}`,
@@ -115,6 +137,7 @@ async function downloadAsset({
   context,
   sourceUrl,
   url,
+  originalUrl = url,
   outputDir,
   relativeDir,
   basename,
@@ -128,12 +151,12 @@ async function downloadAsset({
     });
 
     if (!response.ok()) {
-      return { source_url: url, local_path: null, downloaded: false, reason: `http_${response.status()}` };
+      return { source_url: originalUrl, download_url: url, local_path: null, downloaded: false, reason: `http_${response.status()}` };
     }
 
     const contentType = (response.headers()['content-type'] || '').split(';')[0].toLowerCase();
     if (allowedTypes.size && !allowedTypes.has(contentType)) {
-      return { source_url: url, local_path: null, downloaded: false, reason: `unsupported_content_type:${contentType || 'unknown'}` };
+      return { source_url: originalUrl, download_url: url, local_path: null, downloaded: false, reason: `unsupported_content_type:${contentType || 'unknown'}` };
     }
 
     const extension = extensionFrom(contentType, url) || fallbackExtension;
@@ -142,19 +165,31 @@ async function downloadAsset({
     await writeFile(absolutePath, await response.body());
 
     return {
-      source_url: url,
+      source_url: originalUrl,
+      download_url: url,
       local_path: `${relativeDir}/${filename}`,
       downloaded: true,
       content_type: contentType
     };
   } catch (error) {
     return {
-      source_url: url,
+      source_url: originalUrl,
+      download_url: url,
       local_path: null,
       downloaded: false,
       reason: error.message
     };
   }
+}
+
+export function normalizeImageQualityUrl(value, quality = 100) {
+  const url = new URL(value);
+  if (!/\.flixcart\.com$/i.test(url.hostname) || !/\/image\/\d+\/\d+\//i.test(url.pathname)) {
+    return url.toString();
+  }
+
+  url.searchParams.set('q', String(quality));
+  return url.toString();
 }
 
 function normalizeJsonLdImages(image) {

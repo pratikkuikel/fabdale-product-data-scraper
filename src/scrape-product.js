@@ -1,11 +1,15 @@
-import path from 'node:path';
 import { collectMediaCandidates, downloadMedia } from './media.js';
-import { ensureDir, safeName, writeJson } from './utils.js';
+import { ensureDir } from './utils.js';
 
-export async function scrapeProduct({ context, input, outputRoot }) {
-  const key = safeName(input.sku || input.product_id || 'product');
-  const productDir = path.join(outputRoot, key);
-  await ensureDir(productDir);
+export async function scrapeProduct({
+  context,
+  input,
+  outputDir,
+  imageQuality = 100,
+  downloadAssets = true,
+  resolveMedia = null
+}) {
+  await ensureDir(outputDir);
 
   const page = await context.newPage();
   const capturedMediaUrls = new Set();
@@ -25,13 +29,6 @@ export async function scrapeProduct({ context, input, outputRoot }) {
   });
 
   const baseResult = {
-    product_id: input.product_id ?? null,
-    sku: input.sku ?? null,
-    product: {
-      name: input.name ?? null,
-      parent_id: input.parent_id ?? null,
-      notes: input.notes ?? null
-    },
     source: {
       url: input.url,
       scraped_at: startedAt
@@ -73,12 +70,34 @@ export async function scrapeProduct({ context, input, outputRoot }) {
     const jsonLd = await extractProductJsonLd(page);
     const extracted = await extractProductContent(page, jsonLd);
     const mediaCandidates = await collectMediaCandidates(page, jsonLd, [...capturedMediaUrls]);
-    const media = await downloadMedia({
-      context,
-      sourceUrl: input.url,
-      outputDir: productDir,
-      candidates: mediaCandidates
-    });
+    const resolvedMedia = resolveMedia
+      ? await resolveMedia({
+        candidates: mediaCandidates,
+        imageQuality,
+        enabled: downloadAssets,
+        download: (mediaOutputDir, selectedCandidates = mediaCandidates) => downloadMedia({
+          context,
+          sourceUrl: input.url,
+          outputDir: mediaOutputDir,
+          candidates: selectedCandidates,
+          imageQuality,
+          enabled: downloadAssets
+        })
+      })
+      : {
+        bundle: null,
+        media: await downloadMedia({
+          context,
+          sourceUrl: input.url,
+          outputDir,
+          candidates: mediaCandidates,
+          imageQuality,
+          enabled: downloadAssets
+        })
+      };
+    const media = resolvedMedia.media;
+    const mediaFailures = [...media.images, ...media.videos]
+      .filter((item) => !item.downloaded && !['streaming_manifest', 'media_disabled'].includes(item.reason));
 
     const result = {
       ...baseResult,
@@ -87,18 +106,18 @@ export async function scrapeProduct({ context, input, outputRoot }) {
         final_url: page.url()
       },
       crawl: {
-        status: 'success',
-        error: null
+        status: mediaFailures.length > 0 ? 'partial' : 'success',
+        error: mediaFailures.length > 0 ? `${mediaFailures.length} media asset(s) failed to download` : null
       },
       content: extracted.content,
       media,
+      media_bundle: resolvedMedia.bundle,
       raw: {
         json_ld: jsonLd,
         dom: extracted.raw
       }
     };
 
-    await writeJson(path.join(productDir, 'product.json'), result);
     return result;
   } catch (error) {
     const result = {
@@ -108,12 +127,11 @@ export async function scrapeProduct({ context, input, outputRoot }) {
         final_url: page.url() || input.url
       },
       crawl: {
-        status: 'failed',
+        status: /page blocked or unavailable/i.test(error.message) ? 'blocked' : 'failed',
         error: error.message
       }
     };
 
-    await writeJson(path.join(productDir, 'product.json'), result);
     return result;
   } finally {
     await page.close();
@@ -220,8 +238,7 @@ async function extractProductContent(page, jsonLd) {
       description = pieces.sort((a, b) => b.length - a.length)[0] || null;
     }
 
-    const pairs = {};
-    const addPair = (key, value) => {
+    const addPair = (pairs, key, value) => {
       key = clean(key);
       value = clean(value);
       if (!key || !value || key === value || key.length > 100 || value.length > 200) return;
@@ -229,28 +246,31 @@ async function extractProductContent(page, jsonLd) {
       if (!pairs[key]) pairs[key] = value;
     };
 
+    const rawSpecifications = {};
+
     for (const row of document.querySelectorAll('table tr')) {
       const cells = [...row.querySelectorAll('th,td')].map(textOf).filter(Boolean);
-      if (cells.length >= 2) addPair(cells[0], cells.slice(1).join(' '));
+      if (cells.length >= 2) addPair(rawSpecifications, cells[0], cells.slice(1).join(' '));
     }
 
     for (const dt of document.querySelectorAll('dt')) {
-      addPair(textOf(dt), textOf(dt.nextElementSibling));
+      addPair(rawSpecifications, textOf(dt), textOf(dt.nextElementSibling));
     }
 
     const specsRoot = findHeadingContainer('Specifications');
     if (specsRoot) {
       for (const node of specsRoot.querySelectorAll('div')) {
         const directChildren = [...node.children].map(textOf).filter(Boolean);
-        if (directChildren.length === 2) addPair(directChildren[0], directChildren[1]);
+        if (directChildren.length === 2) addPair(rawSpecifications, directChildren[0], directChildren[1]);
       }
     }
 
+    const productHighlights = {};
     const productHighlightsRoot = findHeadingContainer('Product highlights');
     if (productHighlightsRoot) {
       for (const node of productHighlightsRoot.querySelectorAll('div')) {
         const directChildren = [...node.children].map(textOf).filter(Boolean);
-        if (directChildren.length === 2) addPair(directChildren[0], directChildren[1]);
+        if (directChildren.length === 2) addPair(productHighlights, directChildren[0], directChildren[1]);
       }
     }
 
@@ -297,13 +317,19 @@ async function extractProductContent(page, jsonLd) {
       meta_description: clean(metaDescription),
       highlights,
       description,
-      specifications: pairs,
+      product_highlights: productHighlights,
+      raw_specifications: rawSpecifications,
       description_sections: descriptionSections
     };
   });
 
   const jsonDescription = normalizeText(jsonLd?.description);
-  const shortDescription = formatHighlights(dom.highlights, dom.specifications);
+  return buildProductContent(dom, { ...jsonLd, description: jsonDescription });
+}
+
+export function buildProductContent(dom, jsonLd = null) {
+  const jsonDescription = normalizeText(jsonLd?.description);
+  const shortDescription = formatHighlights(dom.highlights, dom.product_highlights);
   const longDescription = formatDescriptionSections(dom.description_sections);
 
   return {
@@ -311,14 +337,15 @@ async function extractProductContent(page, jsonLd) {
       title: normalizeText(jsonLd?.name) || dom.title,
       short_description: shortDescription || dom.meta_description || jsonDescription,
       description: longDescription || dom.description || jsonDescription || dom.meta_description,
-      specifications: dom.specifications
+      specifications: dom.product_highlights
     },
     raw: {
       meta_description: dom.meta_description,
       highlights: dom.highlights,
       description: dom.description,
       description_sections: dom.description_sections,
-      specifications: dom.specifications
+      product_highlights: dom.product_highlights,
+      specifications: dom.raw_specifications
     }
   };
 }
