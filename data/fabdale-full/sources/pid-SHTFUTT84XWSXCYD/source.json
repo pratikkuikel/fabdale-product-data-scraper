@@ -1,0 +1,194 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/allen-solly-anti-bacterial-men-solid-casual-black-shirt/p/itm8efa9548294d5?pid=SHTFUTT84XWSXCYD&lid=LSTSHTFUTT84XWSXCYDVPCLFR&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_2_70&otracker=search&fm=Search&iid=9e40b7f7-2522-4a77-b15d-9fb3c8b9aa9c.SHTFUTT84XWSXCYD.SEARCH&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725",
+    "scraped_at": "2026-08-13T14:24:48.572Z",
+    "final_url": "https://www.flipkart.com/allen-solly-anti-bacterial-men-solid-casual-black-shirt/p/itm8efa9548294d5?pid=SHTFUTT84XWSXCYD&lid=LSTSHTFUTT84XWSXCYDVPCLFR&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_2_70&otracker=search&fm=Search&iid=9e40b7f7-2522-4a77-b15d-9fb3c8b9aa9c.SHTFUTT84XWSXCYD.SEARCH&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:25:03.240Z"
+  },
+  "content": {
+    "title": "Allen Solly Anti-Bacterial Men Solid Casual Black Shirt",
+    "short_description": "Color: Black\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "Styling Tips by Hiren, Fashion Influencer\nAdd character to your look with this crisp and classy shirt. Complement it with a pair of plain trou…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Cut Away",
+      "Color": "Black"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/3/8/-original-imahq62xnjmcgccv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/3/8/-original-imahq62xnjmcgccv.jpeg?q=100",
+        "local_path": "../../media/images/40c4dee92f154d3a0c15c2f2/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/l/m/-original-imahfjhrafdmaukc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/l/m/-original-imahfjhrafdmaukc.jpeg?q=100",
+        "local_path": "../../media/images/40c4dee92f154d3a0c15c2f2/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/7/r/-original-imahfjhrtzqj55dh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/7/r/-original-imahfjhrtzqj55dh.jpeg?q=100",
+        "local_path": "../../media/images/40c4dee92f154d3a0c15c2f2/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/o/a/-original-imahfjhrchdusqgg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/o/a/-original-imahfjhrchdusqgg.jpeg?q=100",
+        "local_path": "../../media/images/40c4dee92f154d3a0c15c2f2/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/c/0/-original-imahfjhrdatjzy2a.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/c/0/-original-imahfjhrdatjzy2a.jpeg?q=100",
+        "local_path": "../../media/images/40c4dee92f154d3a0c15c2f2/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNXFxiAf0ARGu5Ikm_EbP8pQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Allen Solly Anti-Bacterial Men Solid Casual Black Shirt",
+      "description": "Allen Solly Anti-Bacterial Men Solid Casual Black Shirt - Buy Allen Solly Anti-Bacterial Men Solid Casual Black Shirt For Only Rs. 1699.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/3/8/-original-imahq62xnjmcgccv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/l/m/-original-imahfjhrafdmaukc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/7/r/-original-imahfjhrtzqj55dh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/o/a/-original-imahfjhrchdusqgg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/c/0/-original-imahfjhrdatjzy2a.jpeg?q=70"
+      ],
+      "sku": "SHTFUTT84XWSXCYD",
+      "color": "Black",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 413,
+        "ratingCount": 5499,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Allen Solly",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 1087,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "JOHNNY KKK",
+            "@type": "Person"
+          },
+          "datePublished": "2021-05-13",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "MUHAMMED ANAS",
+            "@type": "Person"
+          },
+          "datePublished": "2020-11-08",
+          "reviewBody": "Goood",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Gajraj Gurjar",
+            "@type": "Person"
+          },
+          "datePublished": "2021-02-14",
+          "reviewBody": "Nice prodect.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Styling Tips by Hiren, Fashion Influencer",
+          "body": "Add character to your look with this crisp and classy shirt. Complement it with a pair of plain trou…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Cut Away",
+        "Color": "Black"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "40c4dee92f154d3a0c15c2f2",
+      "path": "media/images/40c4dee92f154d3a0c15c2f2/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "e61e2977c2f358ec26eac8bf",
+      "path": "media/videos/e61e2977c2f358ec26eac8bf/media.json",
+      "reused": false
+    }
+  }
+}

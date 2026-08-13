@@ -1,0 +1,194 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/roadster-men-solid-casual-green-shirt/p/itmf2193b28ba29e?pid=SHTFVPKYNG3ZDJZH&lid=LSTSHTFVPKYNG3ZDJZHEY71QF&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T14:28:43.493Z",
+    "final_url": "https://www.flipkart.com/roadster-men-solid-casual-green-shirt/p/itmf2193b28ba29e?pid=SHTFVPKYNG3ZDJZH&lid=LSTSHTFVPKYNG3ZDJZHEY71QF&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:28:53.472Z"
+  },
+  "content": {
+    "title": "Roadster Men Solid Casual Green Shirt",
+    "short_description": "Color: Green\nFabric: Pure Cotton\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Styling Tips by Abhishek, Fashion Influencer\nAdd character to your look with this crisp and classy shirt. Club it with a pair of chinos, slip-on …",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Green"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/s/l/r/44-11904106-roadster-original-imafvpjzwvvhbdej.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/s/l/r/44-11904106-roadster-original-imafvpjzwvvhbdej.jpeg?q=100",
+        "local_path": "../../media/images/ab193f2d776dc6e165fb3a36/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/6/q/u/44-11904106-roadster-original-imafvpjzgdtsbvft.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/6/q/u/44-11904106-roadster-original-imafvpjzgdtsbvft.jpeg?q=100",
+        "local_path": "../../media/images/ab193f2d776dc6e165fb3a36/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/5/2/g/44-11904106-roadster-original-imafvpjzrp8rxdfv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/5/2/g/44-11904106-roadster-original-imafvpjzrp8rxdfv.jpeg?q=100",
+        "local_path": "../../media/images/ab193f2d776dc6e165fb3a36/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/w/d/b/44-11904106-roadster-original-imafvpjzzv8eyxvq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/w/d/b/44-11904106-roadster-original-imafvpjzzv8eyxvq.jpeg?q=100",
+        "local_path": "../../media/images/ab193f2d776dc6e165fb3a36/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/o/8/m/44-11904106-roadster-original-imafvpjz9zetjavt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/o/8/m/44-11904106-roadster-original-imafvpjz9zetjavt.jpeg?q=100",
+        "local_path": "../../media/images/ab193f2d776dc6e165fb3a36/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN9_vNC65WRz2bJZkZAzhcIQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Roadster Men Solid Casual Green Shirt",
+      "description": "Roadster Men Solid Casual Green Shirt - Buy Roadster Men Solid Casual Green Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/s/l/r/44-11904106-roadster-original-imafvpjzwvvhbdej.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/6/q/u/44-11904106-roadster-original-imafvpjzgdtsbvft.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/5/2/g/44-11904106-roadster-original-imafvpjzrp8rxdfv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/w/d/b/44-11904106-roadster-original-imafvpjzzv8eyxvq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kf75fgw0-0/shirt/o/8/m/44-11904106-roadster-original-imafvpjz9zetjavt.jpeg?q=70"
+      ],
+      "sku": "SHTFVPKYNG3ZDJZH",
+      "color": "Green",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 48,
+        "ratingCount": 772,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Roadster",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 430,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Deepak kushwaha",
+            "@type": "Person"
+          },
+          "datePublished": "2022-04-15",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Mobi Fix",
+            "@type": "Person"
+          },
+          "datePublished": "2021-12-01",
+          "reviewBody": "Good fitings",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Venktesh Tiwari",
+            "@type": "Person"
+          },
+          "datePublished": "2022-03-15",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Styling Tips by Abhishek, Fashion Influencer",
+          "body": "Add character to your look with this crisp and classy shirt. Club it with a pair of chinos, slip-on …"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Green"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ab193f2d776dc6e165fb3a36",
+      "path": "media/images/ab193f2d776dc6e165fb3a36/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "619c6de4425d80bfb97d0d75",
+      "path": "media/videos/619c6de4425d80bfb97d0d75/media.json",
+      "reused": false
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/roadster-men-solid-casual-dark-blue-shirt/p/itme0461f1942f57?pid=SHTFG2HUK3BCPKKB&lid=LSTSHTFG2HUK3BCPKKBDEWG0Z&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T14:26:29.888Z",
+    "final_url": "https://www.flipkart.com/roadster-men-solid-casual-dark-blue-shirt/p/itme0461f1942f57?pid=SHTFG2HUK3BCPKKB&lid=LSTSHTFG2HUK3BCPKKBDEWG0Z&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:26:38.635Z"
+  },
+  "content": {
+    "title": "Roadster Men Solid Casual Dark Blue Shirt",
+    "short_description": "Color: Dark Blue\nFabric: Pure Cotton\nPattern: Solid\nSleeve: 3/4th Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Styling Tips by Siddhant, Fashion Influencer\nSophisticated in looks, this shirt is sure to elevate your style appeal. Style it with a pair of wel…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "3/4th Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Dark Blue"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/i/l/l-9713949-roadster-original-imahapcqb8pfuwsa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/i/l/l-9713949-roadster-original-imahapcqb8pfuwsa.jpeg?q=100",
+        "local_path": "../../media/images/fd98596ae398c1b27eab0544/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/y/g/l-9713949-roadster-original-imahapcqarx7avht.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/y/g/l-9713949-roadster-original-imahapcqarx7avht.jpeg?q=100",
+        "local_path": "../../media/images/fd98596ae398c1b27eab0544/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/t/p/l-9713949-roadster-original-imahapcqzgfymfkf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/t/p/l-9713949-roadster-original-imahapcqzgfymfkf.jpeg?q=100",
+        "local_path": "../../media/images/fd98596ae398c1b27eab0544/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/q/v/l-9713949-roadster-original-imahapcqghgfkt2z.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/q/v/l-9713949-roadster-original-imahapcqghgfkt2z.jpeg?q=100",
+        "local_path": "../../media/images/fd98596ae398c1b27eab0544/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/y/u/l-9713949-roadster-original-imahapcqwjqfgzzb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/y/u/l-9713949-roadster-original-imahapcqwjqfgzzb.jpeg?q=100",
+        "local_path": "../../media/images/fd98596ae398c1b27eab0544/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Roadster Men Solid Casual Dark Blue Shirt",
+      "description": "Roadster Men Solid Casual Dark Blue Shirt - Buy Roadster Men Solid Casual Dark Blue Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/i/l/l-9713949-roadster-original-imahapcqb8pfuwsa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/y/g/l-9713949-roadster-original-imahapcqarx7avht.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/t/p/l-9713949-roadster-original-imahapcqzgfymfkf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/q/v/l-9713949-roadster-original-imahapcqghgfkt2z.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/y/u/l-9713949-roadster-original-imahapcqwjqfgzzb.jpeg?q=70"
+      ],
+      "sku": "SHTFG2HUK3BCPKKB",
+      "color": "Navy Blue",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 118,
+        "ratingCount": 1843,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Roadster",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 435,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2021-11-04",
+          "reviewBody": "Nice shirt 😊😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fair",
+          "author": {
+            "name": "Prashant Garg",
+            "@type": "Person"
+          },
+          "datePublished": "2022-09-19",
+          "reviewBody": "Fitting is Great but the shirts are not 100% Cotton.. Roadster needs to be slight honest with their Customers..",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Ajay Gh",
+            "@type": "Person"
+          },
+          "datePublished": "2021-09-05",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Styling Tips by Siddhant, Fashion Influencer",
+          "body": "Sophisticated in looks, this shirt is sure to elevate your style appeal. Style it with a pair of wel…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "3/4th Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Dark Blue"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "fd98596ae398c1b27eab0544",
+      "path": "media/images/fd98596ae398c1b27eab0544/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

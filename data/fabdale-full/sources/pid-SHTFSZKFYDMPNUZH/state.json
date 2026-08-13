@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-SHTFSZKFYDMPNUZH",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2355",
+    "2356",
+    "2357",
+    "2358",
+    "2359"
+  ],
+  "source_path": "sources/pid-SHTFSZKFYDMPNUZH/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:18:52.157Z",
+  "completed_at": "2026-08-13T14:19:03.750Z"
+}

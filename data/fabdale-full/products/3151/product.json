@@ -1,0 +1,159 @@
+{
+  "product_id": "3151",
+  "sku": "Fab-TShirt-KAJR-008WH-M",
+  "product": {
+    "name": "Kavish Vertical geometric Print T-Shirt",
+    "parent_id": "5197",
+    "notes": "https://www.flipkart.com/kajaru-striped-men-round-neck-white-t-shirt/p/itmf53031183c75c?pid=TSHGU7Z6W9HT2YZQ&lid=LSTTSHGU7Z6W9HT2YZQJTWHXX&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHGU7Z6W9HT2YZQ",
+    "path": "../../sources/pid-TSHGU7Z6W9HT2YZQ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-round-neck-white-t-shirt/p/itmf53031183c75c?pid=TSHGU7Z6W9HT2YZQ&lid=LSTTSHGU7Z6W9HT2YZQJTWHXX&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T15:34:08.480Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-round-neck-white-t-shirt/p/itmf53031183c75c?pid=TSHGU7Z6W9HT2YZQ&lid=LSTTSHGU7Z6W9HT2YZQJTWHXX&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:34:21.100Z"
+  },
+  "content": {
+    "title": "KAJARU Striped Men Round Neck White T-Shirt",
+    "short_description": "KAJARU Striped Men Round Neck White T-Shirt - Buy KAJARU Striped Men Round Neck White T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "KAJARU Striped Men Round Neck White T-Shirt - Buy KAJARU Striped Men Round Neck White T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "2cd1b4d37711fdba46a16cc7",
+      "path": "media/images/2cd1b4d37711fdba46a16cc7/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/q/r/m-tsrt-catalog-03-makemode-original-imagh99zwzshg7n4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/q/r/m-tsrt-catalog-03-makemode-original-imagh99zwzshg7n4.jpeg?q=100",
+        "local_path": "../../media/images/2cd1b4d37711fdba46a16cc7/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/4/3/m-tsrt-catalog-03-makemode-original-imagh65xad76qxym.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/4/3/m-tsrt-catalog-03-makemode-original-imagh65xad76qxym.jpeg?q=100",
+        "local_path": "../../media/images/2cd1b4d37711fdba46a16cc7/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/5/k/m-tsrt-catalog-03-makemode-original-imagh8qxqkxkfxvk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/5/k/m-tsrt-catalog-03-makemode-original-imagh8qxqkxkfxvk.jpeg?q=100",
+        "local_path": "../../media/images/2cd1b4d37711fdba46a16cc7/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Striped Men Round Neck White T-Shirt",
+      "description": "KAJARU Striped Men Round Neck White T-Shirt - Buy KAJARU Striped Men Round Neck White T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/q/r/m-tsrt-catalog-03-makemode-original-imagh99zwzshg7n4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/4/3/m-tsrt-catalog-03-makemode-original-imagh65xad76qxym.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/5/k/m-tsrt-catalog-03-makemode-original-imagh8qxqkxkfxvk.jpeg?q=70"
+      ],
+      "sku": "TSHGU7Z6W9HT2YZQ",
+      "color": "WHITE01",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 7155,
+        "ratingCount": 154709,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 164,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Suman Gorai",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-22",
+          "reviewBody": "Best in look and quality 👍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "JAGDAMBA  MOBILE",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-28",
+          "reviewBody": "Good quality 🤗",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-13",
+          "reviewBody": "Nice product...soft and good quality fabric...for use in summer...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source_key": "pid-SHTGG22PS3HBPTKF",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2658",
+    "2659",
+    "2660",
+    "2661",
+    "2662",
+    "5503",
+    "6440"
+  ],
+  "source_path": "sources/pid-SHTGG22PS3HBPTKF/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:35:09.325Z",
+  "completed_at": "2026-08-13T14:35:19.170Z"
+}

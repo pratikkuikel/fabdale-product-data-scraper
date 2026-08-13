@@ -1,0 +1,44 @@
+{
+  "key": "05fc1918d699eedff7fca292",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T11:24:20.752Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/u/v/xl-jdw-x09-metronaut-original-imagzek9yv4hqky8.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/u/v/xl-jdw-x09-metronaut-original-imagzek9yv4hqky8.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/h/b/xl-jdw-x09-metronaut-original-imagzek9zzfhjwgt.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/h/b/xl-jdw-x09-metronaut-original-imagzek9zzfhjwgt.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/k/y/xl-jdw-x09-metronaut-original-imagzek956khhgcv.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/k/y/xl-jdw-x09-metronaut-original-imagzek956khhgcv.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/2/7/xl-jdw-x09-metronaut-original-imagzek9zasz8qhy.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/2/7/xl-jdw-x09-metronaut-original-imagzek9zasz8qhy.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/h/n/xl-jdw-x09-metronaut-original-imagzek9ryg7fd3y.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/h/n/xl-jdw-x09-metronaut-original-imagzek9ryg7fd3y.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

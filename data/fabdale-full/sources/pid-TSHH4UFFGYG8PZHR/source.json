@@ -1,0 +1,137 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/makemode-printed-men-round-neck-green-t-shirt/p/itmc94720fb015d9?pid=TSHH4UFFGYG8PZHR&marketplace=FLIPKART&lid=LSTTSHH4UFFGYG8PZHRHV4GD0&swatchAttr=size&pageUID=1773046333909",
+    "scraped_at": "2026-08-13T15:37:25.638Z",
+    "final_url": "https://www.flipkart.com/makemode-printed-men-round-neck-green-t-shirt/p/itmc94720fb015d9?pid=TSHH4UFFGYG8PZHR&marketplace=FLIPKART&lid=LSTTSHH4UFFGYG8PZHRHV4GD0&swatchAttr=size&pageUID=1773046333909"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:37:38.011Z"
+  },
+  "content": {
+    "title": "MAKEMODE Men Printed Round Neck Polycotton Green T-Shirt",
+    "short_description": "Fabric: Polycotton\nPattern: Printed\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": null,
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polycotton",
+      "Neck Type": "Round Neck",
+      "Pattern": "Printed"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/x/l/2/m-oversizetsrt-101-makemode-original-imah4ufy9grdxxkw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/x/l/2/m-oversizetsrt-101-makemode-original-imah4ufy9grdxxkw.jpeg?q=100",
+        "local_path": "../../media/images/1239ef705102d19efc50a059/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/3/g/c/m-oversizetsrt-101-makemode-original-imah4ufy9h3wznuz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/3/g/c/m-oversizetsrt-101-makemode-original-imah4ufy9h3wznuz.jpeg?q=100",
+        "local_path": "../../media/images/1239ef705102d19efc50a059/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/9/g/n/m-oversizetsrt-101-makemode-original-imah4ufy935fjnfz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/9/g/n/m-oversizetsrt-101-makemode-original-imah4ufy935fjnfz.jpeg?q=100",
+        "local_path": "../../media/images/1239ef705102d19efc50a059/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/t/m/s/m-oversizetsrt-101-makemode-original-imah4ufyzz2uubkv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/t/m/s/m-oversizetsrt-101-makemode-original-imah4ufyzz2uubkv.jpeg?q=100",
+        "local_path": "../../media/images/1239ef705102d19efc50a059/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-t-shirt/7/o/t/3xl-sy-cl-ts-405-whitecml-bold-view-original-imahn826j4ehatyp.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-t-shirt/7/o/t/3xl-sy-cl-ts-405-whitecml-bold-view-original-imahn826j4ehatyp.jpeg?q=100",
+        "local_path": "../../media/images/1239ef705102d19efc50a059/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/v/f/y/xl-pockett-mario-combraided-original-imahnz4fhf4sd4en.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/v/f/y/xl-pockett-mario-combraided-original-imahnz4fhf4sd4en.jpeg?q=100",
+        "local_path": "../../media/images/1239ef705102d19efc50a059/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/h/o/i/l-tag-rise-001-tagglio-original-imahpsg9drvwacfd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/h/o/i/l-tag-rise-001-tagglio-original-imahpsg9drvwacfd.jpeg?q=100",
+        "local_path": "../../media/images/1239ef705102d19efc50a059/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/3/6/o/xl-jtp-jetblack-joven-original-imah6a7g2yzyrxfq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/3/6/o/xl-jtp-jetblack-joven-original-imah6a7g2yzyrxfq.jpeg?q=100",
+        "local_path": "../../media/images/1239ef705102d19efc50a059/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/v/i/l-pentagon-combo-upliftx-original-imahh4kqyh8kguxk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/v/i/l-pentagon-combo-upliftx-original-imahh4kqyh8kguxk.jpeg?q=100",
+        "local_path": "../../media/images/1239ef705102d19efc50a059/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/4/l/l-jtp-lilac-joven-original-imah4nhgtuyq6szn.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/4/l/l-jtp-lilac-joven-original-imah4nhgtuyq6szn.jpeg?q=100",
+        "local_path": "../../media/images/1239ef705102d19efc50a059/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/m/q/xxl-ec-abje8-stp-maxzone-original-imahgekqj8fuqzfx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/m/q/xxl-ec-abje8-stp-maxzone-original-imahgekqj8fuqzfx.jpeg?q=100",
+        "local_path": "../../media/images/1239ef705102d19efc50a059/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/9/p/h/l-grn01-newsingh-resized-original-imaheguqtu6vekgj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/9/p/h/l-grn01-newsingh-resized-original-imaheguqtu6vekgj.jpeg?q=100",
+        "local_path": "../../media/images/1239ef705102d19efc50a059/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polycotton",
+        "Neck Type": "Round Neck",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1239ef705102d19efc50a059",
+      "path": "media/images/1239ef705102d19efc50a059/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-TSHHCYNMZYGDN46F",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3235",
+    "3236",
+    "3237",
+    "3238",
+    "3239"
+  ],
+  "source_path": "sources/pid-TSHHCYNMZYGDN46F/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T15:52:33.621Z",
+  "completed_at": "2026-08-13T15:52:48.779Z"
+}

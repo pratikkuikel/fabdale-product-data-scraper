@@ -1,0 +1,22 @@
+{
+  "source_key": "pid-TSHGRK3SQZXKBYQQ",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3175",
+    "3176",
+    "3179",
+    "3180",
+    "3181",
+    "3182",
+    "3183",
+    "3184"
+  ],
+  "source_path": "sources/pid-TSHGRK3SQZXKBYQQ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T15:39:02.752Z",
+  "completed_at": "2026-08-13T15:39:19.575Z"
+}

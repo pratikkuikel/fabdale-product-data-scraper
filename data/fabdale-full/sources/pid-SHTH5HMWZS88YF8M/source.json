@@ -1,0 +1,190 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-maroon-shirt/p/itme421b51e1896d?pid=SHTH5HMWZS88YF8M&marketplace=FLIPKART&lid=LSTSHTH5HMWZS88YF8MB8P47T&swatchAttr=size&pageUID=1773393855778",
+    "scraped_at": "2026-08-13T11:15:55.667Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-maroon-shirt/p/itme421b51e1896d?pid=SHTH5HMWZS88YF8M&marketplace=FLIPKART&lid=LSTSHTH5HMWZS88YF8MB8P47T&swatchAttr=size&pageUID=1773393855778"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:15:59.913Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Solid Casual Maroon Shirt",
+    "short_description": "Color: Maroon\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Half Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "METRONAUT Men Solid Casual Maroon Shirt - Buy METRONAUT Men Solid Casual Maroon Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Half Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Maroon"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/z/c/xxl-popcorn-shirts-statue-metronaut-resized-original-imah6ukq7zzatpuh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/z/c/xxl-popcorn-shirts-statue-metronaut-resized-original-imah6ukq7zzatpuh.jpeg?q=100",
+        "local_path": "../../media/images/c3019580da47598d7928ddec/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/n/p/xxl-popcorn-shirts-statue-metronaut-original-imah6ukq887shzdd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/n/p/xxl-popcorn-shirts-statue-metronaut-original-imah6ukq887shzdd.jpeg?q=100",
+        "local_path": "../../media/images/c3019580da47598d7928ddec/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/l/d/xxl-popcorn-shirts-statue-metronaut-original-imah6ukq2w5ksjt7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/l/d/xxl-popcorn-shirts-statue-metronaut-original-imah6ukq2w5ksjt7.jpeg?q=100",
+        "local_path": "../../media/images/c3019580da47598d7928ddec/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/k/r/xxl-popcorn-shirts-statue-metronaut-original-imah6ukqs9pxyazw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/k/r/xxl-popcorn-shirts-statue-metronaut-original-imah6ukqs9pxyazw.jpeg?q=100",
+        "local_path": "../../media/images/c3019580da47598d7928ddec/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/k/c/xxl-popcorn-shirts-statue-metronaut-original-imah6ukqcwnc278n.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/k/c/xxl-popcorn-shirts-statue-metronaut-original-imah6ukqcwnc278n.jpeg?q=100",
+        "local_path": "../../media/images/c3019580da47598d7928ddec/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual Maroon Shirt",
+      "description": "METRONAUT Men Solid Casual Maroon Shirt - Buy METRONAUT Men Solid Casual Maroon Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/z/c/xxl-popcorn-shirts-statue-metronaut-resized-original-imah6ukq7zzatpuh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/n/p/xxl-popcorn-shirts-statue-metronaut-original-imah6ukq887shzdd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/l/d/xxl-popcorn-shirts-statue-metronaut-original-imah6ukq2w5ksjt7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/k/r/xxl-popcorn-shirts-statue-metronaut-original-imah6ukqs9pxyazw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/k/c/xxl-popcorn-shirts-statue-metronaut-original-imah6ukqcwnc278n.jpeg?q=70"
+      ],
+      "sku": "SHTH5HMWZS88YF8M",
+      "color": "Maroon",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 246,
+        "ratingCount": 7095,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 236,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "MD AFTAB RAZI",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-16",
+          "reviewBody": "Thanks for Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Jyotishna Dutta phukan",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-25",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Nikhil Negi",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-05",
+          "reviewBody": "Great product in this price of range... Loved it❤️",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Maroon"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c3019580da47598d7928ddec",
+      "path": "media/images/c3019580da47598d7928ddec/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

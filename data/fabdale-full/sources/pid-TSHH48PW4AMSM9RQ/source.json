@@ -1,0 +1,204 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-round-neck-grey-t-shirt/p/itm0329aa8da8de3?pid=TSHH48PW4AMSM9RQ&marketplace=FLIPKART&lid=LSTTSHH48PW4AMSM9RQP59WJV&swatchAttr=size&pageUID=1772902121989",
+    "scraped_at": "2026-08-13T15:23:04.641Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-round-neck-grey-t-shirt/p/itm0329aa8da8de3?pid=TSHH48PW4AMSM9RQ&marketplace=FLIPKART&lid=LSTTSHH48PW4AMSM9RQP59WJV&swatchAttr=size&pageUID=1772902121989"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:23:20.137Z"
+  },
+  "content": {
+    "title": "KAJARU Men Striped Round Neck Polyester Grey T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Striped\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "Classic Striped Design\nThis men's T-shirt features a classic striped design on the front panel, adding a timeless touch to …\n\nSoft Polyester Fabric\nCrafted from high-quality polyester fabric, this T-shirt offers a soft and comfortable feel against …\n\nStylish Short Sleeves\nDesigned with short sleeves, this T-shirt provides a casual and laid-back look, perfect for everyday…\n\nVersatile Round Neck Style\nFeaturing a classic round neck design, this T-shirt offers a versatile style that complements variou…\n\nEasy Fabric Care\nWith regular machine wash care instructions, maintaining this T-shirt is hassle-free. Simply follow …",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Striped"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/z/t/o/m-tsrt-catalog-03-kajaru-original-imah48pvh3nzu2gu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/z/t/o/m-tsrt-catalog-03-kajaru-original-imah48pvh3nzu2gu.jpeg?q=100",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/y/d/7/m-tsrt-catalog-03-kajaru-original-imah48pvbsbmekvs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/y/d/7/m-tsrt-catalog-03-kajaru-original-imah48pvbsbmekvs.jpeg?q=100",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/r/f/m/m-tsrt-catalog-03-kajaru-original-imah48pv4kaez2hj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/r/f/m/m-tsrt-catalog-03-kajaru-original-imah48pv4kaez2hj.jpeg?q=100",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/l/u/w/m-tsrt-catalog-03-kajaru-original-imah48pvqhzh5jqx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/l/u/w/m-tsrt-catalog-03-kajaru-original-imah48pvqhzh5jqx.jpeg?q=100",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a6504670b41c4108bf487bd5688e3f8b.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a6504670b41c4108bf487bd5688e3f8b.jpg?q=80",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_4c3fa37d0cc7414484e01bb2478a4351.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_4c3fa37d0cc7414484e01bb2478a4351.jpg?q=80",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_5b580085fd7d473185e3cb9233d6ee2b.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_5b580085fd7d473185e3cb9233d6ee2b.jpg?q=80",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_6aab99a3a5bf4376ac26a6dc8de3635c.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_6aab99a3a5bf4376ac26a6dc8de3635c.jpg?q=80",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_c808c10ab3be4bbfb067aa773062d589.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_c808c10ab3be4bbfb067aa773062d589.jpg?q=80",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/x/6/9/l-ni120n-nook-original-imahnhp3ng5k4an9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/x/6/9/l-ni120n-nook-original-imahnhp3ng5k4an9.jpeg?q=100",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/c/n/s-u2s7kd0ztt-try-this-original-imahkg9umd4qjjhc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/c/n/s-u2s7kd0ztt-try-this-original-imahkg9umd4qjjhc.jpeg?q=100",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/2/u/6/xl-t-shirt-05-magneto-original-imahhfhp6xayzyrc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/2/u/6/xl-t-shirt-05-magneto-original-imahhfhp6xayzyrc.jpeg?q=100",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/b/a/m-t-s-301-wereko-original-imahktfuqtvajta2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/b/a/m-t-s-301-wereko-original-imahktfuqtvajta2.jpeg?q=100",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/o/y/d/-original-imahjzpvk45xggxh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/o/y/d/-original-imahjzpvk45xggxh.jpeg?q=100",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/p/u/xxl-tsrt-catalog-01-kajaru-resized-original-imagk49cgwsfcf33.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/p/u/xxl-tsrt-catalog-01-kajaru-resized-original-imagk49cgwsfcf33.jpeg?q=100",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/v/i/s/s-tsrt-catalog-03-kajaru-resized-original-imagqmy7khm5qgwu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/v/i/s/s-tsrt-catalog-03-kajaru-resized-original-imagqmy7khm5qgwu.jpeg?q=100",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/k/m/m-nook108-onion-nook-resized-original-imahj3bjzxmsuwxg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/k/m/m-nook108-onion-nook-resized-original-imahj3bjzxmsuwxg.jpeg?q=100",
+        "local_path": "../../media/images/b4b9fc75248e8c4139d7c3f4/assets/images/image-017.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN5st2FxvbRfGUcTwZ5sHCrQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Striped Design",
+          "body": "This men's T-shirt features a classic striped design on the front panel, adding a timeless touch to …"
+        },
+        {
+          "heading": "Soft Polyester Fabric",
+          "body": "Crafted from high-quality polyester fabric, this T-shirt offers a soft and comfortable feel against …"
+        },
+        {
+          "heading": "Stylish Short Sleeves",
+          "body": "Designed with short sleeves, this T-shirt provides a casual and laid-back look, perfect for everyday…"
+        },
+        {
+          "heading": "Versatile Round Neck Style",
+          "body": "Featuring a classic round neck design, this T-shirt offers a versatile style that complements variou…"
+        },
+        {
+          "heading": "Easy Fabric Care",
+          "body": "With regular machine wash care instructions, maintaining this T-shirt is hassle-free. Simply follow …"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Striped"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b4b9fc75248e8c4139d7c3f4",
+      "path": "media/images/b4b9fc75248e8c4139d7c3f4/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "acdba1ada1f2c9aa283f308f",
+      "path": "media/videos/acdba1ada1f2c9aa283f308f/media.json",
+      "reused": false
+    }
+  }
+}

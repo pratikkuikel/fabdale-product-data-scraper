@@ -1,0 +1,180 @@
+{
+  "product_id": "2104",
+  "sku": "Fab-Shirt-METR-012BL-S",
+  "product": {
+    "name": "Metronex Lycra Blend Shirt",
+    "parent_id": "5269",
+    "notes": "https://www.flipkart.com/metronaut-men-printed-casual-multicolor-shirt/p/itm509117624e5c3?pid=SHTH27M2YS7JMYVF&marketplace=FLIPKART&lid=LSTSHTH27M2YS7JMYVFX4M8LR&swatchAttr=size&pageUID=1773314315934"
+  },
+  "source_bundle": {
+    "key": "pid-SHTH27M2YS7JMYVF",
+    "path": "../../sources/pid-SHTH27M2YS7JMYVF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-printed-casual-multicolor-shirt/p/itm509117624e5c3?pid=SHTH27M2YS7JMYVF&marketplace=FLIPKART&lid=LSTSHTH27M2YS7JMYVFX4M8LR&swatchAttr=size&pageUID=1773314315934",
+    "scraped_at": "2026-08-13T11:13:14.699Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-printed-casual-multicolor-shirt/p/itm509117624e5c3?pid=SHTH27M2YS7JMYVF&marketplace=FLIPKART&lid=LSTSHTH27M2YS7JMYVFX4M8LR&swatchAttr=size&pageUID=1773314315934"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:13:20.686Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Regular Fit Printed Spread Collar Casual Shirt",
+    "short_description": "Color: Multicolor\nFabric: Lycra Blend\nPattern: Printed\nSleeve: Half Sleeve\nPack of: 1\nCollar: Spread",
+    "description": null,
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Lycra Blend",
+      "Sleeve": "Half Sleeve",
+      "Pattern": "Printed",
+      "Collar": "Spread",
+      "Color": "Multicolor"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "248fdde1276aa4bd354be07a",
+      "path": "media/images/248fdde1276aa4bd354be07a/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-shirt/t/r/o/m-vd-79-m-vdlooks-original-imah226fgsb8hcgk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-shirt/t/r/o/m-vd-79-m-vdlooks-original-imah226fgsb8hcgk.jpeg?q=100",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-shirt/k/d/f/m-vd-79-m-vdlooks-original-imah226fqxkmgq7g.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-shirt/k/d/f/m-vd-79-m-vdlooks-original-imah226fqxkmgq7g.jpeg?q=100",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-shirt/d/y/1/m-vd-79-m-vdlooks-original-imah226fzyukgjhd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-shirt/d/y/1/m-vd-79-m-vdlooks-original-imah226fzyukgjhd.jpeg?q=100",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_23592988e3bc45339ba6d4dea9d7cd69.png?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_23592988e3bc45339ba6d4dea9d7cd69.png?q=80",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-004.png",
+        "downloaded": true,
+        "content_type": "image/png"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a50a754c0e71468998ee78d971fcf94d.png?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a50a754c0e71468998ee78d971fcf94d.png?q=80",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-005.png",
+        "downloaded": true,
+        "content_type": "image/png"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_ed764154af764f8c9359c22fd83e55b0.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_ed764154af764f8c9359c22fd83e55b0.jpg?q=80",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_af7312041a8e4276b3c626303229cd5b.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_af7312041a8e4276b3c626303229cd5b.jpg?q=80",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_766f941275954d33ba0540eb223dc0e0.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_766f941275954d33ba0540eb223dc0e0.jpg?q=80",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/5/v/f/xxl-mpf-15c-metronaut-original-imahgaguacsdxz2r.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/5/v/f/xxl-mpf-15c-metronaut-original-imahgaguacsdxz2r.jpeg?q=100",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/x/m/u/m-mhs-1301-green-metronaut-resized-original-imahbqrvzzdvy3pe.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/x/m/u/m-mhs-1301-green-metronaut-resized-original-imahbqrvzzdvy3pe.jpeg?q=100",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/9/g/f/xxl-02-formal-shirts-metronaut-original-imahpr4jstetthz2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/9/g/f/xxl-02-formal-shirts-metronaut-original-imahpr4jstetthz2.jpeg?q=100",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/3/b/k/xl-nb-sh-fsn-original-imahc4edee2s9gcq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/3/b/k/xl-nb-sh-fsn-original-imahc4edee2s9gcq.jpeg?q=100",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/k/s/g/s-mhs-1002-metronaut-resized-original-imah2hvhjwx3ecee.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/k/s/g/s-mhs-1002-metronaut-resized-original-imah2hvhjwx3ecee.jpeg?q=100",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/k/r/e/l-mt-formal-shirt-metronaut-original-imagwkc7rkmzjewg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/k/r/e/l-mt-formal-shirt-metronaut-original-imagwkc7rkmzjewg.jpeg?q=100",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/p/q/e/l-half-shade-design-florix-original-imahdtp28yts4sma.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/p/q/e/l-half-shade-design-florix-original-imahdtp28yts4sma.jpeg?q=100",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/z/p/0/m-mhs-1002-metronaut-resized-original-imah2hvhknksrkzk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/z/p/0/m-mhs-1002-metronaut-resized-original-imah2hvhknksrkzk.jpeg?q=100",
+        "local_path": "../../media/images/248fdde1276aa4bd354be07a/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Lycra Blend",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Printed",
+        "Collar": "Spread",
+        "Color": "Multicolor"
+      },
+      "specifications": {}
+    }
+  }
+}

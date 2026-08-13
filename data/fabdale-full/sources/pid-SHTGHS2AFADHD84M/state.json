@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SHTGHS2AFADHD84M",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2236"
+  ],
+  "source_path": "sources/pid-SHTGHS2AFADHD84M/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T11:25:37.599Z",
+  "completed_at": "2026-08-13T11:25:42.117Z"
+}

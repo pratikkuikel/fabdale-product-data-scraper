@@ -1,0 +1,197 @@
+{
+  "product_id": "2631",
+  "sku": "Fab-Shirt-ROAD-025BL-L",
+  "product": {
+    "name": "Roxter Gingham-style check Shirt",
+    "parent_id": "5498",
+    "notes": "https://www.flipkart.com/roadster-men-checkered-casual-dark-blue-shirt/p/itme67c3a72f5980?pid=SHTFPHG69XE5GWCC&lid=LSTSHTFPHG69XE5GWCCOAPGBF&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SHTFPHG69XE5GWCC",
+    "path": "../../sources/pid-SHTFPHG69XE5GWCC/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/roadster-men-checkered-casual-dark-blue-shirt/p/itme67c3a72f5980?pid=SHTFPHG69XE5GWCC&lid=LSTSHTFPHG69XE5GWCCOAPGBF&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T14:30:43.460Z",
+    "final_url": "https://www.flipkart.com/roadster-men-checkered-casual-dark-blue-shirt/p/itme67c3a72f5980?pid=SHTFPHG69XE5GWCC&lid=LSTSHTFPHG69XE5GWCCOAPGBF&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:30:55.457Z"
+  },
+  "content": {
+    "title": "Roadster Men Checkered Casual Dark Blue Shirt",
+    "short_description": "Color: Dark Blue\nFabric: Pure Cotton\nPattern: Checkered\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Styling Tips by Siddhant, Fashion Influencer\nBoth classy and stylish, this shirt is a must-have in every modern man's wardrobe. Put together your…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Checkered",
+      "Collar": "Spread",
+      "Color": "Dark Blue"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0564da99f98b9e76aff05c25",
+      "path": "media/images/0564da99f98b9e76aff05c25/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "3e1e5b505d312e282cbfb46d",
+      "path": "media/videos/3e1e5b505d312e282cbfb46d/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/g/d/z/44-10944918-roadster-original-imafphhb5htzcsgj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/g/d/z/44-10944918-roadster-original-imafphhb5htzcsgj.jpeg?q=100",
+        "local_path": "../../media/images/0564da99f98b9e76aff05c25/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/g/d/z/44-10944918-roadster-original-imafphhbnrus3rgn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/g/d/z/44-10944918-roadster-original-imafphhbnrus3rgn.jpeg?q=100",
+        "local_path": "../../media/images/0564da99f98b9e76aff05c25/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/g/d/z/44-10944918-roadster-original-imafphhbctbpsybt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/g/d/z/44-10944918-roadster-original-imafphhbctbpsybt.jpeg?q=100",
+        "local_path": "../../media/images/0564da99f98b9e76aff05c25/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/g/d/z/44-10944918-roadster-original-imafphhcsdbq5fwn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/g/d/z/44-10944918-roadster-original-imafphhcsdbq5fwn.jpeg?q=100",
+        "local_path": "../../media/images/0564da99f98b9e76aff05c25/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNiIEgjn1CTHK3abNZBDRfUQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Roadster Men Checkered Casual Dark Blue Shirt",
+      "description": "Roadster Men Checkered Casual Dark Blue Shirt - Buy Roadster Men Checkered Casual Dark Blue Shirt For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/g/d/z/44-10944918-roadster-original-imafphhb5htzcsgj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/g/d/z/44-10944918-roadster-original-imafphhbnrus3rgn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/g/d/z/44-10944918-roadster-original-imafphhbctbpsybt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/g/d/z/44-10944918-roadster-original-imafphhcsdbq5fwn.jpeg?q=70"
+      ],
+      "sku": "SHTFPHG69XE5GWCC",
+      "color": "Navy Blue",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 105,
+        "ratingCount": 1646,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Roadster",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 513,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Ajin Thomas",
+            "@type": "Person"
+          },
+          "datePublished": "2022-02-09",
+          "reviewBody": "nice shirt",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Venkat Saahu",
+            "@type": "Person"
+          },
+          "datePublished": "2022-01-05",
+          "reviewBody": "Awesome",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Sraban kumar  kandhpan",
+            "@type": "Person"
+          },
+          "datePublished": "2021-06-28",
+          "reviewBody": "Nice shirt.. I like it",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Styling Tips by Siddhant, Fashion Influencer",
+          "body": "Both classy and stylish, this shirt is a must-have in every modern man's wardrobe. Put together your…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Collar": "Spread",
+        "Color": "Dark Blue"
+      },
+      "specifications": {}
+    }
+  }
+}

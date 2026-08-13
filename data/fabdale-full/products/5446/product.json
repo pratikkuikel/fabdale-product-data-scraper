@@ -1,0 +1,205 @@
+{
+  "product_id": "5446",
+  "sku": null,
+  "product": {
+    "name": "Havric Geometric leaf print shirt",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/highlander-men-printed-casual-black-shirt/p/itm35d144b09bcdc?pid=SHTGCGZQH8JYAMQP&lid=LSTSHTGCGZQH8JYAMQPBEZDU0&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGCGZQH8JYAMQP",
+    "path": "../../sources/pid-SHTGCGZQH8JYAMQP/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/highlander-men-printed-casual-black-shirt/p/itm35d144b09bcdc?pid=SHTGCGZQH8JYAMQP&marketplace=FLIPKART&lid=LSTSHTGCGZQH8JYAMQPBEZDU0&swatchAttr=size&pageUID=1773663219707",
+    "scraped_at": "2026-08-13T14:17:56.235Z",
+    "final_url": "https://www.flipkart.com/highlander-men-printed-casual-black-shirt/p/itm35d144b09bcdc?pid=SHTGCGZQH8JYAMQP&marketplace=FLIPKART&lid=LSTSHTGCGZQH8JYAMQPBEZDU0&swatchAttr=size&pageUID=1773663219707"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:18:08.488Z"
+  },
+  "content": {
+    "title": "HIGHLANDER Men Printed Casual Black Shirt",
+    "short_description": "Color: Black\nFabric: Pure Cotton\nPattern: Printed\nSleeve: Half Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "About the Brand\nHighlander is a trend-forward Fashion and Lifestyle brand. It combines Casual Style and Easy Dressing to help #makesense in Fashion.",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Half Sleeve",
+      "Pattern": "Printed",
+      "Collar": "Cut Away",
+      "Color": "Black"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "05555b9f3a3f9e30edc8a821",
+      "path": "media/images/05555b9f3a3f9e30edc8a821/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "5f0855f1d14279a64af7e75c",
+      "path": "media/videos/5f0855f1d14279a64af7e75c/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/a/5/y/s-hlsh013524-highlander-original-imagcgzpbwpgtqx2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/a/5/y/s-hlsh013524-highlander-original-imagcgzpbwpgtqx2.jpeg?q=100",
+        "local_path": "../../media/images/05555b9f3a3f9e30edc8a821/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/s/g/l/s-hlsh013524-highlander-original-imagcgzp7ncebp4k.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/s/g/l/s-hlsh013524-highlander-original-imagcgzp7ncebp4k.jpeg?q=100",
+        "local_path": "../../media/images/05555b9f3a3f9e30edc8a821/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/a/v/3/s-hlsh013524-highlander-original-imagcgzphw7zzggf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/a/v/3/s-hlsh013524-highlander-original-imagcgzphw7zzggf.jpeg?q=100",
+        "local_path": "../../media/images/05555b9f3a3f9e30edc8a821/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/e/f/o/s-hlsh013524-highlander-original-imagcgzpj2tca6td.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/e/f/o/s-hlsh013524-highlander-original-imagcgzpj2tca6td.jpeg?q=100",
+        "local_path": "../../media/images/05555b9f3a3f9e30edc8a821/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/q/l/u/s-hlsh013524-highlander-original-imagcgzppzm3v3e4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/q/l/u/s-hlsh013524-highlander-original-imagcgzppzm3v3e4.jpeg?q=100",
+        "local_path": "../../media/images/05555b9f3a3f9e30edc8a821/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNyI0rPJb2T5abQaBXgkBdDQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "HIGHLANDER Men Printed Casual Black Shirt",
+      "description": "HIGHLANDER Men Printed Casual Black Shirt - Buy HIGHLANDER Men Printed Casual Black Shirt For Only Rs. 1199.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/a/5/y/s-hlsh013524-highlander-original-imagcgzpbwpgtqx2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/s/g/l/s-hlsh013524-highlander-original-imagcgzp7ncebp4k.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/a/v/3/s-hlsh013524-highlander-original-imagcgzphw7zzggf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/e/f/o/s-hlsh013524-highlander-original-imagcgzpj2tca6td.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l0r1j0w0/shirt/q/l/u/s-hlsh013524-highlander-original-imagcgzppzm3v3e4.jpeg?q=70"
+      ],
+      "sku": "SHTGCGZQH8JYAMQP",
+      "color": "BLACK/PINK",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 47,
+        "ratingCount": 659,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "HIGHLANDER",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 359,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Mahak Mishra",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-02",
+          "reviewBody": "Awesome shirt 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "joykr narzary",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-13",
+          "reviewBody": "Nice tshirt 😍",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-27",
+          "reviewBody": "Awesome shirt 👕",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "About the Brand",
+          "body": "Highlander is a trend-forward Fashion and Lifestyle brand. It combines Casual Style and Easy Dressing to help #makesense in Fashion."
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Printed",
+        "Collar": "Cut Away",
+        "Color": "Black"
+      },
+      "specifications": {}
+    }
+  }
+}

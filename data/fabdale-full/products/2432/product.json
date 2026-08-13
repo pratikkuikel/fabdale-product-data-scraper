@@ -1,0 +1,217 @@
+{
+  "product_id": "2432",
+  "sku": "Fab-Shirt-ALSN-001BL-XL",
+  "product": {
+    "name": "Alvyn Geometric diamond Print Shirt",
+    "parent_id": "5460",
+    "notes": "https://www.flipkart.com/allen-solly-men-printed-casual-blue-shirt/p/itm8045cc7a02723?pid=SHTFUSCHCT7XVFHC&lid=LSTSHTFUSCHCT7XVFHCILCNIF&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_2_41&otracker=search&fm=Search&iid=en_qT9gIH1xxFunm9snfikNOf0u9oFBYBdL4P5eYMP9bWuVYx1ueaokkTQL9C3Dx8J5scNHbTwuV3PY8ExyJ5cWkPUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725"
+  },
+  "source_bundle": {
+    "key": "pid-SHTFUSCHCT7XVFHC",
+    "path": "../../sources/pid-SHTFUSCHCT7XVFHC/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/allen-solly-men-printed-casual-blue-shirt/p/itm8045cc7a02723?pid=SHTFUSCHCT7XVFHC&lid=LSTSHTFUSCHCT7XVFHCILCNIF&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_2_41&otracker=search&fm=Search&iid=en_qT9gIH1xxFunm9snfikNOf0u9oFBYBdL4P5eYMP9bWuVYx1ueaokkTQL9C3Dx8J5scNHbTwuV3PY8ExyJ5cWkPUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725",
+    "scraped_at": "2026-08-13T14:23:38.225Z",
+    "final_url": "https://www.flipkart.com/allen-solly-men-printed-casual-blue-shirt/p/itm8045cc7a02723?pid=SHTFUSCHCT7XVFHC&lid=LSTSHTFUSCHCT7XVFHCILCNIF&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_2_41&otracker=search&fm=Search&iid=en_qT9gIH1xxFunm9snfikNOf0u9oFBYBdL4P5eYMP9bWuVYx1ueaokkTQL9C3Dx8J5scNHbTwuV3PY8ExyJ5cWkPUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:23:46.880Z"
+  },
+  "content": {
+    "title": "Allen Solly Men Printed Casual Blue Shirt",
+    "short_description": "Color: Blue\nFabric: Cotton Blend\nPattern: Printed\nSleeve: Full Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "Styling Tips by Hiren, Fashion Influencer\nBoth classy and stylish, this shirt is a must-have in every modern man's wardrobe. Match it with a p…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Printed",
+      "Collar": "Cut Away",
+      "Color": "Blue"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "29b1c816398324a31c5440e0",
+      "path": "media/images/29b1c816398324a31c5440e0/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "bfc4c7f5def4cc5fd931b928",
+      "path": "media/videos/bfc4c7f5def4cc5fd931b928/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/r/a/-original-imahq2unvz4jzgdx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/r/a/-original-imahq2unvz4jzgdx.jpeg?q=100",
+        "local_path": "../../media/images/29b1c816398324a31c5440e0/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/5/y/t/40-assfqmofl98913-allen-solly-original-imafw6v9hk8h5hmj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/5/y/t/40-assfqmofl98913-allen-solly-original-imafw6v9hk8h5hmj.jpeg?q=100",
+        "local_path": "../../media/images/29b1c816398324a31c5440e0/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/3/j/2/40-assfqmofl98913-allen-solly-original-imafw6v9cw55bbfp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/3/j/2/40-assfqmofl98913-allen-solly-original-imafw6v9cw55bbfp.jpeg?q=100",
+        "local_path": "../../media/images/29b1c816398324a31c5440e0/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/9/s/b/40-assfqmofl98913-allen-solly-original-imafw6v9xhaggrhx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/9/s/b/40-assfqmofl98913-allen-solly-original-imafw6v9xhaggrhx.jpeg?q=100",
+        "local_path": "../../media/images/29b1c816398324a31c5440e0/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/e/d/a/40-assfqmofl98913-allen-solly-original-imafw6v9kpxzwtt5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/e/d/a/40-assfqmofl98913-allen-solly-original-imafw6v9kpxzwtt5.jpeg?q=100",
+        "local_path": "../../media/images/29b1c816398324a31c5440e0/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNphzDUBGCRDScn_WhQ9i6Gg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Allen Solly Men Printed Casual Blue Shirt",
+      "description": "Allen Solly Men Printed Casual Blue Shirt - Buy Allen Solly Men Printed Casual Blue Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/r/a/-original-imahq2unvz4jzgdx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/5/y/t/40-assfqmofl98913-allen-solly-original-imafw6v9hk8h5hmj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/3/j/2/40-assfqmofl98913-allen-solly-original-imafw6v9cw55bbfp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/9/s/b/40-assfqmofl98913-allen-solly-original-imafw6v9xhaggrhx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/e/d/a/40-assfqmofl98913-allen-solly-original-imafw6v9kpxzwtt5.jpeg?q=70"
+      ],
+      "sku": "SHTFUSCHCT7XVFHC",
+      "color": "Navy",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 362,
+        "ratingCount": 5759,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Allen Solly",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 539,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Ajit  Bhat",
+            "@type": "Person"
+          },
+          "datePublished": "2021-03-24",
+          "reviewBody": "good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Nattarmuthu  Jeyapandian ",
+            "@type": "Person"
+          },
+          "datePublished": "2021-04-12",
+          "reviewBody": "Value",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Priyesh MV",
+            "@type": "Person"
+          },
+          "datePublished": "2020-11-03",
+          "reviewBody": "good stitches \nCan use like formal also\nNot dark blue\nSlimfit size, buy 1 size larger if you are not slim\nLooking very good \nQuality also good if the prize is 699/-",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Styling Tips by Hiren, Fashion Influencer",
+          "body": "Both classy and stylish, this shirt is a must-have in every modern man's wardrobe. Match it with a p…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Printed",
+        "Collar": "Cut Away",
+        "Color": "Blue"
+      },
+      "specifications": {}
+    }
+  }
+}

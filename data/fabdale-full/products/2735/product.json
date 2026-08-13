@@ -1,0 +1,217 @@
+{
+  "product_id": "2735",
+  "sku": "Fab-Shirt-TIGC-016BK-L",
+  "product": {
+    "name": "Ivaan Multi-tonal check pattern Shirt",
+    "parent_id": "5514",
+    "notes": "https://www.flipkart.com/indian-garage-co-men-checkered-casual-black-shirt/p/itmd2a68a4587556?pid=SHTGMF9YMEF3WXUV&marketplace=FLIPKART&lid=LSTSHTGMF9YMEF3WXUVLT1ZKA&swatchAttr=size&pageUID=1773768263311"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGMF9YMEF3WXUV",
+    "path": "../../sources/pid-SHTGMF9YMEF3WXUV/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/indian-garage-co-men-checkered-casual-black-shirt/p/itmd2a68a4587556?pid=SHTGMF9YMEF3WXUV&marketplace=FLIPKART&lid=LSTSHTGMF9YMEF3WXUVLT1ZKA&swatchAttr=size&pageUID=1773768263311",
+    "scraped_at": "2026-08-13T14:47:43.329Z",
+    "final_url": "https://www.flipkart.com/indian-garage-co-men-checkered-casual-black-shirt/p/itmd2a68a4587556?pid=SHTGMF9YMEF3WXUV&marketplace=FLIPKART&lid=LSTSHTGMF9YMEF3WXUVLT1ZKA&swatchAttr=size&pageUID=1773768263311"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:47:56.572Z"
+  },
+  "content": {
+    "title": "The Indian Garage Co. Men Checkered Casual Black Shirt",
+    "short_description": "Color: Black\nFabric: Polycotton\nPattern: Checkered\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "About the Brand\nThe Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Polycotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Checkered",
+      "Collar": "Spread",
+      "Color": "Black"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "31a5838370301b0333a1e472",
+      "path": "media/images/31a5838370301b0333a1e472/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "fbccf7a4e43e4039f067bfdd",
+      "path": "media/videos/fbccf7a4e43e4039f067bfdd/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/g/y/-resized-original-imahf8h3fzkdbjnj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/g/y/-resized-original-imahf8h3fzkdbjnj.jpeg?q=100",
+        "local_path": "../../media/images/31a5838370301b0333a1e472/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/b/n/-original-imahf8wvqzzpecpz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/b/n/-original-imahf8wvqzzpecpz.jpeg?q=100",
+        "local_path": "../../media/images/31a5838370301b0333a1e472/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/s/x/-original-imahf8wvh9w8u5nt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/s/x/-original-imahf8wvh9w8u5nt.jpeg?q=100",
+        "local_path": "../../media/images/31a5838370301b0333a1e472/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/l/i/-original-imahf8wvfhxuwwb9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/l/i/-original-imahf8wvfhxuwwb9.jpeg?q=100",
+        "local_path": "../../media/images/31a5838370301b0333a1e472/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/n/w/-original-imahf8wvvfdetqxk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/n/w/-original-imahf8wvvfdetqxk.jpeg?q=100",
+        "local_path": "../../media/images/31a5838370301b0333a1e472/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNQE8Qm1nxSXSOGjsPQPKyzA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "The Indian Garage Co. Men Checkered Casual Black Shirt",
+      "description": "The Indian Garage Co. Men Checkered Casual Black Shirt - Buy The Indian Garage Co. Men Checkered Casual Black Shirt For Only Rs. 1749.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/g/y/-resized-original-imahf8h3fzkdbjnj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/b/n/-original-imahf8wvqzzpecpz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/s/x/-original-imahf8wvh9w8u5nt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/l/i/-original-imahf8wvfhxuwwb9.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/n/w/-original-imahf8wvvfdetqxk.jpeg?q=70"
+      ],
+      "sku": "SHTGMF9YMEF3WXUV",
+      "color": "Black-A",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 766,
+        "ratingCount": 11737,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "The Indian Garage Co.",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 487,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "DJ DHANU SMILEY",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-05",
+          "reviewBody": "Nice 🙂👍🏻",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Baikuntha Mohapatra",
+            "@type": "Person"
+          },
+          "datePublished": "2023-01-19",
+          "reviewBody": "Very Good looking and fitting smoothly",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Nayan Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-06",
+          "reviewBody": "Fantastic 😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "About the Brand",
+          "body": "The Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Polycotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Collar": "Spread",
+        "Color": "Black"
+      },
+      "specifications": {}
+    }
+  }
+}

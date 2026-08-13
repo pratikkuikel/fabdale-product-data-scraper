@@ -1,0 +1,44 @@
+{
+  "key": "bfbdad7bb51b1b236db6ab20",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T14:27:40.537Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l23mhzk0/shirt/u/p/m/40-14878990-roadster-original-imagdgpfqehfne9f.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l23mhzk0/shirt/u/p/m/40-14878990-roadster-original-imagdgpfqehfne9f.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l23mhzk0/shirt/z/z/6/40-14878990-roadster-original-imagdgpfagheqgb3.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l23mhzk0/shirt/z/z/6/40-14878990-roadster-original-imagdgpfagheqgb3.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l23mhzk0/shirt/d/l/x/40-14878990-roadster-original-imagdgpfpfgqmr6r.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l23mhzk0/shirt/d/l/x/40-14878990-roadster-original-imagdgpfpfgqmr6r.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l23mhzk0/shirt/r/w/2/40-14878990-roadster-original-imagdgpf4bmtk2ah.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l23mhzk0/shirt/r/w/2/40-14878990-roadster-original-imagdgpf4bmtk2ah.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l23mhzk0/shirt/0/k/f/40-14878990-roadster-original-imagdgpfbftpfdhz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l23mhzk0/shirt/0/k/f/40-14878990-roadster-original-imagdgpfbftpfdhz.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

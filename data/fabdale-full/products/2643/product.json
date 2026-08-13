@@ -1,0 +1,233 @@
+{
+  "product_id": "2643",
+  "sku": "Fab-Shirt-TIGC-003GR-S",
+  "product": {
+    "name": "Ivaan Lightweight twill Shirt",
+    "parent_id": "5501",
+    "notes": "https://www.flipkart.com/indian-garage-co-men-printed-casual-grey-shirt/p/itm5ec1fde970873?pid=SHTGGMZQMBWRYAAT&marketplace=FLIPKART&lid=LSTSHTGGMZQMBWRYAAT7ME2IZ&swatchAttr=size&pageUID=1773746546413"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGGMZQMBWRYAAT",
+    "path": "../../sources/pid-SHTGGMZQMBWRYAAT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/indian-garage-co-men-printed-casual-grey-shirt/p/itm5ec1fde970873?pid=SHTGGMZQMBWRYAAT&marketplace=FLIPKART&lid=LSTSHTGGMZQMBWRYAAT7ME2IZ&swatchAttr=size&pageUID=1773746546413",
+    "scraped_at": "2026-08-13T14:32:16.144Z",
+    "final_url": "https://www.flipkart.com/indian-garage-co-men-printed-casual-grey-shirt/p/itm5ec1fde970873?pid=SHTGGMZQMBWRYAAT&marketplace=FLIPKART&lid=LSTSHTGGMZQMBWRYAAT7ME2IZ&swatchAttr=size&pageUID=1773746546413"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:32:31.754Z"
+  },
+  "content": {
+    "title": "The Indian Garage Co. Men Printed Casual Grey Shirt",
+    "short_description": "Color: Grey\nFabric: Pure Cotton\nPattern: Printed\nSleeve: Full Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "Stylish Checkered Pattern\nStep up your style game with this men's casual shirt featuring a trendy checkered pattern. The uniqu…\n\nComfortable Spread Collar\nDesigned with a spread collar, this shirt offers both style and comfort. The collar adds a modern tw…\n\nPure Cotton Fabric\nCrafted from pure cotton fabric, this shirt ensures ultimate comfort and breathability. The natural …\n\nSlim Fit for a Sharp Look\nDesigned with a slim fit, this shirt accentuates your physique and creates a sharp and polished appe…\n\nCasual and Trendy\nPerfect for casual occasions, this shirt is a must-have for your wardrobe. Whether you're going for …",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Printed",
+      "Collar": "Cut Away",
+      "Color": "Grey"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "040e00672d74da3d3426954b",
+      "path": "media/images/040e00672d74da3d3426954b/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "6d32a0fed1e9496dbcb79d16",
+      "path": "media/videos/6d32a0fed1e9496dbcb79d16/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/n/p/xl-0121-sh74-04-the-indian-garage-co-original-imagmhj2qjhedhwv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/n/p/xl-0121-sh74-04-the-indian-garage-co-original-imagmhj2qjhedhwv.jpeg?q=100",
+        "local_path": "../../media/images/040e00672d74da3d3426954b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/w/z/-original-imagngz23tnyvnmf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/w/z/-original-imagngz23tnyvnmf.jpeg?q=100",
+        "local_path": "../../media/images/040e00672d74da3d3426954b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/i/r/-original-imagngz2ybzc4r7m.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/i/r/-original-imagngz2ybzc4r7m.jpeg?q=100",
+        "local_path": "../../media/images/040e00672d74da3d3426954b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/i/q/-original-imagngz2vgrezfg3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/i/q/-original-imagngz2vgrezfg3.jpeg?q=100",
+        "local_path": "../../media/images/040e00672d74da3d3426954b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/n/d/-original-imagngz2vpgjtkvw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/n/d/-original-imagngz2vpgjtkvw.jpeg?q=100",
+        "local_path": "../../media/images/040e00672d74da3d3426954b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNFeqVBJTSTymYLNeLY45fUg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "The Indian Garage Co. Men Printed Casual Grey Shirt",
+      "description": "The Indian Garage Co. Men Printed Casual Grey Shirt - Buy The Indian Garage Co. Men Printed Casual Grey Shirt For Only Rs. 1749.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/n/p/xl-0121-sh74-04-the-indian-garage-co-original-imagmhj2qjhedhwv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/w/z/-original-imagngz23tnyvnmf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/i/r/-original-imagngz2ybzc4r7m.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/i/q/-original-imagngz2vgrezfg3.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/n/d/-original-imagngz2vpgjtkvw.jpeg?q=70"
+      ],
+      "sku": "SHTGGMZQMBWRYAAT",
+      "color": "Grey",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 278,
+        "ratingCount": 5351,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "The Indian Garage Co.",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 503,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Veera Mani",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-11",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Ameen Pc",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-23",
+          "reviewBody": "The quality of the shirt is superb",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "RITURAJ BORAH",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-13",
+          "reviewBody": "Nice one",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Stylish Checkered Pattern",
+          "body": "Step up your style game with this men's casual shirt featuring a trendy checkered pattern. The uniqu…"
+        },
+        {
+          "heading": "Comfortable Spread Collar",
+          "body": "Designed with a spread collar, this shirt offers both style and comfort. The collar adds a modern tw…"
+        },
+        {
+          "heading": "Pure Cotton Fabric",
+          "body": "Crafted from pure cotton fabric, this shirt ensures ultimate comfort and breathability. The natural …"
+        },
+        {
+          "heading": "Slim Fit for a Sharp Look",
+          "body": "Designed with a slim fit, this shirt accentuates your physique and creates a sharp and polished appe…"
+        },
+        {
+          "heading": "Casual and Trendy",
+          "body": "Perfect for casual occasions, this shirt is a must-have for your wardrobe. Whether you're going for …"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Printed",
+        "Collar": "Cut Away",
+        "Color": "Grey"
+      },
+      "specifications": {}
+    }
+  }
+}

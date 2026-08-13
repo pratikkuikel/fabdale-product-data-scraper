@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-SHTG9NURMTNQWCTS",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2339",
+    "2340",
+    "2341",
+    "2342",
+    "2343",
+    "5448"
+  ],
+  "source_path": "sources/pid-SHTG9NURMTNQWCTS/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:18:29.190Z",
+  "completed_at": "2026-08-13T14:18:38.000Z"
+}

@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-SHTGHYCJ7HK7QA3A",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2647",
+    "5501"
+  ],
+  "source_path": "sources/pid-SHTGHYCJ7HK7QA3A/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:33:07.247Z",
+  "completed_at": "2026-08-13T14:33:17.911Z"
+}

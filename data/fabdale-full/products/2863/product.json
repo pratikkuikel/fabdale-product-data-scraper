@@ -1,0 +1,163 @@
+{
+  "product_id": "2863",
+  "sku": "Fab-Dress-PURNB-023CR-L",
+  "product": {
+    "name": "Parnika Burgundy floral Print Dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-girls-above-knee-party-dress/p/itm535df2d42f60b?pid=KDEHF76P9EAJFRS9&lid=LSTKDEHF76P9EAJFRS9PQXMIA&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHF76P9EAJFRS9",
+    "path": "../../sources/pid-KDEHF76P9EAJFRS9/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-girls-above-knee-party-dress/p/itm535df2d42f60b?pid=KDEHF76P9EAJFRS9&lid=LSTKDEHF76P9EAJFRS9PQXMIA&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T15:04:31.723Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-girls-above-knee-party-dress/p/itm535df2d42f60b?pid=KDEHF76P9EAJFRS9&lid=LSTKDEHF76P9EAJFRS9PQXMIA&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:04:43.560Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Girls Above Knee Party Dress (Beige, Red, Fashi...more",
+    "short_description": "Fabric: Silk\nPattern: Embroidered\nType: A- Line Dress\nOccasion: Party\nPrimary Color: Beige, Red",
+    "description": "Additional Features\nOther FeaturesThis dress combines style, elegance, and comfort, making it the perfect choice to make your little girl shine at any special occasion.Other DimensionsIn short, it’s a Floral Embroidered Organza Party Frock with Puff Sleeves & Bow Design.\n\nOther Features\nThis dress combines style, elegance, and comfort, making it the perfect choice to make your little girl shine at any special occasion.\n\nOther Dimensions\nIn short, it’s a Floral Embroidered Organza Party Frock with Puff Sleeves & Bow Design.",
+    "specifications": {
+      "Type": "A- Line Dress",
+      "Occasion": "Party",
+      "Pattern": "Embroidered",
+      "Primary Color": "Beige, Red",
+      "Fabric": "Silk"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0a0b5181172bd6d3b9a7b640",
+      "path": "media/images/0a0b5181172bd6d3b9a7b640/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/c/k/4/3-4-years-pt-girl-embrodarywork-1-purnkamaay-trendz-resized-original-imahf76pyjqcdkem.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/c/k/4/3-4-years-pt-girl-embrodarywork-1-purnkamaay-trendz-resized-original-imahf76pyjqcdkem.jpeg?q=100",
+        "local_path": "../../media/images/0a0b5181172bd6d3b9a7b640/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/z/9/t/3-4-years-pt-girl-embrodarywork-1-purnkamaay-trendz-original-imahf76pmvzygxyx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/z/9/t/3-4-years-pt-girl-embrodarywork-1-purnkamaay-trendz-original-imahf76pmvzygxyx.jpeg?q=100",
+        "local_path": "../../media/images/0a0b5181172bd6d3b9a7b640/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/d/x/t/3-4-years-pt-girl-embrodarywork-1-purnkamaay-trendz-original-imahf76p7fyh5yyd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/d/x/t/3-4-years-pt-girl-embrodarywork-1-purnkamaay-trendz-original-imahf76p7fyh5yyd.jpeg?q=100",
+        "local_path": "../../media/images/0a0b5181172bd6d3b9a7b640/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/k/a/g/2-3-years-pt-girl-embrodarywork-1-purnkamaay-trendz-original-imahf76pawzyzxff.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/k/a/g/2-3-years-pt-girl-embrodarywork-1-purnkamaay-trendz-original-imahf76pawzyzxff.jpeg?q=100",
+        "local_path": "../../media/images/0a0b5181172bd6d3b9a7b640/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/o/t/2/3-4-years-pt-girl-embrodarywork-1-purnkamaay-trendz-original-imahf76phfnegays.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/o/t/2/3-4-years-pt-girl-embrodarywork-1-purnkamaay-trendz-original-imahf76phfnegays.jpeg?q=100",
+        "local_path": "../../media/images/0a0b5181172bd6d3b9a7b640/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/l/j/t/7-8-years-025-yellow-rozzby-original-imah5q4ck7y6buwb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/l/j/t/7-8-years-025-yellow-rozzby-original-imah5q4ck7y6buwb.jpeg?q=100",
+        "local_path": "../../media/images/0a0b5181172bd6d3b9a7b640/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/6/5/p/6-12-months-k-230-geabet-original-imahkyz6qp7jzuvb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/6/5/p/6-12-months-k-230-geabet-original-imahkyz6qp7jzuvb.jpeg?q=100",
+        "local_path": "../../media/images/0a0b5181172bd6d3b9a7b640/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/i/o/m/1-2-years-k-230-geabet-original-imahgfegmvz6yzws.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/i/o/m/1-2-years-k-230-geabet-original-imahgfegmvz6yzws.jpeg?q=100",
+        "local_path": "../../media/images/0a0b5181172bd6d3b9a7b640/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/e/j/l/1-2-years-kids-dress-this-elegant-dress-is-at-the-top-of-the-resized-original-imahhhghyvbvggrm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/e/j/l/1-2-years-kids-dress-this-elegant-dress-is-at-the-top-of-the-resized-original-imahhhghyvbvggrm.jpeg?q=100",
+        "local_path": "../../media/images/0a0b5181172bd6d3b9a7b640/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/3/c/q/9-12-months-strawberry-belt-frock-mullick-the-designer-original-imahfz3gfbwughnv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/3/c/q/9-12-months-strawberry-belt-frock-mullick-the-designer-original-imahfz3gfbwughnv.jpeg?q=100",
+        "local_path": "../../media/images/0a0b5181172bd6d3b9a7b640/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/q/p/d/1-2-years-kids-dress-this-elegant-dress-is-at-the-top-of-the-resized-original-imahhhg5fadrrggy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/q/p/d/1-2-years-kids-dress-this-elegant-dress-is-at-the-top-of-the-resized-original-imahhhg5fadrrggy.jpeg?q=100",
+        "local_path": "../../media/images/0a0b5181172bd6d3b9a7b640/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/q/w/r/3-4-years-supra-kids-frock-baby-girl-party-wear-frock-long-frock-original-imaheyfhmhgqhhfx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/q/w/r/3-4-years-supra-kids-frock-baby-girl-party-wear-frock-long-frock-original-imaheyfhmhgqhhfx.jpeg?q=100",
+        "local_path": "../../media/images/0a0b5181172bd6d3b9a7b640/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Additional Features",
+          "body": "Other FeaturesThis dress combines style, elegance, and comfort, making it the perfect choice to make your little girl shine at any special occasion.Other DimensionsIn short, it’s a Floral Embroidered Organza Party Frock with Puff Sleeves & Bow Design."
+        },
+        {
+          "heading": "Other Features",
+          "body": "This dress combines style, elegance, and comfort, making it the perfect choice to make your little girl shine at any special occasion."
+        },
+        {
+          "heading": "Other Dimensions",
+          "body": "In short, it’s a Floral Embroidered Organza Party Frock with Puff Sleeves & Bow Design."
+        }
+      ],
+      "product_highlights": {
+        "Type": "A- Line Dress",
+        "Occasion": "Party",
+        "Pattern": "Embroidered",
+        "Primary Color": "Beige, Red",
+        "Fabric": "Silk"
+      },
+      "specifications": {}
+    }
+  }
+}

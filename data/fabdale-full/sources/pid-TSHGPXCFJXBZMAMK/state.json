@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-TSHGPXCFJXBZMAMK",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3187",
+    "3188",
+    "3189",
+    "4985",
+    "4988",
+    "5191"
+  ],
+  "source_path": "sources/pid-TSHGPXCFJXBZMAMK/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T15:40:30.312Z",
+  "completed_at": "2026-08-13T15:40:51.648Z"
+}

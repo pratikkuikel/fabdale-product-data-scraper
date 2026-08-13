@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SHTH88BFZR5RSTDN",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2246"
+  ],
+  "source_path": "sources/pid-SHTH88BFZR5RSTDN/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T11:27:03.252Z",
+  "completed_at": "2026-08-13T11:27:13.457Z"
+}

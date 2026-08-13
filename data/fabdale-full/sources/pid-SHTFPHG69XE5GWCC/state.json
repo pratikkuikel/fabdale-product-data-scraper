@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-SHTFPHG69XE5GWCC",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2629",
+    "2630",
+    "2631",
+    "2632",
+    "6439"
+  ],
+  "source_path": "sources/pid-SHTFPHG69XE5GWCC/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:30:43.413Z",
+  "completed_at": "2026-08-13T14:30:55.457Z"
+}

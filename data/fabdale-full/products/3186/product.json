@@ -1,0 +1,210 @@
+{
+  "product_id": "3186",
+  "sku": "Fab-TShirt-KAJR-011OG-M",
+  "product": {
+    "name": "Kavish Line-art graphic hands Print T-Shirt",
+    "parent_id": "5414",
+    "notes": "https://www.flipkart.com/kajaru-striped-men-round-neck-green-t-shirt/p/itm9541de28cb1a5?pid=TSHGH7SHGEHTYYSC&marketplace=FLIPKART&lid=LSTTSHGH7SHGEHTYYSCWMVUVZ&swatchAttr=size&pageUID=1773048626437"
+  },
+  "source_bundle": {
+    "key": "pid-TSHGH7SHGEHTYYSC",
+    "path": "../../sources/pid-TSHGH7SHGEHTYYSC/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-round-neck-green-t-shirt/p/itm9541de28cb1a5?pid=TSHGH7SHGEHTYYSC&marketplace=FLIPKART&lid=LSTTSHGH7SHGEHTYYSCWMVUVZ&swatchAttr=size&pageUID=1773048626437",
+    "scraped_at": "2026-08-13T15:40:15.690Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-round-neck-green-t-shirt/p/itm9541de28cb1a5?pid=TSHGH7SHGEHTYYSC&marketplace=FLIPKART&lid=LSTTSHGH7SHGEHTYYSCWMVUVZ&swatchAttr=size&pageUID=1773048626437"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:40:29.287Z"
+  },
+  "content": {
+    "title": "KAJARU Striped Men Round Neck Green T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Striped\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "Printed Pattern\nSporting a minimalistic print on the front, the KAJARU Men’s Printed T-shirt adds a trendy touch to …\n\nSoft and Breathable\nCrafted from polyester, this T-shirt is not only soft against your skin but also breathable. So, it …\n\nRound Neck\nFeaturing a round neck and short sleeves, this T-shirt keeps you snug while providing a proper fit. …\n\nEasy Maintenance\nYou can simply throw this tee into your washing machine and give it a gentle wash without any hassle…\n\nStyle it Right\nA classic style that adds the perfect finish to your weekend look, this abstract print T-shirt is an…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Striped"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "376eab552e05140ed39443c7",
+      "path": "media/images/376eab552e05140ed39443c7/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/w/b/l-tsrt-catalog-01-kajaru-resized-original-imagh7sk7jvkfzqv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/w/b/l-tsrt-catalog-01-kajaru-resized-original-imagh7sk7jvkfzqv.jpeg?q=100",
+        "local_path": "../../media/images/376eab552e05140ed39443c7/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/k/9/l-tsrt-catalog-01-kajaru-original-imagh7skamdke4pu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/k/9/l-tsrt-catalog-01-kajaru-original-imagh7skamdke4pu.jpeg?q=100",
+        "local_path": "../../media/images/376eab552e05140ed39443c7/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/u/z/l-tsrt-catalog-01-kajaru-original-imagh7skutbz3ygu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/u/z/l-tsrt-catalog-01-kajaru-original-imagh7skutbz3ygu.jpeg?q=100",
+        "local_path": "../../media/images/376eab552e05140ed39443c7/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/s/b/l-tsrt-catalog-01-kajaru-original-imagh7skg56u3dpu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/s/b/l-tsrt-catalog-01-kajaru-original-imagh7skg56u3dpu.jpeg?q=100",
+        "local_path": "../../media/images/376eab552e05140ed39443c7/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Striped Men Round Neck Green T-Shirt",
+      "description": "KAJARU Striped Men Round Neck Green T-Shirt - Buy KAJARU Striped Men Round Neck Green T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/w/b/l-tsrt-catalog-01-kajaru-resized-original-imagh7sk7jvkfzqv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/k/9/l-tsrt-catalog-01-kajaru-original-imagh7skamdke4pu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/u/z/l-tsrt-catalog-01-kajaru-original-imagh7skutbz3ygu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/s/b/l-tsrt-catalog-01-kajaru-original-imagh7skg56u3dpu.jpeg?q=70"
+      ],
+      "sku": "TSHGH7SHGEHTYYSC",
+      "color": "OLIVE GREEN",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 1266,
+        "ratingCount": 20328,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 176,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Sumit Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-30",
+          "reviewBody": "Nice teshirt ❣️👌",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Dipayan Biswas ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-01-13",
+          "reviewBody": "Price wise quality is ok, I like it a lot ,thanks flipkart",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Nirmal Rout ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-26",
+          "reviewBody": "I like it, Nice products\nWonderful 👍👍👍👍👍 Rating 5 Star ⭐",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Printed Pattern",
+          "body": "Sporting a minimalistic print on the front, the KAJARU Men’s Printed T-shirt adds a trendy touch to …"
+        },
+        {
+          "heading": "Soft and Breathable",
+          "body": "Crafted from polyester, this T-shirt is not only soft against your skin but also breathable. So, it …"
+        },
+        {
+          "heading": "Round Neck",
+          "body": "Featuring a round neck and short sleeves, this T-shirt keeps you snug while providing a proper fit. …"
+        },
+        {
+          "heading": "Easy Maintenance",
+          "body": "You can simply throw this tee into your washing machine and give it a gentle wash without any hassle…"
+        },
+        {
+          "heading": "Style it Right",
+          "body": "A classic style that adds the perfect finish to your weekend look, this abstract print T-shirt is an…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Striped"
+      },
+      "specifications": {}
+    }
+  }
+}

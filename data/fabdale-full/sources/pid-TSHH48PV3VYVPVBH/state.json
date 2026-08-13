@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-TSHH48PV3VYVPVBH",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3105",
+    "3106",
+    "3107",
+    "3108",
+    "3109",
+    "5412"
+  ],
+  "source_path": "sources/pid-TSHH48PV3VYVPVBH/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T15:23:45.302Z",
+  "completed_at": "2026-08-13T15:24:01.526Z"
+}

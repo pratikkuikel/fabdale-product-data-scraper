@@ -1,0 +1,199 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-round-neck-green-t-shirt/p/itm9541de28cb1a5?pid=TSHGH7SHNGW9RZHH&marketplace=FLIPKART&lid=LSTTSHGH7SHNGW9RZHHHEE85X&swatchAttr=size&pageUID=1773048626437",
+    "scraped_at": "2026-08-13T15:39:58.907Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-round-neck-green-t-shirt/p/itm9541de28cb1a5?pid=TSHGH7SHNGW9RZHH&marketplace=FLIPKART&lid=LSTTSHGH7SHNGW9RZHHHEE85X&swatchAttr=size&pageUID=1773048626437"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:40:14.520Z"
+  },
+  "content": {
+    "title": "KAJARU Striped Men Round Neck Green T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Striped\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "Stylish Striped Pattern\nThis men's T-shirt features a trendy striped pattern, adding a touch of style to your wardrobe. The …\n\nComfortable and Easy to Maintain\nCrafted from polyester fabric, this T-shirt offers a comfortable and lightweight feel. The fabric is…\n\nVersatile Round Neck Design\nDesigned with a round neck, this T-shirt offers a versatile and classic look. The round neck design …\n\nRegular Fit and Short Sleeves\nFeaturing a regular fit and short sleeves, this T-shirt provides a relaxed and comfortable feel. The…\n\nIdeal for Casual Occasions\nThis T-shirt is perfect for casual occasions such as outings with friends, weekend getaways, or simp…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Striped"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/w/b/l-tsrt-catalog-01-kajaru-resized-original-imagh7sk7jvkfzqv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/w/b/l-tsrt-catalog-01-kajaru-resized-original-imagh7sk7jvkfzqv.jpeg?q=100",
+        "local_path": "../../media/images/376eab552e05140ed39443c7/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/k/9/l-tsrt-catalog-01-kajaru-original-imagh7skamdke4pu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/k/9/l-tsrt-catalog-01-kajaru-original-imagh7skamdke4pu.jpeg?q=100",
+        "local_path": "../../media/images/376eab552e05140ed39443c7/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/u/z/l-tsrt-catalog-01-kajaru-original-imagh7skutbz3ygu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/u/z/l-tsrt-catalog-01-kajaru-original-imagh7skutbz3ygu.jpeg?q=100",
+        "local_path": "../../media/images/376eab552e05140ed39443c7/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/s/b/l-tsrt-catalog-01-kajaru-original-imagh7skg56u3dpu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/s/b/l-tsrt-catalog-01-kajaru-original-imagh7skg56u3dpu.jpeg?q=100",
+        "local_path": "../../media/images/376eab552e05140ed39443c7/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Striped Men Round Neck Green T-Shirt",
+      "description": "KAJARU Striped Men Round Neck Green T-Shirt - Buy KAJARU Striped Men Round Neck Green T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/w/b/l-tsrt-catalog-01-kajaru-resized-original-imagh7sk7jvkfzqv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/k/9/l-tsrt-catalog-01-kajaru-original-imagh7skamdke4pu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/u/z/l-tsrt-catalog-01-kajaru-original-imagh7skutbz3ygu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/s/b/l-tsrt-catalog-01-kajaru-original-imagh7skg56u3dpu.jpeg?q=70"
+      ],
+      "sku": "TSHGH7SHNGW9RZHH",
+      "color": "OLIVE GREEN",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 1266,
+        "ratingCount": 20328,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 198,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Sumit Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-30",
+          "reviewBody": "Nice teshirt ❣️👌",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Dipayan Biswas ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-01-13",
+          "reviewBody": "Price wise quality is ok, I like it a lot ,thanks flipkart",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Nirmal Rout ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-26",
+          "reviewBody": "I like it, Nice products\nWonderful 👍👍👍👍👍 Rating 5 Star ⭐",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Stylish Striped Pattern",
+          "body": "This men's T-shirt features a trendy striped pattern, adding a touch of style to your wardrobe. The …"
+        },
+        {
+          "heading": "Comfortable and Easy to Maintain",
+          "body": "Crafted from polyester fabric, this T-shirt offers a comfortable and lightweight feel. The fabric is…"
+        },
+        {
+          "heading": "Versatile Round Neck Design",
+          "body": "Designed with a round neck, this T-shirt offers a versatile and classic look. The round neck design …"
+        },
+        {
+          "heading": "Regular Fit and Short Sleeves",
+          "body": "Featuring a regular fit and short sleeves, this T-shirt provides a relaxed and comfortable feel. The…"
+        },
+        {
+          "heading": "Ideal for Casual Occasions",
+          "body": "This T-shirt is perfect for casual occasions such as outings with friends, weekend getaways, or simp…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Striped"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "376eab552e05140ed39443c7",
+      "path": "media/images/376eab552e05140ed39443c7/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

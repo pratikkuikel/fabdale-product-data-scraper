@@ -1,0 +1,44 @@
+{
+  "key": "a36988446e7eda9f7d2fd9a2",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T14:24:47.505Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/x/y/40-assfqmof424659-allen-solly-resized-original-imafw3k8nvvref6j.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/x/y/40-assfqmof424659-allen-solly-resized-original-imafw3k8nvvref6j.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kfpq5jk0-0/shirt/v/j/v/40-assfqmof424659-allen-solly-original-imafw3k83dw9p7ce.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kfpq5jk0-0/shirt/v/j/v/40-assfqmof424659-allen-solly-original-imafw3k83dw9p7ce.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kfpq5jk0-0/shirt/u/q/e/40-assfqmof424659-allen-solly-original-imafw3k8r9xbnfqv.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kfpq5jk0-0/shirt/u/q/e/40-assfqmof424659-allen-solly-original-imafw3k8r9xbnfqv.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kfpq5jk0-0/shirt/x/p/j/40-assfqmof424659-allen-solly-original-imafw3k8m8z2vjag.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kfpq5jk0-0/shirt/x/p/j/40-assfqmof424659-allen-solly-original-imafw3k8m8z2vjag.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kfpq5jk0-0/shirt/k/v/l/40-assfqmof424659-allen-solly-original-imafw3k8tjhpdhnn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kfpq5jk0-0/shirt/k/v/l/40-assfqmof424659-allen-solly-original-imafw3k8tjhpdhnn.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

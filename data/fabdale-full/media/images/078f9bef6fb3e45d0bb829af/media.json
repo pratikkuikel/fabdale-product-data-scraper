@@ -1,0 +1,37 @@
+{
+  "key": "078f9bef6fb3e45d0bb829af",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T15:00:49.028Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/2/f/s/3-4-years-heel-make-your-little-princess-shine-on-her-special-resized-original-imahgt5qrc9dycug.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/2/f/s/3-4-years-heel-make-your-little-princess-shine-on-her-special-resized-original-imahgt5qrc9dycug.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/p/y/1-2-years-sneaker-and-trendy-handbag-to-get-her-ready-for-a-original-imahcffumzshngqp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/p/y/1-2-years-sneaker-and-trendy-handbag-to-get-her-ready-for-a-original-imahcffumzshngqp.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/a/3/j/1-2-years-heel-make-your-little-princess-shine-on-her-special-original-imahfrbzavtxw99z.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/a/3/j/1-2-years-heel-make-your-little-princess-shine-on-her-special-original-imahfrbzavtxw99z.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/3/y/o/1-2-years-heel-make-your-little-princess-shine-on-her-special-original-imahfrbzathj7cdp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/3/y/o/1-2-years-heel-make-your-little-princess-shine-on-her-special-original-imahfrbzathj7cdp.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

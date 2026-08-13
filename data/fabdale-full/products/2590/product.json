@@ -1,0 +1,193 @@
+{
+  "product_id": "2590",
+  "sku": "Fab-Shirt-ROAD-017BK-M",
+  "product": {
+    "name": "Roxter Brushed cotton Shirt",
+    "parent_id": "5490",
+    "notes": "https://www.flipkart.com/roadster-men-checkered-casual-black-shirt/p/itme7cdd33571406?pid=SHTGB8A2XQFTEFUE&lid=LSTSHTGB8A2XQFTEFUEYA3XSA&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGB8A2XQFTEFUE",
+    "path": "../../sources/pid-SHTGB8A2XQFTEFUE/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/roadster-men-checkered-casual-black-shirt/p/itme7cdd33571406?pid=SHTGB8A2XQFTEFUE&lid=LSTSHTGB8A2XQFTEFUEYA3XSA&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T14:29:16.278Z",
+    "final_url": "https://www.flipkart.com/roadster-men-checkered-casual-black-shirt/p/itme7cdd33571406?pid=SHTGB8A2XQFTEFUE&lid=LSTSHTGB8A2XQFTEFUEYA3XSA&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:29:25.295Z"
+  },
+  "content": {
+    "title": "Roadster Men Checkered Casual Black Shirt",
+    "short_description": "Color: Black\nFabric: Pure Cotton\nPattern: Checkered\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Roadster Men Checkered Casual Black Shirt - Buy Roadster Men Checkered Casual Black Shirt For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Checkered",
+      "Collar": "Spread",
+      "Color": "Black"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "5c643647faa47dc3922a2c57",
+      "path": "media/images/5c643647faa47dc3922a2c57/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kz5vwy80/shirt/u/o/n/40-15383000-roadster-original-imagb8ay9nmwm2ja.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kz5vwy80/shirt/u/o/n/40-15383000-roadster-original-imagb8ay9nmwm2ja.jpeg?q=100",
+        "local_path": "../../media/images/5c643647faa47dc3922a2c57/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kz5vwy80/shirt/m/2/l/40-15383000-roadster-original-imagb8ayjb9hsdmz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kz5vwy80/shirt/m/2/l/40-15383000-roadster-original-imagb8ayjb9hsdmz.jpeg?q=100",
+        "local_path": "../../media/images/5c643647faa47dc3922a2c57/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kz5vwy80/shirt/z/v/i/40-15383000-roadster-original-imagb8ayuhz5gz5g.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kz5vwy80/shirt/z/v/i/40-15383000-roadster-original-imagb8ayuhz5gz5g.jpeg?q=100",
+        "local_path": "../../media/images/5c643647faa47dc3922a2c57/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kz5vwy80/shirt/h/w/d/40-15383000-roadster-original-imagb8ayhqazhtz2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kz5vwy80/shirt/h/w/d/40-15383000-roadster-original-imagb8ayhqazhtz2.jpeg?q=100",
+        "local_path": "../../media/images/5c643647faa47dc3922a2c57/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Roadster Men Checkered Casual Black Shirt",
+      "description": "Roadster Men Checkered Casual Black Shirt - Buy Roadster Men Checkered Casual Black Shirt For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/kz5vwy80/shirt/u/o/n/40-15383000-roadster-original-imagb8ay9nmwm2ja.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kz5vwy80/shirt/m/2/l/40-15383000-roadster-original-imagb8ayjb9hsdmz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kz5vwy80/shirt/z/v/i/40-15383000-roadster-original-imagb8ayuhz5gz5g.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kz5vwy80/shirt/h/w/d/40-15383000-roadster-original-imagb8ayhqazhtz2.jpeg?q=70"
+      ],
+      "sku": "SHTGB8A2XQFTEFUE",
+      "color": "Black",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 6,
+        "ratingCount": 58,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Roadster",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 529,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "GAURAV KUMAR",
+            "@type": "Person"
+          },
+          "datePublished": "2023-12-28",
+          "reviewBody": "Wonderful",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Amit Tiwari ",
+            "@type": "Person"
+          },
+          "datePublished": "2026-05-31",
+          "reviewBody": "Best quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Nidhi  Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2026-05-21",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Collar": "Spread",
+        "Color": "Black"
+      },
+      "specifications": {}
+    }
+  }
+}

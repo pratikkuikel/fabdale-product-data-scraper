@@ -1,0 +1,186 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-printed-men-round-neck-black-blue-t-shirt/p/itm9361711c986a5?pid=TSHHFF42JFVTDXGB&marketplace=FLIPKART&lid=LSTTSHHFF42JFVTDXGBRTC08Y&swatchAttr=size&pageUID=1772897633176",
+    "scraped_at": "2026-08-13T15:14:35.037Z",
+    "final_url": "https://www.flipkart.com/kajaru-printed-men-round-neck-black-blue-t-shirt/p/itm9361711c986a5?pid=TSHHFF42JFVTDXGB&marketplace=FLIPKART&lid=LSTTSHHFF42JFVTDXGBRTC08Y&swatchAttr=size&pageUID=1772897633176"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:14:47.127Z"
+  },
+  "content": {
+    "title": "KAJARU Printed Men Round Neck Black, Blue T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Printed\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "KAJARU Printed Men Round Neck Black, Blue T-Shirt - Buy KAJARU Printed Men Round Neck Black, Blue T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Printed"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/y/d/-original-imahjzpvk45xggxh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/y/d/-original-imahjzpvk45xggxh.jpeg?q=100",
+        "local_path": "../../media/images/bc73c58ed6dfe97c0e87e4ad/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/m/1/c/-original-imahjzbhzhykcqup.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/m/1/c/-original-imahjzbhzhykcqup.jpeg?q=100",
+        "local_path": "../../media/images/bc73c58ed6dfe97c0e87e4ad/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/x/n/-original-imahjzbhy7pcqhzz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/x/n/-original-imahjzbhy7pcqhzz.jpeg?q=100",
+        "local_path": "../../media/images/bc73c58ed6dfe97c0e87e4ad/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/c/s/-original-imahjzbhthea8vds.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/c/s/-original-imahjzbhthea8vds.jpeg?q=100",
+        "local_path": "../../media/images/bc73c58ed6dfe97c0e87e4ad/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/z/7/-original-imahjzpv8pemz58t.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/z/7/-original-imahjzpv8pemz58t.jpeg?q=100",
+        "local_path": "../../media/images/bc73c58ed6dfe97c0e87e4ad/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Printed Men Round Neck Black, Blue T-Shirt",
+      "description": "KAJARU Printed Men Round Neck Black, Blue T-Shirt - Buy KAJARU Printed Men Round Neck Black, Blue T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/y/d/-original-imahjzpvk45xggxh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/m/1/c/-original-imahjzbhzhykcqup.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/x/n/-original-imahjzbhy7pcqhzz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/c/s/-original-imahjzbhthea8vds.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/z/7/-original-imahjzpv8pemz58t.jpeg?q=70"
+      ],
+      "sku": "TSHHFF42JFVTDXGB",
+      "color": "BLACK-BLUE",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 810,
+        "ratingCount": 33581,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 176,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Manoj Kumar  Satpathy ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-12",
+          "reviewBody": "Nice  Product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Premchand Rana",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-07",
+          "reviewBody": "Very good 👍  \nNice looking 👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Gopal  Khati",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-12",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bc73c58ed6dfe97c0e87e4ad",
+      "path": "media/images/bc73c58ed6dfe97c0e87e4ad/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

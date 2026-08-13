@@ -1,0 +1,206 @@
+{
+  "product_id": "2579",
+  "sku": "Fab-Shirt-ROAD-015BL-S",
+  "product": {
+    "name": "Roxter Horizontal self-stripe Shirt",
+    "parent_id": "5488",
+    "notes": "https://www.flipkart.com/roadster-men-striped-casual-blue-shirt/p/itme2524cd7efed4?pid=SHTG6NV4ZZ9GVTFP&lid=LSTSHTG6NV4ZZ9GVTFP6LOHB4&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SHTG6NV4ZZ9GVTFP",
+    "path": "../../sources/pid-SHTG6NV4ZZ9GVTFP/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/roadster-men-striped-casual-blue-shirt/p/itme2524cd7efed4?pid=SHTG6NV4ZZ9GVTFP&lid=LSTSHTG6NV4ZZ9GVTFP6LOHB4&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T14:28:54.544Z",
+    "final_url": "https://www.flipkart.com/roadster-men-striped-casual-blue-shirt/p/itme2524cd7efed4?pid=SHTG6NV4ZZ9GVTFP&lid=LSTSHTG6NV4ZZ9GVTFP6LOHB4&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:29:02.649Z"
+  },
+  "content": {
+    "title": "Roadster Men Striped Casual Blue Shirt",
+    "short_description": "Color: Blue\nFabric: Pure Cotton\nPattern: Striped\nSleeve: Full Sleeve\nPack of: 1\nCollar: Mandarin",
+    "description": "Classic Striped Pattern\nFeaturing a timeless striped pattern, this men's casual shirt exudes a stylish and sophisticated loo…\n\nModern Mandarin Collar\nDesigned with a sleek mandarin collar, this shirt offers a contemporary twist to your outfit. The ma…\n\nPremium Pure Cotton Fabric\nCrafted from pure cotton fabric, this shirt ensures exceptional comfort and breathability. The high-…\n\nComfortable Regular Fit\nFeaturing a regular fit, this shirt offers a comfortable and relaxed silhouette. The regular fit all…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Striped",
+      "Collar": "Mandarin",
+      "Color": "Blue"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "740106c857d06fef0a920e1a",
+      "path": "media/images/740106c857d06fef0a920e1a/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/r/o/i/40-13663454-roadster-original-imag6nszr6fedh6t.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/r/o/i/40-13663454-roadster-original-imag6nszr6fedh6t.jpeg?q=100",
+        "local_path": "../../media/images/740106c857d06fef0a920e1a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/s/t/3/40-13663454-roadster-original-imag6nszfh27tgwd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/s/t/3/40-13663454-roadster-original-imag6nszfh27tgwd.jpeg?q=100",
+        "local_path": "../../media/images/740106c857d06fef0a920e1a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/c/s/1/40-13663454-roadster-original-imag6nszysjtkgdd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/c/s/1/40-13663454-roadster-original-imag6nszysjtkgdd.jpeg?q=100",
+        "local_path": "../../media/images/740106c857d06fef0a920e1a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/r/v/v/40-13663454-roadster-original-imag6nszuknygsvn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/r/v/v/40-13663454-roadster-original-imag6nszuknygsvn.jpeg?q=100",
+        "local_path": "../../media/images/740106c857d06fef0a920e1a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/y/n/y/40-13663454-roadster-original-imag6nszxmv6ebcw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/y/n/y/40-13663454-roadster-original-imag6nszxmv6ebcw.jpeg?q=100",
+        "local_path": "../../media/images/740106c857d06fef0a920e1a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Roadster Men Striped Casual Blue Shirt",
+      "description": "Roadster Men Striped Casual Blue Shirt - Buy Roadster Men Striped Casual Blue Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/r/o/i/40-13663454-roadster-original-imag6nszr6fedh6t.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/s/t/3/40-13663454-roadster-original-imag6nszfh27tgwd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/c/s/1/40-13663454-roadster-original-imag6nszysjtkgdd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/r/v/v/40-13663454-roadster-original-imag6nszuknygsvn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/ktaeqvk0/shirt/y/n/y/40-13663454-roadster-original-imag6nszxmv6ebcw.jpeg?q=70"
+      ],
+      "sku": "SHTG6NV4ZZ9GVTFP",
+      "color": "Blue",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 6,
+        "ratingCount": 126,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Roadster",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 464,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-05",
+          "reviewBody": "Outstanding product.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-12-25",
+          "reviewBody": "Colour nd quality are nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "poornima yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-04",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Striped Pattern",
+          "body": "Featuring a timeless striped pattern, this men's casual shirt exudes a stylish and sophisticated loo…"
+        },
+        {
+          "heading": "Modern Mandarin Collar",
+          "body": "Designed with a sleek mandarin collar, this shirt offers a contemporary twist to your outfit. The ma…"
+        },
+        {
+          "heading": "Premium Pure Cotton Fabric",
+          "body": "Crafted from pure cotton fabric, this shirt ensures exceptional comfort and breathability. The high-…"
+        },
+        {
+          "heading": "Comfortable Regular Fit",
+          "body": "Featuring a regular fit, this shirt offers a comfortable and relaxed silhouette. The regular fit all…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Striped",
+        "Collar": "Mandarin",
+        "Color": "Blue"
+      },
+      "specifications": {}
+    }
+  }
+}

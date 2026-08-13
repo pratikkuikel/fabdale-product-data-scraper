@@ -1,0 +1,37 @@
+{
+  "key": "406c402fcad96c1e812df9d5",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T15:07:29.269Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/q/u/3/14-15-years-gown-71-aarya-designer-resized-original-imah5ggftrf7vz6p.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/q/u/3/14-15-years-gown-71-aarya-designer-resized-original-imah5ggftrf7vz6p.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/y/t/8-9-years-gown70-aarya-designer-original-imahbchfvjfgaga2.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/y/t/8-9-years-gown70-aarya-designer-original-imahbchfvjfgaga2.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/j/l/8-9-years-gown70-aarya-designer-original-imahbchfzghzzrwk.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/j/l/8-9-years-gown70-aarya-designer-original-imahbchfzghzzrwk.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/h/5/8-9-years-gown70-aarya-designer-original-imahbchfbvt7gehd.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/h/5/8-9-years-gown70-aarya-designer-original-imahbchfbvt7gehd.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

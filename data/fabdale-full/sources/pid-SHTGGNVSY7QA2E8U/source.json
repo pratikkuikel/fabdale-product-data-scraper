@@ -1,0 +1,195 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/indian-garage-co-men-checkered-casual-orange-shirt/p/itm68f49f7cd2589?pid=SHTGGNVSY7QA2E8U&marketplace=FLIPKART&lid=LSTSHTGGNVSY7QA2E8ULWD9WE&swatchAttr=size&pageUID=1773768400102",
+    "scraped_at": "2026-08-13T14:47:57.760Z",
+    "final_url": "https://www.flipkart.com/indian-garage-co-men-checkered-casual-orange-shirt/p/itm68f49f7cd2589?pid=SHTGGNVSY7QA2E8U&marketplace=FLIPKART&lid=LSTSHTGGNVSY7QA2E8ULWD9WE&swatchAttr=size&pageUID=1773768400102"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:48:14.873Z"
+  },
+  "content": {
+    "title": "The Indian Garage Co. Men Checkered Casual Orange Shirt",
+    "short_description": "Color: Orange\nFabric: Polycotton\nPattern: Checkered\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "About the Brand\nThe Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Polycotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Checkered",
+      "Collar": "Spread",
+      "Color": "Orange"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/c/d/-original-imaghkfujg288gck.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/c/d/-original-imaghkfujg288gck.jpeg?q=100",
+        "local_path": "../../media/images/f2a99f681e9515b609ce813b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/i/n/-original-imaghkfuuuafw3c6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/i/n/-original-imaghkfuuuafw3c6.jpeg?q=100",
+        "local_path": "../../media/images/f2a99f681e9515b609ce813b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/k/f/-original-imaghkfuf4fnyuj7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/k/f/-original-imaghkfuf4fnyuj7.jpeg?q=100",
+        "local_path": "../../media/images/f2a99f681e9515b609ce813b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/a/b/-original-imaghkfuhcphrmry.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/a/b/-original-imaghkfuhcphrmry.jpeg?q=100",
+        "local_path": "../../media/images/f2a99f681e9515b609ce813b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/d/i/-original-imaghkfudtep79mg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/d/i/-original-imaghkfudtep79mg.jpeg?q=100",
+        "local_path": "../../media/images/f2a99f681e9515b609ce813b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "The Indian Garage Co. Men Checkered Casual Orange Shirt",
+      "description": "The Indian Garage Co. Men Checkered Casual Orange Shirt - Buy The Indian Garage Co. Men Checkered Casual Orange Shirt For Only Rs. 1749.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/c/d/-original-imaghkfujg288gck.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/i/n/-original-imaghkfuuuafw3c6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/k/f/-original-imaghkfuf4fnyuj7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/a/b/-original-imaghkfuhcphrmry.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/d/i/-original-imaghkfudtep79mg.jpeg?q=70"
+      ],
+      "sku": "SHTGGNVSY7QA2E8U",
+      "color": "Orange-A",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 766,
+        "ratingCount": 11737,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "The Indian Garage Co.",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 503,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "DJ DHANU SMILEY",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-05",
+          "reviewBody": "Nice 🙂👍🏻",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Baikuntha Mohapatra",
+            "@type": "Person"
+          },
+          "datePublished": "2023-01-19",
+          "reviewBody": "Very Good looking and fitting smoothly",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Nayan Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-06",
+          "reviewBody": "Fantastic 😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "About the Brand",
+          "body": "The Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Polycotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Collar": "Spread",
+        "Color": "Orange"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "f2a99f681e9515b609ce813b",
+      "path": "media/images/f2a99f681e9515b609ce813b/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

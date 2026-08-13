@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-SHTFP6ZFJKREGAZQ",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2998",
+    "2999",
+    "3000",
+    "3001",
+    "3002"
+  ],
+  "source_path": "sources/pid-SHTFP6ZFJKREGAZQ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T15:09:57.797Z",
+  "completed_at": "2026-08-13T15:10:11.413Z"
+}

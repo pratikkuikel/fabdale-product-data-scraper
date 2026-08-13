@@ -1,0 +1,212 @@
+{
+  "product_id": "5294",
+  "sku": null,
+  "product": {
+    "name": "Avnika Woven Kanjivaram Festive Wear",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/avantika-fashion-woven-kanjivaram-pure-silk-art-silk-saree/p/itmd1e1266192b19?pid=SARH7UMWPJFXGRJT&lid=LSTSARH7UMWPJFXGRJTR0IMSP&marketplace=FLIPKART&q=avantika%20fashion%20saree&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SARH7UMWPJFXGRJT",
+    "path": "../../sources/pid-SARH7UMWPJFXGRJT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/avantika-fashion-woven-kanjivaram-pure-silk-art-silk-saree/p/itmd1e1266192b19?pid=SARH7UMWPJFXGRJT&lid=LSTSARH7UMWPJFXGRJTR0IMSP&marketplace=FLIPKART&q=avantika%20fashion%20saree&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T15:08:08.266Z",
+    "final_url": "https://www.flipkart.com/avantika-fashion-woven-kanjivaram-pure-silk-art-silk-saree/p/itmd1e1266192b19?pid=SARH7UMWPJFXGRJT&lid=LSTSARH7UMWPJFXGRJTR0IMSP&marketplace=FLIPKART&q=avantika%20fashion%20saree&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:08:20.505Z"
+  },
+  "content": {
+    "title": "AVANTIKA FASHION Woven Kanjivaram Pure Silk, Art Silk Saree",
+    "short_description": "Fabric: Pure Silk, Art Silk\nPattern: Woven\nType: Kanjivaram\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Exquisite Woven Pattern\nAdorned with a sophisticated woven pattern, this saree exudes a timeless charm and elegance. The int…\n\nLuxurious Pure Silk Fabric\nCrafted from pure silk and art silk, this saree offers a luxurious feel against your skin. The soft …\n\nElegant Zari Detailing\nThe saree is elegantly embellished with intricate zari work, adding a regal touch to your ensemble. …\n\nVersatile Unstitched Blouse\nComplementing the saree is an unstitched blouse piece made of soft silk fabric. This feature allows …\n\nIdeal for Various Occasions\nSuitable for casual outings, festive celebrations, weddings, and parties, this kanjivaram saree is a…",
+    "specifications": {
+      "Pattern": "Woven",
+      "Fabric": "Pure Silk, Art Silk",
+      "Type": "Kanjivaram",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a13507e2b15ed11d056e665b",
+      "path": "media/images/a13507e2b15ed11d056e665b/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/3/n/j/free-banarasi-avantika-fashion-unstitched-original-imahftfanhk9hsva.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/3/n/j/free-banarasi-avantika-fashion-unstitched-original-imahftfanhk9hsva.jpeg?q=100",
+        "local_path": "../../media/images/a13507e2b15ed11d056e665b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/a/z/free-banarasi-avantika-fashion-unstitched-original-imahftfagk86tqjy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/a/z/free-banarasi-avantika-fashion-unstitched-original-imahftfagk86tqjy.jpeg?q=100",
+        "local_path": "../../media/images/a13507e2b15ed11d056e665b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/k/p/7/free-banarasi-avantika-fashion-unstitched-original-imahftfas6k92ask.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/k/p/7/free-banarasi-avantika-fashion-unstitched-original-imahftfas6k92ask.jpeg?q=100",
+        "local_path": "../../media/images/a13507e2b15ed11d056e665b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/g/o/x/free-banarasi-avantika-fashion-unstitched-original-imahftfafe3zakhv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/g/o/x/free-banarasi-avantika-fashion-unstitched-original-imahftfafe3zakhv.jpeg?q=100",
+        "local_path": "../../media/images/a13507e2b15ed11d056e665b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "AVANTIKA FASHION Woven Kanjivaram Pure Silk, Art Silk Saree",
+      "description": "AVANTIKA FASHION Woven Kanjivaram Pure Silk, Art Silk Saree - Buy AVANTIKA FASHION Woven Kanjivaram Pure Silk, Art Silk Saree For Only Rs. 2499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/3/n/j/free-banarasi-avantika-fashion-unstitched-original-imahftfanhk9hsva.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/a/z/free-banarasi-avantika-fashion-unstitched-original-imahftfagk86tqjy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/k/p/7/free-banarasi-avantika-fashion-unstitched-original-imahftfas6k92ask.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/g/o/x/free-banarasi-avantika-fashion-unstitched-original-imahftfafe3zakhv.jpeg?q=70"
+      ],
+      "sku": "SARH7UMWPJFXGRJT",
+      "color": "A-RAMA-560",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 180,
+        "ratingCount": 4195,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "AVANTIKA FASHION",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 383,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "sagir pardeshi",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-06",
+          "reviewBody": "This is a beautiful saree love",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Barada prasanna Mohanty",
+            "@type": "Person"
+          },
+          "datePublished": "2022-08-20",
+          "reviewBody": "Average, not so good",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Gokul B",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-11",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Exquisite Woven Pattern",
+          "body": "Adorned with a sophisticated woven pattern, this saree exudes a timeless charm and elegance. The int…"
+        },
+        {
+          "heading": "Luxurious Pure Silk Fabric",
+          "body": "Crafted from pure silk and art silk, this saree offers a luxurious feel against your skin. The soft …"
+        },
+        {
+          "heading": "Elegant Zari Detailing",
+          "body": "The saree is elegantly embellished with intricate zari work, adding a regal touch to your ensemble. …"
+        },
+        {
+          "heading": "Versatile Unstitched Blouse",
+          "body": "Complementing the saree is an unstitched blouse piece made of soft silk fabric. This feature allows …"
+        },
+        {
+          "heading": "Ideal for Various Occasions",
+          "body": "Suitable for casual outings, festive celebrations, weddings, and parties, this kanjivaram saree is a…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Woven",
+        "Fabric": "Pure Silk, Art Silk",
+        "Type": "Kanjivaram",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

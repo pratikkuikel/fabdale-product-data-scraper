@@ -1,0 +1,180 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-checkered-casual-multicolor-shirt/p/itmb0f2e55698d4c?pid=SHTGPRZUQHHGA6FB&marketplace=FLIPKART&lid=LSTSHTGPRZUQHHGA6FBM5WQQV&swatchAttr=size&pageUID=1773596160944",
+    "scraped_at": "2026-08-13T11:23:32.844Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-checkered-casual-multicolor-shirt/p/itmb0f2e55698d4c?pid=SHTGPRZUQHHGA6FB&marketplace=FLIPKART&lid=LSTSHTGPRZUQHHGA6FBM5WQQV&swatchAttr=size&pageUID=1773596160944"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:23:39.243Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Slim Fit Checkered Cut Away Collar Casual Shirt",
+    "short_description": "Color: Multicolor\nFabric: Cotton Blend\nPattern: Checkered\nSleeve: Full Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": null,
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Checkered",
+      "Collar": "Cut Away",
+      "Color": "Multicolor"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/z/w/e/m-jdw-19-metronaut-original-imagprzugk49gz7q.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/z/w/e/m-jdw-19-metronaut-original-imagprzugk49gz7q.jpeg?q=100",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/u/i/3/m-jdw-19-metronaut-original-imagprzuhxyygtmh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/u/i/3/m-jdw-19-metronaut-original-imagprzuhxyygtmh.jpeg?q=100",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/e/h/y/m-jdw-19-metronaut-original-imagprzuwsnzdgss.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/e/h/y/m-jdw-19-metronaut-original-imagprzuwsnzdgss.jpeg?q=100",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/z/a/h/m-jdw-19-metronaut-original-imagprzuebwpbtmw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/z/a/h/m-jdw-19-metronaut-original-imagprzuebwpbtmw.jpeg?q=100",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_af1aa05211144fda980f1eb16c65059f.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_af1aa05211144fda980f1eb16c65059f.jpg?q=80",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7e2ebaaac53a403d878b88ddf78c93e8.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7e2ebaaac53a403d878b88ddf78c93e8.jpeg?q=80",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/4/z/v/xxl-mpf-18e-metronaut-original-imahgaguwvg9pwew.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/4/z/v/xxl-mpf-18e-metronaut-original-imahgaguwvg9pwew.jpeg?q=100",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/x/b/2/s-mpf-16d-metronaut-original-imahgagtdzzhk44g.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/x/b/2/s-mpf-16d-metronaut-original-imahgagtdzzhk44g.jpeg?q=100",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/l/n/o/xxl-jdw-x17-metronaut-original-imahdh9zazgzwcwv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/l/n/o/xxl-jdw-x17-metronaut-original-imahdh9zazgzwcwv.jpeg?q=100",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/v/w/d/m-jdw-08-metronaut-original-imagprzgnshpzsph.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/v/w/d/m-jdw-08-metronaut-original-imagprzgnshpzsph.jpeg?q=100",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/i/n/x/xl-lipi-lfflip-31-green-vdlooks-original-imahj2d5feampyhu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/i/n/x/xl-lipi-lfflip-31-green-vdlooks-original-imahj2d5feampyhu.jpeg?q=100",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/l/g/a/m-mpf-36-metronaut-original-imahgagudmsgzgsu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/l/g/a/m-mpf-36-metronaut-original-imahgagudmsgzgsu.jpeg?q=100",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/x/b/r/xl-jdw-14-metronaut-original-imagprzuw27bdtfh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/x/b/r/xl-jdw-14-metronaut-original-imagprzuw27bdtfh.jpeg?q=100",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/i/w/i/xl-jdw-x04-metronaut-original-imahdh9zjuyxjcfr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/i/w/i/xl-jdw-x04-metronaut-original-imahdh9zjuyxjcfr.jpeg?q=100",
+        "local_path": "../../media/images/b9b4cd412af3e68f02e80df3/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Collar": "Cut Away",
+        "Color": "Multicolor"
+      },
+      "specifications": {
+        "Brand": "METRONAUT",
+        "Size": "S",
+        "Pack of": "1",
+        "Style Code": "JDW-19",
+        "Closure": "Buttoned",
+        "Fit": "Slim",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Reversible": "No",
+        "Collar": "Cut Away",
+        "Color": "Multicolor",
+        "Fabric Care": "Regular Machine Wash",
+        "Suitable For": "Western Wear",
+        "Hem": "Curved",
+        "Net Quantity": "1",
+        "Brand Color": "Pink 2",
+        "Ideal For": "Men",
+        "Shirt Length": "Hip Length",
+        "Occasion": "Casual",
+        "Ornamentation Type": "None",
+        "Print Type": "Checkered",
+        "Sales Package": "1 Shirt",
+        "Surface Styling": "Pockets"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b9b4cd412af3e68f02e80df3",
+      "path": "media/images/b9b4cd412af3e68f02e80df3/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

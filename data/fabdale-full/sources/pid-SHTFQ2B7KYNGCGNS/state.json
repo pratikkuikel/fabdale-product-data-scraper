@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-SHTFQ2B7KYNGCGNS",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2309",
+    "2311",
+    "2312",
+    "2313",
+    "5442"
+  ],
+  "source_path": "sources/pid-SHTFQ2B7KYNGCGNS/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:16:43.141Z",
+  "completed_at": "2026-08-13T14:16:52.659Z"
+}

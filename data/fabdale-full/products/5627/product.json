@@ -1,0 +1,218 @@
+{
+  "product_id": "5627",
+  "sku": "Fab-Dress-PURNB-010MR-XXL",
+  "product": {
+    "name": "Parnika Floral print Maxi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-maxi-full-length-festive-wedding-dress/p/itma1087b23fa641?pid=KDEH6NHGPMY3YZFH&lid=LSTKDEH6NHGPMY3YZFHUMIDPN&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KDEH6NHGPMY3YZFH",
+    "path": "../../sources/pid-KDEH6NHGPMY3YZFH/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-maxi-full-length-festive-wedding-dress/p/itma1087b23fa641?pid=KDEH6NHGPMY3YZFH&lid=LSTKDEH6NHGPMY3YZFHUMIDPN&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T15:01:42.967Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-maxi-full-length-festive-wedding-dress/p/itma1087b23fa641?pid=KDEH6NHGPMY3YZFH&lid=LSTKDEH6NHGPMY3YZFHUMIDPN&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:02:00.963Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress",
+    "short_description": "Fabric: Lycra Blend\nType: Pleated\nOccasion: Festive/Wedding\nPrimary Color: Maroon",
+    "description": "Pleated Perfection\nThis dress features a pleated design, adding a touch of elegance to your little girl's wardrobe.\n\nAll-Over Detail Placement\nThe all-over detail placement enhances the overall look of this dress, making it perfect for festive…\n\nComfortable Lycra Blend\nCrafted from a soft lycra blend fabric, this dress offers a comfortable fit for your child to move a…\n\nChic Full Sleeve Design\nWith full sleeves, this dress ensures warmth and style, making it suitable for various occasions.\n\nElegant Round Neck\nThe round neck design of this dress adds a classic touch, perfect for festive or wedding celebration…",
+    "specifications": {
+      "Type": "Pleated",
+      "Occasion": "Festive/Wedding",
+      "Primary Color": "Maroon",
+      "Fabric": "Lycra Blend"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "f549d376827834d9b374117d",
+      "path": "media/images/f549d376827834d9b374117d/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/m/i/2-3-years-gopi-new-winter-season-kids-dress-shrvaay-group-original-imahhmbr6cvryhgc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/m/i/2-3-years-gopi-new-winter-season-kids-dress-shrvaay-group-original-imahhmbr6cvryhgc.jpeg?q=100",
+        "local_path": "../../media/images/f549d376827834d9b374117d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/t/p/-original-imahjxgnythhz9fm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/t/p/-original-imahjxgnythhz9fm.jpeg?q=100",
+        "local_path": "../../media/images/f549d376827834d9b374117d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/v/a/a/2-3-years-gopi-new-winter-season-kids-dress-purnkamaay-trendz-original-imahfrbzfngmjdjc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/v/a/a/2-3-years-gopi-new-winter-season-kids-dress-purnkamaay-trendz-original-imahfrbzfngmjdjc.jpeg?q=100",
+        "local_path": "../../media/images/f549d376827834d9b374117d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/6/5/-original-imahjxgnbteunhrz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/6/5/-original-imahjxgnbteunhrz.jpeg?q=100",
+        "local_path": "../../media/images/f549d376827834d9b374117d/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/0/x/r/-original-imahjzw9fghu48c6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/0/x/r/-original-imahjzw9fghu48c6.jpeg?q=100",
+        "local_path": "../../media/images/f549d376827834d9b374117d/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress for Rs.999.0 online. PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/m/i/2-3-years-gopi-new-winter-season-kids-dress-shrvaay-group-original-imahhmbr6cvryhgc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/t/p/-original-imahjxgnythhz9fm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/v/a/a/2-3-years-gopi-new-winter-season-kids-dress-purnkamaay-trendz-original-imahfrbzfngmjdjc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/6/5/-original-imahjxgnbteunhrz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/0/x/r/-original-imahjzw9fghu48c6.jpeg?q=70"
+      ],
+      "sku": "KDEH6NHGPMY3YZFH",
+      "color": "MAROON",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 141,
+        "ratingCount": 2420,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 260,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Saif  Ali khan",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-06",
+          "reviewBody": "Nice product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "sanamani Tensubam",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-21",
+          "reviewBody": "The product is good like it and \nthe product to came correct size and correct colour thank you flipkart.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Ameena begum Aahil pasha",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-18",
+          "reviewBody": "Wow I very happy 😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Pleated Perfection",
+          "body": "This dress features a pleated design, adding a touch of elegance to your little girl's wardrobe."
+        },
+        {
+          "heading": "All-Over Detail Placement",
+          "body": "The all-over detail placement enhances the overall look of this dress, making it perfect for festive…"
+        },
+        {
+          "heading": "Comfortable Lycra Blend",
+          "body": "Crafted from a soft lycra blend fabric, this dress offers a comfortable fit for your child to move a…"
+        },
+        {
+          "heading": "Chic Full Sleeve Design",
+          "body": "With full sleeves, this dress ensures warmth and style, making it suitable for various occasions."
+        },
+        {
+          "heading": "Elegant Round Neck",
+          "body": "The round neck design of this dress adds a classic touch, perfect for festive or wedding celebration…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Pleated",
+        "Occasion": "Festive/Wedding",
+        "Primary Color": "Maroon",
+        "Fabric": "Lycra Blend"
+      },
+      "specifications": {}
+    }
+  }
+}

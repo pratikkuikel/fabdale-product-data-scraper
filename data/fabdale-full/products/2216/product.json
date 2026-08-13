@@ -1,0 +1,134 @@
+{
+  "product_id": "2216",
+  "sku": "Fab-Shirt-METR-020BL-L",
+  "product": {
+    "name": "Metronex slim-fit long-sleeve Shirt",
+    "parent_id": "5277",
+    "notes": "https://www.flipkart.com/metronaut-men-solid-casual-blue-shirt/p/itm4f35392d1ed8d?pid=SHTHGGFFDJ6GMJW4&marketplace=FLIPKART&lid=LSTSHTHGGFFDJ6GMJW4J6SR0W&swatchAttr=size&pageUID=1773596636801"
+  },
+  "source_bundle": {
+    "key": "pid-SHTHGGFFDJ6GMJW4",
+    "path": "../../sources/pid-SHTHGGFFDJ6GMJW4/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-blue-shirt/p/itm4f35392d1ed8d?pid=SHTHGGFFDJ6GMJW4&lid=LSTSHTHGGFFDJ6GMJW4J6SR0W&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T11:24:35.052Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-blue-shirt/p/itm4f35392d1ed8d?pid=SHTHGGFFDJ6GMJW4&lid=LSTSHTHGGFFDJ6GMJW4J6SR0W&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:24:42.304Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Solid Casual Blue Shirt",
+    "short_description": "Color: Blue\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "METRONAUT Men Solid Casual Blue Shirt - Buy METRONAUT Men Solid Casual Blue Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Blue"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a9f440f431ebc4c743e35eaf",
+      "path": "media/images/a9f440f431ebc4c743e35eaf/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/8/r/i/l-op-sr276-metronaut-original-imahggffzvtzpfps.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/8/r/i/l-op-sr276-metronaut-original-imahggffzvtzpfps.jpeg?q=100",
+        "local_path": "../../media/images/a9f440f431ebc4c743e35eaf/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/s/2/xl-op-sr276-metronaut-original-imahggffznda8hgt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/s/2/xl-op-sr276-metronaut-original-imahggffznda8hgt.jpeg?q=100",
+        "local_path": "../../media/images/a9f440f431ebc4c743e35eaf/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/i/h/xl-op-sr276-metronaut-original-imahggffcgqk2x5v.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/i/h/xl-op-sr276-metronaut-original-imahggffcgqk2x5v.jpeg?q=100",
+        "local_path": "../../media/images/a9f440f431ebc4c743e35eaf/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/f/u/l-op-sr276-metronaut-original-imahggffvmcyfyph.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/f/u/l-op-sr276-metronaut-original-imahggffvmcyfyph.jpeg?q=100",
+        "local_path": "../../media/images/a9f440f431ebc4c743e35eaf/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual Blue Shirt",
+      "description": "METRONAUT Men Solid Casual Blue Shirt - Buy METRONAUT Men Solid Casual Blue Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/8/r/i/l-op-sr276-metronaut-original-imahggffzvtzpfps.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/s/2/xl-op-sr276-metronaut-original-imahggffznda8hgt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/i/h/xl-op-sr276-metronaut-original-imahggffcgqk2x5v.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/f/u/l-op-sr276-metronaut-original-imahggffvmcyfyph.jpeg?q=70"
+      ],
+      "sku": "SHTHGGFFDJ6GMJW4",
+      "color": "Multicolor40",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.2,
+        "ratingCount": 22,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 349,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Blue"
+      },
+      "specifications": {}
+    }
+  }
+}

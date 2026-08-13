@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-TSHH3YYUUHKC7XEF",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3075"
+  ],
+  "source_path": "sources/pid-TSHH3YYUUHKC7XEF/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T15:19:56.816Z",
+  "completed_at": "2026-08-13T15:20:18.624Z"
+}

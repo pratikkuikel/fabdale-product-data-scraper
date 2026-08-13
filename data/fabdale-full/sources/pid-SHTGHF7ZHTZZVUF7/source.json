@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/tallwalker-men-checkered-casual-multicolor-shirt/p/itmfabb40836a050?pid=SHTGHF7ZHTZZVUF7&marketplace=FLIPKART&lid=LSTSHTGHF7ZHTZZVUF7Z4OSBW&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773817096072",
+    "scraped_at": "2026-08-13T14:53:24.380Z",
+    "final_url": "https://www.flipkart.com/tallwalker-men-checkered-casual-multicolor-shirt/p/itmfabb40836a050?pid=SHTGHF7ZHTZZVUF7&marketplace=FLIPKART&lid=LSTSHTGHF7ZHTZZVUF7Z4OSBW&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773817096072"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:53:32.453Z"
+  },
+  "content": {
+    "title": "tallwalker Men Checkered Casual Blue, Brown Shirt",
+    "short_description": "tallwalker Men Checkered Casual Blue, Brown Shirt - Buy tallwalker Men Checkered Casual Blue, Brown Shirt For Only Rs. 1287.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "tallwalker Men Checkered Casual Blue, Brown Shirt - Buy tallwalker Men Checkered Casual Blue, Brown Shirt For Only Rs. 1287.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/6/8/m-towel-002-tallwalker-original-imah3kw8xty8ryq6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/6/8/m-towel-002-tallwalker-original-imah3kw8xty8ryq6.jpeg?q=100",
+        "local_path": "../../media/images/0ace7ae6d7312e194664002a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/p/p/m-towel-002-tallwalker-original-imah3kw86qygzdpw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/p/p/m-towel-002-tallwalker-original-imah3kw86qygzdpw.jpeg?q=100",
+        "local_path": "../../media/images/0ace7ae6d7312e194664002a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/o/e/m-towel-002-tallwalker-original-imah3kw8fttygeyx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/o/e/m-towel-002-tallwalker-original-imah3kw8fttygeyx.jpeg?q=100",
+        "local_path": "../../media/images/0ace7ae6d7312e194664002a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/v/1/m-towel-002-tallwalker-original-imah3kw8gpuyk9jz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/v/1/m-towel-002-tallwalker-original-imah3kw8gpuyk9jz.jpeg?q=100",
+        "local_path": "../../media/images/0ace7ae6d7312e194664002a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/m/6/m-towel-002-tallwalker-original-imah3kw8es4jd2pf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/m/6/m-towel-002-tallwalker-original-imah3kw8es4jd2pf.jpeg?q=100",
+        "local_path": "../../media/images/0ace7ae6d7312e194664002a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "tallwalker Men Checkered Casual Blue, Brown Shirt",
+      "description": "tallwalker Men Checkered Casual Blue, Brown Shirt - Buy tallwalker Men Checkered Casual Blue, Brown Shirt For Only Rs. 1287.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/6/8/m-towel-002-tallwalker-original-imah3kw8xty8ryq6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/p/p/m-towel-002-tallwalker-original-imah3kw86qygzdpw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/o/e/m-towel-002-tallwalker-original-imah3kw8fttygeyx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/v/1/m-towel-002-tallwalker-original-imah3kw8gpuyk9jz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/m/6/m-towel-002-tallwalker-original-imah3kw8es4jd2pf.jpeg?q=70"
+      ],
+      "sku": "SHTGHF7ZHTZZVUF7",
+      "color": "Brown",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 3863,
+        "ratingCount": 74966,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "tallwalker",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 385,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-28",
+          "reviewBody": "Simply awsm",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "ABHINAY PARIDA",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-09",
+          "reviewBody": "Nice product 😊👍 I am impressed 😁",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Sneha  Mondal",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-09",
+          "reviewBody": "Very nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0ace7ae6d7312e194664002a",
+      "path": "media/images/0ace7ae6d7312e194664002a/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

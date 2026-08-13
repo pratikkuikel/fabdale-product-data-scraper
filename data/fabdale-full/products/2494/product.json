@@ -1,0 +1,216 @@
+{
+  "product_id": "2494",
+  "sku": "Fab-Shirt-ALSN-013RD-S",
+  "product": {
+    "name": "Alvyn Red and white plaid Shirt",
+    "parent_id": "5471",
+    "notes": "https://www.flipkart.com/allen-solly-men-checkered-casual-multicolor-shirt/p/itm7831d2fd53422?pid=SHTGQWRKHZHDH7SK&lid=LSTSHTGQWRKHZHDH7SK1XLVKM&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_1_28&otracker=search&fm=Search&iid=en_DGLO2WAPoC43PwuUtQHXfVcnLcnB0igazD9Fh98Ne3R9yNMdUSfn-jhrgfXDSjDWa2fyZnxpHaCSl5ymxUteJdmEaX_1OVaDgohoY5ZV-y8%3D&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGQWRKHZHDH7SK",
+    "path": "../../sources/pid-SHTGQWRKHZHDH7SK/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/allen-solly-men-checkered-casual-multicolor-shirt/p/itm7831d2fd53422?pid=SHTGQWRKHZHDH7SK&lid=LSTSHTGQWRKHZHDH7SK1XLVKM&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_1_28&otracker=search&fm=Search&iid=en_DGLO2WAPoC43PwuUtQHXfVcnLcnB0igazD9Fh98Ne3R9yNMdUSfn-jhrgfXDSjDWa2fyZnxpHaCSl5ymxUteJdmEaX_1OVaDgohoY5ZV-y8%3D&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725",
+    "scraped_at": "2026-08-13T14:25:49.651Z",
+    "final_url": "https://www.flipkart.com/allen-solly-men-checkered-casual-multicolor-shirt/p/itm7831d2fd53422?pid=SHTGQWRKHZHDH7SK&lid=LSTSHTGQWRKHZHDH7SK1XLVKM&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_1_28&otracker=search&fm=Search&iid=en_DGLO2WAPoC43PwuUtQHXfVcnLcnB0igazD9Fh98Ne3R9yNMdUSfn-jhrgfXDSjDWa2fyZnxpHaCSl5ymxUteJdmEaX_1OVaDgohoY5ZV-y8%3D&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:25:58.441Z"
+  },
+  "content": {
+    "title": "Allen Solly Men Checkered Casual Multicolor Shirt",
+    "short_description": "Color: Multicolor\nFabric: Cotton Blend\nPattern: Checkered\nSleeve: Full Sleeve\nPack of: 1",
+    "description": "Checkered Pattern\nThis men's casual shirt features a vibrant checkered pattern that adds a touch of style and flair to…\n\nComfortable and Durable Fabric\nCrafted from a high-quality cotton blend fabric, this shirt offers both comfort and durability. The …\n\nRegular Fit for All-day Comfort\nWith its regular fit, this shirt offers a comfortable and relaxed silhouette that flatters all body …\n\nCasual and Stylish\nIdeal for casual occasions, this shirt effortlessly combines style and comfort. Whether you're going…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Checkered",
+      "Color": "Multicolor"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "6062c07281c727d326dc798d",
+      "path": "media/images/6062c07281c727d326dc798d/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/w/4/-original-imahqfr2kwgucsup.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/w/4/-original-imahqfr2kwgucsup.jpeg?q=100",
+        "local_path": "../../media/images/6062c07281c727d326dc798d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/g/y/-original-imagzrp9z8f3kkuw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/g/y/-original-imagzrp9z8f3kkuw.jpeg?q=100",
+        "local_path": "../../media/images/6062c07281c727d326dc798d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/j/q/-original-imagzrp9uvyrgx2m.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/j/q/-original-imagzrp9uvyrgx2m.jpeg?q=100",
+        "local_path": "../../media/images/6062c07281c727d326dc798d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/7/c/-original-imagzrp9m9uzkyrz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/7/c/-original-imagzrp9m9uzkyrz.jpeg?q=100",
+        "local_path": "../../media/images/6062c07281c727d326dc798d/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/7/n/-original-imagzrp9ewrtajpg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/7/n/-original-imagzrp9ewrtajpg.jpeg?q=100",
+        "local_path": "../../media/images/6062c07281c727d326dc798d/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Allen Solly Men Checkered Casual Multicolor Shirt",
+      "description": "Allen Solly Men Checkered Casual Multicolor Shirt - Buy Allen Solly Men Checkered Casual Multicolor Shirt For Only Rs. 1699.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/w/4/-original-imahqfr2kwgucsup.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/g/y/-original-imagzrp9z8f3kkuw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/j/q/-original-imagzrp9uvyrgx2m.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/7/c/-original-imagzrp9m9uzkyrz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/7/n/-original-imagzrp9ewrtajpg.jpeg?q=70"
+      ],
+      "sku": "SHTGQWRKHZHDH7SK",
+      "color": "Red",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 49,
+        "ratingCount": 988,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Allen Solly",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 611,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-12-15",
+          "reviewBody": "Good fit nice look, wear comfortable",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "shyam",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-07",
+          "reviewBody": "Soft and smooth cloth.... Fit is very good.... You can trust and buy it.... Keep in mind it's slim fit",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "VIKRAM KUMAR YADAV",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-12",
+          "reviewBody": "Super",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Checkered Pattern",
+          "body": "This men's casual shirt features a vibrant checkered pattern that adds a touch of style and flair to…"
+        },
+        {
+          "heading": "Comfortable and Durable Fabric",
+          "body": "Crafted from a high-quality cotton blend fabric, this shirt offers both comfort and durability. The …"
+        },
+        {
+          "heading": "Regular Fit for All-day Comfort",
+          "body": "With its regular fit, this shirt offers a comfortable and relaxed silhouette that flatters all body …"
+        },
+        {
+          "heading": "Casual and Stylish",
+          "body": "Ideal for casual occasions, this shirt effortlessly combines style and comfort. Whether you're going…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Color": "Multicolor"
+      },
+      "specifications": {}
+    }
+  }
+}

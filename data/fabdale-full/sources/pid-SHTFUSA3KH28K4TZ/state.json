@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-SHTFUSA3KH28K4TZ",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2504",
+    "2505",
+    "2506",
+    "2507",
+    "2508",
+    "5473"
+  ],
+  "source_path": "sources/pid-SHTFUSA3KH28K4TZ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:26:11.198Z",
+  "completed_at": "2026-08-13T14:26:19.702Z"
+}

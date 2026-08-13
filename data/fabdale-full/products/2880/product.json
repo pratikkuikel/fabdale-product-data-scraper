@@ -1,0 +1,208 @@
+{
+  "product_id": "2880",
+  "sku": "Fab-Dress-MISS-006PL-L",
+  "product": {
+    "name": "Moonette Young girl's party Midi-dress",
+    "parent_id": "5077",
+    "notes": "https://www.flipkart.com/miss-chief-indi-girls-midi-knee-length-party-dress/p/itmf4281b808c20c?pid=KDEHFHJ5CA7TTFYX&marketplace=FLIPKART&lid=LSTKDEHFHJ5CA7TTFYXIJCGTO&swatchAttr=size&pageUID=1775207754589"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHFHJ5CA7TTFYX",
+    "path": "../../sources/pid-KDEHFHJ5CA7TTFYX/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/miss-chief-indi-girls-midi-knee-length-party-dress/p/itmf4281b808c20c?pid=KDEHFHJ5CA7TTFYX&marketplace=FLIPKART&lid=LSTKDEHFHJ5CA7TTFYXIJCGTO&swatchAttr=size&pageUID=1775207754589",
+    "scraped_at": "2026-08-13T15:04:59.039Z",
+    "final_url": "https://www.flipkart.com/miss-chief-indi-girls-midi-knee-length-party-dress/p/itmf4281b808c20c?pid=KDEHFHJ5CA7TTFYX&marketplace=FLIPKART&lid=LSTKDEHFHJ5CA7TTFYXIJCGTO&swatchAttr=size&pageUID=1775207754589"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:05:12.517Z"
+  },
+  "content": {
+    "title": "Miss & Chief Indi Girls Midi/Knee Length Party Dress",
+    "short_description": "Fabric: Cotton Blend\nPattern: Printed\nType: A- Line Dress\nOccasion: Party\nPrimary Color: Purple",
+    "description": "Playful and Stylish Design\nThis kid's dress features a vibrant and eye-catching all-over print, adding a playful touch to your …\n\nComfortable and Versatile\nCrafted from a soft and breathable cotton blend fabric, this dress ensures your child's comfort thro…\n\nEasy to Wear\nWith its full sleeves and pullover style, this dress provides easy wearability and allows your child…\n\nIdeal for Parties\nDesigned for parties and special occasions, this midi-length dress will make your little girl stand …",
+    "specifications": {
+      "Type": "A- Line Dress",
+      "Occasion": "Party",
+      "Pattern": "Printed",
+      "Primary Color": "Purple",
+      "Fabric": "Cotton Blend"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4fa5a420bd9f387ea95c213f",
+      "path": "media/images/4fa5a420bd9f387ea95c213f/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/x/k/3-4-years-ne159-nexakids-original-imahysjdhburzmeh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/x/k/3-4-years-ne159-nexakids-original-imahysjdhburzmeh.jpeg?q=100",
+        "local_path": "../../media/images/4fa5a420bd9f387ea95c213f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/m/s/3-4-years-ne159-miss-chief-original-imahfhj2g8tgnakm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/m/s/3-4-years-ne159-miss-chief-original-imahfhj2g8tgnakm.jpeg?q=100",
+        "local_path": "../../media/images/4fa5a420bd9f387ea95c213f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/u/4/3-4-years-ne159-nexakids-original-imahysjdzyvzyara.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/u/4/3-4-years-ne159-nexakids-original-imahysjdzyvzyara.jpeg?q=100",
+        "local_path": "../../media/images/4fa5a420bd9f387ea95c213f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/u/c/3-4-years-ne159-nexakids-original-imahysjdz72tnf82.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/u/c/3-4-years-ne159-nexakids-original-imahysjdz72tnf82.jpeg?q=100",
+        "local_path": "../../media/images/4fa5a420bd9f387ea95c213f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Miss & Chief Indi Girls Midi/Knee Length Party Dress",
+      "description": "Buy Miss & Chief Indi Girls Midi/Knee Length Party Dress for Rs.1999.0 online. Miss & Chief Indi Girls Midi/Knee Length Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/x/k/3-4-years-ne159-nexakids-original-imahysjdhburzmeh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/m/s/3-4-years-ne159-miss-chief-original-imahfhj2g8tgnakm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/u/4/3-4-years-ne159-nexakids-original-imahysjdzyvzyara.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/u/c/3-4-years-ne159-nexakids-original-imahysjdz72tnf82.jpeg?q=70"
+      ],
+      "sku": "KDEHFHJ5CA7TTFYX",
+      "color": "Purple",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 41,
+        "ratingCount": 910,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Miss & Chief",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 353,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Vinita Gill",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-09",
+          "reviewBody": "Beautiful midi. Fabric is very nice. Liked it.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "shishir kumar sur",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-31",
+          "reviewBody": "Very good product.. I ordered it for my niece and it was well fitted for my baby girl.. Thank you so much filpkart.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Ankush  Wakhare ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-08",
+          "reviewBody": "Supurb quality khup chan thank you 🙏 Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Playful and Stylish Design",
+          "body": "This kid's dress features a vibrant and eye-catching all-over print, adding a playful touch to your …"
+        },
+        {
+          "heading": "Comfortable and Versatile",
+          "body": "Crafted from a soft and breathable cotton blend fabric, this dress ensures your child's comfort thro…"
+        },
+        {
+          "heading": "Easy to Wear",
+          "body": "With its full sleeves and pullover style, this dress provides easy wearability and allows your child…"
+        },
+        {
+          "heading": "Ideal for Parties",
+          "body": "Designed for parties and special occasions, this midi-length dress will make your little girl stand …"
+        }
+      ],
+      "product_highlights": {
+        "Type": "A- Line Dress",
+        "Occasion": "Party",
+        "Pattern": "Printed",
+        "Primary Color": "Purple",
+        "Fabric": "Cotton Blend"
+      },
+      "specifications": {}
+    }
+  }
+}

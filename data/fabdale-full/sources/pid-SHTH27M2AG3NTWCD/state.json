@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SHTH27M2AG3NTWCD",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2105"
+  ],
+  "source_path": "sources/pid-SHTH27M2AG3NTWCD/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T11:13:21.689Z",
+  "completed_at": "2026-08-13T11:13:26.445Z"
+}

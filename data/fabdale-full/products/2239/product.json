@@ -1,0 +1,201 @@
+{
+  "product_id": "2239",
+  "sku": "Fab-Shirt-METR-022BP-S",
+  "product": {
+    "name": "Metronex Vertical crinkle plissé shir",
+    "parent_id": "5279",
+    "notes": "https://www.flipkart.com/metronaut-men-self-design-casual-dark-blue-pink-shirt/p/itm373842f717657?pid=SHTHCGXGFSUXEX24&marketplace=FLIPKART&lid=LSTSHTHCGXGFSUXEX24VUZZEP&swatchAttr=size&pageUID=1773597770331"
+  },
+  "source_bundle": {
+    "key": "pid-SHTHCGXGFSUXEX24",
+    "path": "../../sources/pid-SHTHCGXGFSUXEX24/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-self-design-casual-dark-blue-pink-shirt/p/itm373842f717657?pid=SHTHCGXGFSUXEX24&marketplace=FLIPKART&lid=LSTSHTHCGXGFSUXEX24VUZZEP&swatchAttr=size&pageUID=1773597770331",
+    "scraped_at": "2026-08-13T11:26:02.429Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-self-design-casual-dark-blue-pink-shirt/p/itm373842f717657?pid=SHTHCGXGFSUXEX24&marketplace=FLIPKART&lid=LSTSHTHCGXGFSUXEX24VUZZEP&swatchAttr=size&pageUID=1773597770331"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:26:12.946Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Self Design Casual Dark Blue, Pink Shirt",
+    "short_description": "Color: Dark Blue, Pink\nFabric: Cotton Blend\nPattern: Self Design\nSleeve: Half Sleeve\nPack of: 2\nCollar: Spread",
+    "description": "METRONAUT Men Self Design Casual Dark Blue, Pink Shirt - Buy METRONAUT Men Self Design Casual Dark Blue, Pink Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pack of": "2",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Half Sleeve",
+      "Pattern": "Self Design",
+      "Collar": "Spread",
+      "Color": "Dark Blue, Pink"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "579ef997f881b1d0c7270572",
+      "path": "media/images/579ef997f881b1d0c7270572/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/x/y/xxl-sugarcane-casuals-metronaut-original-imahfv3br5bdvfrf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/x/y/xxl-sugarcane-casuals-metronaut-original-imahfv3br5bdvfrf.jpeg?q=100",
+        "local_path": "../../media/images/579ef997f881b1d0c7270572/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/6/r/xl-sugarcane-casuals-metronaut-original-imahfv3bd3afseut.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/6/r/xl-sugarcane-casuals-metronaut-original-imahfv3bd3afseut.jpeg?q=100",
+        "local_path": "../../media/images/579ef997f881b1d0c7270572/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/0/k/s-sugarcane-casuals-metronaut-original-imahfv3azkbhen7h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/0/k/s-sugarcane-casuals-metronaut-original-imahfv3azkbhen7h.jpeg?q=100",
+        "local_path": "../../media/images/579ef997f881b1d0c7270572/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/j/2/xl-sugarcane-casuals-metronaut-original-imahfv3bvvgmgfu8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/j/2/xl-sugarcane-casuals-metronaut-original-imahfv3bvvgmgfu8.jpeg?q=100",
+        "local_path": "../../media/images/579ef997f881b1d0c7270572/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/q/9/xl-sugarcane-casuals-metronaut-original-imahfv3ahjgvhfvf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/q/9/xl-sugarcane-casuals-metronaut-original-imahfv3ahjgvhfvf.jpeg?q=100",
+        "local_path": "../../media/images/579ef997f881b1d0c7270572/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Self Design Casual Dark Blue, Pink Shirt",
+      "description": "METRONAUT Men Self Design Casual Dark Blue, Pink Shirt - Buy METRONAUT Men Self Design Casual Dark Blue, Pink Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/x/y/xxl-sugarcane-casuals-metronaut-original-imahfv3br5bdvfrf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/6/r/xl-sugarcane-casuals-metronaut-original-imahfv3bd3afseut.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/0/k/s-sugarcane-casuals-metronaut-original-imahfv3azkbhen7h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/j/2/xl-sugarcane-casuals-metronaut-original-imahfv3bvvgmgfu8.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/q/9/xl-sugarcane-casuals-metronaut-original-imahfv3ahjgvhfvf.jpeg?q=70"
+      ],
+      "sku": "SHTHCGXGFSUXEX24",
+      "color": "Navy Blue, Pink",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 308,
+        "ratingCount": 6611,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 415,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-22",
+          "reviewBody": "like it ❤️❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "mohit Lohar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-07",
+          "reviewBody": "Good product range wise 👍❤️",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Bharti Kumari",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-13",
+          "reviewBody": "Very stylish and nice at this price must go for it.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "2",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Self Design",
+        "Collar": "Spread",
+        "Color": "Dark Blue, Pink"
+      },
+      "specifications": {}
+    }
+  }
+}

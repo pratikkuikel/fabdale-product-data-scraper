@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-SHTFUSCHCT7XVFHC",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2429",
+    "2430",
+    "2431",
+    "2432",
+    "2433",
+    "5460"
+  ],
+  "source_path": "sources/pid-SHTFUSCHCT7XVFHC/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:23:38.179Z",
+  "completed_at": "2026-08-13T14:23:46.880Z"
+}

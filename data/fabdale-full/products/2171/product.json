@@ -1,0 +1,205 @@
+{
+  "product_id": "2171",
+  "sku": "Fab-Shirt-METR-016GR-L",
+  "product": {
+    "name": "Metronex Vertically striped Shirt",
+    "parent_id": "5273",
+    "notes": "https://www.flipkart.com/metronaut-men-striped-casual-grey-shirt/p/itm376e435d0f9ad?pid=SHTGZFZM3HYYHWRH&lid=LSTSHTGZFZM3HYYHWRHRNC5A0&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGZFZM3HYYHWRH",
+    "path": "../../sources/pid-SHTGZFZM3HYYHWRH/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-striped-casual-grey-shirt/p/itm376e435d0f9ad?pid=SHTGZFZM3HYYHWRH&lid=LSTSHTGZFZM3HYYHWRHRNC5A0&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T11:19:59.735Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-striped-casual-grey-shirt/p/itm376e435d0f9ad?pid=SHTGZFZM3HYYHWRH&lid=LSTSHTGZFZM3HYYHWRHRNC5A0&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:20:07.775Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Striped Casual Grey Shirt",
+    "short_description": "Color: Grey\nFabric: Viscose Rayon\nPattern: Striped\nSleeve: Half Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Classic Striped Design\nIntroducing a men's casual shirt featuring a timeless striped pattern. The combination of grey and w…\n\nPremium Viscose Rayon Fabric\nCrafted from high-quality viscose rayon fabric, this shirt offers a luxurious feel against your skin…\n\nVersatile Casual Wear\nThis shirt is suitable for various casual occasions. Whether you're heading out for a lunch date or …",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Viscose Rayon",
+      "Sleeve": "Half Sleeve",
+      "Pattern": "Striped",
+      "Collar": "Spread",
+      "Color": "Grey"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "84f3b08db0edf22590c024ed",
+      "path": "media/images/84f3b08db0edf22590c024ed/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "26d0966e24be2726abb71a9a",
+      "path": "media/videos/26d0966e24be2726abb71a9a/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/k/p/l-mhs-1401-grey-metronaut-original-imahbkcfst2z8yuv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/k/p/l-mhs-1401-grey-metronaut-original-imahbkcfst2z8yuv.jpeg?q=100",
+        "local_path": "../../media/images/84f3b08db0edf22590c024ed/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/e/h/l-mhs-1401-grey-metronaut-original-imahbkcfa8ng29b6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/e/h/l-mhs-1401-grey-metronaut-original-imahbkcfa8ng29b6.jpeg?q=100",
+        "local_path": "../../media/images/84f3b08db0edf22590c024ed/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/b/k/l-mhs-1401-grey-metronaut-original-imahbkcfhkj2xuyv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/b/k/l-mhs-1401-grey-metronaut-original-imahbkcfhkj2xuyv.jpeg?q=100",
+        "local_path": "../../media/images/84f3b08db0edf22590c024ed/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/8/g/l-mhs-1401-grey-metronaut-original-imahbkcfbbfmyvce.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/8/g/l-mhs-1401-grey-metronaut-original-imahbkcfbbfmyvce.jpeg?q=100",
+        "local_path": "../../media/images/84f3b08db0edf22590c024ed/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CN2PQyONCqRWCIrK5920Resw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Striped Casual Grey Shirt",
+      "description": "METRONAUT Men Striped Casual Grey Shirt - Buy METRONAUT Men Striped Casual Grey Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/k/p/l-mhs-1401-grey-metronaut-original-imahbkcfst2z8yuv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/e/h/l-mhs-1401-grey-metronaut-original-imahbkcfa8ng29b6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/b/k/l-mhs-1401-grey-metronaut-original-imahbkcfhkj2xuyv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/8/g/l-mhs-1401-grey-metronaut-original-imahbkcfbbfmyvce.jpeg?q=70"
+      ],
+      "sku": "SHTGZFZM3HYYHWRH",
+      "color": "Grey",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 82,
+        "ratingCount": 2261,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 288,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice",
+          "author": {
+            "name": "Semanth Kota",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-02",
+          "reviewBody": "Good shirts",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Kumaravel  P",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-27",
+          "reviewBody": "Worth of money",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "sachin borde",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-24",
+          "reviewBody": "Good quality product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Striped Design",
+          "body": "Introducing a men's casual shirt featuring a timeless striped pattern. The combination of grey and w…"
+        },
+        {
+          "heading": "Premium Viscose Rayon Fabric",
+          "body": "Crafted from high-quality viscose rayon fabric, this shirt offers a luxurious feel against your skin…"
+        },
+        {
+          "heading": "Versatile Casual Wear",
+          "body": "This shirt is suitable for various casual occasions. Whether you're heading out for a lunch date or …"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Viscose Rayon",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Striped",
+        "Collar": "Spread",
+        "Color": "Grey"
+      },
+      "specifications": {}
+    }
+  }
+}

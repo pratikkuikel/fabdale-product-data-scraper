@@ -1,0 +1,181 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/miss-chief-girls-midi-knee-length-party-dress/p/itmdb5dcac65afe3?pid=KDEHFV4DRU5SEJZG&marketplace=FLIPKART&lid=LSTKDEHFV4DRU5SEJZGPQLLA1&swatchAttr=size&pageUID=1775041278298",
+    "scraped_at": "2026-08-13T15:01:17.559Z",
+    "final_url": "https://www.flipkart.com/miss-chief-girls-midi-knee-length-party-dress/p/itmdb5dcac65afe3?pid=KDEHFV4DRU5SEJZG&marketplace=FLIPKART&lid=LSTKDEHFV4DRU5SEJZGPQLLA1&swatchAttr=size&pageUID=1775041278298"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:01:28.543Z"
+  },
+  "content": {
+    "title": "Miss & Chief Girls Midi/Knee Length Party Dress",
+    "short_description": "Fabric: Modal\nPattern: Self Design\nType: A- Line Dress\nOccasion: Party\nPrimary Color: Pink",
+    "description": "Self Design Elegance\nThis a-line dress showcases a self-design pattern with all-over embellishments, perfect for adding a…\n\nComfortable Modal Fabric\nCrafted from modal fabric, this long dress offers a soft and gentle touch on your child's skin, ensu…\n\nCharming A-line Style\nDesigned in an a-line silhouette with a midi length, this pink dress is ideal for baby girls to twir…\n\nFull Sleeve Comfort\nFeaturing full sleeves, this dress provides warmth and coverage while allowing your little one to mo…",
+    "specifications": {
+      "Type": "A- Line Dress",
+      "Occasion": "Party",
+      "Pattern": "Self Design",
+      "Primary Color": "Pink",
+      "Fabric": "Modal"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/m/r/5-6-years-group8-miss-chief-original-imahfv4ddmyms7t4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/m/r/5-6-years-group8-miss-chief-original-imahfv4ddmyms7t4.jpeg?q=100",
+        "local_path": "../../media/images/95ca4daf0e8d53971ee62d72/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/g/h/5-6-years-group8-miss-chief-original-imahfv4drmk2fqyh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/g/h/5-6-years-group8-miss-chief-original-imahfv4drmk2fqyh.jpeg?q=100",
+        "local_path": "../../media/images/95ca4daf0e8d53971ee62d72/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Miss & Chief Girls Midi/Knee Length Party Dress",
+      "description": "Buy Miss & Chief Girls Midi/Knee Length Party Dress for Rs.1999.0 online. Miss & Chief Girls Midi/Knee Length Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/m/r/5-6-years-group8-miss-chief-original-imahfv4ddmyms7t4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/g/h/5-6-years-group8-miss-chief-original-imahfv4drmk2fqyh.jpeg?q=70"
+      ],
+      "sku": "KDEHFV4DRU5SEJZG",
+      "color": "Pink",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 8,
+        "ratingCount": 354,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Miss & Chief",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 344,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "G k Chhetri",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-14",
+          "reviewBody": "Lovely",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Moderate",
+          "author": {
+            "name": "Ibad khan",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-12",
+          "reviewBody": "Just okay, not cotton not comfortable",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrible product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-11-14",
+          "reviewBody": "Worst fitting, head space too small, does not have a hook, sleeves are too long, even for a 4 years old baby sleeves are long, I ordered it for a 12 mo baby, DO NOT BUY",
+          "reviewRating": {
+            "ratingValue": 1,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Self Design Elegance",
+          "body": "This a-line dress showcases a self-design pattern with all-over embellishments, perfect for adding a…"
+        },
+        {
+          "heading": "Comfortable Modal Fabric",
+          "body": "Crafted from modal fabric, this long dress offers a soft and gentle touch on your child's skin, ensu…"
+        },
+        {
+          "heading": "Charming A-line Style",
+          "body": "Designed in an a-line silhouette with a midi length, this pink dress is ideal for baby girls to twir…"
+        },
+        {
+          "heading": "Full Sleeve Comfort",
+          "body": "Featuring full sleeves, this dress provides warmth and coverage while allowing your little one to mo…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "A- Line Dress",
+        "Occasion": "Party",
+        "Pattern": "Self Design",
+        "Primary Color": "Pink",
+        "Fabric": "Modal"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "95ca4daf0e8d53971ee62d72",
+      "path": "media/images/95ca4daf0e8d53971ee62d72/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

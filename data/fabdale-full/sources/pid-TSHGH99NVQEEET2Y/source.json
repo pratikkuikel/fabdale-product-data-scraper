@@ -1,0 +1,210 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-round-neck-black-t-shirt/p/itm3f5ac4e811597?pid=TSHGH99NVQEEET2Y&lid=LSTTSHGH99NVQEEET2Y8JTFKY&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T15:25:18.753Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-round-neck-black-t-shirt/p/itm3f5ac4e811597?pid=TSHGH99NVQEEET2Y&lid=LSTTSHGH99NVQEEET2Y8JTFKY&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:25:54.306Z"
+  },
+  "content": {
+    "title": "KAJARU Striped Men Round Neck Black T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Striped\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "Classic Striped Design\nThis men's T-shirt features a timeless striped pattern that adds a touch of sophistication to your c…\n\nComfortable and Durable Fabric\nCrafted from high-quality polyester fabric, this T-shirt offers a comfortable and lightweight feel. …\n\nStylish Round Neck and Half Sleeves\nDesigned with a classic round neck and half sleeves, this T-shirt offers a versatile and trendy look…\n\nSlim Fit for a Modern Look\nWith its slim fit, this T-shirt hugs your body in all the right places, creating a modern and stylis…\n\nVersatile Casual Wear\nThis T-shirt is perfect for various casual occasions. Pair it with jeans and sneakers for a laid-bac…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Striped"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/7/x/9/m-tsrt-catalog-03-makemode-resized-original-imagh994b54gppdg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/7/x/9/m-tsrt-catalog-03-makemode-resized-original-imagh994b54gppdg.jpeg?q=100",
+        "local_path": "../../media/images/93181c15c69d506df091eea8/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/k/h/m-tsrt-catalog-03-makemode-original-imagh8qxx8zqqdnz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/k/h/m-tsrt-catalog-03-makemode-original-imagh8qxx8zqqdnz.jpeg?q=100",
+        "local_path": "../../media/images/93181c15c69d506df091eea8/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/a/b/m-tsrt-catalog-03-makemode-original-imagh994vhaay4gg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/a/b/m-tsrt-catalog-03-makemode-original-imagh994vhaay4gg.jpeg?q=100",
+        "local_path": "../../media/images/93181c15c69d506df091eea8/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/1/q/9/m-tsrt-catalog-03-makemode-original-imagh8qxfbudfdhz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/1/q/9/m-tsrt-catalog-03-makemode-original-imagh8qxfbudfdhz.jpeg?q=100",
+        "local_path": "../../media/images/93181c15c69d506df091eea8/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNDDCN7hyxTOKBO1LmOfcZ1g/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Striped Men Round Neck Black T-Shirt",
+      "description": "KAJARU Striped Men Round Neck Black T-Shirt - Buy KAJARU Striped Men Round Neck Black T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/7/x/9/m-tsrt-catalog-03-makemode-resized-original-imagh994b54gppdg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/k/h/m-tsrt-catalog-03-makemode-original-imagh8qxx8zqqdnz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/a/b/m-tsrt-catalog-03-makemode-original-imagh994vhaay4gg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/1/q/9/m-tsrt-catalog-03-makemode-original-imagh8qxfbudfdhz.jpeg?q=70"
+      ],
+      "sku": "TSHGH99NVQEEET2Y",
+      "color": "BLACK",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 7155,
+        "ratingCount": 154709,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 198,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Suman Gorai",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-22",
+          "reviewBody": "Best in look and quality 👍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "JAGDAMBA  MOBILE",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-28",
+          "reviewBody": "Good quality 🤗",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-13",
+          "reviewBody": "Nice product...soft and good quality fabric...for use in summer...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Striped Design",
+          "body": "This men's T-shirt features a timeless striped pattern that adds a touch of sophistication to your c…"
+        },
+        {
+          "heading": "Comfortable and Durable Fabric",
+          "body": "Crafted from high-quality polyester fabric, this T-shirt offers a comfortable and lightweight feel. …"
+        },
+        {
+          "heading": "Stylish Round Neck and Half Sleeves",
+          "body": "Designed with a classic round neck and half sleeves, this T-shirt offers a versatile and trendy look…"
+        },
+        {
+          "heading": "Slim Fit for a Modern Look",
+          "body": "With its slim fit, this T-shirt hugs your body in all the right places, creating a modern and stylis…"
+        },
+        {
+          "heading": "Versatile Casual Wear",
+          "body": "This T-shirt is perfect for various casual occasions. Pair it with jeans and sneakers for a laid-bac…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Striped"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "93181c15c69d506df091eea8",
+      "path": "media/images/93181c15c69d506df091eea8/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "460047462998e5a713b536a2",
+      "path": "media/videos/460047462998e5a713b536a2/media.json",
+      "reused": false
+    }
+  }
+}

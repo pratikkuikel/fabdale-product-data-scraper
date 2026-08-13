@@ -1,0 +1,223 @@
+{
+  "product_id": "5436",
+  "sku": null,
+  "product": {
+    "name": "Kavish Abstract graphic style T-Shirt",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/kajaru-printed-men-round-neck-grey-black-t-shirt/p/itmd79c0fc61d026?pid=TSHGYPFKF7YZG9PC&lid=LSTTSHGYPFKF7YZG9PCGJGQZ0&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHGYPFKF7YZG9PC",
+    "path": "../../sources/pid-TSHGYPFKF7YZG9PC/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-printed-men-round-neck-grey-black-t-shirt/p/itmd79c0fc61d026?pid=TSHGYPFKF7YZG9PC&lid=LSTTSHGYPFKF7YZG9PCGJGQZ0&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T15:17:12.659Z",
+    "final_url": "https://www.flipkart.com/kajaru-printed-men-round-neck-grey-black-t-shirt/p/itmd79c0fc61d026?pid=TSHGYPFKF7YZG9PC&lid=LSTTSHGYPFKF7YZG9PCGJGQZ0&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:17:33.259Z"
+  },
+  "content": {
+    "title": "KAJARU Printed Men Round Neck Grey, Black T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Printed\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "Comfortable Material\nThis polyester T-shirt provides remarkable comfort which makes it an ideal addition to any wardrobe.…\n\nShort-sleeve Design\nFeaturing short sleeves, this T-shirt offers a relaxed and comfortable feel throughout the day by al…\n\nRound Neckline\nWith its classic round neck design, this T-shirt has a timeless and adaptable look which is suitable…\n\nEye-catching Print\nAdding to its style, this T-shirt comes with a printed pattern that adds character to your outfit. T…\n\nHassle-free Fabric Care\nThis T-shirt is easy to care for and maintain with minimal fabric maintenance. Its machine-washable …",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Printed"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "cd714a6df3a28f2cb0ede55a",
+      "path": "media/images/cd714a6df3a28f2cb0ede55a/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "70cad2d2162b836559f919ee",
+      "path": "media/videos/70cad2d2162b836559f919ee/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/q/m/l-tsrt-catalog-14-kajaru-resized-original-imah545dygfvbgsj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/q/m/l-tsrt-catalog-14-kajaru-resized-original-imah545dygfvbgsj.jpeg?q=100",
+        "local_path": "../../media/images/cd714a6df3a28f2cb0ede55a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/j/6/l-tsrt-catalog-14-kajaru-original-imah545d8eekrqd9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/j/6/l-tsrt-catalog-14-kajaru-original-imah545d8eekrqd9.jpeg?q=100",
+        "local_path": "../../media/images/cd714a6df3a28f2cb0ede55a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/w/s/l-tsrt-catalog-14-kajaru-original-imah545dsgdqgp9s.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/w/s/l-tsrt-catalog-14-kajaru-original-imah545dsgdqgp9s.jpeg?q=100",
+        "local_path": "../../media/images/cd714a6df3a28f2cb0ede55a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/k/b/l-tsrt-catalog-14-kajaru-original-imah545dkczt5bgz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/k/b/l-tsrt-catalog-14-kajaru-original-imah545dkczt5bgz.jpeg?q=100",
+        "local_path": "../../media/images/cd714a6df3a28f2cb0ede55a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/h/l/xl-tsrt-catalog-14-makemode-original-imah4uffwag74rvh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/h/l/xl-tsrt-catalog-14-makemode-original-imah4uffwag74rvh.jpeg?q=100",
+        "local_path": "../../media/images/cd714a6df3a28f2cb0ede55a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNNhO3mgLkQvOQNUT6iGJ04g/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNEY2LLrWsSZuQHPMlDcfMOA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Printed Men Round Neck Grey, Black T-Shirt",
+      "description": "KAJARU Printed Men Round Neck Grey, Black T-Shirt - Buy KAJARU Printed Men Round Neck Grey, Black T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/q/m/l-tsrt-catalog-14-kajaru-resized-original-imah545dygfvbgsj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/j/6/l-tsrt-catalog-14-kajaru-original-imah545d8eekrqd9.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/w/s/l-tsrt-catalog-14-kajaru-original-imah545dsgdqgp9s.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/k/b/l-tsrt-catalog-14-kajaru-original-imah545dkczt5bgz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/h/l/xl-tsrt-catalog-14-makemode-original-imah4uffwag74rvh.jpeg?q=70"
+      ],
+      "sku": "TSHGYPFKF7YZG9PC",
+      "color": "DARK GREY",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 810,
+        "ratingCount": 33581,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 166,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Manoj Kumar  Satpathy ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-12",
+          "reviewBody": "Nice  Product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Premchand Rana",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-07",
+          "reviewBody": "Very good 👍  \nNice looking 👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Gopal  Khati",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-12",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Comfortable Material",
+          "body": "This polyester T-shirt provides remarkable comfort which makes it an ideal addition to any wardrobe.…"
+        },
+        {
+          "heading": "Short-sleeve Design",
+          "body": "Featuring short sleeves, this T-shirt offers a relaxed and comfortable feel throughout the day by al…"
+        },
+        {
+          "heading": "Round Neckline",
+          "body": "With its classic round neck design, this T-shirt has a timeless and adaptable look which is suitable…"
+        },
+        {
+          "heading": "Eye-catching Print",
+          "body": "Adding to its style, this T-shirt comes with a printed pattern that adds character to your outfit. T…"
+        },
+        {
+          "heading": "Hassle-free Fabric Care",
+          "body": "This T-shirt is easy to care for and maintain with minimal fabric maintenance. Its machine-washable …"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  }
+}

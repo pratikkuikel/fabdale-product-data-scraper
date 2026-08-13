@@ -1,0 +1,44 @@
+{
+  "key": "fca7b21663ee8ca17d250bf5",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T14:52:46.215Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/y/d/g/m-0822-sh361-01-the-indian-garage-co-original-imagmnqkwhkeqpsq.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/y/d/g/m-0822-sh361-01-the-indian-garage-co-original-imagmnqkwhkeqpsq.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/l/1/m-0822-sh361-01-the-indian-garage-co-original-imagmnqkuazfyakq.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/l/1/m-0822-sh361-01-the-indian-garage-co-original-imagmnqkuazfyakq.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/z/c/m-0822-sh361-01-the-indian-garage-co-original-imagmnqkw94unzms.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/z/c/m-0822-sh361-01-the-indian-garage-co-original-imagmnqkw94unzms.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/0/u/m-0822-sh361-01-the-indian-garage-co-original-imagmnqkghzuv3gx.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/0/u/m-0822-sh361-01-the-indian-garage-co-original-imagmnqkghzuv3gx.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/q/f/m-0822-sh361-01-the-indian-garage-co-original-imagmnqkqes7z3fj.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/q/f/m-0822-sh361-01-the-indian-garage-co-original-imagmnqkqes7z3fj.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "product_id": "5880",
+  "sku": "Fab-Dress-FSHD-002GR-L",
+  "product": {
+    "name": "Fablina Midi-length shirt dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm7a29cf038a23f?pid=KDEHATGV2WF5SQFQ&marketplace=FLIPKART&lid=LSTKDEHATGV2WF5SQFQJASQIM&swatchAttr=size&pageUID=1775576026304"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHATGV2WF5SQFQ",
+    "path": "../../sources/pid-KDEHATGV2WF5SQFQ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm7a29cf038a23f?pid=KDEHATGV2WF5SQFQ&lid=LSTKDEHATGV2WF5SQFQJASQIM&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T15:06:28.848Z",
+    "final_url": "https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm7a29cf038a23f?pid=KDEHATGV2WF5SQFQ&lid=LSTKDEHATGV2WF5SQFQJASQIM&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:06:38.947Z"
+  },
+  "content": {
+    "title": "Fashion Dream Girls Calf Length Casual Dress",
+    "short_description": "Buy Fashion Dream Girls Calf Length Casual Dress for Rs.1799.0 online. Fashion Dream Girls Calf Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "description": "Buy Fashion Dream Girls Calf Length Casual Dress for Rs.1799.0 online. Fashion Dream Girls Calf Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "227b89c7f8ad94fc752044da",
+      "path": "media/images/227b89c7f8ad94fc752044da/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/9/e/b/7-8-years-fdgfrk00417-gry-fashion-dream-resized-original-imahkg7dgzmsq8qz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/9/e/b/7-8-years-fdgfrk00417-gry-fashion-dream-resized-original-imahkg7dgzmsq8qz.jpeg?q=100",
+        "local_path": "../../media/images/227b89c7f8ad94fc752044da/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/e/f/7-8-years-fdgfrk00417-gry-fashion-dream-original-imahkg7dsrewyhtn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/e/f/7-8-years-fdgfrk00417-gry-fashion-dream-original-imahkg7dsrewyhtn.jpeg?q=100",
+        "local_path": "../../media/images/227b89c7f8ad94fc752044da/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/1/e/7-8-years-fdgfrk00417-gry-fashion-dream-original-imahkg7dzn2y9g9s.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/1/e/7-8-years-fdgfrk00417-gry-fashion-dream-original-imahkg7dzn2y9g9s.jpeg?q=100",
+        "local_path": "../../media/images/227b89c7f8ad94fc752044da/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/b/t/7-8-years-fdgfrk00417-gry-fashion-dream-original-imahkg7dwmgbztyg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/b/t/7-8-years-fdgfrk00417-gry-fashion-dream-original-imahkg7dwmgbztyg.jpeg?q=100",
+        "local_path": "../../media/images/227b89c7f8ad94fc752044da/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Fashion Dream Girls Calf Length Casual Dress",
+      "description": "Buy Fashion Dream Girls Calf Length Casual Dress for Rs.1799.0 online. Fashion Dream Girls Calf Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/9/e/b/7-8-years-fdgfrk00417-gry-fashion-dream-resized-original-imahkg7dgzmsq8qz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/e/f/7-8-years-fdgfrk00417-gry-fashion-dream-original-imahkg7dsrewyhtn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/1/e/7-8-years-fdgfrk00417-gry-fashion-dream-original-imahkg7dzn2y9g9s.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/b/t/7-8-years-fdgfrk00417-gry-fashion-dream-original-imahkg7dwmgbztyg.jpeg?q=70"
+      ],
+      "sku": "KDEHATGV2WF5SQFQ",
+      "color": "GREY",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 34,
+        "ratingCount": 649,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Fashion Dream",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 461,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Dwarakanatha Reddy  Sareddy ",
+            "@type": "Person"
+          },
+          "datePublished": "2026-01-15",
+          "reviewBody": "Product was awesome it's extremely very good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-02",
+          "reviewBody": "Fabric was soft",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-03-02",
+          "reviewBody": "Liked it 😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

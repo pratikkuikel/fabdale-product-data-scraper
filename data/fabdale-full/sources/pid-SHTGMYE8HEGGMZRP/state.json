@@ -1,0 +1,25 @@
+{
+  "source_key": "pid-SHTGMYE8HEGGMZRP",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2688",
+    "2689",
+    "2690",
+    "2691",
+    "2692",
+    "5507",
+    "6442",
+    "6443",
+    "6444",
+    "6445",
+    "6446"
+  ],
+  "source_path": "sources/pid-SHTGMYE8HEGGMZRP/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:40:00.631Z",
+  "completed_at": "2026-08-13T14:40:16.306Z"
+}

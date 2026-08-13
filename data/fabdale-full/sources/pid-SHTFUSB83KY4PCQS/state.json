@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-SHTFUSB83KY4PCQS",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2454",
+    "2455",
+    "2456",
+    "2457",
+    "2458",
+    "5465"
+  ],
+  "source_path": "sources/pid-SHTFUSB83KY4PCQS/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:24:17.125Z",
+  "completed_at": "2026-08-13T14:24:26.318Z"
+}

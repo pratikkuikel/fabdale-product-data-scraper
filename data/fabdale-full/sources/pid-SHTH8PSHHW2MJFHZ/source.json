@@ -1,0 +1,210 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-blue-shirt/p/itmf59aab6138c73?pid=SHTH8PSHHW2MJFHZ&marketplace=FLIPKART&lid=LSTSHTH8PSHHW2MJFHZOL8QGL&swatchAttr=size&pageUID=1773397051753",
+    "scraped_at": "2026-08-13T11:20:30.759Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-blue-shirt/p/itmf59aab6138c73?pid=SHTH8PSHHW2MJFHZ&marketplace=FLIPKART&lid=LSTSHTH8PSHHW2MJFHZOL8QGL&swatchAttr=size&pageUID=1773397051753"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:20:39.128Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Checkered Casual Blue Shirt",
+    "short_description": "Color: Blue\nFabric: Cotton Blend\nPattern: Checkered\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Other Details\nOwing to its classic solid pattern, the Tanip Men's Solid Casual Shirt is sure to be a wardrobe essential. And, the simplicity of a solid colour allows for a myriad of styling possibilities. So, whether you prefer a relaxed or refined look, this shirt is a versatile piece that suits every occasion. Hence, you can pair it effortlessly with denim and sneakers for a laid-back vibe, or dress it up with chinos and loafers for a formal or party-ready ensemble.\n\nOther Dimensions\nMade from pure cotton, this shirt offers a luxurious softness against your skin. Additionally, the fabric ensures breathability, making this shirt ideal for all-day wear. Also, the natural properties of cotton allow air to circulate freely, keeping you cool and fresh even in warm weather. Therefore, whether you're attending a casual gathering or a formal event, this shirt ensures that you feel comfortable and at ease, allowing you to focus on enjoying the moment while looking classy.",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Checkered",
+      "Collar": "Spread",
+      "Color": "Blue"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/u/a/l-met-shirt1801-metronaut-original-imahgrb9gvpfa8qm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/u/a/l-met-shirt1801-metronaut-original-imahgrb9gvpfa8qm.jpeg?q=100",
+        "local_path": "../../media/images/00b64e1ad39ec4f2a8618d54/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/6/h/l-met-shirt1801-metronaut-original-imahgrb9nxcnc6zf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/6/h/l-met-shirt1801-metronaut-original-imahgrb9nxcnc6zf.jpeg?q=100",
+        "local_path": "../../media/images/00b64e1ad39ec4f2a8618d54/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/y/4/l-met-shirt1801-metronaut-original-imahgrb99hsw3eus.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/y/4/l-met-shirt1801-metronaut-original-imahgrb99hsw3eus.jpeg?q=100",
+        "local_path": "../../media/images/00b64e1ad39ec4f2a8618d54/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/e/n/m-met-shirt1801-metronaut-original-imahgrb9sgfwhvae.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/e/n/m-met-shirt1801-metronaut-original-imahgrb9sgfwhvae.jpeg?q=100",
+        "local_path": "../../media/images/00b64e1ad39ec4f2a8618d54/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/9/j/z/m-met-shirt1801-metronaut-original-imahgrb9ubrcwb9a.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/9/j/z/m-met-shirt1801-metronaut-original-imahgrb9ubrcwb9a.jpeg?q=100",
+        "local_path": "../../media/images/00b64e1ad39ec4f2a8618d54/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNkFgHZRLUSOW7ky8noJ8I3g/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Checkered Casual Blue Shirt",
+      "description": "METRONAUT Men Checkered Casual Blue Shirt - Buy METRONAUT Men Checkered Casual Blue Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/u/a/l-met-shirt1801-metronaut-original-imahgrb9gvpfa8qm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/6/h/l-met-shirt1801-metronaut-original-imahgrb9nxcnc6zf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/y/4/l-met-shirt1801-metronaut-original-imahgrb99hsw3eus.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/e/n/m-met-shirt1801-metronaut-original-imahgrb9sgfwhvae.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/9/j/z/m-met-shirt1801-metronaut-original-imahgrb9ubrcwb9a.jpeg?q=70"
+      ],
+      "sku": "SHTH8PSHHW2MJFHZ",
+      "color": "Royal Blue",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 5520,
+        "ratingCount": 97060,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 294,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "shubha kirtaniya",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-25",
+          "reviewBody": "Value for money 💰 for daily use awesome.\nFabric quite good 👍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Shivam rawat",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-13",
+          "reviewBody": "Value of money",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-01",
+          "reviewBody": "Nice pic",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Other Details",
+          "body": "Owing to its classic solid pattern, the Tanip Men's Solid Casual Shirt is sure to be a wardrobe essential. And, the simplicity of a solid colour allows for a myriad of styling possibilities. So, whether you prefer a relaxed or refined look, this shirt is a versatile piece that suits every occasion. Hence, you can pair it effortlessly with denim and sneakers for a laid-back vibe, or dress it up with chinos and loafers for a formal or party-ready ensemble."
+        },
+        {
+          "heading": "Other Dimensions",
+          "body": "Made from pure cotton, this shirt offers a luxurious softness against your skin. Additionally, the fabric ensures breathability, making this shirt ideal for all-day wear. Also, the natural properties of cotton allow air to circulate freely, keeping you cool and fresh even in warm weather. Therefore, whether you're attending a casual gathering or a formal event, this shirt ensures that you feel comfortable and at ease, allowing you to focus on enjoying the moment while looking classy."
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Collar": "Spread",
+        "Color": "Blue"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "00b64e1ad39ec4f2a8618d54",
+      "path": "media/images/00b64e1ad39ec4f2a8618d54/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "f27b7cf343763bca19d095e7",
+      "path": "media/videos/f27b7cf343763bca19d095e7/media.json",
+      "reused": false
+    }
+  }
+}

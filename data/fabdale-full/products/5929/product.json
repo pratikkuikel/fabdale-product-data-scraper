@@ -1,0 +1,191 @@
+{
+  "product_id": "5929",
+  "sku": "Fab-Dress-FSHD-009G-M",
+  "product": {
+    "name": "Fablina Organic abstract print dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm2a6746d0aa117?pid=KDEHGJ8F7EMZZSH5&marketplace=FLIPKART&lid=LSTKDEHGJ8F7EMZZSH50TUSA4&fm=organic&swatchAttr=size&pageUID=1775581043624"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHGJ8F7EMZZSH5",
+    "path": "../../sources/pid-KDEHGJ8F7EMZZSH5/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm2a6746d0aa117?pid=KDEHGJ8F7EMZZSH5&otracker=wishlist&lid=LSTKDEHGJ8F7EMZZSH50TUSA4&fm=organic&iid=5011079f-2053-4064-8c42-0c0e48fb0103.KDEHGJ8F7EMZZSH5.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=bmhu7lb51s0000001763825744729",
+    "scraped_at": "2026-08-13T15:06:40.119Z",
+    "final_url": "https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm2a6746d0aa117?pid=KDEHGJ8F7EMZZSH5&otracker=wishlist&lid=LSTKDEHGJ8F7EMZZSH50TUSA4&fm=organic&iid=5011079f-2053-4064-8c42-0c0e48fb0103.KDEHGJ8F7EMZZSH5.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=bmhu7lb51s0000001763825744729"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:06:55.814Z"
+  },
+  "content": {
+    "title": "Fashion Dream Girls Calf Length Casual Dress",
+    "short_description": "Fabric: Rayon Blend\nPattern: Printed\nType: Fit and Flare Dress\nOccasion: Casual\nPrimary Color: Green, White",
+    "description": "Buy Fashion Dream Girls Calf Length Casual Dress for Rs.1799.0 online. Fashion Dream Girls Calf Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {
+      "Type": "Fit and Flare Dress",
+      "Occasion": "Casual",
+      "Pattern": "Printed",
+      "Primary Color": "Green, White",
+      "Fabric": "Rayon Blend"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "d4490676f688e282745c531f",
+      "path": "media/images/d4490676f688e282745c531f/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/w/c/f/7-8-years-fdgfrk00480-grn-fashion-dream-resized-original-imahh6xzehwftzsf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/w/c/f/7-8-years-fdgfrk00480-grn-fashion-dream-resized-original-imahh6xzehwftzsf.jpeg?q=100",
+        "local_path": "../../media/images/d4490676f688e282745c531f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/v/w/7-8-years-fdgfrk00480-grn-fashion-dream-original-imahh6xztjwmaxcw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/v/w/7-8-years-fdgfrk00480-grn-fashion-dream-original-imahh6xztjwmaxcw.jpeg?q=100",
+        "local_path": "../../media/images/d4490676f688e282745c531f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/n/q/7-8-years-fdgfrk00480-grn-fashion-dream-original-imahh6xz6zcq7xcc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/n/q/7-8-years-fdgfrk00480-grn-fashion-dream-original-imahh6xz6zcq7xcc.jpeg?q=100",
+        "local_path": "../../media/images/d4490676f688e282745c531f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/i/w/7-8-years-fdgfrk00480-grn-fashion-dream-original-imahh6xzrhhrp95f.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/i/w/7-8-years-fdgfrk00480-grn-fashion-dream-original-imahh6xzrhhrp95f.jpeg?q=100",
+        "local_path": "../../media/images/d4490676f688e282745c531f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Fashion Dream Girls Calf Length Casual Dress",
+      "description": "Buy Fashion Dream Girls Calf Length Casual Dress for Rs.1799.0 online. Fashion Dream Girls Calf Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/w/c/f/7-8-years-fdgfrk00480-grn-fashion-dream-resized-original-imahh6xzehwftzsf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/v/w/7-8-years-fdgfrk00480-grn-fashion-dream-original-imahh6xztjwmaxcw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/n/q/7-8-years-fdgfrk00480-grn-fashion-dream-original-imahh6xz6zcq7xcc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/i/w/7-8-years-fdgfrk00480-grn-fashion-dream-original-imahh6xzrhhrp95f.jpeg?q=70"
+      ],
+      "sku": "KDEHGJ8F7EMZZSH5",
+      "color": "GREEN",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 4,
+        "ratingCount": 150,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Fashion Dream",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 500,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Ruby  Ahmed ",
+            "@type": "Person"
+          },
+          "datePublished": "2026-03-16",
+          "reviewBody": "Very beautiful product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Deepak Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2026-08-11",
+          "reviewBody": "Buy with confidence",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fair",
+          "author": {
+            "name": "Joy Sarkary",
+            "@type": "Person"
+          },
+          "datePublished": "2026-06-17",
+          "reviewBody": "Material is goos as shown in the photos of your website, so for me not recommended for people and it wont suit",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "Fit and Flare Dress",
+        "Occasion": "Casual",
+        "Pattern": "Printed",
+        "Primary Color": "Green, White",
+        "Fabric": "Rayon Blend"
+      },
+      "specifications": {}
+    }
+  }
+}

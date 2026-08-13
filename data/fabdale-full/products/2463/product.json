@@ -1,0 +1,205 @@
+{
+  "product_id": "2463",
+  "sku": "Fab-Shirt-ALSN-007YL-XXL",
+  "product": {
+    "name": "Alvyn Plain Yellow Shirt",
+    "parent_id": "5466",
+    "notes": "https://www.flipkart.com/allen-solly-men-solid-casual-yellow-shirt/p/itm99b43442e9632?pid=SHTFUSCDMAJP2QCG&lid=LSTSHTFUSCDMAJP2QCGXTM0EL&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_2_63&otracker=search&fm=Search&iid=9e40b7f7-2522-4a77-b15d-9fb3c8b9aa9c.SHTFUSCDMAJP2QCG.SEARCH&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725"
+  },
+  "source_bundle": {
+    "key": "pid-SHTFUSCDMAJP2QCG",
+    "path": "../../sources/pid-SHTFUSCDMAJP2QCG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/allen-solly-men-solid-casual-yellow-shirt/p/itm99b43442e9632?pid=SHTFUSCDMAJP2QCG&lid=LSTSHTFUSCDMAJP2QCGXTM0EL&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_2_63&otracker=search&fm=Search&iid=9e40b7f7-2522-4a77-b15d-9fb3c8b9aa9c.SHTFUSCDMAJP2QCG.SEARCH&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725",
+    "scraped_at": "2026-08-13T14:24:27.358Z",
+    "final_url": "https://www.flipkart.com/allen-solly-men-solid-casual-yellow-shirt/p/itm99b43442e9632?pid=SHTFUSCDMAJP2QCG&lid=LSTSHTFUSCDMAJP2QCGXTM0EL&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_2_63&otracker=search&fm=Search&iid=9e40b7f7-2522-4a77-b15d-9fb3c8b9aa9c.SHTFUSCDMAJP2QCG.SEARCH&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:24:36.561Z"
+  },
+  "content": {
+    "title": "Allen Solly Men Solid Casual Yellow Shirt",
+    "short_description": "Color: Yellow\nFabric: Pure Cotton\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "Styling Tips by Hiren, Fashion Influencer\nAdd character to your look with this crisp and classy shirt. Complement it with a pair of plain trou…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Cut Away",
+      "Color": "Yellow"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4662d460f6c2f931c78c678d",
+      "path": "media/images/4662d460f6c2f931c78c678d/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "ac1c929bc2c5ed4d8777aa00",
+      "path": "media/videos/ac1c929bc2c5ed4d8777aa00/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/k/3/-original-imahq63m52r4whcn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/k/3/-original-imahq63m52r4whcn.jpeg?q=100",
+        "local_path": "../../media/images/4662d460f6c2f931c78c678d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/9/j/s/40-assfqmofb38511-allen-solly-original-imafw6v9kht6wz4g.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/9/j/s/40-assfqmofb38511-allen-solly-original-imafw6v9kht6wz4g.jpeg?q=100",
+        "local_path": "../../media/images/4662d460f6c2f931c78c678d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/p/x/m/40-assfqmofb38511-allen-solly-original-imafw6v9ekxn4ae4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/p/x/m/40-assfqmofb38511-allen-solly-original-imafw6v9ekxn4ae4.jpeg?q=100",
+        "local_path": "../../media/images/4662d460f6c2f931c78c678d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/m/0/b/40-assfqmofb38511-allen-solly-original-imafw6v92zuydbrh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/m/0/b/40-assfqmofb38511-allen-solly-original-imafw6v92zuydbrh.jpeg?q=100",
+        "local_path": "../../media/images/4662d460f6c2f931c78c678d/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/m/x/p/40-assfqmofb38511-allen-solly-original-imafw6v9tjnq8cgz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/m/x/p/40-assfqmofb38511-allen-solly-original-imafw6v9tjnq8cgz.jpeg?q=100",
+        "local_path": "../../media/images/4662d460f6c2f931c78c678d/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNOVCvfIp1TK27ThgtanNfIA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Allen Solly Men Solid Casual Yellow Shirt",
+      "description": "Allen Solly Men Solid Casual Yellow Shirt - Buy Allen Solly Men Solid Casual Yellow Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/k/3/-original-imahq63m52r4whcn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/9/j/s/40-assfqmofb38511-allen-solly-original-imafw6v9kht6wz4g.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/p/x/m/40-assfqmofb38511-allen-solly-original-imafw6v9ekxn4ae4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/m/0/b/40-assfqmofb38511-allen-solly-original-imafw6v92zuydbrh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kfu0h3k0-0/shirt/m/x/p/40-assfqmofb38511-allen-solly-original-imafw6v9tjnq8cgz.jpeg?q=70"
+      ],
+      "sku": "SHTFUSCDMAJP2QCG",
+      "color": "Yellow",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 865,
+        "ratingCount": 12757,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Allen Solly",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 657,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2021-04-07",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Tina Twinkle",
+            "@type": "Person"
+          },
+          "datePublished": "2020-10-30",
+          "reviewBody": "I love this shirt 😍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Pradeepgowda",
+            "@type": "Person"
+          },
+          "datePublished": "2021-03-22",
+          "reviewBody": "Good condition",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Styling Tips by Hiren, Fashion Influencer",
+          "body": "Add character to your look with this crisp and classy shirt. Complement it with a pair of plain trou…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Cut Away",
+        "Color": "Yellow"
+      },
+      "specifications": {}
+    }
+  }
+}

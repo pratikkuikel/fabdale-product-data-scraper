@@ -1,0 +1,194 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/highlander-men-printed-casual-light-blue-pink-grey-shirt/p/itm69eb37fffa3cc?pid=SHTFQ2B7Z4SUFYR8&marketplace=FLIPKART&lid=LSTSHTFQ2B7Z4SUFYR8WU2EXL&swatchAttr=size&pageUID=1773662534729",
+    "scraped_at": "2026-08-13T14:16:53.693Z",
+    "final_url": "https://www.flipkart.com/highlander-men-printed-casual-light-blue-pink-grey-shirt/p/itm69eb37fffa3cc?pid=SHTFQ2B7Z4SUFYR8&marketplace=FLIPKART&lid=LSTSHTFQ2B7Z4SUFYR8WU2EXL&swatchAttr=size&pageUID=1773662534729"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:16:58.130Z"
+  },
+  "content": {
+    "title": "HIGHLANDER Men Printed Casual Light Blue, Pink, Grey Shirt",
+    "short_description": "Color: Light Blue, Pink, Grey\nFabric: Cotton Blend\nPattern: Printed\nSleeve: Half Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "About the Brand\nHighlander is a trend-forward Fashion and Lifestyle brand. It combines Casual Style and Easy Dressing to help #makesense in Fashion.",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Half Sleeve",
+      "Pattern": "Printed",
+      "Collar": "Cut Away",
+      "Color": "Light Blue, Pink, Grey"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/6/3/-original-imah9gvxzqhyfh66.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/6/3/-original-imah9gvxzqhyfh66.jpeg?q=100",
+        "local_path": "../../media/images/61b5b670f2afecf337bf0573/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/w/z/-original-imah9gvxe8xugcv6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/w/z/-original-imah9gvxe8xugcv6.jpeg?q=100",
+        "local_path": "../../media/images/61b5b670f2afecf337bf0573/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/4/n/c/-original-imah9gvx9xssb9nf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/4/n/c/-original-imah9gvx9xssb9nf.jpeg?q=100",
+        "local_path": "../../media/images/61b5b670f2afecf337bf0573/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/h/p/-original-imah9gvxxryn4cxf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/h/p/-original-imah9gvxxryn4cxf.jpeg?q=100",
+        "local_path": "../../media/images/61b5b670f2afecf337bf0573/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/p/q/-original-imah9gvxzcyxfsqd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/p/q/-original-imah9gvxzcyxfsqd.jpeg?q=100",
+        "local_path": "../../media/images/61b5b670f2afecf337bf0573/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNTNN60GY0TxiLWPeZEbaLdg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "HIGHLANDER Men Printed Casual Light Blue, Pink, Grey Shirt",
+      "description": "HIGHLANDER Men Printed Casual Light Blue, Pink, Grey Shirt - Buy HIGHLANDER Men Printed Casual Light Blue, Pink, Grey Shirt For Only Rs. 1049.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/6/3/-original-imah9gvxzqhyfh66.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/w/z/-original-imah9gvxe8xugcv6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/4/n/c/-original-imah9gvx9xssb9nf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/h/p/-original-imah9gvxxryn4cxf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/p/q/-original-imah9gvxzcyxfsqd.jpeg?q=70"
+      ],
+      "sku": "SHTFQ2B7Z4SUFYR8",
+      "color": "Multicolor",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 244,
+        "ratingCount": 2194,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "HIGHLANDER",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 314,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Irfan Muhammed",
+            "@type": "Person"
+          },
+          "datePublished": "2020-07-06",
+          "reviewBody": "Great Quality & Good Design. \nColor faded after long use.",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "PUSHAN  KUMAR ",
+            "@type": "Person"
+          },
+          "datePublished": "2021-05-18",
+          "reviewBody": "Good shirt",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2021-04-15",
+          "reviewBody": "Good for this price range.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "About the Brand",
+          "body": "Highlander is a trend-forward Fashion and Lifestyle brand. It combines Casual Style and Easy Dressing to help #makesense in Fashion."
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Printed",
+        "Collar": "Cut Away",
+        "Color": "Light Blue, Pink, Grey"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "61b5b670f2afecf337bf0573",
+      "path": "media/images/61b5b670f2afecf337bf0573/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "8d0575d8b10a98f110c1661d",
+      "path": "media/videos/8d0575d8b10a98f110c1661d/media.json",
+      "reused": true
+    }
+  }
+}

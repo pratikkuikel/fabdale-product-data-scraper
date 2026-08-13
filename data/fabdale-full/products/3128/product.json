@@ -1,0 +1,190 @@
+{
+  "product_id": "3128",
+  "sku": "Fab-TShirt-KAJR-008OR-XL",
+  "product": {
+    "name": "Kavish Vertical geometric Print T-Shirt",
+    "parent_id": "5194",
+    "notes": "https://www.flipkart.com/kajaru-striped-men-round-neck-orange-t-shirt/p/itmc2d0a8c9c7530?pid=TSHH3ENQZRAEZGFG&marketplace=FLIPKART&lid=LSTTSHH3ENQZRAEZGFGGPEHEK&swatchAttr=size&pageUID=1772989531911"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH3ENQZRAEZGFG",
+    "path": "../../sources/pid-TSHH3ENQZRAEZGFG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-round-neck-orange-t-shirt/p/itmc2d0a8c9c7530?pid=TSHH3ENQZRAEZGFG&marketplace=FLIPKART&lid=LSTTSHH3ENQZRAEZGFGGPEHEK&swatchAttr=size&pageUID=1772989531911",
+    "scraped_at": "2026-08-13T15:28:19.534Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-round-neck-orange-t-shirt/p/itmc2d0a8c9c7530?pid=TSHH3ENQZRAEZGFG&marketplace=FLIPKART&lid=LSTTSHH3ENQZRAEZGFGGPEHEK&swatchAttr=size&pageUID=1772989531911"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:28:37.184Z"
+  },
+  "content": {
+    "title": "KAJARU Men Striped Round Neck Polyester Orange T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Striped\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": null,
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Striped"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "14202992b0b5244fb44f5dcf",
+      "path": "media/images/14202992b0b5244fb44f5dcf/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/w/j/y/xxl-tsrt-catalog-03-kajaru-original-imah3enpkzsbc87h.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/w/j/y/xxl-tsrt-catalog-03-kajaru-original-imah3enpkzsbc87h.jpeg?q=100",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/o/u/g/xxl-tsrt-catalog-03-kajaru-original-imah3enphbfgq6nd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/o/u/g/xxl-tsrt-catalog-03-kajaru-original-imah3enphbfgq6nd.jpeg?q=100",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/e/x/k/xxl-tsrt-catalog-03-kajaru-original-imah3enpuhgq5vmj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/e/x/k/xxl-tsrt-catalog-03-kajaru-original-imah3enpuhgq5vmj.jpeg?q=100",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/z/t/a/xxl-tsrt-catalog-03-kajaru-original-imah3enpyszpbk22.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/z/t/a/xxl-tsrt-catalog-03-kajaru-original-imah3enpyszpbk22.jpeg?q=100",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/5/r/7/xxl-tsrt-catalog-03-kajaru-original-imah3enpuqdmjzxb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/5/r/7/xxl-tsrt-catalog-03-kajaru-original-imah3enpuqdmjzxb.jpeg?q=100",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a6504670b41c4108bf487bd5688e3f8b.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a6504670b41c4108bf487bd5688e3f8b.jpg?q=80",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_4c3fa37d0cc7414484e01bb2478a4351.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_4c3fa37d0cc7414484e01bb2478a4351.jpg?q=80",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_5b580085fd7d473185e3cb9233d6ee2b.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_5b580085fd7d473185e3cb9233d6ee2b.jpg?q=80",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_6aab99a3a5bf4376ac26a6dc8de3635c.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_6aab99a3a5bf4376ac26a6dc8de3635c.jpg?q=80",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_c808c10ab3be4bbfb067aa773062d589.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_c808c10ab3be4bbfb067aa773062d589.jpg?q=80",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/y/l/h/xxl-rn-soldier-magneto-resized-original-imahm8kh5zsymruz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/y/l/h/xxl-rn-soldier-magneto-resized-original-imahm8kh5zsymruz.jpeg?q=100",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/5/m/l-p1fy2rjp81-metronaut-resized-original-imahkz5hz2cp2qy5.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/5/m/l-p1fy2rjp81-metronaut-resized-original-imahkz5hz2cp2qy5.jpeg?q=100",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/v/i/s/s-tsrt-catalog-03-kajaru-resized-original-imagqmy7khm5qgwu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/v/i/s/s-tsrt-catalog-03-kajaru-resized-original-imagqmy7khm5qgwu.jpeg?q=100",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/0/e/w/m-tsrt-catalog-03-makemode-resized-original-imagk3fzfhsahd6z.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/0/e/w/m-tsrt-catalog-03-makemode-resized-original-imagk3fzfhsahd6z.jpeg?q=100",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/p/u/xxl-tsrt-catalog-01-kajaru-resized-original-imagk49cgwsfcf33.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/p/u/xxl-tsrt-catalog-01-kajaru-resized-original-imagk49cgwsfcf33.jpeg?q=100",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/q/t/d/s-tsrt-catalog-03-kajaru-resized-original-imaghhj3whmjvgfv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/q/t/d/s-tsrt-catalog-03-kajaru-resized-original-imaghhj3whmjvgfv.jpeg?q=100",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/h/7/f/xl-eyes-tshirt5-maroon-eddicted-original-imahhygssh9ghd88.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/h/7/f/xl-eyes-tshirt5-maroon-eddicted-original-imahhygssh9ghd88.jpeg?q=100",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-017.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/o/y/d/-original-imahjzpvk45xggxh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/o/y/d/-original-imahjzpvk45xggxh.jpeg?q=100",
+        "local_path": "../../media/images/14202992b0b5244fb44f5dcf/assets/images/image-018.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Striped"
+      },
+      "specifications": {}
+    }
+  }
+}

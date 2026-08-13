@@ -1,0 +1,225 @@
+{
+  "product_id": "2440",
+  "sku": "Fab-Shirt-ALSN-003BK-M",
+  "product": {
+    "name": "Alvyn Plain Black Shirt",
+    "parent_id": "5462",
+    "notes": "https://www.flipkart.com/allen-solly-men-solid-casual-black-shirt/p/itm0a7fc86d5c346?pid=SHTGPV5ZSUY5JGVF&lid=LSTSHTGPV5ZSUY5JGVFVZVMCP&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_2_54&otracker=search&fm=Search&iid=9e40b7f7-2522-4a77-b15d-9fb3c8b9aa9c.SHTGPV5ZSUY5JGVF.SEARCH&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGPV5ZSUY5JGVF",
+    "path": "../../sources/pid-SHTGPV5ZSUY5JGVF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/allen-solly-men-solid-casual-black-shirt/p/itm0a7fc86d5c346?pid=SHTGPV5ZSUY5JGVF&lid=LSTSHTGPV5ZSUY5JGVFVZVMCP&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_2_54&otracker=search&fm=Search&iid=9e40b7f7-2522-4a77-b15d-9fb3c8b9aa9c.SHTGPV5ZSUY5JGVF.SEARCH&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725",
+    "scraped_at": "2026-08-13T14:23:58.273Z",
+    "final_url": "https://www.flipkart.com/allen-solly-men-solid-casual-black-shirt/p/itm0a7fc86d5c346?pid=SHTGPV5ZSUY5JGVF&lid=LSTSHTGPV5ZSUY5JGVFVZVMCP&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_2_54&otracker=search&fm=Search&iid=9e40b7f7-2522-4a77-b15d-9fb3c8b9aa9c.SHTGPV5ZSUY5JGVF.SEARCH&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:24:05.179Z"
+  },
+  "content": {
+    "title": "Allen Solly Men Solid Casual Black Shirt",
+    "short_description": "Color: Black\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Solid Pattern\nFeaturing a solid pattern, this men’s casual shirt exudes an air of style and sophistication, making…\n\nDurable Fabric\nCrafted from a high-quality cotton blend fabric, this shirt ensures long-lasting performance. The ca…\n\nVersatile Wear\nOwing to its versatility, this shirt is suitable for various occasions. Whether you want a smart-cas…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Black"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "fe286653d04f426736e61e33",
+      "path": "media/images/fe286653d04f426736e61e33/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "669f12c9d13d6d1158c9830d",
+      "path": "media/videos/669f12c9d13d6d1158c9830d/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/x/6/-enriched-transparent-original-imahfnwyabzeav2r.png?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/x/6/-enriched-transparent-original-imahfnwyabzeav2r.png?q=100",
+        "local_path": "../../media/images/fe286653d04f426736e61e33/assets/images/image-001.png",
+        "downloaded": true,
+        "content_type": "image/png"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/j/r/-original-imahfnwyhmmzfhqt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/j/r/-original-imahfnwyhmmzfhqt.jpeg?q=100",
+        "local_path": "../../media/images/fe286653d04f426736e61e33/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/2/b/-original-imahfnwyxbmu9fek.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/2/b/-original-imahfnwyxbmu9fek.jpeg?q=100",
+        "local_path": "../../media/images/fe286653d04f426736e61e33/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/8/k/t/-original-imahfnwyjz5zwfxw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/8/k/t/-original-imahfnwyjz5zwfxw.jpeg?q=100",
+        "local_path": "../../media/images/fe286653d04f426736e61e33/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/w/l/-original-imahfnwyjzgjhktq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/w/l/-original-imahfnwyjzgjhktq.jpeg?q=100",
+        "local_path": "../../media/images/fe286653d04f426736e61e33/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNig3K2Ac_TmiaG4xSSbQUNg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Allen Solly Men Solid Casual Black Shirt",
+      "description": "Allen Solly Men Solid Casual Black Shirt - Buy Allen Solly Men Solid Casual Black Shirt For Only Rs. 1799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/x/6/-enriched-transparent-original-imahfnwyabzeav2r.png?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/j/r/-original-imahfnwyhmmzfhqt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/2/b/-original-imahfnwyxbmu9fek.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/8/k/t/-original-imahfnwyjz5zwfxw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/w/l/-original-imahfnwyjzgjhktq.jpeg?q=70"
+      ],
+      "sku": "SHTGPV5ZSUY5JGVF",
+      "color": "BLACK",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 56,
+        "ratingCount": 1263,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Allen Solly",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 647,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Ishant Ankur",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-15",
+          "reviewBody": "Just Awesome\nFabric is Good \nSize is Perfect",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "SUBITH As ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-12-04",
+          "reviewBody": "Nice material, perfect shape and fitting",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-07-31",
+          "reviewBody": "Good product...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Solid Pattern",
+          "body": "Featuring a solid pattern, this men’s casual shirt exudes an air of style and sophistication, making…"
+        },
+        {
+          "heading": "Durable Fabric",
+          "body": "Crafted from a high-quality cotton blend fabric, this shirt ensures long-lasting performance. The ca…"
+        },
+        {
+          "heading": "Versatile Wear",
+          "body": "Owing to its versatility, this shirt is suitable for various occasions. Whether you want a smart-cas…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Black"
+      },
+      "specifications": {}
+    }
+  }
+}

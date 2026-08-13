@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-TSHGYDX8SYNJKGD2",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3014",
+    "3015",
+    "3016",
+    "3017",
+    "3018"
+  ],
+  "source_path": "sources/pid-TSHGYDX8SYNJKGD2/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T15:11:05.905Z",
+  "completed_at": "2026-08-13T15:11:25.672Z"
+}

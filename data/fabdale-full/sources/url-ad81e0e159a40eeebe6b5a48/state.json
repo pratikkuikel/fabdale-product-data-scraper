@@ -1,0 +1,15 @@
+{
+  "source_key": "url-ad81e0e159a40eeebe6b5a48",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3158"
+  ],
+  "source_path": "sources/url-ad81e0e159a40eeebe6b5a48/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T15:35:06.848Z",
+  "completed_at": "2026-08-13T15:35:20.779Z"
+}

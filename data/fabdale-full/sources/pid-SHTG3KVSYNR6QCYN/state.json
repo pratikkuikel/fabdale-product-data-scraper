@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-SHTG3KVSYNR6QCYN",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2584",
+    "2585",
+    "2586",
+    "2587",
+    "2588",
+    "5489"
+  ],
+  "source_path": "sources/pid-SHTG3KVSYNR6QCYN/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:29:03.660Z",
+  "completed_at": "2026-08-13T14:29:15.228Z"
+}

@@ -1,0 +1,196 @@
+{
+  "product_id": "2565",
+  "sku": "Fab-Shirt-ROAD-012G-M",
+  "product": {
+    "name": "Roxter Micro-Print Shirt",
+    "parent_id": "5485",
+    "notes": "https://www.flipkart.com/roadster-men-printed-casual-dark-green-shirt/p/itm0c7982cdf2cf5?pid=SHTG6XTDBJZGRBU6&lid=LSTSHTG6XTDBJZGRBU6BG9WMB&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SHTG6XTDBJZGRBU6",
+    "path": "../../sources/pid-SHTG6XTDBJZGRBU6/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/roadster-men-printed-casual-dark-green-shirt/p/itm0c7982cdf2cf5?pid=SHTG6XTDBJZGRBU6&lid=LSTSHTG6XTDBJZGRBU6BG9WMB&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T14:28:20.147Z",
+    "final_url": "https://www.flipkart.com/roadster-men-printed-casual-dark-green-shirt/p/itm0c7982cdf2cf5?pid=SHTG6XTDBJZGRBU6&lid=LSTSHTG6XTDBJZGRBU6BG9WMB&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:28:32.393Z"
+  },
+  "content": {
+    "title": "Roadster Men Printed Casual Dark Green Shirt",
+    "short_description": "Color: Dark Green\nFabric: Pure Cotton\nPattern: Printed\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Roadster Men Printed Casual Dark Green Shirt - Buy Roadster Men Printed Casual Dark Green Shirt For Only Rs. 1699.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Printed",
+      "Collar": "Spread",
+      "Color": "Dark Green"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "5fa5675e6c99aa041cc51bb1",
+      "path": "media/images/5fa5675e6c99aa041cc51bb1/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/o/z/c/40-14639712-roadster-original-imag6xtddmmfrycn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/o/z/c/40-14639712-roadster-original-imag6xtddmmfrycn.jpeg?q=100",
+        "local_path": "../../media/images/5fa5675e6c99aa041cc51bb1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/s/h/b/40-14639712-roadster-original-imag6xtdksjudpbv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/s/h/b/40-14639712-roadster-original-imag6xtdksjudpbv.jpeg?q=100",
+        "local_path": "../../media/images/5fa5675e6c99aa041cc51bb1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/m/l/y/40-14639712-roadster-original-imag6xtdfzbkwf5z.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/m/l/y/40-14639712-roadster-original-imag6xtdfzbkwf5z.jpeg?q=100",
+        "local_path": "../../media/images/5fa5675e6c99aa041cc51bb1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/9/1/i/40-14639712-roadster-original-imag6xtdxdhagyag.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/9/1/i/40-14639712-roadster-original-imag6xtdxdhagyag.jpeg?q=100",
+        "local_path": "../../media/images/5fa5675e6c99aa041cc51bb1/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/g/d/t/40-14639712-roadster-original-imag6xtd7jtgrba4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/g/d/t/40-14639712-roadster-original-imag6xtd7jtgrba4.jpeg?q=100",
+        "local_path": "../../media/images/5fa5675e6c99aa041cc51bb1/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Roadster Men Printed Casual Dark Green Shirt",
+      "description": "Roadster Men Printed Casual Dark Green Shirt - Buy Roadster Men Printed Casual Dark Green Shirt For Only Rs. 1699.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/o/z/c/40-14639712-roadster-original-imag6xtddmmfrycn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/s/h/b/40-14639712-roadster-original-imag6xtdksjudpbv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/m/l/y/40-14639712-roadster-original-imag6xtdfzbkwf5z.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/9/1/i/40-14639712-roadster-original-imag6xtdxdhagyag.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/ktn9pjk0/shirt/g/d/t/40-14639712-roadster-original-imag6xtd7jtgrba4.jpeg?q=70"
+      ],
+      "sku": "SHTG6XTDBJZGRBU6",
+      "color": "Olive",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.4,
+        "reviewCount": 2,
+        "ratingCount": 9,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Roadster",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 403,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Moderate",
+          "author": {
+            "name": "Kuldeep yadav Yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2022-02-17",
+          "reviewBody": "Quality is not good",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Very poor",
+          "author": {
+            "name": "shaji panicker",
+            "@type": "Person"
+          },
+          "datePublished": "2022-02-15",
+          "reviewBody": "Not good",
+          "reviewRating": {
+            "ratingValue": 1,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Printed",
+        "Collar": "Spread",
+        "Color": "Dark Green"
+      },
+      "specifications": {
+        "Brand": "Roadster",
+        "Size": "42",
+        "Pack of": "1",
+        "Style Code": "14639712",
+        "Fit": "Regular",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Printed",
+        "Reversible": "No",
+        "Collar": "Spread",
+        "Color": "Dark Green",
+        "Fabric Care": "Machine wash as per tag",
+        "Suitable For": "Western Wear",
+        "Hem": "Curved",
+        "Net Quantity": "1",
+        "Brand Color": "Olive",
+        "Ideal For": "Men",
+        "Shirt Length": "Hip Length",
+        "Occasion": "Casual",
+        "Print Type": "Ditsy",
+        "Surface Styling": "Pockets"
+      }
+    }
+  }
+}

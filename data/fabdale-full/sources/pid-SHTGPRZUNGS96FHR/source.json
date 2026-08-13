@@ -1,0 +1,215 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-checkered-casual-multicolor-shirt/p/itmb0f2e55698d4c?pid=SHTGPRZUNGS96FHR&marketplace=FLIPKART&lid=LSTSHTGPRZUNGS96FHRPYZEZB&swatchAttr=size&pageUID=1773596160944",
+    "scraped_at": "2026-08-13T11:23:47.864Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-checkered-casual-multicolor-shirt/p/itmb0f2e55698d4c?pid=SHTGPRZUNGS96FHR&marketplace=FLIPKART&lid=LSTSHTGPRZUNGS96FHRPYZEZB&swatchAttr=size&pageUID=1773596160944"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:23:58.053Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Checkered Casual Multicolor Shirt",
+    "short_description": "Color: Multicolor\nFabric: Cotton Blend\nPattern: Checkered\nSleeve: Full Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "METRONAUT Men Checkered Casual Multicolor Shirt - Buy METRONAUT Men Checkered Casual Multicolor Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Checkered",
+      "Collar": "Cut Away",
+      "Color": "Multicolor"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/w/e/m-jdw-19-metronaut-original-imagprzugk49gz7q.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/w/e/m-jdw-19-metronaut-original-imagprzugk49gz7q.jpeg?q=100",
+        "local_path": "../../media/images/e97bb52dd3228202fac20f36/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/u/i/3/m-jdw-19-metronaut-original-imagprzuhxyygtmh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/u/i/3/m-jdw-19-metronaut-original-imagprzuhxyygtmh.jpeg?q=100",
+        "local_path": "../../media/images/e97bb52dd3228202fac20f36/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/h/y/m-jdw-19-metronaut-original-imagprzuwsnzdgss.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/h/y/m-jdw-19-metronaut-original-imagprzuwsnzdgss.jpeg?q=100",
+        "local_path": "../../media/images/e97bb52dd3228202fac20f36/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/a/h/m-jdw-19-metronaut-original-imagprzuebwpbtmw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/a/h/m-jdw-19-metronaut-original-imagprzuebwpbtmw.jpeg?q=100",
+        "local_path": "../../media/images/e97bb52dd3228202fac20f36/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/p/x/m-jdw-19-metronaut-original-imagprzupfkwdhfn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/p/x/m-jdw-19-metronaut-original-imagprzupfkwdhfn.jpeg?q=100",
+        "local_path": "../../media/images/e97bb52dd3228202fac20f36/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Checkered Casual Multicolor Shirt",
+      "description": "METRONAUT Men Checkered Casual Multicolor Shirt - Buy METRONAUT Men Checkered Casual Multicolor Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/w/e/m-jdw-19-metronaut-original-imagprzugk49gz7q.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/u/i/3/m-jdw-19-metronaut-original-imagprzuhxyygtmh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/h/y/m-jdw-19-metronaut-original-imagprzuwsnzdgss.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/a/h/m-jdw-19-metronaut-original-imagprzuebwpbtmw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/p/x/m-jdw-19-metronaut-original-imagprzupfkwdhfn.jpeg?q=70"
+      ],
+      "sku": "SHTGPRZUNGS96FHR",
+      "color": "Pink 2",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.6,
+        "reviewCount": 104,
+        "ratingCount": 1659,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 254,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Riya  Gupta",
+            "@type": "Person"
+          },
+          "datePublished": "2023-07-04",
+          "reviewBody": "Look wise awesome perfect.you can go for it under 450 its worth but the fabric is mixed terricotton.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Sivakumar Rayudu",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-09",
+          "reviewBody": "designing is good less quality",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-17",
+          "reviewBody": "Very good product 💟",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Collar": "Cut Away",
+        "Color": "Multicolor"
+      },
+      "specifications": {
+        "Brand": "METRONAUT",
+        "Size": "L",
+        "Pack of": "1",
+        "Style Code": "JDW-19",
+        "Closure": "Buttoned",
+        "Fit": "Slim",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Reversible": "No",
+        "Collar": "Cut Away",
+        "Color": "Multicolor",
+        "Fabric Care": "Regular Machine Wash",
+        "Suitable For": "Western Wear",
+        "Hem": "Curved",
+        "Net Quantity": "1",
+        "Brand Color": "Pink 2",
+        "Ideal For": "Men",
+        "Shirt Length": "Hip Length",
+        "Occasion": "Casual",
+        "Ornamentation Type": "None",
+        "Print Type": "Checkered",
+        "Sales Package": "1 Shirt",
+        "Surface Styling": "Pockets"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e97bb52dd3228202fac20f36",
+      "path": "media/images/e97bb52dd3228202fac20f36/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

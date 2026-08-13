@@ -1,0 +1,204 @@
+{
+  "product_id": "2544",
+  "sku": "Fab-Shirt-ROAD-008BL-S",
+  "product": {
+    "name": "Roxter Jean shirt",
+    "parent_id": "5481",
+    "notes": "https://www.flipkart.com/roadster-men-solid-casual-blue-shirt/p/itmf3x6eyqhs3zs9?pid=SHTEZ3SNFTUFUNH5&lid=LSTSHTEZ3SNFTUFUNH51OBESI&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SHTEZ3SNFTUFUNH5",
+    "path": "../../sources/pid-SHTEZ3SNFTUFUNH5/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/roadster-men-solid-casual-blue-shirt/p/itmf3x6eyqhs3zs9?pid=SHTEZ3SNFTUFUNH5&lid=LSTSHTEZ3SNFTUFUNH51OBESI&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T14:27:41.634Z",
+    "final_url": "https://www.flipkart.com/roadster-men-solid-casual-blue-shirt/p/itmf3x6eyqhs3zs9?pid=SHTEZ3SNFTUFUNH5&lid=LSTSHTEZ3SNFTUFUNH51OBESI&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:27:49.967Z"
+  },
+  "content": {
+    "title": "Roadster Men Solid Casual Blue Shirt",
+    "short_description": "Color: Blue\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1",
+    "description": "Styling Tips by Aman, Fashion Influencer\nCurate a cool off-duty look with this smart and stylish shirt. Finish off your look with faded denim…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Color": "Blue"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "7371d2f123944a2e796c904c",
+      "path": "media/images/7371d2f123944a2e796c904c/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/shirt/f/5/z/1230051-roadster-m-original-imaenmzcnxx7yhbk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/shirt/f/5/z/1230051-roadster-m-original-imaenmzcnxx7yhbk.jpeg?q=100",
+        "local_path": "../../media/images/7371d2f123944a2e796c904c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/shirt/g/s/n/1230051-roadster-s-original-imaenmzcntmaufyc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/shirt/g/s/n/1230051-roadster-s-original-imaenmzcntmaufyc.jpeg?q=100",
+        "local_path": "../../media/images/7371d2f123944a2e796c904c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/shirt/g/s/n/1230051-roadster-m-original-imaenmzcunbjcvcf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/shirt/g/s/n/1230051-roadster-m-original-imaenmzcunbjcvcf.jpeg?q=100",
+        "local_path": "../../media/images/7371d2f123944a2e796c904c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/shirt/g/s/n/1230051-roadster-s-original-imaenmzcpxgmz2tr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/shirt/g/s/n/1230051-roadster-s-original-imaenmzcpxgmz2tr.jpeg?q=100",
+        "local_path": "../../media/images/7371d2f123944a2e796c904c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/shirt/g/s/n/1230051-roadster-xl-original-imaenmzcd9jdg5fc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/shirt/g/s/n/1230051-roadster-xl-original-imaenmzcd9jdg5fc.jpeg?q=100",
+        "local_path": "../../media/images/7371d2f123944a2e796c904c/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Roadster Men Solid Casual Blue Shirt",
+      "description": "Roadster Men Solid Casual Blue Shirt - Buy Blue Roadster Men Solid Casual Blue Shirt For Only Rs. 1799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/shirt/f/5/z/1230051-roadster-m-original-imaenmzcnxx7yhbk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/shirt/g/s/n/1230051-roadster-s-original-imaenmzcntmaufyc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/shirt/g/s/n/1230051-roadster-m-original-imaenmzcunbjcvcf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/shirt/g/s/n/1230051-roadster-s-original-imaenmzcpxgmz2tr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/shirt/g/s/n/1230051-roadster-xl-original-imaenmzcd9jdg5fc.jpeg?q=70"
+      ],
+      "sku": "SHTEZ3SNFTUFUNH5",
+      "color": "Blue",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 29,
+        "ratingCount": 378,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Roadster",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 647,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Mohd Tariq  khan",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-29",
+          "reviewBody": "Fabric quality seems fab,looks clean and stylish,i loved it❤️👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "The golden fiber company  Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-09",
+          "reviewBody": "Everyone says online clothes are not good but 100% better shirt than I thought and according to our budget.\nThank you Flipkart for awesome products deliver🙏♥️😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "shubham yogekar",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-29",
+          "reviewBody": "This product is amazing. Just go for it blindly 😁\nProduct is same as in image.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Styling Tips by Aman, Fashion Influencer",
+          "body": "Curate a cool off-duty look with this smart and stylish shirt. Finish off your look with faded denim…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Color": "Blue"
+      },
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "product_id": "5496",
+  "sku": null,
+  "product": {
+    "name": "Roxter Black vertical bands Shirt",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/roadster-men-checkered-casual-black-shirt/p/itmd61f8a52eb472"
+  },
+  "source_bundle": {
+    "key": "url-824611b59a26fe419d10aaab",
+    "path": "../../sources/url-824611b59a26fe419d10aaab/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/roadster-men-checkered-casual-black-shirt/p/itmd61f8a52eb472",
+    "scraped_at": "2026-08-13T14:30:19.657Z",
+    "final_url": "https://www.flipkart.com/roadster-men-checkered-casual-black-shirt/p/itmd61f8a52eb472"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:30:28.563Z"
+  },
+  "content": {
+    "title": "Roadster Men Checkered Casual Black Shirt",
+    "short_description": "Color: Black\nFabric: Pure Cotton\nPattern: Checkered\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Styling Tips by Mayank, Fashion Influencer\nElevate your everyday style by donning this trendy shirt. Pack a punch with low-rise jeans, knitted …",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Checkered",
+      "Collar": "Spread",
+      "Color": "Black"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3e0f3073997bc8e73564c9ec",
+      "path": "media/images/3e0f3073997bc8e73564c9ec/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphky6huzdkzy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphky6huzdkzy.jpeg?q=100",
+        "local_path": "../../media/images/3e0f3073997bc8e73564c9ec/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphkyznem9azj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphkyznem9azj.jpeg?q=100",
+        "local_path": "../../media/images/3e0f3073997bc8e73564c9ec/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphky3xnxgrgp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphky3xnxgrgp.jpeg?q=100",
+        "local_path": "../../media/images/3e0f3073997bc8e73564c9ec/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphkyazhjzjfa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphkyazhjzjfa.jpeg?q=100",
+        "local_path": "../../media/images/3e0f3073997bc8e73564c9ec/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphkyk2zhb3qa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphkyk2zhb3qa.jpeg?q=100",
+        "local_path": "../../media/images/3e0f3073997bc8e73564c9ec/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Roadster Men Checkered Casual Black Shirt",
+      "description": "Roadster Men Checkered Casual Black Shirt - Buy Roadster Men Checkered Casual Black Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphky6huzdkzy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphkyznem9azj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphky3xnxgrgp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphkyazhjzjfa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/k7c88sw0/shirt/f/z/p/42-11156264-roadster-original-imafphkyk2zhb3qa.jpeg?q=70"
+      ],
+      "sku": "SHTFPHG22YGF4FHF",
+      "color": "Black",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 31,
+        "ratingCount": 266,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Roadster",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 1398,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Shalini Mishra",
+            "@type": "Person"
+          },
+          "datePublished": "2020-11-07",
+          "reviewBody": "The material of the shirt is awesome and comfortable to wear. The colour is really good. Received it in good condition too. At this price the product is appreciable. Will surely recommend it 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Pravat Kumar Patra",
+            "@type": "Person"
+          },
+          "datePublished": "2022-03-13",
+          "reviewBody": "Good product.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "ANAMIKA  Yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2022-03-14",
+          "reviewBody": "Very nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Styling Tips by Mayank, Fashion Influencer",
+          "body": "Elevate your everyday style by donning this trendy shirt. Pack a punch with low-rise jeans, knitted …"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Collar": "Spread",
+        "Color": "Black"
+      },
+      "specifications": {}
+    }
+  }
+}

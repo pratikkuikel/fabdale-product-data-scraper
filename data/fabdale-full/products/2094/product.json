@@ -1,0 +1,218 @@
+{
+  "product_id": "2094",
+  "sku": "Fab-Shirt-METR-011LB-S",
+  "product": {
+    "name": "Metronex Cotton Blend WesternShirt",
+    "parent_id": "5268",
+    "notes": "https://www.flipkart.com/metronaut-men-solid-casual-blue-shirt/p/itm4bb78e96f1e9b?pid=SHTHFV92CBUUPKZQ&marketplace=FLIPKART&lid=LSTSHTHFV92CBUUPKZQNRJA1D&swatchAttr=size&pageUID=1773313383814"
+  },
+  "source_bundle": {
+    "key": "pid-SHTHFV92CBUUPKZQ",
+    "path": "../../sources/pid-SHTHFV92CBUUPKZQ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-blue-shirt/p/itm4bb78e96f1e9b?pid=SHTHFV92CBUUPKZQ&marketplace=FLIPKART&lid=LSTSHTHFV92CBUUPKZQNRJA1D&swatchAttr=size&pageUID=1773313383814",
+    "scraped_at": "2026-08-13T11:12:18.142Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-blue-shirt/p/itm4bb78e96f1e9b?pid=SHTHFV92CBUUPKZQ&marketplace=FLIPKART&lid=LSTSHTHFV92CBUUPKZQNRJA1D&swatchAttr=size&pageUID=1773313383814"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:12:26.541Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Solid Casual Blue Shirt",
+    "short_description": "Color: Blue\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "METRONAUT Men Solid Casual Blue Shirt - Buy METRONAUT Men Solid Casual Blue Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Blue"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "6c473bbbfa28ccca821a3fa4",
+      "path": "media/images/6c473bbbfa28ccca821a3fa4/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "4b58855c21eca0ad03d73a46",
+      "path": "media/videos/4b58855c21eca0ad03d73a46/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/8/c/4xl-mn-shirt1669-metronaut-resized-original-imahe6zvyshtfdgq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/8/c/4xl-mn-shirt1669-metronaut-resized-original-imahe6zvyshtfdgq.jpeg?q=100",
+        "local_path": "../../media/images/6c473bbbfa28ccca821a3fa4/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/j/4/4xl-mn-shirt1669-metronaut-original-imahe6zvnnahbpxu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/j/4/4xl-mn-shirt1669-metronaut-original-imahe6zvnnahbpxu.jpeg?q=100",
+        "local_path": "../../media/images/6c473bbbfa28ccca821a3fa4/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/4/w/k/4xl-mn-shirt1669-metronaut-original-imahe6zvwgszmxfq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/4/w/k/4xl-mn-shirt1669-metronaut-original-imahe6zvwgszmxfq.jpeg?q=100",
+        "local_path": "../../media/images/6c473bbbfa28ccca821a3fa4/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNDNM65GmQTS2DIdWcXU9cPg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual Blue Shirt",
+      "description": "METRONAUT Men Solid Casual Blue Shirt - Buy METRONAUT Men Solid Casual Blue Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/8/c/4xl-mn-shirt1669-metronaut-resized-original-imahe6zvyshtfdgq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/j/4/4xl-mn-shirt1669-metronaut-original-imahe6zvnnahbpxu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/4/w/k/4xl-mn-shirt1669-metronaut-original-imahe6zvwgszmxfq.jpeg?q=70"
+      ],
+      "sku": "SHTHFV92CBUUPKZQ",
+      "color": "Turquiose",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 430,
+        "ratingCount": 9918,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 244,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-29",
+          "reviewBody": "Just buy it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Vijay Asawale",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-28",
+          "reviewBody": "It's a very nice shirt. I like it very much.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Slightly disappointed",
+          "author": {
+            "name": "Vinod  Mudhiraj ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-22",
+          "reviewBody": "Cloth is not good and in Flipkart I seen good quality after delivery I seen different quality 🫤",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Blue"
+      },
+      "specifications": {
+        "Brand": "METRONAUT",
+        "Size": "S",
+        "Pack of": "1",
+        "Style Code": "MN-SHIRT1669",
+        "Closure": "Button",
+        "Fit": "Regular",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Reversible": "No",
+        "Collar": "Spread",
+        "Color": "Blue",
+        "Fabric Care": "Regular Machine Wash",
+        "Suitable For": "Western Wear",
+        "Hem": "Curved",
+        "Net Quantity": "1",
+        "Brand Color": "Turquiose",
+        "Ideal For": "Men",
+        "Shirt Length": "Hip Length",
+        "Occasion": "Casual",
+        "Sales Package": "Pack Of 1"
+      }
+    }
+  }
+}

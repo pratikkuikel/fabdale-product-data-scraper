@@ -1,0 +1,205 @@
+{
+  "product_id": "2303",
+  "sku": "Fab-Shirt-HIGH-004PK-XXL",
+  "product": {
+    "name": "Havric Micro floral short sleeve shirt",
+    "parent_id": "5440",
+    "notes": "https://www.flipkart.com/highlander-men-printed-casual-pink-shirt/p/itm0f24caef6767c?pid=SHTGH297BZSPT6Y6&lid=LSTSHTGH297BZSPT6Y6KVO5ZT&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGH297BZSPT6Y6",
+    "path": "../../sources/pid-SHTGH297BZSPT6Y6/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/highlander-men-printed-casual-pink-shirt/p/itm0f24caef6767c?pid=SHTGH297BZSPT6Y6&lid=LSTSHTGH297BZSPT6Y6KVO5ZT&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T14:15:58.853Z",
+    "final_url": "https://www.flipkart.com/highlander-men-printed-casual-pink-shirt/p/itm0f24caef6767c?pid=SHTGH297BZSPT6Y6&lid=LSTSHTGH297BZSPT6Y6KVO5ZT&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:16:06.889Z"
+  },
+  "content": {
+    "title": "HIGHLANDER Men Printed Casual Pink Shirt",
+    "short_description": "Color: Pink\nFabric: Pure Cotton\nPattern: Printed\nSleeve: Short Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "About the Brand\nHighlander is a trend-forward Fashion and Lifestyle brand. It combines Casual Style and Easy Dressing to help #makesense in Fashion.",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Short Sleeve",
+      "Pattern": "Printed",
+      "Collar": "Cut Away",
+      "Color": "Pink"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "8680182e80a708bc04fd4a37",
+      "path": "media/images/8680182e80a708bc04fd4a37/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "5080184b8e7ff63316f9ef9b",
+      "path": "media/videos/5080184b8e7ff63316f9ef9b/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/f/5/l-hlsh013688-highlander-original-imagh297wwvr9zgd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/f/5/l-hlsh013688-highlander-original-imagh297wwvr9zgd.jpeg?q=100",
+        "local_path": "../../media/images/8680182e80a708bc04fd4a37/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/9/s/l-hlsh013688-highlander-original-imagh297gmhge45g.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/9/s/l-hlsh013688-highlander-original-imagh297gmhge45g.jpeg?q=100",
+        "local_path": "../../media/images/8680182e80a708bc04fd4a37/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/3/6/l-hlsh013688-highlander-original-imagh297fnbcyadg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/3/6/l-hlsh013688-highlander-original-imagh297fnbcyadg.jpeg?q=100",
+        "local_path": "../../media/images/8680182e80a708bc04fd4a37/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/1/c/l-hlsh013688-highlander-original-imagh2972tyvjrdt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/1/c/l-hlsh013688-highlander-original-imagh2972tyvjrdt.jpeg?q=100",
+        "local_path": "../../media/images/8680182e80a708bc04fd4a37/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/1/x/l-hlsh013688-highlander-original-imagh297cxgnmygq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/1/x/l-hlsh013688-highlander-original-imagh297cxgnmygq.jpeg?q=100",
+        "local_path": "../../media/images/8680182e80a708bc04fd4a37/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNul1-QUtfT9OpFPEM2liCNQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "HIGHLANDER Men Printed Casual Pink Shirt",
+      "description": "HIGHLANDER Men Printed Casual Pink Shirt - Buy HIGHLANDER Men Printed Casual Pink Shirt For Only Rs. 1199.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/f/5/l-hlsh013688-highlander-original-imagh297wwvr9zgd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/9/s/l-hlsh013688-highlander-original-imagh297gmhge45g.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/3/6/l-hlsh013688-highlander-original-imagh297fnbcyadg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/1/c/l-hlsh013688-highlander-original-imagh2972tyvjrdt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/1/x/l-hlsh013688-highlander-original-imagh297cxgnmygq.jpeg?q=70"
+      ],
+      "sku": "SHTGH297BZSPT6Y6",
+      "color": "CORAL",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 381,
+        "ratingCount": 5906,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "HIGHLANDER",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 359,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Dipak Deka",
+            "@type": "Person"
+          },
+          "datePublished": "2022-11-13",
+          "reviewBody": "Nice product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Yuvraj Jadon",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-17",
+          "reviewBody": "It is a very good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Fiza Aliya",
+            "@type": "Person"
+          },
+          "datePublished": "2022-06-26",
+          "reviewBody": "Nice one",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "About the Brand",
+          "body": "Highlander is a trend-forward Fashion and Lifestyle brand. It combines Casual Style and Easy Dressing to help #makesense in Fashion."
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Short Sleeve",
+        "Pattern": "Printed",
+        "Collar": "Cut Away",
+        "Color": "Pink"
+      },
+      "specifications": {}
+    }
+  }
+}

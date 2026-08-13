@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-SHTGHS2ASKVDEHR9",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2224",
+    "2225",
+    "2226",
+    "2227",
+    "2228"
+  ],
+  "source_path": "sources/pid-SHTGHS2ASKVDEHR9/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T11:25:04.620Z",
+  "completed_at": "2026-08-13T11:25:12.302Z"
+}

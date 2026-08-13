@@ -1,0 +1,235 @@
+{
+  "product_id": "2421",
+  "sku": "Fab-Shirt-HIGH-023ML-L",
+  "product": {
+    "name": "Havric Graph Check Shirt",
+    "parent_id": "5458",
+    "notes": "https://www.flipkart.com/highlander-men-checkered-formal-multicolor-shirt/p/itm4cf3815dc83ce?pid=SHTGYPZVEHVJR7YJ&marketplace=FLIPKART&lid=LSTSHTGYPZVEHVJR7YJQTRH5O&swatchAttr=size&pageUID=1773714470739"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGYPZVEHVJR7YJ",
+    "path": "../../sources/pid-SHTGYPZVEHVJR7YJ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/highlander-men-checkered-formal-multicolor-shirt/p/itm4cf3815dc83ce?pid=SHTGYPZVEHVJR7YJ&marketplace=FLIPKART&lid=LSTSHTGYPZVEHVJR7YJQTRH5O&swatchAttr=size&pageUID=1773714470739",
+    "scraped_at": "2026-08-13T14:23:07.561Z",
+    "final_url": "https://www.flipkart.com/highlander-men-checkered-formal-multicolor-shirt/p/itm4cf3815dc83ce?pid=SHTGYPZVEHVJR7YJ&marketplace=FLIPKART&lid=LSTSHTGYPZVEHVJR7YJQTRH5O&swatchAttr=size&pageUID=1773714470739"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:23:13.505Z"
+  },
+  "content": {
+    "title": "HIGHLANDER Men Checkered Formal Multicolor Shirt",
+    "short_description": "Color: Multicolor\nFabric: Pure Cotton\nPattern: Checkered\nSleeve: Full Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "Classic Checkered Pattern\nThis men's casual shirt features a timeless checkered pattern, adding a touch of sophistication to y…\n\nPremium Pure Cotton Fabric\nCrafted from pure cotton, this shirt ensures exceptional comfort and breathability. The high-quality…\n\nSlim Fit Design\nWith its slim fit design, this shirt provides a modern and sleek silhouette. The slim fit offers a t…\n\nVersatile Casual Wear\nWhether you're heading to a brunch or meeting friends for a casual outing, this shirt is suitable fo…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Checkered",
+      "Collar": "Cut Away",
+      "Color": "Multicolor"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "2acd346906e36af35195024c",
+      "path": "media/images/2acd346906e36af35195024c/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "9fd19d5a9167a46a1ffd6b41",
+      "path": "media/videos/9fd19d5a9167a46a1ffd6b41/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/n/v/-original-imahfev6zuy7nkwt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/n/v/-original-imahfev6zuy7nkwt.jpeg?q=100",
+        "local_path": "../../media/images/2acd346906e36af35195024c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/i/n/-original-imahfev6uhcz9zhq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/i/n/-original-imahfev6uhcz9zhq.jpeg?q=100",
+        "local_path": "../../media/images/2acd346906e36af35195024c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/4/3/-original-imahfev6yzg3gbkk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/4/3/-original-imahfev6yzg3gbkk.jpeg?q=100",
+        "local_path": "../../media/images/2acd346906e36af35195024c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/u/o/-original-imahfev6bfjkkzzx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/u/o/-original-imahfev6bfjkkzzx.jpeg?q=100",
+        "local_path": "../../media/images/2acd346906e36af35195024c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/9/y/o/-original-imahfev6ecxznus4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/9/y/o/-original-imahfev6ecxznus4.jpeg?q=100",
+        "local_path": "../../media/images/2acd346906e36af35195024c/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/labs/AS/CNyqRX2TtKRXalQDSCeWSflA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN6p-GVU_kTxW_uuRSe9CV6w/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "HIGHLANDER Men Checkered Formal Multicolor Shirt",
+      "description": "HIGHLANDER Men Checkered Formal Multicolor Shirt - Buy HIGHLANDER Men Checkered Formal Multicolor Shirt For Only Rs. 1799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/n/v/-original-imahfev6zuy7nkwt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/i/n/-original-imahfev6uhcz9zhq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/4/3/-original-imahfev6yzg3gbkk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/u/o/-original-imahfev6bfjkkzzx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/9/y/o/-original-imahfev6ecxznus4.jpeg?q=70"
+      ],
+      "sku": "SHTGYPZVEHVJR7YJ",
+      "color": "DUSTY GREEN/WHITE",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 160,
+        "ratingCount": 3575,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "HIGHLANDER",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 615,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-28",
+          "reviewBody": "Loved it.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-28",
+          "reviewBody": "Quality of the product was just amazing \nWorth the cost 👌🏻",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-19",
+          "reviewBody": "Nice product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Checkered Pattern",
+          "body": "This men's casual shirt features a timeless checkered pattern, adding a touch of sophistication to y…"
+        },
+        {
+          "heading": "Premium Pure Cotton Fabric",
+          "body": "Crafted from pure cotton, this shirt ensures exceptional comfort and breathability. The high-quality…"
+        },
+        {
+          "heading": "Slim Fit Design",
+          "body": "With its slim fit design, this shirt provides a modern and sleek silhouette. The slim fit offers a t…"
+        },
+        {
+          "heading": "Versatile Casual Wear",
+          "body": "Whether you're heading to a brunch or meeting friends for a casual outing, this shirt is suitable fo…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Collar": "Cut Away",
+        "Color": "Multicolor"
+      },
+      "specifications": {}
+    }
+  }
+}

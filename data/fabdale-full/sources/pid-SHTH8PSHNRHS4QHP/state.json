@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SHTH8PSHNRHS4QHP",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2174"
+  ],
+  "source_path": "sources/pid-SHTH8PSHNRHS4QHP/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T11:20:08.799Z",
+  "completed_at": "2026-08-13T11:20:17.857Z"
+}

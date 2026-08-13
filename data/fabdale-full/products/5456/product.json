@@ -1,0 +1,217 @@
+{
+  "product_id": "5456",
+  "sku": null,
+  "product": {
+    "name": "Havric Salmon micro-floral shirt",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/highlander-men-printed-casual-multicolor-shirt/p/itmea1fdcc7f441d?pid=SHTGJSCYH3PJE9BW&lid=LSTSHTGJSCYH3PJE9BWXJGAD7&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGJSCYH3PJE9BW",
+    "path": "../../sources/pid-SHTGJSCYH3PJE9BW/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/highlander-men-printed-casual-multicolor-shirt/p/itmea1fdcc7f441d?pid=SHTGJSCYH3PJE9BW&marketplace=FLIPKART&lid=LSTSHTGJSCYH3PJE9BW9RXBCC&swatchAttr=size&pageUID=1773714104268",
+    "scraped_at": "2026-08-13T14:21:49.051Z",
+    "final_url": "https://www.flipkart.com/highlander-men-printed-casual-multicolor-shirt/p/itmea1fdcc7f441d?pid=SHTGJSCYH3PJE9BW&marketplace=FLIPKART&lid=LSTSHTGJSCYH3PJE9BW9RXBCC&swatchAttr=size&pageUID=1773714104268"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:21:55.549Z"
+  },
+  "content": {
+    "title": "HIGHLANDER Men Printed Casual Multicolor Shirt",
+    "short_description": "Color: Multicolor\nFabric: Cotton Blend\nPattern: Printed\nSleeve: Half Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "About the Brand\nHighlander is a trend-forward Fashion and Lifestyle brand. It combines Casual Style and Easy Dressing to help #makesense in Fashion.",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Half Sleeve",
+      "Pattern": "Printed",
+      "Collar": "Cut Away",
+      "Color": "Multicolor"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1055b194e0c8734f1ea06ca9",
+      "path": "media/images/1055b194e0c8734f1ea06ca9/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "573519fa2389b95ecd7a2af6",
+      "path": "media/videos/573519fa2389b95ecd7a2af6/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/t/y/-resized-original-imahfgbt9vnv86yy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/t/y/-resized-original-imahfgbt9vnv86yy.jpeg?q=100",
+        "local_path": "../../media/images/1055b194e0c8734f1ea06ca9/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/t/g/-original-imahfgbtgggkbmjf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/t/g/-original-imahfgbtgggkbmjf.jpeg?q=100",
+        "local_path": "../../media/images/1055b194e0c8734f1ea06ca9/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/0/p/-original-imahfgbtfjth6xfm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/0/p/-original-imahfgbtfjth6xfm.jpeg?q=100",
+        "local_path": "../../media/images/1055b194e0c8734f1ea06ca9/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/a/j/-original-imahfgbt5dnbzvrn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/a/j/-original-imahfgbt5dnbzvrn.jpeg?q=100",
+        "local_path": "../../media/images/1055b194e0c8734f1ea06ca9/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/0/x/-original-imahfgbuf5x9x3sk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/0/x/-original-imahfgbuf5x9x3sk.jpeg?q=100",
+        "local_path": "../../media/images/1055b194e0c8734f1ea06ca9/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNap7CIi_RSKCQJJ8g9CDoHw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "HIGHLANDER Men Printed Casual Multicolor Shirt",
+      "description": "HIGHLANDER Men Printed Casual Multicolor Shirt - Buy HIGHLANDER Men Printed Casual Multicolor Shirt For Only Rs. 1899.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/t/y/-resized-original-imahfgbt9vnv86yy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/t/g/-original-imahfgbtgggkbmjf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/0/p/-original-imahfgbtfjth6xfm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/a/j/-original-imahfgbt5dnbzvrn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/0/x/-original-imahfgbuf5x9x3sk.jpeg?q=70"
+      ],
+      "sku": "SHTGJSCYH3PJE9BW",
+      "color": "DUSTY MINT/BEIGE",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 165,
+        "ratingCount": 2713,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "HIGHLANDER",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 486,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Jagannath Chandra",
+            "@type": "Person"
+          },
+          "datePublished": "2023-07-10",
+          "reviewBody": "Very nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Er Deepak Jaiswal",
+            "@type": "Person"
+          },
+          "datePublished": "2023-12-16",
+          "reviewBody": "Quality is good 👍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Shubham Bhise",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-13",
+          "reviewBody": "To much happy for buying this product 😃",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "About the Brand",
+          "body": "Highlander is a trend-forward Fashion and Lifestyle brand. It combines Casual Style and Easy Dressing to help #makesense in Fashion."
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Printed",
+        "Collar": "Cut Away",
+        "Color": "Multicolor"
+      },
+      "specifications": {}
+    }
+  }
+}

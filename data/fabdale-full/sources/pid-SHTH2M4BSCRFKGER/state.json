@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SHTH2M4BSCRFKGER",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2124"
+  ],
+  "source_path": "sources/pid-SHTH2M4BSCRFKGER/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T11:15:11.122Z",
+  "completed_at": "2026-08-13T11:15:19.535Z"
+}

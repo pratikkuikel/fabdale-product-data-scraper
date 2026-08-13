@@ -1,0 +1,22 @@
+{
+  "source_key": "pid-SHTGJSCYH3PJE9BW",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2410",
+    "2413",
+    "5456",
+    "6433",
+    "6434",
+    "6435",
+    "6436",
+    "6437"
+  ],
+  "source_path": "sources/pid-SHTGJSCYH3PJE9BW/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:21:49.016Z",
+  "completed_at": "2026-08-13T14:21:55.549Z"
+}

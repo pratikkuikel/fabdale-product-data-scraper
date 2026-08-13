@@ -1,0 +1,212 @@
+{
+  "product_id": "5633",
+  "sku": "Fab-Dress-PURNB-014PK-S",
+  "product": {
+    "name": "Parnika Off-the-shoulder neckline Midi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-indi-baby-girls-midi-knee-length-casual-dress/p/itmcae7178509389?pid=KDEH2F2WUZ2RHPPG&marketplace=FLIPKART&lid=LSTKDEH2F2WUZ2RHPPGKTD8KM&swatchAttr=size&pageUID=1775063657233"
+  },
+  "source_bundle": {
+    "key": "pid-KDEH2F2WUZ2RHPPG",
+    "path": "../../sources/pid-KDEH2F2WUZ2RHPPG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-indi-baby-girls-midi-knee-length-casual-dress/p/itmcae7178509389?pid=KDEH2F2WUZ2RHPPG&marketplace=FLIPKART&lid=LSTKDEH2F2WUZ2RHPPGKTD8KM&swatchAttr=size&pageUID=1775064129289",
+    "scraped_at": "2026-08-13T15:03:04.994Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-indi-baby-girls-midi-knee-length-casual-dress/p/itmcae7178509389?pid=KDEH2F2WUZ2RHPPG&marketplace=FLIPKART&lid=LSTKDEH2F2WUZ2RHPPGKTD8KM&swatchAttr=size&pageUID=1775064129289"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:03:21.768Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Indi Baby Girls Midi/Knee Length Casual Dress",
+    "short_description": "Fabric: Georgette, Cotton Blend\nPattern: Floral Print\nType: Fit and Flare Dress\nOccasion: Casual\nPrimary Color: Pink",
+    "description": "Style Code\nNEW_This Elegant Dress is at the top of the wish list for the new season From Fashion Dream on Flipkart. Pair it with trendy Handbag and lovely accessories to get her ready for a Birthday, Christmas, Photo shoots or parties and other festive occasions. This self-design open front crop shrug styled dress is made up of satin fabric with floral digital print pattern. This frock features a round neckline, cap sleeve crop shrug with brooches. Frock has a hidden zipper at the back side and a fixed self-fabric belt at waist. Give your little one's look like a princess with this charming and royal design Midi Frock. Keep your baby girl’s look classy with this super-cute shrug styled dress.\n\nAdditional Features\nOther FeaturesBirthday parties, weddings, festive events, and photoshoots.Other Dimensionsstylish look this season with this attractive frock from Kalaniketan on . Pair it with a sneaker and trendy handbag to get her ready for a Birthday, Photo shoots or parties and other festive occasions. This adorable baby girl’s frock is made from satin silk fabric with a digital floral print pattern. It features a round neckline, half sleeve crop shrug with brooch. Frock has a hidden zipper at back side and fixed self-fabric belt at waist. Get stylish this season with this light and comfortable shrug style party wear baby girl’s frock. Be the sunshine of everyone’s eyes dressed with this trendy crop shrug baby girl’s dress\n\nOther FeaturesBirthday parties, weddings, festive events, and photoshoots.\nOther Dimensionsstylish look this season with this attractive frock from Kalaniketan on . Pair it with a sneaker and trendy handbag to get her ready for a Birthday, Photo shoots or parties and other festive occasions. This adorable baby girl’s frock is made from satin silk fabric with a digital floral print pattern. It features a round neckline, half sleeve crop shrug with brooch. Frock has a hidden zipper at back side and fixed self-fabric belt at waist. Get stylish this season with this light and comfortable shrug style party wear baby girl’s frock. Be the sunshine of everyone’s eyes dressed with this trendy crop shrug baby girl’s dress\n\nOther Features\nBirthday parties, weddings, festive events, and photoshoots.\n\nOther Dimensions\nstylish look this season with this attractive frock from Kalaniketan on . Pair it with a sneaker and trendy handbag to get her ready for a Birthday, Photo shoots or parties and other festive occasions. This adorable baby girl’s frock is made from satin silk fabric with a digital floral print pattern. It features a round neckline, half sleeve crop shrug with brooch. Frock has a hidden zipper at back side and fixed self-fabric belt at waist. Get stylish this season with this light and comfortable shrug style party wear baby girl’s frock. Be the sunshine of everyone’s eyes dressed with this trendy crop shrug baby girl’s dress",
+    "specifications": {
+      "Type": "Fit and Flare Dress",
+      "Occasion": "Casual",
+      "Pattern": "Floral Print",
+      "Primary Color": "Pink",
+      "Fabric": "Georgette, Cotton Blend"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0ad260cb6a7d816b3d209474",
+      "path": "media/images/0ad260cb6a7d816b3d209474/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/w/b/9/2-3-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3ffvvppzc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/w/b/9/2-3-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3ffvvppzc.jpeg?q=100",
+        "local_path": "../../media/images/0ad260cb6a7d816b3d209474/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/y/k/2-3-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3vympcuup.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/y/k/2-3-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3vympcuup.jpeg?q=100",
+        "local_path": "../../media/images/0ad260cb6a7d816b3d209474/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/o/s/h/2-3-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3bwkmu9tz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/o/s/h/2-3-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3bwkmu9tz.jpeg?q=100",
+        "local_path": "../../media/images/0ad260cb6a7d816b3d209474/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/z/l/2-3-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3upxgnmpz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/z/l/2-3-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3upxgnmpz.jpeg?q=100",
+        "local_path": "../../media/images/0ad260cb6a7d816b3d209474/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Indi Baby Girls Midi/Knee Length Casual Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Indi Baby Girls Midi/Knee Length Casual Dress for Rs.1299.0 online. PURNKAMAAY TRENDZ Indi Baby Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/w/b/9/2-3-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3ffvvppzc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/y/k/2-3-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3vympcuup.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/o/s/h/2-3-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3bwkmu9tz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/z/l/2-3-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3upxgnmpz.jpeg?q=70"
+      ],
+      "sku": "KDEH2F2WUZ2RHPPG",
+      "color": "PITCH.",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 3,
+        "ratingCount": 63,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 272,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Sheejay Sheejay",
+            "@type": "Person"
+          },
+          "datePublished": "2026-07-13",
+          "reviewBody": "Best quality ,",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-06-22",
+          "reviewBody": "Super",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Absolute rubbish!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-26",
+          "reviewBody": "Bad",
+          "reviewRating": {
+            "ratingValue": 1,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Style Code",
+          "body": "NEW_This Elegant Dress is at the top of the wish list for the new season From Fashion Dream on Flipkart. Pair it with trendy Handbag and lovely accessories to get her ready for a Birthday, Christmas, Photo shoots or parties and other festive occasions. This self-design open front crop shrug styled dress is made up of satin fabric with floral digital print pattern. This frock features a round neckline, cap sleeve crop shrug with brooches. Frock has a hidden zipper at the back side and a fixed self-fabric belt at waist. Give your little one's look like a princess with this charming and royal design Midi Frock. Keep your baby girl’s look classy with this super-cute shrug styled dress."
+        },
+        {
+          "heading": "Additional Features",
+          "body": "Other FeaturesBirthday parties, weddings, festive events, and photoshoots.Other Dimensionsstylish look this season with this attractive frock from Kalaniketan on . Pair it with a sneaker and trendy handbag to get her ready for a Birthday, Photo shoots or parties and other festive occasions. This adorable baby girl’s frock is made from satin silk fabric with a digital floral print pattern. It features a round neckline, half sleeve crop shrug with brooch. Frock has a hidden zipper at back side and fixed self-fabric belt at waist. Get stylish this season with this light and comfortable shrug style party wear baby girl’s frock. Be the sunshine of everyone’s eyes dressed with this trendy crop shrug baby girl’s dress"
+        },
+        {
+          "heading": "Other FeaturesBirthday parties, weddings, festive events, and photoshoots.",
+          "body": "Other Dimensionsstylish look this season with this attractive frock from Kalaniketan on . Pair it with a sneaker and trendy handbag to get her ready for a Birthday, Photo shoots or parties and other festive occasions. This adorable baby girl’s frock is made from satin silk fabric with a digital floral print pattern. It features a round neckline, half sleeve crop shrug with brooch. Frock has a hidden zipper at back side and fixed self-fabric belt at waist. Get stylish this season with this light and comfortable shrug style party wear baby girl’s frock. Be the sunshine of everyone’s eyes dressed with this trendy crop shrug baby girl’s dress"
+        },
+        {
+          "heading": "Other Features",
+          "body": "Birthday parties, weddings, festive events, and photoshoots."
+        },
+        {
+          "heading": "Other Dimensions",
+          "body": "stylish look this season with this attractive frock from Kalaniketan on . Pair it with a sneaker and trendy handbag to get her ready for a Birthday, Photo shoots or parties and other festive occasions. This adorable baby girl’s frock is made from satin silk fabric with a digital floral print pattern. It features a round neckline, half sleeve crop shrug with brooch. Frock has a hidden zipper at back side and fixed self-fabric belt at waist. Get stylish this season with this light and comfortable shrug style party wear baby girl’s frock. Be the sunshine of everyone’s eyes dressed with this trendy crop shrug baby girl’s dress"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Fit and Flare Dress",
+        "Occasion": "Casual",
+        "Pattern": "Floral Print",
+        "Primary Color": "Pink",
+        "Fabric": "Georgette, Cotton Blend"
+      },
+      "specifications": {}
+    }
+  }
+}

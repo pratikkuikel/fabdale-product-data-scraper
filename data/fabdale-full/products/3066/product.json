@@ -1,0 +1,214 @@
+{
+  "product_id": "3066",
+  "sku": "Fab-TShirt-KAJR-004GR-L",
+  "product": {
+    "name": "Kavish Geometric grid pattern  T-Shirt",
+    "parent_id": "5198",
+    "notes": "https://www.flipkart.com/kajaru-printed-men-round-neck-grey-t-shirt/p/itm59513e0e9e91e?pid=TSHH4X9UMCQB4NDD&marketplace=FLIPKART&lid=LSTTSHH4X9UMCQB4NDDPMK07F&swatchAttr=size&pageUID=1772899131937"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH4X9UMCQB4NDD",
+    "path": "../../sources/pid-TSHH4X9UMCQB4NDD/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-printed-men-round-neck-grey-t-shirt/p/itm59513e0e9e91e?pid=TSHH4X9UMCQB4NDD&lid=LSTTSHH4X9UMCQB4NDDPMK07F&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T15:18:43.885Z",
+    "final_url": "https://www.flipkart.com/kajaru-printed-men-round-neck-grey-t-shirt/p/itm59513e0e9e91e?pid=TSHH4X9UMCQB4NDD&lid=LSTTSHH4X9UMCQB4NDDPMK07F&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:19:01.078Z"
+  },
+  "content": {
+    "title": "KAJARU Printed Men Round Neck Grey T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Printed\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "Printed Pattern All Over\nThis men's T-shirt features a printed pattern all over, adding a trendy and eye-catching element to …\n\nSoft Polyester Fabric\nCrafted from high-quality polyester fabric, this T-shirt offers a soft and comfortable feel against …\n\nClassic Round Neck and Half Sleeves\nDesigned with a classic round neck and half sleeves, this T-shirt provides a versatile and timeless …\n\nEasy Maintenance\nWith regular machine wash care, maintaining this T-shirt is hassle-free and convenient. You can keep…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Printed"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "632e7a94bdef85790146fa35",
+      "path": "media/images/632e7a94bdef85790146fa35/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/x/b/xxl-tsrt-catalog-14-kajaru-original-imah4x9ufzrgdpzw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/x/b/xxl-tsrt-catalog-14-kajaru-original-imah4x9ufzrgdpzw.jpeg?q=100",
+        "local_path": "../../media/images/632e7a94bdef85790146fa35/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/1/t/xxl-tsrt-catalog-14-kajaru-original-imah4x9uhwzhcjv2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/1/t/xxl-tsrt-catalog-14-kajaru-original-imah4x9uhwzhcjv2.jpeg?q=100",
+        "local_path": "../../media/images/632e7a94bdef85790146fa35/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/m/i/xxl-tsrt-catalog-14-kajaru-original-imah4x9uzknpvazg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/m/i/xxl-tsrt-catalog-14-kajaru-original-imah4x9uzknpvazg.jpeg?q=100",
+        "local_path": "../../media/images/632e7a94bdef85790146fa35/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/y/e/xxl-tsrt-catalog-14-kajaru-original-imah4x9usans5epe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/y/e/xxl-tsrt-catalog-14-kajaru-original-imah4x9usans5epe.jpeg?q=100",
+        "local_path": "../../media/images/632e7a94bdef85790146fa35/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/k/b/xxl-tsrt-catalog-14-kajaru-original-imah4x9umgmqz6z4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/k/b/xxl-tsrt-catalog-14-kajaru-original-imah4x9umgmqz6z4.jpeg?q=100",
+        "local_path": "../../media/images/632e7a94bdef85790146fa35/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Printed Men Round Neck Grey T-Shirt",
+      "description": "KAJARU Printed Men Round Neck Grey T-Shirt - Buy KAJARU Printed Men Round Neck Grey T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/x/b/xxl-tsrt-catalog-14-kajaru-original-imah4x9ufzrgdpzw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/1/t/xxl-tsrt-catalog-14-kajaru-original-imah4x9uhwzhcjv2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/m/i/xxl-tsrt-catalog-14-kajaru-original-imah4x9uzknpvazg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/y/e/xxl-tsrt-catalog-14-kajaru-original-imah4x9usans5epe.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/k/b/xxl-tsrt-catalog-14-kajaru-original-imah4x9umgmqz6z4.jpeg?q=70"
+      ],
+      "sku": "TSHH4X9UMCQB4NDD",
+      "color": "DARKGREY..",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 810,
+        "ratingCount": 33581,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 202,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Manoj Kumar  Satpathy ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-12",
+          "reviewBody": "Nice  Product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Premchand Rana",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-07",
+          "reviewBody": "Very good 👍  \nNice looking 👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Gopal  Khati",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-12",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Printed Pattern All Over",
+          "body": "This men's T-shirt features a printed pattern all over, adding a trendy and eye-catching element to …"
+        },
+        {
+          "heading": "Soft Polyester Fabric",
+          "body": "Crafted from high-quality polyester fabric, this T-shirt offers a soft and comfortable feel against …"
+        },
+        {
+          "heading": "Classic Round Neck and Half Sleeves",
+          "body": "Designed with a classic round neck and half sleeves, this T-shirt provides a versatile and timeless …"
+        },
+        {
+          "heading": "Easy Maintenance",
+          "body": "With regular machine wash care, maintaining this T-shirt is hassle-free and convenient. You can keep…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  }
+}

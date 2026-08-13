@@ -1,0 +1,44 @@
+{
+  "key": "8f4a50e4858d439e88b1798f",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T15:04:30.494Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/p/y/1-2-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-resized-original-imagfyyghdz7gurg.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/p/y/1-2-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-resized-original-imagfyyghdz7gurg.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/7/r/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygjd9tfgpz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/7/r/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygjd9tfgpz.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/y/g/g/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygzwwfj3nn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/y/g/g/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygzwwfj3nn.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/x/3/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyyg5hfjfhbu.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/x/3/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyyg5hfjfhbu.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/n/7/6-7-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagffcarkghvqzg.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/n/7/6-7-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagffcarkghvqzg.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/indian-garage-co-men-striped-casual-green-shirt/p/itmd257758b8914b?pid=SHTFZGDQYJVZNTXX&marketplace=FLIPKART&lid=LSTSHTFZGDQYJVZNTXXO4CYEI&swatchAttr=size&pageUID=1773747313060",
+    "scraped_at": "2026-08-13T14:35:45.202Z",
+    "final_url": "https://www.flipkart.com/indian-garage-co-men-striped-casual-green-shirt/p/itmd257758b8914b?pid=SHTFZGDQYJVZNTXX&marketplace=FLIPKART&lid=LSTSHTFZGDQYJVZNTXXO4CYEI&swatchAttr=size&pageUID=1773747313060"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:35:59.066Z"
+  },
+  "content": {
+    "title": "The Indian Garage Co. Men Striped Casual Green Shirt",
+    "short_description": "Color: Green\nFabric: Pure Cotton\nPattern: Striped\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "About the Brand\nThe Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Striped",
+      "Collar": "Spread",
+      "Color": "Green"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzghfazdzj4nh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzghfazdzj4nh.jpeg?q=100",
+        "local_path": "../../media/images/3567a4ee8499effc741cad04/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzgh27whgyprv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzgh27whgyprv.jpeg?q=100",
+        "local_path": "../../media/images/3567a4ee8499effc741cad04/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzghfyyetwmhb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzghfyyetwmhb.jpeg?q=100",
+        "local_path": "../../media/images/3567a4ee8499effc741cad04/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzghfjndypk2a.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzghfjndypk2a.jpeg?q=100",
+        "local_path": "../../media/images/3567a4ee8499effc741cad04/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzgh2fzvnjpfm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzgh2fzvnjpfm.jpeg?q=100",
+        "local_path": "../../media/images/3567a4ee8499effc741cad04/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN8SpW_bC9SUGwggUB4G3iLg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "The Indian Garage Co. Men Striped Casual Green Shirt",
+      "description": "The Indian Garage Co. Men Striped Casual Green Shirt - Buy The Indian Garage Co. Men Striped Casual Green Shirt For Only Rs. 1649.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzghfazdzj4nh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzgh27whgyprv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzghfyyetwmhb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzghfjndypk2a.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/k5vcya80/shirt/t/4/y/m-0619-sh04-02-olive-green-the-indian-garage-co-original-imafzgh2fzvnjpfm.jpeg?q=70"
+      ],
+      "sku": "SHTFZGDQYJVZNTXX",
+      "color": "Olive Green",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 514,
+        "ratingCount": 9135,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "The Indian Garage Co.",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 474,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Arijit Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-12-18",
+          "reviewBody": "It's nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Does the job",
+          "author": {
+            "name": "Arunachalam  Devar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-19",
+          "reviewBody": "Perfect fit according to the size\nNice stitching \nColour will be shade of in one wash\nOn next wash colour will remain constant\nOk Quality is above average",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Sumit Singha",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-10",
+          "reviewBody": "Nyc color... fits well",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "About the Brand",
+          "body": "The Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Striped",
+        "Collar": "Spread",
+        "Color": "Green"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3567a4ee8499effc741cad04",
+      "path": "media/images/3567a4ee8499effc741cad04/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "adf108cfd06673ceb0f20a8a",
+      "path": "media/videos/adf108cfd06673ceb0f20a8a/media.json",
+      "reused": false
+    }
+  }
+}

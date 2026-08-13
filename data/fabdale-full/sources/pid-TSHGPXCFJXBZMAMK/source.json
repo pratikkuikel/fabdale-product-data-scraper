@@ -1,0 +1,214 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-printed-men-round-neck-green-t-shirt/p/itm53c5e812b8ba1?pid=TSHGPXCFJXBZMAMK&lid=LSTTSHGPXCFJXBZMAMKF6N95I&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T15:40:30.522Z",
+    "final_url": "https://www.flipkart.com/kajaru-printed-men-round-neck-green-t-shirt/p/itm53c5e812b8ba1?pid=TSHGPXCFJXBZMAMK&lid=LSTTSHGPXCFJXBZMAMKF6N95I&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:40:51.648Z"
+  },
+  "content": {
+    "title": "KAJARU Printed Men Round Neck Green T-Shirt",
+    "short_description": "Fabric: Polycotton\nPattern: Printed\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "Cool Pattern\nFlaunting a stylish printed pattern, this T-shirt flawlessly captures modern fashion. These funky pa…\n\nPractical Design\nFeaturing short sleeves and a round neck, this T-shirt is practical and versatile. The short sleeves…\n\nHigh-quality Material\nCrafted from a blend of polycotton, this T-shirt offers a suitable combination of comfort and durabi…\n\nIdeal For Casual Wear\nThis T-shirt is the ideal choice for casual occasions because it offers endless styling possibilitie…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polycotton",
+      "Neck Type": "Round Neck",
+      "Pattern": "Printed"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/3/z/l-oversizetsrt-101-kajaru-resized-original-imahcfsazkqnvhpz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/3/z/l-oversizetsrt-101-kajaru-resized-original-imahcfsazkqnvhpz.jpeg?q=100",
+        "local_path": "../../media/images/bd8ad6aad320c6b79bfc21c5/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/q/i/xxl-oversizetsrt-101-kajaru-original-imagpxcf9pgsmv6h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/q/i/xxl-oversizetsrt-101-kajaru-original-imagpxcf9pgsmv6h.jpeg?q=100",
+        "local_path": "../../media/images/bd8ad6aad320c6b79bfc21c5/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/o/r/l-oversizetsrt-101-kajaru-original-imahcfsady57rmux.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/o/r/l-oversizetsrt-101-kajaru-original-imahcfsady57rmux.jpeg?q=100",
+        "local_path": "../../media/images/bd8ad6aad320c6b79bfc21c5/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/n/j/l-oversizetsrt-101-kajaru-original-imahcfsarukkgy6z.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/n/j/l-oversizetsrt-101-kajaru-original-imahcfsarukkgy6z.jpeg?q=100",
+        "local_path": "../../media/images/bd8ad6aad320c6b79bfc21c5/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/j/2/6/l-oversizetsrt-101-kajaru-original-imahcfsaxwdxtawn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/j/2/6/l-oversizetsrt-101-kajaru-original-imahcfsaxwdxtawn.jpeg?q=100",
+        "local_path": "../../media/images/bd8ad6aad320c6b79bfc21c5/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNwzZtqiwaQG-EGdaAUOl_2g/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Printed Men Round Neck Green T-Shirt",
+      "description": "KAJARU Printed Men Round Neck Green T-Shirt - Buy KAJARU Printed Men Round Neck Green T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/3/z/l-oversizetsrt-101-kajaru-resized-original-imahcfsazkqnvhpz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/q/i/xxl-oversizetsrt-101-kajaru-original-imagpxcf9pgsmv6h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/o/r/l-oversizetsrt-101-kajaru-original-imahcfsady57rmux.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/n/j/l-oversizetsrt-101-kajaru-original-imahcfsarukkgy6z.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/j/2/6/l-oversizetsrt-101-kajaru-original-imahcfsaxwdxtawn.jpeg?q=70"
+      ],
+      "sku": "TSHGPXCFJXBZMAMK",
+      "color": "OLIVEGREEN",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 3901,
+        "ratingCount": 76411,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 229,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "PRAKASH RAY",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-07",
+          "reviewBody": "Nice product ❣️",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-17",
+          "reviewBody": "Good product according to the price",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "suman kumari",
+            "@type": "Person"
+          },
+          "datePublished": "2023-08-21",
+          "reviewBody": "Great 👍👍, quality is very good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Cool Pattern",
+          "body": "Flaunting a stylish printed pattern, this T-shirt flawlessly captures modern fashion. These funky pa…"
+        },
+        {
+          "heading": "Practical Design",
+          "body": "Featuring short sleeves and a round neck, this T-shirt is practical and versatile. The short sleeves…"
+        },
+        {
+          "heading": "High-quality Material",
+          "body": "Crafted from a blend of polycotton, this T-shirt offers a suitable combination of comfort and durabi…"
+        },
+        {
+          "heading": "Ideal For Casual Wear",
+          "body": "This T-shirt is the ideal choice for casual occasions because it offers endless styling possibilitie…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polycotton",
+        "Neck Type": "Round Neck",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bd8ad6aad320c6b79bfc21c5",
+      "path": "media/images/bd8ad6aad320c6b79bfc21c5/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "00b5fa5afad92bec55226373",
+      "path": "media/videos/00b5fa5afad92bec55226373/media.json",
+      "reused": false
+    }
+  }
+}

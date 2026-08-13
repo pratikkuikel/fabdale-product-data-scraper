@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-SHTH7D466GTUBVDZ",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2269",
+    "2270",
+    "2271",
+    "2272",
+    "2273"
+  ],
+  "source_path": "sources/pid-SHTH7D466GTUBVDZ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T11:29:30.321Z",
+  "completed_at": "2026-08-13T11:29:38.038Z"
+}

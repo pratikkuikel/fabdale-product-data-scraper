@@ -1,0 +1,134 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-round-neck-pink-t-shirt/p/itm8f96c3dacbfe8?pid=TSHH48PV3VYVPVBH&marketplace=FLIPKART&lid=LSTTSHH48PV3VYVPVBH0ANDRY&swatchAttr=size&pageUID=1772988659792",
+    "scraped_at": "2026-08-13T15:23:46.777Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-round-neck-pink-t-shirt/p/itm8f96c3dacbfe8?pid=TSHH48PV3VYVPVBH&marketplace=FLIPKART&lid=LSTTSHH48PV3VYVPVBH0ANDRY&swatchAttr=size&pageUID=1772988659792"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:24:01.526Z"
+  },
+  "content": {
+    "title": "KAJARU Men Striped Round Neck Polyester Pink T-Shirt",
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/9/g/7/l-tsrt-catalog-03-kajaru-original-imah48pvz8g6xdpc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/9/g/7/l-tsrt-catalog-03-kajaru-original-imah48pvz8g6xdpc.jpeg?q=100",
+        "local_path": "../../media/images/656d48c85af6efacdd6a8f4c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/630/1120/images/cgt/FPS/CNDWKnp16tRz2og_PaxMbKng/manifest.jpg?q=20",
+        "download_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/630/1120/images/cgt/FPS/CNDWKnp16tRz2og_PaxMbKng/manifest.jpg?q=20",
+        "local_path": "../../media/images/656d48c85af6efacdd6a8f4c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/j/j/f/l-tsrt-catalog-03-kajaru-original-imah48pvgthffyh6.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/j/j/f/l-tsrt-catalog-03-kajaru-original-imah48pvgthffyh6.jpeg?q=100",
+        "local_path": "../../media/images/656d48c85af6efacdd6a8f4c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/w/e/a/l-tsrt-catalog-03-kajaru-original-imah48pvrgjrzgat.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/w/e/a/l-tsrt-catalog-03-kajaru-original-imah48pvrgjrzgat.jpeg?q=100",
+        "local_path": "../../media/images/656d48c85af6efacdd6a8f4c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/g/b/r/l-tsrt-catalog-03-kajaru-original-imah48pvdffnhg8q.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/g/b/r/l-tsrt-catalog-03-kajaru-original-imah48pvdffnhg8q.jpeg?q=100",
+        "local_path": "../../media/images/656d48c85af6efacdd6a8f4c/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/e/i/m-tsrt-catalog-03-makemode-original-imah4ufyhuwmjffb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/e/i/m-tsrt-catalog-03-makemode-original-imah4ufyhuwmjffb.jpeg?q=100",
+        "local_path": "../../media/images/656d48c85af6efacdd6a8f4c/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/7/m/xl-lion-lavender-streetwear-fashion-resized-original-imahfs9hsjtdgkzf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/7/m/xl-lion-lavender-streetwear-fashion-resized-original-imahfs9hsjtdgkzf.jpeg?q=100",
+        "local_path": "../../media/images/656d48c85af6efacdd6a8f4c/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/y/g/c/s-658254147-try-this-resized-original-imah2rkqkzyfervs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/y/g/c/s-658254147-try-this-resized-original-imah2rkqkzyfervs.jpeg?q=100",
+        "local_path": "../../media/images/656d48c85af6efacdd6a8f4c/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/n/b/l-7425698001-try-this-original-imahft3dabgyddsa.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/n/b/l-7425698001-try-this-original-imahft3dabgyddsa.jpeg?q=100",
+        "local_path": "../../media/images/656d48c85af6efacdd6a8f4c/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/d/g/c/l-os-satoru-grey-l-tripbroz-original-imaheyfq2xgdtgur.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/d/g/c/l-os-satoru-grey-l-tripbroz-original-imaheyfq2xgdtgur.jpeg?q=100",
+        "local_path": "../../media/images/656d48c85af6efacdd6a8f4c/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/s/d/w/l-ts-sky-blue-carnival-half-stelino-original-imagxn62kaqy6f24.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/s/d/w/l-ts-sky-blue-carnival-half-stelino-original-imagxn62kaqy6f24.jpeg?q=100",
+        "local_path": "../../media/images/656d48c85af6efacdd6a8f4c/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/p/u/xxl-tsrt-catalog-01-kajaru-resized-original-imagk49cgwsfcf33.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/p/u/xxl-tsrt-catalog-01-kajaru-resized-original-imagk49cgwsfcf33.jpeg?q=100",
+        "local_path": "../../media/images/656d48c85af6efacdd6a8f4c/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/v/i/s/s-tsrt-catalog-03-kajaru-resized-original-imagqmy7khm5qgwu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/v/i/s/s-tsrt-catalog-03-kajaru-resized-original-imagqmy7khm5qgwu.jpeg?q=100",
+        "local_path": "../../media/images/656d48c85af6efacdd6a8f4c/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "656d48c85af6efacdd6a8f4c",
+      "path": "media/images/656d48c85af6efacdd6a8f4c/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

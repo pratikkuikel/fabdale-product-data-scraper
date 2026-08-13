@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SHTH27M298DHM6AF",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2109"
+  ],
+  "source_path": "sources/pid-SHTH27M298DHM6AF/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T11:13:39.242Z",
+  "completed_at": "2026-08-13T11:13:46.452Z"
+}

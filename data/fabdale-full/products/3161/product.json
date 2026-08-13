@@ -1,0 +1,148 @@
+{
+  "product_id": "3161",
+  "sku": "Fab-TShirt-KAJR-009G-M",
+  "product": {
+    "name": "Kavish Turkish-Islamic Synthesis T-Shirt",
+    "parent_id": "5413",
+    "notes": "https://www.flipkart.com/makemode-printed-men-round-neck-green-t-shirt/p/itm0646f1d1fd71d?pid=TSHH4UFFUG9YSHRK&marketplace=FLIPKART&lid=LSTTSHH4UFFUG9YSHRKYE2KQS&swatchAttr=size&pageUID=1772991379466"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH4UFFUG9YSHRK",
+    "path": "../../sources/pid-TSHH4UFFUG9YSHRK/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/makemode-printed-men-round-neck-green-t-shirt/p/itm0646f1d1fd71d?pid=TSHH4UFFUG9YSHRK&marketplace=FLIPKART&lid=LSTTSHH4UFFUG9YSHRKYE2KQS&swatchAttr=size&pageUID=1772991379466",
+    "scraped_at": "2026-08-13T15:35:53.073Z",
+    "final_url": "https://www.flipkart.com/makemode-printed-men-round-neck-green-t-shirt/p/itm0646f1d1fd71d?pid=TSHH4UFFUG9YSHRK&marketplace=FLIPKART&lid=LSTTSHH4UFFUG9YSHRKYE2KQS&swatchAttr=size&pageUID=1772991379466"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:36:13.106Z"
+  },
+  "content": {
+    "title": "MAKEMODE Men Printed Round Neck Polycotton Green T-Shirt",
+    "short_description": "Fabric: Polycotton\nPattern: Printed\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": null,
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polycotton",
+      "Neck Type": "Round Neck",
+      "Pattern": "Printed"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "adfaf3af77fb0d24aa7b052f",
+      "path": "media/images/adfaf3af77fb0d24aa7b052f/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/k/n/n/s-oversizetsrt-101-makemode-original-imah4ufyrwzxcavg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/k/n/n/s-oversizetsrt-101-makemode-original-imah4ufyrwzxcavg.jpeg?q=100",
+        "local_path": "../../media/images/adfaf3af77fb0d24aa7b052f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/j/s/k/s-oversizetsrt-101-makemode-original-imah4ufyjzz9jjgn.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/j/s/k/s-oversizetsrt-101-makemode-original-imah4ufyjzz9jjgn.jpeg?q=100",
+        "local_path": "../../media/images/adfaf3af77fb0d24aa7b052f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/k/v/4/s-oversizetsrt-101-makemode-original-imah4ufygh47dwtz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/k/v/4/s-oversizetsrt-101-makemode-original-imah4ufygh47dwtz.jpeg?q=100",
+        "local_path": "../../media/images/adfaf3af77fb0d24aa7b052f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/i/9/4/s-oversizetsrt-101-makemode-original-imah4ufy57wngfrt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/i/9/4/s-oversizetsrt-101-makemode-original-imah4ufy57wngfrt.jpeg?q=100",
+        "local_path": "../../media/images/adfaf3af77fb0d24aa7b052f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-t-shirt/7/o/t/3xl-sy-cl-ts-405-whitecml-bold-view-original-imahn826j4ehatyp.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-t-shirt/7/o/t/3xl-sy-cl-ts-405-whitecml-bold-view-original-imahn826j4ehatyp.jpeg?q=100",
+        "local_path": "../../media/images/adfaf3af77fb0d24aa7b052f/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/3/6/o/xl-jtp-jetblack-joven-original-imah6a7g2yzyrxfq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/3/6/o/xl-jtp-jetblack-joven-original-imah6a7g2yzyrxfq.jpeg?q=100",
+        "local_path": "../../media/images/adfaf3af77fb0d24aa7b052f/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/h/o/i/l-tag-rise-001-tagglio-original-imahpsg9drvwacfd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/h/o/i/l-tag-rise-001-tagglio-original-imahpsg9drvwacfd.jpeg?q=100",
+        "local_path": "../../media/images/adfaf3af77fb0d24aa7b052f/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/h/6/h/m-polo-7044-kajaru-original-imahpp7xhsa5pzff.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/h/6/h/m-polo-7044-kajaru-original-imahpp7xhsa5pzff.jpeg?q=100",
+        "local_path": "../../media/images/adfaf3af77fb0d24aa7b052f/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/4/l/l-jtp-lilac-joven-original-imah4nhgtuyq6szn.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/4/l/l-jtp-lilac-joven-original-imah4nhgtuyq6szn.jpeg?q=100",
+        "local_path": "../../media/images/adfaf3af77fb0d24aa7b052f/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/v/f/y/xl-pockett-mario-combraided-original-imahnz4fhf4sd4en.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/v/f/y/xl-pockett-mario-combraided-original-imahnz4fhf4sd4en.jpeg?q=100",
+        "local_path": "../../media/images/adfaf3af77fb0d24aa7b052f/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/e/7/6/xxl-polo-8087-kajaru-resized-original-imahgbg2thnrnbyt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/e/7/6/xxl-polo-8087-kajaru-resized-original-imahgbg2thnrnbyt.jpeg?q=100",
+        "local_path": "../../media/images/adfaf3af77fb0d24aa7b052f/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/9/p/h/l-grn01-newsingh-resized-original-imaheguqtu6vekgj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/9/p/h/l-grn01-newsingh-resized-original-imaheguqtu6vekgj.jpeg?q=100",
+        "local_path": "../../media/images/adfaf3af77fb0d24aa7b052f/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polycotton",
+        "Neck Type": "Round Neck",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  }
+}

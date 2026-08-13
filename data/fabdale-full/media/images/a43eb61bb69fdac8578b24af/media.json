@@ -1,0 +1,37 @@
+{
+  "key": "a43eb61bb69fdac8578b24af",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T11:28:17.110Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/s/0/w/xl-formal-shirts-praizy-original-imahf5tr9spcrvwf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/s/0/w/xl-formal-shirts-praizy-original-imahf5tr9spcrvwf.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/t/f/xl-formal-shirts-metronaut-original-imahhcz3r7ptvjet.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/t/f/xl-formal-shirts-metronaut-original-imahhcz3r7ptvjet.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/4/w/a/l-formal-shirts-metronaut-original-imahhcz3bdyrrckr.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/4/w/a/l-formal-shirts-metronaut-original-imahhcz3bdyrrckr.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/9/d/l-formal-shirts-metronaut-original-imahhcz3ftejgs6y.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/9/d/l-formal-shirts-metronaut-original-imahhcz3ftejgs6y.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "key": "8ab344b48db5823631d866e3",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T11:14:43.696Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/9/a/x/m-kep-hs-1005-khaki-tyzlo-original-imahgs8y4shshp6d.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/9/a/x/m-kep-hs-1005-khaki-tyzlo-original-imahgs8y4shshp6d.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/b/g/s-mhs-1005-metronaut-original-imahhqc7hag3ndk7.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/b/g/s-mhs-1005-metronaut-original-imahhqc7hag3ndk7.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/y/u/w/s-mhs-1005-metronaut-original-imahhqc7w4hbwc8y.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/y/u/w/s-mhs-1005-metronaut-original-imahhqc7w4hbwc8y.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/q/1/xl-mhs-1005-metronaut-original-imahghydygryaz3v.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/q/1/xl-mhs-1005-metronaut-original-imahghydygryaz3v.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/7/a/m-mhs-1005-metronaut-original-imahhqc7ggcrcdk5.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/7/a/m-mhs-1005-metronaut-original-imahhqc7ggcrcdk5.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

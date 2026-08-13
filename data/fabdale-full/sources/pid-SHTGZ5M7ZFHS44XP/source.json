@@ -1,0 +1,148 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/marc-laurent-men-solid-casual-maroon-shirt/p/itm55c9b0d99a86e?pid=SHTGZ5M7ZFHS44XP&marketplace=FLIPKART&lid=LSTSHTGZ5M7ZFHS44XPZFGPOU&swatchAttr=size&pageUID=1773395344627",
+    "scraped_at": "2026-08-13T11:18:00.758Z",
+    "final_url": "https://www.flipkart.com/marc-laurent-men-solid-casual-maroon-shirt/p/itm55c9b0d99a86e?pid=SHTGZ5M7ZFHS44XP&marketplace=FLIPKART&lid=LSTSHTGZ5M7ZFHS44XPZFGPOU&swatchAttr=size&pageUID=1773395344627"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:18:08.440Z"
+  },
+  "content": {
+    "title": "Marc Laurent Men Solid Casual Maroon Shirt",
+    "short_description": "Color: Maroon\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Other Details\nPre Washed, ironed and pouch packing perfect for immediate use or Gifting.",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Maroon"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/y/t/m-st2-vebnor-original-imagpw7wk2hq5wyd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/y/t/m-st2-vebnor-original-imagpw7wk2hq5wyd.jpeg?q=100",
+        "local_path": "../../media/images/aa6f20c40736e6e16acef71c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/b/x/m-st2-vebnor-original-imagpw7whypwrjeg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/b/x/m-st2-vebnor-original-imagpw7whypwrjeg.jpeg?q=100",
+        "local_path": "../../media/images/aa6f20c40736e6e16acef71c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/l/q/m-st2-vebnor-original-imagpw7wvzeunqqa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/l/q/m-st2-vebnor-original-imagpw7wvzeunqqa.jpeg?q=100",
+        "local_path": "../../media/images/aa6f20c40736e6e16acef71c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/u/h/m-st2-vebnor-original-imagpw7w3ha4tv2h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/u/h/m-st2-vebnor-original-imagpw7w3ha4tv2h.jpeg?q=100",
+        "local_path": "../../media/images/aa6f20c40736e6e16acef71c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/4/l/l-frml-st2-vebnor-original-imagqwy4whxwz2dg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/4/l/l-frml-st2-vebnor-original-imagqwy4whxwz2dg.jpeg?q=100",
+        "local_path": "../../media/images/aa6f20c40736e6e16acef71c/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Marc Laurent Men Solid Casual Maroon Shirt",
+      "description": "Marc Laurent Men Solid Casual Maroon Shirt - Buy Marc Laurent Men Solid Casual Maroon Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/y/t/m-st2-vebnor-original-imagpw7wk2hq5wyd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/b/x/m-st2-vebnor-original-imagpw7whypwrjeg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/l/q/m-st2-vebnor-original-imagpw7wvzeunqqa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/u/h/m-st2-vebnor-original-imagpw7w3ha4tv2h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/4/l/l-frml-st2-vebnor-original-imagqwy4whxwz2dg.jpeg?q=70"
+      ],
+      "sku": "SHTGZ5M7ZFHS44XP",
+      "color": "Maroon",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "ratingCount": 8,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Marc Laurent",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 350,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Other Details",
+          "body": "Pre Washed, ironed and pouch packing perfect for immediate use or Gifting."
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Maroon"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "aa6f20c40736e6e16acef71c",
+      "path": "media/images/aa6f20c40736e6e16acef71c/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

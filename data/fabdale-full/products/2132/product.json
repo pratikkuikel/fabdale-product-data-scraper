@@ -1,0 +1,210 @@
+{
+  "product_id": "2132",
+  "sku": "Fab-Shirt-METR-014G-XL",
+  "product": {
+    "name": "Metronex Regular Fit Solid Shirt",
+    "parent_id": "5271",
+    "notes": "https://www.flipkart.com/metronaut-men-solid-casual-light-green-shirt/p/itm32fb21d008716?pid=SHTH6WRYSSHGTFW7&marketplace=FLIPKART&lid=LSTSHTH6WRYSSHGTFW77UU3CB&swatchAttr=size&pageUID=1773394633348"
+  },
+  "source_bundle": {
+    "key": "pid-SHTH6WRYSSHGTFW7",
+    "path": "../../sources/pid-SHTH6WRYSSHGTFW7/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-light-green-shirt/p/itm32fb21d008716?pid=SHTH6WRYSSHGTFW7&marketplace=FLIPKART&lid=LSTSHTH6WRYSSHGTFW77UU3CB&swatchAttr=size&pageUID=1773393620305",
+    "scraped_at": "2026-08-13T11:14:24.788Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-light-green-shirt/p/itm32fb21d008716?pid=SHTH6WRYSSHGTFW7&marketplace=FLIPKART&lid=LSTSHTH6WRYSSHGTFW77UU3CB&swatchAttr=size&pageUID=1773393620305"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:14:29.116Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Solid Casual Light Green Shirt",
+    "short_description": "Color: Light Green\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Half Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "METRONAUT Men Solid Casual Light Green Shirt - Buy METRONAUT Men Solid Casual Light Green Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Half Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Light Green"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c047d3243120117d2466eac0",
+      "path": "media/images/c047d3243120117d2466eac0/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "3f5b8e2413b3565f0f867a86",
+      "path": "media/videos/3f5b8e2413b3565f0f867a86/media.json",
+      "reused": true
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/q/b/s-popcorn-shirts-statue-metronaut-original-imah6wrufmunxggx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/q/b/s-popcorn-shirts-statue-metronaut-original-imah6wrufmunxggx.jpeg?q=100",
+        "local_path": "../../media/images/c047d3243120117d2466eac0/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/7/z/s-popcorn-shirts-statue-metronaut-original-imah6wrugnn7p76q.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/7/z/s-popcorn-shirts-statue-metronaut-original-imah6wrugnn7p76q.jpeg?q=100",
+        "local_path": "../../media/images/c047d3243120117d2466eac0/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN5kK-WvJ4SfWmLTm24fIy_Q/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual Light Green Shirt",
+      "description": "METRONAUT Men Solid Casual Light Green Shirt - Buy METRONAUT Men Solid Casual Light Green Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/q/b/s-popcorn-shirts-statue-metronaut-original-imah6wrufmunxggx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/7/z/s-popcorn-shirts-statue-metronaut-original-imah6wrugnn7p76q.jpeg?q=70"
+      ],
+      "sku": "SHTH6WRYSSHGTFW7",
+      "color": "Pista",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 246,
+        "ratingCount": 7095,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 228,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "MD AFTAB RAZI",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-16",
+          "reviewBody": "Thanks for Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Jyotishna Dutta phukan",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-25",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Nikhil Negi",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-05",
+          "reviewBody": "Great product in this price of range... Loved it❤️",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Light Green"
+      },
+      "specifications": {
+        "Brand": "METRONAUT",
+        "Size": "XL",
+        "Pack of": "1",
+        "Style Code": "POPCORN SHIRTS STATUE",
+        "Fit": "Regular",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Solid",
+        "Reversible": "No",
+        "Collar": "Spread",
+        "Color": "Light Green",
+        "Fabric Care": "Hand wash",
+        "Suitable For": "Western Wear",
+        "Hem": "Curved",
+        "Net Quantity": "1",
+        "Brand Color": "Pista",
+        "Ideal For": "Men",
+        "Occasion": "Casual",
+        "Ornamentation Type": "Brand Logo",
+        "Print Type": "Solid",
+        "Trend": "Solid"
+      }
+    }
+  }
+}

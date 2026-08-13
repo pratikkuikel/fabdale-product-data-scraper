@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-SHTH8PSHYSCQUJSW",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2183",
+    "5274"
+  ],
+  "source_path": "sources/pid-SHTH8PSHYSCQUJSW/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T11:21:14.933Z",
+  "completed_at": "2026-08-13T11:21:19.886Z"
+}

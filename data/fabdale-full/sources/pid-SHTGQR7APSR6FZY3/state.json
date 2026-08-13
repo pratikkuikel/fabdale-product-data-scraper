@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-SHTGQR7APSR6FZY3",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2474",
+    "2475",
+    "2476",
+    "2477",
+    "2478",
+    "5468"
+  ],
+  "source_path": "sources/pid-SHTGQR7APSR6FZY3/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:25:04.251Z",
+  "completed_at": "2026-08-13T14:25:14.867Z"
+}

@@ -1,0 +1,175 @@
+{
+  "product_id": "2281",
+  "sku": "Fab-Shirt-HIGH-001BL-L",
+  "product": {
+    "name": "Havric Summer novelty print beach shirt",
+    "parent_id": "5437",
+    "notes": "https://www.flipkart.com/highlander-men-printed-casual-blue-shirt/p/itm0822b36a19a57?pid=SHTGBVNCYGWGZXVZ&marketplace=FLIPKART&lid=LSTSHTGBVNCYGWGZXVZNLMCIL&swatchAttr=size&pageUID=1773658943203"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGBVNCYGWGZXVZ",
+    "path": "../../sources/pid-SHTGBVNCYGWGZXVZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/highlander-men-printed-casual-blue-shirt/p/itm0822b36a19a57?pid=SHTGBVNCYGWGZXVZ&marketplace=FLIPKART&lid=LSTSHTGBVNCYGWGZXVZNLMCIL&swatchAttr=size&pageUID=1773658943203",
+    "scraped_at": "2026-08-13T11:30:08.761Z",
+    "final_url": "https://www.flipkart.com/highlander-men-printed-casual-blue-shirt/p/itm0822b36a19a57?pid=SHTGBVNCYGWGZXVZ&marketplace=FLIPKART&lid=LSTSHTGBVNCYGWGZXVZNLMCIL&swatchAttr=size&pageUID=1773658943203"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:30:13.710Z"
+  },
+  "content": {
+    "title": "HIGHLANDER Men Printed Casual Blue Shirt",
+    "short_description": "HIGHLANDER Men Printed Casual Blue Shirt - Buy HIGHLANDER Men Printed Casual Blue Shirt For Only Rs. 1199.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "HIGHLANDER Men Printed Casual Blue Shirt - Buy HIGHLANDER Men Printed Casual Blue Shirt For Only Rs. 1199.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bd88312a8b4ef2c6674a0899",
+      "path": "media/images/bd88312a8b4ef2c6674a0899/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/c/6/9/xl-hlsh013394-highlander-original-imagbvncm6xvz49p.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/c/6/9/xl-hlsh013394-highlander-original-imagbvncm6xvz49p.jpeg?q=100",
+        "local_path": "../../media/images/bd88312a8b4ef2c6674a0899/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/n/0/w/xl-hlsh013394-highlander-original-imagbvnca8cf6y7g.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/n/0/w/xl-hlsh013394-highlander-original-imagbvnca8cf6y7g.jpeg?q=100",
+        "local_path": "../../media/images/bd88312a8b4ef2c6674a0899/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/h/2/x/xl-hlsh013394-highlander-original-imagbvncjjxnw9em.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/h/2/x/xl-hlsh013394-highlander-original-imagbvncjjxnw9em.jpeg?q=100",
+        "local_path": "../../media/images/bd88312a8b4ef2c6674a0899/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/g/8/q/xl-hlsh013394-highlander-original-imagbvnc7t2eyzac.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/g/8/q/xl-hlsh013394-highlander-original-imagbvnc7t2eyzac.jpeg?q=100",
+        "local_path": "../../media/images/bd88312a8b4ef2c6674a0899/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/s/p/5/xl-hlsh013394-highlander-original-imagbvncedwrjgzh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/s/p/5/xl-hlsh013394-highlander-original-imagbvncedwrjgzh.jpeg?q=100",
+        "local_path": "../../media/images/bd88312a8b4ef2c6674a0899/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "HIGHLANDER Men Printed Casual Blue Shirt",
+      "description": "HIGHLANDER Men Printed Casual Blue Shirt - Buy HIGHLANDER Men Printed Casual Blue Shirt For Only Rs. 1199.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/c/6/9/xl-hlsh013394-highlander-original-imagbvncm6xvz49p.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/n/0/w/xl-hlsh013394-highlander-original-imagbvnca8cf6y7g.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/h/2/x/xl-hlsh013394-highlander-original-imagbvncjjxnw9em.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/g/8/q/xl-hlsh013394-highlander-original-imagbvnc7t2eyzac.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kzzw5u80/shirt/s/p/5/xl-hlsh013394-highlander-original-imagbvncedwrjgzh.jpeg?q=70"
+      ],
+      "sku": "SHTGBVNCYGWGZXVZ",
+      "color": "BLUE",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 381,
+        "ratingCount": 5906,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "HIGHLANDER",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 344,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Dipak Deka",
+            "@type": "Person"
+          },
+          "datePublished": "2022-11-13",
+          "reviewBody": "Nice product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Yuvraj Jadon",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-17",
+          "reviewBody": "It is a very good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Fiza Aliya",
+            "@type": "Person"
+          },
+          "datePublished": "2022-06-26",
+          "reviewBody": "Nice one",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

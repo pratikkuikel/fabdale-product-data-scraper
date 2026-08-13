@@ -1,0 +1,206 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/indian-garage-co-men-checkered-casual-green-shirt/p/itm23be3f1f02f19?pid=SHTFUHKTQZKG2HEW&marketplace=FLIPKART&lid=LSTSHTFUHKTQZKG2HEWF8ESHI&swatchAttr=size&pageUID=1773746718670",
+    "scraped_at": "2026-08-13T14:34:14.918Z",
+    "final_url": "https://www.flipkart.com/indian-garage-co-men-checkered-casual-green-shirt/p/itm23be3f1f02f19?pid=SHTFUHKTQZKG2HEW&marketplace=FLIPKART&lid=LSTSHTFUHKTQZKG2HEWF8ESHI&swatchAttr=size&pageUID=1773746718670"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:34:33.410Z"
+  },
+  "content": {
+    "title": "The Indian Garage Co. Men Checkered Casual Green Shirt",
+    "short_description": "Color: Green\nFabric: Pure Cotton\nPattern: Checkered\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "About the Brand\nThe Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Checkered",
+      "Collar": "Spread",
+      "Color": "Green"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/d/r/-resized-original-imahfgbqdj8fygqz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/d/r/-resized-original-imahfgbqdj8fygqz.jpeg?q=100",
+        "local_path": "../../media/images/ef09f5c274ec7c206b08e8bc/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/s/1/j/-original-imahfgbqvt48rgkx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/s/1/j/-original-imahfgbqvt48rgkx.jpeg?q=100",
+        "local_path": "../../media/images/ef09f5c274ec7c206b08e8bc/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/d/s/-original-imahfgbrs3d2jqjz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/d/s/-original-imahfgbrs3d2jqjz.jpeg?q=100",
+        "local_path": "../../media/images/ef09f5c274ec7c206b08e8bc/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/g/b/-original-imahfgbrpzcjaj6x.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/g/b/-original-imahfgbrpzcjaj6x.jpeg?q=100",
+        "local_path": "../../media/images/ef09f5c274ec7c206b08e8bc/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/b/x/-original-imahfgbregz6t9c7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/b/x/-original-imahfgbregz6t9c7.jpeg?q=100",
+        "local_path": "../../media/images/ef09f5c274ec7c206b08e8bc/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNMexpxTzzTDyhqKGsUHALwg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "The Indian Garage Co. Men Checkered Casual Green Shirt",
+      "description": "The Indian Garage Co. Men Checkered Casual Green Shirt - Buy The Indian Garage Co. Men Checkered Casual Green Shirt For Only Rs. 1749.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/d/r/-resized-original-imahfgbqdj8fygqz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/s/1/j/-original-imahfgbqvt48rgkx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/d/s/-original-imahfgbrs3d2jqjz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/g/b/-original-imahfgbrpzcjaj6x.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/b/x/-original-imahfgbregz6t9c7.jpeg?q=70"
+      ],
+      "sku": "SHTFUHKTQZKG2HEW",
+      "color": "Green-C",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 501,
+        "ratingCount": 7391,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "The Indian Garage Co.",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 503,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "PARIJAT RAY CHAUDHURY",
+            "@type": "Person"
+          },
+          "datePublished": "2021-09-03",
+          "reviewBody": "Very good quality product with good colour and fittings according to this price..also the delivery service is outstanding by flipkart once again..thanks to flipkart....",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Samad  Khan",
+            "@type": "Person"
+          },
+          "datePublished": "2023-04-22",
+          "reviewBody": "Must buy if you buy a decent look and budget friendly shirt",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Sumanta Deb  Adhikari",
+            "@type": "Person"
+          },
+          "datePublished": "2022-12-20",
+          "reviewBody": "Vare nice shirt quality is vare good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "About the Brand",
+          "body": "The Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Collar": "Spread",
+        "Color": "Green"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ef09f5c274ec7c206b08e8bc",
+      "path": "media/images/ef09f5c274ec7c206b08e8bc/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "381d7942ffaf7df2c2fb407a",
+      "path": "media/videos/381d7942ffaf7df2c2fb407a/media.json",
+      "reused": true
+    }
+  }
+}

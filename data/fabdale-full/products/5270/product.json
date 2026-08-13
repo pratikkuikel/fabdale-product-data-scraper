@@ -1,0 +1,229 @@
+{
+  "product_id": "5270",
+  "sku": null,
+  "product": {
+    "name": "Metronex Checkered Casual Shirt",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/metronaut-men-solid-checkered-casual-red-shirt/p/itm6ee60bbbc25c6?pid=SHTH2M4BFBTXZWAW&marketplace=FLIPKART&lid=LSTSHTH2M4BFBTXZWAWWNXEGQ&swatchAttr=size&pageUID=1773393149816"
+  },
+  "source_bundle": {
+    "key": "pid-SHTH2M4BFBTXZWAW",
+    "path": "../../sources/pid-SHTH2M4BFBTXZWAW/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-checkered-casual-red-shirt/p/itm6ee60bbbc25c6?pid=SHTH2M4BFBTXZWAW&marketplace=FLIPKART&lid=LSTSHTH2M4BFBTXZWAWWNXEGQ&swatchAttr=size&pageUID=1773393149816",
+    "scraped_at": "2026-08-13T11:15:37.653Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-checkered-casual-red-shirt/p/itm6ee60bbbc25c6?pid=SHTH2M4BFBTXZWAW&marketplace=FLIPKART&lid=LSTSHTH2M4BFBTXZWAWWNXEGQ&swatchAttr=size&pageUID=1773393149816"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:15:42.393Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Solid Casual Red Shirt",
+    "short_description": "Color: Red\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Half Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Versatile and Stylish\nThis men's casual shirt features a unique combination of solid and checkered patterns, adding a touc…\n\nClassic Spread Collar\nFeaturing a spread collar, this shirt exudes a classic and sophisticated appeal. The spread collar a…\n\nRegular Fit for Easy Movement\nCrafted with a regular fit, this shirt offers ease of movement and comfort. The regular fit ensures …\n\nPremium Cotton Blend Fabric\nMade from a high-quality cotton blend fabric, this shirt provides a soft and comfortable feel agains…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Half Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Red"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "9dd7d491522cc130f28f5457",
+      "path": "media/images/9dd7d491522cc130f28f5457/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "eec54c2cf3d76a3b6d1574fa",
+      "path": "media/videos/eec54c2cf3d76a3b6d1574fa/media.json",
+      "reused": true
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/i/m/xxl-kep-hs-1005-red-tyzlo-original-imahgs8ye2ay2rga.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/i/m/xxl-kep-hs-1005-red-tyzlo-original-imahgs8ye2ay2rga.jpeg?q=100",
+        "local_path": "../../media/images/9dd7d491522cc130f28f5457/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/e/f/xl-mhs-1005-metronaut-original-imahgaaf4fgkdnjd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/e/f/xl-mhs-1005-metronaut-original-imahgaaf4fgkdnjd.jpeg?q=100",
+        "local_path": "../../media/images/9dd7d491522cc130f28f5457/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/v/z/xxl-kep-hs-1005-red-tyzlo-original-imahgs8yrv2uqjjw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/v/z/xxl-kep-hs-1005-red-tyzlo-original-imahgs8yrv2uqjjw.jpeg?q=100",
+        "local_path": "../../media/images/9dd7d491522cc130f28f5457/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/e/h/xl-mhs-1005-metronaut-original-imahgaafswemzyr7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/e/h/xl-mhs-1005-metronaut-original-imahgaafswemzyr7.jpeg?q=100",
+        "local_path": "../../media/images/9dd7d491522cc130f28f5457/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/n/t/xxl-kep-hs-1005-red-tyzlo-original-imahgs8yurghkarg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/n/t/xxl-kep-hs-1005-red-tyzlo-original-imahgs8yurghkarg.jpeg?q=100",
+        "local_path": "../../media/images/9dd7d491522cc130f28f5457/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNNhXkam7VR4igAsVVKFgdzg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual Red Shirt",
+      "description": "METRONAUT Men Solid Casual Red Shirt - Buy METRONAUT Men Solid Casual Red Shirt For Only Rs. 2499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/i/m/xxl-kep-hs-1005-red-tyzlo-original-imahgs8ye2ay2rga.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/e/f/xl-mhs-1005-metronaut-original-imahgaaf4fgkdnjd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/v/z/xxl-kep-hs-1005-red-tyzlo-original-imahgs8yrv2uqjjw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/e/h/xl-mhs-1005-metronaut-original-imahgaafswemzyr7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/n/t/xxl-kep-hs-1005-red-tyzlo-original-imahgs8yurghkarg.jpeg?q=70"
+      ],
+      "sku": "SHTH2M4BFBTXZWAW",
+      "color": "RED",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 786,
+        "ratingCount": 17438,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 257,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-15",
+          "reviewBody": "Amazing in such low price.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "PRIYANSHU Matay",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-20",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Expected a better product",
+          "author": {
+            "name": "Shibam Bhowmick",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-06",
+          "reviewBody": "It's fabric is too much uncomfortable",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Versatile and Stylish",
+          "body": "This men's casual shirt features a unique combination of solid and checkered patterns, adding a touc…"
+        },
+        {
+          "heading": "Classic Spread Collar",
+          "body": "Featuring a spread collar, this shirt exudes a classic and sophisticated appeal. The spread collar a…"
+        },
+        {
+          "heading": "Regular Fit for Easy Movement",
+          "body": "Crafted with a regular fit, this shirt offers ease of movement and comfort. The regular fit ensures …"
+        },
+        {
+          "heading": "Premium Cotton Blend Fabric",
+          "body": "Made from a high-quality cotton blend fabric, this shirt provides a soft and comfortable feel agains…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Red"
+      },
+      "specifications": {}
+    }
+  }
+}

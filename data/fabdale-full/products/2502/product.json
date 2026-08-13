@@ -1,0 +1,192 @@
+{
+  "product_id": "2502",
+  "sku": "Fab-Shirt-ALSN-014WH-XL",
+  "product": {
+    "name": "Alvyn White micro-dotted Shirt",
+    "parent_id": "5472",
+    "notes": "https://www.flipkart.com/allen-solly-men-printed-casual-white-shirt/p/itm6728ca8f12616?pid=SHTFXEPZNPM2REVH&lid=LSTSHTFXEPZNPM2REVHEKEJTD&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_1_27&otracker=search&fm=Search&iid=en_DGLO2WAPoC43PwuUtQHXfVcnLcnB0igazD9Fh98Ne3S0wyIWxpDZqxec1HkJnzINjOzX-sIFaB_1-rWvP-xL2iqhaHrzSI4OjvZa1DRoeKc%3D&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725"
+  },
+  "source_bundle": {
+    "key": "pid-SHTFXEPZNPM2REVH",
+    "path": "../../sources/pid-SHTFXEPZNPM2REVH/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/allen-solly-men-printed-casual-white-shirt/p/itm6728ca8f12616?pid=SHTFXEPZNPM2REVH&lid=LSTSHTFXEPZNPM2REVHEKEJTD&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_1_27&otracker=search&fm=Search&iid=en_DGLO2WAPoC43PwuUtQHXfVcnLcnB0igazD9Fh98Ne3S0wyIWxpDZqxec1HkJnzINjOzX-sIFaB_1-rWvP-xL2iqhaHrzSI4OjvZa1DRoeKc%3D&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725",
+    "scraped_at": "2026-08-13T14:25:59.516Z",
+    "final_url": "https://www.flipkart.com/allen-solly-men-printed-casual-white-shirt/p/itm6728ca8f12616?pid=SHTFXEPZNPM2REVH&lid=LSTSHTFXEPZNPM2REVHEKEJTD&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_1_27&otracker=search&fm=Search&iid=en_DGLO2WAPoC43PwuUtQHXfVcnLcnB0igazD9Fh98Ne3S0wyIWxpDZqxec1HkJnzINjOzX-sIFaB_1-rWvP-xL2iqhaHrzSI4OjvZa1DRoeKc%3D&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:26:10.186Z"
+  },
+  "content": {
+    "title": "Allen Solly Men Printed Casual White Shirt",
+    "short_description": "Color: White\nFabric: Cotton Linen\nPattern: Printed\nSleeve: Full Sleeve\nPack of: 1",
+    "description": "Styling Tips by Aman, Fashion Influencer\nAn absolute wardrobe essential, this smart shirt will make for a worthy pick. Add a twist to your lo…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Linen",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Printed",
+      "Color": "White"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "518734ae936d707226ce11eb",
+      "path": "media/images/518734ae936d707226ce11eb/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/v/h/-resized-original-imagrcfgmhph9b4k.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/v/h/-resized-original-imagrcfgmhph9b4k.jpeg?q=100",
+        "local_path": "../../media/images/518734ae936d707226ce11eb/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/2/o/-original-imagrcfg7qduug8n.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/2/o/-original-imagrcfg7qduug8n.jpeg?q=100",
+        "local_path": "../../media/images/518734ae936d707226ce11eb/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/g/3/-original-imagrcfghbt6gphz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/g/3/-original-imagrcfghbt6gphz.jpeg?q=100",
+        "local_path": "../../media/images/518734ae936d707226ce11eb/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/9/i/-original-imagrcfgg3ramgh7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/9/i/-original-imagrcfgg3ramgh7.jpeg?q=100",
+        "local_path": "../../media/images/518734ae936d707226ce11eb/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/6/v/8/-original-imagrcfgg3qsndyh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/6/v/8/-original-imagrcfgg3qsndyh.jpeg?q=100",
+        "local_path": "../../media/images/518734ae936d707226ce11eb/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Allen Solly Men Printed Casual White Shirt",
+      "description": "Allen Solly Men Printed Casual White Shirt - Buy Allen Solly Men Printed Casual White Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/v/h/-resized-original-imagrcfgmhph9b4k.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/2/o/-original-imagrcfg7qduug8n.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/g/3/-original-imagrcfghbt6gphz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/9/i/-original-imagrcfgg3ramgh7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/6/v/8/-original-imagrcfgg3qsndyh.jpeg?q=70"
+      ],
+      "sku": "SHTFXEPZNPM2REVH",
+      "color": "white",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 109,
+        "ratingCount": 2151,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Allen Solly",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 539,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "SAJAN Bharavad",
+            "@type": "Person"
+          },
+          "datePublished": "2021-01-24",
+          "reviewBody": "Nice\nFit,comfortable,best quality\nVery bad packing",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Arjun Pb",
+            "@type": "Person"
+          },
+          "datePublished": "2022-04-24",
+          "reviewBody": "Gud quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "REVENDRA KUMAR",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-26",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Styling Tips by Aman, Fashion Influencer",
+          "body": "An absolute wardrobe essential, this smart shirt will make for a worthy pick. Add a twist to your lo…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Linen",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Printed",
+        "Color": "White"
+      },
+      "specifications": {}
+    }
+  }
+}

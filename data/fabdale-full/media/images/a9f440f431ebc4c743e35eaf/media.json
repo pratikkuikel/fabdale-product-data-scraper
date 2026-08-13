@@ -1,0 +1,37 @@
+{
+  "key": "a9f440f431ebc4c743e35eaf",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T11:24:42.290Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/8/r/i/l-op-sr276-metronaut-original-imahggffzvtzpfps.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/8/r/i/l-op-sr276-metronaut-original-imahggffzvtzpfps.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/s/2/xl-op-sr276-metronaut-original-imahggffznda8hgt.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/s/2/xl-op-sr276-metronaut-original-imahggffznda8hgt.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/i/h/xl-op-sr276-metronaut-original-imahggffcgqk2x5v.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/i/h/xl-op-sr276-metronaut-original-imahggffcgqk2x5v.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/f/u/l-op-sr276-metronaut-original-imahggffvmcyfyph.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/f/u/l-op-sr276-metronaut-original-imahggffvmcyfyph.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

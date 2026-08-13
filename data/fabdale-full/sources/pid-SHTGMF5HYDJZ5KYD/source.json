@@ -1,0 +1,183 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/indian-garage-co-men-checkered-casual-yellow-shirt/p/itma32806ac74c55?pid=SHTGMF5HYDJZ5KYD&marketplace=FLIPKART&lid=LSTSHTGMF5HYDJZ5KYDNRJ7MY&swatchAttr=size&pageUID=1773756677652",
+    "scraped_at": "2026-08-13T14:38:15.268Z",
+    "final_url": "https://www.flipkart.com/indian-garage-co-men-checkered-casual-yellow-shirt/p/itma32806ac74c55?pid=SHTGMF5HYDJZ5KYD&marketplace=FLIPKART&lid=LSTSHTGMF5HYDJZ5KYDNRJ7MY&swatchAttr=size&pageUID=1773756677652"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:38:23.159Z"
+  },
+  "content": {
+    "title": "The Indian Garage Co. Men Checkered Casual Yellow Shirt",
+    "short_description": "Color: Yellow\nFabric: Pure Cotton\nPattern: Checkered\nSleeve: Full Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "About the Brand\nThe Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Checkered",
+      "Collar": "Cut Away",
+      "Color": "Yellow"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/b/h/s-1122-shbccpyd-04-01-the-indian-garage-co-original-imagmzhhrbhnpdzv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/b/h/s-1122-shbccpyd-04-01-the-indian-garage-co-original-imagmzhhrbhnpdzv.jpeg?q=100",
+        "local_path": "../../media/images/548a86588f8048573fd4bc62/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/9/b/s-1122-shbccpyd-04-01-the-indian-garage-co-original-imagrhdrkssbe6qb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/9/b/s-1122-shbccpyd-04-01-the-indian-garage-co-original-imagrhdrkssbe6qb.jpeg?q=100",
+        "local_path": "../../media/images/548a86588f8048573fd4bc62/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/m/a/s-1122-shbccpyd-04-01-the-indian-garage-co-original-imagrhdr99mhpmg5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/m/a/s-1122-shbccpyd-04-01-the-indian-garage-co-original-imagrhdr99mhpmg5.jpeg?q=100",
+        "local_path": "../../media/images/548a86588f8048573fd4bc62/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/h/v/s-1122-shbccpyd-04-01-the-indian-garage-co-original-imagmzhhepjqqfzn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/h/v/s-1122-shbccpyd-04-01-the-indian-garage-co-original-imagmzhhepjqqfzn.jpeg?q=100",
+        "local_path": "../../media/images/548a86588f8048573fd4bc62/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/e/b/-original-imagx262hnqane6a.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/e/b/-original-imagx262hnqane6a.jpeg?q=100",
+        "local_path": "../../media/images/548a86588f8048573fd4bc62/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "The Indian Garage Co. Men Checkered Casual Yellow Shirt",
+      "description": "The Indian Garage Co. Men Checkered Casual Yellow Shirt - Buy The Indian Garage Co. Men Checkered Casual Yellow Shirt For Only Rs. 2149.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/b/h/s-1122-shbccpyd-04-01-the-indian-garage-co-original-imagmzhhrbhnpdzv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/9/b/s-1122-shbccpyd-04-01-the-indian-garage-co-original-imagrhdrkssbe6qb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/m/a/s-1122-shbccpyd-04-01-the-indian-garage-co-original-imagrhdr99mhpmg5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/h/v/s-1122-shbccpyd-04-01-the-indian-garage-co-original-imagmzhhepjqqfzn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/e/b/-original-imagx262hnqane6a.jpeg?q=70"
+      ],
+      "sku": "SHTGMF5HYDJZ5KYD",
+      "color": "Yellow",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 384,
+        "ratingCount": 5402,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "The Indian Garage Co.",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 618,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Mohan Kummari",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-30",
+          "reviewBody": "good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Deepu Deepan",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-14",
+          "reviewBody": "nice shirt 😻",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Flipkart Customer Abanikant Routray ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-01",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "About the Brand",
+          "body": "The Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Collar": "Cut Away",
+        "Color": "Yellow"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "548a86588f8048573fd4bc62",
+      "path": "media/images/548a86588f8048573fd4bc62/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-printed-men-round-neck-black-green-t-shirt/p/itma2e25ceb0d9e2?pid=TSHGYDX5Y3BEF4VE&marketplace=FLIPKART&lid=LSTTSHGYDX5Y3BEF4VEMGNPXD&swatchAttr=size&pageUID=1772896652134",
+    "scraped_at": "2026-08-13T15:10:56.192Z",
+    "final_url": "https://www.flipkart.com/kajaru-printed-men-round-neck-black-green-t-shirt/p/itma2e25ceb0d9e2?pid=TSHGYDX5Y3BEF4VE&marketplace=FLIPKART&lid=LSTTSHGYDX5Y3BEF4VEMGNPXD&swatchAttr=size&pageUID=1772896652134"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:11:04.858Z"
+  },
+  "content": {
+    "title": "KAJARU Printed Men Round Neck Black, Green T-Shirt",
+    "short_description": "KAJARU Printed Men Round Neck Black, Green T-Shirt - Buy KAJARU Printed Men Round Neck Black, Green T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "KAJARU Printed Men Round Neck Black, Green T-Shirt - Buy KAJARU Printed Men Round Neck Black, Green T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/g/i/s-tsrt-catalog-14-makemode-original-imah4ufysknhdhdy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/g/i/s-tsrt-catalog-14-makemode-original-imah4ufysknhdhdy.jpeg?q=100",
+        "local_path": "../../media/images/24a336ecfbb46dd62ca472be/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/7/i/p/s-tsrt-catalog-14-makemode-original-imah4ufygxzcq2gv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/7/i/p/s-tsrt-catalog-14-makemode-original-imah4ufygxzcq2gv.jpeg?q=100",
+        "local_path": "../../media/images/24a336ecfbb46dd62ca472be/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/c/m/s-tsrt-catalog-14-makemode-original-imah4ufyvy7gvneh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/c/m/s-tsrt-catalog-14-makemode-original-imah4ufyvy7gvneh.jpeg?q=100",
+        "local_path": "../../media/images/24a336ecfbb46dd62ca472be/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Printed Men Round Neck Black, Green T-Shirt",
+      "description": "KAJARU Printed Men Round Neck Black, Green T-Shirt - Buy KAJARU Printed Men Round Neck Black, Green T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/g/i/s-tsrt-catalog-14-makemode-original-imah4ufysknhdhdy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/7/i/p/s-tsrt-catalog-14-makemode-original-imah4ufygxzcq2gv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/c/m/s-tsrt-catalog-14-makemode-original-imah4ufyvy7gvneh.jpeg?q=70"
+      ],
+      "sku": "TSHGYDX5Y3BEF4VE",
+      "color": "OLIVE",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 810,
+        "ratingCount": 33581,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 174,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Manoj Kumar  Satpathy ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-12",
+          "reviewBody": "Nice  Product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Premchand Rana",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-07",
+          "reviewBody": "Very good 👍  \nNice looking 👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Gopal  Khati",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-12",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "24a336ecfbb46dd62ca472be",
+      "path": "media/images/24a336ecfbb46dd62ca472be/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

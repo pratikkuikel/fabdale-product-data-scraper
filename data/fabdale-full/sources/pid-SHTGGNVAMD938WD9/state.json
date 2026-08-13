@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-SHTGGNVAMD938WD9",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2728",
+    "2729",
+    "2730",
+    "2731",
+    "2732"
+  ],
+  "source_path": "sources/pid-SHTGGNVAMD938WD9/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:47:01.243Z",
+  "completed_at": "2026-08-13T14:47:17.998Z"
+}

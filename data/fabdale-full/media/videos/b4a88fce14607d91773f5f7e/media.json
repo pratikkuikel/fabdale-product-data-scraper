@@ -1,0 +1,15 @@
+{
+  "key": "b4a88fce14607d91773f5f7e",
+  "type": "videos",
+  "image_quality": null,
+  "download_media": true,
+  "created_at": "2026-08-13T14:37:52.446Z",
+  "items": [
+    {
+      "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/labs/AS/CNXFytQM2GR1mZAvCigAyACQ/manifest.m3u8",
+      "local_path": null,
+      "downloaded": false,
+      "reason": "streaming_manifest"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "product_id": "2153",
+  "sku": "Fab-Shirt-METR-015G-XXL",
+  "product": {
+    "name": "Metronex Versatile Daily Wear Shirt",
+    "parent_id": "5272",
+    "notes": "https://www.flipkart.com/metronaut-men-solid-casual-blue-shirt/p/itm1c74bb7012207?pid=SHTGU3EZZJVXFU7J&marketplace=FLIPKART&lid=LSTSHTGU3EZZJVXFU7JNNOHAN&swatchAttr=size&pageUID=1773395186684"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGU3EZZJVXFU7J",
+    "path": "../../sources/pid-SHTGU3EZZJVXFU7J/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-blue-shirt/p/itm1c74bb7012207?pid=SHTGU3EZZJVXFU7J&marketplace=FLIPKART&lid=LSTSHTGU3EZZJVXFU7JNNOHAN&swatchAttr=size&pageUID=1773395186684",
+    "scraped_at": "2026-08-13T11:17:51.891Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-blue-shirt/p/itm1c74bb7012207?pid=SHTGU3EZZJVXFU7J&marketplace=FLIPKART&lid=LSTSHTGU3EZZJVXFU7JNNOHAN&swatchAttr=size&pageUID=1773395186684"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:17:59.732Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Solid Casual Blue Shirt",
+    "short_description": "Color: Blue\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Classic Solid Pattern\nFeaturing a solid pattern, this men's casual shirt exudes an air of style and sophistication, making…\n\nDurable Fabric\nCrafted from a high-quality cotton blend fabric, this shirt ensures long-lasting performance. The ca…\n\nVersatile Wear\nOwing to its versatility, this shirt is suitable for various occasions. Whether you want a smart-cas…\n\nStyle it Right\nElevate your everyday style in an instant with this smart shirt. The shirt features a regular fit th…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Blue"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "7a155064c79a87cdd726bdc4",
+      "path": "media/images/7a155064c79a87cdd726bdc4/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "2a67a30f13844e2595d8dc46",
+      "path": "media/videos/2a67a30f13844e2595d8dc46/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/3/d/0/3xl-mtshmdwhite00xxl-jadouncreation-resized-original-imah5bzzzxtjc77h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/3/d/0/3xl-mtshmdwhite00xxl-jadouncreation-resized-original-imah5bzzzxtjc77h.jpeg?q=100",
+        "local_path": "../../media/images/7a155064c79a87cdd726bdc4/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/c/8/3xl-mtshmdwhite00xxl-jadouncreation-original-imah5bzzghpyhan4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/c/8/3xl-mtshmdwhite00xxl-jadouncreation-original-imah5bzzghpyhan4.jpeg?q=100",
+        "local_path": "../../media/images/7a155064c79a87cdd726bdc4/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/w/k/3xl-mtshmdwhite00xxl-jadouncreation-original-imah5bzzzaygjgzd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/w/k/3xl-mtshmdwhite00xxl-jadouncreation-original-imah5bzzzaygjgzd.jpeg?q=100",
+        "local_path": "../../media/images/7a155064c79a87cdd726bdc4/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/e/x/3xl-mtshmdwhite00xxl-jadouncreation-original-imah5bzz6pxnbzyg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/e/x/3xl-mtshmdwhite00xxl-jadouncreation-original-imah5bzz6pxnbzyg.jpeg?q=100",
+        "local_path": "../../media/images/7a155064c79a87cdd726bdc4/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/x/f/3xl-mtshmdwhite00xxl-jadouncreation-original-imah5bzzdvz7ytag.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/x/f/3xl-mtshmdwhite00xxl-jadouncreation-original-imah5bzzdvz7ytag.jpeg?q=100",
+        "local_path": "../../media/images/7a155064c79a87cdd726bdc4/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNvTdRSkh1Ta28fha5kVNyzw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN-Oy56uugRCOzBLUyzFnH9g/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual Blue Shirt",
+      "description": "METRONAUT Men Solid Casual Blue Shirt - Buy METRONAUT Men Solid Casual Blue Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/3/d/0/3xl-mtshmdwhite00xxl-jadouncreation-resized-original-imah5bzzzxtjc77h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/c/8/3xl-mtshmdwhite00xxl-jadouncreation-original-imah5bzzghpyhan4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/w/k/3xl-mtshmdwhite00xxl-jadouncreation-original-imah5bzzzaygjgzd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/e/x/3xl-mtshmdwhite00xxl-jadouncreation-original-imah5bzz6pxnbzyg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/x/f/3xl-mtshmdwhite00xxl-jadouncreation-original-imah5bzzdvz7ytag.jpeg?q=70"
+      ],
+      "sku": "SHTGU3EZZJVXFU7J",
+      "color": "Aqua",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 10957,
+        "ratingCount": 254979,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 248,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Satyabrata patra",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-30",
+          "reviewBody": "Nice product 🙂❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-31",
+          "reviewBody": "Nice product and value for money",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Shivam Paswan",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-05",
+          "reviewBody": "Amazing product and the fabric is also good for this range I really love this thank you seller and thank you Flipkart ❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Solid Pattern",
+          "body": "Featuring a solid pattern, this men's casual shirt exudes an air of style and sophistication, making…"
+        },
+        {
+          "heading": "Durable Fabric",
+          "body": "Crafted from a high-quality cotton blend fabric, this shirt ensures long-lasting performance. The ca…"
+        },
+        {
+          "heading": "Versatile Wear",
+          "body": "Owing to its versatility, this shirt is suitable for various occasions. Whether you want a smart-cas…"
+        },
+        {
+          "heading": "Style it Right",
+          "body": "Elevate your everyday style in an instant with this smart shirt. The shirt features a regular fit th…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Blue"
+      },
+      "specifications": {}
+    }
+  }
+}

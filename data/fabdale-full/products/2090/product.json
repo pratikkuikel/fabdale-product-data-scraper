@@ -12,27 +12,223 @@
   },
   "source": {
     "url": "https://www.flipkart.com/metronaut-men-solid-casual-dark-blue-shirt/p/itm794325cca1dcb?pid=SHTHFV93HWK8FZDZ&marketplace=FLIPKART&lid=LSTSHTHFV93HWK8FZDZMZSUV9&swatchAttr=size&pageUID=1773312946714",
-    "scraped_at": "2026-08-13T08:09:29.577Z",
+    "scraped_at": "2026-08-13T11:11:50.203Z",
     "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-dark-blue-shirt/p/itm794325cca1dcb?pid=SHTHFV93HWK8FZDZ&marketplace=FLIPKART&lid=LSTSHTHFV93HWK8FZDZMZSUV9&swatchAttr=size&pageUID=1773312946714"
   },
   "crawl": {
-    "status": "failed",
-    "error": "locator.allTextContents: Target page, context or browser has been closed",
-    "attempt_count": 1,
-    "completed_at": "2026-08-13T08:09:40.018Z"
+    "status": "success",
+    "error": null,
+    "attempt_count": 2,
+    "completed_at": "2026-08-13T11:11:58.073Z"
   },
   "content": {
-    "title": null,
-    "short_description": null,
-    "description": null,
-    "specifications": {}
+    "title": "METRONAUT Men Solid Casual Dark Blue Shirt",
+    "short_description": "Color: Dark Blue\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "METRONAUT Men Solid Casual Dark Blue Shirt - Buy METRONAUT Men Solid Casual Dark Blue Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Dark Blue"
+    }
   },
-  "media_bundle": null,
+  "media_bundle": {
+    "images": {
+      "key": "7ef49367b67809965bc5b605",
+      "path": "media/images/7ef49367b67809965bc5b605/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "af575b5aa65904df28de7962",
+      "path": "media/videos/af575b5aa65904df28de7962/media.json",
+      "reused": true
+    }
+  },
   "media": {
-    "images": [],
-    "videos": []
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/c/g/xl-mn-shirt1680-metronaut-original-imahe6zvnug8fdhr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/c/g/xl-mn-shirt1680-metronaut-original-imahe6zvnug8fdhr.jpeg?q=100",
+        "local_path": "../../media/images/7ef49367b67809965bc5b605/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/e/o/n/3xl-mn-shirt1680-blezza-original-imahb5veafmf2ufp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/e/o/n/3xl-mn-shirt1680-blezza-original-imahb5veafmf2ufp.jpeg?q=100",
+        "local_path": "../../media/images/7ef49367b67809965bc5b605/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/p/1/j/3xl-mn-shirt1680-blezza-original-imahb5vemfbshkzh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/p/1/j/3xl-mn-shirt1680-blezza-original-imahb5vemfbshkzh.jpeg?q=100",
+        "local_path": "../../media/images/7ef49367b67809965bc5b605/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/r/p/c/3xl-mn-shirt1680-blezza-original-imahb5veztgzvsdz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/r/p/c/3xl-mn-shirt1680-blezza-original-imahb5veztgzvsdz.jpeg?q=100",
+        "local_path": "../../media/images/7ef49367b67809965bc5b605/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/m/p/a/3xl-mn-shirt1680-blezza-original-imahb5vecggpwbfa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/m/p/a/3xl-mn-shirt1680-blezza-original-imahb5vecggpwbfa.jpeg?q=100",
+        "local_path": "../../media/images/7ef49367b67809965bc5b605/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNTemzJlGVTA2AOG7rML78ZQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
   },
   "raw": {
-    "json_ld": null
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual Dark Blue Shirt",
+      "description": "METRONAUT Men Solid Casual Dark Blue Shirt - Buy METRONAUT Men Solid Casual Dark Blue Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/c/g/xl-mn-shirt1680-metronaut-original-imahe6zvnug8fdhr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/e/o/n/3xl-mn-shirt1680-blezza-original-imahb5veafmf2ufp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/p/1/j/3xl-mn-shirt1680-blezza-original-imahb5vemfbshkzh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/r/p/c/3xl-mn-shirt1680-blezza-original-imahb5veztgzvsdz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/m/p/a/3xl-mn-shirt1680-blezza-original-imahb5vecggpwbfa.jpeg?q=70"
+      ],
+      "sku": "SHTHFV93HWK8FZDZ",
+      "color": "Dark Blue",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 430,
+        "ratingCount": 9918,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 246,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-29",
+          "reviewBody": "Just buy it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Vijay Asawale",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-28",
+          "reviewBody": "It's a very nice shirt. I like it very much.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Slightly disappointed",
+          "author": {
+            "name": "Vinod  Mudhiraj ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-22",
+          "reviewBody": "Cloth is not good and in Flipkart I seen good quality after delivery I seen different quality 🫤",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Dark Blue"
+      },
+      "specifications": {
+        "Brand": "METRONAUT",
+        "Size": "M",
+        "Pack of": "1",
+        "Style Code": "MN-SHIRT1680",
+        "Closure": "Button",
+        "Fit": "Regular",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Reversible": "No",
+        "Collar": "Spread",
+        "Color": "Dark Blue",
+        "Fabric Care": "Regular Machine Wash",
+        "Suitable For": "Western Wear",
+        "Hem": "Curved",
+        "Net Quantity": "1",
+        "Brand Color": "Dark Blue",
+        "Ideal For": "Men",
+        "Shirt Length": "Hip Length",
+        "Occasion": "Casual",
+        "Sales Package": "Pack Of 1"
+      }
+    }
   }
 }

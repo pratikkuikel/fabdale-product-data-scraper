@@ -1,0 +1,222 @@
+{
+  "product_id": "2785",
+  "sku": "Fab-Shirt-TIGC-021BL-L",
+  "product": {
+    "name": "Ivaan Large-scale plaid shirt.",
+    "parent_id": "5518",
+    "notes": "https://www.flipkart.com/tallwalker-men-checkered-casual-multicolor-shirt/p/itmfabb40836a050?pid=SHTGHF7ZUXHHT34Y&marketplace=FLIPKART&lid=LSTSHTGHF7ZUXHHT34Y1IXAM8&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773817096072"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGHF7ZUXHHT34Y",
+    "path": "../../sources/pid-SHTGHF7ZUXHHT34Y/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tallwalker-men-checkered-casual-multicolor-shirt/p/itmfabb40836a050?pid=SHTGHF7ZUXHHT34Y&marketplace=FLIPKART&lid=LSTSHTGHF7ZUXHHT34Y1IXAM8&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773817096072",
+    "scraped_at": "2026-08-13T14:53:33.608Z",
+    "final_url": "https://www.flipkart.com/tallwalker-men-checkered-casual-multicolor-shirt/p/itmfabb40836a050?pid=SHTGHF7ZUXHHT34Y&marketplace=FLIPKART&lid=LSTSHTGHF7ZUXHHT34Y1IXAM8&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773817096072"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:53:47.978Z"
+  },
+  "content": {
+    "title": "tallwalker Men Checkered Casual Multicolor Shirt",
+    "short_description": "Color: Multicolor\nFabric: Pure Cotton\nPattern: Checkered\nSleeve: Full Sleeve\nPack of: 1\nCollar: Slim",
+    "description": "Pure Cotton Fabric\nCrafted from pure cotton, this shirt delivers a soft, breathable feel that enhances comfort. Cotton …\n\nRegular Fit\nThis men's casual shirt features a regular fit that offers a relaxed and comfortable shape. The cut …\n\nCheckered Pattern\nThe shirt features a checkered pattern, which adds a timeless, classic touch to its design. This pat…\n\nSlim Collar\nThis shirt is equipped with a slim collar and a modern and refined appearance. The slim collar adds …\n\nFull Sleeves with Straight Hem\nThis shirt has full sleeves and a straight hem, combining classic design elements with practical fea…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Checkered",
+      "Collar": "Slim",
+      "Color": "Multicolor"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0ace7ae6d7312e194664002a",
+      "path": "media/images/0ace7ae6d7312e194664002a/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/6/8/m-towel-002-tallwalker-original-imah3kw8xty8ryq6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/6/8/m-towel-002-tallwalker-original-imah3kw8xty8ryq6.jpeg?q=100",
+        "local_path": "../../media/images/0ace7ae6d7312e194664002a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/p/p/m-towel-002-tallwalker-original-imah3kw86qygzdpw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/p/p/m-towel-002-tallwalker-original-imah3kw86qygzdpw.jpeg?q=100",
+        "local_path": "../../media/images/0ace7ae6d7312e194664002a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/o/e/m-towel-002-tallwalker-original-imah3kw8fttygeyx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/o/e/m-towel-002-tallwalker-original-imah3kw8fttygeyx.jpeg?q=100",
+        "local_path": "../../media/images/0ace7ae6d7312e194664002a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/v/1/m-towel-002-tallwalker-original-imah3kw8gpuyk9jz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/v/1/m-towel-002-tallwalker-original-imah3kw8gpuyk9jz.jpeg?q=100",
+        "local_path": "../../media/images/0ace7ae6d7312e194664002a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/m/6/m-towel-002-tallwalker-original-imah3kw8es4jd2pf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/m/6/m-towel-002-tallwalker-original-imah3kw8es4jd2pf.jpeg?q=100",
+        "local_path": "../../media/images/0ace7ae6d7312e194664002a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "tallwalker Men Checkered Casual Multicolor Shirt",
+      "description": "tallwalker Men Checkered Casual Multicolor Shirt - Buy tallwalker Men Checkered Casual Multicolor Shirt For Only Rs. 1287.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/6/8/m-towel-002-tallwalker-original-imah3kw8xty8ryq6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/p/p/m-towel-002-tallwalker-original-imah3kw86qygzdpw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/o/e/m-towel-002-tallwalker-original-imah3kw8fttygeyx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/v/1/m-towel-002-tallwalker-original-imah3kw8gpuyk9jz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/m/6/m-towel-002-tallwalker-original-imah3kw8es4jd2pf.jpeg?q=70"
+      ],
+      "sku": "SHTGHF7ZUXHHT34Y",
+      "color": "Brown",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 3863,
+        "ratingCount": 74966,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "tallwalker",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 401,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-28",
+          "reviewBody": "Simply awsm",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "ABHINAY PARIDA",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-09",
+          "reviewBody": "Nice product 😊👍 I am impressed 😁",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Sneha  Mondal",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-09",
+          "reviewBody": "Very nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Pure Cotton Fabric",
+          "body": "Crafted from pure cotton, this shirt delivers a soft, breathable feel that enhances comfort. Cotton …"
+        },
+        {
+          "heading": "Regular Fit",
+          "body": "This men's casual shirt features a regular fit that offers a relaxed and comfortable shape. The cut …"
+        },
+        {
+          "heading": "Checkered Pattern",
+          "body": "The shirt features a checkered pattern, which adds a timeless, classic touch to its design. This pat…"
+        },
+        {
+          "heading": "Slim Collar",
+          "body": "This shirt is equipped with a slim collar and a modern and refined appearance. The slim collar adds …"
+        },
+        {
+          "heading": "Full Sleeves with Straight Hem",
+          "body": "This shirt has full sleeves and a straight hem, combining classic design elements with practical fea…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Checkered",
+        "Collar": "Slim",
+        "Color": "Multicolor"
+      },
+      "specifications": {}
+    }
+  }
+}

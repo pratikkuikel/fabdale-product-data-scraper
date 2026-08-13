@@ -1,0 +1,187 @@
+{
+  "product_id": "3226",
+  "sku": "Fab-TShirt-KAJR-012BK-M",
+  "product": {
+    "name": "Kavish Ribbed knit t-shirt",
+    "parent_id": "5415",
+    "notes": "https://www.flipkart.com/kajaru-striped-men-round-neck-black-t-shirt/p/itm9c0af4e841a5c?pid=TSHH5KGDHMEFYDMW&marketplace=FLIPKART&lid=LSTTSHH5KGDHMEFYDMWXVLWHV&swatchAttr=size&pageUID=1773048946674"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH5KGDHMEFYDMW",
+    "path": "../../sources/pid-TSHH5KGDHMEFYDMW/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-round-neck-black-t-shirt/p/itm9c0af4e841a5c?pid=TSHH5KGDHMEFYDMW&marketplace=FLIPKART&lid=LSTTSHH5KGDHMEFYDMWXVLWHV&swatchAttr=size&pageUID=1773048946674",
+    "scraped_at": "2026-08-13T15:50:45.479Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-round-neck-black-t-shirt/p/itm9c0af4e841a5c?pid=TSHH5KGDHMEFYDMW&marketplace=FLIPKART&lid=LSTTSHH5KGDHMEFYDMWXVLWHV&swatchAttr=size&pageUID=1773048946674"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:51:10.288Z"
+  },
+  "content": {
+    "title": "KAJARU Striped Men Round Neck Black T-Shirt",
+    "short_description": "KAJARU Striped Men Round Neck Black T-Shirt - Buy KAJARU Striped Men Round Neck Black T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "KAJARU Striped Men Round Neck Black T-Shirt - Buy KAJARU Striped Men Round Neck Black T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "fa945949468a7b641f3ff0f8",
+      "path": "media/images/fa945949468a7b641f3ff0f8/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/1/n/l-tsrt-catalog-35-kajaru-resized-original-imahen5akhyrcqbh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/1/n/l-tsrt-catalog-35-kajaru-resized-original-imahen5akhyrcqbh.jpeg?q=100",
+        "local_path": "../../media/images/fa945949468a7b641f3ff0f8/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/k/7/l-tsrt-catalog-35-kajaru-original-imahen5aufkebjwk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/k/7/l-tsrt-catalog-35-kajaru-original-imahen5aufkebjwk.jpeg?q=100",
+        "local_path": "../../media/images/fa945949468a7b641f3ff0f8/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/e/k/i/xl-tsrt-catalog-35-kajaru-original-imahc35ady4zbrtz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/e/k/i/xl-tsrt-catalog-35-kajaru-original-imahc35ady4zbrtz.jpeg?q=100",
+        "local_path": "../../media/images/fa945949468a7b641f3ff0f8/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/y/n/l-tsrt-catalog-35-kajaru-original-imahen5agnwhefx3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/y/n/l-tsrt-catalog-35-kajaru-original-imahen5agnwhefx3.jpeg?q=100",
+        "local_path": "../../media/images/fa945949468a7b641f3ff0f8/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/f/w/h/xl-tsrt-catalog-35-kajaru-original-imahc35acz2zh5bb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/f/w/h/xl-tsrt-catalog-35-kajaru-original-imahc35acz2zh5bb.jpeg?q=100",
+        "local_path": "../../media/images/fa945949468a7b641f3ff0f8/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Striped Men Round Neck Black T-Shirt",
+      "description": "KAJARU Striped Men Round Neck Black T-Shirt - Buy KAJARU Striped Men Round Neck Black T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/1/n/l-tsrt-catalog-35-kajaru-resized-original-imahen5akhyrcqbh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/k/7/l-tsrt-catalog-35-kajaru-original-imahen5aufkebjwk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/e/k/i/xl-tsrt-catalog-35-kajaru-original-imahc35ady4zbrtz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/y/n/l-tsrt-catalog-35-kajaru-original-imahen5agnwhefx3.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/f/w/h/xl-tsrt-catalog-35-kajaru-original-imahc35acz2zh5bb.jpeg?q=70"
+      ],
+      "sku": "TSHH5KGDHMEFYDMW",
+      "color": "BLACK",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 106,
+        "ratingCount": 2914,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 262,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Manish Gupta",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-05",
+          "reviewBody": "quality v good size xl",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Does the job",
+          "author": {
+            "name": "Vipin Chaudhary",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-16",
+          "reviewBody": "Very nice product and quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-11",
+          "reviewBody": "Very good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

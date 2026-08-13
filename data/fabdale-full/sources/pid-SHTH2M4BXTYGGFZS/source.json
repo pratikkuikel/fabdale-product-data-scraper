@@ -1,0 +1,206 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-checkered-casual-dark-green-shirt/p/itm4685febe981d3?pid=SHTH2M4BXTYGGFZS&marketplace=FLIPKART&lid=LSTSHTH2M4BXTYGGFZS2H01ZI&swatchAttr=size&pageUID=1773314613672",
+    "scraped_at": "2026-08-13T11:13:59.718Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-checkered-casual-dark-green-shirt/p/itm4685febe981d3?pid=SHTH2M4BXTYGGFZS&marketplace=FLIPKART&lid=LSTSHTH2M4BXTYGGFZS2H01ZI&swatchAttr=size&pageUID=1773314613672"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:14:08.557Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Solid Casual Dark Green Shirt",
+    "short_description": "Color: Dark Green\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Half Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Classic Cotton Blend Fabric\nCrafted from a comfortable cotton blend fabric, this men's shirt ensures a soft and breathable feel,…\n\nSpread Collar Design\nFeaturing a spread collar, this shirt exudes a modern and sophisticated look, perfect for enhancing …\n\nChic Solid and Checkered Patterns\nWith a unique blend of solid and checkered patterns, this shirt adds a touch of charm and individual…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Half Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Dark Green"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/s/w/m/m-mhs-1005-metronaut-resized-original-imahhqc7wa6gkgum.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/s/w/m/m-mhs-1005-metronaut-resized-original-imahhqc7wa6gkgum.jpeg?q=100",
+        "local_path": "../../media/images/414d25b8aa527842d43f5f0d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/j/u/m-mhs-1005-metronaut-original-imahhqc7afpbp2gy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/j/u/m-mhs-1005-metronaut-original-imahhqc7afpbp2gy.jpeg?q=100",
+        "local_path": "../../media/images/414d25b8aa527842d43f5f0d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/4/3/c/m-mhs-1005-metronaut-original-imahhqc7ygcga3uh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/4/3/c/m-mhs-1005-metronaut-original-imahhqc7ygcga3uh.jpeg?q=100",
+        "local_path": "../../media/images/414d25b8aa527842d43f5f0d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/z/v/m-mhs-1005-metronaut-original-imahhqc7hbesnzze.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/z/v/m-mhs-1005-metronaut-original-imahhqc7hbesnzze.jpeg?q=100",
+        "local_path": "../../media/images/414d25b8aa527842d43f5f0d/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNw5DpmnoWRD68y9V3svK4cg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual Dark Green Shirt",
+      "description": "METRONAUT Men Solid Casual Dark Green Shirt - Buy METRONAUT Men Solid Casual Dark Green Shirt For Only Rs. 2499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/s/w/m/m-mhs-1005-metronaut-resized-original-imahhqc7wa6gkgum.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/j/u/m-mhs-1005-metronaut-original-imahhqc7afpbp2gy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/4/3/c/m-mhs-1005-metronaut-original-imahhqc7ygcga3uh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/z/v/m-mhs-1005-metronaut-original-imahhqc7hbesnzze.jpeg?q=70"
+      ],
+      "sku": "SHTH2M4BXTYGGFZS",
+      "color": "GREEN",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 786,
+        "ratingCount": 17438,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 257,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-15",
+          "reviewBody": "Amazing in such low price.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "PRIYANSHU Matay",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-20",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Expected a better product",
+          "author": {
+            "name": "Shibam Bhowmick",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-06",
+          "reviewBody": "It's fabric is too much uncomfortable",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Cotton Blend Fabric",
+          "body": "Crafted from a comfortable cotton blend fabric, this men's shirt ensures a soft and breathable feel,…"
+        },
+        {
+          "heading": "Spread Collar Design",
+          "body": "Featuring a spread collar, this shirt exudes a modern and sophisticated look, perfect for enhancing …"
+        },
+        {
+          "heading": "Chic Solid and Checkered Patterns",
+          "body": "With a unique blend of solid and checkered patterns, this shirt adds a touch of charm and individual…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Dark Green"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "414d25b8aa527842d43f5f0d",
+      "path": "media/images/414d25b8aa527842d43f5f0d/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "f12f6e8348a472827203dc21",
+      "path": "media/videos/f12f6e8348a472827203dc21/media.json",
+      "reused": false
+    }
+  }
+}

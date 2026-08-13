@@ -1,0 +1,229 @@
+{
+  "product_id": "2478",
+  "sku": "Fab-Shirt-ALSN-009BL-XXL",
+  "product": {
+    "name": "Alvyn White vertical striped Shirt",
+    "parent_id": "5468",
+    "notes": "https://www.flipkart.com/allen-solly-men-striped-casual-dark-blue-white-shirt/p/itm3979c1915081e?pid=SHTGQR7APSR6FZY3&lid=LSTSHTGQR7APSR6FZY33TVI9W&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_1_5&otracker=search&fm=Search&iid=en_DGLO2WAPoC43PwuUtQHXfVcnLcnB0igazD9Fh98Ne3TSlCV20umIwFvujV3awD0VbRGZT-CUfwmyo-iCdr5O_n3Gaq_wzx4HJysDmGalzMk%3D&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGQR7APSR6FZY3",
+    "path": "../../sources/pid-SHTGQR7APSR6FZY3/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/allen-solly-men-striped-casual-dark-blue-white-shirt/p/itm3979c1915081e?pid=SHTGQR7APSR6FZY3&lid=LSTSHTGQR7APSR6FZY33TVI9W&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_1_5&otracker=search&fm=Search&iid=en_DGLO2WAPoC43PwuUtQHXfVcnLcnB0igazD9Fh98Ne3TSlCV20umIwFvujV3awD0VbRGZT-CUfwmyo-iCdr5O_n3Gaq_wzx4HJysDmGalzMk%3D&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725",
+    "scraped_at": "2026-08-13T14:25:04.288Z",
+    "final_url": "https://www.flipkart.com/allen-solly-men-striped-casual-dark-blue-white-shirt/p/itm3979c1915081e?pid=SHTGQR7APSR6FZY3&lid=LSTSHTGQR7APSR6FZY33TVI9W&marketplace=FLIPKART&q=Allen+Solly&store=clo%2Fash%2Faxc%2Fmmk&srno=s_1_5&otracker=search&fm=Search&iid=en_DGLO2WAPoC43PwuUtQHXfVcnLcnB0igazD9Fh98Ne3TSlCV20umIwFvujV3awD0VbRGZT-CUfwmyo-iCdr5O_n3Gaq_wzx4HJysDmGalzMk%3D&ppt=sp&ppn=sp&ssid=q0xzmocwsg0000001761578706602&qH=b10321b6a52e6725"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:25:14.867Z"
+  },
+  "content": {
+    "title": "Allen Solly Men Striped Casual Dark Blue, White Shirt",
+    "short_description": "Color: Dark Blue, White\nFabric: Pure Cotton\nPattern: Striped\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Classic Striped Design\nThis men's casual shirt features a timeless striped pattern with vertical stripes, adding a touch of…\n\nSlim Fit and Comfort\nDesigned with a slim fit, this shirt offers a modern and tailored silhouette that enhances your phys…\n\nPremium Quality Fabric\nCrafted from pure cotton fabric, this shirt offers exceptional comfort and breathability throughout …\n\nStylish Spread Collar\nFeaturing a spread collar, this shirt adds a stylish touch to your casual look. The spread collar de…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Striped",
+      "Collar": "Spread",
+      "Color": "Dark Blue, White"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "044a59244a117ac62585e5f2",
+      "path": "media/images/044a59244a117ac62585e5f2/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "9fbda90bd44d9fc4c691c0df",
+      "path": "media/videos/9fbda90bd44d9fc4c691c0df/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/h/q/-original-imahpw4ffdddu8h5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/h/q/-original-imahpw4ffdddu8h5.jpeg?q=100",
+        "local_path": "../../media/images/044a59244a117ac62585e5f2/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/j/c/-original-imahpaj7ph8xkxpk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/j/c/-original-imahpaj7ph8xkxpk.jpeg?q=100",
+        "local_path": "../../media/images/044a59244a117ac62585e5f2/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/y/f/z/-original-imahpaj7xyjhfjhn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/y/f/z/-original-imahpaj7xyjhfjhn.jpeg?q=100",
+        "local_path": "../../media/images/044a59244a117ac62585e5f2/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/7/e/s/-original-imahpaj7zns8qfnz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/7/e/s/-original-imahpaj7zns8qfnz.jpeg?q=100",
+        "local_path": "../../media/images/044a59244a117ac62585e5f2/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/j/n/-original-imahpaj7hufthx5h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/j/n/-original-imahpaj7hufthx5h.jpeg?q=100",
+        "local_path": "../../media/images/044a59244a117ac62585e5f2/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNOdQyKdfbQZOcjhCxupQdsQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Allen Solly Men Striped Casual Dark Blue, White Shirt",
+      "description": "Allen Solly Men Striped Casual Dark Blue, White Shirt - Buy Allen Solly Men Striped Casual Dark Blue, White Shirt For Only Rs. 1699.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/h/q/-original-imahpw4ffdddu8h5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/j/c/-original-imahpaj7ph8xkxpk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/y/f/z/-original-imahpaj7xyjhfjhn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/7/e/s/-original-imahpaj7zns8qfnz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/j/n/-original-imahpaj7hufthx5h.jpeg?q=70"
+      ],
+      "sku": "SHTGQR7APSR6FZY3",
+      "color": "Blue",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 90,
+        "ratingCount": 2189,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Allen Solly",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 611,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Not good",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-18",
+          "reviewBody": "Fabric quality is not upto the mark\nDisappointed.....",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Kannan Kavyanjali",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-10",
+          "reviewBody": "Excellent",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Piyush  Nag",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-28",
+          "reviewBody": "Can be used as both formal nd casual wear",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Striped Design",
+          "body": "This men's casual shirt features a timeless striped pattern with vertical stripes, adding a touch of…"
+        },
+        {
+          "heading": "Slim Fit and Comfort",
+          "body": "Designed with a slim fit, this shirt offers a modern and tailored silhouette that enhances your phys…"
+        },
+        {
+          "heading": "Premium Quality Fabric",
+          "body": "Crafted from pure cotton fabric, this shirt offers exceptional comfort and breathability throughout …"
+        },
+        {
+          "heading": "Stylish Spread Collar",
+          "body": "Featuring a spread collar, this shirt adds a stylish touch to your casual look. The spread collar de…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Striped",
+        "Collar": "Spread",
+        "Color": "Dark Blue, White"
+      },
+      "specifications": {}
+    }
+  }
+}

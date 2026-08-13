@@ -1,0 +1,217 @@
+{
+  "product_id": "5499",
+  "sku": null,
+  "product": {
+    "name": "Ivaan white horizontal stripes Shirt",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/indian-garage-co-men-striped-casual-yellow-shirt/p/itm9228ffb9460ae?pid=SHTGGNUHFB5MY7UZ&lid=LSTSHTGGNUHFB5MY7UZWAO41F&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGGNUHFB5MY7UZ",
+    "path": "../../sources/pid-SHTGGNUHFB5MY7UZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/indian-garage-co-men-striped-casual-yellow-shirt/p/itm9228ffb9460ae?pid=SHTGGNUHFB5MY7UZ&lid=LSTSHTGGNUHFB5MY7UZWAO41F&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T14:30:56.508Z",
+    "final_url": "https://www.flipkart.com/indian-garage-co-men-striped-casual-yellow-shirt/p/itm9228ffb9460ae?pid=SHTGGNUHFB5MY7UZ&lid=LSTSHTGGNUHFB5MY7UZWAO41F&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:31:13.214Z"
+  },
+  "content": {
+    "title": "The Indian Garage Co. Men Striped Casual Yellow Shirt",
+    "short_description": "Color: Yellow\nFabric: Pure Cotton\nPattern: Striped\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Classic Striped Pattern\nThis men's casual shirt features a classic striped pattern, adding a touch of timeless style to your…\n\nPremium Quality Fabric\nCrafted from pure cotton, this shirt ensures a soft and breathable feel against your skin. The high-…\n\nVersatile Casual Wear\nPerfect for casual occasions, this shirt is a versatile addition to your wardrobe. Whether you're go…\n\nSlim Fit Design\nWith a slim fit design, this shirt offers a modern and tailored look. The slim fit silhouette create…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Striped",
+      "Collar": "Spread",
+      "Color": "Yellow"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3d4d03de6ccbcd4a4227b69f",
+      "path": "media/images/3d4d03de6ccbcd4a4227b69f/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "67f15118af54546143857009",
+      "path": "media/videos/67f15118af54546143857009/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/o/8/-resized-original-imahf8ksjpkurz6c.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/o/8/-resized-original-imahf8ksjpkurz6c.jpeg?q=100",
+        "local_path": "../../media/images/3d4d03de6ccbcd4a4227b69f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/y/w/w/-original-imahf8ksrcsxabre.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/y/w/w/-original-imahf8ksrcsxabre.jpeg?q=100",
+        "local_path": "../../media/images/3d4d03de6ccbcd4a4227b69f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/k/o/-original-imahf8kszzgpqrar.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/k/o/-original-imahf8kszzgpqrar.jpeg?q=100",
+        "local_path": "../../media/images/3d4d03de6ccbcd4a4227b69f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/t/h/-original-imahf8ksjmdtmpe4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/t/h/-original-imahf8ksjmdtmpe4.jpeg?q=100",
+        "local_path": "../../media/images/3d4d03de6ccbcd4a4227b69f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/6/h/5/-original-imahf8kseny3hufh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/6/h/5/-original-imahf8kseny3hufh.jpeg?q=100",
+        "local_path": "../../media/images/3d4d03de6ccbcd4a4227b69f/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNDK9eRQ4lS76LPio_6OjQxw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "The Indian Garage Co. Men Striped Casual Yellow Shirt",
+      "description": "The Indian Garage Co. Men Striped Casual Yellow Shirt - Buy The Indian Garage Co. Men Striped Casual Yellow Shirt For Only Rs. 1749.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/o/8/-resized-original-imahf8ksjpkurz6c.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/y/w/w/-original-imahf8ksrcsxabre.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/j/k/o/-original-imahf8kszzgpqrar.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/t/h/-original-imahf8ksjmdtmpe4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/6/h/5/-original-imahf8kseny3hufh.jpeg?q=70"
+      ],
+      "sku": "SHTGGNUHFB5MY7UZ",
+      "color": "Yellow",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 169,
+        "ratingCount": 2489,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "The Indian Garage Co.",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 503,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-12-11",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Raju P",
+            "@type": "Person"
+          },
+          "datePublished": "2023-07-20",
+          "reviewBody": "Super.price quality. Colorfull.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-07",
+          "reviewBody": "Fabric is pure cotton affordable price ... Outstanding",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Striped Pattern",
+          "body": "This men's casual shirt features a classic striped pattern, adding a touch of timeless style to your…"
+        },
+        {
+          "heading": "Premium Quality Fabric",
+          "body": "Crafted from pure cotton, this shirt ensures a soft and breathable feel against your skin. The high-…"
+        },
+        {
+          "heading": "Versatile Casual Wear",
+          "body": "Perfect for casual occasions, this shirt is a versatile addition to your wardrobe. Whether you're go…"
+        },
+        {
+          "heading": "Slim Fit Design",
+          "body": "With a slim fit design, this shirt offers a modern and tailored look. The slim fit silhouette create…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Striped",
+        "Collar": "Spread",
+        "Color": "Yellow"
+      },
+      "specifications": {}
+    }
+  }
+}

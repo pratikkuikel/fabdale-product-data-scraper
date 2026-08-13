@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-SHTGRDE44CYGPH3C",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2758",
+    "2759",
+    "2760",
+    "2761",
+    "2762"
+  ],
+  "source_path": "sources/pid-SHTGRDE44CYGPH3C/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:51:06.637Z",
+  "completed_at": "2026-08-13T14:51:19.579Z"
+}

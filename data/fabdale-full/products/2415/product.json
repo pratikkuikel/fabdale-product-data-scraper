@@ -1,0 +1,142 @@
+{
+  "product_id": "2415",
+  "sku": "Fab-Shirt-HIGH-022BK-M",
+  "product": {
+    "name": "Havric Hibiscus leaves Print Shirt",
+    "parent_id": "5457",
+    "notes": "https://www.flipkart.com/highlander-men-printed-casual-black-shirt/p/itm902e4ff25fe79?pid=SHTH4T98PPQHSFPS&marketplace=FLIPKART&lid=LSTSHTH4T98PPQHSFPSVALVMN&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL2FzcGVjdFNpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773714316205"
+  },
+  "source_bundle": {
+    "key": "pid-SHTH4T98PPQHSFPS",
+    "path": "../../sources/pid-SHTH4T98PPQHSFPS/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/highlander-men-printed-casual-black-shirt/p/itm902e4ff25fe79?pid=SHTH4T98PPQHSFPS&marketplace=FLIPKART&lid=LSTSHTH4T98PPQHSFPSVALVMN&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL2FzcGVjdFNpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773714316205",
+    "scraped_at": "2026-08-13T14:22:19.732Z",
+    "final_url": "https://www.flipkart.com/highlander-men-printed-casual-black-shirt/p/itm902e4ff25fe79?pid=SHTH4T98PPQHSFPS&marketplace=FLIPKART&lid=LSTSHTH4T98PPQHSFPSVALVMN&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL2FzcGVjdFNpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773714316205"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:22:25.008Z"
+  },
+  "content": {
+    "title": "HIGHLANDER Men Printed Casual Black Shirt",
+    "short_description": "Color: Black\nFabric: Pure Cotton\nPattern: Printed\nSleeve: Short Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "HIGHLANDER Men Printed Casual Black Shirt - Buy HIGHLANDER Men Printed Casual Black Shirt For Only Rs. 1649.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Short Sleeve",
+      "Pattern": "Printed",
+      "Collar": "Cut Away",
+      "Color": "Black"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e0defad3dcd272188d867f29",
+      "path": "media/images/e0defad3dcd272188d867f29/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/b/0/-resized-original-imahegzqzwxxjaay.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/b/0/-resized-original-imahegzqzwxxjaay.jpeg?q=100",
+        "local_path": "../../media/images/e0defad3dcd272188d867f29/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/3/x/-original-imahegzqj872jsj3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/3/x/-original-imahegzqj872jsj3.jpeg?q=100",
+        "local_path": "../../media/images/e0defad3dcd272188d867f29/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/4/e/-original-imahegzqavya5utq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/4/e/-original-imahegzqavya5utq.jpeg?q=100",
+        "local_path": "../../media/images/e0defad3dcd272188d867f29/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/k/f/-original-imahegzqyfyykytu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/k/f/-original-imahegzqyfyykytu.jpeg?q=100",
+        "local_path": "../../media/images/e0defad3dcd272188d867f29/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/4/q/-original-imahegzq2zzsw9sr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/4/q/-original-imahegzq2zzsw9sr.jpeg?q=100",
+        "local_path": "../../media/images/e0defad3dcd272188d867f29/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "HIGHLANDER Men Printed Casual Black Shirt",
+      "description": "HIGHLANDER Men Printed Casual Black Shirt - Buy HIGHLANDER Men Printed Casual Black Shirt For Only Rs. 1649.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/b/0/-resized-original-imahegzqzwxxjaay.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/3/x/-original-imahegzqj872jsj3.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/4/e/-original-imahegzqavya5utq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/k/f/-original-imahegzqyfyykytu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/4/q/-original-imahegzq2zzsw9sr.jpeg?q=70"
+      ],
+      "sku": "SHTH4T98PPQHSFPS",
+      "color": "BLACK",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "ratingCount": 16,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "HIGHLANDER",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 360,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Short Sleeve",
+        "Pattern": "Printed",
+        "Collar": "Cut Away",
+        "Color": "Black"
+      },
+      "specifications": {}
+    }
+  }
+}

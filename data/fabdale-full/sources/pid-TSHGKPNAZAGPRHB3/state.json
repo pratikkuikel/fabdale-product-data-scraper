@@ -1,0 +1,17 @@
+{
+  "source_key": "pid-TSHGKPNAZAGPRHB3",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3191",
+    "3192",
+    "3194"
+  ],
+  "source_path": "sources/pid-TSHGKPNAZAGPRHB3/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T15:41:37.585Z",
+  "completed_at": "2026-08-13T15:41:58.439Z"
+}

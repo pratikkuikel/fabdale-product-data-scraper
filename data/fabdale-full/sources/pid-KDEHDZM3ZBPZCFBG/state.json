@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-KDEHDZM3ZBPZCFBG",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2824",
+    "2825",
+    "2826",
+    "5550",
+    "5552"
+  ],
+  "source_path": "sources/pid-KDEHDZM3ZBPZCFBG/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T15:00:35.856Z",
+  "completed_at": "2026-08-13T15:00:49.099Z"
+}

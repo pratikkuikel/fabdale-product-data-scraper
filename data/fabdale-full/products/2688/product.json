@@ -1,0 +1,204 @@
+{
+  "product_id": "2688",
+  "sku": "Fab-Shirt-TIGC-009WH-S",
+  "product": {
+    "name": "Ivaan Dark contrast buttons Shirt",
+    "parent_id": "5507",
+    "notes": "https://www.flipkart.com/indian-garage-co-men-solid-casual-white-shirt/p/itm1be630f964a69?pid=SHTGMYE8HEGGMZRP&lid=LSTSHTGMYE8HEGGMZRPZJKU20&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGMYE8HEGGMZRP",
+    "path": "../../sources/pid-SHTGMYE8HEGGMZRP/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/indian-garage-co-men-solid-casual-white-shirt/p/itm1be630f964a69?pid=SHTGMYE8HEGGMZRP&lid=LSTSHTGMYE8HEGGMZRPZJKU20&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T14:40:00.786Z",
+    "final_url": "https://www.flipkart.com/indian-garage-co-men-solid-casual-white-shirt/p/itm1be630f964a69?pid=SHTGMYE8HEGGMZRP&lid=LSTSHTGMYE8HEGGMZRPZJKU20&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:40:16.306Z"
+  },
+  "content": {
+    "title": "The Indian Garage Co. Men Solid Casual White Shirt",
+    "short_description": "Color: White\nFabric: Pure Cotton\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1",
+    "description": "About the Brand\nThe Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Color": "White"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "5dd5b43fddb02d402e9817d1",
+      "path": "media/images/5dd5b43fddb02d402e9817d1/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/7/g/5/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfm38eynbg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/7/g/5/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfm38eynbg.jpeg?q=100",
+        "local_path": "../../media/images/5dd5b43fddb02d402e9817d1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/x/b/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfevsfvttv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/x/b/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfevsfvttv.jpeg?q=100",
+        "local_path": "../../media/images/5dd5b43fddb02d402e9817d1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/s/i/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfnudnn6ce.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/s/i/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfnudnn6ce.jpeg?q=100",
+        "local_path": "../../media/images/5dd5b43fddb02d402e9817d1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/s/b/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfghnhghw8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/s/b/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfghnhghw8.jpeg?q=100",
+        "local_path": "../../media/images/5dd5b43fddb02d402e9817d1/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/g/x/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfjnuuj6yy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/g/x/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfjnuuj6yy.jpeg?q=100",
+        "local_path": "../../media/images/5dd5b43fddb02d402e9817d1/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "The Indian Garage Co. Men Solid Casual White Shirt",
+      "description": "The Indian Garage Co. Men Solid Casual White Shirt - Buy The Indian Garage Co. Men Solid Casual White Shirt For Only Rs. 2049.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/7/g/5/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfm38eynbg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/x/b/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfevsfvttv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/s/i/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfnudnn6ce.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/s/b/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfghnhghw8.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/g/x/s-0622-sh278-04-the-indian-garage-co-original-imagmzgfjnuuj6yy.jpeg?q=70"
+      ],
+      "sku": "SHTGMYE8HEGGMZRP",
+      "color": "White",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 47,
+        "ratingCount": 651,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "The Indian Garage Co.",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 571,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-30",
+          "reviewBody": "good product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Girish Rathore",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-13",
+          "reviewBody": "Good cotton quality and comfortable.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Jayant  Parmar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-27",
+          "reviewBody": "Nice shirt.. Looks good and fit",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "About the Brand",
+          "body": "The Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Color": "White"
+      },
+      "specifications": {}
+    }
+  }
+}

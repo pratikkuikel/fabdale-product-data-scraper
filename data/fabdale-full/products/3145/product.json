@@ -1,0 +1,229 @@
+{
+  "product_id": "3145",
+  "sku": "Fab-TShirt-KAJR-008G-S",
+  "product": {
+    "name": "Kavish Vertical geometric Print T-Shirt",
+    "parent_id": "5196",
+    "notes": "https://www.flipkart.com/kajaru-striped-men-round-neck-dark-green-t-shirt/p/itm08af84f0b5a5e?pid=TSHGPRTKG2HCXXVJ&marketplace=FLIPKART&lid=LSTTSHGPRTKG2HCXXVJLFMCHD&swatchAttr=size&pageUID=1772990742525"
+  },
+  "source_bundle": {
+    "key": "pid-TSHGPRTKG2HCXXVJ",
+    "path": "../../sources/pid-TSHGPRTKG2HCXXVJ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-round-neck-dark-green-t-shirt/p/itm08af84f0b5a5e?pid=TSHGPRTKG2HCXXVJ&marketplace=FLIPKART&lid=LSTTSHGPRTKG2HCXXVJLFMCHD&swatchAttr=size&pageUID=1772990742525",
+    "scraped_at": "2026-08-13T15:32:53.306Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-round-neck-dark-green-t-shirt/p/itm08af84f0b5a5e?pid=TSHGPRTKG2HCXXVJ&marketplace=FLIPKART&lid=LSTTSHGPRTKG2HCXXVJLFMCHD&swatchAttr=size&pageUID=1772990742525"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:33:16.005Z"
+  },
+  "content": {
+    "title": "KAJARU Striped Men Round Neck Dark Green T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Striped\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "Striped Design\nThis men's T-shirt features a stylish striped design on the front panel, adding a touch of sophistic…\n\nComfortable Fit\nCrafted with a slim fit, this T-shirt offers a modern and flattering silhouette. The slim fit design…\n\nDurable Polyester Fabric\nMade from high-quality polyester fabric, this T-shirt is both durable and lightweight. The fabric is…\n\nEasy Care\nMaintaining this T-shirt is a breeze thanks to its regular machine wash care instructions. Simply to…\n\nVersatile Style\nThis T-shirt's versatile design makes it suitable for various casual occasions. Pair it with jeans a…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Striped"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0798ba6f4eb2e51d4d86e62d",
+      "path": "media/images/0798ba6f4eb2e51d4d86e62d/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "8e3ab7ffa2c9351b8dfe937d",
+      "path": "media/videos/8e3ab7ffa2c9351b8dfe937d/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/z/r/xxl-tsrt-catalog-03-kajaru-resized-original-imagprym5gyz3jxh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/z/r/xxl-tsrt-catalog-03-kajaru-resized-original-imagprym5gyz3jxh.jpeg?q=100",
+        "local_path": "../../media/images/0798ba6f4eb2e51d4d86e62d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/b/z/s-tsrt-catalog-03-kajaru-original-imagprtkubunhtze.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/b/z/s-tsrt-catalog-03-kajaru-original-imagprtkubunhtze.jpeg?q=100",
+        "local_path": "../../media/images/0798ba6f4eb2e51d4d86e62d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/k/o/-original-imagvdxa9yadypj6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/k/o/-original-imagvdxa9yadypj6.jpeg?q=100",
+        "local_path": "../../media/images/0798ba6f4eb2e51d4d86e62d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/t/s/s-tsrt-catalog-03-kajaru-original-imagprtkawtjtuhn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/t/s/s-tsrt-catalog-03-kajaru-original-imagprtkawtjtuhn.jpeg?q=100",
+        "local_path": "../../media/images/0798ba6f4eb2e51d4d86e62d/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/5/0/s-tsrt-catalog-03-kajaru-original-imagprtkmtuhefy4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/5/0/s-tsrt-catalog-03-kajaru-original-imagprtkmtuhefy4.jpeg?q=100",
+        "local_path": "../../media/images/0798ba6f4eb2e51d4d86e62d/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN2gMvK6pIS9W1rDXKi7OU-w/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Striped Men Round Neck Dark Green T-Shirt",
+      "description": "KAJARU Striped Men Round Neck Dark Green T-Shirt - Buy KAJARU Striped Men Round Neck Dark Green T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/z/r/xxl-tsrt-catalog-03-kajaru-resized-original-imagprym5gyz3jxh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/b/z/s-tsrt-catalog-03-kajaru-original-imagprtkubunhtze.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/k/o/-original-imagvdxa9yadypj6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/t/s/s-tsrt-catalog-03-kajaru-original-imagprtkawtjtuhn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/5/0/s-tsrt-catalog-03-kajaru-original-imagprtkmtuhefy4.jpeg?q=70"
+      ],
+      "sku": "TSHGPRTKG2HCXXVJ",
+      "color": "TEAL-MOREPINCH",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 7155,
+        "ratingCount": 154709,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 198,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Suman Gorai",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-22",
+          "reviewBody": "Best in look and quality 👍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "JAGDAMBA  MOBILE",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-28",
+          "reviewBody": "Good quality 🤗",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-13",
+          "reviewBody": "Nice product...soft and good quality fabric...for use in summer...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Striped Design",
+          "body": "This men's T-shirt features a stylish striped design on the front panel, adding a touch of sophistic…"
+        },
+        {
+          "heading": "Comfortable Fit",
+          "body": "Crafted with a slim fit, this T-shirt offers a modern and flattering silhouette. The slim fit design…"
+        },
+        {
+          "heading": "Durable Polyester Fabric",
+          "body": "Made from high-quality polyester fabric, this T-shirt is both durable and lightweight. The fabric is…"
+        },
+        {
+          "heading": "Easy Care",
+          "body": "Maintaining this T-shirt is a breeze thanks to its regular machine wash care instructions. Simply to…"
+        },
+        {
+          "heading": "Versatile Style",
+          "body": "This T-shirt's versatile design makes it suitable for various casual occasions. Pair it with jeans a…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Striped"
+      },
+      "specifications": {}
+    }
+  }
+}

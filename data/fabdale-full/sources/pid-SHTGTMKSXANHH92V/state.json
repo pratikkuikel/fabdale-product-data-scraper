@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-SHTGTMKSXANHH92V",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2479",
+    "2480",
+    "2481",
+    "2482",
+    "2483"
+  ],
+  "source_path": "sources/pid-SHTGTMKSXANHH92V/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:25:15.874Z",
+  "completed_at": "2026-08-13T14:25:26.643Z"
+}

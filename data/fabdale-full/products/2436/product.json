@@ -1,0 +1,205 @@
+{
+  "product_id": "2436",
+  "sku": "Fab-Shirt-ALSN-002GR-L",
+  "product": {
+    "name": "Alvyn Fit Solid Cut Away Collar Shirt",
+    "parent_id": "5461",
+    "notes": "https://www.flipkart.com/allen-solly-men-solid-casual-grey-shirt/p/itmfa89eda383b1f?pid=SHTGFFP28RG9UY2Q&lid=LSTSHTGFFP28RG9UY2QWFPDW7&marketplace=FLIPKART&q=Allen%20Solly&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGFFP28RG9UY2Q",
+    "path": "../../sources/pid-SHTGFFP28RG9UY2Q/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/allen-solly-men-solid-casual-grey-shirt/p/itmfa89eda383b1f?pid=SHTGFFP28RG9UY2Q&lid=LSTSHTGFFP28RG9UY2QWFPDW7&marketplace=FLIPKART&q=Allen%20Solly&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T14:23:47.927Z",
+    "final_url": "https://www.flipkart.com/allen-solly-men-solid-casual-grey-shirt/p/itmfa89eda383b1f?pid=SHTGFFP28RG9UY2Q&lid=LSTSHTGFFP28RG9UY2QWFPDW7&marketplace=FLIPKART&q=Allen%20Solly&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:23:57.213Z"
+  },
+  "content": {
+    "title": "Allen Solly Men Solid Casual Grey Shirt",
+    "short_description": "Color: Grey\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "Styling Tips by Aman, Fashion Influencer\nAn absolute wardrobe essential, this smart shirt will make for a worthy pick. Add a twist to your lo…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Cut Away",
+      "Color": "Grey"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ddf6d3337a3c918694b3393e",
+      "path": "media/images/ddf6d3337a3c918694b3393e/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "0292fb7d49f402998a4ebd78",
+      "path": "media/videos/0292fb7d49f402998a4ebd78/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/q/k/40-assfqmofe67606-allen-solly-resized-original-imagffzxyehcun3k-bb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/q/k/40-assfqmofe67606-allen-solly-resized-original-imagffzxyehcun3k-bb.jpeg?q=100",
+        "local_path": "../../media/images/ddf6d3337a3c918694b3393e/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/km2clu80/shirt/n/h/f/40-assfqmofe67606-allen-solly-original-imagffzxskfhpy64.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/km2clu80/shirt/n/h/f/40-assfqmofe67606-allen-solly-original-imagffzxskfhpy64.jpeg?q=100",
+        "local_path": "../../media/images/ddf6d3337a3c918694b3393e/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/km2clu80/shirt/6/v/o/40-assfqmofe67606-allen-solly-original-imagffzxm7ynw8hm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/km2clu80/shirt/6/v/o/40-assfqmofe67606-allen-solly-original-imagffzxm7ynw8hm.jpeg?q=100",
+        "local_path": "../../media/images/ddf6d3337a3c918694b3393e/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/km2clu80/shirt/w/z/l/40-assfqmofe67606-allen-solly-original-imagffzxgesecw7u.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/km2clu80/shirt/w/z/l/40-assfqmofe67606-allen-solly-original-imagffzxgesecw7u.jpeg?q=100",
+        "local_path": "../../media/images/ddf6d3337a3c918694b3393e/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/km2clu80/shirt/r/2/i/40-assfqmofe67606-allen-solly-original-imagffzxj2xamjem.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/km2clu80/shirt/r/2/i/40-assfqmofe67606-allen-solly-original-imagffzxj2xamjem.jpeg?q=100",
+        "local_path": "../../media/images/ddf6d3337a3c918694b3393e/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/labs/AS/CNbu75jn6xQ-GUcNfiyJ2QWA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Allen Solly Men Solid Casual Grey Shirt",
+      "description": "Allen Solly Men Solid Casual Grey Shirt - Buy Allen Solly Men Solid Casual Grey Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/q/k/40-assfqmofe67606-allen-solly-resized-original-imagffzxyehcun3k-bb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/km2clu80/shirt/n/h/f/40-assfqmofe67606-allen-solly-original-imagffzxskfhpy64.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/km2clu80/shirt/6/v/o/40-assfqmofe67606-allen-solly-original-imagffzxm7ynw8hm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/km2clu80/shirt/w/z/l/40-assfqmofe67606-allen-solly-original-imagffzxgesecw7u.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/km2clu80/shirt/r/2/i/40-assfqmofe67606-allen-solly-original-imagffzxj2xamjem.jpeg?q=70"
+      ],
+      "sku": "SHTGFFP28RG9UY2Q",
+      "color": "Grey",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 231,
+        "ratingCount": 3903,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Allen Solly",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 1245,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-05-14",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "sunish soman",
+            "@type": "Person"
+          },
+          "datePublished": "2022-05-10",
+          "reviewBody": "Perfect fit ..and good quality shirt",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Abhishek  chouhan ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-07",
+          "reviewBody": "Good one. fabric is awesome.overall looks good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Styling Tips by Aman, Fashion Influencer",
+          "body": "An absolute wardrobe essential, this smart shirt will make for a worthy pick. Add a twist to your lo…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Cut Away",
+        "Color": "Grey"
+      },
+      "specifications": {}
+    }
+  }
+}

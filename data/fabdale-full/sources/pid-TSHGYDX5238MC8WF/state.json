@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-TSHGYDX5238MC8WF",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3011"
+  ],
+  "source_path": "sources/pid-TSHGYDX5238MC8WF/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T15:10:39.838Z",
+  "completed_at": "2026-08-13T15:10:55.026Z"
+}

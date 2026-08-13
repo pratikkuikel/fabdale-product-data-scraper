@@ -1,0 +1,23 @@
+{
+  "key": "2c0903f5ea5a90d2582eeea6",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T11:25:28.967Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/2/f/m-mpf-04e-metronaut-original-imahgaguatsngsxq.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/2/f/m-mpf-04e-metronaut-original-imahgaguatsngsxq.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/t/t/s-mpf-04e-metronaut-original-imahgagufzvvfghw.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/t/t/s-mpf-04e-metronaut-original-imahgagufzvvfghw.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

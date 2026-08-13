@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-SHTFUSCDMAJP2QCG",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2459",
+    "2460",
+    "2461",
+    "2462",
+    "2463"
+  ],
+  "source_path": "sources/pid-SHTFUSCDMAJP2QCG/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:24:27.323Z",
+  "completed_at": "2026-08-13T14:24:36.561Z"
+}

@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-SHTH4RRZMBFRDHWP",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2549",
+    "2550",
+    "2551",
+    "2552",
+    "2553",
+    "5482"
+  ],
+  "source_path": "sources/pid-SHTH4RRZMBFRDHWP/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:27:50.970Z",
+  "completed_at": "2026-08-13T14:28:02.663Z"
+}

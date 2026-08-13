@@ -1,0 +1,193 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-white-shirt/p/itmb0edcca370de8?pid=SHTHBYGQPABESDEG&marketplace=FLIPKART&lid=LSTSHTHBYGQPABESDEGTESUDP&swatchAttr=size&pageUID=1773658130498",
+    "scraped_at": "2026-08-13T11:28:49.065Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-white-shirt/p/itmb0edcca370de8?pid=SHTHBYGQPABESDEG&marketplace=FLIPKART&lid=LSTSHTHBYGQPABESDEGTESUDP&swatchAttr=size&pageUID=1773658130498"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:29:05.074Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Solid Casual White Shirt",
+    "short_description": "Color: White\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "METRONAUT Men Solid Casual White Shirt - Buy METRONAUT Men Solid Casual White Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "White"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/e/w/m-formal-shirts-praizy-original-imahf5t8mswzzrux.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/e/w/m-formal-shirts-praizy-original-imahf5t8mswzzrux.jpeg?q=100",
+        "local_path": "../../media/images/0d5addfdc24c14f7f214a54a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/b/5/xl-formal-shirts-st-metronaut-original-imahhf5wkydegnv9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/b/5/xl-formal-shirts-st-metronaut-original-imahhf5wkydegnv9.jpeg?q=100",
+        "local_path": "../../media/images/0d5addfdc24c14f7f214a54a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/a/v/xl-formal-shirts-st-metronaut-original-imahhf5wuppqwxq6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/a/v/xl-formal-shirts-st-metronaut-original-imahhf5wuppqwxq6.jpeg?q=100",
+        "local_path": "../../media/images/0d5addfdc24c14f7f214a54a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/v/x/xl-formal-shirts-st-metronaut-original-imahhf5wka4q7hvm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/v/x/xl-formal-shirts-st-metronaut-original-imahhf5wka4q7hvm.jpeg?q=100",
+        "local_path": "../../media/images/0d5addfdc24c14f7f214a54a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN4Iezu3VQTEiVj7tIWv12_Q/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual White Shirt",
+      "description": "METRONAUT Men Solid Casual White Shirt - Buy METRONAUT Men Solid Casual White Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/e/w/m-formal-shirts-praizy-original-imahf5t8mswzzrux.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/b/5/xl-formal-shirts-st-metronaut-original-imahhf5wkydegnv9.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/a/v/xl-formal-shirts-st-metronaut-original-imahhf5wuppqwxq6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/v/x/xl-formal-shirts-st-metronaut-original-imahhf5wka4q7hvm.jpeg?q=70"
+      ],
+      "sku": "SHTHBYGQPABESDEG",
+      "color": "Pearl White",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 231,
+        "ratingCount": 6029,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 293,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Wankhede Umesh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-12",
+          "reviewBody": "Original fabric 😘👍👍👍 thank you filpkart... i.am.happy",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Moderate",
+          "author": {
+            "name": "Adi Annyas ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-16",
+          "reviewBody": "Did not like it",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Dulal Singha",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-12",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "White"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0d5addfdc24c14f7f214a54a",
+      "path": "media/images/0d5addfdc24c14f7f214a54a/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "805d42aef8c14aaed1288d61",
+      "path": "media/videos/805d42aef8c14aaed1288d61/media.json",
+      "reused": false
+    }
+  }
+}

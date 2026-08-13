@@ -1,0 +1,217 @@
+{
+  "product_id": "6451",
+  "sku": "Fab-Shirt-TIGC-024W-XXL",
+  "product": {
+    "name": "White Striped Cotton Casual Shirt",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/indian-garage-co-men-striped-casual-white-shirt/p/itma8dc88ef91722?pid=SHTGMF9YSYUX26H9&lid=LSTSHTGMF9YSYUX26H9AD9CN7&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGMF9YSYUX26H9",
+    "path": "../../sources/pid-SHTGMF9YSYUX26H9/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/indian-garage-co-men-striped-casual-white-shirt/p/itma8dc88ef91722?pid=SHTGMF9YSYUX26H9&marketplace=FLIPKART&lid=LSTSHTGMF9YSYUX26H99ZW5LO&swatchAttr=size&pageUID=1773817735849",
+    "scraped_at": "2026-08-13T14:55:58.106Z",
+    "final_url": "https://www.flipkart.com/indian-garage-co-men-striped-casual-white-shirt/p/itma8dc88ef91722?pid=SHTGMF9YSYUX26H9&marketplace=FLIPKART&lid=LSTSHTGMF9YSYUX26H99ZW5LO&swatchAttr=size&pageUID=1773817735849"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:56:17.563Z"
+  },
+  "content": {
+    "title": "The Indian Garage Co. Men Striped Casual White Shirt",
+    "short_description": "Color: White\nFabric: Pure Cotton\nPattern: Striped\nSleeve: Full Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "About the Brand\nThe Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Striped",
+      "Collar": "Cut Away",
+      "Color": "White"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "03c51f013f7c7b381369461c",
+      "path": "media/images/03c51f013f7c7b381369461c/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "32118303fb0d7c8e9e186dd2",
+      "path": "media/videos/32118303fb0d7c8e9e186dd2/media.json",
+      "reused": true
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/e/4/-original-imagnp3hv9hcthf2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/e/4/-original-imagnp3hv9hcthf2.jpeg?q=100",
+        "local_path": "../../media/images/03c51f013f7c7b381369461c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/r/u/-original-imagnp3hgkdjykye.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/r/u/-original-imagnp3hgkdjykye.jpeg?q=100",
+        "local_path": "../../media/images/03c51f013f7c7b381369461c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/8/t/-original-imagnp3hgjsrpszs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/8/t/-original-imagnp3hgjsrpszs.jpeg?q=100",
+        "local_path": "../../media/images/03c51f013f7c7b381369461c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/j/d/-original-imagnp3hmt2zpqzt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/j/d/-original-imagnp3hmt2zpqzt.jpeg?q=100",
+        "local_path": "../../media/images/03c51f013f7c7b381369461c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/c/n/-original-imagnp3hzggjtgmy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/c/n/-original-imagnp3hzggjtgmy.jpeg?q=100",
+        "local_path": "../../media/images/03c51f013f7c7b381369461c/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNRTv3G1l_TcS0ckxCxz082g/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "The Indian Garage Co. Men Striped Casual White Shirt",
+      "description": "The Indian Garage Co. Men Striped Casual White Shirt - Buy The Indian Garage Co. Men Striped Casual White Shirt For Only Rs. 2099.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/e/4/-original-imagnp3hv9hcthf2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/q/r/u/-original-imagnp3hgkdjykye.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/8/t/-original-imagnp3hgjsrpszs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/j/d/-original-imagnp3hmt2zpqzt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/c/n/-original-imagnp3hzggjtgmy.jpeg?q=70"
+      ],
+      "sku": "SHTGMF9YSYUX26H9",
+      "color": "White",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 117,
+        "ratingCount": 2206,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "The Indian Garage Co.",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 585,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Manjit  Itape ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-30",
+          "reviewBody": "Excellent fabric\nGood look \nReachness\nVery smooth cotton\nGood looking",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Dharmesh  Singh ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-07-25",
+          "reviewBody": "Very good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-09",
+          "reviewBody": "Fitting and fabric quality both worst,  polyester material, not good at all, only looks good in picture 😭🤔",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "About the Brand",
+          "body": "The Indian Garage Co is daring, bold, and just what the modern Indian man needs. The fashion-forward man’s style destination, The Indian Garage Co. br…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Striped",
+        "Collar": "Cut Away",
+        "Color": "White"
+      },
+      "specifications": {}
+    }
+  }
+}

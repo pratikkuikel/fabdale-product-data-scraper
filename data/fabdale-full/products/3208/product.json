@@ -1,0 +1,205 @@
+{
+  "product_id": "3208",
+  "sku": "Fab-TShirt-KAJR-011MR-XL",
+  "product": {
+    "name": "Kavish Technical analysis symbol T-Shirt",
+    "parent_id": "5414",
+    "notes": "https://www.flipkart.com/kajaru-striped-men-round-neck-maroon-t-shirt/p/itm1e4f414f2ed57?pid=TSHGH7RBYPAQ3ETQ&lid=LSTTSHGH7RBYPAQ3ETQ9YSFUX&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHGH7RBYPAQ3ETQ",
+    "path": "../../sources/pid-TSHGH7RBYPAQ3ETQ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-round-neck-maroon-t-shirt/p/itm1e4f414f2ed57?pid=TSHGH7RBYPAQ3ETQ&lid=LSTTSHGH7RBYPAQ3ETQ9YSFUX&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T15:43:53.140Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-round-neck-maroon-t-shirt/p/itm1e4f414f2ed57?pid=TSHGH7RBYPAQ3ETQ&lid=LSTTSHGH7RBYPAQ3ETQ9YSFUX&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:44:31.181Z"
+  },
+  "content": {
+    "title": "KAJARU Striped Men Round Neck Maroon T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Striped\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "Classic Striped Design\nThis men's T-shirt features a classic striped design that adds a timeless appeal to your casual ward…\n\nComfortable and Easy to Maintain\nCrafted from high-quality polyester fabric, this T-shirt offers a comfortable fit and ensures durabi…\n\nRegular Fit and Medium Length\nWith its regular fit and medium length, this T-shirt offers a flattering silhouette that suits most …\n\nVersatile Round Neck and Half Sleeves\nFeaturing a classic round neck and half sleeves, this T-shirt offers a versatile design that can be …",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Striped"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "6bd2e560bc0153ff0479a17c",
+      "path": "media/images/6bd2e560bc0153ff0479a17c/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "22c7b4723cc3c09f22566665",
+      "path": "media/videos/22c7b4723cc3c09f22566665/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/4/q/8/l-tsrt-catalog-01-kajaru-original-imagh7rbssyzbhhy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/4/q/8/l-tsrt-catalog-01-kajaru-original-imagh7rbssyzbhhy.jpeg?q=100",
+        "local_path": "../../media/images/6bd2e560bc0153ff0479a17c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/8/x/x/l-tsrt-catalog-01-kajaru-original-imagh7rbfshphfyf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/8/x/x/l-tsrt-catalog-01-kajaru-original-imagh7rbfshphfyf.jpeg?q=100",
+        "local_path": "../../media/images/6bd2e560bc0153ff0479a17c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/j/k/l-tsrt-catalog-01-kajaru-original-imagh7rbbhugvpuv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/j/k/l-tsrt-catalog-01-kajaru-original-imagh7rbbhugvpuv.jpeg?q=100",
+        "local_path": "../../media/images/6bd2e560bc0153ff0479a17c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/j/r/8/l-tsrt-catalog-01-kajaru-original-imagh7rbnsasv8wt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/j/r/8/l-tsrt-catalog-01-kajaru-original-imagh7rbnsasv8wt.jpeg?q=100",
+        "local_path": "../../media/images/6bd2e560bc0153ff0479a17c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN8FX60RB7TMqW_yRg08RM3Q/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Striped Men Round Neck Maroon T-Shirt",
+      "description": "KAJARU Striped Men Round Neck Maroon T-Shirt - Buy KAJARU Striped Men Round Neck Maroon T-Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/4/q/8/l-tsrt-catalog-01-kajaru-original-imagh7rbssyzbhhy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/8/x/x/l-tsrt-catalog-01-kajaru-original-imagh7rbfshphfyf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/j/k/l-tsrt-catalog-01-kajaru-original-imagh7rbbhugvpuv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/j/r/8/l-tsrt-catalog-01-kajaru-original-imagh7rbnsasv8wt.jpeg?q=70"
+      ],
+      "sku": "TSHGH7RBYPAQ3ETQ",
+      "color": "MAROON",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 1266,
+        "ratingCount": 20328,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 307,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Sumit Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-30",
+          "reviewBody": "Nice teshirt ❣️👌",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Dipayan Biswas ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-01-13",
+          "reviewBody": "Price wise quality is ok, I like it a lot ,thanks flipkart",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Nirmal Rout ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-26",
+          "reviewBody": "I like it, Nice products\nWonderful 👍👍👍👍👍 Rating 5 Star ⭐",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Striped Design",
+          "body": "This men's T-shirt features a classic striped design that adds a timeless appeal to your casual ward…"
+        },
+        {
+          "heading": "Comfortable and Easy to Maintain",
+          "body": "Crafted from high-quality polyester fabric, this T-shirt offers a comfortable fit and ensures durabi…"
+        },
+        {
+          "heading": "Regular Fit and Medium Length",
+          "body": "With its regular fit and medium length, this T-shirt offers a flattering silhouette that suits most …"
+        },
+        {
+          "heading": "Versatile Round Neck and Half Sleeves",
+          "body": "Featuring a classic round neck and half sleeves, this T-shirt offers a versatile design that can be …"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Striped"
+      },
+      "specifications": {}
+    }
+  }
+}

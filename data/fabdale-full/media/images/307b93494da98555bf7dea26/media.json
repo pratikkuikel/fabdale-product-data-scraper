@@ -1,0 +1,44 @@
+{
+  "key": "307b93494da98555bf7dea26",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T14:20:56.252Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/9/5/l-hlsh013405-highlander-original-imagbhwjacysujnd-bb.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/9/5/l-hlsh013405-highlander-original-imagbhwjacysujnd-bb.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kzn17680/shirt/r/z/0/l-hlsh013405-highlander-original-imagbhwjmyu8x65t.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kzn17680/shirt/r/z/0/l-hlsh013405-highlander-original-imagbhwjmyu8x65t.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kzn17680/shirt/u/q/c/l-hlsh013405-highlander-original-imagbhwjrzyfuvma.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kzn17680/shirt/u/q/c/l-hlsh013405-highlander-original-imagbhwjrzyfuvma.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kzn17680/shirt/g/k/1/l-hlsh013405-highlander-original-imagbhwj2yckgyz3.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kzn17680/shirt/g/k/1/l-hlsh013405-highlander-original-imagbhwj2yckgyz3.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kzn17680/shirt/t/o/v/l-hlsh013405-highlander-original-imagbhwjjsgyrg6a.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kzn17680/shirt/t/o/v/l-hlsh013405-highlander-original-imagbhwjjsgyrg6a.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

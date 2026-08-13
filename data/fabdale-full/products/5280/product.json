@@ -1,0 +1,175 @@
+{
+  "product_id": "5280",
+  "sku": null,
+  "product": {
+    "name": "Metronex buffalo check shirt",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/metronaut-men-checkered-casual-multicolor-shirt/p/itm1dd16918c37f2?pid=SHTH7D46DS78JZKF&lid=LSTSHTH7D46DS78JZKFS5BBZ9&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SHTH7D46DS78JZKF",
+    "path": "../../sources/pid-SHTH7D46DS78JZKF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-checkered-casual-multicolor-shirt/p/itm1dd16918c37f2?pid=SHTH7D46DS78JZKF&lid=LSTSHTH7D46DS78JZKFS5BBZ9&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T11:29:39.227Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-checkered-casual-multicolor-shirt/p/itm1dd16918c37f2?pid=SHTH7D46DS78JZKF&lid=LSTSHTH7D46DS78JZKFS5BBZ9&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:29:45.563Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Checkered Casual Multicolor Shirt",
+    "short_description": "METRONAUT Men Checkered Casual Multicolor Shirt - Buy METRONAUT Men Checkered Casual Multicolor Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "METRONAUT Men Checkered Casual Multicolor Shirt - Buy METRONAUT Men Checkered Casual Multicolor Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "15b3dd34355c10a632c8ad8b",
+      "path": "media/images/15b3dd34355c10a632c8ad8b/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/3/b/m-m-winter-10-metronaut-original-imah7hzhcd2t8zgc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/3/b/m-m-winter-10-metronaut-original-imah7hzhcd2t8zgc.jpeg?q=100",
+        "local_path": "../../media/images/15b3dd34355c10a632c8ad8b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/m/o/m-m-winter-10-metronaut-original-imah7hzhydzyzrwm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/m/o/m-m-winter-10-metronaut-original-imah7hzhydzyzrwm.jpeg?q=100",
+        "local_path": "../../media/images/15b3dd34355c10a632c8ad8b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/y/r/m-m-winter-10-metronaut-original-imah7hzhf3xdgfqz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/y/r/m-m-winter-10-metronaut-original-imah7hzhf3xdgfqz.jpeg?q=100",
+        "local_path": "../../media/images/15b3dd34355c10a632c8ad8b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/u/t/m-m-winter-10-metronaut-original-imah7hzhxyg4y5g2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/u/t/m-m-winter-10-metronaut-original-imah7hzhxyg4y5g2.jpeg?q=100",
+        "local_path": "../../media/images/15b3dd34355c10a632c8ad8b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/h/v/m-m-winter-10-metronaut-original-imah7hzh4dzawg4p.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/h/v/m-m-winter-10-metronaut-original-imah7hzh4dzawg4p.jpeg?q=100",
+        "local_path": "../../media/images/15b3dd34355c10a632c8ad8b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Checkered Casual Multicolor Shirt",
+      "description": "METRONAUT Men Checkered Casual Multicolor Shirt - Buy METRONAUT Men Checkered Casual Multicolor Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/r/3/b/m-m-winter-10-metronaut-original-imah7hzhcd2t8zgc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/m/o/m-m-winter-10-metronaut-original-imah7hzhydzyzrwm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/y/r/m-m-winter-10-metronaut-original-imah7hzhf3xdgfqz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/u/t/m-m-winter-10-metronaut-original-imah7hzhxyg4y5g2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/h/v/m-m-winter-10-metronaut-original-imah7hzh4dzawg4p.jpeg?q=70"
+      ],
+      "sku": "SHTH7D46DS78JZKF",
+      "color": "Multicolor5",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 17,
+        "ratingCount": 534,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 334,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "SHIVA THAKUR",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-28",
+          "reviewBody": "Very good product 👍",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Arun Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-08",
+          "reviewBody": "First Quicker Delivery Expert the Quality Product satisfaction worth money thankyou for support",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "karan kumar kalita",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-27",
+          "reviewBody": "Good product for flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

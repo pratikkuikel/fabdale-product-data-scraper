@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-SHTGPRZV4FZVHHND",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2201",
+    "2203"
+  ],
+  "source_path": "sources/pid-SHTGPRZV4FZVHHND/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T11:23:21.223Z",
+  "completed_at": "2026-08-13T11:23:26.160Z"
+}

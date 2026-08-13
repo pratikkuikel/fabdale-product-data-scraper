@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-KDEH2F2WUZ2RHPPG",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2849",
+    "5633"
+  ],
+  "source_path": "sources/pid-KDEH2F2WUZ2RHPPG/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T15:03:04.171Z",
+  "completed_at": "2026-08-13T15:03:21.768Z"
+}

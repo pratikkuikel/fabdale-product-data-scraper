@@ -1,0 +1,202 @@
+{
+  "product_id": "2761",
+  "sku": "Fab-Shirt-TIGC-017OR-XL",
+  "product": {
+    "name": "Ivaan patch pocket Shirt",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/indian-garage-co-men-solid-casual-orange-shirt/p/itmbda8b29d02a1c?pid=SHTGRDE44CYGPH3C&lid=LSTSHTGRDE44CYGPH3CPY7LKW&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGRDE44CYGPH3C",
+    "path": "../../sources/pid-SHTGRDE44CYGPH3C/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/indian-garage-co-men-solid-casual-orange-shirt/p/itmbda8b29d02a1c?pid=SHTGRDE44CYGPH3C&lid=LSTSHTGRDE44CYGPH3CPY7LKW&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T14:51:06.722Z",
+    "final_url": "https://www.flipkart.com/indian-garage-co-men-solid-casual-orange-shirt/p/itmbda8b29d02a1c?pid=SHTGRDE44CYGPH3C&lid=LSTSHTGRDE44CYGPH3CPY7LKW&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T14:51:19.579Z"
+  },
+  "content": {
+    "title": "The Indian Garage Co. Men Solid Casual Orange Shirt",
+    "short_description": "Color: Orange\nFabric: Pure Cotton\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Comfortable Fit\nFeaturing a slim fit, this shirt offers a sleek and modern silhouette. The slim fit not only enhance…\n\nPremium Quality Fabric\nCrafted from pure cotton fabric, this shirt offers exceptional comfort and breathability. The high-q…\n\nAttention to Detail\nDesigned with a spread collar, this shirt adds a touch of sophistication to your ensemble. The sprea…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Orange"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3871034714623b980d877e45",
+      "path": "media/images/3871034714623b980d877e45/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/f/j/-original-imagyhfjcgdrn8js.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/f/j/-original-imagyhfjcgdrn8js.jpeg?q=100",
+        "local_path": "../../media/images/3871034714623b980d877e45/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/k/2/-original-imagyhfjqdjpxxnk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/k/2/-original-imagyhfjqdjpxxnk.jpeg?q=100",
+        "local_path": "../../media/images/3871034714623b980d877e45/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/c/a/-original-imagyhfj6fexjvu6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/c/a/-original-imagyhfj6fexjvu6.jpeg?q=100",
+        "local_path": "../../media/images/3871034714623b980d877e45/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/t/6/-original-imagyhfjzdsjgsa7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/t/6/-original-imagyhfjzdsjgsa7.jpeg?q=100",
+        "local_path": "../../media/images/3871034714623b980d877e45/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/q/e/-original-imagyhfjd4usrg6q.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/q/e/-original-imagyhfjd4usrg6q.jpeg?q=100",
+        "local_path": "../../media/images/3871034714623b980d877e45/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "The Indian Garage Co. Men Solid Casual Orange Shirt",
+      "description": "The Indian Garage Co. Men Solid Casual Orange Shirt - Buy The Indian Garage Co. Men Solid Casual Orange Shirt For Only Rs. 1749.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/f/j/-original-imagyhfjcgdrn8js.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/k/2/-original-imagyhfjqdjpxxnk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/c/a/-original-imagyhfj6fexjvu6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/t/6/-original-imagyhfjzdsjgsa7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/q/e/-original-imagyhfjd4usrg6q.jpeg?q=70"
+      ],
+      "sku": "SHTGRDE44CYGPH3C",
+      "color": "Orange-A",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 1071,
+        "ratingCount": 18428,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "The Indian Garage Co.",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 487,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "ganesh chavan",
+            "@type": "Person"
+          },
+          "datePublished": "2023-04-07",
+          "reviewBody": "Superb 👌",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Navnit  Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-07-06",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Deepak Aheer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-19",
+          "reviewBody": "The shirt is absolutely fine BUT it catches small fur (ruhein) of other clothes like blanket or towel or bedsheet which is 😤😪🤧 \nI wish they give a shirt which doesn't catch those things",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Comfortable Fit",
+          "body": "Featuring a slim fit, this shirt offers a sleek and modern silhouette. The slim fit not only enhance…"
+        },
+        {
+          "heading": "Premium Quality Fabric",
+          "body": "Crafted from pure cotton fabric, this shirt offers exceptional comfort and breathability. The high-q…"
+        },
+        {
+          "heading": "Attention to Detail",
+          "body": "Designed with a spread collar, this shirt adds a touch of sophistication to your ensemble. The sprea…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Orange"
+      },
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "product_id": "2162",
+  "sku": "Fab-Shirt-METR-016YL-XL",
+  "product": {
+    "name": "Metronex Vertically striped Shirt",
+    "parent_id": "5273",
+    "notes": "https://www.flipkart.com/metronaut-men-striped-casual-blue-white-shirt/p/itme26fcf778da63?pid=SHTGZFZM5SRKZYFG&marketplace=FLIPKART&lid=LSTSHTGZFZM5SRKZYFG2OYZMH&swatchAttr=size&pageUID=1773396131628"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGZFZM5SRKZYFG",
+    "path": "../../sources/pid-SHTGZFZM5SRKZYFG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-striped-casual-blue-white-shirt/p/itme26fcf778da63?pid=SHTGZFZM5SRKZYFG&marketplace=FLIPKART&lid=LSTSHTGZFZM5SRKZYFG2OYZMH&swatchAttr=size&pageUID=1773396131628",
+    "scraped_at": "2026-08-13T11:18:50.218Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-striped-casual-blue-white-shirt/p/itme26fcf778da63?pid=SHTGZFZM5SRKZYFG&marketplace=FLIPKART&lid=LSTSHTGZFZM5SRKZYFG2OYZMH&swatchAttr=size&pageUID=1773396131628"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T11:18:59.247Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Striped Casual Blue, White Shirt",
+    "short_description": "Color: Blue, White\nFabric: Viscose Rayon\nPattern: Striped\nSleeve: Half Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Versatile Striped Design\nMake a style statement with this men's casual shirt featuring a striped design. The timeless pattern…\n\nClassic Spread Collar\nFeaturing a spread collar, this shirt exudes a classic and timeless appeal. The spread collar adds a…\n\nRegular Fit for Comfort\nDesigned with a regular fit, this shirt offers a comfortable and relaxed silhouette. The regular fit…\n\nPremium Viscose Rayon Fabric\nCrafted from high-quality viscose rayon fabric, this shirt offers a luxurious and soft feel against …",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Viscose Rayon",
+      "Sleeve": "Half Sleeve",
+      "Pattern": "Striped",
+      "Collar": "Spread",
+      "Color": "Blue, White"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "06d2c8e12ecdf6a420fd2b09",
+      "path": "media/images/06d2c8e12ecdf6a420fd2b09/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "64683f1bea25fd8fbd3f4c9c",
+      "path": "media/videos/64683f1bea25fd8fbd3f4c9c/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/o/v/l-mhs-1401-royalblue-metronaut-original-imahd2fy235haf5v.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/o/v/l-mhs-1401-royalblue-metronaut-original-imahd2fy235haf5v.jpeg?q=100",
+        "local_path": "../../media/images/06d2c8e12ecdf6a420fd2b09/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/z/c/l-mhs-1401-royalblue-metronaut-original-imahd2fycszgjwzp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/z/c/l-mhs-1401-royalblue-metronaut-original-imahd2fycszgjwzp.jpeg?q=100",
+        "local_path": "../../media/images/06d2c8e12ecdf6a420fd2b09/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/g/o/l-mhs-1401-royalblue-metronaut-original-imahd2fyzwjqgfsv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/g/o/l-mhs-1401-royalblue-metronaut-original-imahd2fyzwjqgfsv.jpeg?q=100",
+        "local_path": "../../media/images/06d2c8e12ecdf6a420fd2b09/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CN5Ip2iTrvTI-xbilbXUpvgQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Striped Casual Blue, White Shirt",
+      "description": "METRONAUT Men Striped Casual Blue, White Shirt - Buy METRONAUT Men Striped Casual Blue, White Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/o/v/l-mhs-1401-royalblue-metronaut-original-imahd2fy235haf5v.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/z/c/l-mhs-1401-royalblue-metronaut-original-imahd2fycszgjwzp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/g/o/l-mhs-1401-royalblue-metronaut-original-imahd2fyzwjqgfsv.jpeg?q=70"
+      ],
+      "sku": "SHTGZFZM5SRKZYFG",
+      "color": "Royalblue",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 82,
+        "ratingCount": 2261,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 288,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice",
+          "author": {
+            "name": "Semanth Kota",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-02",
+          "reviewBody": "Good shirts",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Kumaravel  P",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-27",
+          "reviewBody": "Worth of money",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "sachin borde",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-24",
+          "reviewBody": "Good quality product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Versatile Striped Design",
+          "body": "Make a style statement with this men's casual shirt featuring a striped design. The timeless pattern…"
+        },
+        {
+          "heading": "Classic Spread Collar",
+          "body": "Featuring a spread collar, this shirt exudes a classic and timeless appeal. The spread collar adds a…"
+        },
+        {
+          "heading": "Regular Fit for Comfort",
+          "body": "Designed with a regular fit, this shirt offers a comfortable and relaxed silhouette. The regular fit…"
+        },
+        {
+          "heading": "Premium Viscose Rayon Fabric",
+          "body": "Crafted from high-quality viscose rayon fabric, this shirt offers a luxurious and soft feel against …"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Viscose Rayon",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Striped",
+        "Collar": "Spread",
+        "Color": "Blue, White"
+      },
+      "specifications": {}
+    }
+  }
+}

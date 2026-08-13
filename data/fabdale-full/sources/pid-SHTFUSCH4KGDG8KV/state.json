@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-SHTFUSCH4KGDG8KV",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2464",
+    "2465",
+    "2466",
+    "2467",
+    "2468",
+    "5466"
+  ],
+  "source_path": "sources/pid-SHTFUSCH4KGDG8KV/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:24:37.570Z",
+  "completed_at": "2026-08-13T14:24:47.526Z"
+}

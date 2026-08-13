@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-SHTGGNUHHAYTVGVF",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2713",
+    "2714",
+    "2715",
+    "2716",
+    "2717"
+  ],
+  "source_path": "sources/pid-SHTGGNUHHAYTVGVF/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:45:57.894Z",
+  "completed_at": "2026-08-13T14:46:21.602Z"
+}

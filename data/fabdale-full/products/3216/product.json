@@ -1,0 +1,214 @@
+{
+  "product_id": "3216",
+  "sku": "Fab-TShirt-KAJR-012LC-M",
+  "product": {
+    "name": "Kavish Ribbed knit t-shirt",
+    "parent_id": "5415",
+    "notes": "https://www.flipkart.com/kajaru-striped-men-round-neck-beige-t-shirt/p/itm14eb71b7d649d?pid=TSHH892JADDG4H3Q&marketplace=FLIPKART&lid=LSTTSHH892JADDG4H3QYVG4TV&swatchAttr=size&pageUID=1773048774467"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH892JADDG4H3Q",
+    "path": "../../sources/pid-TSHH892JADDG4H3Q/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-round-neck-beige-t-shirt/p/itm14eb71b7d649d?pid=TSHH892JADDG4H3Q&marketplace=FLIPKART&lid=LSTTSHH892JADDG4H3QYVG4TV&swatchAttr=size&pageUID=1773048774467",
+    "scraped_at": "2026-08-13T15:47:57.969Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-round-neck-beige-t-shirt/p/itm14eb71b7d649d?pid=TSHH892JADDG4H3Q&marketplace=FLIPKART&lid=LSTTSHH892JADDG4H3QYVG4TV&swatchAttr=size&pageUID=1773048774467"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T15:48:13.905Z"
+  },
+  "content": {
+    "title": "KAJARU Striped Men Round Neck Beige T-Shirt",
+    "short_description": "Fabric: Polycotton\nPattern: Striped\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "Classic Striped Pattern\nFeaturing a timeless striped pattern all over, this men's T-shirt exudes a classic and sophisticated…\n\nSoft Polycotton Fabric\nCrafted from a comfortable polycotton blend, this T-shirt offers a soft and breathable feel against …\n\nStylish Round Neck and Short Sleeves\nDesigned with a classic round neck and short sleeves, this T-shirt provides a versatile and timeless…\n\nEasy Fabric Care\nMaintaining this T-shirt is a breeze with regular machine wash. The self-design print coverage and d…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polycotton",
+      "Neck Type": "Round Neck",
+      "Pattern": "Striped"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "305975c1c3180273508ce548",
+      "path": "media/images/305975c1c3180273508ce548/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/l/r/s-tsrt-catalog-35-kajaru-original-imah8cehtgy4saug.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/l/r/s-tsrt-catalog-35-kajaru-original-imah8cehtgy4saug.jpeg?q=100",
+        "local_path": "../../media/images/305975c1c3180273508ce548/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/4/v/s-tsrt-catalog-35-kajaru-original-imah8ceh25pxzzup.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/4/v/s-tsrt-catalog-35-kajaru-original-imah8ceh25pxzzup.jpeg?q=100",
+        "local_path": "../../media/images/305975c1c3180273508ce548/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/f/h/s-tsrt-catalog-35-kajaru-original-imah8cehkyxgemjd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/f/h/s-tsrt-catalog-35-kajaru-original-imah8cehkyxgemjd.jpeg?q=100",
+        "local_path": "../../media/images/305975c1c3180273508ce548/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/z/t/s-tsrt-catalog-35-kajaru-original-imah8cehzdyqgwfk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/z/t/s-tsrt-catalog-35-kajaru-original-imah8cehzdyqgwfk.jpeg?q=100",
+        "local_path": "../../media/images/305975c1c3180273508ce548/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/6/9/s-tsrt-catalog-35-kajaru-original-imah8ceh8gqqkk2s.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/6/9/s-tsrt-catalog-35-kajaru-original-imah8ceh8gqqkk2s.jpeg?q=100",
+        "local_path": "../../media/images/305975c1c3180273508ce548/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Striped Men Round Neck Beige T-Shirt",
+      "description": "KAJARU Striped Men Round Neck Beige T-Shirt - Buy KAJARU Striped Men Round Neck Beige T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/l/r/s-tsrt-catalog-35-kajaru-original-imah8cehtgy4saug.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/4/v/s-tsrt-catalog-35-kajaru-original-imah8ceh25pxzzup.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/f/h/s-tsrt-catalog-35-kajaru-original-imah8cehkyxgemjd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/z/t/s-tsrt-catalog-35-kajaru-original-imah8cehzdyqgwfk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/6/9/s-tsrt-catalog-35-kajaru-original-imah8ceh8gqqkk2s.jpeg?q=70"
+      ],
+      "sku": "TSHH892JADDG4H3Q",
+      "color": "LIGHT CREAM",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 106,
+        "ratingCount": 2914,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 264,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Manish Gupta",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-05",
+          "reviewBody": "quality v good size xl",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Does the job",
+          "author": {
+            "name": "Vipin Chaudhary",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-16",
+          "reviewBody": "Very nice product and quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-11",
+          "reviewBody": "Very good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Striped Pattern",
+          "body": "Featuring a timeless striped pattern all over, this men's T-shirt exudes a classic and sophisticated…"
+        },
+        {
+          "heading": "Soft Polycotton Fabric",
+          "body": "Crafted from a comfortable polycotton blend, this T-shirt offers a soft and breathable feel against …"
+        },
+        {
+          "heading": "Stylish Round Neck and Short Sleeves",
+          "body": "Designed with a classic round neck and short sleeves, this T-shirt provides a versatile and timeless…"
+        },
+        {
+          "heading": "Easy Fabric Care",
+          "body": "Maintaining this T-shirt is a breeze with regular machine wash. The self-design print coverage and d…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polycotton",
+        "Neck Type": "Round Neck",
+        "Pattern": "Striped"
+      },
+      "specifications": {}
+    }
+  }
+}

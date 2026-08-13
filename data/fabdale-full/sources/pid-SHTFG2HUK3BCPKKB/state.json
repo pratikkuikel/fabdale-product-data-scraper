@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-SHTFG2HUK3BCPKKB",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2514",
+    "2515",
+    "2516",
+    "2517",
+    "2518",
+    "5475"
+  ],
+  "source_path": "sources/pid-SHTFG2HUK3BCPKKB/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T14:26:29.821Z",
+  "completed_at": "2026-08-13T14:26:38.635Z"
+}

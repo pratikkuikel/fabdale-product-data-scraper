@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SHTGVZ2TNPYNTW6F",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2191"
+  ],
+  "source_path": "sources/pid-SHTGVZ2TNPYNTW6F/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T11:22:15.329Z",
+  "completed_at": "2026-08-13T11:22:20.204Z"
+}
