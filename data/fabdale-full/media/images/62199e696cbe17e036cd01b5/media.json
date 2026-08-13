@@ -1,0 +1,37 @@
+{
+  "key": "62199e696cbe17e036cd01b5",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T15:31:49.514Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/3/c/q/m-rx74-grnpink-codset-royal-export-original-imah2z9hz448anz9.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/3/c/q/m-rx74-grnpink-codset-royal-export-original-imah2z9hz448anz9.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/d/w/m-rx74-grnpink-codset-royal-export-original-imah2z9hqtg6cxbn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/d/w/m-rx74-grnpink-codset-royal-export-original-imah2z9hqtg6cxbn.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/6/s/m-rx74-grnpink-codset-royal-export-original-imah2z9ha42khfj3.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/6/s/m-rx74-grnpink-codset-royal-export-original-imah2z9ha42khfj3.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/2/e/m-rx74-grnpink-codset-royal-export-original-imah2z9hvykpga4f.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/2/e/m-rx74-grnpink-codset-royal-export-original-imah2z9hvykpga4f.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

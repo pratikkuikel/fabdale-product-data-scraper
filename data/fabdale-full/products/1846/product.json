@@ -1,0 +1,209 @@
+{
+  "product_id": "1846",
+  "sku": "Fab-Lehenga- FBCZ-012YL",
+  "product": {
+    "name": "Firozae Green Pari Yellow Lehenga Choli",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fabcartz-self-design-semi-stitched-lehenga-choli/p/itm4c109f4a8f8cd?pid=LCHHE5G9NRZVTPKD&lid=LSTLCHHE5G9NRZVTPKDN9TTA4&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-LCHHE5G9NRZVTPKD",
+    "path": "../../sources/pid-LCHHE5G9NRZVTPKD/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fabcartz-self-design-semi-stitched-lehenga-choli/p/itm4c109f4a8f8cd?pid=LCHHE5G9NRZVTPKD&lid=LSTLCHHE5G9NRZVTPKDN9TTA4&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T07:37:40.597Z",
+    "final_url": "https://www.flipkart.com/fabcartz-self-design-semi-stitched-lehenga-choli/p/itm4c109f4a8f8cd?pid=LCHHE5G9NRZVTPKD&lid=LSTLCHHE5G9NRZVTPKDN9TTA4&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-13T07:37:57.356Z"
+  },
+  "content": {
+    "title": "Fabcartz Self Design Semi Stitched Lehenga Choli",
+    "short_description": "Color: Yellow\nPattern: Self Design\nType: Lehenga Choli\nLehenga Fabric: Art Silk\nCholi Fabric: Silk\nDupatta Fabric: Art Silk\nStitching Type: Semi Stitched\nSales Package: 1 Unstitch Lehenga, 1 Unstitched Blouse, 1 Dupatta",
+    "description": "Dimensions\nBlouse Length0.8 mDupatta Length2 m - 2.5 m\n\nOccasion\nCasual, Wedding, Party & Festive, Wedding & Festive\n\nLehenga Choli Details\nLehenga FabricArt SilkCholi FabricSilkTypeLehenga CholiDupatta FabricArt SilkNeckV-NeckSleeveHalf SleeveEmbroideredYesDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package1 Unstitch Lehenga, 1 Unstitched Blouse, 1 DupattaBlouse PatternEmbroideredBlouse Stitch TypeUnstitched BlouseBlouse TypeTraditionalBlouse WorkSequinsColorYellowBrand ColorYellowDupatta PatternEmbroideredSizeFree\n\nSales Package\n1 Unstitch Lehenga, 1 Unstitched Blouse, 1 Dupatta",
+    "specifications": {
+      "Lehenga Fabric": "Art Silk",
+      "Choli Fabric": "Silk",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Art Silk",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Self Design",
+      "Sales Package": "1 Unstitch Lehenga, 1 Unstitched Blouse, 1 Dupatta",
+      "Color": "Yellow"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ee97e14c657af1000acc8f2e",
+      "path": "media/images/ee97e14c657af1000acc8f2e/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "5d25a5e230a97534a977c369",
+      "path": "media/videos/5d25a5e230a97534a977c369/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/l/5/free-half-sleeve-rk4306-ravleena-kv-creamprpl-fabcartz-original-imahe5g9fhvuezh8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/l/5/free-half-sleeve-rk4306-ravleena-kv-creamprpl-fabcartz-original-imahe5g9fhvuezh8.jpeg?q=100",
+        "local_path": "../../media/images/ee97e14c657af1000acc8f2e/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/a/9/j/free-half-sleeve-rk4306-ravleena-creamprpl-unstitch-fabcartz-original-imahdwhgrd8cf8nd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/a/9/j/free-half-sleeve-rk4306-ravleena-creamprpl-unstitch-fabcartz-original-imahdwhgrd8cf8nd.jpeg?q=100",
+        "local_path": "../../media/images/ee97e14c657af1000acc8f2e/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/w/a/k/free-half-sleeve-rk4306-ravleena-creamprpl-unstitch-fabcartz-original-imahdwhgzfgk8trw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/w/a/k/free-half-sleeve-rk4306-ravleena-creamprpl-unstitch-fabcartz-original-imahdwhgzfgk8trw.jpeg?q=100",
+        "local_path": "../../media/images/ee97e14c657af1000acc8f2e/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/4/q/free-half-sleeve-rk4306-ravleena-creamprpl-unstitch-fabcartz-original-imahdwhggf62hshh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/4/q/free-half-sleeve-rk4306-ravleena-creamprpl-unstitch-fabcartz-original-imahdwhggf62hshh.jpeg?q=100",
+        "local_path": "../../media/images/ee97e14c657af1000acc8f2e/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/r/c/g/free-half-sleeve-rk4306-ravleena-creamprpl-unstitch-fabcartz-original-imahdwhgfd4mmtdz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/r/c/g/free-half-sleeve-rk4306-ravleena-creamprpl-unstitch-fabcartz-original-imahdwhgfd4mmtdz.jpeg?q=100",
+        "local_path": "../../media/images/ee97e14c657af1000acc8f2e/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNCssWv9rZTESBxNqLGXCVkA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Fabcartz Self Design Semi Stitched Lehenga Choli",
+      "description": "Fabcartz Self Design Semi Stitched Lehenga Choli - Buy Fabcartz Self Design Semi Stitched Lehenga Choli For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/l/5/free-half-sleeve-rk4306-ravleena-kv-creamprpl-fabcartz-original-imahe5g9fhvuezh8.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/a/9/j/free-half-sleeve-rk4306-ravleena-creamprpl-unstitch-fabcartz-original-imahdwhgrd8cf8nd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/w/a/k/free-half-sleeve-rk4306-ravleena-creamprpl-unstitch-fabcartz-original-imahdwhgzfgk8trw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/4/q/free-half-sleeve-rk4306-ravleena-creamprpl-unstitch-fabcartz-original-imahdwhggf62hshh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/r/c/g/free-half-sleeve-rk4306-ravleena-creamprpl-unstitch-fabcartz-original-imahdwhgfd4mmtdz.jpeg?q=70"
+      ],
+      "sku": "LCHHE5G9NRZVTPKD",
+      "color": "Yellow",
+      "category": "lehenga_choli",
+      "brand": {
+        "name": "Fabcartz",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 841,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Dimensions",
+          "body": "Blouse Length0.8 mDupatta Length2 m - 2.5 m"
+        },
+        {
+          "heading": "Occasion",
+          "body": "Casual, Wedding, Party & Festive, Wedding & Festive"
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricArt SilkCholi FabricSilkTypeLehenga CholiDupatta FabricArt SilkNeckV-NeckSleeveHalf SleeveEmbroideredYesDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package1 Unstitch Lehenga, 1 Unstitched Blouse, 1 DupattaBlouse PatternEmbroideredBlouse Stitch TypeUnstitched BlouseBlouse TypeTraditionalBlouse WorkSequinsColorYellowBrand ColorYellowDupatta PatternEmbroideredSizeFree"
+        },
+        {
+          "heading": "Sales Package",
+          "body": "1 Unstitch Lehenga, 1 Unstitched Blouse, 1 Dupatta"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Art Silk",
+        "Choli Fabric": "Silk",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Self Design",
+        "Sales Package": "1 Unstitch Lehenga, 1 Unstitched Blouse, 1 Dupatta",
+        "Color": "Yellow"
+      },
+      "specifications": {
+        "Dimensions": "Blouse Length0.8 mDupatta Length2 m - 2.5 m",
+        "Blouse Length0.8 m": "Dupatta Length2 m - 2.5 m",
+        "Blouse Length": "0.8 m",
+        "Dupatta Length": "2 m - 2.5 m",
+        "Fabric Care": "Dry Clean Only",
+        "Brand": "Fabcartz",
+        "Ideal For": "Women",
+        "Occasion": "Casual, Wedding, Party & Festive, Wedding & Festive",
+        "Lehenga Fabric": "Art Silk",
+        "Choli Fabric": "Silk",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Neck": "V-Neck",
+        "Sleeve": "Half Sleeve",
+        "Embroidered": "Yes",
+        "Dupatta": "Yes",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Self Design",
+        "Sales Package": "1 Unstitch Lehenga, 1 Unstitched Blouse, 1 Dupatta",
+        "Blouse Pattern": "Embroidered",
+        "Blouse Stitch Type": "Unstitched Blouse",
+        "Blouse Type": "Traditional",
+        "Blouse Work": "Sequins",
+        "Color": "Yellow",
+        "Brand Color": "Yellow",
+        "Dupatta Pattern": "Embroidered",
+        "Size": "Free"
+      }
+    }
+  }
+}

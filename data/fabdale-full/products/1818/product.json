@@ -1,0 +1,151 @@
+{
+  "product_id": "1818",
+  "sku": "Fab-Lehenga-KDRF-018W",
+  "product": {
+    "name": "Kezel A-Line Lehenga Choli",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/kedar-fab-printed-semi-stitched-lehenga-choli/p/itm4f675d7da2476?pid=LCHGNEGF8PHGHPUF&otracker=wishlist&lid=LSTLCHGNEGF8PHGHPUFTMDWJK&fm=organic&iid=d5ba5f3b-a4ca-48e1-8dab-5f143bf113a6.LCHGNEGF8PHGHPUF.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=j4pjpojij40000001757657986076"
+  },
+  "source_bundle": {
+    "key": "pid-LCHGNEGF8PHGHPUF",
+    "path": "../../sources/pid-LCHGNEGF8PHGHPUF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kedar-fab-printed-semi-stitched-lehenga-choli/p/itm4f675d7da2476?pid=LCHGNEGF8PHGHPUF&otracker=wishlist&lid=LSTLCHGNEGF8PHGHPUFTMDWJK&fm=organic&iid=d5ba5f3b-a4ca-48e1-8dab-5f143bf113a6.LCHGNEGF8PHGHPUF.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=j4pjpojij40000001757657986076",
+    "scraped_at": "2026-08-13T07:25:45.419Z",
+    "final_url": "https://www.flipkart.com/kedar-fab-printed-semi-stitched-lehenga-choli/p/itm4f675d7da2476?pid=LCHGNEGF8PHGHPUF&otracker=wishlist&lid=LSTLCHGNEGF8PHGHPUFTMDWJK&fm=organic&iid=d5ba5f3b-a4ca-48e1-8dab-5f143bf113a6.LCHGNEGF8PHGHPUF.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=j4pjpojij40000001757657986076"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:25:50.813Z"
+  },
+  "content": {
+    "title": "Kedar Fab Printed Semi Stitched Lehenga Choli",
+    "short_description": "Kedar Fab Printed Semi Stitched Lehenga Choli - Buy Kedar Fab Printed Semi Stitched Lehenga Choli For Only Rs. 1549.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Kedar Fab Printed Semi Stitched Lehenga Choli - Buy Kedar Fab Printed Semi Stitched Lehenga Choli For Only Rs. 1549.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "5b6dddc684ddb0718784a9b4",
+      "path": "media/images/5b6dddc684ddb0718784a9b4/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/f/o/free-sleeveless-drimcool-legcayethnic-original-imah8zzzhfe6tq6t.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/f/o/free-sleeveless-drimcool-legcayethnic-original-imah8zzzhfe6tq6t.jpeg?q=100",
+        "local_path": "../../media/images/5b6dddc684ddb0718784a9b4/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/x/f/free-sleeveless-drimcool-legcayethnic-original-imah8zzzqxdkx5ma.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/x/f/free-sleeveless-drimcool-legcayethnic-original-imah8zzzqxdkx5ma.jpeg?q=100",
+        "local_path": "../../media/images/5b6dddc684ddb0718784a9b4/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Kedar Fab Printed Semi Stitched Lehenga Choli",
+      "description": "Kedar Fab Printed Semi Stitched Lehenga Choli - Buy Kedar Fab Printed Semi Stitched Lehenga Choli For Only Rs. 1549.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/f/o/free-sleeveless-drimcool-legcayethnic-original-imah8zzzhfe6tq6t.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/x/f/free-sleeveless-drimcool-legcayethnic-original-imah8zzzqxdkx5ma.jpeg?q=70"
+      ],
+      "sku": "LCHGNEGF8PHGHPUF",
+      "color": "White",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 71,
+        "ratingCount": 1005,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Kedar Fab",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 578,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-07",
+          "reviewBody": "I just loved it ❤✨",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-06",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Anamika Ghanekar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-04-15",
+          "reviewBody": "It's nice to wear nd good fabric in this price. I'm happy to have this . Thank you Flipkart 🤟",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

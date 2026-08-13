@@ -1,0 +1,44 @@
+{
+  "key": "75c240dd02ab869f40294a06",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T08:50:04.357Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/t/e/free-banarasi-avantika-fashion-unstitched-resized-original-imahftftymxg5vxn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/t/e/free-banarasi-avantika-fashion-unstitched-resized-original-imahftftymxg5vxn.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/7/v/free-banarasi-avantika-fashion-unstitched-original-imahftfteqsgtr6z.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/7/v/free-banarasi-avantika-fashion-unstitched-original-imahftfteqsgtr6z.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/z/l/4/free-banarasi-avantika-fashion-unstitched-original-imahftftweazzabh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/z/l/4/free-banarasi-avantika-fashion-unstitched-original-imahftftweazzabh.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/k/c/f/free-banarasi-avantika-fashion-unstitched-original-imahftftszp6d4n9.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/k/c/f/free-banarasi-avantika-fashion-unstitched-original-imahftftszp6d4n9.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/e/r/8/free-kanjivaram-avantika-fashion-unstitched-original-imahftfs4tzhvz2z.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/e/r/8/free-kanjivaram-avantika-fashion-unstitched-original-imahftfs4tzhvz2z.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

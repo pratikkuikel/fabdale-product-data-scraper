@@ -1,0 +1,148 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/piludi-women-kurti-palazzo-dupatta-set/p/itmdc1302188ce6d?pid=ETHH7X5BHPGFXGUG&marketplace=FLIPKART&lid=LSTETHH7X5BHPGFXGUGDLMLCI&swatchAttr=size&pageUID=1772639235623",
+    "scraped_at": "2026-08-12T11:04:07.603Z",
+    "final_url": "https://www.flipkart.com/piludi-women-kurti-palazzo-dupatta-set/p/itmdc1302188ce6d?pid=ETHH7X5BHPGFXGUG&marketplace=FLIPKART&lid=LSTETHH7X5BHPGFXGUGDLMLCI&swatchAttr=size&pageUID=1772639235623"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:04:16.727Z"
+  },
+  "content": {
+    "title": "PILUDI Women Kurti Palazzo Dupatta Set",
+    "short_description": "PILUDI Women Kurti Palazzo Dupatta Set - Buy PILUDI Women Kurti Palazzo Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PILUDI Women Kurti Palazzo Dupatta Set - Buy PILUDI Women Kurti Palazzo Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/h/d/l-sw-krishna-piludi-resized-original-imah7x5augvyaxxd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/h/d/l-sw-krishna-piludi-resized-original-imah7x5augvyaxxd.jpeg?q=100",
+        "local_path": "../../media/images/8081915d35ce6bb59bfdc5fd/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/k/f/xxl-sw-krishna-piludi-original-imahbyecvyhhjq2e.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/k/f/xxl-sw-krishna-piludi-original-imahbyecvyhhjq2e.jpeg?q=100",
+        "local_path": "../../media/images/8081915d35ce6bb59bfdc5fd/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/l/k/xxl-sw-krishna-piludi-original-imahbyecrrkkwvxn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/l/k/xxl-sw-krishna-piludi-original-imahbyecrrkkwvxn.jpeg?q=100",
+        "local_path": "../../media/images/8081915d35ce6bb59bfdc5fd/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PILUDI Women Kurti Palazzo Dupatta Set",
+      "description": "PILUDI Women Kurti Palazzo Dupatta Set - Buy PILUDI Women Kurti Palazzo Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/h/d/l-sw-krishna-piludi-resized-original-imah7x5augvyaxxd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/k/f/xxl-sw-krishna-piludi-original-imahbyecvyhhjq2e.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/l/k/xxl-sw-krishna-piludi-original-imahbyecrrkkwvxn.jpeg?q=70"
+      ],
+      "sku": "ETHH7X5BHPGFXGUG",
+      "color": "Brown",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.5,
+        "reviewCount": 47,
+        "ratingCount": 332,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PILUDI",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 649,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Vikram Saini",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-10",
+          "reviewBody": "Very elegant and comfortable.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Bajrang meena",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-10",
+          "reviewBody": "Beautiful design and great quality.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Harsha M",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-14",
+          "reviewBody": "Suit set is just awesome. Highly recommended.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "8081915d35ce6bb59bfdc5fd",
+      "path": "media/images/8081915d35ce6bb59bfdc5fd/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

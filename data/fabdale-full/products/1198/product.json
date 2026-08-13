@@ -1,0 +1,179 @@
+{
+  "product_id": "1198",
+  "sku": "Fab-Salwar-DVST-007PK-XXL",
+  "product": {
+    "name": "Divashree Cotton Blend Straight Salwar Suit Set",
+    "parent_id": "5213",
+    "notes": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itm96a6a00053b1e?pid=ETHH8FGQE2HAGRFE&lid=LSTETHH8FGQE2HAGRFEVGYG2M&marketplace=FLIPKART&sattr%5B%5D=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH8FGQE2HAGRFE",
+    "path": "../../sources/pid-ETHH8FGQE2HAGRFE/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itm96a6a00053b1e?pid=ETHH8FGQE2HAGRFE&lid=LSTETHH8FGQE2HAGRFEVGYG2M&marketplace=FLIPKART&sattr%5B%5D=color&st=color",
+    "scraped_at": "2026-08-12T11:55:23.166Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itm96a6a00053b1e?pid=ETHH8FGQE2HAGRFE&lid=LSTETHH8FGQE2HAGRFEVGYG2M&marketplace=FLIPKART&sattr%5B%5D=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:56:04.740Z"
+  },
+  "content": {
+    "title": "Divastri Women Cotton Blend Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Cotton Blend\nPattern: Embroidered\nFabricCotton Blend: PatternEmbroidered",
+    "description": "In the Box\nItems Included1 KURTA, 1 PANT, 1 DUPATTA",
+    "specifications": {
+      "FabricCotton Blend": "PatternEmbroidered",
+      "Fabric": "Cotton Blend",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "6d122f0d8f6f9f4aae35c01a",
+      "path": "media/images/6d122f0d8f6f9f4aae35c01a/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/n/v/v/-original-imahhm2n7bwj7pgd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/n/v/v/-original-imahhm2n7bwj7pgd.jpeg?q=100",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/t/q/9/-original-imahhm2mtwzp6hsu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/t/q/9/-original-imahhm2mtwzp6hsu.jpeg?q=100",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/q/h/e/-original-imahhm2mn9zhkyc4.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/q/h/e/-original-imahhm2mn9zhkyc4.jpeg?q=100",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_3d0f488cc25b4df4a98e89bb4f7c12b9.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_3d0f488cc25b4df4a98e89bb4f7c12b9.jpg?q=80",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_quq1u9t1.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_quq1u9t1.jpeg?q=80",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_ruuo8q9q.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_ruuo8q9q.jpeg?q=80",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_56c4175ddaa1423b9a617dd1d2eb27cc.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_56c4175ddaa1423b9a617dd1d2eb27cc.jpg?q=80",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f880b276f862474eb298dc2e7f728974.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f880b276f862474eb298dc2e7f728974.jpg?q=80",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/h/a/n/xl-majisha-green-03-jashoda-fashion-original-imahng3mgkskmbtx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/h/a/n/xl-majisha-green-03-jashoda-fashion-original-imahng3mgkskmbtx.jpeg?q=100",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/1/k/a/l-gb-aa-01-g-bluxe-resized-original-imagmf4xdvrzpjqy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/1/k/a/l-gb-aa-01-g-bluxe-resized-original-imagmf4xdvrzpjqy.jpeg?q=100",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/n/n/n/l-women-kurts-set-1049-virsa-fashion-original-imahpsnyepbgahnt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/n/n/n/l-women-kurts-set-1049-virsa-fashion-original-imahpsnyepbgahnt.jpeg?q=100",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/b/i/2/l-emb-duppatta-pair-sarthak-original-imahgmzsqn76vtp5.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/b/i/2/l-emb-duppatta-pair-sarthak-original-imahgmzsqn76vtp5.jpeg?q=100",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/9/k/m/s-cerulean-magic-suit-tf-trijal-fab-original-imahhfaewdz6j6ua.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/9/k/m/s-cerulean-magic-suit-tf-trijal-fab-original-imahhfaewdz6j6ua.jpeg?q=100",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/t/s/m/3xl-kurtaset-sb-exim-original-imahzsq4zgygg7sq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/t/s/m/3xl-kurtaset-sb-exim-original-imahzsq4zgygg7sq.jpeg?q=100",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/e/f/t/m-women-printed-cotton-kurta-set-with-pant-sadya-attire-original-imahh7ds6gwxbrus.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/e/f/t/m-women-printed-cotton-kurta-set-with-pant-sadya-attire-original-imahh7ds6gwxbrus.jpeg?q=100",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/d/i/u/m-zivara-rust-emb01-zivaraethnic-original-imahn93wwuxgfcfh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/d/i/u/m-zivara-rust-emb01-zivaraethnic-original-imahn93wwuxgfcfh.jpeg?q=100",
+        "local_path": "../../media/images/6d122f0d8f6f9f4aae35c01a/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "In the Box",
+          "body": "Items Included1 KURTA, 1 PANT, 1 DUPATTA"
+        }
+      ],
+      "product_highlights": {
+        "FabricCotton Blend": "PatternEmbroidered",
+        "Fabric": "Cotton Blend",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source_key": "pid-DREGQGNYAUWTMYAN",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "411",
+    "5115",
+    "7097",
+    "7098",
+    "7099",
+    "7100",
+    "7101"
+  ],
+  "source_path": "sources/pid-DREGQGNYAUWTMYAN/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T08:44:18.391Z",
+  "completed_at": "2026-08-12T08:44:29.258Z"
+}

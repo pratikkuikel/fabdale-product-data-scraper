@@ -1,0 +1,168 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/piludi-women-kurti-pant-attached-dupatta-set/p/itm22fbeba218d7a?pid=ETHH84XSJ27PSFUY&marketplace=FLIPKART&lid=LSTETHH84XSJ27PSFUYBFPOYV&swatchAttr=size&pageUID=1772442819682",
+    "scraped_at": "2026-08-12T10:57:41.043Z",
+    "final_url": "https://www.flipkart.com/piludi-women-kurti-pant-attached-dupatta-set/p/itm22fbeba218d7a?pid=ETHH84XSJ27PSFUY&marketplace=FLIPKART&lid=LSTETHH84XSJ27PSFUYBFPOYV&swatchAttr=size&pageUID=1772442819682"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:57:47.015Z"
+  },
+  "content": {
+    "title": "PILUDI Women Kurti Pant Attached Dupatta Set",
+    "short_description": "PILUDI Women Kurti Pant Attached Dupatta Set - Buy PILUDI Women Kurti Pant Attached Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PILUDI Women Kurti Pant Attached Dupatta Set - Buy PILUDI Women Kurti Pant Attached Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/0/e/l-sw-vrutika-piludi-original-imahm469ae9vqbs4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/0/e/l-sw-vrutika-piludi-original-imahm469ae9vqbs4.jpeg?q=100",
+        "local_path": "../../media/images/9f593cdd7ab0ada993ea7d76/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/c/o/s-sw-vrutika-piludi-original-imahm469zmqspwxd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/c/o/s-sw-vrutika-piludi-original-imahm469zmqspwxd.jpeg?q=100",
+        "local_path": "../../media/images/9f593cdd7ab0ada993ea7d76/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/2/d/s-sw-vrutika-piludi-original-imahm469w9gpta6f.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/2/d/s-sw-vrutika-piludi-original-imahm469w9gpta6f.jpeg?q=100",
+        "local_path": "../../media/images/9f593cdd7ab0ada993ea7d76/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/e/y/s-sw-vrutika-piludi-original-imahm469gdzzr3w8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/e/y/s-sw-vrutika-piludi-original-imahm469gdzzr3w8.jpeg?q=100",
+        "local_path": "../../media/images/9f593cdd7ab0ada993ea7d76/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PILUDI Women Kurti Pant Attached Dupatta Set",
+      "description": "PILUDI Women Kurti Pant Attached Dupatta Set - Buy PILUDI Women Kurti Pant Attached Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/0/e/l-sw-vrutika-piludi-original-imahm469ae9vqbs4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/c/o/s-sw-vrutika-piludi-original-imahm469zmqspwxd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/2/d/s-sw-vrutika-piludi-original-imahm469w9gpta6f.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/e/y/s-sw-vrutika-piludi-original-imahm469gdzzr3w8.jpeg?q=70"
+      ],
+      "sku": "ETHH84XSJ27PSFUY",
+      "color": "Purple",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 106,
+        "ratingCount": 1609,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PILUDI",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 687,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Puja Prasad",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-01",
+          "reviewBody": "Nice.\n product is so good...💜🦋",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "preeti",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-04",
+          "reviewBody": "Very Happy With The Overall Quality.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Ritu Gupta",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-08",
+          "reviewBody": "This us stale basically not dupatta and too slippery",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "9f593cdd7ab0ada993ea7d76",
+      "path": "media/images/9f593cdd7ab0ada993ea7d76/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

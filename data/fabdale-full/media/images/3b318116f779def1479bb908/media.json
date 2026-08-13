@@ -1,0 +1,44 @@
+{
+  "key": "3b318116f779def1479bb908",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T08:47:40.755Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/k/x/u/l-aa-0119-boho-long-dress-aayu-original-imahm9xg2gfavmy2.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/k/x/u/l-aa-0119-boho-long-dress-aayu-original-imahm9xg2gfavmy2.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/3/j/x/m-aa-0119-boho-long-dress-aayu-original-imahm9xgw8nzmbuh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/3/j/x/m-aa-0119-boho-long-dress-aayu-original-imahm9xgw8nzmbuh.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/c/r/l/l-aa-0119-boho-long-dress-aayu-original-imahm9xgrajzytzv.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/c/r/l/l-aa-0119-boho-long-dress-aayu-original-imahm9xgrajzytzv.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/j/r/5/l-aa-0119-boho-long-dress-aayu-original-imahm9xgsgn2sjqp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/j/r/5/l-aa-0119-boho-long-dress-aayu-original-imahm9xgsgn2sjqp.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/b/x/e/l-aa-0119-boho-long-dress-aayu-original-imahm9xf66bqtjjt.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/b/x/e/l-aa-0119-boho-long-dress-aayu-original-imahm9xf66bqtjjt.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

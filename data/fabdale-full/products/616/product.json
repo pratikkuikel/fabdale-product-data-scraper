@@ -1,0 +1,163 @@
+{
+  "product_id": "616",
+  "sku": "Fab-Drsmtl-TAVS-012MR",
+  "product": {
+    "name": "Tavisha Cotton Blend Party Salwar Suit Material",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/tavas-cotton-blend-embroidered-salwar-suit-material/p/itmad87619db6964?pid=FABH927G87DEACGX&lid=LSTFABH927G87DEACGXWSHOCP&marketplace=FLIPKART&q=Tavas&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-FABH927G87DEACGX",
+    "path": "../../sources/pid-FABH927G87DEACGX/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tavas-cotton-blend-embroidered-salwar-suit-material/p/itmad87619db6964?pid=FABH927G87DEACGX&lid=LSTFABH927G87DEACGXWSHOCP&marketplace=FLIPKART&q=Tavas&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:40:45.637Z",
+    "final_url": "https://www.flipkart.com/tavas-cotton-blend-embroidered-salwar-suit-material/p/itmad87619db6964?pid=FABH927G87DEACGX&lid=LSTFABH927G87DEACGXWSHOCP&marketplace=FLIPKART&q=Tavas&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:40:50.140Z"
+  },
+  "content": {
+    "title": "Tavas Cotton Blend Embroidered Salwar Suit Material",
+    "short_description": "Buy Tavas Cotton Blend Embroidered Salwar Suit Material for Rs.2999.0 online. Tavas Cotton Blend Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "description": "Buy Tavas Cotton Blend Embroidered Salwar Suit Material for Rs.2999.0 online. Tavas Cotton Blend Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "184842bd80f7fc2b42c17bf2",
+      "path": "media/images/184842bd80f7fc2b42c17bf2/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/s/b/yes-2-5-m-unstitched-2-2-m-tavas-93-tavas-resized-original-imahcnbn5dyher6x.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/s/b/yes-2-5-m-unstitched-2-2-m-tavas-93-tavas-resized-original-imahcnbn5dyher6x.jpeg?q=100",
+        "local_path": "../../media/images/184842bd80f7fc2b42c17bf2/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/b/0/yes-2-5-m-unstitched-2-2-m-tavas-93-tavas-original-imahcnbn9xfvhczp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/b/0/yes-2-5-m-unstitched-2-2-m-tavas-93-tavas-original-imahcnbn9xfvhczp.jpeg?q=100",
+        "local_path": "../../media/images/184842bd80f7fc2b42c17bf2/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Tavas Cotton Blend Embroidered Salwar Suit Material",
+      "description": "Buy Tavas Cotton Blend Embroidered Salwar Suit Material for Rs.2999.0 online. Tavas Cotton Blend Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/s/b/yes-2-5-m-unstitched-2-2-m-tavas-93-tavas-resized-original-imahcnbn5dyher6x.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/b/0/yes-2-5-m-unstitched-2-2-m-tavas-93-tavas-original-imahcnbn9xfvhczp.jpeg?q=70"
+      ],
+      "sku": "FABH927G87DEACGX",
+      "color": "Red",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 9,
+        "ratingCount": 113,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tavas",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 640,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Anjali Tomar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-07",
+          "reviewBody": "Very nice 🙂",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-22",
+          "reviewBody": "Nice dress",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-18",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

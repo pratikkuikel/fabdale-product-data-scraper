@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itma58a4a22bf25d?pid=ETHH7HVJ6HYZXZJA&marketplace=FLIPKART&lid=LSTETHH7HVJ6HYZXZJAKTF7MO&swatchAttr=size&pageUID=1772787263703",
+    "scraped_at": "2026-08-12T12:42:48.601Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itma58a4a22bf25d?pid=ETHH7HVJ6HYZXZJA&marketplace=FLIPKART&lid=LSTETHH7HVJ6HYZXZJAKTF7MO&swatchAttr=size&pageUID=1772787263703"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 5,
+    "completed_at": "2026-08-12T12:43:30.611Z"
+  },
+  "content": {
+    "title": "Divastri Women Kurta Pant Dupatta Set",
+    "short_description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/r/9/xxl-kurti-set-kurtiset-resized-original-imagn5rgzyg9yyyf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/r/9/xxl-kurti-set-kurtiset-resized-original-imagn5rgzyg9yyyf.jpeg?q=100",
+        "local_path": "../../media/images/5cfa85ea87dfff54be1f95a1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/1/7/xxl-kurti-set-kurtiset-original-imagn5rgj4h3najh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/1/7/xxl-kurti-set-kurtiset-original-imagn5rgj4h3najh.jpeg?q=100",
+        "local_path": "../../media/images/5cfa85ea87dfff54be1f95a1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/9/b/xxl-kurti-set-kurtiset-original-imagn5rg2cyvpjge.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/9/b/xxl-kurti-set-kurtiset-original-imagn5rg2cyvpjge.jpeg?q=100",
+        "local_path": "../../media/images/5cfa85ea87dfff54be1f95a1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/2/u/xxl-kurti-set-kurtiset-original-imagn5rgwk7dnrm4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/2/u/xxl-kurti-set-kurtiset-original-imagn5rgwk7dnrm4.jpeg?q=100",
+        "local_path": "../../media/images/5cfa85ea87dfff54be1f95a1/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/n/i/3xl-dupatta-set-divastri-original-imah7hvjkaxn4dwp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/n/i/3xl-dupatta-set-divastri-original-imah7hvjkaxn4dwp.jpeg?q=100",
+        "local_path": "../../media/images/5cfa85ea87dfff54be1f95a1/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Kurta Pant Dupatta Set",
+      "description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/r/9/xxl-kurti-set-kurtiset-resized-original-imagn5rgzyg9yyyf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/1/7/xxl-kurti-set-kurtiset-original-imagn5rgj4h3najh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/9/b/xxl-kurti-set-kurtiset-original-imagn5rg2cyvpjge.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/2/u/xxl-kurti-set-kurtiset-original-imagn5rgwk7dnrm4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/n/i/3xl-dupatta-set-divastri-original-imah7hvjkaxn4dwp.jpeg?q=70"
+      ],
+      "sku": "ETHH7HVJ6HYZXZJA",
+      "color": "DARK BLUE 3",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 626,
+        "ratingCount": 11618,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 606,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-16",
+          "reviewBody": "Dupatta length is good, material quality good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Priyanka Janawade",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-16",
+          "reviewBody": "Amazing kurti set love it \nColour  quality good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Tabdila Khatun",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-05",
+          "reviewBody": "Nice product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "5cfa85ea87dfff54be1f95a1",
+      "path": "media/images/5cfa85ea87dfff54be1f95a1/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

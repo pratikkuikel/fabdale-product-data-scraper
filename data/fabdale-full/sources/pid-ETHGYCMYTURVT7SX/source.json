@@ -1,0 +1,189 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm6e315bd54e22b?pid=ETHGYCMYTURVT7SX&marketplace=FLIPKART&lid=LSTETHGYCMYTURVT7SXXBT0IU&swatchAttr=size&pageUID=1772869192251",
+    "scraped_at": "2026-08-13T07:19:07.329Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm6e315bd54e22b?pid=ETHGYCMYTURVT7SX&marketplace=FLIPKART&lid=LSTETHGYCMYTURVT7SXXBT0IU&swatchAttr=size&pageUID=1772869192251"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:19:13.076Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Art Silk\nPattern: Embroidered\nFabricArt Silk: PatternEmbroidered",
+    "description": "Elegant Design\nShowcasing intricate embroidery and stylish design, this women’s kurta, pants, and dupatta set exude…\n\nComfortable Fit\nTailored with thoughtfully designed components, this set ensures a stylish and comfortable fit. The …\n\nHigh-quality Fabric\nCrafted from high-quality material, this set ensures durability and a luxurious feel. The fabrics ar…\n\nVersatile Wear\nThanks to its rich and versatile appeal, this set can be a valuable addition to your wardrobe. The e…",
+    "specifications": {
+      "FabricArt Silk": "PatternEmbroidered",
+      "Fabric": "Art Silk",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/x/a/s-rx44-ktd-rosegold-royal-export-original-imagyh5ufsmvv2yw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/x/a/s-rx44-ktd-rosegold-royal-export-original-imagyh5ufsmvv2yw.jpeg?q=100",
+        "local_path": "../../media/images/21959b98361dc37bbb3c1bf9/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/m/l/l-chanderi-dishwa-fashion-original-imagr6rxtyqewyeg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/m/l/l-chanderi-dishwa-fashion-original-imagr6rxtyqewyeg.jpeg?q=100",
+        "local_path": "../../media/images/21959b98361dc37bbb3c1bf9/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/e/9/3xl-rx44-ktd-rosegold-royal-export-original-imagycmykgx8h49g.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/e/9/3xl-rx44-ktd-rosegold-royal-export-original-imagycmykgx8h49g.jpeg?q=100",
+        "local_path": "../../media/images/21959b98361dc37bbb3c1bf9/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/h/m/s-rx44-ktd-rosegold-royal-export-original-imagyh5uxuugfnfg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/h/m/s-rx44-ktd-rosegold-royal-export-original-imagyh5uxuugfnfg.jpeg?q=100",
+        "local_path": "../../media/images/21959b98361dc37bbb3c1bf9/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/f/8/m-9003-lavender-dgstore-original-imagtduqcbqyxpcp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/f/8/m-9003-lavender-dgstore-original-imagtduqcbqyxpcp.jpeg?q=100",
+        "local_path": "../../media/images/21959b98361dc37bbb3c1bf9/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Dupatta Set",
+      "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/x/a/s-rx44-ktd-rosegold-royal-export-original-imagyh5ufsmvv2yw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/m/l/l-chanderi-dishwa-fashion-original-imagr6rxtyqewyeg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/e/9/3xl-rx44-ktd-rosegold-royal-export-original-imagycmykgx8h49g.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/h/m/s-rx44-ktd-rosegold-royal-export-original-imagyh5uxuugfnfg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/f/8/m-9003-lavender-dgstore-original-imagtduqcbqyxpcp.jpeg?q=70"
+      ],
+      "sku": "ETHGYCMYTURVT7SX",
+      "color": "Mauve",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 469,
+        "ratingCount": 5216,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 640,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Muskan Soni",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-27",
+          "reviewBody": "Very beautiful and comfortable , loved the quality best option for wedding or any function",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Anju  Jain",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-08",
+          "reviewBody": "I absolutely loved this kurta pant set\nIt is very beautiful\nIt looks very decent \nThe material is really very good Its super soft \nThe fitting was also proper\nI will definitely recommend you to buy it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "The King",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-10",
+          "reviewBody": "Packaging was good and so as the product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant Design",
+          "body": "Showcasing intricate embroidery and stylish design, this women’s kurta, pants, and dupatta set exude…"
+        },
+        {
+          "heading": "Comfortable Fit",
+          "body": "Tailored with thoughtfully designed components, this set ensures a stylish and comfortable fit. The …"
+        },
+        {
+          "heading": "High-quality Fabric",
+          "body": "Crafted from high-quality material, this set ensures durability and a luxurious feel. The fabrics ar…"
+        },
+        {
+          "heading": "Versatile Wear",
+          "body": "Thanks to its rich and versatile appeal, this set can be a valuable addition to your wardrobe. The e…"
+        }
+      ],
+      "product_highlights": {
+        "FabricArt Silk": "PatternEmbroidered",
+        "Fabric": "Art Silk",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "21959b98361dc37bbb3c1bf9",
+      "path": "media/images/21959b98361dc37bbb3c1bf9/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

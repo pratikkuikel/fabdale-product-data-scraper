@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-ETHHEN9YMHMVJ84R",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "922"
+  ],
+  "source_path": "sources/pid-ETHHEN9YMHMVJ84R/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:10:46.355Z",
+  "completed_at": "2026-08-12T11:11:06.435Z"
+}

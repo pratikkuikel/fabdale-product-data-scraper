@@ -1,0 +1,190 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/sheetal-associates-women-fit-flare-black-white-maxi-full-length-dress/p/itmd31713151d054?pid=DREGMNETQTYYAWMP&marketplace=FLIPKART&lid=LSTDREGMNETQTYYAWMPRWLI52&q=sheetal+associates&fm=search-autosuggest&swatchAttr=size&pageUID=1772428137379",
+    "scraped_at": "2026-08-12T08:39:39.261Z",
+    "final_url": "https://www.flipkart.com/sheetal-associates-women-fit-flare-black-white-maxi-full-length-dress/p/itmd31713151d054?pid=DREGMNETQTYYAWMP&marketplace=FLIPKART&lid=LSTDREGMNETQTYYAWMPRWLI52&q=sheetal+associates&fm=search-autosuggest&swatchAttr=size&pageUID=1772428137379"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:39:44.793Z"
+  },
+  "content": {
+    "title": "Sheetal Associates Women Fit and Flare Black, White Maxi/Full Length Dress",
+    "short_description": "Color: Black, White\nPattern: Printed\nType: Fit and Flare\nSleeve: Bishop Sleeve\nLength: Maxi/Full Length\nSleeve Length: 3/4 Sleeve",
+    "description": "Sheetal Associates Women Fit and Flare Black, White Maxi/Full Length Dress - Buy Sheetal Associates Women Fit and Flare Black, White Maxi/Full Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Color": "Black, White",
+      "Length": "Maxi/Full Length",
+      "Pattern": "Printed",
+      "Type": "Fit and Flare",
+      "Sleeve Length": "3/4 Sleeve",
+      "Sleeve": "Bishop Sleeve"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/5/o/m-6105-sheetal-associates-original-imahhmy8rgpzz36g.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/5/o/m-6105-sheetal-associates-original-imahhmy8rgpzz36g.jpeg?q=100",
+        "local_path": "../../media/images/27db565980e7f544273d6747/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/l/0/f/m-6105-sheetal-associates-original-imahhmy8ymvzmzqg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/l/0/f/m-6105-sheetal-associates-original-imahhmy8ymvzmzqg.jpeg?q=100",
+        "local_path": "../../media/images/27db565980e7f544273d6747/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/o/2/l/m-6105-sheetal-associates-original-imahhmy8dfnkkcmf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/o/2/l/m-6105-sheetal-associates-original-imahhmy8dfnkkcmf.jpeg?q=100",
+        "local_path": "../../media/images/27db565980e7f544273d6747/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/2/x/k/m-6105-sheetal-associates-original-imahhmy8fjcmbw9h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/2/x/k/m-6105-sheetal-associates-original-imahhmy8fjcmbw9h.jpeg?q=100",
+        "local_path": "../../media/images/27db565980e7f544273d6747/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/m/a/f/m-6105-sheetal-associates-original-imahhmy8ejt8wff3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/m/a/f/m-6105-sheetal-associates-original-imahhmy8ejt8wff3.jpeg?q=100",
+        "local_path": "../../media/images/27db565980e7f544273d6747/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Sheetal Associates Women Fit and Flare Black, White Maxi/Full Length Dress",
+      "description": "Sheetal Associates Women Fit and Flare Black, White Maxi/Full Length Dress - Buy Sheetal Associates Women Fit and Flare Black, White Maxi/Full Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/5/o/m-6105-sheetal-associates-original-imahhmy8rgpzz36g.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/l/0/f/m-6105-sheetal-associates-original-imahhmy8ymvzmzqg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/o/2/l/m-6105-sheetal-associates-original-imahhmy8dfnkkcmf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/2/x/k/m-6105-sheetal-associates-original-imahhmy8fjcmbw9h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/m/a/f/m-6105-sheetal-associates-original-imahhmy8ejt8wff3.jpeg?q=70"
+      ],
+      "sku": "DREGMNETQTYYAWMP",
+      "color": "Black1",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 3221,
+        "ratingCount": 49203,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Sheetal Associates",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 290,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Thulasi N",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-22",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Trishagni Majumder",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-08",
+          "reviewBody": "Better than I Expected 💗",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Chandrima Dutta",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-03",
+          "reviewBody": "This drss is soo beautiful😍 thank you flipkart ❣️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Color": "Black, White",
+        "Length": "Maxi/Full Length",
+        "Pattern": "Printed",
+        "Type": "Fit and Flare",
+        "Sleeve Length": "3/4 Sleeve",
+        "Sleeve": "Bishop Sleeve"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "27db565980e7f544273d6747",
+      "path": "media/images/27db565980e7f544273d6747/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

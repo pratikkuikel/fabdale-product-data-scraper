@@ -1,0 +1,214 @@
+{
+  "product_id": "429",
+  "sku": "Fab-Dress-LNBL-001BK-L",
+  "product": {
+    "name": "Lexora Lycra Bodycon Midi Dress",
+    "parent_id": "5118",
+    "notes": "https://www.flipkart.com/london-belly-women-bodycon-black-midi-calf-length-dress/p/itm3334f9a894f69?pid=DREH4NG8QZKF4SGZ&marketplace=FLIPKART&lid=LSTDREH4NG8QZKF4SGZD6UGSR&q=zwerlon+dress&fm=search-autosuggest&swatchAttr=size&pageUID=1772432077003"
+  },
+  "source_bundle": {
+    "key": "pid-DREH4NG8QZKF4SGZ",
+    "path": "../../sources/pid-DREH4NG8QZKF4SGZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/london-belly-women-bodycon-black-midi-calf-length-dress/p/itm3334f9a894f69?pid=DREH4NG8QZKF4SGZ&marketplace=FLIPKART&lid=LSTDREH4NG8QZKF4SGZD6UGSR&q=zwerlon+dress&fm=search-autosuggest&swatchAttr=size&pageUID=1772432077003",
+    "scraped_at": "2026-08-12T08:47:06.947Z",
+    "final_url": "https://www.flipkart.com/london-belly-women-bodycon-black-midi-calf-length-dress/p/itm3334f9a894f69?pid=DREH4NG8QZKF4SGZ&marketplace=FLIPKART&lid=LSTDREH4NG8QZKF4SGZD6UGSR&q=zwerlon+dress&fm=search-autosuggest&swatchAttr=size&pageUID=1772432077003"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:47:28.686Z"
+  },
+  "content": {
+    "title": "london belly Women Bodycon Black Midi/Calf Length Dress",
+    "short_description": "Color: Black\nPattern: Solid\nType: Bodycon\nSleeve: No Sleeves\nLength: Midi/Calf Length\nSleeve Length: Full Sleeve",
+    "description": "Bodycon Style in Midi Length\nThis dress features a bodycon silhouette, hugging your curves elegantly. The midi length adds a touc…\n\nSolid Pattern in Black\nThe solid black color exudes timeless elegance and versatility. This classic hue allows for easy sty…\n\nSweetheart Neckline\nThe sweetheart neckline adds a romantic touch to the dress, framing your decolletage beautifully. Th…\n\nCotton Lycra Fabric\nCrafted from cotton lycra, this dress offers a comfortable and stretchy fit. The fabric blend ensure…\n\nEasy Care\nMachine wash allowed for convenient maintenance. This dress is designed for hassle-free care, allowi…",
+    "specifications": {
+      "Color": "Black",
+      "Length": "Midi/Calf Length",
+      "Pattern": "Solid",
+      "Type": "Bodycon",
+      "Sleeve Length": "Full Sleeve",
+      "Sleeve": "No Sleeves"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bda850e7be628cf9ed1658f8",
+      "path": "media/images/bda850e7be628cf9ed1658f8/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/e/r/f/s-41-black-london-belly-original-imahyzzzk62kgfwe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/e/r/f/s-41-black-london-belly-original-imahyzzzk62kgfwe.jpeg?q=100",
+        "local_path": "../../media/images/bda850e7be628cf9ed1658f8/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/p/p/e/xs-41-bodycon-london-belly-original-imah4ng7mcybzzpb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/p/p/e/xs-41-bodycon-london-belly-original-imah4ng7mcybzzpb.jpeg?q=100",
+        "local_path": "../../media/images/bda850e7be628cf9ed1658f8/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/k/j/7/xs-41-bodycon-london-belly-original-imah4ng7ycaujwpr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/k/j/7/xs-41-bodycon-london-belly-original-imah4ng7ycaujwpr.jpeg?q=100",
+        "local_path": "../../media/images/bda850e7be628cf9ed1658f8/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/7/y/v/xs-41-bodycon-london-belly-original-imah4ng74vh65fdc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/7/y/v/xs-41-bodycon-london-belly-original-imah4ng74vh65fdc.jpeg?q=100",
+        "local_path": "../../media/images/bda850e7be628cf9ed1658f8/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "london belly Women Bodycon Black Midi/Calf Length Dress",
+      "description": "london belly Women Bodycon Black Midi/Calf Length Dress - Buy london belly Women Bodycon Black Midi/Calf Length Dress For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/e/r/f/s-41-black-london-belly-original-imahyzzzk62kgfwe.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/p/p/e/xs-41-bodycon-london-belly-original-imah4ng7mcybzzpb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/k/j/7/xs-41-bodycon-london-belly-original-imah4ng7ycaujwpr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/7/y/v/xs-41-bodycon-london-belly-original-imah4ng74vh65fdc.jpeg?q=70"
+      ],
+      "sku": "DREH4NG8QZKF4SGZ",
+      "color": "BLACK",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 31,
+        "ratingCount": 607,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "london belly",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 312,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-17",
+          "reviewBody": "Its a Realy nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-03-03",
+          "reviewBody": "I like black dress",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Mamta  Sinha",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-03",
+          "reviewBody": "So beautiful 😍 dress",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Bodycon Style in Midi Length",
+          "body": "This dress features a bodycon silhouette, hugging your curves elegantly. The midi length adds a touc…"
+        },
+        {
+          "heading": "Solid Pattern in Black",
+          "body": "The solid black color exudes timeless elegance and versatility. This classic hue allows for easy sty…"
+        },
+        {
+          "heading": "Sweetheart Neckline",
+          "body": "The sweetheart neckline adds a romantic touch to the dress, framing your decolletage beautifully. Th…"
+        },
+        {
+          "heading": "Cotton Lycra Fabric",
+          "body": "Crafted from cotton lycra, this dress offers a comfortable and stretchy fit. The fabric blend ensure…"
+        },
+        {
+          "heading": "Easy Care",
+          "body": "Machine wash allowed for convenient maintenance. This dress is designed for hassle-free care, allowi…"
+        }
+      ],
+      "product_highlights": {
+        "Color": "Black",
+        "Length": "Midi/Calf Length",
+        "Pattern": "Solid",
+        "Type": "Bodycon",
+        "Sleeve Length": "Full Sleeve",
+        "Sleeve": "No Sleeves"
+      },
+      "specifications": {}
+    }
+  }
+}

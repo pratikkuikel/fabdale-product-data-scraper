@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KTAHE3VFEXW3HNS3",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "1117"
+  ],
+  "source_path": "sources/pid-KTAHE3VFEXW3HNS3/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:37:27.568Z",
+  "completed_at": "2026-08-12T11:37:36.086Z"
+}

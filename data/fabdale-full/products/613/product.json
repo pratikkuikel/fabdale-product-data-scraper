@@ -1,0 +1,208 @@
+{
+  "product_id": "613",
+  "sku": "Fab-Drsmtl-TAVS-009BL",
+  "product": {
+    "name": "Tavisha Embroidered Chiffon Festive Salwar Suit Material",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/tavas-chiffon-embroidered-salwar-suit-material/p/itm70d47b1ceec82?pid=FABHEYHXTGQHZY8E&lid=LSTFABHEYHXTGQHZY8E4DIGWO&marketplace=FLIPKART&q=Tavas&store=clo%2Fqfi%2Fxcx%2Fms4&srno=s_2_43&otracker=search&otracker1=search&fm=Search&iid=fd18e1cd-a35b-4741-b2c4-aa49e82cb144.FABHEYHXTGQHZY8E.SEARCH&ppt=sp&ppn=sp&ssid=kgyfhd77tc0000001761155640074&qH=0271b69d8fb131f0"
+  },
+  "source_bundle": {
+    "key": "pid-FABHEYHXTGQHZY8E",
+    "path": "../../sources/pid-FABHEYHXTGQHZY8E/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tavas-chiffon-embroidered-salwar-suit-material/p/itm70d47b1ceec82?pid=FABHEYHXTGQHZY8E&lid=LSTFABHEYHXTGQHZY8E4DIGWO&marketplace=FLIPKART&q=Tavas&store=clo%2Fqfi%2Fxcx%2Fms4&srno=s_2_43&otracker=search&otracker1=search&fm=Search&iid=fd18e1cd-a35b-4741-b2c4-aa49e82cb144.FABHEYHXTGQHZY8E.SEARCH&ppt=sp&ppn=sp&ssid=kgyfhd77tc0000001761155640074&qH=0271b69d8fb131f0",
+    "scraped_at": "2026-08-12T10:40:20.553Z",
+    "final_url": "https://www.flipkart.com/tavas-chiffon-embroidered-salwar-suit-material/p/itm70d47b1ceec82?pid=FABHEYHXTGQHZY8E&lid=LSTFABHEYHXTGQHZY8E4DIGWO&marketplace=FLIPKART&q=Tavas&store=clo%2Fqfi%2Fxcx%2Fms4&srno=s_2_43&otracker=search&otracker1=search&fm=Search&iid=fd18e1cd-a35b-4741-b2c4-aa49e82cb144.FABHEYHXTGQHZY8E.SEARCH&ppt=sp&ppn=sp&ssid=kgyfhd77tc0000001761155640074&qH=0271b69d8fb131f0"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:40:29.971Z"
+  },
+  "content": {
+    "title": "Tavas Chiffon Embroidered Salwar Suit Material",
+    "short_description": "Fabric: Chiffon\nPattern: Embroidered\nType: Salwar Suit Material\nSales Package: 1 Top 1 Bottom 1 Dupatta\nBottom Length: 3 m\nTop Length: 2 m\nStitching Type: Unstitched",
+    "description": "Other Details\nTavas SeaGreen Shimmer Dress: Embroidered",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 Top 1 Bottom 1 Dupatta",
+      "Bottom Length": "3 m",
+      "Top Length": "2 m",
+      "Fabric": "Chiffon",
+      "Pattern": "Embroidered",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ddffa9106c0fc6fa856baf94",
+      "path": "media/images/ddffa9106c0fc6fa856baf94/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/e/9/h/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-resized-original-imaheyhc4gnqhmh5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/e/9/h/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-resized-original-imaheyhc4gnqhmh5.jpeg?q=100",
+        "local_path": "../../media/images/ddffa9106c0fc6fa856baf94/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/x/v/l/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-original-imaheyhcgzuxdryz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/x/v/l/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-original-imaheyhcgzuxdryz.jpeg?q=100",
+        "local_path": "../../media/images/ddffa9106c0fc6fa856baf94/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/7/o/7/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-original-imaheyhcysfyakk4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/7/o/7/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-original-imaheyhcysfyakk4.jpeg?q=100",
+        "local_path": "../../media/images/ddffa9106c0fc6fa856baf94/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/y/2/w/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-original-imaheyhcc7frxh7h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/y/2/w/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-original-imaheyhcc7frxh7h.jpeg?q=100",
+        "local_path": "../../media/images/ddffa9106c0fc6fa856baf94/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/c/c/d/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-original-imaheyhc7zhkgfdf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/c/c/d/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-original-imaheyhc7zhkgfdf.jpeg?q=100",
+        "local_path": "../../media/images/ddffa9106c0fc6fa856baf94/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Tavas Chiffon Embroidered Salwar Suit Material",
+      "description": "Buy Tavas Chiffon Embroidered Salwar Suit Material for Rs.2999.0 online. Tavas Chiffon Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/e/9/h/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-resized-original-imaheyhc4gnqhmh5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/x/v/l/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-original-imaheyhcgzuxdryz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/7/o/7/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-original-imaheyhcysfyakk4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/y/2/w/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-original-imaheyhcc7frxh7h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/c/c/d/yes-2-m-unstitched-2-5-m-tavas-108-09-blue-fs-tavas-original-imaheyhc7zhkgfdf.jpeg?q=70"
+      ],
+      "sku": "FABHEYHXTGQHZY8E",
+      "color": "DarkBlue",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 3.6,
+        "reviewCount": 5,
+        "ratingCount": 27,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tavas",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 738,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-03-27",
+          "reviewBody": "Fabric quality is not good",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Abbas UM",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-15",
+          "reviewBody": "Very good, can order, definitely value for the money",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-11-28",
+          "reviewBody": "Very nice 👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Other Details",
+          "body": "Tavas SeaGreen Shimmer Dress: Embroidered"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 Top 1 Bottom 1 Dupatta",
+        "Bottom Length": "3 m",
+        "Top Length": "2 m",
+        "Fabric": "Chiffon",
+        "Pattern": "Embroidered",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  }
+}

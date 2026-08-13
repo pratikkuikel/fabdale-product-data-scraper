@@ -1,0 +1,167 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-printed-casual-white-light-blue-shirt/p/itmfafbcc453d4d7?pid=SHTGZ9RT9XCSYXNQ&marketplace=FLIPKART&lid=LSTSHTGZ9RT9XCSYXNQYZXK72&swatchAttr=size&pageUID=1773309512506",
+    "scraped_at": "2026-08-13T07:58:27.348Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-printed-casual-white-light-blue-shirt/p/itmfafbcc453d4d7?pid=SHTGZ9RT9XCSYXNQ&marketplace=FLIPKART&lid=LSTSHTGZ9RT9XCSYXNQYZXK72&swatchAttr=size&pageUID=1773309512506"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:58:39.799Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Printed Casual White, Light Blue Shirt",
+    "short_description": "Color: White, Light Blue\nFabric: Viscose Rayon\nPattern: Printed\nSleeve: Half Sleeve\nPack of: 1\nCollar: Spread",
+    "description": "Classic Spread Collar\nFeaturing a classic spread collar, this shirt exudes a timeless and sophisticated charm. The collar …\n\nRegular Fit\nDesigned with a regular fit, this shirt offers a comfortable and flattering silhouette that suits mo…\n\nSoft and Breathable Fabric\nCrafted from high-quality viscose rayon fabric, this shirt offers a soft and luxurious feel against …",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Viscose Rayon",
+      "Sleeve": "Half Sleeve",
+      "Pattern": "Printed",
+      "Collar": "Spread",
+      "Color": "White, Light Blue"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/d/x/l-mhs-101-sky-metronaut-original-imahbkct3frj8pzh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/d/x/l-mhs-101-sky-metronaut-original-imahbkct3frj8pzh.jpeg?q=100",
+        "local_path": "../../media/images/e3344e183c69455ad2feea35/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/k/a/m-mhs-101-sky-metronaut-original-imahbykjf26yxztc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/k/a/m-mhs-101-sky-metronaut-original-imahbykjf26yxztc.jpeg?q=100",
+        "local_path": "../../media/images/e3344e183c69455ad2feea35/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Printed Casual White, Light Blue Shirt",
+      "description": "METRONAUT Men Printed Casual White, Light Blue Shirt - Buy METRONAUT Men Printed Casual White, Light Blue Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/d/x/l-mhs-101-sky-metronaut-original-imahbkct3frj8pzh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/k/a/m-mhs-101-sky-metronaut-original-imahbykjf26yxztc.jpeg?q=70"
+      ],
+      "sku": "SHTGZ9RT9XCSYXNQ",
+      "color": "Sky",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 179,
+        "ratingCount": 4284,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 263,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-04",
+          "reviewBody": "Good product for summer 🌞🌞",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Ranjay Kumar Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-12",
+          "reviewBody": "Super",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Sakaldeep kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-14",
+          "reviewBody": "Very good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Spread Collar",
+          "body": "Featuring a classic spread collar, this shirt exudes a timeless and sophisticated charm. The collar …"
+        },
+        {
+          "heading": "Regular Fit",
+          "body": "Designed with a regular fit, this shirt offers a comfortable and flattering silhouette that suits mo…"
+        },
+        {
+          "heading": "Soft and Breathable Fabric",
+          "body": "Crafted from high-quality viscose rayon fabric, this shirt offers a soft and luxurious feel against …"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Viscose Rayon",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Printed",
+        "Collar": "Spread",
+        "Color": "White, Light Blue"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e3344e183c69455ad2feea35",
+      "path": "media/images/e3344e183c69455ad2feea35/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "key": "2e5ef430b43694c5a7e02def",
+  "type": "videos",
+  "image_quality": null,
+  "download_media": true,
+  "created_at": "2026-08-12T08:49:31.007Z",
+  "items": [
+    {
+      "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/SELLER_CATALOG/CNDUOhdPVmTqaYWdW3Qg_LKA/manifest.m3u8",
+      "local_path": null,
+      "downloaded": false,
+      "reason": "streaming_manifest"
+    },
+    {
+      "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNqUxihOsORxuHhQngSuFw5A/manifest.m3u8",
+      "local_path": null,
+      "downloaded": false,
+      "reason": "streaming_manifest"
+    }
+  ]
+}

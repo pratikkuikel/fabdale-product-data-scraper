@@ -1,0 +1,44 @@
+{
+  "key": "5f61ad56b93b556c1048dad7",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T15:51:09.110Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/7/x/y/xl-rx201-mgbotlgrn-skd-royal-export-original-imah4kg6cxzcgghz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/7/x/y/xl-rx201-mgbotlgrn-skd-royal-export-original-imah4kg6cxzcgghz.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/a/a/xl-rx201-mgbotlgrn-skd-royal-export-original-imah4kg6f5gsuyeb.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/a/a/xl-rx201-mgbotlgrn-skd-royal-export-original-imah4kg6f5gsuyeb.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/o/2/xl-rx201-mgbotlgrn-skd-royal-export-original-imah4kg67p7azgnz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/o/2/xl-rx201-mgbotlgrn-skd-royal-export-original-imah4kg67p7azgnz.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/8/q/s/xl-rx201-mgbotlgrn-skd-royal-export-original-imah4kg6rgymawzd.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/8/q/s/xl-rx201-mgbotlgrn-skd-royal-export-original-imah4kg6rgymawzd.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/a/a/xl-rx201-mgbotlgrn-skd-royal-export-original-imah4kg6ex2zrng8.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/a/a/xl-rx201-mgbotlgrn-skd-royal-export-original-imah4kg6ex2zrng8.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

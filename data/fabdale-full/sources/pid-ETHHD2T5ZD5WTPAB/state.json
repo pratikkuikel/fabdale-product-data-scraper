@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-ETHHD2T5ZD5WTPAB",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1736"
+  ],
+  "source_path": "sources/pid-ETHHD2T5ZD5WTPAB/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T16:28:53.598Z",
+  "completed_at": "2026-08-12T16:29:27.955Z"
+}

@@ -1,0 +1,167 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/aurelia-women-embroidered-straight-kurta/p/itm4388e5e7a55cf?pid=KTAG9WNTHZBHSNB4&marketplace=FLIPKART&lid=LSTKTAG9WNTHZBHSNB4KDLVWI&swatchAttr=size",
+    "scraped_at": "2026-08-12T10:43:56.772Z",
+    "final_url": "https://www.flipkart.com/aurelia-women-embroidered-straight-kurta/p/itm4388e5e7a55cf?pid=KTAG9WNTHZBHSNB4&marketplace=FLIPKART&lid=LSTKTAG9WNTHZBHSNB4KDLVWI&swatchAttr=size"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:44:03.971Z"
+  },
+  "content": {
+    "title": "Aurelia Women Embroidered Straight Kurta",
+    "short_description": "Color: Grey\nFabric: Acrylic Blend\nPattern: Embroidered\nType: Straight\nFit: Regular Fit",
+    "description": "Elegant Embroidered Design\nAdd a touch of elegance to your wardrobe with this women's kurta featuring a stunning embroidered pa…\n\nComfortable Acrylic Blend Fabric\nCrafted from a high-quality acrylic blend fabric, this kurta offers both comfort and durability. The…\n\nVersatile Straight Fit\nDesigned with a straight fit, this kurta offers a flattering silhouette that suits all body types. T…\n\nClassic Round Neck\nFeaturing a classic round neck, this kurta exudes simplicity and elegance. The round neck adds a tou…\n\nEasy Care and Maintenance\nMaintaining this kurta is a breeze, thanks to its gentle machine wash fabric care instructions. Simp…",
+    "specifications": {
+      "Pattern": "Embroidered",
+      "Type": "Straight",
+      "Fabric": "Acrylic Blend",
+      "Fit": "Regular Fit",
+      "Color": "Grey"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/r/t/d/3xl-21noa12775-503916-aurelia-original-imag9wntqhjt3nr5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/r/t/d/3xl-21noa12775-503916-aurelia-original-imag9wntqhjt3nr5.jpeg?q=100",
+        "local_path": "../../media/images/b96761b3ed6cad583bc8d8b4/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/i/c/y/3xl-21noa12775-503916-aurelia-original-imag9wntq3ctghb9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/i/c/y/3xl-21noa12775-503916-aurelia-original-imag9wntq3ctghb9.jpeg?q=100",
+        "local_path": "../../media/images/b96761b3ed6cad583bc8d8b4/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/r/3/o/3xl-21noa12775-503916-aurelia-original-imag9wntw7fuynka.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/r/3/o/3xl-21noa12775-503916-aurelia-original-imag9wntw7fuynka.jpeg?q=100",
+        "local_path": "../../media/images/b96761b3ed6cad583bc8d8b4/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/w/4/9/3xl-21noa12775-503916-aurelia-original-imag9wnt8qxaesqp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/w/4/9/3xl-21noa12775-503916-aurelia-original-imag9wnt8qxaesqp.jpeg?q=100",
+        "local_path": "../../media/images/b96761b3ed6cad583bc8d8b4/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/x/l/8/3xl-21noa12775-503916-aurelia-original-imag9wnthu2b7b9g.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/x/l/8/3xl-21noa12775-503916-aurelia-original-imag9wnthu2b7b9g.jpeg?q=100",
+        "local_path": "../../media/images/b96761b3ed6cad583bc8d8b4/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Aurelia Women Embroidered Straight Kurta",
+      "description": "Aurelia Women Embroidered Straight Kurta - Buy Aurelia Women Embroidered Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/r/t/d/3xl-21noa12775-503916-aurelia-original-imag9wntqhjt3nr5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/i/c/y/3xl-21noa12775-503916-aurelia-original-imag9wntq3ctghb9.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/r/3/o/3xl-21noa12775-503916-aurelia-original-imag9wntw7fuynka.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/w/4/9/3xl-21noa12775-503916-aurelia-original-imag9wnt8qxaesqp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kxgfzbk0/kurta/x/l/8/3xl-21noa12775-503916-aurelia-original-imag9wnthu2b7b9g.jpeg?q=70"
+      ],
+      "sku": "KTAG9WNTHZBHSNB4",
+      "color": "Dark Grey",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 1,
+        "ratingCount": 19,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Aurelia",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 558,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-24",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant Embroidered Design",
+          "body": "Add a touch of elegance to your wardrobe with this women's kurta featuring a stunning embroidered pa…"
+        },
+        {
+          "heading": "Comfortable Acrylic Blend Fabric",
+          "body": "Crafted from a high-quality acrylic blend fabric, this kurta offers both comfort and durability. The…"
+        },
+        {
+          "heading": "Versatile Straight Fit",
+          "body": "Designed with a straight fit, this kurta offers a flattering silhouette that suits all body types. T…"
+        },
+        {
+          "heading": "Classic Round Neck",
+          "body": "Featuring a classic round neck, this kurta exudes simplicity and elegance. The round neck adds a tou…"
+        },
+        {
+          "heading": "Easy Care and Maintenance",
+          "body": "Maintaining this kurta is a breeze, thanks to its gentle machine wash fabric care instructions. Simp…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Embroidered",
+        "Type": "Straight",
+        "Fabric": "Acrylic Blend",
+        "Fit": "Regular Fit",
+        "Color": "Grey"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b96761b3ed6cad583bc8d8b4",
+      "path": "media/images/b96761b3ed6cad583bc8d8b4/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SHTHFV93HWK8FZDZ",
+  "status": "failed",
+  "attempt_count": 1,
+  "error": "locator.allTextContents: Target page, context or browser has been closed",
+  "product_keys": [
+    "2090"
+  ],
+  "source_path": "sources/pid-SHTHFV93HWK8FZDZ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T08:09:29.423Z",
+  "completed_at": "2026-08-13T08:09:40.018Z"
+}

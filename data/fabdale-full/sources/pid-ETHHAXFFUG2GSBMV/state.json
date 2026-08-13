@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-ETHHAXFFUG2GSBMV",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1436"
+  ],
+  "source_path": "sources/pid-ETHHAXFFUG2GSBMV/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T15:29:56.747Z",
+  "completed_at": "2026-08-12T15:30:05.373Z"
+}

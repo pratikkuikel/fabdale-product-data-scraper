@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-KTAGRJ22FMZFFQSU",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "948",
+    "5157"
+  ],
+  "source_path": "sources/pid-KTAGRJ22FMZFFQSU/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:14:29.735Z",
+  "completed_at": "2026-08-12T11:14:40.703Z"
+}

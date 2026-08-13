@@ -1,0 +1,44 @@
+{
+  "key": "fe94d6e041187293fd6afc01",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T15:46:12.530Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/u/w/3xl-rx179-magic-grn-royal-export-original-imah4jfrz67gcq5e.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/u/w/3xl-rx179-magic-grn-royal-export-original-imah4jfrz67gcq5e.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/q/y/3xl-rx179-magic-grn-royal-export-original-imah4jfr9rqdkpms.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/q/y/3xl-rx179-magic-grn-royal-export-original-imah4jfr9rqdkpms.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/p/x/3xl-rx179-magic-grn-royal-export-original-imah4jfray54xzhy.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/p/x/3xl-rx179-magic-grn-royal-export-original-imah4jfray54xzhy.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/f/h/3xl-rx179-magic-grn-royal-export-original-imah4jfre5esxw2j.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/f/h/3xl-rx179-magic-grn-royal-export-original-imah4jfre5esxw2j.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/h/y/3xl-rx179-magic-grn-royal-export-original-imah4jfrgnrgw6sy.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/h/y/3xl-rx179-magic-grn-royal-export-original-imah4jfrgnrgw6sy.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

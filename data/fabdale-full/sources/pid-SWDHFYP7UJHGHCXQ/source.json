@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/piludi-embroidered-kurta-salwar-dupatta-set/p/itm5038045485e45?pid=SWDHFYP7UJHGHCXQ&marketplace=FLIPKART&lid=LSTSWDHFYP7UJHGHCXQNZ9ILJ&swatchAttr=size&pageUID=1772639428651",
+    "scraped_at": "2026-08-12T11:05:09.582Z",
+    "final_url": "https://www.flipkart.com/piludi-embroidered-kurta-salwar-dupatta-set/p/itm5038045485e45?pid=SWDHFYP7UJHGHCXQ&marketplace=FLIPKART&lid=LSTSWDHFYP7UJHGHCXQNZ9ILJ&swatchAttr=size&pageUID=1772639428651"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:05:15.583Z"
+  },
+  "content": {
+    "title": "PILUDI Embroidered Kurta, Salwar & Dupatta Set",
+    "short_description": "PILUDI Embroidered Kurta, Salwar & Dupatta Set - Buy PILUDI Embroidered Kurta, Salwar & Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PILUDI Embroidered Kurta, Salwar & Dupatta Set - Buy PILUDI Embroidered Kurta, Salwar & Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/d/z/n/xl-sw-arpita-piludi-original-imahgxh7kuwnxwf5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/d/z/n/xl-sw-arpita-piludi-original-imahgxh7kuwnxwf5.jpeg?q=100",
+        "local_path": "../../media/images/108c3b1e00dd7cd146a579a8/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/9/m/h/xl-sw-arpita-piludi-original-imahgxh7v6mjjkf2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/9/m/h/xl-sw-arpita-piludi-original-imahgxh7v6mjjkf2.jpeg?q=100",
+        "local_path": "../../media/images/108c3b1e00dd7cd146a579a8/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/p/w/c/xxl-sw-amisha-piludi-house-original-imahgqw9zug5jgdy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/p/w/c/xxl-sw-amisha-piludi-house-original-imahgqw9zug5jgdy.jpeg?q=100",
+        "local_path": "../../media/images/108c3b1e00dd7cd146a579a8/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/v/c/u/xxl-sw-amisha-piludi-house-original-imahgqw9g2kjzuwe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/v/c/u/xxl-sw-amisha-piludi-house-original-imahgqw9g2kjzuwe.jpeg?q=100",
+        "local_path": "../../media/images/108c3b1e00dd7cd146a579a8/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/z/s/xl-sw-arpita-piludi-original-imahgcfubc8aygda.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/z/s/xl-sw-arpita-piludi-original-imahgcfubc8aygda.jpeg?q=100",
+        "local_path": "../../media/images/108c3b1e00dd7cd146a579a8/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PILUDI Embroidered Kurta, Salwar & Dupatta Set",
+      "description": "PILUDI Embroidered Kurta, Salwar & Dupatta Set - Buy PILUDI Embroidered Kurta, Salwar & Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/d/z/n/xl-sw-arpita-piludi-original-imahgxh7kuwnxwf5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/9/m/h/xl-sw-arpita-piludi-original-imahgxh7v6mjjkf2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/p/w/c/xxl-sw-amisha-piludi-house-original-imahgqw9zug5jgdy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/v/c/u/xxl-sw-amisha-piludi-house-original-imahgqw9g2kjzuwe.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/z/s/xl-sw-arpita-piludi-original-imahgcfubc8aygda.jpeg?q=70"
+      ],
+      "sku": "SWDHFYP7UJHGHCXQ",
+      "color": "Green",
+      "category": "salwar_kurta_dupatta",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "ratingCount": 9,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PILUDI",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 703,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "108c3b1e00dd7cd146a579a8",
+      "path": "media/images/108c3b1e00dd7cd146a579a8/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

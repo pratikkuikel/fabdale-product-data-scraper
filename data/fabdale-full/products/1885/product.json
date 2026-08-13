@@ -1,0 +1,193 @@
+{
+  "product_id": "1885",
+  "sku": "Fab-Lehenga-PRVJ-012PL",
+  "product": {
+    "name": "Purvika Heavy Design Lehenga Choli",
+    "parent_id": "5315",
+    "notes": "https://www.flipkart.com/purvaja-embellished-semi-stitched-lehenga-choli/p/itm63ac8335195f7?pid=LCHGQAQSBRZVHDSG&lid=LSTLCHGQAQSBRZVHDSGMG4NVN&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-LCHGQAQSBRZVHDSG",
+    "path": "../../sources/pid-LCHGQAQSBRZVHDSG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purvaja-embellished-semi-stitched-lehenga-choli/p/itm63ac8335195f7?pid=LCHGQAQSBRZVHDSG&lid=LSTLCHGQAQSBRZVHDSGMG4NVN&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:48:15.514Z",
+    "final_url": "https://www.flipkart.com/purvaja-embellished-semi-stitched-lehenga-choli/p/itm63ac8335195f7?pid=LCHGQAQSBRZVHDSG&lid=LSTLCHGQAQSBRZVHDSGMG4NVN&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:48:22.942Z"
+  },
+  "content": {
+    "title": "PURVAJA Embellished Semi Stitched Lehenga Choli",
+    "short_description": "Color: Purple\nPattern: Embellished\nType: Lehenga Choli\nLehenga Fabric: Art Silk\nCholi Fabric: Jacquard\nDupatta Fabric: Art Silk\nStitching Type: Semi Stitched\nSales Package: (1, Lehengha 1, Blouse 1, Dupatta)",
+    "description": "PURVAJA Embellished Semi Stitched Lehenga Choli - Buy PURVAJA Embellished Semi Stitched Lehenga Choli For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Lehenga Fabric": "Art Silk",
+      "Choli Fabric": "Jacquard",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Art Silk",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Embellished",
+      "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+      "Color": "Purple"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e45394b29b535d0608db17c1",
+      "path": "media/images/e45394b29b535d0608db17c1/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/z/p/b/free-sleeveless-chahat-purvaja-original-imagqaqsv5megfdz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/z/p/b/free-sleeveless-chahat-purvaja-original-imagqaqsv5megfdz.jpeg?q=100",
+        "local_path": "../../media/images/e45394b29b535d0608db17c1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/t/3/free-sleeveless-chahat-purvaja-original-imagqaqsjzykqczd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/t/3/free-sleeveless-chahat-purvaja-original-imagqaqsjzykqczd.jpeg?q=100",
+        "local_path": "../../media/images/e45394b29b535d0608db17c1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/1/w/free-sleeveless-chahat-purvaja-original-imagqaqstx5azn4b.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/1/w/free-sleeveless-chahat-purvaja-original-imagqaqstx5azn4b.jpeg?q=100",
+        "local_path": "../../media/images/e45394b29b535d0608db17c1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/e/y/u/free-sleeveless-chahat-purvaja-original-imagqaqsawdjagzs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/e/y/u/free-sleeveless-chahat-purvaja-original-imagqaqsawdjagzs.jpeg?q=100",
+        "local_path": "../../media/images/e45394b29b535d0608db17c1/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/5/s/b/free-sleeveless-chahat-purvaja-original-imagqbnzfzzz9u8f.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/5/s/b/free-sleeveless-chahat-purvaja-original-imagqbnzfzzz9u8f.jpeg?q=100",
+        "local_path": "../../media/images/e45394b29b535d0608db17c1/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURVAJA Embellished Semi Stitched Lehenga Choli",
+      "description": "PURVAJA Embellished Semi Stitched Lehenga Choli - Buy PURVAJA Embellished Semi Stitched Lehenga Choli For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/z/p/b/free-sleeveless-chahat-purvaja-original-imagqaqsv5megfdz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/t/3/free-sleeveless-chahat-purvaja-original-imagqaqsjzykqczd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/1/w/free-sleeveless-chahat-purvaja-original-imagqaqstx5azn4b.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/e/y/u/free-sleeveless-chahat-purvaja-original-imagqaqsawdjagzs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/5/s/b/free-sleeveless-chahat-purvaja-original-imagqbnzfzzz9u8f.jpeg?q=70"
+      ],
+      "sku": "LCHGQAQSBRZVHDSG",
+      "color": "Wine",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 12,
+        "ratingCount": 168,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURVAJA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 676,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-07",
+          "reviewBody": "The product is so pretty .. also looks exactly like in the given picture , fabric is too good too",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Richa Verma",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-04",
+          "reviewBody": "More beautiful than expected.. very beautiful color fabric ..every thing is just wow",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Puspita Mohapatra",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-12",
+          "reviewBody": "So good, just like the picture, looking gorgeous for party wear, fabric is good too",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Lehenga Fabric": "Art Silk",
+        "Choli Fabric": "Jacquard",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Embellished",
+        "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+        "Color": "Purple"
+      },
+      "specifications": {}
+    }
+  }
+}

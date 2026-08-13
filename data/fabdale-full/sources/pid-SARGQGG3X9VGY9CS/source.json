@@ -1,0 +1,193 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/fabmora-embellished-printed-bollywood-chiffon-saree/p/itm0a423ad97be32?pid=SARGQGG3X9VGY9CS&lid=LSTSARGQGG3X9VGY9CSAFMRXO&marketplace=FLIPKART&q=Fabmora&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T08:51:15.826Z",
+    "final_url": "https://www.flipkart.com/fabmora-embellished-printed-bollywood-chiffon-saree/p/itm0a423ad97be32?pid=SARGQGG3X9VGY9CS&lid=LSTSARGQGG3X9VGY9CSAFMRXO&marketplace=FLIPKART&q=Fabmora&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:51:28.420Z"
+  },
+  "content": {
+    "title": "FABMORA Embellished, Printed Bollywood Chiffon Saree",
+    "short_description": "Fabric: Chiffon\nPattern: Embellished, Printed\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Stunning Embellishments\nThis saree features exquisite embellishments that add a touch of glamour to your look. The intricate…\n\nVersatile Unstitched Blouse Piece\nWith the inclusion of an unstitched blouse piece, this saree offers you the freedom to customize you…\n\nIdeal for Special Occasions\nDesigned for party, festive, and wedding occasions, this saree is the perfect choice to make a state…\n\nComfortable Chiffon Fabric\nCrafted from high-quality chiffon fabric, this saree offers a comfortable and lightweight wearing ex…",
+    "specifications": {
+      "Pattern": "Embellished, Printed",
+      "Fabric": "Chiffon",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/a/x/free-chiffon-star-ds0911-desi-style-unstitched-original-imah6fpg4zsnsjm7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/a/x/free-chiffon-star-ds0911-desi-style-unstitched-original-imah6fpg4zsnsjm7.jpeg?q=100",
+        "local_path": "../../media/images/245f1d9a867448ef58942c61/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/8/z/free-chiffon-star-ds0911-desi-style-unstitched-original-imah6fpghwtdjxnf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/8/z/free-chiffon-star-ds0911-desi-style-unstitched-original-imah6fpghwtdjxnf.jpeg?q=100",
+        "local_path": "../../media/images/245f1d9a867448ef58942c61/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/n/e/u/free-chiffon-star-abruzzo-unstitched-original-imah5nyhqnb7gfkq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/n/e/u/free-chiffon-star-abruzzo-unstitched-original-imah5nyhqnb7gfkq.jpeg?q=100",
+        "local_path": "../../media/images/245f1d9a867448ef58942c61/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/o/y/free-chiffon-star-ds0911-desi-style-unstitched-original-imah6fpgrzhjdd6h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/o/y/free-chiffon-star-ds0911-desi-style-unstitched-original-imah6fpgrzhjdd6h.jpeg?q=100",
+        "local_path": "../../media/images/245f1d9a867448ef58942c61/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/s/i/free-chiffon-star-ds0911-desi-style-unstitched-original-imah6fpg5m9c8get.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/s/i/free-chiffon-star-ds0911-desi-style-unstitched-original-imah6fpg5m9c8get.jpeg?q=100",
+        "local_path": "../../media/images/245f1d9a867448ef58942c61/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FABMORA Embellished, Printed Bollywood Chiffon Saree",
+      "description": "FABMORA Embellished, Printed Bollywood Chiffon Saree - Buy FABMORA Embellished, Printed Bollywood Chiffon Saree For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/a/x/free-chiffon-star-ds0911-desi-style-unstitched-original-imah6fpg4zsnsjm7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/8/z/free-chiffon-star-ds0911-desi-style-unstitched-original-imah6fpghwtdjxnf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/n/e/u/free-chiffon-star-abruzzo-unstitched-original-imah5nyhqnb7gfkq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/o/y/free-chiffon-star-ds0911-desi-style-unstitched-original-imah6fpgrzhjdd6h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/s/i/free-chiffon-star-ds0911-desi-style-unstitched-original-imah6fpg5m9c8get.jpeg?q=70"
+      ],
+      "sku": "SARGQGG3X9VGY9CS",
+      "color": "GREY",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 584,
+        "ratingCount": 16880,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FABMORA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 333,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-29",
+          "reviewBody": "Great 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Sudhir Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-27",
+          "reviewBody": "Good looking saree ❤",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Prashansa Kumari",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-27",
+          "reviewBody": "Pretty saree I like it fabric",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Stunning Embellishments",
+          "body": "This saree features exquisite embellishments that add a touch of glamour to your look. The intricate…"
+        },
+        {
+          "heading": "Versatile Unstitched Blouse Piece",
+          "body": "With the inclusion of an unstitched blouse piece, this saree offers you the freedom to customize you…"
+        },
+        {
+          "heading": "Ideal for Special Occasions",
+          "body": "Designed for party, festive, and wedding occasions, this saree is the perfect choice to make a state…"
+        },
+        {
+          "heading": "Comfortable Chiffon Fabric",
+          "body": "Crafted from high-quality chiffon fabric, this saree offers a comfortable and lightweight wearing ex…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Embellished, Printed",
+        "Fabric": "Chiffon",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "245f1d9a867448ef58942c61",
+      "path": "media/images/245f1d9a867448ef58942c61/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

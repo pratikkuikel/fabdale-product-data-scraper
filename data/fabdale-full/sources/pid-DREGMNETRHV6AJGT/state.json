@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-DREGMNETRHV6AJGT",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "368"
+  ],
+  "source_path": "sources/pid-DREGMNETRHV6AJGT/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T08:39:19.287Z",
+  "completed_at": "2026-08-12T08:39:27.065Z"
+}

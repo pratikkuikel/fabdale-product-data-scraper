@@ -1,0 +1,166 @@
+{
+  "product_id": "1060",
+  "sku": "Fab-Salwar-PRSC-025GR-M",
+  "product": {
+    "name": "Pravya Grey Floral Salwar Suit Set",
+    "parent_id": "5192",
+    "notes": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm3b40eb55ad95a?pid=KTAH78PJJMHH4NBR&marketplace=FLIPKART&lid=LSTKTAH78PJJMHH4NBRV26LQZ&swatchAttr=size&pageUID=1772645379879"
+  },
+  "source_bundle": {
+    "key": "pid-KTAH78PJJMHH4NBR",
+    "path": "../../sources/pid-KTAH78PJJMHH4NBR/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm3b40eb55ad95a?pid=KTAH78PJJMHH4NBR&marketplace=FLIPKART&lid=LSTKTAH78PJJMHH4NBRV26LQZ&swatchAttr=size&pageUID=1772645379879",
+    "scraped_at": "2026-08-12T11:31:36.892Z",
+    "final_url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm3b40eb55ad95a?pid=KTAH78PJJMHH4NBR&marketplace=FLIPKART&lid=LSTKTAH78PJJMHH4NBRV26LQZ&swatchAttr=size&pageUID=1772645379879"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 5,
+    "completed_at": "2026-08-12T11:31:52.546Z"
+  },
+  "content": {
+    "title": "PRISCA Floral Print Pure Cotton Straight Kurta for Women (Grey)",
+    "short_description": "Color: Grey\nFabric: Pure Cotton\nPattern: Floral Print\nType: Straight",
+    "description": null,
+    "specifications": {
+      "Pattern": "Floral Print",
+      "Type": "Straight",
+      "Fabric": "Pure Cotton",
+      "Color": "Grey"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1cc4d3e233d4a14e7ee2716c",
+      "path": "media/images/1cc4d3e233d4a14e7ee2716c/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "70608db0a28b81ee90b45a34",
+      "path": "media/videos/70608db0a28b81ee90b45a34/media.json",
+      "reused": true
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/i/f/m/s-peigeon-v-neck-prisca-resized-original-imahgfgasr4zzcfv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/i/f/m/s-peigeon-v-neck-prisca-resized-original-imahgfgasr4zzcfv.jpeg?q=100",
+        "local_path": "../../media/images/1cc4d3e233d4a14e7ee2716c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/o/f/p/s-peigeon-v-neck-prisca-original-imahgfgaby9ggxst.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/o/f/p/s-peigeon-v-neck-prisca-original-imahgfgaby9ggxst.jpeg?q=100",
+        "local_path": "../../media/images/1cc4d3e233d4a14e7ee2716c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/w/e/o/s-peigeon-v-neck-prisca-original-imahgfgarzzch5cs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/w/e/o/s-peigeon-v-neck-prisca-original-imahgfgarzzch5cs.jpeg?q=100",
+        "local_path": "../../media/images/1cc4d3e233d4a14e7ee2716c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/k/h/u/s-peigeon-v-neck-prisca-original-imahgfgah5kufeka.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/k/h/u/s-peigeon-v-neck-prisca-original-imahgfgah5kufeka.jpeg?q=100",
+        "local_path": "../../media/images/1cc4d3e233d4a14e7ee2716c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/1620/910/xif0q/icons/original-KTAH78PJJMHH4NBR_1.png",
+        "download_url": "https://rukminim2.flixcart.com/image/1620/910/xif0q/icons/original-KTAH78PJJMHH4NBR_1.png?q=100",
+        "local_path": "../../media/images/1cc4d3e233d4a14e7ee2716c/assets/images/image-005.png",
+        "downloaded": true,
+        "content_type": "image/png"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/v/d/6/s-rr-maroon-v-neck-prisca-resized-original-imahgfgnwcqyd2hh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/v/d/6/s-rr-maroon-v-neck-prisca-resized-original-imahgfgnwcqyd2hh.jpeg?q=100",
+        "local_path": "../../media/images/1cc4d3e233d4a14e7ee2716c/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=100",
+        "local_path": "../../media/images/1cc4d3e233d4a14e7ee2716c/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/8/0/j/4xl-59-nk-yellow-wawlooks-original-imahzx8xqt7c2en6.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/8/0/j/4xl-59-nk-yellow-wawlooks-original-imahzx8xqt7c2en6.jpeg?q=100",
+        "local_path": "../../media/images/1cc4d3e233d4a14e7ee2716c/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/p/z/r/s-kkoutfits-pink-carry-kkoutfits-original-imahzrz2zdbz3utz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/p/z/r/s-kkoutfits-pink-carry-kkoutfits-original-imahzrz2zdbz3utz.jpeg?q=100",
+        "local_path": "../../media/images/1cc4d3e233d4a14e7ee2716c/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/t/o/m/s-pink-zari-n-prisca-resized-original-imahhzg9harxwswt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/t/o/m/s-pink-zari-n-prisca-resized-original-imahhzg9harxwswt.jpeg?q=100",
+        "local_path": "../../media/images/1cc4d3e233d4a14e7ee2716c/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/k/n/b/-resized-original-imahesxuuxbftktf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/k/n/b/-resized-original-imahesxuuxbftktf.jpeg?q=100",
+        "local_path": "../../media/images/1cc4d3e233d4a14e7ee2716c/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/e/n/v/xl-shopsy-2pc-peigeon-kkoutfits-original-imahhcx7fehzqgsc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/e/n/v/xl-shopsy-2pc-peigeon-kkoutfits-original-imahhcx7fehzqgsc.jpeg?q=100",
+        "local_path": "../../media/images/1cc4d3e233d4a14e7ee2716c/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/h/z/r/3xl-long-kurtas-piroki-original-imahftwpchz6csge.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/h/z/r/3xl-long-kurtas-piroki-original-imahftwpchz6csge.jpeg?q=100",
+        "local_path": "../../media/images/1cc4d3e233d4a14e7ee2716c/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CN-NnHKbV1S_uA1PzqaWpjYw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Floral Print",
+        "Type": "Straight",
+        "Fabric": "Pure Cotton",
+        "Color": "Grey"
+      },
+      "specifications": {}
+    }
+  }
+}

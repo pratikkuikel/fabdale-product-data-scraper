@@ -1,0 +1,17 @@
+{
+  "source_key": "pid-KTAH7W3QKD3KZCKP",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "1053",
+    "5186",
+    "7168"
+  ],
+  "source_path": "sources/pid-KTAH7W3QKD3KZCKP/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:28:41.157Z",
+  "completed_at": "2026-08-12T11:28:55.979Z"
+}

@@ -1,0 +1,175 @@
+{
+  "product_id": "7155",
+  "sku": "FAB-SAL-DIV-715-5",
+  "product": {
+    "name": "Divashree Viscose Rayon A-Line Salwar Suit Set",
+    "parent_id": "5223",
+    "notes": "https://www.flipkart.com/divastri-women-ethnic-top-pant-dupatta-set/p/itm4cc55fe115fb3?pid=ETHHB4UFDHCSZP9Z&marketplace=FLIPKART&lid=LSTETHHB4UFDHCSZP9ZU5NYWJ&swatchAttr=size&pageUID=1772781850892"
+  },
+  "source_bundle": {
+    "key": "pid-ETHHB4UFDHCSZP9Z",
+    "path": "../../sources/pid-ETHHB4UFDHCSZP9Z/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-ethnic-top-pant-dupatta-set/p/itm4cc55fe115fb3?pid=ETHHB4UFDHCSZP9Z&marketplace=FLIPKART&lid=LSTETHHB4UFDHCSZP9ZU5NYWJ&swatchAttr=size&pageUID=1772781850892",
+    "scraped_at": "2026-08-12T12:23:03.381Z",
+    "final_url": "https://www.flipkart.com/divastri-women-ethnic-top-pant-dupatta-set/p/itm4cc55fe115fb3?pid=ETHHB4UFDHCSZP9Z&marketplace=FLIPKART&lid=LSTETHHB4UFDHCSZP9ZU5NYWJ&swatchAttr=size&pageUID=1772781850892"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T12:23:50.430Z"
+  },
+  "content": {
+    "title": "Divastri Women Ethnic Top Pant Dupatta Set",
+    "short_description": "Divastri Women Ethnic Top Pant Dupatta Set - Buy Divastri Women Ethnic Top Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Divastri Women Ethnic Top Pant Dupatta Set - Buy Divastri Women Ethnic Top Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b6f2e40c5748dff78743fa0d",
+      "path": "media/images/b6f2e40c5748dff78743fa0d/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/4/y/xl-manju-purple-dv-divastri-original-imaha8mewdzzhyfj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/4/y/xl-manju-purple-dv-divastri-original-imaha8mewdzzhyfj.jpeg?q=100",
+        "local_path": "../../media/images/b6f2e40c5748dff78743fa0d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/a/n/xl-manju-purple-dv-02-divastri-original-imahb4txyuuxbzwg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/a/n/xl-manju-purple-dv-02-divastri-original-imahb4txyuuxbzwg.jpeg?q=100",
+        "local_path": "../../media/images/b6f2e40c5748dff78743fa0d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/9/p/n/xl-manju-purple-dv-02-divastri-original-imahb4tx2dsqhn5v.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/9/p/n/xl-manju-purple-dv-02-divastri-original-imahb4tx2dsqhn5v.jpeg?q=100",
+        "local_path": "../../media/images/b6f2e40c5748dff78743fa0d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/o/v/xl-manju-purple-dv-02-divastri-original-imahb4txva6rvury.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/o/v/xl-manju-purple-dv-02-divastri-original-imahb4txva6rvury.jpeg?q=100",
+        "local_path": "../../media/images/b6f2e40c5748dff78743fa0d/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/e/r/xl-manju-purple-dv-02-divastri-original-imahb4txgzpb4kdy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/e/r/xl-manju-purple-dv-02-divastri-original-imahb4txgzpb4kdy.jpeg?q=100",
+        "local_path": "../../media/images/b6f2e40c5748dff78743fa0d/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Ethnic Top Pant Dupatta Set",
+      "description": "Divastri Women Ethnic Top Pant Dupatta Set - Buy Divastri Women Ethnic Top Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/4/y/xl-manju-purple-dv-divastri-original-imaha8mewdzzhyfj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/a/n/xl-manju-purple-dv-02-divastri-original-imahb4txyuuxbzwg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/9/p/n/xl-manju-purple-dv-02-divastri-original-imahb4tx2dsqhn5v.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/o/v/xl-manju-purple-dv-02-divastri-original-imahb4txva6rvury.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/e/r/xl-manju-purple-dv-02-divastri-original-imahb4txgzpb4kdy.jpeg?q=70"
+      ],
+      "sku": "ETHHB4UFDHCSZP9Z",
+      "color": "Purple",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 111,
+        "ratingCount": 1444,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 631,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Kajal derekar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-17",
+          "reviewBody": "Beautiful beautiful I love this colour \nlooks amazing on me you can check pictures\nas shown as I recd pure cotton and best for summer season",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Almas Saiyed",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-08",
+          "reviewBody": "Product is very good, fit is good. this one is the best.All of you can go ahead and buy without any doubt ,The material is excellent and comfy.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Vibhuti  Joshi",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-12",
+          "reviewBody": "Really I love this product.. Thank u so much flipkart.... looks preety",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

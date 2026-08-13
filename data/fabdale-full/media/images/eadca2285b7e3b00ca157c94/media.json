@@ -1,0 +1,44 @@
+{
+  "key": "eadca2285b7e3b00ca157c94",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:58:29.332Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/i/x/2/m-sw-minakshi-piludi-original-imahczae4g6ufvrf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/i/x/2/m-sw-minakshi-piludi-original-imahczae4g6ufvrf.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/i/z/l/m-sw-minakshi-piludi-original-imahczaexvsqjyhq.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/i/z/l/m-sw-minakshi-piludi-original-imahczaexvsqjyhq.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/h/r/7/m-sw-minakshi-piludi-original-imahczaefazdfdha.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/h/r/7/m-sw-minakshi-piludi-original-imahczaefazdfdha.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/a/c/e/xl-sw-minakshi-piludi-original-imahc7cwrtqe7rgh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/a/c/e/xl-sw-minakshi-piludi-original-imahc7cwrtqe7rgh.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/f/5/xxl-sw-minakshi-piludi-original-imahcz4wshsc5ckj.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/f/5/xxl-sw-minakshi-piludi-original-imahcz4wshsc5ckj.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

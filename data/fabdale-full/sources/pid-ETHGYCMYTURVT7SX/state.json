@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-ETHGYCMYTURVT7SX",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1773",
+    "5291"
+  ],
+  "source_path": "sources/pid-ETHGYCMYTURVT7SX/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T07:19:07.246Z",
+  "completed_at": "2026-08-13T07:19:13.076Z"
+}

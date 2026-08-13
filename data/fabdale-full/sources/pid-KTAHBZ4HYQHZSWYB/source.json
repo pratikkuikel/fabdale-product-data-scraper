@@ -1,0 +1,139 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/subhan-clothing-women-striped-a-line-kurta/p/itmdc919e1046fb2?pid=KTAHBZ4HYQHZSWYB&marketplace=FLIPKART&lid=LSTKTAHBZ4HYQHZSWYBJPCKKC&swatchAttr=size&pageUID=1772648314251",
+    "scraped_at": "2026-08-12T11:38:33.632Z",
+    "final_url": "https://www.flipkart.com/subhan-clothing-women-striped-a-line-kurta/p/itmdc919e1046fb2?pid=KTAHBZ4HYQHZSWYB&marketplace=FLIPKART&lid=LSTKTAHBZ4HYQHZSWYBJPCKKC&swatchAttr=size&pageUID=1772648314251"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:38:49.174Z"
+  },
+  "content": {
+    "title": "SUBHAN CLOTHING Striped Cotton Blend A-line Kurta for Women (Gree...more",
+    "short_description": "Color: Green\nFabric: Cotton Blend\nPattern: Striped\nType: A-line\nFit: Regular fit",
+    "description": null,
+    "specifications": {
+      "Pattern": "Striped",
+      "Type": "A-line",
+      "Fabric": "Cotton Blend",
+      "Fit": "Regular fit",
+      "Color": "Green"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/k/e/9/m-xn-subhan-clothing-original-imahbz4hgdnnv6gx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/k/e/9/m-xn-subhan-clothing-original-imahbz4hgdnnv6gx.jpeg?q=100",
+        "local_path": "../../media/images/8c7d0c5f09e19d907220eb79/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/n/e/g/m-xn-subhan-clothing-original-imahbz4hnpjgfqya.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/n/e/g/m-xn-subhan-clothing-original-imahbz4hnpjgfqya.jpeg?q=100",
+        "local_path": "../../media/images/8c7d0c5f09e19d907220eb79/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/o/s/d/m-xn-subhan-clothing-original-imahbz4hzzkmjuht.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/o/s/d/m-xn-subhan-clothing-original-imahbz4hzzkmjuht.jpeg?q=100",
+        "local_path": "../../media/images/8c7d0c5f09e19d907220eb79/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/1620/910/xif0q/icons/original-KTAHBZ4HYQHZSWYB_1.jpg",
+        "download_url": "https://rukminim2.flixcart.com/image/1620/910/xif0q/icons/original-KTAHBZ4HYQHZSWYB_1.jpg?q=100",
+        "local_path": "../../media/images/8c7d0c5f09e19d907220eb79/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/5/0/xxs-combo-01-myvra-original-imahpg2pqm6z29ky.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/5/0/xxs-combo-01-myvra-original-imahpg2pqm6z29ky.jpeg?q=100",
+        "local_path": "../../media/images/8c7d0c5f09e19d907220eb79/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/e/c/q/l-combo-01-myvra-original-imahpg2pzsbmay5z.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/e/c/q/l-combo-01-myvra-original-imahpg2pzsbmay5z.jpeg?q=100",
+        "local_path": "../../media/images/8c7d0c5f09e19d907220eb79/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/top/f/s/f/s-1-vz-1057-kawad-original-imahzcayy6rghzgm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/top/f/s/f/s-1-vz-1057-kawad-original-imahzcayy6rghzgm.jpeg?q=100",
+        "local_path": "../../media/images/8c7d0c5f09e19d907220eb79/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/q/v/v/s-combo-01-myvra-original-imahpg2pkqbxzqym.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/q/v/v/s-combo-01-myvra-original-imahpg2pkqbxzqym.jpeg?q=100",
+        "local_path": "../../media/images/8c7d0c5f09e19d907220eb79/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/3/7/7/xl-combo-01-myvra-original-imahpg2pceynvgza.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/3/7/7/xl-combo-01-myvra-original-imahpg2pceynvgza.jpeg?q=100",
+        "local_path": "../../media/images/8c7d0c5f09e19d907220eb79/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/d/c/s-rmy-brn-tieup-01-s-rmy-collection-07-original-imahpqhsqbeexypp.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/d/c/s-rmy-brn-tieup-01-s-rmy-collection-07-original-imahpqhsqbeexypp.jpeg?q=100",
+        "local_path": "../../media/images/8c7d0c5f09e19d907220eb79/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/p/s/n/m-green-kurti-bd-enterprises-original-imahkzx252tkcxtg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/p/s/n/m-green-kurti-bd-enterprises-original-imahkzx252tkcxtg.jpeg?q=100",
+        "local_path": "../../media/images/8c7d0c5f09e19d907220eb79/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/g/6/i/xl-pink-blackst-subhan-clothing-original-imahpz8yszuuvfah.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/g/6/i/xl-pink-blackst-subhan-clothing-original-imahpz8yszuuvfah.jpeg?q=100",
+        "local_path": "../../media/images/8c7d0c5f09e19d907220eb79/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Striped",
+        "Type": "A-line",
+        "Fabric": "Cotton Blend",
+        "Fit": "Regular fit",
+        "Color": "Green"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "8c7d0c5f09e19d907220eb79",
+      "path": "media/images/8c7d0c5f09e19d907220eb79/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

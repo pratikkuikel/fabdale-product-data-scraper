@@ -1,0 +1,231 @@
+{
+  "product_id": "496",
+  "sku": "Fab-Saree-SMH-020MR",
+  "product": {
+    "name": "Sharini Banarasi Cotton Silk Blend Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/samah-woven-embellished-self-design-banarasi-cotton-silk-art-silk-saree/p/itm04b9bb2fdc505?pid=SARGZ8SJGUVHESNZ&lid=LSTSARGZ8SJGUVHESNZPQ2AGE&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SARGZ8SJGUVHESNZ",
+    "path": "../../sources/pid-SARGZ8SJGUVHESNZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/samah-woven-embellished-self-design-banarasi-cotton-silk-art-silk-saree/p/itm04b9bb2fdc505?pid=SARGZ8SJGUVHESNZ&lid=LSTSARGZ8SJGUVHESNZPQ2AGE&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:20:51.056Z",
+    "final_url": "https://www.flipkart.com/samah-woven-embellished-self-design-banarasi-cotton-silk-art-silk-saree/p/itm04b9bb2fdc505?pid=SARGZ8SJGUVHESNZ&lid=LSTSARGZ8SJGUVHESNZPQ2AGE&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:21:01.739Z"
+  },
+  "content": {
+    "title": "Samah Woven, Embellished, Self Design Banarasi Cotton Silk, Art Silk Saree",
+    "short_description": "Fabric: Cotton Silk, Art Silk\nPattern: Woven, Embellished, Self Design\nType: Banarasi\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Exquisite Banarasi Saree\nIntroducing an exquisite Banarasi saree, a true masterpiece that embodies the rich heritage and time…\n\nIntricate Woven Design\nAdorned with an intricate woven design, this saree exudes a sense of opulence and grace. The beautif…\n\nUnstitched Blouse Piece\nThis saree comes with an unstitched blouse piece, allowing you to customize the blouse according to …\n\nLuxurious Fabric and Care\nCrafted from a blend of cotton silk and art silk, this saree offers a luxurious feel against your sk…\n\nVersatile for Various Occasions\nVersatility is the key feature of this saree, making it suitable for a wide range of occasions. Whet…",
+    "specifications": {
+      "Pattern": "Woven, Embellished, Self Design",
+      "Fabric": "Cotton Silk, Art Silk",
+      "Type": "Banarasi",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "079af3ec9072fb7cde69396a",
+      "path": "media/images/079af3ec9072fb7cde69396a/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "fd5c9e840637e9c90292ea7a",
+      "path": "media/videos/fd5c9e840637e9c90292ea7a/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/5/m/-original-imaheh7vqbasasyz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/5/m/-original-imaheh7vqbasasyz.jpeg?q=100",
+        "local_path": "../../media/images/079af3ec9072fb7cde69396a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/j/l/-original-imaheh7vx9ugc43k.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/j/l/-original-imaheh7vx9ugc43k.jpeg?q=100",
+        "local_path": "../../media/images/079af3ec9072fb7cde69396a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/6/x/m/-original-imaheh7vz8et7cbw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/6/x/m/-original-imaheh7vz8et7cbw.jpeg?q=100",
+        "local_path": "../../media/images/079af3ec9072fb7cde69396a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/2/o/a/-original-imaheh7vzqkbmznf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/2/o/a/-original-imaheh7vzqkbmznf.jpeg?q=100",
+        "local_path": "../../media/images/079af3ec9072fb7cde69396a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/o/z/-original-imaheh7vfm3azgt2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/o/z/-original-imaheh7vfm3azgt2.jpeg?q=100",
+        "local_path": "../../media/images/079af3ec9072fb7cde69396a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNyAhDxryeSdS_XgrHi9p2TQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Samah Woven, Embellished, Self Design Banarasi Cotton Silk, Art Silk Saree",
+      "description": "Samah Woven, Embellished, Self Design Banarasi Cotton Silk, Art Silk Saree - Buy Samah Woven, Embellished, Self Design Banarasi Cotton Silk, Art Silk Saree For Only Rs. 3289.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/5/m/-original-imaheh7vqbasasyz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/j/l/-original-imaheh7vx9ugc43k.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/6/x/m/-original-imaheh7vz8et7cbw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/2/o/a/-original-imaheh7vzqkbmznf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/o/z/-original-imaheh7vfm3azgt2.jpeg?q=70"
+      ],
+      "sku": "SARGZ8SJGUVHESNZ",
+      "color": "Dark Maroon, Gold",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 849,
+        "ratingCount": 8091,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Samah",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 475,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2021-11-05",
+          "reviewBody": "Awesome sare",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Sowmya Shree B",
+            "@type": "Person"
+          },
+          "datePublished": "2019-10-21",
+          "reviewBody": "very nice",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "sweta Narayan",
+            "@type": "Person"
+          },
+          "datePublished": "2020-07-27",
+          "reviewBody": "Love this saree",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Exquisite Banarasi Saree",
+          "body": "Introducing an exquisite Banarasi saree, a true masterpiece that embodies the rich heritage and time…"
+        },
+        {
+          "heading": "Intricate Woven Design",
+          "body": "Adorned with an intricate woven design, this saree exudes a sense of opulence and grace. The beautif…"
+        },
+        {
+          "heading": "Unstitched Blouse Piece",
+          "body": "This saree comes with an unstitched blouse piece, allowing you to customize the blouse according to …"
+        },
+        {
+          "heading": "Luxurious Fabric and Care",
+          "body": "Crafted from a blend of cotton silk and art silk, this saree offers a luxurious feel against your sk…"
+        },
+        {
+          "heading": "Versatile for Various Occasions",
+          "body": "Versatility is the key feature of this saree, making it suitable for a wide range of occasions. Whet…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Woven, Embellished, Self Design",
+        "Fabric": "Cotton Silk, Art Silk",
+        "Type": "Banarasi",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

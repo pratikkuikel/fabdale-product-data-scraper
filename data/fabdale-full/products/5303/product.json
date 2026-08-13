@@ -1,0 +1,210 @@
+{
+  "product_id": "5303",
+  "sku": null,
+  "product": {
+    "name": "Firozae Self Design Lehenga Choli",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fabcartz-self-design-semi-stitched-lehenga-choli/p/itma23bf0c756f59?pid=LCHGQTH6BPU8HSCE&lid=LSTLCHGQTH6BPU8HSCEKGGMNB&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-LCHGQTH6BPU8HSCE",
+    "path": "../../sources/pid-LCHGQTH6BPU8HSCE/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fabcartz-self-design-semi-stitched-lehenga-choli/p/itma23bf0c756f59?pid=LCHGQTH6BPU8HSCE&lid=LSTLCHGQTH6BPU8HSCEKGGMNB&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:34:49.171Z",
+    "final_url": "https://www.flipkart.com/fabcartz-self-design-semi-stitched-lehenga-choli/p/itma23bf0c756f59?pid=LCHGQTH6BPU8HSCE&lid=LSTLCHGQTH6BPU8HSCEKGGMNB&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-13T07:35:03.260Z"
+  },
+  "content": {
+    "title": "Fabcartz Self Design Semi Stitched Lehenga Choli",
+    "short_description": "Color: Yellow\nPattern: Self Design\nType: Lehenga Choli\nLehenga Fabric: Art Silk\nCholi Fabric: Jacquard\nDupatta Fabric: Art Silk\nStitching Type: Semi Stitched\nSales Package: 1 Unstitched lehenga , 1 Unstitched Blouse , 1 Dupatta, 1 Waist Belt",
+    "description": "Dimensions\nBlouse Length0.8 mDupatta Length2 m - 2.5 m\n\nOccasion\nParty & Festive, Wedding, Wedding & Festive\n\nLehenga Choli Details\nLehenga FabricArt SilkCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckRound NeckSleeveHalf SleeveEmbroideredNoDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package1 Unstitched lehenga , 1 Unstitched Blouse , 1 Dupatta, 1 Waist BeltBlouse PatternSelf DesignBlouse Stitch TypeUnstitched BlouseBlouse TypeTraditionalColorYellowBrand ColorYellowDupatta PatternSelf DesignDupatta WorkZari WorkSizeFree\n\nSales Package\n1 Unstitched lehenga , 1 Unstitched Blouse , 1 Dupatta, 1 Waist Belt",
+    "specifications": {
+      "Lehenga Fabric": "Art Silk",
+      "Choli Fabric": "Jacquard",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Art Silk",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Self Design",
+      "Sales Package": "1 Unstitched lehenga , 1 Unstitched Blouse , 1 Dupatta, 1 Waist Belt",
+      "Color": "Yellow"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ad24413bf113e40802723788",
+      "path": "media/images/ad24413bf113e40802723788/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/m/w/2/free-half-sleeve-supriya-fabcartz-original-imagqth5zpejfeeb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/m/w/2/free-half-sleeve-supriya-fabcartz-original-imagqth5zpejfeeb.jpeg?q=100",
+        "local_path": "../../media/images/ad24413bf113e40802723788/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/0/z/free-half-sleeve-supriya-fabcartz-original-imagqth5vnhyrcty.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/0/z/free-half-sleeve-supriya-fabcartz-original-imagqth5vnhyrcty.jpeg?q=100",
+        "local_path": "../../media/images/ad24413bf113e40802723788/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/m/q/x/free-half-sleeve-supriya-fabcartz-original-imagsqg9dgfgjbsu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/m/q/x/free-half-sleeve-supriya-fabcartz-original-imagsqg9dgfgjbsu.jpeg?q=100",
+        "local_path": "../../media/images/ad24413bf113e40802723788/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/c/t/free-half-sleeve-supriya-fabcartz-original-imagsqg9fbbyhbhf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/c/t/free-half-sleeve-supriya-fabcartz-original-imagsqg9fbbyhbhf.jpeg?q=100",
+        "local_path": "../../media/images/ad24413bf113e40802723788/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/w/6/m/free-half-sleeve-supriya-fabcartz-original-imagsqg9mrfxsnfr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/w/6/m/free-half-sleeve-supriya-fabcartz-original-imagsqg9mrfxsnfr.jpeg?q=100",
+        "local_path": "../../media/images/ad24413bf113e40802723788/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Fabcartz Self Design Semi Stitched Lehenga Choli",
+      "description": "Fabcartz Self Design Semi Stitched Lehenga Choli - Buy Fabcartz Self Design Semi Stitched Lehenga Choli For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/m/w/2/free-half-sleeve-supriya-fabcartz-original-imagqth5zpejfeeb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/0/z/free-half-sleeve-supriya-fabcartz-original-imagqth5vnhyrcty.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/m/q/x/free-half-sleeve-supriya-fabcartz-original-imagsqg9dgfgjbsu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/c/t/free-half-sleeve-supriya-fabcartz-original-imagsqg9fbbyhbhf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/w/6/m/free-half-sleeve-supriya-fabcartz-original-imagsqg9mrfxsnfr.jpeg?q=70"
+      ],
+      "sku": "LCHGQTH6BPU8HSCE",
+      "color": "Yellow",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 36,
+        "ratingCount": 639,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Fabcartz",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 710,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "JOTHIKA JOTHIKA ANAND",
+            "@type": "Person"
+          },
+          "datePublished": "2023-08-19",
+          "reviewBody": "Really very very good product very nice dress quality thank you Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Gopi Meruga",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-13",
+          "reviewBody": "Super",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Shanmugam  Mayil",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-05",
+          "reviewBody": "Worth of money 💖💖",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Dimensions",
+          "body": "Blouse Length0.8 mDupatta Length2 m - 2.5 m"
+        },
+        {
+          "heading": "Occasion",
+          "body": "Party & Festive, Wedding, Wedding & Festive"
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricArt SilkCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckRound NeckSleeveHalf SleeveEmbroideredNoDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package1 Unstitched lehenga , 1 Unstitched Blouse , 1 Dupatta, 1 Waist BeltBlouse PatternSelf DesignBlouse Stitch TypeUnstitched BlouseBlouse TypeTraditionalColorYellowBrand ColorYellowDupatta PatternSelf DesignDupatta WorkZari WorkSizeFree"
+        },
+        {
+          "heading": "Sales Package",
+          "body": "1 Unstitched lehenga , 1 Unstitched Blouse , 1 Dupatta, 1 Waist Belt"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Art Silk",
+        "Choli Fabric": "Jacquard",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Self Design",
+        "Sales Package": "1 Unstitched lehenga , 1 Unstitched Blouse , 1 Dupatta, 1 Waist Belt",
+        "Color": "Yellow"
+      },
+      "specifications": {}
+    }
+  }
+}

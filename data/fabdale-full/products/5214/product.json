@@ -1,0 +1,187 @@
+{
+  "product_id": "5214",
+  "sku": null,
+  "product": {
+    "name": "Divashree Rayon Kurta Salwar Suit Set",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/divastri-women-kurta-dupatta-set/p/itm6abe44ed3aecb?pid=ETHH32XZZZTFTDV7&marketplace=FLIPKART&lid=LSTETHH32XZZZTFTDV7ACURBD&swatchAttr=size&pageUID=1772728955081"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH32XZZZTFTDV7",
+    "path": "../../sources/pid-ETHH32XZZZTFTDV7/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurta-dupatta-set/p/itm6abe44ed3aecb?pid=ETHH32XZZZTFTDV7&marketplace=FLIPKART&lid=LSTETHH32XZZZTFTDV7ACURBD&swatchAttr=size&pageUID=1772728955081",
+    "scraped_at": "2026-08-12T11:57:38.855Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurta-dupatta-set/p/itm6abe44ed3aecb?pid=ETHH32XZZZTFTDV7&marketplace=FLIPKART&lid=LSTETHH32XZZZTFTDV7ACURBD&swatchAttr=size&pageUID=1772728955081"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:57:50.432Z"
+  },
+  "content": {
+    "title": "Divastri Women Kurta Dupatta Set",
+    "short_description": "Divastri Women Kurta Dupatta Set - Buy Divastri Women Kurta Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Divastri Women Kurta Dupatta Set - Buy Divastri Women Kurta Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "cf3b1425d71515ad3ce79066",
+      "path": "media/images/cf3b1425d71515ad3ce79066/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/a/f/l-d919-divastri-original-imah32x9fzqgmgvn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/a/f/l-d919-divastri-original-imah32x9fzqgmgvn.jpeg?q=100",
+        "local_path": "../../media/images/cf3b1425d71515ad3ce79066/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/s/i/l-d919-divastri-original-imah32x92ngbqvyr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/s/i/l-d919-divastri-original-imah32x92ngbqvyr.jpeg?q=100",
+        "local_path": "../../media/images/cf3b1425d71515ad3ce79066/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/r/2/l-d919-divastri-original-imah32x9bz92hhxh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/r/2/l-d919-divastri-original-imah32x9bz92hhxh.jpeg?q=100",
+        "local_path": "../../media/images/cf3b1425d71515ad3ce79066/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/6/k/l-d919-divastri-original-imah32x9tqfgqf3s.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/6/k/l-d919-divastri-original-imah32x9tqfgqf3s.jpeg?q=100",
+        "local_path": "../../media/images/cf3b1425d71515ad3ce79066/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/m/4/l-d919-divastri-original-imah32x9uthezhjq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/m/4/l-d919-divastri-original-imah32x9uthezhjq.jpeg?q=100",
+        "local_path": "../../media/images/cf3b1425d71515ad3ce79066/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Kurta Dupatta Set",
+      "description": "Divastri Women Kurta Dupatta Set - Buy Divastri Women Kurta Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/a/f/l-d919-divastri-original-imah32x9fzqgmgvn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/s/i/l-d919-divastri-original-imah32x92ngbqvyr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/r/2/l-d919-divastri-original-imah32x9bz92hhxh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/6/k/l-d919-divastri-original-imah32x9tqfgqf3s.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/m/4/l-d919-divastri-original-imah32x9uthezhjq.jpeg?q=70"
+      ],
+      "sku": "ETHH32XZZZTFTDV7",
+      "color": "RED",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 36,
+        "ratingCount": 565,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 630,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-11",
+          "reviewBody": "It is same as shown in images 💯 can't find anything odd in this kurta dupatta set. Go for it✨️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "garima agarwal",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-21",
+          "reviewBody": "Beautiful",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-27",
+          "reviewBody": "Amezing 😍😍 I loved it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

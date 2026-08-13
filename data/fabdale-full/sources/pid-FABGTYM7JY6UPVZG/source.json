@@ -1,0 +1,169 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm4e2f2d7aad77c?pid=FABGTYM7JY6UPVZG&lid=LSTFABGTYM7JY6UPVZGJFCQ82&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:34:17.031Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm4e2f2d7aad77c?pid=FABGTYM7JY6UPVZG&lid=LSTFABGTYM7JY6UPVZGJFCQ82&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:34:23.365Z"
+  },
+  "content": {
+    "title": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 top, 1 bottom , 1 dupatta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Unstitched Salwar Suit Material\nThis salwar suit material comes in an unstitched form, giving you the freedom to design and tailor i…\n\nPure Cotton Fabric\nCrafted from pure cotton fabric, this salwar suit material offers excellent comfort and breathabilit…\n\nVersatile Casual Wear\nIdeal for casual occasions, this salwar suit material allows you to create a simple yet stylish outf…\n\nBeautiful Maheshwari Design\nFeaturing the traditional Maheshwari design, this salwar suit material showcases the rich heritage a…\n\nEasy Fabric Care\nTo maintain the quality of this salwar suit material, it is recommended to hand wash it. This ensure…",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top, 1 bottom , 1 dupatta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/y/e/z/yes-2-5-m-unstitched-2-36-m-ff-krishna-boutique-original-imah5ts4yxzytycu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/y/e/z/yes-2-5-m-unstitched-2-36-m-ff-krishna-boutique-original-imah5ts4yxzytycu.jpeg?q=100",
+        "local_path": "../../media/images/03a8d1db57c1fcf37de4395a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+      "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.1550.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/y/e/z/yes-2-5-m-unstitched-2-36-m-ff-krishna-boutique-original-imah5ts4yxzytycu.jpeg?q=70"
+      ],
+      "sku": "FABGTYM7JY6UPVZG",
+      "color": "pink",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 14,
+        "ratingCount": 178,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "krishna boutique",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 570,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-01",
+          "reviewBody": "Good Product  ....👍👍👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-13",
+          "reviewBody": "Just ok",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Jyoti Kumari",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-25",
+          "reviewBody": "Good 👍🏻😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Unstitched Salwar Suit Material",
+          "body": "This salwar suit material comes in an unstitched form, giving you the freedom to design and tailor i…"
+        },
+        {
+          "heading": "Pure Cotton Fabric",
+          "body": "Crafted from pure cotton fabric, this salwar suit material offers excellent comfort and breathabilit…"
+        },
+        {
+          "heading": "Versatile Casual Wear",
+          "body": "Ideal for casual occasions, this salwar suit material allows you to create a simple yet stylish outf…"
+        },
+        {
+          "heading": "Beautiful Maheshwari Design",
+          "body": "Featuring the traditional Maheshwari design, this salwar suit material showcases the rich heritage a…"
+        },
+        {
+          "heading": "Easy Fabric Care",
+          "body": "To maintain the quality of this salwar suit material, it is recommended to hand wash it. This ensure…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top, 1 bottom , 1 dupatta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "03a8d1db57c1fcf37de4395a",
+      "path": "media/images/03a8d1db57c1fcf37de4395a/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

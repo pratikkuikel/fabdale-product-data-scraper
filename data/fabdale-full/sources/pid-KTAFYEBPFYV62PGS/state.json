@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KTAFYEBPFYV62PGS",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "696"
+  ],
+  "source_path": "sources/pid-KTAFYEBPFYV62PGS/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T10:49:29.606Z",
+  "completed_at": "2026-08-12T10:49:37.630Z"
+}

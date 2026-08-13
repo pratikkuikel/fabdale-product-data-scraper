@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-ETHGTGWX5MW5DRNK",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "1243",
+    "5217"
+  ],
+  "source_path": "sources/pid-ETHGTGWX5MW5DRNK/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T12:11:23.725Z",
+  "completed_at": "2026-08-12T12:11:43.255Z"
+}

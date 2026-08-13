@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-FABHBVJ6XRNAGGPH",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "564",
+    "5329"
+  ],
+  "source_path": "sources/pid-FABHBVJ6XRNAGGPH/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T10:34:07.382Z",
+  "completed_at": "2026-08-12T10:34:15.955Z"
+}

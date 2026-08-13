@@ -1,0 +1,129 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/tavas-jacquard-self-design-salwar-suit-material/p/itm1cd17febab0f1?pid=FABH4YAZU2Y2C6D2&lid=LSTFABH4YAZU2Y2C6D2E1QZBY&marketplace=FLIPKART&q=Tavas&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:39:11.283Z",
+    "final_url": "https://www.flipkart.com/tavas-jacquard-self-design-salwar-suit-material/p/itm1cd17febab0f1?pid=FABH4YAZU2Y2C6D2&lid=LSTFABH4YAZU2Y2C6D2E1QZBY&marketplace=FLIPKART&q=Tavas&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:39:17.334Z"
+  },
+  "content": {
+    "title": "Tavas Unstitched Jacquard Salwar Suit Material Self Design",
+    "short_description": "Fabric: Jacquard\nPattern: Self Design\nType: Salwar Suit Material\nSales Package: 1 Top, 1 Bottom, 1 Dupatta\nBottom Length: 2.5 m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": null,
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 Top, 1 Bottom, 1 Dupatta",
+      "Bottom Length": "2.5 m",
+      "Top Length": "2.5 m",
+      "Fabric": "Jacquard",
+      "Pattern": "Self Design",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/e/l/m/yes-2-5-m-unstitched-2-2-m-tvs-60-tavas-original-imahapc6qxbzrzgk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/e/l/m/yes-2-5-m-unstitched-2-2-m-tvs-60-tavas-original-imahapc6qxbzrzgk.jpeg?q=100",
+        "local_path": "../../media/images/147e3749aa8550ce6a9d666d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/d/v/q/yes-2-5-m-unstitched-2-2-m-tvs-60-tavas-original-imahapc6yutj4uvx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/d/v/q/yes-2-5-m-unstitched-2-2-m-tvs-60-tavas-original-imahapc6yutj4uvx.jpeg?q=100",
+        "local_path": "../../media/images/147e3749aa8550ce6a9d666d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/w/6/r/yes-2-2-m-semi-stitched-2-36-m-new-pure-gc-80-by-gauri-original-imahzy86nhuznqyz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/w/6/r/yes-2-2-m-semi-stitched-2-36-m-new-pure-gc-80-by-gauri-original-imahzy86nhuznqyz.jpeg?q=100",
+        "local_path": "../../media/images/147e3749aa8550ce6a9d666d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/d/s/o/yes-2-5-m-unstitched-2-2-m-rudraa-28-rudraa-fab-original-imahzxgz3q6ybazy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/d/s/o/yes-2-5-m-unstitched-2-2-m-rudraa-28-rudraa-fab-original-imahzxgz3q6ybazy.jpeg?q=100",
+        "local_path": "../../media/images/147e3749aa8550ce6a9d666d/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/m/h/i/yes-2-m-unstitched-2-10m-rnx5061pnk-manvaa-original-imahp9rgqhb9mmsy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/m/h/i/yes-2-m-unstitched-2-10m-rnx5061pnk-manvaa-original-imahp9rgqhb9mmsy.jpeg?q=100",
+        "local_path": "../../media/images/147e3749aa8550ce6a9d666d/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/t/l/u/yes-2-m-unstitched-2-10m-in2060pnk-manvaa-original-imahp9pypa9h3zuz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/t/l/u/yes-2-m-unstitched-2-10m-in2060pnk-manvaa-original-imahp9pypa9h3zuz.jpeg?q=100",
+        "local_path": "../../media/images/147e3749aa8550ce6a9d666d/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/b/4/a/yes-2-5-m-unstitched-2-2-m-gnx-50174-rudraa-fab-original-imahpeyg74dhysvc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/b/4/a/yes-2-5-m-unstitched-2-2-m-gnx-50174-rudraa-fab-original-imahpeyg74dhysvc.jpeg?q=100",
+        "local_path": "../../media/images/147e3749aa8550ce6a9d666d/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/o/o/m/yes-2-5-m-unstitched-2-2-m-gnx-50174-rudraa-fab-original-imahpeygmxutu2mb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/o/o/m/yes-2-5-m-unstitched-2-2-m-gnx-50174-rudraa-fab-original-imahpeygmxutu2mb.jpeg?q=100",
+        "local_path": "../../media/images/147e3749aa8550ce6a9d666d/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/p/8/n/no-na-unstitched-na-2ton-saree-blue-wish-original-imah46nyv9xnzyz8.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/p/8/n/no-na-unstitched-na-2ton-saree-blue-wish-original-imah46nyv9xnzyz8.jpeg?q=100",
+        "local_path": "../../media/images/147e3749aa8550ce6a9d666d/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/d/c/p/yes-2-5-m-unstitched-2-2-m-pf-nj-jw-s007-pranali-fashion-original-imahzv4fpq5heuq7.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/d/c/p/yes-2-5-m-unstitched-2-2-m-pf-nj-jw-s007-pranali-fashion-original-imahzv4fpq5heuq7.jpeg?q=100",
+        "local_path": "../../media/images/147e3749aa8550ce6a9d666d/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 Top, 1 Bottom, 1 Dupatta",
+        "Bottom Length": "2.5 m",
+        "Top Length": "2.5 m",
+        "Fabric": "Jacquard",
+        "Pattern": "Self Design",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "147e3749aa8550ce6a9d666d",
+      "path": "media/images/147e3749aa8550ce6a9d666d/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

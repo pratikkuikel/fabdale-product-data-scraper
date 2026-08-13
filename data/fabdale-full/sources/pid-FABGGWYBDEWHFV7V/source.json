@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/thira-crepe-floral-print-salwar-suit-material/p/itm3bc7cb2a60a02?pid=FABGGWYBDEWHFV7V&lid=LSTFABGGWYBDEWHFV7V8QEUWF&marketplace=FLIPKART&q=thira+suit&store=clo%2Fqfi%2Fxcx%2Fms4&srno=s_6_239&otracker=AS_QueryStore_OrganicAutoSuggest_1_5_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_5_na_na_ps&fm=search-autosuggest&iid=0d98833a-a438-45e7-a5cc-02f5d56bcee7.FABGGWYBDEWHFV7V.SEARCH&ppt=sp&ppn=sp&ssid=pjgovz0v1c0000001761069580123&qH=4c92c673799c9e31",
+    "scraped_at": "2026-08-12T10:41:36.515Z",
+    "final_url": "https://www.flipkart.com/thira-crepe-floral-print-salwar-suit-material/p/itm3bc7cb2a60a02?pid=FABGGWYBDEWHFV7V&lid=LSTFABGGWYBDEWHFV7V8QEUWF&marketplace=FLIPKART&q=thira+suit&store=clo%2Fqfi%2Fxcx%2Fms4&srno=s_6_239&otracker=AS_QueryStore_OrganicAutoSuggest_1_5_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_5_na_na_ps&fm=search-autosuggest&iid=0d98833a-a438-45e7-a5cc-02f5d56bcee7.FABGGWYBDEWHFV7V.SEARCH&ppt=sp&ppn=sp&ssid=pjgovz0v1c0000001761069580123&qH=4c92c673799c9e31"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:41:41.128Z"
+  },
+  "content": {
+    "title": "THIRA Crepe Floral Print Salwar Suit Material",
+    "short_description": "Buy THIRA Crepe Floral Print Salwar Suit Material for Rs.1299.0 online. THIRA Crepe Floral Print Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "description": "Buy THIRA Crepe Floral Print Salwar Suit Material for Rs.1299.0 online. THIRA Crepe Floral Print Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/v/q/n/yes-2-m-unstitched-2-2-m-inithi-d-1540-inithi-original-imaggvzwbxkhfhdh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/v/q/n/yes-2-m-unstitched-2-2-m-inithi-d-1540-inithi-original-imaggvzwbxkhfhdh.jpeg?q=100",
+        "local_path": "../../media/images/b21a2aaffae27f41812b3709/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/6/8/q/yes-2-m-unstitched-2-2-m-inithi-d-1540-inithi-original-imaggvzwheku9738.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/6/8/q/yes-2-m-unstitched-2-2-m-inithi-d-1540-inithi-original-imaggvzwheku9738.jpeg?q=100",
+        "local_path": "../../media/images/b21a2aaffae27f41812b3709/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "THIRA Crepe Floral Print Salwar Suit Material",
+      "description": "Buy THIRA Crepe Floral Print Salwar Suit Material for Rs.1299.0 online. THIRA Crepe Floral Print Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/v/q/n/yes-2-m-unstitched-2-2-m-inithi-d-1540-inithi-original-imaggvzwbxkhfhdh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/6/8/q/yes-2-m-unstitched-2-2-m-inithi-d-1540-inithi-original-imaggvzwheku9738.jpeg?q=70"
+      ],
+      "sku": "FABGGWYBDEWHFV7V",
+      "color": "THIRA_D_1540",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 3,
+        "ratingCount": 47,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "THIRA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 265,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-02",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "FIROJ HUSSAIN",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-11",
+          "reviewBody": "Thank you Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Sumithra P",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-16",
+          "reviewBody": "Nice super quality tq",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b21a2aaffae27f41812b3709",
+      "path": "media/images/b21a2aaffae27f41812b3709/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "product_id": "1083",
+  "sku": "Fab-Salwar-PRSC-027BK-XXL",
+  "product": {
+    "name": "Pravya Maroon Zari Embroidered Salwar Suit Set",
+    "parent_id": "5195",
+    "notes": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itmbfce323b35fb2?pid=KTAHC345ACVSWEDH&lid=LSTKTAHC345ACVSWEDHUMUS5W&marketplace=FLIPKART&q=kurtas+kurtis&store=clo%2Fcfv%2Fcib%2Frkt&srno=s_1_35&otracker=search&fm=organic&iid=9771051a-9132-4050-8d5b-8925ed1c2fb3.KTAHC345ACVSWEDH.SEARCH&ppt=sp&ppn=sp&ssid=o5t2jfi3zk0000001766120377621&qH=5985e3313e9e348f"
+  },
+  "source_bundle": {
+    "key": "pid-KTAHC345ACVSWEDH",
+    "path": "../../sources/pid-KTAHC345ACVSWEDH/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itmbfce323b35fb2?pid=KTAHC345ACVSWEDH&marketplace=FLIPKART&lid=LSTKTAHC345ACVSWEDHUMUS5W&swatchAttr=size&pageUID=1772646910485",
+    "scraped_at": "2026-08-12T11:33:56.765Z",
+    "final_url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itmbfce323b35fb2?pid=KTAHC345ACVSWEDH&marketplace=FLIPKART&lid=LSTKTAHC345ACVSWEDHUMUS5W&swatchAttr=size&pageUID=1772646910485"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:34:16.369Z"
+  },
+  "content": {
+    "title": "PRISCA Floral Print Pure Cotton Straight Kurta for Women (Black)",
+    "short_description": "Color: Black\nFabric: Pure Cotton\nPattern: Floral Print\nType: Straight",
+    "description": "Graceful Floral Pattern\nCourtesy of its floral printed pattern, this women’s kurta displays repeated motifs across the fabri…\n\nClean and Straight Silhouette\nThis kurta offers a notched neckline, three-quarter sleeves, and a straight cut that extends below t…\n\nBreathable Cotton Fabric\nThis kurta's cotton fabric delivers a lightweight and breathable experience. It can be suitable for …\n\nImpressive Versatility\nThanks to its gentle floral print, structured design, and breathable material, this kurta can be wor…",
+    "specifications": {
+      "Pattern": "Floral Print",
+      "Type": "Straight",
+      "Fabric": "Pure Cotton",
+      "Color": "Black"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a18fcbe6427e1a1c368d3aaf",
+      "path": "media/images/a18fcbe6427e1a1c368d3aaf/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/s/n/h/s-sk-100-black-zari-v-neck-prisca-resized-original-imahgfgptjv3dqas.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/s/n/h/s-sk-100-black-zari-v-neck-prisca-resized-original-imahgfgptjv3dqas.jpeg?q=100",
+        "local_path": "../../media/images/a18fcbe6427e1a1c368d3aaf/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/w/b/j/s-sk-100-black-zari-v-neck-prisca-original-imahgfgpxuc7rczs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/w/b/j/s-sk-100-black-zari-v-neck-prisca-original-imahgfgpxuc7rczs.jpeg?q=100",
+        "local_path": "../../media/images/a18fcbe6427e1a1c368d3aaf/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/u/w/w/s-sk-100-black-zari-v-neck-prisca-original-imahgfgpubwzuecg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/u/w/w/s-sk-100-black-zari-v-neck-prisca-original-imahgfgpubwzuecg.jpeg?q=100",
+        "local_path": "../../media/images/a18fcbe6427e1a1c368d3aaf/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/3/c/c/s-sk-100-black-zari-v-neck-prisca-original-imahgfgppz2rkdpb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/3/c/c/s-sk-100-black-zari-v-neck-prisca-original-imahgfgppz2rkdpb.jpeg?q=100",
+        "local_path": "../../media/images/a18fcbe6427e1a1c368d3aaf/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/z/x/m/s-sk-100-black-zari-v-neck-prisca-original-imahgfgpkqfmgvz2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/z/x/m/s-sk-100-black-zari-v-neck-prisca-original-imahgfgpkqfmgvz2.jpeg?q=100",
+        "local_path": "../../media/images/a18fcbe6427e1a1c368d3aaf/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/z/d/0/s-shopsy-maroon-zari-kkoutfits-original-imahhey2yqvgvw2y.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/z/d/0/s-shopsy-maroon-zari-kkoutfits-original-imahhey2yqvgvw2y.jpeg?q=100",
+        "local_path": "../../media/images/a18fcbe6427e1a1c368d3aaf/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/q/0/4/xl-shopsy-ikat-black-kkoutits-original-imahhd4s4curdjmg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/q/0/4/xl-shopsy-ikat-black-kkoutits-original-imahhd4s4curdjmg.jpeg?q=100",
+        "local_path": "../../media/images/a18fcbe6427e1a1c368d3aaf/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/n/p/a/3xl-37-nk-blue-wawlooks-original-imahzx8zztcnrjkh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/n/p/a/3xl-37-nk-blue-wawlooks-original-imahzx8zztcnrjkh.jpeg?q=100",
+        "local_path": "../../media/images/a18fcbe6427e1a1c368d3aaf/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=100",
+        "local_path": "../../media/images/a18fcbe6427e1a1c368d3aaf/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/h/h/c/s-shopsy-green-carry-kkoutfits-resized-original-imahheazg4ygmtfj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/h/h/c/s-shopsy-green-carry-kkoutfits-resized-original-imahheazg4ygmtfj.jpeg?q=100",
+        "local_path": "../../media/images/a18fcbe6427e1a1c368d3aaf/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/z/d/c/xxl-sk-pink-batik-kkfab-original-imahgg2xb8y4teyb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/z/d/c/xxl-sk-pink-batik-kkfab-original-imahgg2xb8y4teyb.jpeg?q=100",
+        "local_path": "../../media/images/a18fcbe6427e1a1c368d3aaf/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/5/s/y/l-shopsy-rama-green-kkoutfits-original-imahhd2ehhem9sxa.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/5/s/y/l-shopsy-rama-green-kkoutfits-original-imahhd2ehhem9sxa.jpeg?q=100",
+        "local_path": "../../media/images/a18fcbe6427e1a1c368d3aaf/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/7/8/4/s-kkfts-maroon-dori-kkoutfits-original-imahkwzrf7wzxzdb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/7/8/4/s-kkfts-maroon-dori-kkoutfits-original-imahkwzrf7wzxzdb.jpeg?q=100",
+        "local_path": "../../media/images/a18fcbe6427e1a1c368d3aaf/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Graceful Floral Pattern",
+          "body": "Courtesy of its floral printed pattern, this women’s kurta displays repeated motifs across the fabri…"
+        },
+        {
+          "heading": "Clean and Straight Silhouette",
+          "body": "This kurta offers a notched neckline, three-quarter sleeves, and a straight cut that extends below t…"
+        },
+        {
+          "heading": "Breathable Cotton Fabric",
+          "body": "This kurta's cotton fabric delivers a lightweight and breathable experience. It can be suitable for …"
+        },
+        {
+          "heading": "Impressive Versatility",
+          "body": "Thanks to its gentle floral print, structured design, and breathable material, this kurta can be wor…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Floral Print",
+        "Type": "Straight",
+        "Fabric": "Pure Cotton",
+        "Color": "Black"
+      },
+      "specifications": {}
+    }
+  }
+}

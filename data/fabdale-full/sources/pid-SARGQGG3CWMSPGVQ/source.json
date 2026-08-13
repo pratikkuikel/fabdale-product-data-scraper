@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/fabmora-embellished-bollywood-chiffon-saree/p/itmb3126eb8cc3f3?pid=SARGQGG3CWMSPGVQ&lid=LSTSARGQGG3CWMSPGVQAKCFWM&marketplace=FLIPKART&q=Fabmora&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T08:51:29.895Z",
+    "final_url": "https://www.flipkart.com/fabmora-embellished-bollywood-chiffon-saree/p/itmb3126eb8cc3f3?pid=SARGQGG3CWMSPGVQ&lid=LSTSARGQGG3CWMSPGVQAKCFWM&marketplace=FLIPKART&q=Fabmora&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:51:44.995Z"
+  },
+  "content": {
+    "title": "FABMORA Embellished Bollywood Chiffon Saree",
+    "short_description": "FABMORA Embellished Bollywood Chiffon Saree - Buy FABMORA Embellished Bollywood Chiffon Saree For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "FABMORA Embellished Bollywood Chiffon Saree - Buy FABMORA Embellished Bollywood Chiffon Saree For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/b/m/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8xpkzrdxye5e.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/b/m/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8xpkzrdxye5e.jpeg?q=100",
+        "local_path": "../../media/images/6b253f485f2f2995762cba3b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/l/u/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8xpkdnpxukhg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/l/u/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8xpkdnpxukhg.jpeg?q=100",
+        "local_path": "../../media/images/6b253f485f2f2995762cba3b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/x/e/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8xpk3pxb4wrz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/x/e/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8xpk3pxb4wrz.jpeg?q=100",
+        "local_path": "../../media/images/6b253f485f2f2995762cba3b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/3/8/t/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8gz6x463wn36.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/3/8/t/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8gz6x463wn36.jpeg?q=100",
+        "local_path": "../../media/images/6b253f485f2f2995762cba3b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/9/l/r/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8xpkxdnhkjm4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/9/l/r/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8xpkxdnhkjm4.jpeg?q=100",
+        "local_path": "../../media/images/6b253f485f2f2995762cba3b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FABMORA Embellished Bollywood Chiffon Saree",
+      "description": "FABMORA Embellished Bollywood Chiffon Saree - Buy FABMORA Embellished Bollywood Chiffon Saree For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/b/m/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8xpkzrdxye5e.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/l/u/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8xpkdnpxukhg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/x/e/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8xpk3pxb4wrz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/3/8/t/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8gz6x463wn36.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/9/l/r/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imah8xpkxdnhkjm4.jpeg?q=70"
+      ],
+      "sku": "SARGQGG3CWMSPGVQ",
+      "color": "RED",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 584,
+        "ratingCount": 16880,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FABMORA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 333,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-29",
+          "reviewBody": "Great 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Sudhir Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-27",
+          "reviewBody": "Good looking saree ❤",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Prashansa Kumari",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-27",
+          "reviewBody": "Pretty saree I like it fabric",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "6b253f485f2f2995762cba3b",
+      "path": "media/images/6b253f485f2f2995762cba3b/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

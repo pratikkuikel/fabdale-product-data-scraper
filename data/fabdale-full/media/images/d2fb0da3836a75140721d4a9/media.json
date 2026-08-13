@@ -1,0 +1,16 @@
+{
+  "key": "d2fb0da3836a75140721d4a9",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T11:52:13.667Z",
+  "items": [
+    {
+      "source_url": "https://rukminim2.flixcart.com/blobio/840/840/imr/blobio-imr_9362fc9b76884d9db9c41494156b24eb.jpg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/blobio/840/840/imr/blobio-imr_9362fc9b76884d9db9c41494156b24eb.jpg?q=80",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

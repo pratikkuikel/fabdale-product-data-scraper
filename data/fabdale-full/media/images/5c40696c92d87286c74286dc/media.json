@@ -1,0 +1,44 @@
+{
+  "key": "5c40696c92d87286c74286dc",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T11:00:20.342Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/q/8/xl-sw-floreena-piludi-original-imahbyeca676xaph.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/q/8/xl-sw-floreena-piludi-original-imahbyeca676xaph.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/n/t/xl-sw-floreena-piludi-original-imahbyecygnbgegw.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/n/t/xl-sw-floreena-piludi-original-imahbyecygnbgegw.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/s/l/xl-sw-floreena-piludi-original-imahbyece6eay4gv.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/s/l/xl-sw-floreena-piludi-original-imahbyece6eay4gv.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/k/w/xl-sw-floreena-piludi-original-imahbyec3ebrwg6x.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/k/w/xl-sw-floreena-piludi-original-imahbyec3ebrwg6x.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/n/s/xl-sw-floreena-piludi-original-imahbyec79y3wtuh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/n/s/xl-sw-floreena-piludi-original-imahbyec79y3wtuh.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

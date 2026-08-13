@@ -1,0 +1,198 @@
+{
+  "product_id": "540",
+  "sku": "Fab-Drsmtl-KRSN-002BK",
+  "product": {
+    "name": "Kala Sutra Cotton Ikkat Salwar with Dupatta",
+    "parent_id": "5320",
+    "notes": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm26c052d47468d?pid=FABHFTHEXQQ9DUAU&lid=LSTFABHFTHEXQQ9DUAUBGIISY&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-FABHFTHEXQQ9DUAU",
+    "path": "../../sources/pid-FABHFTHEXQQ9DUAU/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm26c052d47468d?pid=FABHFTHEXQQ9DUAU&lid=LSTFABHFTHEXQQ9DUAUBGIISY&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:31:12.619Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm26c052d47468d?pid=FABHFTHEXQQ9DUAU&lid=LSTFABHFTHEXQQ9DUAUBGIISY&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:31:20.569Z"
+  },
+  "content": {
+    "title": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 suit, 1 salwar, 1 duppata\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.2498.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 suit, 1 salwar, 1 duppata",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "de20e376f22aeff71ad4c54b",
+      "path": "media/images/de20e376f22aeff71ad4c54b/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "c9ceca6a119916dcb7b6b3b0",
+      "path": "media/videos/c9ceca6a119916dcb7b6b3b0/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/4/d/q/yes-2-m-unstitched-2-10m-6049-02-houseofcommon-resized-original-imahcuyh6cwj68sm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/4/d/q/yes-2-m-unstitched-2-10m-6049-02-houseofcommon-resized-original-imahcuyh6cwj68sm.jpeg?q=100",
+        "local_path": "../../media/images/de20e376f22aeff71ad4c54b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/3/0/x/yes-2-m-unstitched-2-10m-6049-02-houseofcommon-original-imahcuyhzemgn7zh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/3/0/x/yes-2-m-unstitched-2-10m-6049-02-houseofcommon-original-imahcuyhzemgn7zh.jpeg?q=100",
+        "local_path": "../../media/images/de20e376f22aeff71ad4c54b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/u/m/1/yes-2-25-m-unstitched-2-36-m-vc-02-vc-fashion-original-imahfsjzm4pgsuct.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/u/m/1/yes-2-25-m-unstitched-2-36-m-vc-02-vc-fashion-original-imahfsjzm4pgsuct.jpeg?q=100",
+        "local_path": "../../media/images/de20e376f22aeff71ad4c54b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/SELLER_CATALOG/CN0uorSIYlRSGunKqTCiWG8g/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+      "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.2498.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/4/d/q/yes-2-m-unstitched-2-10m-6049-02-houseofcommon-resized-original-imahcuyh6cwj68sm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/3/0/x/yes-2-m-unstitched-2-10m-6049-02-houseofcommon-original-imahcuyhzemgn7zh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/u/m/1/yes-2-25-m-unstitched-2-36-m-vc-02-vc-fashion-original-imahfsjzm4pgsuct.jpeg?q=70"
+      ],
+      "sku": "FABHFTHEXQQ9DUAU",
+      "color": "yellow-02",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 6,
+        "ratingCount": 112,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "krishna boutique",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 438,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-31",
+          "reviewBody": "Top length 2.25😔",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Dipa Dutta",
+            "@type": "Person"
+          },
+          "datePublished": "2026-07-12",
+          "reviewBody": "Nice product.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Rubina R+m",
+            "@type": "Person"
+          },
+          "datePublished": "2026-07-06",
+          "reviewBody": "Nice baby good quality and same received on parcel",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 suit, 1 salwar, 1 duppata",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  }
+}

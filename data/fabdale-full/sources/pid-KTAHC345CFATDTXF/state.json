@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-KTAHC345CFATDTXF",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "1074",
+    "1075",
+    "1076",
+    "1077",
+    "1078"
+  ],
+  "source_path": "sources/pid-KTAHC345CFATDTXF/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:33:40.212Z",
+  "completed_at": "2026-08-12T11:33:55.348Z"
+}

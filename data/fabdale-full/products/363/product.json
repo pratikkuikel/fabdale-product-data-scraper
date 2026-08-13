@@ -1,0 +1,201 @@
+{
+  "product_id": "363",
+  "sku": "Fab-Dress-SHTL-005BK-M",
+  "product": {
+    "name": "Shemora Abstract Printed Midi Dress",
+    "parent_id": "5106",
+    "notes": "https://www.flipkart.com/sheetal-associates-women-fit-flare-black-midi-calf-length-dress/p/itm98307287501da?pid=DREGUU9ZX2TYSPGD&marketplace=FLIPKART&lid=LSTDREGUU9ZX2TYSPGDCD4CES&fm=eyJ3dHAiOiJhdGxhc19wbXVfdjNfbm90aWZ5IiwicHJwdCI6InBwIiwibWlkIjoiY29udGludXVtL3BwIn0%3D&swatchAttr=size&pageUID=1778747814630"
+  },
+  "source_bundle": {
+    "key": "pid-DREGUU9ZX2TYSPGD",
+    "path": "../../sources/pid-DREGUU9ZX2TYSPGD/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/sheetal-associates-women-fit-flare-black-midi-calf-length-dress/p/itm98307287501da?pid=DREGUU9ZX2TYSPGD&marketplace=FLIPKART&lid=LSTDREGUU9ZX2TYSPGDCD4CES&fm=eyJ3dHAiOiJhdGxhc19wbXVfdjNfbm90aWZ5IiwicHJwdCI6InBwIiwibWlkIjoiY29udGludXVtL3BwIn0%3D&swatchAttr=size&pageUID=1778747814630",
+    "scraped_at": "2026-08-12T08:38:33.015Z",
+    "final_url": "https://www.flipkart.com/sheetal-associates-women-fit-flare-black-midi-calf-length-dress/p/itm98307287501da?pid=DREGUU9ZX2TYSPGD&marketplace=FLIPKART&lid=LSTDREGUU9ZX2TYSPGDCD4CES&fm=eyJ3dHAiOiJhdGxhc19wbXVfdjNfbm90aWZ5IiwicHJwdCI6InBwIiwibWlkIjoiY29udGludXVtL3BwIn0%3D&swatchAttr=size&pageUID=1778747814630"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:38:39.339Z"
+  },
+  "content": {
+    "title": "Sheetal Associates Women Fit and Flare Black Midi/Calf Length Dress",
+    "short_description": "Color: Black\nPattern: Printed\nType: Fit and Flare\nSleeve: Short Sleeve\nLength: Midi/Calf Length\nSleeve Length: Short Sleeve",
+    "description": "Sheetal Associates Women Fit and Flare Black Midi/Calf Length Dress - Buy Sheetal Associates Women Fit and Flare Black Midi/Calf Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Color": "Black",
+      "Length": "Midi/Calf Length",
+      "Pattern": "Printed",
+      "Type": "Fit and Flare",
+      "Sleeve Length": "Short Sleeve",
+      "Sleeve": "Short Sleeve"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "6ca7e5c7160132589ea4755d",
+      "path": "media/images/6ca7e5c7160132589ea4755d/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/e/3/e/s-7191-new25-sheetal-accociates-resized-original-imahgs3vezaxp4fb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/e/3/e/s-7191-new25-sheetal-accociates-resized-original-imahgs3vezaxp4fb.jpeg?q=100",
+        "local_path": "../../media/images/6ca7e5c7160132589ea4755d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/h/h/k/s-7191-new25-sheetal-accociates-original-imahgs3vhzdx5whk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/h/h/k/s-7191-new25-sheetal-accociates-original-imahgs3vhzdx5whk.jpeg?q=100",
+        "local_path": "../../media/images/6ca7e5c7160132589ea4755d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/k/f/z/s-7191-new25-sheetal-accociates-original-imahgs3vsvcbufha.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/k/f/z/s-7191-new25-sheetal-accociates-original-imahgs3vsvcbufha.jpeg?q=100",
+        "local_path": "../../media/images/6ca7e5c7160132589ea4755d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/m/x/w/s-7191-new25-sheetal-accociates-original-imahgs3v5q3qmf7j.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/m/x/w/s-7191-new25-sheetal-accociates-original-imahgs3v5q3qmf7j.jpeg?q=100",
+        "local_path": "../../media/images/6ca7e5c7160132589ea4755d/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/g/l/w/s-7191-new25-sheetal-accociates-original-imahgs3v9jgh9trx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/g/l/w/s-7191-new25-sheetal-accociates-original-imahgs3v9jgh9trx.jpeg?q=100",
+        "local_path": "../../media/images/6ca7e5c7160132589ea4755d/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Sheetal Associates Women Fit and Flare Black Midi/Calf Length Dress",
+      "description": "Sheetal Associates Women Fit and Flare Black Midi/Calf Length Dress - Buy Sheetal Associates Women Fit and Flare Black Midi/Calf Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/e/3/e/s-7191-new25-sheetal-accociates-resized-original-imahgs3vezaxp4fb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/h/h/k/s-7191-new25-sheetal-accociates-original-imahgs3vhzdx5whk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/k/f/z/s-7191-new25-sheetal-accociates-original-imahgs3vsvcbufha.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/m/x/w/s-7191-new25-sheetal-accociates-original-imahgs3v5q3qmf7j.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/g/l/w/s-7191-new25-sheetal-accociates-original-imahgs3v9jgh9trx.jpeg?q=70"
+      ],
+      "sku": "DREGUU9ZX2TYSPGD",
+      "color": "Black",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 3227,
+        "ratingCount": 55113,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Sheetal Associates",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 332,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Shivangi Jariwala",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-28",
+          "reviewBody": "Dress is superb, it is as it is shown in the pictures I loved it, quality of the cloth worth by its cost. I am happy with this dress, worth buying at its cost",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Geetanjali Chauhan",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-01",
+          "reviewBody": "Awesome dress",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "VAISHALI PANDEY",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-03",
+          "reviewBody": "Absolutely loved this dress. It's material, colour, length, everything is awesome. Go for it!!",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Color": "Black",
+        "Length": "Midi/Calf Length",
+        "Pattern": "Printed",
+        "Type": "Fit and Flare",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve": "Short Sleeve"
+      },
+      "specifications": {}
+    }
+  }
+}

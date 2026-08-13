@@ -1,0 +1,204 @@
+{
+  "product_id": "1794",
+  "sku": "Fab-Lehenga-DVST-006BL",
+  "product": {
+    "name": "Divashree Wedding Wear Lehenga Choli",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/divastri-self-design-semi-stitched-lehenga-choli/p/itm4f0949d38c946?pid=LCHG2FTZGWHAKWWB&lid=LSTLCHG2FTZGWHAKWWBAA4UPU&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-LCHG2FTZGWHAKWWB",
+    "path": "../../sources/pid-LCHG2FTZGWHAKWWB/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/divastri-self-design-semi-stitched-lehenga-choli/p/itm4f0949d38c946?pid=LCHG2FTZGWHAKWWB&lid=LSTLCHG2FTZGWHAKWWBAA4UPU&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T07:22:24.654Z",
+    "final_url": "https://www.flipkart.com/divastri-self-design-semi-stitched-lehenga-choli/p/itm4f0949d38c946?pid=LCHG2FTZGWHAKWWB&lid=LSTLCHG2FTZGWHAKWWBAA4UPU&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:22:32.192Z"
+  },
+  "content": {
+    "title": "Divastri Self Design Semi Stitched Lehenga Choli",
+    "short_description": "Color: Pink, Dark Blue\nPattern: Self Design\nType: Lehenga Choli\nLehenga Fabric: Cotton Blend\nCholi Fabric: Silk\nStitching Type: Semi Stitched\nSales Package: 1 lehenga,1 Un-Stitched choli fabric,1 Banarasi dupatta",
+    "description": "Additional Details\nColor is slight different due to your visual setting of monitor and mobile screen.\n\nLehenga Choli Details\nLehenga FabricCotton BlendCholi FabricSilkTypeLehenga CholiNeckRound NeckSleeveFull SleeveEmbroideredYesLining TypeCottonDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package1 lehenga,1 Un-Stitched choli fabric,1 Banarasi dupattaBlouse PatternSelf DesignBlouse Stitch TypeUnstitched BlouseColorPink, Dark BlueBrand ColorPinkDupatta PatternSelf DesignLehenga ClosureDrawstring/DoriLehenga ShapeCircular/FlaredSizeFree\n\nSales Package\n1 lehenga,1 Un-Stitched choli fabric,1 Banarasi dupatta",
+    "specifications": {
+      "Lehenga Fabric": "Cotton Blend",
+      "Choli Fabric": "Silk",
+      "Type": "Lehenga Choli",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Self Design",
+      "Sales Package": "1 lehenga,1 Un-Stitched choli fabric,1 Banarasi dupatta",
+      "Color": "Pink, Dark Blue"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c63610b0a355e6a0bead5d10",
+      "path": "media/images/c63610b0a355e6a0bead5d10/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/k/z/i/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fthyz5nzyhg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/k/z/i/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fthyz5nzyhg.jpeg?q=100",
+        "local_path": "../../media/images/c63610b0a355e6a0bead5d10/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/0/g/7/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fth7gs48fuk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/0/g/7/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fth7gs48fuk.jpeg?q=100",
+        "local_path": "../../media/images/c63610b0a355e6a0bead5d10/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/1/0/1/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fthheyqqgch.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/1/0/1/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fthheyqqgch.jpeg?q=100",
+        "local_path": "../../media/images/c63610b0a355e6a0bead5d10/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/m/i/b/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fthnqmmzjsu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/m/i/b/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fthnqmmzjsu.jpeg?q=100",
+        "local_path": "../../media/images/c63610b0a355e6a0bead5d10/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/b/o/3/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fthughkzqgg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/b/o/3/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fthughkzqgg.jpeg?q=100",
+        "local_path": "../../media/images/c63610b0a355e6a0bead5d10/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Self Design Semi Stitched Lehenga Choli",
+      "description": "Divastri Self Design Semi Stitched Lehenga Choli - Buy Divastri Self Design Semi Stitched Lehenga Choli For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/k/z/i/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fthyz5nzyhg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/0/g/7/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fth7gs48fuk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/1/0/1/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fthheyqqgch.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/m/i/b/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fthnqmmzjsu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/knunf680/lehenga-choli/b/o/3/free-full-sleeve-rk1026-1-lehenga-choli-divastri-original-imag2fthughkzqgg.jpeg?q=70"
+      ],
+      "sku": "LCHG2FTZGWHAKWWB",
+      "color": "Pink",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 92,
+        "ratingCount": 667,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 652,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Flipkart Khushi Bind ",
+            "@type": "Person"
+          },
+          "datePublished": "2021-12-07",
+          "reviewBody": "Very satisfied with this product thank you flipkart ❤❤",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Harshita Prajapati",
+            "@type": "Person"
+          },
+          "datePublished": "2021-06-26",
+          "reviewBody": "Iam so happy very very very very very very nice product 😀",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2021-05-25",
+          "reviewBody": "Very nice product.... Really this is same product.. I am happy",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Additional Details",
+          "body": "Color is slight different due to your visual setting of monitor and mobile screen."
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricCotton BlendCholi FabricSilkTypeLehenga CholiNeckRound NeckSleeveFull SleeveEmbroideredYesLining TypeCottonDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package1 lehenga,1 Un-Stitched choli fabric,1 Banarasi dupattaBlouse PatternSelf DesignBlouse Stitch TypeUnstitched BlouseColorPink, Dark BlueBrand ColorPinkDupatta PatternSelf DesignLehenga ClosureDrawstring/DoriLehenga ShapeCircular/FlaredSizeFree"
+        },
+        {
+          "heading": "Sales Package",
+          "body": "1 lehenga,1 Un-Stitched choli fabric,1 Banarasi dupatta"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Cotton Blend",
+        "Choli Fabric": "Silk",
+        "Type": "Lehenga Choli",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Self Design",
+        "Sales Package": "1 lehenga,1 Un-Stitched choli fabric,1 Banarasi dupatta",
+        "Color": "Pink, Dark Blue"
+      },
+      "specifications": {}
+    }
+  }
+}

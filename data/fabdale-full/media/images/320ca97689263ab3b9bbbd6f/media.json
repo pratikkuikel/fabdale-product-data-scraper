@@ -1,0 +1,44 @@
+{
+  "key": "320ca97689263ab3b9bbbd6f",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T08:56:35.731Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/t/t/free-4288s3074-samah-unstitched-resized-original-imahg2mt5h2a9za9.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/t/t/free-4288s3074-samah-unstitched-resized-original-imahg2mt5h2a9za9.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/l/k/o/free-4288s3074-samah-unstitched-original-imahg2mt8xndhhfp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/l/k/o/free-4288s3074-samah-unstitched-original-imahg2mt8xndhhfp.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/h/p/i/free-4288s3074-samah-unstitched-original-imahg2mtfghzmyub.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/h/p/i/free-4288s3074-samah-unstitched-original-imahg2mtfghzmyub.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/b/w/free-4288s3074-samah-unstitched-original-imahg2mthcv2yhqx.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/b/w/free-4288s3074-samah-unstitched-original-imahg2mthcv2yhqx.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/v/e/f/free-4288s3074-samah-unstitched-original-imahg2mt2v5qw3zd.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/v/e/f/free-4288s3074-samah-unstitched-original-imahg2mt2v5qw3zd.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

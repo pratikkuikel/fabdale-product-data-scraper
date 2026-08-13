@@ -1,0 +1,231 @@
+{
+  "product_id": "1419",
+  "sku": "Fab-Salwar-RYEX-004PL-S",
+  "product": {
+    "name": "Rivanta Floral Embroidered Salwar Suit Set",
+    "parent_id": "5232",
+    "notes": "https://www.flipkart.com/royal-export-embroidered-kurta-trouser-pant-dupatta-set/p/itm02ac776a64e68?pid=SWDH6XZPDBZVSGJK&marketplace=FLIPKART&lid=LSTSWDH6XZPDBZVSGJKVF0YOZ&swatchAttr=size&pageUID=1772796319592"
+  },
+  "source_bundle": {
+    "key": "pid-SWDH6XZPDBZVSGJK",
+    "path": "../../sources/pid-SWDH6XZPDBZVSGJK/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-embroidered-kurta-trouser-pant-dupatta-set/p/itm02ac776a64e68?pid=SWDH6XZPDBZVSGJK&marketplace=FLIPKART&lid=LSTSWDH6XZPDBZVSGJKVF0YOZ&swatchAttr=size&pageUID=1772796319592",
+    "scraped_at": "2026-08-12T15:26:51.307Z",
+    "final_url": "https://www.flipkart.com/royal-export-embroidered-kurta-trouser-pant-dupatta-set/p/itm02ac776a64e68?pid=SWDH6XZPDBZVSGJK&marketplace=FLIPKART&lid=LSTSWDH6XZPDBZVSGJKVF0YOZ&swatchAttr=size&pageUID=1772796319592"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:26:58.744Z"
+  },
+  "content": {
+    "title": "Royal Export Embroidered Kurta, Trouser/Pant & Dupatta Set",
+    "short_description": "Color: Purple\nPattern: Embroidered\nType: Kurta, Trouser/Pant & Dupatta Set\nTop Type: Kurta\nBottom Type: Trouser",
+    "description": "Salwar Kurta Dupatta Details\nKurta FabricPure CottonSalwar FabricCottonTypeKurta, Trouser/Pant & Dupatta SetDupatta FabricCotton SilkKurta TypeStraightNeckRound NeckSleeve3/4 SleeveTop TypeKurtaBottom TypeTrouserColorPurplePatternEmbroideredDetail PlacementYokeDupatta IncludedYesOrnamentation TypeNonePattern/Print TypeFloralSizeSSleeve StyleRegular SleevesSuitable ForEthnic WearSurface StylingAppliqueTrendTraditional collection",
+    "specifications": {
+      "Type": "Kurta, Trouser/Pant & Dupatta Set",
+      "Top Type": "Kurta",
+      "Bottom Type": "Trouser",
+      "Color": "Purple",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "36538136fae15d0597874332",
+      "path": "media/images/36538136fae15d0597874332/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/7/6/-resized-original-imahf5bggvg7me45.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/7/6/-resized-original-imahf5bggvg7me45.jpeg?q=100",
+        "local_path": "../../media/images/36538136fae15d0597874332/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/b/a/i/-original-imahf5bgz29pyyjd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/b/a/i/-original-imahf5bgz29pyyjd.jpeg?q=100",
+        "local_path": "../../media/images/36538136fae15d0597874332/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/9/i/g/-original-imahf5bgmyzhn3vz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/9/i/g/-original-imahf5bgmyzhn3vz.jpeg?q=100",
+        "local_path": "../../media/images/36538136fae15d0597874332/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/h/f/4/-original-imahf5bgmcjry8hx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/h/f/4/-original-imahf5bgmcjry8hx.jpeg?q=100",
+        "local_path": "../../media/images/36538136fae15d0597874332/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/j/l/w/-original-imahf5bghaa7azzu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/j/l/w/-original-imahf5bghaa7azzu.jpeg?q=100",
+        "local_path": "../../media/images/36538136fae15d0597874332/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Embroidered Kurta, Trouser/Pant & Dupatta Set",
+      "description": "Royal Export Embroidered Kurta, Trouser/Pant & Dupatta Set - Buy Royal Export Embroidered Kurta, Trouser/Pant & Dupatta Set For Only Rs. 5499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/7/6/-resized-original-imahf5bggvg7me45.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/b/a/i/-original-imahf5bgz29pyyjd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/9/i/g/-original-imahf5bgmyzhn3vz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/h/f/4/-original-imahf5bgmcjry8hx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/j/l/w/-original-imahf5bghaa7azzu.jpeg?q=70"
+      ],
+      "sku": "SWDH6XZPDBZVSGJK",
+      "color": "Purple",
+      "category": "salwar_kurta_dupatta",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 86,
+        "ratingCount": 585,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 606,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-15",
+          "reviewBody": "Awesome",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-15",
+          "reviewBody": "Amazing",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-12",
+          "reviewBody": "Quality is very good,beautiful preety dress same as pic tq Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Salwar Kurta Dupatta Details",
+          "body": "Kurta FabricPure CottonSalwar FabricCottonTypeKurta, Trouser/Pant & Dupatta SetDupatta FabricCotton SilkKurta TypeStraightNeckRound NeckSleeve3/4 SleeveTop TypeKurtaBottom TypeTrouserColorPurplePatternEmbroideredDetail PlacementYokeDupatta IncludedYesOrnamentation TypeNonePattern/Print TypeFloralSizeSSleeve StyleRegular SleevesSuitable ForEthnic WearSurface StylingAppliqueTrendTraditional collection"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Kurta, Trouser/Pant & Dupatta Set",
+        "Top Type": "Kurta",
+        "Bottom Type": "Trouser",
+        "Color": "Purple",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {
+        "In the Box": "1 kurta, 1 pant, 1 dupatta",
+        "Fabric Care": "Hand Wash",
+        "Kurta Fabric": "Pure Cotton",
+        "Salwar Fabric": "Cotton",
+        "Type": "Kurta, Trouser/Pant & Dupatta Set",
+        "Dupatta Fabric": "Cotton Silk",
+        "Kurta Type": "Straight",
+        "Neck": "Round Neck",
+        "Sleeve": "3/4 Sleeve",
+        "Top Type": "Kurta",
+        "Bottom Type": "Trouser",
+        "Color": "Purple",
+        "Pattern": "Embroidered",
+        "Detail Placement": "Yoke",
+        "Dupatta Included": "Yes",
+        "Ornamentation Type": "None",
+        "Pattern/Print Type": "Floral",
+        "Size": "S",
+        "Sleeve Style": "Regular Sleeves",
+        "Suitable For": "Ethnic Wear",
+        "Surface Styling": "Applique",
+        "Trend": "Traditional collection",
+        "Ideal For": "Women",
+        "Occasion": "Casual",
+        "Brand": "Royal Export",
+        "Brand Color": "Purple"
+      }
+    }
+  }
+}

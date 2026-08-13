@@ -1,0 +1,44 @@
+{
+  "key": "5390fd9aba993c71e3396712",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:45:30.013Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/g/l/free-sleeveless-eira-purvaja-original-imah4ju5fud5cxfh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/g/l/free-sleeveless-eira-purvaja-original-imah4ju5fud5cxfh.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/z/m/t/free-sleeveless-eira-purvaja-original-imah4ju5jdynbyfr.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/z/m/t/free-sleeveless-eira-purvaja-original-imah4ju5jdynbyfr.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/t/n/free-sleeveless-eira-purvaja-original-imah4ju5mhfgshhj.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/t/n/free-sleeveless-eira-purvaja-original-imah4ju5mhfgshhj.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/k/6/free-sleeveless-eira-purvaja-original-imah4ju5fhpc6mth.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/k/6/free-sleeveless-eira-purvaja-original-imah4ju5fhpc6mth.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/l/a/free-sleeveless-eira-purvaja-original-imah4ju5utfzac3u.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/l/a/free-sleeveless-eira-purvaja-original-imah4ju5utfzac3u.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

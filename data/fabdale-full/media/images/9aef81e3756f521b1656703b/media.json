@@ -1,0 +1,44 @@
+{
+  "key": "9aef81e3756f521b1656703b",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:41:35.427Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/u/4/5/yes-2-25-m-unstitched-2-2-m-tbd188-sun-fashion-and-lifestyle-resized-original-imah48tbeftemdbc.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/u/4/5/yes-2-25-m-unstitched-2-2-m-tbd188-sun-fashion-and-lifestyle-resized-original-imah48tbeftemdbc.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/i/m/o/yes-2-25-m-unstitched-2-2-m-tbd188-sun-fashion-and-lifestyle-original-imahzngdpwndzzug.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/i/m/o/yes-2-25-m-unstitched-2-2-m-tbd188-sun-fashion-and-lifestyle-original-imahzngdpwndzzug.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/o/m/g/yes-2-25-m-unstitched-2-2-m-tbd188-sun-fashion-and-lifestyle-original-imah48tb7sr8y8mf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/o/m/g/yes-2-25-m-unstitched-2-2-m-tbd188-sun-fashion-and-lifestyle-original-imah48tb7sr8y8mf.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/r/u/r/yes-2-25-m-unstitched-2-2-m-tbd188-sun-fashion-and-lifestyle-original-imahzngd8xkfgyxz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/r/u/r/yes-2-25-m-unstitched-2-2-m-tbd188-sun-fashion-and-lifestyle-original-imahzngd8xkfgyxz.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/k/f/g/yes-2-25-m-unstitched-2-2-m-tbd188-sun-fashion-and-lifestyle-original-imah48tbwghhjmyy.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/k/f/g/yes-2-25-m-unstitched-2-2-m-tbd188-sun-fashion-and-lifestyle-original-imah48tbwghhjmyy.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurta-dupatta-set/p/itm6abe44ed3aecb?pid=ETHH32X9GEABDYZ4&marketplace=FLIPKART&lid=LSTETHH32X9GEABDYZ4QIQYGT&swatchAttr=size&pageUID=1772728955081",
+    "scraped_at": "2026-08-12T11:56:55.582Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurta-dupatta-set/p/itm6abe44ed3aecb?pid=ETHH32X9GEABDYZ4&marketplace=FLIPKART&lid=LSTETHH32X9GEABDYZ4QIQYGT&swatchAttr=size&pageUID=1772728955081"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:57:17.280Z"
+  },
+  "content": {
+    "title": "Divastri Women Kurta Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Printed\nFabricViscose Rayon: PatternPrinted",
+    "description": "In the BoxItems Included1 KURTA, 1 DUPATTA\nGeneralBrandDivastriFabricViscose RayonAdditional GarmentsDupattaStyle Code D919Top typeKurtaPatternPrintedColor RedBrand ColorREDIdeal ForWomenSizeL RegularSleeve LengthSleeveless",
+    "specifications": {
+      "FabricViscose Rayon": "PatternPrinted",
+      "Fabric": "Viscose Rayon",
+      "Pattern": "Printed"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/a/f/l-d919-divastri-original-imah32x9fzqgmgvn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/a/f/l-d919-divastri-original-imah32x9fzqgmgvn.jpeg?q=100",
+        "local_path": "../../media/images/cf3b1425d71515ad3ce79066/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/s/i/l-d919-divastri-original-imah32x92ngbqvyr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/s/i/l-d919-divastri-original-imah32x92ngbqvyr.jpeg?q=100",
+        "local_path": "../../media/images/cf3b1425d71515ad3ce79066/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/r/2/l-d919-divastri-original-imah32x9bz92hhxh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/r/2/l-d919-divastri-original-imah32x9bz92hhxh.jpeg?q=100",
+        "local_path": "../../media/images/cf3b1425d71515ad3ce79066/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/6/k/l-d919-divastri-original-imah32x9tqfgqf3s.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/6/k/l-d919-divastri-original-imah32x9tqfgqf3s.jpeg?q=100",
+        "local_path": "../../media/images/cf3b1425d71515ad3ce79066/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/m/4/l-d919-divastri-original-imah32x9uthezhjq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/m/4/l-d919-divastri-original-imah32x9uthezhjq.jpeg?q=100",
+        "local_path": "../../media/images/cf3b1425d71515ad3ce79066/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Kurta Dupatta Set",
+      "description": "Divastri Women Kurta Dupatta Set - Buy Divastri Women Kurta Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/a/f/l-d919-divastri-original-imah32x9fzqgmgvn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/s/i/l-d919-divastri-original-imah32x92ngbqvyr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/r/2/l-d919-divastri-original-imah32x9bz92hhxh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/6/k/l-d919-divastri-original-imah32x9tqfgqf3s.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/m/4/l-d919-divastri-original-imah32x9uthezhjq.jpeg?q=70"
+      ],
+      "sku": "ETHH32X9GEABDYZ4",
+      "color": "RED",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 36,
+        "ratingCount": 565,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 616,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-11",
+          "reviewBody": "It is same as shown in images 💯 can't find anything odd in this kurta dupatta set. Go for it✨️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "garima agarwal",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-21",
+          "reviewBody": "Beautiful",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-27",
+          "reviewBody": "Amezing 😍😍 I loved it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "In the BoxItems Included1 KURTA, 1 DUPATTA",
+          "body": "GeneralBrandDivastriFabricViscose RayonAdditional GarmentsDupattaStyle Code D919Top typeKurtaPatternPrintedColor RedBrand ColorREDIdeal ForWomenSizeL RegularSleeve LengthSleeveless"
+        }
+      ],
+      "product_highlights": {
+        "FabricViscose Rayon": "PatternPrinted",
+        "Fabric": "Viscose Rayon",
+        "Pattern": "Printed"
+      },
+      "specifications": {
+        "In the BoxItems Included1 KURTA, 1 DUPATTA": "GeneralBrandDivastriFabricViscose RayonAdditional GarmentsDupattaStyle Code D919Top typeKurtaPatternPrintedColor RedBrand ColorREDIdeal ForWomenSizeL RegularSleeve LengthSleeveless",
+        "In the Box": "Items Included1 KURTA, 1 DUPATTA",
+        "Items Included": "1 KURTA, 1 DUPATTA",
+        "Brand": "Divastri",
+        "Fabric": "Viscose Rayon",
+        "Additional Garments": "Dupatta",
+        "Style Code": "D919",
+        "Top type": "Kurta",
+        "Pattern": "Printed",
+        "Color": "Red",
+        "Brand Color": "RED",
+        "Ideal For": "Women",
+        "Size": "L Regular",
+        "Sleeve Length": "Sleeveless"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "cf3b1425d71515ad3ce79066",
+      "path": "media/images/cf3b1425d71515ad3ce79066/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

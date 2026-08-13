@@ -1,0 +1,218 @@
+{
+  "product_id": "1177",
+  "sku": "Fab-Salwar-DVST-005MR-XL",
+  "product": {
+    "name": "Divashree Party & Festive Wear Salwar Suit Set",
+    "parent_id": "5211",
+    "notes": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itma21e7c2ceb823?pid=ETHHFYH25VRSPDNG&marketplace=FLIPKART&lid=LSTETHHFYH25VRSPDNGQGXLOH&swatchAttr=size&pageUID=1772727605382"
+  },
+  "source_bundle": {
+    "key": "pid-ETHHFYH25VRSPDNG",
+    "path": "../../sources/pid-ETHHFYH25VRSPDNG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itma21e7c2ceb823?pid=ETHHFYH25VRSPDNG&marketplace=FLIPKART&lid=LSTETHHFYH25VRSPDNGQGXLOH&swatchAttr=size&pageUID=1772727605382",
+    "scraped_at": "2026-08-12T11:49:45.728Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itma21e7c2ceb823?pid=ETHHFYH25VRSPDNG&marketplace=FLIPKART&lid=LSTETHHFYH25VRSPDNGQGXLOH&swatchAttr=size&pageUID=1772727605382"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:50:27.359Z"
+  },
+  "content": {
+    "title": "Divastri Women Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Printed\nFabricViscose Rayon: PatternPrinted",
+    "description": "In the Box\nItems Included1 Kurta, 1 Pant, 1 Dupatta\n\nProduct Details\nNeck Round NeckFabric careDry Clean only",
+    "specifications": {
+      "FabricViscose Rayon": "PatternPrinted",
+      "Fabric": "Viscose Rayon",
+      "Pattern": "Printed"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "d31b7d6ddf64b0b34dc71229",
+      "path": "media/images/d31b7d6ddf64b0b34dc71229/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/2/v/y/m-sabari-suit-dv-divastri-original-imahfykw9emjj5ch.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/2/v/y/m-sabari-suit-dv-divastri-original-imahfykw9emjj5ch.jpeg?q=100",
+        "local_path": "../../media/images/d31b7d6ddf64b0b34dc71229/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/4/j/xl-sabari-suit-dv-divastri-original-imahfykwbjwesuvx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/4/j/xl-sabari-suit-dv-divastri-original-imahfykwbjwesuvx.jpeg?q=100",
+        "local_path": "../../media/images/d31b7d6ddf64b0b34dc71229/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/7/q/u/m-sabari-suit-dv-divastri-original-imahfykwjzrvk2dx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/7/q/u/m-sabari-suit-dv-divastri-original-imahfykwjzrvk2dx.jpeg?q=100",
+        "local_path": "../../media/images/d31b7d6ddf64b0b34dc71229/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/y/a/xxl-sabari-suit-dv-divastri-original-imahfykwy4jjzsft.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/y/a/xxl-sabari-suit-dv-divastri-original-imahfykwy4jjzsft.jpeg?q=100",
+        "local_path": "../../media/images/d31b7d6ddf64b0b34dc71229/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/s/k/m-sabari-suit-dv-divastri-original-imahfykwc8trhsfs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/s/k/m-sabari-suit-dv-divastri-original-imahfykwc8trhsfs.jpeg?q=100",
+        "local_path": "../../media/images/d31b7d6ddf64b0b34dc71229/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Kurta Pant Dupatta Set",
+      "description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/2/v/y/m-sabari-suit-dv-divastri-original-imahfykw9emjj5ch.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/4/j/xl-sabari-suit-dv-divastri-original-imahfykwbjwesuvx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/7/q/u/m-sabari-suit-dv-divastri-original-imahfykwjzrvk2dx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/y/a/xxl-sabari-suit-dv-divastri-original-imahfykwy4jjzsft.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/s/k/m-sabari-suit-dv-divastri-original-imahfykwc8trhsfs.jpeg?q=70"
+      ],
+      "sku": "ETHHFYH25VRSPDNG",
+      "color": "Peach",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.5,
+        "reviewCount": 59,
+        "ratingCount": 921,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 763,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Tanusree Das",
+            "@type": "Person"
+          },
+          "datePublished": "2025-12-23",
+          "reviewBody": "Very good product go for it ..",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "deepak yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-04",
+          "reviewBody": "Lovely kur ta set design is simple yet elegant stitching is perfect The fabric is light and comfortable to wear all day",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Nishtha Jain",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-16",
+          "reviewBody": "amazing fit quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "In the Box",
+          "body": "Items Included1 Kurta, 1 Pant, 1 Dupatta"
+        },
+        {
+          "heading": "Product Details",
+          "body": "Neck Round NeckFabric careDry Clean only"
+        }
+      ],
+      "product_highlights": {
+        "FabricViscose Rayon": "PatternPrinted",
+        "Fabric": "Viscose Rayon",
+        "Pattern": "Printed"
+      },
+      "specifications": {
+        "In the Box": "Items Included1 Kurta, 1 Pant, 1 Dupatta",
+        "Items Included": "1 Kurta, 1 Pant, 1 Dupatta",
+        "Brand": "Divastri",
+        "Fabric": "Viscose Rayon",
+        "Additional Garments": "Dupatta",
+        "Style Code": "Sabari_Suit_DV",
+        "Top fabric": "Viscose",
+        "Bottom fabric": "Viscose",
+        "Top type": "Kurta",
+        "Bottom type": "Pant",
+        "Pattern": "Printed",
+        "Color": "Pink",
+        "Occasion": "Casual, Festive & Party, Formal",
+        "Brand Color": "Peach",
+        "Dupatta Included": "Yes",
+        "Ideal For": "Women",
+        "Kurta Style Type": "Anarkali",
+        "Print Type": "Floral",
+        "Size": "XL Regular",
+        "Sleeve Length": "3/4 Sleeve",
+        "Top Length": "NA",
+        "Product Details": "Neck Round NeckFabric careDry Clean only",
+        "Neck Round Neck": "Fabric careDry Clean only",
+        "Neck": "Round Neck",
+        "Fabric care": "Dry Clean only"
+      }
+    }
+  }
+}

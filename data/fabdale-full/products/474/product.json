@@ -1,0 +1,191 @@
+{
+  "product_id": "474",
+  "sku": "Fab-Saree-PDCL-001PK",
+  "product": {
+    "name": "Pearline Satin Half & Half Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/pd-cloth-villa-embellished-solid-plain-bollywood-satin-saree/p/itmd43bd380c846a?pid=SARGTHNE2ZQFPSZY&lid=LSTSARGTHNE2ZQFPSZYVNAXFI&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SARGTHNE2ZQFPSZY",
+    "path": "../../sources/pid-SARGTHNE2ZQFPSZY/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/pd-cloth-villa-embellished-solid-plain-bollywood-satin-saree/p/itmd43bd380c846a?pid=SARGTHNE2ZQFPSZY&lid=LSTSARGTHNE2ZQFPSZYVNAXFI&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T08:54:55.130Z",
+    "final_url": "https://www.flipkart.com/pd-cloth-villa-embellished-solid-plain-bollywood-satin-saree/p/itmd43bd380c846a?pid=SARGTHNE2ZQFPSZY&lid=LSTSARGTHNE2ZQFPSZYVNAXFI&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:55:20.387Z"
+  },
+  "content": {
+    "title": "PD CLOTH VILLA Embellished, Solid/Plain Bollywood Satin Saree",
+    "short_description": "Fabric: Satin\nPattern: Embellished, Solid/Plain\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Luxurious Satin Fabric\nCrafted with high-quality satin fabric, this saree offers a luxurious feel against your skin. The sm…\n\nCustomizable Blouse Piece\nThe saree comes with an unstitched blouse piece, allowing you to customize it according to your pref…\n\nEasy to Care for\nTo keep this saree looking its best, it is recommended to dry clean it for the first wash. Thereafte…",
+    "specifications": {
+      "Pattern": "Embellished, Solid/Plain",
+      "Fabric": "Satin",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "f6d68812fa31da95b0abc207",
+      "path": "media/images/f6d68812fa31da95b0abc207/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "5f191a153fad92816f736a3d",
+      "path": "media/videos/5f191a153fad92816f736a3d/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/a/b/t/free-satin-half-half-saree-pd-cloth-villa-unstitched-original-imagthn7bczd9fct.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/a/b/t/free-satin-half-half-saree-pd-cloth-villa-unstitched-original-imagthn7bczd9fct.jpeg?q=100",
+        "local_path": "../../media/images/f6d68812fa31da95b0abc207/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNGw_RXhXMRRGgXm50IqQbXA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PD CLOTH VILLA Embellished, Solid/Plain Bollywood Satin Saree",
+      "description": "PD CLOTH VILLA Embellished, Solid/Plain Bollywood Satin Saree - Buy PD CLOTH VILLA Embellished, Solid/Plain Bollywood Satin Saree For Only Rs. 3099.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/a/b/t/free-satin-half-half-saree-pd-cloth-villa-unstitched-original-imagthn7bczd9fct.jpeg?q=70"
+      ],
+      "sku": "SARGTHNE2ZQFPSZY",
+      "color": "Oniun",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 1071,
+        "ratingCount": 14103,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PD CLOTH VILLA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 506,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Shriya Pani",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-07",
+          "reviewBody": "Jst aswm, very silky material,loved the quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Ankita Chakraborty",
+            "@type": "Person"
+          },
+          "datePublished": "2023-12-12",
+          "reviewBody": "Awesome saree❤️❤️❤️❤️I really love this saree..must buy 👍🏻👍🏻",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Meghana R Madival ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-12",
+          "reviewBody": "Awesome saree....one of the best saree I have in my closet",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Luxurious Satin Fabric",
+          "body": "Crafted with high-quality satin fabric, this saree offers a luxurious feel against your skin. The sm…"
+        },
+        {
+          "heading": "Customizable Blouse Piece",
+          "body": "The saree comes with an unstitched blouse piece, allowing you to customize it according to your pref…"
+        },
+        {
+          "heading": "Easy to Care for",
+          "body": "To keep this saree looking its best, it is recommended to dry clean it for the first wash. Thereafte…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Embellished, Solid/Plain",
+        "Fabric": "Satin",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

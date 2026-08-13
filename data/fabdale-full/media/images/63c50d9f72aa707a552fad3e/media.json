@@ -1,0 +1,37 @@
+{
+  "key": "63c50d9f72aa707a552fad3e",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:22:23.241Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kgqvlow0/lehenga-choli/u/b/u/free-3-4-sleeve-rk1603-divastri-original-imafwx3tsjb89zzq.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kgqvlow0/lehenga-choli/u/b/u/free-3-4-sleeve-rk1603-divastri-original-imafwx3tsjb89zzq.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kgqvlow0/lehenga-choli/u/b/u/free-3-4-sleeve-rk1603-divastri-original-imafwx3t7cybf7qp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kgqvlow0/lehenga-choli/u/b/u/free-3-4-sleeve-rk1603-divastri-original-imafwx3t7cybf7qp.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kgqvlow0/lehenga-choli/u/b/u/free-3-4-sleeve-rk1603-divastri-original-imafwx3tnsnnytp6.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kgqvlow0/lehenga-choli/u/b/u/free-3-4-sleeve-rk1603-divastri-original-imafwx3tnsnnytp6.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kgqvlow0/lehenga-choli/u/b/u/free-3-4-sleeve-rk1603-divastri-original-imafwx3tqduvhgts.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kgqvlow0/lehenga-choli/u/b/u/free-3-4-sleeve-rk1603-divastri-original-imafwx3tqduvhgts.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

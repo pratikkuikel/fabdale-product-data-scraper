@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-KTAH89DQGUPUBZ4Y",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "984",
+    "985",
+    "986",
+    "987",
+    "988",
+    "5169"
+  ],
+  "source_path": "sources/pid-KTAH89DQGUPUBZ4Y/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:17:24.739Z",
+  "completed_at": "2026-08-12T11:17:39.202Z"
+}

@@ -1,0 +1,149 @@
+{
+  "product_id": "612",
+  "sku": "Fab-Drsmtl-TAVS-007PK",
+  "product": {
+    "name": "Tavisha Embroidered Chanderi Salwar Suit Material",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/tavas-chanderi-embroidered-salwar-suit-material/p/itm3ab8e3d959f42?pid=FABGSC4XS8JJHHHZ&lid=LSTFABGSC4XS8JJHHHZVYMDOT&marketplace=FLIPKART&q=Tavas&sattr[]=color&st=color&otracker=search"
+  },
+  "source_bundle": {
+    "key": "pid-FABGSC4XS8JJHHHZ",
+    "path": "../../sources/pid-FABGSC4XS8JJHHHZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tavas-chanderi-embroidered-salwar-suit-material/p/itm3ab8e3d959f42?pid=FABGSC4XS8JJHHHZ&lid=LSTFABGSC4XS8JJHHHZVYMDOT&marketplace=FLIPKART&q=Tavas&sattr[]=color&st=color&otracker=search",
+    "scraped_at": "2026-08-12T10:40:11.565Z",
+    "final_url": "https://www.flipkart.com/tavas-chanderi-embroidered-salwar-suit-material/p/itm3ab8e3d959f42?pid=FABGSC4XS8JJHHHZ&lid=LSTFABGSC4XS8JJHHHZVYMDOT&marketplace=FLIPKART&q=Tavas&sattr[]=color&st=color&otracker=search"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:40:19.487Z"
+  },
+  "content": {
+    "title": "Tavas Chanderi Embroidered Salwar Suit Material",
+    "short_description": "Fabric: Chanderi\nPattern: Embroidered\nType: Salwar Suit Material\nSales Package: 1 Top, 1 Bottom, 1 Dupatta\nBottom Length: 3 m\nTop Length: 2 m\nStitching Type: Unstitched",
+    "description": "Exquisite Embroidered Chanderi Fabric\nCrafted from a blend of high-quality Chanderi fabric, this unstitched salwar suit material features …\n\nPatch Work Ornamentation\nEnhanced with beautiful patch work detailing, this traditional collection salwar suit material is pe…\n\nUnstitched Versatility\nDesigned as an unstitched set including a top, bottom, and dupatta, this fabric allows you to custom…\n\nEasy Fabric Care\nMachine washable as per tag instructions, this Chanderi salwar suit material offers convenience in m…\n\nPerfect for Special Occasions\nWith its embroidered pattern and pink color, this salwar suit material from the traditional collecti…",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 Top, 1 Bottom, 1 Dupatta",
+      "Bottom Length": "3 m",
+      "Top Length": "2 m",
+      "Fabric": "Chanderi",
+      "Pattern": "Embroidered",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "db24997b367665f4a144edcf",
+      "path": "media/images/db24997b367665f4a144edcf/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/3/z/u/yes-2-m-unstitched-2-m-2-5-m-tvs-51-04-pink-fs-tavas-original-imahcnbnz9p3e7kk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/3/z/u/yes-2-m-unstitched-2-m-2-5-m-tvs-51-04-pink-fs-tavas-original-imahcnbnz9p3e7kk.jpeg?q=100",
+        "local_path": "../../media/images/db24997b367665f4a144edcf/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/k/z/l/yes-2-m-unstitched-2-m-2-5-m-tvs-51-04-pink-fs-tavas-original-imahcnbnfwpmpjsg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/k/z/l/yes-2-m-unstitched-2-m-2-5-m-tvs-51-04-pink-fs-tavas-original-imahcnbnfwpmpjsg.jpeg?q=100",
+        "local_path": "../../media/images/db24997b367665f4a144edcf/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/m/a/v/yes-2-m-unstitched-2-m-2-5-m-tvs-51-04-pink-fs-tavas-original-imahcnbnzn6hkq9t.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/m/a/v/yes-2-m-unstitched-2-m-2-5-m-tvs-51-04-pink-fs-tavas-original-imahcnbnzn6hkq9t.jpeg?q=100",
+        "local_path": "../../media/images/db24997b367665f4a144edcf/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Tavas Chanderi Embroidered Salwar Suit Material",
+      "description": "Buy Tavas Chanderi Embroidered Salwar Suit Material for Rs.5499.0 online. Tavas Chanderi Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/3/z/u/yes-2-m-unstitched-2-m-2-5-m-tvs-51-04-pink-fs-tavas-original-imahcnbnz9p3e7kk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/k/z/l/yes-2-m-unstitched-2-m-2-5-m-tvs-51-04-pink-fs-tavas-original-imahcnbnfwpmpjsg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/m/a/v/yes-2-m-unstitched-2-m-2-5-m-tvs-51-04-pink-fs-tavas-original-imahcnbnzn6hkq9t.jpeg?q=70"
+      ],
+      "sku": "FABGSC4XS8JJHHHZ",
+      "color": "Pink",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "ratingCount": 44,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tavas",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 831,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Exquisite Embroidered Chanderi Fabric",
+          "body": "Crafted from a blend of high-quality Chanderi fabric, this unstitched salwar suit material features …"
+        },
+        {
+          "heading": "Patch Work Ornamentation",
+          "body": "Enhanced with beautiful patch work detailing, this traditional collection salwar suit material is pe…"
+        },
+        {
+          "heading": "Unstitched Versatility",
+          "body": "Designed as an unstitched set including a top, bottom, and dupatta, this fabric allows you to custom…"
+        },
+        {
+          "heading": "Easy Fabric Care",
+          "body": "Machine washable as per tag instructions, this Chanderi salwar suit material offers convenience in m…"
+        },
+        {
+          "heading": "Perfect for Special Occasions",
+          "body": "With its embroidered pattern and pink color, this salwar suit material from the traditional collecti…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 Top, 1 Bottom, 1 Dupatta",
+        "Bottom Length": "3 m",
+        "Top Length": "2 m",
+        "Fabric": "Chanderi",
+        "Pattern": "Embroidered",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  }
+}

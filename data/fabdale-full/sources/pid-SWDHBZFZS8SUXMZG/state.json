@@ -1,0 +1,17 @@
+{
+  "source_key": "pid-SWDHBZFZS8SUXMZG",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "880",
+    "881",
+    "883"
+  ],
+  "source_path": "sources/pid-SWDHBZFZS8SUXMZG/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:06:22.131Z",
+  "completed_at": "2026-08-12T11:06:28.493Z"
+}

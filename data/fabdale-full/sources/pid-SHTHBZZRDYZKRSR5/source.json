@@ -1,0 +1,164 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-orange-shirt/p/itm0a3023ff154aa?pid=SHTHBZZRDYZKRSR5&marketplace=FLIPKART&lid=LSTSHTHBZZRDYZKRSR5CEZIFH&swatchAttr=size&pageUID=1773309652041",
+    "scraped_at": "2026-08-13T07:58:56.417Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-orange-shirt/p/itm0a3023ff154aa?pid=SHTHBZZRDYZKRSR5&marketplace=FLIPKART&lid=LSTSHTHBZZRDYZKRSR5CEZIFH&swatchAttr=size&pageUID=1773309652041"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:59:01.484Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Solid Casual Orange Shirt",
+    "short_description": "METRONAUT Men Solid Casual Orange Shirt - Buy METRONAUT Men Solid Casual Orange Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "METRONAUT Men Solid Casual Orange Shirt - Buy METRONAUT Men Solid Casual Orange Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/y/m/xl-new-sr231-metronaut-original-imahbzzrdugswuvs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/y/m/xl-new-sr231-metronaut-original-imahbzzrdugswuvs.jpeg?q=100",
+        "local_path": "../../media/images/c3cbd870208a7cb4504e0b42/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/o/4/xl-new-sr231-metronaut-original-imahbzzrtxztyfze.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/o/4/xl-new-sr231-metronaut-original-imahbzzrtxztyfze.jpeg?q=100",
+        "local_path": "../../media/images/c3cbd870208a7cb4504e0b42/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/m/x/xl-new-sr231-metronaut-original-imahbzzrb3agxffh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/m/x/xl-new-sr231-metronaut-original-imahbzzrb3agxffh.jpeg?q=100",
+        "local_path": "../../media/images/c3cbd870208a7cb4504e0b42/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/9/n/a/xl-new-sr231-metronaut-original-imahbzzrpnr4kzzh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/9/n/a/xl-new-sr231-metronaut-original-imahbzzrpnr4kzzh.jpeg?q=100",
+        "local_path": "../../media/images/c3cbd870208a7cb4504e0b42/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/c/n/xl-new-sr231-metronaut-original-imahbzzrybm4y383.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/c/n/xl-new-sr231-metronaut-original-imahbzzrybm4y383.jpeg?q=100",
+        "local_path": "../../media/images/c3cbd870208a7cb4504e0b42/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual Orange Shirt",
+      "description": "METRONAUT Men Solid Casual Orange Shirt - Buy METRONAUT Men Solid Casual Orange Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/y/m/xl-new-sr231-metronaut-original-imahbzzrdugswuvs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/o/4/xl-new-sr231-metronaut-original-imahbzzrtxztyfze.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/m/x/xl-new-sr231-metronaut-original-imahbzzrb3agxffh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/9/n/a/xl-new-sr231-metronaut-original-imahbzzrpnr4kzzh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/h/c/n/xl-new-sr231-metronaut-original-imahbzzrybm4y383.jpeg?q=70"
+      ],
+      "sku": "SHTHBZZRDYZKRSR5",
+      "color": "Orange",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 25,
+        "ratingCount": 69,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 484,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-03",
+          "reviewBody": "Dress clothes bad it's not cotton.",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Does the job",
+          "author": {
+            "name": "Pooja Pinjani",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-25",
+          "reviewBody": "Not good quality",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "pinky ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-15",
+          "reviewBody": "Easy to iron and holds up all day",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c3cbd870208a7cb4504e0b42",
+      "path": "media/images/c3cbd870208a7cb4504e0b42/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

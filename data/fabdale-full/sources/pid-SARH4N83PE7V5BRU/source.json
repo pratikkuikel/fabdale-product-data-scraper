@@ -1,0 +1,219 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/yashika-printed-hand-batik-art-silk-saree/p/itm1719a7913023c?pid=SARH4N83PE7V5BRU&lid=LSTSARH4N83PE7V5BRUBQPHL3&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:28:02.625Z",
+    "final_url": "https://www.flipkart.com/yashika-printed-hand-batik-art-silk-saree/p/itm1719a7913023c?pid=SARH4N83PE7V5BRU&lid=LSTSARH4N83PE7V5BRUBQPHL3&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 7,
+    "completed_at": "2026-08-12T10:28:09.824Z"
+  },
+  "content": {
+    "title": "YASHIKA Printed Hand Batik Art Silk Saree",
+    "short_description": "Fabric: Art Silk\nPattern: Printed\nType: Hand Batik\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "YASHIKA Printed Hand Batik Art Silk Saree - Buy YASHIKA Printed Hand Batik Art Silk Saree For Only Rs. 1799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Printed",
+      "Fabric": "Art Silk",
+      "Type": "Hand Batik",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/g/y/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdy7gt3zmk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/g/y/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdy7gt3zmk.jpeg?q=100",
+        "local_path": "../../media/images/81c005a390fcefa717cf24c5/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/v/q/w/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdp2jqjzjf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/v/q/w/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdp2jqjzjf.jpeg?q=100",
+        "local_path": "../../media/images/81c005a390fcefa717cf24c5/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/h/f/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdbab5yfah.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/h/f/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdbab5yfah.jpeg?q=100",
+        "local_path": "../../media/images/81c005a390fcefa717cf24c5/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/9/j/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdhadvjgsx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/9/j/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdhadvjgsx.jpeg?q=100",
+        "local_path": "../../media/images/81c005a390fcefa717cf24c5/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/2/f/1/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdmtwh532d.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/2/f/1/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdmtwh532d.jpeg?q=100",
+        "local_path": "../../media/images/81c005a390fcefa717cf24c5/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "YASHIKA Printed Hand Batik Art Silk Saree",
+      "description": "YASHIKA Printed Hand Batik Art Silk Saree - Buy YASHIKA Printed Hand Batik Art Silk Saree For Only Rs. 1799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/g/y/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdy7gt3zmk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/v/q/w/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdp2jqjzjf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/h/f/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdbab5yfah.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/9/j/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdhadvjgsx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/2/f/1/free-fk-ys-p2-nafiza-cream-purple-yashika-unstitched-original-imah89fdmtwh532d.jpeg?q=70"
+      ],
+      "sku": "SARH4N83PE7V5BRU",
+      "color": "FK-YS-P2-NAFIZA CREAM PURPLE-Purple",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 519,
+        "ratingCount": 12676,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "YASHIKA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 358,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "shalini sc",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-26",
+          "reviewBody": "Nice saree..with affordable price🙂",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-04-17",
+          "reviewBody": "Nice pint nice quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Sunil kumar Rath",
+            "@type": "Person"
+          },
+          "datePublished": "2023-01-24",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Fabric": "Art Silk",
+        "Type": "Hand Batik",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {
+        "Brand": "YASHIKA",
+        "Style Code": "FK-YS-P2-NAFIZA CREAM PURPLE",
+        "Pattern": "Printed",
+        "Pack of": "1",
+        "Secondary Color": "Multicolor",
+        "Occasion": "Wedding, Festive",
+        "Decorative Material": "Fringes, Tassel",
+        "Fabric Care": "Machine Wash as per tag",
+        "Fabric": "Art Silk",
+        "Type": "Hand Batik",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari",
+        "Net Quantity": "1",
+        "Blouse Pattern": "Solid",
+        "Blouse Fabric": "Art Silk",
+        "Border Details": "Printed",
+        "Border Length": "Thin/Small",
+        "Color": "Multicolor",
+        "Brand Color": "FK-YS-P2-NAFIZA CREAM PURPLE-Purple",
+        "Handloom Product": "No",
+        "Ideal For": "Women",
+        "Print Type": "Human Figures",
+        "Sales Package": "1 Saree, 1 Unstitched Blouse Piece",
+        "Sari Purity": "Blend",
+        "Trend": "Figure Motif, Tassels",
+        "Uniform": "No",
+        "Dimensions": "Sari Length5.5mBlouse Piece Length0.8 m",
+        "Sari Length5.5m": "Blouse Piece Length0.8 m",
+        "Sari Length": "5.5m",
+        "Blouse Piece Length": "0.8 m"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "81c005a390fcefa717cf24c5",
+      "path": "media/images/81c005a390fcefa717cf24c5/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

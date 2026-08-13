@@ -1,0 +1,44 @@
+{
+  "key": "793d2a11493c37995b57babc",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:34:01.700Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/o/v/free-full-sleeve-women-lehenga-choli-rani-03-e-mart-resized-original-imahyq6tr7vxyjuz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/o/v/free-full-sleeve-women-lehenga-choli-rani-03-e-mart-resized-original-imahyq6tr7vxyjuz.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/s/j/free-full-sleeve-women-lehenga-choli-rani-03-e-mart-original-imahyq6tupny5kqf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/s/j/free-full-sleeve-women-lehenga-choli-rani-03-e-mart-original-imahyq6tupny5kqf.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/i/f/u/free-full-sleeve-women-lehenga-choli-rani-03-e-mart-original-imahyq6twwdvtsjf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/i/f/u/free-full-sleeve-women-lehenga-choli-rani-03-e-mart-original-imahyq6twwdvtsjf.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/5/i/u/free-full-sleeve-women-lehenga-choli-rani-03-e-mart-original-imahyq6tts4n3cxg.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/5/i/u/free-full-sleeve-women-lehenga-choli-rani-03-e-mart-original-imahyq6tts4n3cxg.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/m/d/g/free-full-sleeve-women-lehenga-choli-rani-03-e-mart-original-imahyq6tptdbkxt3.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/m/d/g/free-full-sleeve-women-lehenga-choli-rani-03-e-mart-original-imahyq6tptdbkxt3.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

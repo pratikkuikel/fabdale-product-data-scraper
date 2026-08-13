@@ -1,0 +1,200 @@
+{
+  "product_id": "1028",
+  "sku": "Fab-Salwar-PRSC-020PL-XXL",
+  "product": {
+    "name": "Pravya  Floral  Cotton Party Salwar Suit Set",
+    "parent_id": "5175",
+    "notes": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm90b6351749833?pid=KTAHB2A2JXXBJA6Z&lid=LSTKTAHB2A2JXXBJA6ZTXGFFW&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KTAHB2A2JXXBJA6Z",
+    "path": "../../sources/pid-KTAHB2A2JXXBJA6Z/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm90b6351749833?pid=KTAHB2A2JXXBJA6Z&lid=LSTKTAHB2A2JXXBJA6ZTXGFFW&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T11:23:57.896Z",
+    "final_url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm90b6351749833?pid=KTAHB2A2JXXBJA6Z&lid=LSTKTAHB2A2JXXBJA6ZTXGFFW&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:24:20.047Z"
+  },
+  "content": {
+    "title": "PRISCA Floral Print Pure Cotton Straight Kurta for Women (Purple)",
+    "short_description": "Color: Purple\nFabric: Pure Cotton\nPattern: Floral Print\nType: Straight",
+    "description": "Subtle Pattern\nFeaturing a nature-inspired pattern, this women’s kurta displays motifs that resemble tree forms. Mo…\n\nExcellent Practicality\nSporting a V-shaped neckline, three-fourth sleeves, and a straight, knee-length silhouette, this kur…\n\nSoft Fabric\nBoasting a cotton composition, this kurta provides a breathable and skin-friendly experience. The ma…\n\nSuitable for Casual Occasions\nThanks to its beautiful design, soft fabric, and nature-inspired pattern, this kurta can be worn at …",
+    "specifications": {
+      "Pattern": "Floral Print",
+      "Type": "Straight",
+      "Fabric": "Pure Cotton",
+      "Color": "Purple"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b5687d8c6912279e8f8525f0",
+      "path": "media/images/b5687d8c6912279e8f8525f0/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/m/b/a/s-purple-boota-dori-prisca-original-imahcn9frccb7zh8.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/m/b/a/s-purple-boota-dori-prisca-original-imahcn9frccb7zh8.jpeg?q=100",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/i/m/a/s-purple-boota-dori-prisca-original-imahcn9fdshyzu8s.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/i/m/a/s-purple-boota-dori-prisca-original-imahcn9fdshyzu8s.jpeg?q=100",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/8/i/z/s-purple-boota-dori-prisca-original-imahcn9fcw5qwhgp.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/8/i/z/s-purple-boota-dori-prisca-original-imahcn9fcw5qwhgp.jpeg?q=100",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/9/1/q/s-purple-boota-dori-prisca-original-imahcn9fdnctufbz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/9/1/q/s-purple-boota-dori-prisca-original-imahcn9fdnctufbz.jpeg?q=100",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/b/0/k/s-purple-boota-dori-prisca-original-imahcn9fp549argq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/b/0/k/s-purple-boota-dori-prisca-original-imahcn9fp549argq.jpeg?q=100",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_948d6e4a357147798935337db70e3d3b.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_948d6e4a357147798935337db70e3d3b.jpg?q=80",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b4c68d480b2a4115ae7d0dca9e758f15.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b4c68d480b2a4115ae7d0dca9e758f15.jpg?q=80",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d229febf95c24b98a48ac46ff97230a8.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d229febf95c24b98a48ac46ff97230a8.jpg?q=80",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f47eab9309c24545b83b54adb85250ac.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f47eab9309c24545b83b54adb85250ac.jpg?q=80",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=100",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/h/z/r/3xl-long-kurtas-piroki-original-imahftwpchz6csge.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/h/z/r/3xl-long-kurtas-piroki-original-imahftwpchz6csge.jpeg?q=100",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/y/j/y/l-49-nk-grin-wawlooks-original-imahzx8xhvdtnxzu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/y/j/y/l-49-nk-grin-wawlooks-original-imahzx8xhvdtnxzu.jpeg?q=100",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/u/v/s-rama-green-v-neck-prisca-resized-original-imahgfghtvsgvz3d.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/u/v/s-rama-green-v-neck-prisca-resized-original-imahgfghtvsgvz3d.jpeg?q=100",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/l/7/r/xxl-kkfts-sea-green-kkoutfits-resized-original-imahhwffzjcggnfx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/l/7/r/xxl-kkfts-sea-green-kkoutfits-resized-original-imahhwffzjcggnfx.jpeg?q=100",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/a/c/s-sk-n-pink-yoke-kkfab-resized-original-imahj5bx2hcz5qhz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/a/c/s-sk-n-pink-yoke-kkfab-resized-original-imahj5bx2hcz5qhz.jpeg?q=100",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/j/0/f/s-vi25kr01b-vicenta-original-imahz9fargcbbkdb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/j/0/f/s-vi25kr01b-vicenta-original-imahz9fargcbbkdb.jpeg?q=100",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/q/r/k/m-pris-c-green-kkoutfits-original-imahjrpebj9zg6ye.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/q/r/k/m-pris-c-green-kkoutfits-original-imahjrpebj9zg6ye.jpeg?q=100",
+        "local_path": "../../media/images/b5687d8c6912279e8f8525f0/assets/images/image-017.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Subtle Pattern",
+          "body": "Featuring a nature-inspired pattern, this women’s kurta displays motifs that resemble tree forms. Mo…"
+        },
+        {
+          "heading": "Excellent Practicality",
+          "body": "Sporting a V-shaped neckline, three-fourth sleeves, and a straight, knee-length silhouette, this kur…"
+        },
+        {
+          "heading": "Soft Fabric",
+          "body": "Boasting a cotton composition, this kurta provides a breathable and skin-friendly experience. The ma…"
+        },
+        {
+          "heading": "Suitable for Casual Occasions",
+          "body": "Thanks to its beautiful design, soft fabric, and nature-inspired pattern, this kurta can be worn at …"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Floral Print",
+        "Type": "Straight",
+        "Fabric": "Pure Cotton",
+        "Color": "Purple"
+      },
+      "specifications": {}
+    }
+  }
+}

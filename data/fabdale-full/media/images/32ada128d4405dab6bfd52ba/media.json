@@ -1,0 +1,44 @@
+{
+  "key": "32ada128d4405dab6bfd52ba",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T08:52:04.318Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/v/p/free-b23-saree-best-seller-bollywood-stylish-budget-designer-resized-original-imagnaqmvtchu7ua.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/v/p/free-b23-saree-best-seller-bollywood-stylish-budget-designer-resized-original-imagnaqmvtchu7ua.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/3/p/k/free-h23-saree-best-seller-sexy-bollywood-stylish-budget-original-imah4y3kbfqtgrnj.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/3/p/k/free-h23-saree-best-seller-sexy-bollywood-stylish-budget-original-imah4y3kbfqtgrnj.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/h/i/free-h23-saree-best-seller-sexy-bollywood-stylish-budget-original-imah4y3ksmqb33qh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/h/i/free-h23-saree-best-seller-sexy-bollywood-stylish-budget-original-imah4y3ksmqb33qh.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/n/n/free-h23-saree-best-seller-sexy-bollywood-stylish-budget-original-imah4y3k5mkrgzjp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/n/n/free-h23-saree-best-seller-sexy-bollywood-stylish-budget-original-imah4y3k5mkrgzjp.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/a/v/r/free-b23-saree-best-seller-bollywood-stylish-budget-designer-original-imah2aysrtdgvmz3.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/a/v/r/free-b23-saree-best-seller-bollywood-stylish-budget-designer-original-imah2aysrtdgvmz3.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "key": "a079af4a945913ca7c89b758",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:21:51.283Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kjkbv680-0/lehenga-choli/j/b/n/free-full-sleeve-rk1290-divastri-original-imafz3nbuuhrdkdk.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kjkbv680-0/lehenga-choli/j/b/n/free-full-sleeve-rk1290-divastri-original-imafz3nbuuhrdkdk.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kjkbv680-0/lehenga-choli/l/z/l/free-full-sleeve-rk1290-divastri-original-imafz3nbsd5t7jts.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kjkbv680-0/lehenga-choli/l/z/l/free-full-sleeve-rk1290-divastri-original-imafz3nbsd5t7jts.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kjkbv680-0/lehenga-choli/v/j/q/free-full-sleeve-rk1290-divastri-original-imafz3nbznf8zffy.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kjkbv680-0/lehenga-choli/v/j/q/free-full-sleeve-rk1290-divastri-original-imafz3nbznf8zffy.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kjkbv680-0/lehenga-choli/y/p/4/free-full-sleeve-rk1290-divastri-original-imafz3nbcsyeeefh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kjkbv680-0/lehenga-choli/y/p/4/free-full-sleeve-rk1290-divastri-original-imafz3nbcsyeeefh.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kjkbv680-0/lehenga-choli/0/6/f/free-full-sleeve-rk1290-divastri-original-imafz3nbahyzb85p.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kjkbv680-0/lehenga-choli/0/6/f/free-full-sleeve-rk1290-divastri-original-imafz3nbahyzb85p.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

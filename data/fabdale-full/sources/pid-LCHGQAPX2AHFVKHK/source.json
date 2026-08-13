@@ -1,0 +1,214 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/purvaja-floral-print-semi-stitched-lehenga-choli/p/itme03504f20eaaa?pid=LCHGQAPX2AHFVKHK&lid=LSTLCHGQAPX2AHFVKHKTXH1K9&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:44:13.101Z",
+    "final_url": "https://www.flipkart.com/purvaja-floral-print-semi-stitched-lehenga-choli/p/itme03504f20eaaa?pid=LCHGQAPX2AHFVKHK&lid=LSTLCHGQAPX2AHFVKHKTXH1K9&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:44:28.012Z"
+  },
+  "content": {
+    "title": "PURVAJA Floral Print Semi Stitched Lehenga Choli",
+    "short_description": "Color: Light Blue\nPattern: Floral Print\nType: Lehenga Choli\nLehenga Fabric: Art Silk\nCholi Fabric: Jacquard\nDupatta Fabric: Art Silk\nStitching Type: Semi Stitched\nSales Package: (1, Lehengha 1, Blouse 1, Dupatta)",
+    "description": "Dimensions\nBlouse Length1 mDupatta Length2 m - 2.5 m\n\nLehenga Choli Details\nLehenga FabricArt SilkCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckV-NeckSleeveSleevelessEmbroideredNoWorkZari WorkLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternFloral PrintSales Package(1, Lehengha 1, Blouse 1, Dupatta)Blouse PatternEmbellishedBlouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkZari WorkBust Size42 inchColorLight BlueBrand ColorRamaDupatta PatternEmbellishedDupatta WorkZari WorkLehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSecondary ColorPinkSizeFreeTrendHeavy Kali Work",
+    "specifications": {
+      "Lehenga Fabric": "Art Silk",
+      "Choli Fabric": "Jacquard",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Art Silk",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Floral Print",
+      "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+      "Color": "Light Blue"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/c/t/free-sleeveless-lotus-purvaja-original-imagqapxguknjtdv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/c/t/free-sleeveless-lotus-purvaja-original-imagqapxguknjtdv.jpeg?q=100",
+        "local_path": "../../media/images/bafe0f0b4fb902752cab8a99/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/b/7/r/free-sleeveless-lotus-purvaja-original-imagqbhvvunfuhhy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/b/7/r/free-sleeveless-lotus-purvaja-original-imagqbhvvunfuhhy.jpeg?q=100",
+        "local_path": "../../media/images/bafe0f0b4fb902752cab8a99/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/o/d/z/free-sleeveless-lotus-purvaja-original-imagqbhv5zggsrkz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/o/d/z/free-sleeveless-lotus-purvaja-original-imagqbhv5zggsrkz.jpeg?q=100",
+        "local_path": "../../media/images/bafe0f0b4fb902752cab8a99/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/i/2/free-sleeveless-lotus-purvaja-original-imagqapxjvxgzxbd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/i/2/free-sleeveless-lotus-purvaja-original-imagqapxjvxgzxbd.jpeg?q=100",
+        "local_path": "../../media/images/bafe0f0b4fb902752cab8a99/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/f/f/free-sleeveless-lotus-purvaja-original-imagqapxgbsxmw9z.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/f/f/free-sleeveless-lotus-purvaja-original-imagqapxgbsxmw9z.jpeg?q=100",
+        "local_path": "../../media/images/bafe0f0b4fb902752cab8a99/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNbVaGB5ylSMC3tLzHNxCetA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURVAJA Floral Print Semi Stitched Lehenga Choli",
+      "description": "PURVAJA Floral Print Semi Stitched Lehenga Choli - Buy PURVAJA Floral Print Semi Stitched Lehenga Choli For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/c/t/free-sleeveless-lotus-purvaja-original-imagqapxguknjtdv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/b/7/r/free-sleeveless-lotus-purvaja-original-imagqbhvvunfuhhy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/o/d/z/free-sleeveless-lotus-purvaja-original-imagqbhv5zggsrkz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/i/2/free-sleeveless-lotus-purvaja-original-imagqapxjvxgzxbd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/f/f/free-sleeveless-lotus-purvaja-original-imagqapxgbsxmw9z.jpeg?q=70"
+      ],
+      "sku": "LCHGQAPX2AHFVKHK",
+      "color": "Rama",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 13,
+        "ratingCount": 189,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURVAJA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 652,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-29",
+          "reviewBody": "Awesome super quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-19",
+          "reviewBody": "Very very good products❣️❣️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Tejal Mehta",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-27",
+          "reviewBody": "Its lovely looking not yet stitched but fabric and color is pretty nice.. Bought it for my mother.. loved it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Dimensions",
+          "body": "Blouse Length1 mDupatta Length2 m - 2.5 m"
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricArt SilkCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckV-NeckSleeveSleevelessEmbroideredNoWorkZari WorkLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternFloral PrintSales Package(1, Lehengha 1, Blouse 1, Dupatta)Blouse PatternEmbellishedBlouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkZari WorkBust Size42 inchColorLight BlueBrand ColorRamaDupatta PatternEmbellishedDupatta WorkZari WorkLehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSecondary ColorPinkSizeFreeTrendHeavy Kali Work"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Art Silk",
+        "Choli Fabric": "Jacquard",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Floral Print",
+        "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+        "Color": "Light Blue"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bafe0f0b4fb902752cab8a99",
+      "path": "media/images/bafe0f0b4fb902752cab8a99/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "3f57688cadf791ffd6758d2b",
+      "path": "media/videos/3f57688cadf791ffd6758d2b/media.json",
+      "reused": false
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm8f9def04e556f?pid=ETHH4JFSZXDGFZNU&marketplace=FLIPKART&lid=LSTETHH4JFSZXDGFZNUYGAIUO&swatchAttr=size&pageUID=1772812433935",
+    "scraped_at": "2026-08-12T15:46:41.073Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm8f9def04e556f?pid=ETHH4JFSZXDGFZNU&marketplace=FLIPKART&lid=LSTETHH4JFSZXDGFZNUYGAIUO&swatchAttr=size&pageUID=1772812433935"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:46:47.559Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Dupatta Set",
+    "short_description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/k/3/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfr2p7ufpzc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/k/3/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfr2p7ufpzc.jpeg?q=100",
+        "local_path": "../../media/images/a1650ee6afd642a708da722a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/3/d/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfregrcpft6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/3/d/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfregrcpft6.jpeg?q=100",
+        "local_path": "../../media/images/a1650ee6afd642a708da722a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/6/f/h/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfrtqne6wzq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/6/f/h/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfrtqne6wzq.jpeg?q=100",
+        "local_path": "../../media/images/a1650ee6afd642a708da722a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/j/f/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfrfg2nqbbr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/j/f/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfrfg2nqbbr.jpeg?q=100",
+        "local_path": "../../media/images/a1650ee6afd642a708da722a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/a/i/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfrzg9ebytn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/a/i/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfrzg9ebytn.jpeg?q=100",
+        "local_path": "../../media/images/a1650ee6afd642a708da722a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Dupatta Set",
+      "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/k/3/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfr2p7ufpzc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/3/d/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfregrcpft6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/6/f/h/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfrtqne6wzq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/j/f/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfrfg2nqbbr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/a/i/xxl-rx193-mgbrwn-skd-royal-export-original-imah4jfrzg9ebytn.jpeg?q=70"
+      ],
+      "sku": "ETHH4JFSZXDGFZNU",
+      "color": "Brown",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 165,
+        "ratingCount": 757,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 498,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-30",
+          "reviewBody": "Nice suit fitting is very good👍 💯❤",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-03",
+          "reviewBody": "Colour is so pretty😍😍😍 nice fabric osm quality❤❤",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Govind Paghdar",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-29",
+          "reviewBody": "Best fabric",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a1650ee6afd642a708da722a",
+      "path": "media/images/a1650ee6afd642a708da722a/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

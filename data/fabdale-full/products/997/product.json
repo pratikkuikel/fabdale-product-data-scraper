@@ -1,0 +1,207 @@
+{
+  "product_id": "997",
+  "sku": "Fab-Salwar-PRSC-016ML-XL",
+  "product": {
+    "name": "Pravya  Floral Print Salwar Suit Set",
+    "parent_id": "5171",
+    "notes": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm610ff3852c065?pid=KTAHBF5CWMPCMFKG&otracker=wishlist&lid=LSTKTAHBF5CWMPCMFKG6SGRGC&fm=organic&iid=48d5410b-d736-4e5d-b2e8-70bf25e3ff2d.KTAHBF5CWMPCMFKG.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=nottyiawjk0000001760193387334"
+  },
+  "source_bundle": {
+    "key": "pid-KTAHBF5CWMPCMFKG",
+    "path": "../../sources/pid-KTAHBF5CWMPCMFKG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm610ff3852c065?pid=KTAHBF5CWMPCMFKG&otracker=wishlist&lid=LSTKTAHBF5CWMPCMFKG6SGRGC&fm=organic&iid=48d5410b-d736-4e5d-b2e8-70bf25e3ff2d.KTAHBF5CWMPCMFKG.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=nottyiawjk0000001760193387334",
+    "scraped_at": "2026-08-12T11:19:02.279Z",
+    "final_url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm610ff3852c065?pid=KTAHBF5CWMPCMFKG&otracker=wishlist&lid=LSTKTAHBF5CWMPCMFKG6SGRGC&fm=organic&iid=48d5410b-d736-4e5d-b2e8-70bf25e3ff2d.KTAHBF5CWMPCMFKG.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=nottyiawjk0000001760193387334"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:19:21.580Z"
+  },
+  "content": {
+    "title": "PRISCA Floral Print Pure Cotton Straight Kurta for Women (Multico...more",
+    "short_description": "Color: Multicolor\nFabric: Pure Cotton\nPattern: Floral Print\nType: Straight",
+    "description": "Elegant Details\nFeaturing delicate floral prints, this women's kurta brings a refreshing and graceful touch to your …\n\nComfortable and Flattering Fit\nSporting a neat notched neckline, this kurta gives a smart and structured look without being too for…\n\nHigh-quality Fabric\nCrafted from viscose rayon fabric, this kurta feels soft and smooth on the skin. The lightweight mat…\n\nSuitable for Various Occasions\nThanks to its timeless design, this kurta transitions easily from casual to semi-formal settings. Yo…",
+    "specifications": {
+      "Pattern": "Floral Print",
+      "Type": "Straight",
+      "Fabric": "Pure Cotton",
+      "Color": "Multicolor"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "aada1d138fc75e9769de7835",
+      "path": "media/images/aada1d138fc75e9769de7835/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/n/g/5/s-peacock-yoke-kurta-prisca-original-imahgfg7qgbphgff.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/n/g/5/s-peacock-yoke-kurta-prisca-original-imahgfg7qgbphgff.jpeg?q=100",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/o/x/d/s-peacock-yoke-kurta-prisca-original-imahgfg7qtav49bc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/o/x/d/s-peacock-yoke-kurta-prisca-original-imahgfg7qtav49bc.jpeg?q=100",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/m/q/u/s-peacock-yoke-kurta-prisca-original-imahgfg7s4bqavdy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/m/q/u/s-peacock-yoke-kurta-prisca-original-imahgfg7s4bqavdy.jpeg?q=100",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/a/t/f/s-peacock-yoke-kurta-prisca-original-imahgfg7mghgkzgd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/a/t/f/s-peacock-yoke-kurta-prisca-original-imahgfg7mghgkzgd.jpeg?q=100",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/n/d/d/s-peacock-yoke-kurta-prisca-original-imahgfg7zb6g5zxd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/n/d/d/s-peacock-yoke-kurta-prisca-original-imahgfg7zb6g5zxd.jpeg?q=100",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_fc7dab9ec8e444a0b0d0ef9789b12359.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_fc7dab9ec8e444a0b0d0ef9789b12359.jpg?q=80",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d35d507a9ce7492093e60f9b16220729.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d35d507a9ce7492093e60f9b16220729.jpg?q=80",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_e28b92999d6940509a10986f9fd06cf4.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_e28b92999d6940509a10986f9fd06cf4.jpg?q=80",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b17d59ff12664423b080602ff2a759cd.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b17d59ff12664423b080602ff2a759cd.jpg?q=80",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_de54acaf003e48e287a47344bb76e055.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_de54acaf003e48e287a47344bb76e055.jpg?q=80",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/u/v/s-rama-green-v-neck-prisca-resized-original-imahgfghtvsgvz3d.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/u/v/s-rama-green-v-neck-prisca-resized-original-imahgfghtvsgvz3d.jpeg?q=100",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/0/m/p/xxl-126-yellow-circle-bkapparels-resized-original-imahaftfjdcp4kwr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/0/m/p/xxl-126-yellow-circle-bkapparels-resized-original-imahaftfjdcp4kwr.jpeg?q=100",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/c/5/xxl-58-nk-redlace-wawlooks-original-imahzx8zvgt2zcpd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/c/5/xxl-58-nk-redlace-wawlooks-original-imahzx8zvgt2zcpd.jpeg?q=100",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/w/d/q/s-sk-n-green-big-flower-kkfab-original-imahj46ruexkp87r.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/w/d/q/s-sk-n-green-big-flower-kkfab-original-imahj46ruexkp87r.jpeg?q=100",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=100",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/s/i/k/m-102-black-kurta-ethenicverse-original-imahjhjvb3rqzg8a.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/s/i/k/m-102-black-kurta-ethenicverse-original-imahjhjvb3rqzg8a.jpeg?q=100",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/3/s/m-48-pinkflwrrdneck-wawlooks-resized-original-imahjdfyw7qgqrq9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/3/s/m-48-pinkflwrrdneck-wawlooks-resized-original-imahjdfyw7qgqrq9.jpeg?q=100",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-017.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/6/c/y/m-25g-red-wawlooks-original-imah5ydudzejvk9h.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/6/c/y/m-25g-red-wawlooks-original-imah5ydudzejvk9h.jpeg?q=100",
+        "local_path": "../../media/images/aada1d138fc75e9769de7835/assets/images/image-018.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant Details",
+          "body": "Featuring delicate floral prints, this women's kurta brings a refreshing and graceful touch to your …"
+        },
+        {
+          "heading": "Comfortable and Flattering Fit",
+          "body": "Sporting a neat notched neckline, this kurta gives a smart and structured look without being too for…"
+        },
+        {
+          "heading": "High-quality Fabric",
+          "body": "Crafted from viscose rayon fabric, this kurta feels soft and smooth on the skin. The lightweight mat…"
+        },
+        {
+          "heading": "Suitable for Various Occasions",
+          "body": "Thanks to its timeless design, this kurta transitions easily from casual to semi-formal settings. Yo…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Floral Print",
+        "Type": "Straight",
+        "Fabric": "Pure Cotton",
+        "Color": "Multicolor"
+      },
+      "specifications": {}
+    }
+  }
+}

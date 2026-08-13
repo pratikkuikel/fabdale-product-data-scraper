@@ -1,0 +1,191 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm7b38018e80cbe?pid=KTAH2M5NFYV3SFFB&lid=LSTKTAH2M5NFYV3SFFBHRZEFT&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T11:36:26.850Z",
+    "final_url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm7b38018e80cbe?pid=KTAH2M5NFYV3SFFB&lid=LSTKTAH2M5NFYV3SFFBHRZEFT&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:36:40.076Z"
+  },
+  "content": {
+    "title": "PRISCA Women Floral Print Straight Kurta",
+    "short_description": "Color: Multicolor\nFabric: Pure Cotton\nPattern: Floral Print\nType: Straight",
+    "description": "Elegant Floral Print\nThis kurta features a beautiful floral print that adds a touch of elegance and femininity to your ca…\n\nComfortable Calf Length\nDesigned with a calf-length silhouette, this kurta offers a comfortable and modest fit. The length i…\n\nSoft Viscose Rayon Fabric\nCrafted from high-quality viscose rayon fabric, this kurta offers a soft and luxurious feel against …\n\nStylish Round Neck\nFeaturing a classic round neck design, this kurta is both stylish and comfortable. The round neck ad…",
+    "specifications": {
+      "Pattern": "Floral Print",
+      "Type": "Straight",
+      "Fabric": "Pure Cotton",
+      "Color": "Multicolor"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/6/0/f/s-sea-green-zari-sk-prisca-original-imahgfgzhcgsv6js.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/6/0/f/s-sea-green-zari-sk-prisca-original-imahgfgzhcgsv6js.jpeg?q=100",
+        "local_path": "../../media/images/dd6f9211661a4387d688a551/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/7/r/s-sea-green-zari-sk-prisca-original-imahgfgzgzbdchxw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/7/r/s-sea-green-zari-sk-prisca-original-imahgfgzgzbdchxw.jpeg?q=100",
+        "local_path": "../../media/images/dd6f9211661a4387d688a551/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/7/0/z/s-sea-green-zari-sk-prisca-original-imahgfgzz2bfemwz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/7/0/z/s-sea-green-zari-sk-prisca-original-imahgfgzz2bfemwz.jpeg?q=100",
+        "local_path": "../../media/images/dd6f9211661a4387d688a551/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/m/h/s-sea-green-zari-sk-prisca-original-imahgfgzgpy8dhbz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/m/h/s-sea-green-zari-sk-prisca-original-imahgfgzgpy8dhbz.jpeg?q=100",
+        "local_path": "../../media/images/dd6f9211661a4387d688a551/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/g/a/s-sea-green-zari-sk-prisca-original-imahgfgzkrbz2mqc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/g/a/s-sea-green-zari-sk-prisca-original-imahgfgzkrbz2mqc.jpeg?q=100",
+        "local_path": "../../media/images/dd6f9211661a4387d688a551/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PRISCA Women Floral Print Straight Kurta",
+      "description": "PRISCA Women Floral Print Straight Kurta - Buy PRISCA Women Floral Print Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/6/0/f/s-sea-green-zari-sk-prisca-original-imahgfgzhcgsv6js.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/7/r/s-sea-green-zari-sk-prisca-original-imahgfgzgzbdchxw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/7/0/z/s-sea-green-zari-sk-prisca-original-imahgfgzz2bfemwz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/m/h/s-sea-green-zari-sk-prisca-original-imahgfgzgpy8dhbz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/g/a/s-sea-green-zari-sk-prisca-original-imahgfgzkrbz2mqc.jpeg?q=70"
+      ],
+      "sku": "KTAH2M5NFYV3SFFB",
+      "color": "SEA GREEN",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 246,
+        "ratingCount": 6967,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PRISCA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 793,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-24",
+          "reviewBody": "This is amazing product 👏 I like both colour of Kurtis  👍 good quality Kurtis in this price 👍 10/10👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-18",
+          "reviewBody": "Product is excellent worth to money and it delivered as expected with color quality as expected thank you flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Akhila Vankdavath",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-01",
+          "reviewBody": "Gud quality",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant Floral Print",
+          "body": "This kurta features a beautiful floral print that adds a touch of elegance and femininity to your ca…"
+        },
+        {
+          "heading": "Comfortable Calf Length",
+          "body": "Designed with a calf-length silhouette, this kurta offers a comfortable and modest fit. The length i…"
+        },
+        {
+          "heading": "Soft Viscose Rayon Fabric",
+          "body": "Crafted from high-quality viscose rayon fabric, this kurta offers a soft and luxurious feel against …"
+        },
+        {
+          "heading": "Stylish Round Neck",
+          "body": "Featuring a classic round neck design, this kurta is both stylish and comfortable. The round neck ad…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Floral Print",
+        "Type": "Straight",
+        "Fabric": "Pure Cotton",
+        "Color": "Multicolor"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "dd6f9211661a4387d688a551",
+      "path": "media/images/dd6f9211661a4387d688a551/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

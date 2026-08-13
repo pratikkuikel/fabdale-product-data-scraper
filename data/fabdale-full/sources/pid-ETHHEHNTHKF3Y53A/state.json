@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-ETHHEHNTHKF3Y53A",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1684",
+    "1687"
+  ],
+  "source_path": "sources/pid-ETHHEHNTHKF3Y53A/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T16:09:40.816Z",
+  "completed_at": "2026-08-12T16:09:55.535Z"
+}

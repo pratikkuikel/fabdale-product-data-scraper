@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/piludi-embroidered-kurta-salwar-dupatta-set/p/itmb438854d19a66?pid=SWDH8J3UKHQKJ6JW&marketplace=FLIPKART&lid=LSTSWDH8J3UKHQKJ6JWRQINNM&swatchAttr=size&pageUID=1772443369817",
+    "scraped_at": "2026-08-12T10:58:20.245Z",
+    "final_url": "https://www.flipkart.com/piludi-embroidered-kurta-salwar-dupatta-set/p/itmb438854d19a66?pid=SWDH8J3UKHQKJ6JW&marketplace=FLIPKART&lid=LSTSWDH8J3UKHQKJ6JWRQINNM&swatchAttr=size&pageUID=1772443369817"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:58:29.374Z"
+  },
+  "content": {
+    "title": "PILUDI Embroidered Kurta, Salwar & Dupatta Set",
+    "short_description": "PILUDI Embroidered Kurta, Salwar & Dupatta Set - Buy PILUDI Embroidered Kurta, Salwar & Dupatta Set For Only Rs. 2199.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PILUDI Embroidered Kurta, Salwar & Dupatta Set - Buy PILUDI Embroidered Kurta, Salwar & Dupatta Set For Only Rs. 2199.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/i/x/2/m-sw-minakshi-piludi-original-imahczae4g6ufvrf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/i/x/2/m-sw-minakshi-piludi-original-imahczae4g6ufvrf.jpeg?q=100",
+        "local_path": "../../media/images/eadca2285b7e3b00ca157c94/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/i/z/l/m-sw-minakshi-piludi-original-imahczaexvsqjyhq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/i/z/l/m-sw-minakshi-piludi-original-imahczaexvsqjyhq.jpeg?q=100",
+        "local_path": "../../media/images/eadca2285b7e3b00ca157c94/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/h/r/7/m-sw-minakshi-piludi-original-imahczaefazdfdha.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/h/r/7/m-sw-minakshi-piludi-original-imahczaefazdfdha.jpeg?q=100",
+        "local_path": "../../media/images/eadca2285b7e3b00ca157c94/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/a/c/e/xl-sw-minakshi-piludi-original-imahc7cwrtqe7rgh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/a/c/e/xl-sw-minakshi-piludi-original-imahc7cwrtqe7rgh.jpeg?q=100",
+        "local_path": "../../media/images/eadca2285b7e3b00ca157c94/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/f/5/xxl-sw-minakshi-piludi-original-imahcz4wshsc5ckj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/f/5/xxl-sw-minakshi-piludi-original-imahcz4wshsc5ckj.jpeg?q=100",
+        "local_path": "../../media/images/eadca2285b7e3b00ca157c94/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PILUDI Embroidered Kurta, Salwar & Dupatta Set",
+      "description": "PILUDI Embroidered Kurta, Salwar & Dupatta Set - Buy PILUDI Embroidered Kurta, Salwar & Dupatta Set For Only Rs. 2199.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/i/x/2/m-sw-minakshi-piludi-original-imahczae4g6ufvrf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/i/z/l/m-sw-minakshi-piludi-original-imahczaexvsqjyhq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/h/r/7/m-sw-minakshi-piludi-original-imahczaefazdfdha.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/a/c/e/xl-sw-minakshi-piludi-original-imahc7cwrtqe7rgh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/f/5/xxl-sw-minakshi-piludi-original-imahcz4wshsc5ckj.jpeg?q=70"
+      ],
+      "sku": "SWDH8J3UKHQKJ6JW",
+      "color": "Black",
+      "category": "salwar_kurta_dupatta",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 25,
+        "ratingCount": 315,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PILUDI",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 575,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Poonam Balotiya ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-16",
+          "reviewBody": "All ok .. looks good butt the embroidery on duppatta should be white but it is golden so this thing I don't like .. otherwise all good 😊",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Devanshu Bansal",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-25",
+          "reviewBody": "Very beautiful and good quality dress at good price",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-10",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "eadca2285b7e3b00ca157c94",
+      "path": "media/images/eadca2285b7e3b00ca157c94/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

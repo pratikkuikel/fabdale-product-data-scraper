@@ -1,0 +1,189 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itm9c8990b6a87e6?pid=ETHH3FN5QVPFWGCS&marketplace=FLIPKART&lid=LSTETHH3FN5QVPFWGCSXMZ9T9&swatchAttr=size&pageUID=1772638724833",
+    "scraped_at": "2026-08-12T11:02:13.768Z",
+    "final_url": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itm9c8990b6a87e6?pid=ETHH3FN5QVPFWGCS&marketplace=FLIPKART&lid=LSTETHH3FN5QVPFWGCSXMZ9T9&swatchAttr=size&pageUID=1772638724833"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:02:27.371Z"
+  },
+  "content": {
+    "title": "PILUDI Women Kurti Pant Dupatta Set",
+    "short_description": "Fabric: Georgette\nPattern: Embroidered\nFabricGeorgette: PatternEmbroidered",
+    "description": "Elegant Embroidery\nEnhance your wardrobe with this black viscose rayon kurti and pant set featuring exquisite embroider…\n\nVersatile Bottoms\nComplementing the kurti, the black pant offers versatility and style. The pant bottom ensures ease o…\n\nLuxurious Viscose Rayon\nCrafted from high-quality viscose rayon, this ethnic set provides a luxurious feel and drapes beauti…",
+    "specifications": {
+      "FabricGeorgette": "PatternEmbroidered",
+      "Fabric": "Georgette",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/a/f/xxl-sw-zoya-black-piludi-resized-original-imahm469nkccecpx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/a/f/xxl-sw-zoya-black-piludi-resized-original-imahm469nkccecpx.jpeg?q=100",
+        "local_path": "../../media/images/f46d460cb92369da5429c474/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/f/t/xxl-sw-zoya-black-piludi-original-imahm469jbeqyhkq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/f/t/xxl-sw-zoya-black-piludi-original-imahm469jbeqyhkq.jpeg?q=100",
+        "local_path": "../../media/images/f46d460cb92369da5429c474/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/y/s/xxl-sw-zoya-black-piludi-original-imahm469uef9kvnx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/y/s/xxl-sw-zoya-black-piludi-original-imahm469uef9kvnx.jpeg?q=100",
+        "local_path": "../../media/images/f46d460cb92369da5429c474/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/9/v/w/xxl-sw-zoya-black-piludi-original-imahm469vzpm7dqd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/9/v/w/xxl-sw-zoya-black-piludi-original-imahm469vzpm7dqd.jpeg?q=100",
+        "local_path": "../../media/images/f46d460cb92369da5429c474/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PILUDI Women Kurti Pant Dupatta Set",
+      "description": "PILUDI Women Kurti Pant Dupatta Set - Buy PILUDI Women Kurti Pant Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/a/f/xxl-sw-zoya-black-piludi-resized-original-imahm469nkccecpx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/f/t/xxl-sw-zoya-black-piludi-original-imahm469jbeqyhkq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/y/s/xxl-sw-zoya-black-piludi-original-imahm469uef9kvnx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/9/v/w/xxl-sw-zoya-black-piludi-original-imahm469vzpm7dqd.jpeg?q=70"
+      ],
+      "sku": "ETHH3FN5QVPFWGCS",
+      "color": "Black",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 91,
+        "ratingCount": 1149,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PILUDI",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 689,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Siddhi Dhote",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-07",
+          "reviewBody": "Amazing quality! The Kurta Dupatta set is soft, lightweight, and fits beautifully.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Shantimoy  Maji",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-22",
+          "reviewBody": "Good quality product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Chandrashekhar Shrivastava",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-08",
+          "reviewBody": "Little different from the picture.sleeves are short but overall good feeling nice look.and comfortable to wear",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant Embroidery",
+          "body": "Enhance your wardrobe with this black viscose rayon kurti and pant set featuring exquisite embroider…"
+        },
+        {
+          "heading": "Versatile Bottoms",
+          "body": "Complementing the kurti, the black pant offers versatility and style. The pant bottom ensures ease o…"
+        },
+        {
+          "heading": "Luxurious Viscose Rayon",
+          "body": "Crafted from high-quality viscose rayon, this ethnic set provides a luxurious feel and drapes beauti…"
+        }
+      ],
+      "product_highlights": {
+        "FabricGeorgette": "PatternEmbroidered",
+        "Fabric": "Georgette",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "f46d460cb92369da5429c474",
+      "path": "media/images/f46d460cb92369da5429c474/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

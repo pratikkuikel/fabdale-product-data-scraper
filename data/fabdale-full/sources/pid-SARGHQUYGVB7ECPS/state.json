@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SARGHQUYGVB7ECPS",
+  "status": "success",
+  "attempt_count": 7,
+  "error": null,
+  "product_keys": [
+    "518"
+  ],
+  "source_path": "sources/pid-SARGHQUYGVB7ECPS/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T10:27:54.856Z",
+  "completed_at": "2026-08-12T10:28:01.553Z"
+}

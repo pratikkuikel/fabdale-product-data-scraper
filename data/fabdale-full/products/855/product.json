@@ -1,0 +1,174 @@
+{
+  "product_id": "855",
+  "sku": "Fab-Salwar-PLDI-017YL-M",
+  "product": {
+    "name": "Pilessa Viscose Rayon Embroidered Salwar Suit Set",
+    "parent_id": "5147",
+    "notes": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itm1df4db2afac0e?pid=ETHGGJPH9HFTKNJF&otracker=wishlist&lid=LSTETHGGJPH9HFTKNJFQY9JS5&fm=organic&iid=a866e451-8eaf-494e-8852-0e78f128ea3a.ETHGGJPH9HFTKNJF.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=ttaowv3pi80000001759424448121"
+  },
+  "source_bundle": {
+    "key": "pid-ETHGGJPH9HFTKNJF",
+    "path": "../../sources/pid-ETHGGJPH9HFTKNJF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itm1df4db2afac0e?pid=ETHGGJPH9HFTKNJF&otracker=wishlist&lid=LSTETHGGJPH9HFTKNJFQY9JS5&fm=organic&iid=a866e451-8eaf-494e-8852-0e78f128ea3a.ETHGGJPH9HFTKNJF.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=ttaowv3pi80000001759424448121",
+    "scraped_at": "2026-08-12T11:04:17.859Z",
+    "final_url": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itm1df4db2afac0e?pid=ETHGGJPH9HFTKNJF&otracker=wishlist&lid=LSTETHGGJPH9HFTKNJFQY9JS5&fm=organic&iid=a866e451-8eaf-494e-8852-0e78f128ea3a.ETHGGJPH9HFTKNJF.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=ttaowv3pi80000001759424448121"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:04:29.953Z"
+  },
+  "content": {
+    "title": "PILUDI Women Viscose Rayon Kurti Pant Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Embroidered\nType: Kurta, Pant And Dupatta Set",
+    "description": "Exquisite Embroidery Ensemble\nWith its exquisite embroidered pattern, this women's kurta, pants, and dupatta set showcases intrica…\n\nCarefully Crafted Design\nCourtesy of its round neck, three-quarter sleeves, calf-length kurta, and side slits, this set is th…\n\nExcellent Fabric\nCreated from top-quality viscose rayon, this set offers a luxurious and comfortable experience again…\n\nAdaptable for Any Occasion\nThanks to its versatile design, this embroidered kurta, pant, and dupatta set is a beautiful choice …\n\nStyle it Right\nPick this ethereal ethnic set to wear to a much-awaited festive occasion. Club it with triangle-shap…",
+    "specifications": {
+      "Fabric": "Viscose Rayon",
+      "Type": "Kurta, Pant And Dupatta Set",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "7d38db61cb1817f5477a21ee",
+      "path": "media/images/7d38db61cb1817f5477a21ee/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/p/d/c/m-sw-kanikaperot-piludi-original-imaheqfam4rzk8qm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/p/d/c/m-sw-kanikaperot-piludi-original-imaheqfam4rzk8qm.jpeg?q=100",
+        "local_path": "../../media/images/7d38db61cb1817f5477a21ee/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/9/y/w/m-sw-kanikaperot-piludi-original-imaheqfafdpdrv8f.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/9/y/w/m-sw-kanikaperot-piludi-original-imaheqfafdpdrv8f.jpeg?q=100",
+        "local_path": "../../media/images/7d38db61cb1817f5477a21ee/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/r/j/f/m-sw-kanikaperot-piludi-original-imaheqfafjdqph6k.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/r/j/f/m-sw-kanikaperot-piludi-original-imaheqfafjdqph6k.jpeg?q=100",
+        "local_path": "../../media/images/7d38db61cb1817f5477a21ee/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f8820bfa5e1d468695ad42e9b3e97069.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f8820bfa5e1d468695ad42e9b3e97069.jpeg?q=80",
+        "local_path": "../../media/images/7d38db61cb1817f5477a21ee/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a20ee5e17b024eb3a134619e79bc51ee.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a20ee5e17b024eb3a134619e79bc51ee.jpeg?q=80",
+        "local_path": "../../media/images/7d38db61cb1817f5477a21ee/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/b/f/h/s-gray-square-s-creationrajvi-original-imaggpjayn3vkkjs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/b/f/h/s-gray-square-s-creationrajvi-original-imaggpjayn3vkkjs.jpeg?q=100",
+        "local_path": "../../media/images/7d38db61cb1817f5477a21ee/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/x/o/j/xl-marun-s-creationrajvi-original-imahjcagwee9hkry.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/x/o/j/xl-marun-s-creationrajvi-original-imahjcagwee9hkry.jpeg?q=100",
+        "local_path": "../../media/images/7d38db61cb1817f5477a21ee/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/t/7/4xl-ab-vrc-6-gulkanya-style-original-imahprd7gssvknhk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/t/7/4xl-ab-vrc-6-gulkanya-style-original-imahprd7gssvknhk.jpeg?q=100",
+        "local_path": "../../media/images/7d38db61cb1817f5477a21ee/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/o/u/l/s-women-kurta-pant-set-tanavigarment-resized-original-imahj49bpqzdrxwh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/o/u/l/s-women-kurta-pant-set-tanavigarment-resized-original-imahj49bpqzdrxwh.jpeg?q=100",
+        "local_path": "../../media/images/7d38db61cb1817f5477a21ee/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/l3lx8cw0/ethnic-set/2/y/y/l-marun-s-creationrajvi-original-imagezr6yegzzec7.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/l3lx8cw0/ethnic-set/2/y/y/l-marun-s-creationrajvi-original-imagezr6yegzzec7.jpeg?q=100",
+        "local_path": "../../media/images/7d38db61cb1817f5477a21ee/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/z/r/v/xxl-tie-dye-001-fabunna-cotton-resized-original-imahgbgawqeadk8q.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/z/r/v/xxl-tie-dye-001-fabunna-cotton-resized-original-imahgbgawqeadk8q.jpeg?q=100",
+        "local_path": "../../media/images/7d38db61cb1817f5477a21ee/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/n/q/p/m-kj-rama-shibhori-dupatta-set-kjfab-original-imahy8mshgdxdkgt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/n/q/p/m-kj-rama-shibhori-dupatta-set-kjfab-original-imahy8mshgdxdkgt.jpeg?q=100",
+        "local_path": "../../media/images/7d38db61cb1817f5477a21ee/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/n/g/v/s-sw-siya-lavender-piludi-resized-original-imahm469genk6svz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/n/g/v/s-sw-siya-lavender-piludi-resized-original-imahm469genk6svz.jpeg?q=100",
+        "local_path": "../../media/images/7d38db61cb1817f5477a21ee/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Exquisite Embroidery Ensemble",
+          "body": "With its exquisite embroidered pattern, this women's kurta, pants, and dupatta set showcases intrica…"
+        },
+        {
+          "heading": "Carefully Crafted Design",
+          "body": "Courtesy of its round neck, three-quarter sleeves, calf-length kurta, and side slits, this set is th…"
+        },
+        {
+          "heading": "Excellent Fabric",
+          "body": "Created from top-quality viscose rayon, this set offers a luxurious and comfortable experience again…"
+        },
+        {
+          "heading": "Adaptable for Any Occasion",
+          "body": "Thanks to its versatile design, this embroidered kurta, pant, and dupatta set is a beautiful choice …"
+        },
+        {
+          "heading": "Style it Right",
+          "body": "Pick this ethereal ethnic set to wear to a much-awaited festive occasion. Club it with triangle-shap…"
+        }
+      ],
+      "product_highlights": {
+        "Fabric": "Viscose Rayon",
+        "Type": "Kurta, Pant And Dupatta Set",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  }
+}

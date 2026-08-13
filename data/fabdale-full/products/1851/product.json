@@ -1,0 +1,210 @@
+{
+  "product_id": "1851",
+  "sku": "Fab-Lehenga- FBCZ-015YL",
+  "product": {
+    "name": "Firozae Red Pari Yellow Lehenga Choli",
+    "parent_id": "5300",
+    "notes": "https://www.flipkart.com/fabcartz-embroidered-semi-stitched-lehenga-choli/p/itmaea04131fc1ab?pid=LCHGAFG6VUUPZJKG&lid=LSTLCHGAFG6VUUPZJKGGZXNEF&marketplace=FLIPKART&sattr[]=color&sattr[]=sleeve&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-LCHGAFG6VUUPZJKG",
+    "path": "../../sources/pid-LCHGAFG6VUUPZJKG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fabcartz-embroidered-semi-stitched-lehenga-choli/p/itmaea04131fc1ab?pid=LCHGAFG6VUUPZJKG&lid=LSTLCHGAFG6VUUPZJKGGZXNEF&marketplace=FLIPKART&sattr[]=color&sattr[]=sleeve&st=color",
+    "scraped_at": "2026-08-13T07:38:55.959Z",
+    "final_url": "https://www.flipkart.com/fabcartz-embroidered-semi-stitched-lehenga-choli/p/itmaea04131fc1ab?pid=LCHGAFG6VUUPZJKG&lid=LSTLCHGAFG6VUUPZJKGGZXNEF&marketplace=FLIPKART&sattr[]=color&sattr[]=sleeve&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-13T07:39:06.824Z"
+  },
+  "content": {
+    "title": "Fabcartz Embroidered Semi Stitched Lehenga Choli",
+    "short_description": "Color: Yellow\nPattern: Embroidered\nType: Lehenga Choli\nLehenga Fabric: Cotton Blend\nStitching Type: Semi Stitched\nSales Package: 1 Lehenga 1 Choli Fabric 1 Dupatta",
+    "description": "Occasion\nParty & Festive, Wedding, Wedding & Festive\n\nLehenga Choli Details\nLehenga FabricCotton BlendTypeLehenga CholiNeckRound NeckSleeveFull SleeveDupattaYesStitching TypeSemi StitchedPatternEmbroideredSales Package1 Lehenga 1 Choli Fabric 1 DupattaColorYellowBrand ColorYellow RedSizeFree",
+    "specifications": {
+      "Lehenga Fabric": "Cotton Blend",
+      "Type": "Lehenga Choli",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Embroidered",
+      "Sales Package": "1 Lehenga 1 Choli Fabric 1 Dupatta",
+      "Color": "Yellow"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "00f72595fd3b7170e94b2ade",
+      "path": "media/images/00f72595fd3b7170e94b2ade/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ky4qgsw0/lehenga-choli/a/v/o/free-full-sleeve-diya-immy-original-imagaffvexjymgyd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ky4qgsw0/lehenga-choli/a/v/o/free-full-sleeve-diya-immy-original-imagaffvexjymgyd.jpeg?q=100",
+        "local_path": "../../media/images/00f72595fd3b7170e94b2ade/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ky4qgsw0/lehenga-choli/2/n/8/free-full-sleeve-diya-immy-original-imagaffvhfnxkheh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ky4qgsw0/lehenga-choli/2/n/8/free-full-sleeve-diya-immy-original-imagaffvhfnxkheh.jpeg?q=100",
+        "local_path": "../../media/images/00f72595fd3b7170e94b2ade/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ky4qgsw0/lehenga-choli/g/0/j/free-full-sleeve-diya-immy-original-imagaffvddzwy8bj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ky4qgsw0/lehenga-choli/g/0/j/free-full-sleeve-diya-immy-original-imagaffvddzwy8bj.jpeg?q=100",
+        "local_path": "../../media/images/00f72595fd3b7170e94b2ade/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/ky4qgsw0/lehenga-choli/q/f/c/free-full-sleeve-diya-immy-original-imagaffv9waexqtr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/ky4qgsw0/lehenga-choli/q/f/c/free-full-sleeve-diya-immy-original-imagaffv9waexqtr.jpeg?q=100",
+        "local_path": "../../media/images/00f72595fd3b7170e94b2ade/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Fabcartz Embroidered Semi Stitched Lehenga Choli",
+      "description": "Fabcartz Embroidered Semi Stitched Lehenga Choli - Buy Fabcartz Embroidered Semi Stitched Lehenga Choli For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/ky4qgsw0/lehenga-choli/a/v/o/free-full-sleeve-diya-immy-original-imagaffvexjymgyd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/ky4qgsw0/lehenga-choli/2/n/8/free-full-sleeve-diya-immy-original-imagaffvhfnxkheh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/ky4qgsw0/lehenga-choli/g/0/j/free-full-sleeve-diya-immy-original-imagaffvddzwy8bj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/ky4qgsw0/lehenga-choli/q/f/c/free-full-sleeve-diya-immy-original-imagaffv9waexqtr.jpeg?q=70"
+      ],
+      "sku": "LCHGAFG6VUUPZJKG",
+      "color": "Yellow Red",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 32,
+        "ratingCount": 253,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Fabcartz",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 689,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Snehal Iyer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-12",
+          "reviewBody": "Happy purchase!.....worth every penny just go for it!",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2021-12-03",
+          "reviewBody": "Osm product I am very happy 😊😊 to buy this.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Sunita Kanojiya",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-06",
+          "reviewBody": "Owsm dress😍💓",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Occasion",
+          "body": "Party & Festive, Wedding, Wedding & Festive"
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricCotton BlendTypeLehenga CholiNeckRound NeckSleeveFull SleeveDupattaYesStitching TypeSemi StitchedPatternEmbroideredSales Package1 Lehenga 1 Choli Fabric 1 DupattaColorYellowBrand ColorYellow RedSizeFree"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Cotton Blend",
+        "Type": "Lehenga Choli",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Embroidered",
+        "Sales Package": "1 Lehenga 1 Choli Fabric 1 Dupatta",
+        "Color": "Yellow"
+      },
+      "specifications": {
+        "Dimensions": "Blouse Length0.8 mDupatta Length2.2 m",
+        "Blouse Length0.8 m": "Dupatta Length2.2 m",
+        "Blouse Length": "0.8 m",
+        "Dupatta Length": "2.2 m",
+        "Fabric Care": "Dry&Clean",
+        "Brand": "Fabcartz",
+        "Ideal For": "Women",
+        "Occasion": "Party & Festive, Wedding, Wedding & Festive",
+        "Lehenga Fabric": "Cotton Blend",
+        "Type": "Lehenga Choli",
+        "Neck": "Round Neck",
+        "Sleeve": "Full Sleeve",
+        "Dupatta": "Yes",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Embroidered",
+        "Sales Package": "1 Lehenga 1 Choli Fabric 1 Dupatta",
+        "Color": "Yellow",
+        "Brand Color": "Yellow Red",
+        "Size": "Free"
+      }
+    }
+  }
+}

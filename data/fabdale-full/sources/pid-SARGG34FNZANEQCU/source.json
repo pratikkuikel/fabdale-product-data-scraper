@@ -1,0 +1,218 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/avantika-fashion-woven-kanjivaram-pure-silk-art-silk-saree/p/itm7131d8c5ebadf?pid=SARGG34FNZANEQCU&lid=LSTSARGG34FNZANEQCUVUDCIC&marketplace=FLIPKART&q=avantika%20fashion%20saree&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T08:49:11.175Z",
+    "final_url": "https://www.flipkart.com/avantika-fashion-woven-kanjivaram-pure-silk-art-silk-saree/p/itm7131d8c5ebadf?pid=SARGG34FNZANEQCU&lid=LSTSARGG34FNZANEQCUVUDCIC&marketplace=FLIPKART&q=avantika%20fashion%20saree&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:49:31.046Z"
+  },
+  "content": {
+    "title": "AVANTIKA FASHION Woven Kanjivaram Pure Silk, Art Silk Saree",
+    "short_description": "Fabric: Pure Silk, Art Silk\nPattern: Woven\nType: Kanjivaram\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Elegant and Timeless Design\nFeaturing a beautiful woven pattern, this Kanjivaram saree showcases an elegant and timeless design.…\n\nLuxurious Silk Fabric\nCrafted with pure silk and art silk fabric, this saree offers a luxurious feel against your skin. Th…\n\nVersatile Blouse Piece\nThis saree includes an unstitched blouse piece made of jacquard and pure silk fabric. The solid colo…\n\nPerfect for Multiple Occasions\nFrom casual outings to festive celebrations and weddings, this saree is suitable for a wide range of…\n\nExquisite Zari Work\nThe saree is embellished with exquisite zari work, adding a touch of glamour and sophistication. The…",
+    "specifications": {
+      "Pattern": "Woven",
+      "Fabric": "Pure Silk, Art Silk",
+      "Type": "Kanjivaram",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/t/w/free-banarasi-avantika-fashion-unstitched-resized-original-imahftk4yhddhdat.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/t/w/free-banarasi-avantika-fashion-unstitched-resized-original-imahftk4yhddhdat.jpeg?q=100",
+        "local_path": "../../media/images/7d4c4d17e78273e27d82b220/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/t/j/free-banarasi-avantika-fashion-unstitched-original-imahftk4bbqryh7z.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/t/j/free-banarasi-avantika-fashion-unstitched-original-imahftk4bbqryh7z.jpeg?q=100",
+        "local_path": "../../media/images/7d4c4d17e78273e27d82b220/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/c/s/free-banarasi-unity-hub-unstitched-original-imahepqjggdfyw7v.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/c/s/free-banarasi-unity-hub-unstitched-original-imahepqjggdfyw7v.jpeg?q=100",
+        "local_path": "../../media/images/7d4c4d17e78273e27d82b220/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/g/1/9/free-banarasi-unity-hub-unstitched-original-imahepqgayhqszsk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/g/1/9/free-banarasi-unity-hub-unstitched-original-imahepqgayhqszsk.jpeg?q=100",
+        "local_path": "../../media/images/7d4c4d17e78273e27d82b220/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/SELLER_CATALOG/CNDUOhdPVmTqaYWdW3Qg_LKA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNqUxihOsORxuHhQngSuFw5A/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "AVANTIKA FASHION Woven Kanjivaram Pure Silk, Art Silk Saree",
+      "description": "AVANTIKA FASHION Woven Kanjivaram Pure Silk, Art Silk Saree - Buy AVANTIKA FASHION Woven Kanjivaram Pure Silk, Art Silk Saree For Only Rs. 3499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/t/w/free-banarasi-avantika-fashion-unstitched-resized-original-imahftk4yhddhdat.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/t/j/free-banarasi-avantika-fashion-unstitched-original-imahftk4bbqryh7z.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/c/s/free-banarasi-unity-hub-unstitched-original-imahepqjggdfyw7v.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/g/1/9/free-banarasi-unity-hub-unstitched-original-imahepqgayhqszsk.jpeg?q=70"
+      ],
+      "sku": "SARGG34FNZANEQCU",
+      "color": "DEVRATAN-MAGENTA",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 1958,
+        "ratingCount": 37484,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "AVANTIKA FASHION",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 399,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "POULAMI BAG",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-29",
+          "reviewBody": "Extremely gorgeous in this price range",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Pavi Pavithra",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-09",
+          "reviewBody": "Sareee is really good according to this price🤩🤩",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Monalisa Mohanty",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-01",
+          "reviewBody": "Seriously awesome\nWorth it.......",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant and Timeless Design",
+          "body": "Featuring a beautiful woven pattern, this Kanjivaram saree showcases an elegant and timeless design.…"
+        },
+        {
+          "heading": "Luxurious Silk Fabric",
+          "body": "Crafted with pure silk and art silk fabric, this saree offers a luxurious feel against your skin. Th…"
+        },
+        {
+          "heading": "Versatile Blouse Piece",
+          "body": "This saree includes an unstitched blouse piece made of jacquard and pure silk fabric. The solid colo…"
+        },
+        {
+          "heading": "Perfect for Multiple Occasions",
+          "body": "From casual outings to festive celebrations and weddings, this saree is suitable for a wide range of…"
+        },
+        {
+          "heading": "Exquisite Zari Work",
+          "body": "The saree is embellished with exquisite zari work, adding a touch of glamour and sophistication. The…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Woven",
+        "Fabric": "Pure Silk, Art Silk",
+        "Type": "Kanjivaram",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "7d4c4d17e78273e27d82b220",
+      "path": "media/images/7d4c4d17e78273e27d82b220/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "2e5ef430b43694c5a7e02def",
+      "path": "media/videos/2e5ef430b43694c5a7e02def/media.json",
+      "reused": false
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-LCHGH4H3CZ788ANP",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1872",
+    "5310"
+  ],
+  "source_path": "sources/pid-LCHGH4H3CZ788ANP/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T07:45:42.456Z",
+  "completed_at": "2026-08-13T07:45:51.861Z"
+}

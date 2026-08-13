@@ -1,0 +1,216 @@
+{
+  "product_id": "1225",
+  "sku": "Fab-Salwar-DVST-010BL-M",
+  "product": {
+    "name": "Divashree  Cotton  Ethnic Festive Salwar Suit Set",
+    "parent_id": "5216",
+    "notes": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itmbf723c87da52f?pid=ETHGTFU4G5GCQXEJ&lid=LSTETHGTFU4G5GCQXEJHGR9VD&marketplace=FLIPKART&sattr%5B%5D=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-ETHGTFU4G5GCQXEJ",
+    "path": "../../sources/pid-ETHGTFU4G5GCQXEJ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itmbf723c87da52f?pid=ETHGTFU4G5GCQXEJ&lid=LSTETHGTFU4G5GCQXEJHGR9VD&marketplace=FLIPKART&sattr%5B%5D=color&st=color",
+    "scraped_at": "2026-08-12T12:05:44.585Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itmbf723c87da52f?pid=ETHGTFU4G5GCQXEJ&lid=LSTETHGTFU4G5GCQXEJHGR9VD&marketplace=FLIPKART&sattr%5B%5D=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T12:07:23.282Z"
+  },
+  "content": {
+    "title": "Divastri Women Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nFabricPure Cotton: PatternPrinted",
+    "description": "Printed Perfection\nThis women's ethnic set features a stunning printed pattern, adding a touch of elegance to your fest…\n\nGraceful Neckline\nWith its round neck design, this kurta from the traditional collection offers a graceful and classic…\n\nButtoned Beauty\nAdorned with delicate buttons, this ethnic set showcases a unique ornamentation type. The buttons ad…\n\nComfortable Cotton\nCrafted from pure cotton, this ethnic set ensures utmost comfort throughout the day. The breathable …\n\nVersatile Pant Style\nFeaturing a stylish pant design, this ethnic set offers versatility and modernity. The pant bottoms …",
+    "specifications": {
+      "FabricPure Cotton": "PatternPrinted",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "abe6fb53d3fc3524ec1b5555",
+      "path": "media/images/abe6fb53d3fc3524ec1b5555/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/l/e/-resized-original-imahew74wyn7gzdw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/l/e/-resized-original-imahew74wyn7gzdw.jpeg?q=100",
+        "local_path": "../../media/images/abe6fb53d3fc3524ec1b5555/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/0/t/-original-imahexsnjjy2arb7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/0/t/-original-imahexsnjjy2arb7.jpeg?q=100",
+        "local_path": "../../media/images/abe6fb53d3fc3524ec1b5555/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/7/6/r/-original-imahexsnsyydsqbz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/7/6/r/-original-imahexsnsyydsqbz.jpeg?q=100",
+        "local_path": "../../media/images/abe6fb53d3fc3524ec1b5555/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/p/n/-original-imahexsnhezcbhxy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/p/n/-original-imahexsnhezcbhxy.jpeg?q=100",
+        "local_path": "../../media/images/abe6fb53d3fc3524ec1b5555/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/m/l/-original-imahexsng37egj9m.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/m/l/-original-imahexsng37egj9m.jpeg?q=100",
+        "local_path": "../../media/images/abe6fb53d3fc3524ec1b5555/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Kurta Pant Dupatta Set",
+      "description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/l/e/-resized-original-imahew74wyn7gzdw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/0/t/-original-imahexsnjjy2arb7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/7/6/r/-original-imahexsnsyydsqbz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/p/n/-original-imahexsnhezcbhxy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/m/l/-original-imahexsng37egj9m.jpeg?q=70"
+      ],
+      "sku": "ETHGTFU4G5GCQXEJ",
+      "color": "DARK BLUE",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 626,
+        "ratingCount": 11618,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 606,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-16",
+          "reviewBody": "Dupatta length is good, material quality good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Priyanka Janawade",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-16",
+          "reviewBody": "Amazing kurti set love it \nColour  quality good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Tabdila Khatun",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-05",
+          "reviewBody": "Nice product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Printed Perfection",
+          "body": "This women's ethnic set features a stunning printed pattern, adding a touch of elegance to your fest…"
+        },
+        {
+          "heading": "Graceful Neckline",
+          "body": "With its round neck design, this kurta from the traditional collection offers a graceful and classic…"
+        },
+        {
+          "heading": "Buttoned Beauty",
+          "body": "Adorned with delicate buttons, this ethnic set showcases a unique ornamentation type. The buttons ad…"
+        },
+        {
+          "heading": "Comfortable Cotton",
+          "body": "Crafted from pure cotton, this ethnic set ensures utmost comfort throughout the day. The breathable …"
+        },
+        {
+          "heading": "Versatile Pant Style",
+          "body": "Featuring a stylish pant design, this ethnic set offers versatility and modernity. The pant bottoms …"
+        }
+      ],
+      "product_highlights": {
+        "FabricPure Cotton": "PatternPrinted",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "product_id": "1872",
+  "sku": "Fab-Lehenga-PRVJ-006BK",
+  "product": {
+    "name": "Purvika Heavy Floral Lehenga Choli",
+    "parent_id": "5310",
+    "notes": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itmb0708e38d3967?pid=LCHGH4H3CZ788ANP&lid=LSTLCHGH4H3CZ788ANPFMXKHE&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-LCHGH4H3CZ788ANP",
+    "path": "../../sources/pid-LCHGH4H3CZ788ANP/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itmb0708e38d3967?pid=LCHGH4H3CZ788ANP&lid=LSTLCHGH4H3CZ788ANPFMXKHE&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:45:42.551Z",
+    "final_url": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itmb0708e38d3967?pid=LCHGH4H3CZ788ANP&lid=LSTLCHGH4H3CZ788ANPFMXKHE&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:45:51.861Z"
+  },
+  "content": {
+    "title": "PURVAJA Self Design Semi Stitched Lehenga Choli",
+    "short_description": "PURVAJA Self Design Semi Stitched Lehenga Choli - Buy PURVAJA Self Design Semi Stitched Lehenga Choli For Only Rs. 6999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PURVAJA Self Design Semi Stitched Lehenga Choli - Buy PURVAJA Self Design Semi Stitched Lehenga Choli For Only Rs. 6999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4fc62946f43866645142e1be",
+      "path": "media/images/4fc62946f43866645142e1be/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/u/o/free-short-sleeve-malika-purvaja-original-imagh4h2wtqmpvgr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/u/o/free-short-sleeve-malika-purvaja-original-imagh4h2wtqmpvgr.jpeg?q=100",
+        "local_path": "../../media/images/4fc62946f43866645142e1be/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/a/q/free-short-sleeve-malika-purvaja-original-imagh4h2xgphwmut.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/a/q/free-short-sleeve-malika-purvaja-original-imagh4h2xgphwmut.jpeg?q=100",
+        "local_path": "../../media/images/4fc62946f43866645142e1be/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/5/s/free-short-sleeve-malika-purvaja-original-imagh4h2qrdh6d89.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/5/s/free-short-sleeve-malika-purvaja-original-imagh4h2qrdh6d89.jpeg?q=100",
+        "local_path": "../../media/images/4fc62946f43866645142e1be/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/q/z/free-short-sleeve-malika-purvaja-original-imagh4h2cdrewnge.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/q/z/free-short-sleeve-malika-purvaja-original-imagh4h2cdrewnge.jpeg?q=100",
+        "local_path": "../../media/images/4fc62946f43866645142e1be/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/l/h/t/free-short-sleeve-malika-purvaja-original-imagh4h2cytrzhza.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/l/h/t/free-short-sleeve-malika-purvaja-original-imagh4h2cytrzhza.jpeg?q=100",
+        "local_path": "../../media/images/4fc62946f43866645142e1be/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURVAJA Self Design Semi Stitched Lehenga Choli",
+      "description": "PURVAJA Self Design Semi Stitched Lehenga Choli - Buy PURVAJA Self Design Semi Stitched Lehenga Choli For Only Rs. 6999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/u/o/free-short-sleeve-malika-purvaja-original-imagh4h2wtqmpvgr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/a/q/free-short-sleeve-malika-purvaja-original-imagh4h2xgphwmut.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/5/s/free-short-sleeve-malika-purvaja-original-imagh4h2qrdh6d89.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/q/z/free-short-sleeve-malika-purvaja-original-imagh4h2cdrewnge.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/l/h/t/free-short-sleeve-malika-purvaja-original-imagh4h2cytrzhza.jpeg?q=70"
+      ],
+      "sku": "LCHGH4H3CZ788ANP",
+      "color": "Black",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 55,
+        "ratingCount": 690,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURVAJA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 647,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "mitali shaw",
+            "@type": "Person"
+          },
+          "datePublished": "2022-11-11",
+          "reviewBody": "awesome product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Anu",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-23",
+          "reviewBody": "Truly beautiful. The lehenga had already been stitched, but it was a little too long for me. Nonetheless, it is truly a stunning piece. As for the choli, you will need to stitch it yourself. The design, color, material, and print of the lehenga are all incredibly satisfying and beautiful.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-10-20",
+          "reviewBody": "Very nice i love it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

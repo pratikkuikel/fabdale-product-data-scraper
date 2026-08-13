@@ -1,0 +1,227 @@
+{
+  "product_id": "503",
+  "sku": "Fab-Saree-YSHK-003R",
+  "product": {
+    "name": "Yarie  Daily Wear Georgette Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/yashika-floral-print-daily-wear-georgette-saree/p/itmbf642a09696b7?pid=SARGSQMPQ74HTKGQ&lid=LSTSARGSQMPQ74HTKGQEIFGAF&marketplace=FLIPKART&store=clo%2F8on%2Fzpd%2F9og&srno=b_1_40&otracker=browse&fm=organic&iid=04b0016b-d073-401f-a491-e4e5245da5fd.SARGSQMPQ74HTKGQ.SEARCH&ppt=browse&ppn=browse&ssid=9wj8bqf3bk0000001756706867996"
+  },
+  "source_bundle": {
+    "key": "pid-SARGSQMPQ74HTKGQ",
+    "path": "../../sources/pid-SARGSQMPQ74HTKGQ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/yashika-floral-print-daily-wear-georgette-saree/p/itmbf642a09696b7?pid=SARGSQMPQ74HTKGQ&lid=LSTSARGSQMPQ74HTKGQEIFGAF&marketplace=FLIPKART&store=clo%2F8on%2Fzpd%2F9og&srno=b_1_40&otracker=browse&fm=organic&iid=04b0016b-d073-401f-a491-e4e5245da5fd.SARGSQMPQ74HTKGQ.SEARCH&ppt=browse&ppn=browse&ssid=9wj8bqf3bk0000001756706867996",
+    "scraped_at": "2026-08-12T10:22:10.151Z",
+    "final_url": "https://www.flipkart.com/yashika-floral-print-daily-wear-georgette-saree/p/itmbf642a09696b7?pid=SARGSQMPQ74HTKGQ&lid=LSTSARGSQMPQ74HTKGQEIFGAF&marketplace=FLIPKART&store=clo%2F8on%2Fzpd%2F9og&srno=b_1_40&otracker=browse&fm=organic&iid=04b0016b-d073-401f-a491-e4e5245da5fd.SARGSQMPQ74HTKGQ.SEARCH&ppt=browse&ppn=browse&ssid=9wj8bqf3bk0000001756706867996"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:22:17.009Z"
+  },
+  "content": {
+    "title": "YASHIKA Printed Daily Wear Georgette Saree",
+    "short_description": "Fabric: Georgette\nPattern: Printed\nType: Daily Wear\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Stunning Floral Print\nThis saree features a stunning floral print that adds a touch of elegance and charm to your overall …\n\nVersatile Unstitched Blouse\nWith the inclusion of an unstitched blouse piece, this saree offers you the flexibility to customize…\n\nPure Georgette Fabric\nCrafted with pure georgette fabric, this saree offers a luxurious and comfortable wearing experience…\n\nIdeal for Wedding & Festive Occasions\nDesigned for wedding and festive occasions, this saree exudes sophistication and grandeur. The vibra…",
+    "specifications": {
+      "Pattern": "Printed",
+      "Fabric": "Georgette",
+      "Type": "Daily Wear",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e9dc572d1de686ce66b4d4f6",
+      "path": "media/images/e9dc572d1de686ce66b4d4f6/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "c8b01e91314e66d8fec31088",
+      "path": "media/videos/c8b01e91314e66d8fec31088/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/i/h/z/-resized-original-imahjytfvzahg2vz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/i/h/z/-resized-original-imahjytfvzahg2vz.jpeg?q=100",
+        "local_path": "../../media/images/e9dc572d1de686ce66b4d4f6/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/h/c/q/-original-imahjynzykhgjfrh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/h/c/q/-original-imahjynzykhgjfrh.jpeg?q=100",
+        "local_path": "../../media/images/e9dc572d1de686ce66b4d4f6/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/d/f/-original-imahkycrfjd8jnzz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/d/f/-original-imahkycrfjd8jnzz.jpeg?q=100",
+        "local_path": "../../media/images/e9dc572d1de686ce66b4d4f6/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/d/c/-original-imahkycryecgn2zh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/d/c/-original-imahkycryecgn2zh.jpeg?q=100",
+        "local_path": "../../media/images/e9dc572d1de686ce66b4d4f6/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/7/u/t/-original-imahjytfytf6amp2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/7/u/t/-original-imahjytfytf6amp2.jpeg?q=100",
+        "local_path": "../../media/images/e9dc572d1de686ce66b4d4f6/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNzNl-3JeCQxOozEf7EExJkQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "YASHIKA Printed Daily Wear Georgette Saree",
+      "description": "YASHIKA Printed Daily Wear Georgette Saree - Buy YASHIKA Printed Daily Wear Georgette Saree For Only Rs. 1940.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/i/h/z/-resized-original-imahjytfvzahg2vz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/h/c/q/-original-imahjynzykhgjfrh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/d/f/-original-imahkycrfjd8jnzz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/d/c/-original-imahkycryecgn2zh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/7/u/t/-original-imahjytfytf6amp2.jpeg?q=70"
+      ],
+      "sku": "SARGSQMPQ74HTKGQ",
+      "color": "RAMBHA RED",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 767,
+        "ratingCount": 17928,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "YASHIKA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 265,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Sangita  sarkar",
+            "@type": "Person"
+          },
+          "datePublished": "2022-03-28",
+          "reviewBody": "Good quality.Looks good.value for money.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Helina  Brahma",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-22",
+          "reviewBody": "Very beautiful n comfortable",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-03-26",
+          "reviewBody": "Best sari",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Stunning Floral Print",
+          "body": "This saree features a stunning floral print that adds a touch of elegance and charm to your overall …"
+        },
+        {
+          "heading": "Versatile Unstitched Blouse",
+          "body": "With the inclusion of an unstitched blouse piece, this saree offers you the flexibility to customize…"
+        },
+        {
+          "heading": "Pure Georgette Fabric",
+          "body": "Crafted with pure georgette fabric, this saree offers a luxurious and comfortable wearing experience…"
+        },
+        {
+          "heading": "Ideal for Wedding & Festive Occasions",
+          "body": "Designed for wedding and festive occasions, this saree exudes sophistication and grandeur. The vibra…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Fabric": "Georgette",
+        "Type": "Daily Wear",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

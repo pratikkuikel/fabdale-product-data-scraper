@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-LCHGPPNEABURNADH",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1802"
+  ],
+  "source_path": "sources/pid-LCHGPPNEABURNADH/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T07:23:40.660Z",
+  "completed_at": "2026-08-13T07:23:46.672Z"
+}

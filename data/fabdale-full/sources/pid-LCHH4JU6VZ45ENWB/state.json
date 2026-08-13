@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-LCHH4JU6VZ45ENWB",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1875",
+    "5311"
+  ],
+  "source_path": "sources/pid-LCHH4JU6VZ45ENWB/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T07:46:17.415Z",
+  "completed_at": "2026-08-13T07:46:23.254Z"
+}

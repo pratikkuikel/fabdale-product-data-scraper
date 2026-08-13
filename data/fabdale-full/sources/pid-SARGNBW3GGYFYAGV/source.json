@@ -1,0 +1,200 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/lorofy-self-design-bollywood-net-saree/p/itm645a51aca2602?pid=SARGNBW3GGYFYAGV&lid=LSTSARGNBW3GGYFYAGVCGVQBA&marketplace=FLIPKART&q=lorofy%20saree&sattr[]=color&st=color&otracker=AS_QueryStore_OrganicAutoSuggest_1_6_na_na_ps",
+    "scraped_at": "2026-08-12T10:16:36.830Z",
+    "final_url": "https://www.flipkart.com/lorofy-self-design-bollywood-net-saree/p/itm645a51aca2602?pid=SARGNBW3GGYFYAGV&lid=LSTSARGNBW3GGYFYAGVCGVQBA&marketplace=FLIPKART&q=lorofy%20saree&sattr[]=color&st=color&otracker=AS_QueryStore_OrganicAutoSuggest_1_6_na_na_ps"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:16:47.020Z"
+  },
+  "content": {
+    "title": "LOROFY Self Design Bollywood Net Saree",
+    "short_description": "Fabric: Net\nPattern: Self Design\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Unstitched Blouse Piece\nOwing to its inclusion of an unstitched blouse piece, this saree offers the flexibility to customise…\n\nExquisite Self Design\nThe saree features a stunning self design pattern that adds a touch of elegance and charm. The intri…\n\nPure Net Fabric\nCrafted from pure net fabric, this saree offers a luxurious and lightweight feel. The net fabric dra…\n\nVersatile Occasion Wear\nDesigned to suit various occasions, this saree is a versatile choice for weddings, casual outings, p…",
+    "specifications": {
+      "Pattern": "Self Design",
+      "Fabric": "Net",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/e/o/e/free-brasosari2-0-lorofy-unstitched-original-imahj7ycycchsa8m.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/e/o/e/free-brasosari2-0-lorofy-unstitched-original-imahj7ycycchsa8m.jpeg?q=100",
+        "local_path": "../../media/images/169a150792a0edde6fbc3b95/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/z/0/a/free-brasosari2-0-lorofy-unstitched-original-imahj7pqvczu9z6h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/z/0/a/free-brasosari2-0-lorofy-unstitched-original-imahj7pqvczu9z6h.jpeg?q=100",
+        "local_path": "../../media/images/169a150792a0edde6fbc3b95/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/b/m/c/free-brasosari2-0-lorofy-unstitched-original-imahj7pq7kjf9kzm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/b/m/c/free-brasosari2-0-lorofy-unstitched-original-imahj7pq7kjf9kzm.jpeg?q=100",
+        "local_path": "../../media/images/169a150792a0edde6fbc3b95/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNxZFKgnwyTL2WaP7xQHNBwQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "LOROFY Self Design Bollywood Net Saree",
+      "description": "LOROFY Self Design Bollywood Net Saree - Buy LOROFY Self Design Bollywood Net Saree For Only Rs. 1599.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/e/o/e/free-brasosari2-0-lorofy-unstitched-original-imahj7ycycchsa8m.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/z/0/a/free-brasosari2-0-lorofy-unstitched-original-imahj7pqvczu9z6h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/b/m/c/free-brasosari2-0-lorofy-unstitched-original-imahj7pq7kjf9kzm.jpeg?q=70"
+      ],
+      "sku": "SARGNBW3GGYFYAGV",
+      "color": "OG-Red",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 1780,
+        "ratingCount": 52172,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "LOROFY",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 249,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-04-21",
+          "reviewBody": "Saree is best at this price ...must buy this color",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Aiswarya Roy",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-20",
+          "reviewBody": "Exactly as shown in picture ❤️❤️❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Priyanka Mondal",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-05",
+          "reviewBody": "Nice saree in a good price. Quality is good as compared to price",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Unstitched Blouse Piece",
+          "body": "Owing to its inclusion of an unstitched blouse piece, this saree offers the flexibility to customise…"
+        },
+        {
+          "heading": "Exquisite Self Design",
+          "body": "The saree features a stunning self design pattern that adds a touch of elegance and charm. The intri…"
+        },
+        {
+          "heading": "Pure Net Fabric",
+          "body": "Crafted from pure net fabric, this saree offers a luxurious and lightweight feel. The net fabric dra…"
+        },
+        {
+          "heading": "Versatile Occasion Wear",
+          "body": "Designed to suit various occasions, this saree is a versatile choice for weddings, casual outings, p…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Self Design",
+        "Fabric": "Net",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "169a150792a0edde6fbc3b95",
+      "path": "media/images/169a150792a0edde6fbc3b95/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "4d0eb22e1246504c38e58afb",
+      "path": "media/videos/4d0eb22e1246504c38e58afb/media.json",
+      "reused": false
+    }
+  }
+}

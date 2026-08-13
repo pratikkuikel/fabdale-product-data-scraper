@@ -1,0 +1,17 @@
+{
+  "source_key": "pid-ETHGS8G7AP8KZQ2A",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "899",
+    "900",
+    "902"
+  ],
+  "source_path": "sources/pid-ETHGS8G7AP8KZQ2A/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:07:27.529Z",
+  "completed_at": "2026-08-12T11:07:37.392Z"
+}

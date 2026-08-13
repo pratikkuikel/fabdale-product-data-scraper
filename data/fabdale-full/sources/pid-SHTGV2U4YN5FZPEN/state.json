@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-SHTGV2U4YN5FZPEN",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1943",
+    "5255"
+  ],
+  "source_path": "sources/pid-SHTGV2U4YN5FZPEN/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T07:55:28.107Z",
+  "completed_at": "2026-08-13T07:55:33.861Z"
+}

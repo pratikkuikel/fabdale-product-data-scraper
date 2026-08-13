@@ -1,0 +1,179 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm7a59c3807c340?pid=FABHBWXDNMAZGYFS&lid=LSTFABHBWXDNMAZGYFSMGMHCK&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:31:40.263Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm7a59c3807c340?pid=FABHBWXDNMAZGYFS&lid=LSTFABHBWXDNMAZGYFSMGMHCK&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:31:50.867Z"
+  },
+  "content": {
+    "title": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupatta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.1900.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupatta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/y/5/t/yes-2-5-m-unstitched-2-36-m-980-krishna-boutique-original-imahbwxdragrz6sg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/y/5/t/yes-2-5-m-unstitched-2-36-m-980-krishna-boutique-original-imahbwxdragrz6sg.jpeg?q=100",
+        "local_path": "../../media/images/f264e6a165ff747dd93c741f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/SELLER_CATALOG/CNOQbc811nRjWiNXq3F5FK1g/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+      "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.1900.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/y/5/t/yes-2-5-m-unstitched-2-36-m-980-krishna-boutique-original-imahbwxdragrz6sg.jpeg?q=70"
+      ],
+      "sku": "FABHBWXDNMAZGYFS",
+      "color": "Pink-3",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 47,
+        "ratingCount": 944,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "krishna boutique",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 471,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-26",
+          "reviewBody": "According to the price perfect and don't think just go for it",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-11",
+          "reviewBody": "It's pure cotton. Completely satisfied..",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-05-15",
+          "reviewBody": "Lovely suit",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupatta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {
+        "Brand": "krishna boutique",
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupatta",
+        "Ideal For": "Women",
+        "Occasion": "Casual",
+        "Fabric Care": "Hand wash",
+        "Style Code": "980",
+        "Bottom Length": "2.20m",
+        "Dupatta Length": "2.36 m",
+        "Top Length": "2.5 m",
+        "Color": "Pink, White",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched",
+        "Brand Color": "Pink-3",
+        "Dupatta": "Yes",
+        "Fabric Purity": "Pure",
+        "Ornamentation Type": "NA",
+        "Regional Speciality": "Phulkari"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "f264e6a165ff747dd93c741f",
+      "path": "media/images/f264e6a165ff747dd93c741f/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "fd4d8035c4dab82a489b42dc",
+      "path": "media/videos/fd4d8035c4dab82a489b42dc/media.json",
+      "reused": false
+    }
+  }
+}

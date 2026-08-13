@@ -1,0 +1,172 @@
+{
+  "product_id": "1069",
+  "sku": "Fab-Salwar-PRSC-027MR-S",
+  "product": {
+    "name": "Pravya Maroon Zari Embroidered Salwar Suit Set",
+    "parent_id": "5195",
+    "notes": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm880434d3c9da8?pid=KTAHC345WBNQZVGS&marketplace=FLIPKART&lid=LSTKTAHC345WBNQZVGSK5YRCB&swatchAttr=size&pageUID=1772646658620"
+  },
+  "source_bundle": {
+    "key": "pid-KTAHC345WBNQZVGS",
+    "path": "../../sources/pid-KTAHC345WBNQZVGS/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm880434d3c9da8?pid=KTAHC345WBNQZVGS&marketplace=FLIPKART&lid=LSTKTAHC345WBNQZVGSK5YRCB&swatchAttr=size&pageUID=1772646658620",
+    "scraped_at": "2026-08-12T11:32:38.963Z",
+    "final_url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm880434d3c9da8?pid=KTAHC345WBNQZVGS&marketplace=FLIPKART&lid=LSTKTAHC345WBNQZVGSK5YRCB&swatchAttr=size&pageUID=1772646658620"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:32:56.342Z"
+  },
+  "content": {
+    "title": "PRISCA Floral Print Pure Cotton Straight Kurta for Women (Maroon)",
+    "short_description": "Color: Maroon\nFabric: Pure Cotton\nPattern: Floral Print\nType: Straight",
+    "description": "Graceful Floral Pattern\nCourtesy of its floral printed pattern, this women’s kurta displays repeated motifs across the fabri…\n\nClean and Straight Silhouette\nThis kurta offers a notched neckline, three-quarter sleeves, and a straight cut that extends below t…\n\nBreathable Cotton Fabric\nThis kurta's cotton fabric delivers a lightweight and breathable experience. It can be suitable for …\n\nImpressive Versatility\nThanks to its gentle floral print, structured design, and breathable material, this kurta can be wor…",
+    "specifications": {
+      "Pattern": "Floral Print",
+      "Type": "Straight",
+      "Fabric": "Pure Cotton",
+      "Color": "Maroon"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ddbeee64659495939632e360",
+      "path": "media/images/ddbeee64659495939632e360/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/q/v/l/s-sk-101-maroon-zari-v-neck-prisca-resized-original-imahgfgr9fvjmwaj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/q/v/l/s-sk-101-maroon-zari-v-neck-prisca-resized-original-imahgfgr9fvjmwaj.jpeg?q=100",
+        "local_path": "../../media/images/ddbeee64659495939632e360/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/x/g/p/s-sk-101-maroon-zari-v-neck-prisca-original-imahgfgrpnfrfkjq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/x/g/p/s-sk-101-maroon-zari-v-neck-prisca-original-imahgfgrpnfrfkjq.jpeg?q=100",
+        "local_path": "../../media/images/ddbeee64659495939632e360/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/o/v/v/s-sk-101-maroon-zari-v-neck-prisca-original-imahgfgrvgzk5nve.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/o/v/v/s-sk-101-maroon-zari-v-neck-prisca-original-imahgfgrvgzk5nve.jpeg?q=100",
+        "local_path": "../../media/images/ddbeee64659495939632e360/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/c/c/h/s-sk-101-maroon-zari-v-neck-prisca-original-imahgfgrr8ezanky.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/c/c/h/s-sk-101-maroon-zari-v-neck-prisca-original-imahgfgrr8ezanky.jpeg?q=100",
+        "local_path": "../../media/images/ddbeee64659495939632e360/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/r/j/s/s-sk-101-maroon-zari-v-neck-prisca-original-imahgfgrsm9hruyt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/r/j/s/s-sk-101-maroon-zari-v-neck-prisca-original-imahgfgrsm9hruyt.jpeg?q=100",
+        "local_path": "../../media/images/ddbeee64659495939632e360/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/y/m/4/s-short-kurti-for-women-nidhi-original-imahjdgar2kzyhkz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/y/m/4/s-short-kurti-for-women-nidhi-original-imahjdgar2kzyhkz.jpeg?q=100",
+        "local_path": "../../media/images/ddbeee64659495939632e360/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/j/r/m/4xl-50-nk-grin-wawlooks-original-imahzx8xc3ddmbfk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/j/r/m/4xl-50-nk-grin-wawlooks-original-imahzx8xc3ddmbfk.jpeg?q=100",
+        "local_path": "../../media/images/ddbeee64659495939632e360/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/n/p/a/3xl-37-nk-blue-wawlooks-original-imahzx8zztcnrjkh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/n/p/a/3xl-37-nk-blue-wawlooks-original-imahzx8zztcnrjkh.jpeg?q=100",
+        "local_path": "../../media/images/ddbeee64659495939632e360/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/5/i/l/xs-25-nk-grin-wawlooks-original-imahzx8yguqusffw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/5/i/l/xs-25-nk-grin-wawlooks-original-imahzx8yguqusffw.jpeg?q=100",
+        "local_path": "../../media/images/ddbeee64659495939632e360/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/e/i/1/s-44-nk-blue-wawlooks-original-imahzx8z2mfsfdjr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/e/i/1/s-44-nk-blue-wawlooks-original-imahzx8z2mfsfdjr.jpeg?q=100",
+        "local_path": "../../media/images/ddbeee64659495939632e360/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/u/h/i/xs-55-nk-flwr-wawlooks-original-imahzx8xusggwjgs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/u/h/i/xs-55-nk-flwr-wawlooks-original-imahzx8xusggwjgs.jpeg?q=100",
+        "local_path": "../../media/images/ddbeee64659495939632e360/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=100",
+        "local_path": "../../media/images/ddbeee64659495939632e360/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/t/o/m/s-pink-zari-n-prisca-resized-original-imahhzg9harxwswt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/t/o/m/s-pink-zari-n-prisca-resized-original-imahhzg9harxwswt.jpeg?q=100",
+        "local_path": "../../media/images/ddbeee64659495939632e360/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Graceful Floral Pattern",
+          "body": "Courtesy of its floral printed pattern, this women’s kurta displays repeated motifs across the fabri…"
+        },
+        {
+          "heading": "Clean and Straight Silhouette",
+          "body": "This kurta offers a notched neckline, three-quarter sleeves, and a straight cut that extends below t…"
+        },
+        {
+          "heading": "Breathable Cotton Fabric",
+          "body": "This kurta's cotton fabric delivers a lightweight and breathable experience. It can be suitable for …"
+        },
+        {
+          "heading": "Impressive Versatility",
+          "body": "Thanks to its gentle floral print, structured design, and breathable material, this kurta can be wor…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Floral Print",
+        "Type": "Straight",
+        "Fabric": "Pure Cotton",
+        "Color": "Maroon"
+      },
+      "specifications": {}
+    }
+  }
+}

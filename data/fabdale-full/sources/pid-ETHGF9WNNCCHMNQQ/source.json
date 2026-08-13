@@ -1,0 +1,142 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/piludi-women-kurta-pant-dupatta-set/p/itm179ad9a3c9255?pid=ETHGF9WNNCCHMNQQ&marketplace=FLIPKART&lid=LSTETHGF9WNNCCHMNQQBAY13B&swatchAttr=size&pageUID=1772439866305",
+    "scraped_at": "2026-08-12T10:51:53.922Z",
+    "final_url": "https://www.flipkart.com/piludi-women-kurta-pant-dupatta-set/p/itm179ad9a3c9255?pid=ETHGF9WNNCCHMNQQ&marketplace=FLIPKART&lid=LSTETHGF9WNNCCHMNQQBAY13B&swatchAttr=size&pageUID=1772439866305"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:52:01.168Z"
+  },
+  "content": {
+    "title": "PILUDI Women Viscose Rayon Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Embroidered\nType: Kurta, Pant And Dupatta Set",
+    "description": null,
+    "specifications": {
+      "Fabric": "Viscose Rayon",
+      "Type": "Kurta, Pant And Dupatta Set",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/z/g/o/m-sw-yuvika-morpich-piludi-original-imahcycdzkcauufp.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/z/g/o/m-sw-yuvika-morpich-piludi-original-imahcycdzkcauufp.jpeg?q=100",
+        "local_path": "../../media/images/49fb9262f769fd4bbf66022a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cse-genai/AS/CN2DNSrRv6RD6q-M73dMv5Kg/manifest.jpg?q=20",
+        "download_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cse-genai/AS/CN2DNSrRv6RD6q-M73dMv5Kg/manifest.jpg?q=20",
+        "local_path": "../../media/images/49fb9262f769fd4bbf66022a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cgt/FPS/CNjsNb-DL5TkqoujxOzQtKKg/manifest.jpg?q=20",
+        "download_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cgt/FPS/CNjsNb-DL5TkqoujxOzQtKKg/manifest.jpg?q=20",
+        "local_path": "../../media/images/49fb9262f769fd4bbf66022a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/d/o/l/m-sw-yuvika-morpich-piludi-original-imahcycdrdgmajmg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/d/o/l/m-sw-yuvika-morpich-piludi-original-imahcycdrdgmajmg.jpeg?q=100",
+        "local_path": "../../media/images/49fb9262f769fd4bbf66022a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/s/p/2/l-sw-yuvika-black-trivety-original-imagmvctg6stjj89.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/s/p/2/l-sw-yuvika-black-trivety-original-imagmvctg6stjj89.jpeg?q=100",
+        "local_path": "../../media/images/49fb9262f769fd4bbf66022a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/e/s/i/xxl-women-yuvika-puple-bharat-origin-original-imagmgwtttyw4jfs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/e/s/i/xxl-women-yuvika-puple-bharat-origin-original-imagmgwtttyw4jfs.jpeg?q=100",
+        "local_path": "../../media/images/49fb9262f769fd4bbf66022a/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/z/s/u/l-puzswogifq-nn-houseofpatodi-original-imahhpkdyd5rhx9q.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/z/s/u/l-puzswogifq-nn-houseofpatodi-original-imahhpkdyd5rhx9q.jpeg?q=100",
+        "local_path": "../../media/images/49fb9262f769fd4bbf66022a/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/y/n/xl-001-naazish-trends-original-imahprttbnzb2fzy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/y/n/xl-001-naazish-trends-original-imahprttbnzb2fzy.jpeg?q=100",
+        "local_path": "../../media/images/49fb9262f769fd4bbf66022a/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/b/f/h/s-gray-square-s-creationrajvi-original-imaggpjayn3vkkjs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/b/f/h/s-gray-square-s-creationrajvi-original-imaggpjayn3vkkjs.jpeg?q=100",
+        "local_path": "../../media/images/49fb9262f769fd4bbf66022a/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/x/o/j/xl-marun-s-creationrajvi-original-imahjcagwee9hkry.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/x/o/j/xl-marun-s-creationrajvi-original-imahjcagwee9hkry.jpeg?q=100",
+        "local_path": "../../media/images/49fb9262f769fd4bbf66022a/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/t/i/m-purple-dhoti-reyansh-original-imah7ksqxjkmtjmt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/t/i/m-purple-dhoti-reyansh-original-imah7ksqxjkmtjmt.jpeg?q=100",
+        "local_path": "../../media/images/49fb9262f769fd4bbf66022a/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/b/j/o/l-marun-s-creationrajvi-resized-original-imahjdbgupm5czbg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/b/j/o/l-marun-s-creationrajvi-resized-original-imahjdbgupm5czbg.jpeg?q=100",
+        "local_path": "../../media/images/49fb9262f769fd4bbf66022a/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/l3lx8cw0/ethnic-set/2/y/y/l-marun-s-creationrajvi-original-imagezr6yegzzec7.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/l3lx8cw0/ethnic-set/2/y/y/l-marun-s-creationrajvi-original-imagezr6yegzzec7.jpeg?q=100",
+        "local_path": "../../media/images/49fb9262f769fd4bbf66022a/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Fabric": "Viscose Rayon",
+        "Type": "Kurta, Pant And Dupatta Set",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "49fb9262f769fd4bbf66022a",
+      "path": "media/images/49fb9262f769fd4bbf66022a/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

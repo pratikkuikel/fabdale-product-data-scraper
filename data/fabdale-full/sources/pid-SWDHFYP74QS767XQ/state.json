@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SWDHFYP74QS767XQ",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "868"
+  ],
+  "source_path": "sources/pid-SWDHFYP74QS767XQ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:05:24.975Z",
+  "completed_at": "2026-08-12T11:05:37.160Z"
+}

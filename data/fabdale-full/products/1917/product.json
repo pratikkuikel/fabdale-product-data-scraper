@@ -1,0 +1,155 @@
+{
+  "product_id": "1917",
+  "sku": "Fab-Salwar-PRSC-005LV-XL",
+  "product": {
+    "name": "Pravya Embroidered Salwar Suit Set",
+    "parent_id": "5161",
+    "notes": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm5323b2231be8e?pid=KTAGT7BRZYTYMZFD&lid=LSTKTAGT7BRZYTYMZFDU8MRVW&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGT7BRZYTYMZFD",
+    "path": "../../sources/pid-KTAGT7BRZYTYMZFD/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm5323b2231be8e?pid=KTAGT7BRZYTYMZFD&lid=LSTKTAGT7BRZYTYMZFDU8MRVW&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:53:32.779Z",
+    "final_url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm5323b2231be8e?pid=KTAGT7BRZYTYMZFD&lid=LSTKTAGT7BRZYTYMZFDU8MRVW&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:53:41.625Z"
+  },
+  "content": {
+    "title": "PRISCA Floral Print Pure Cotton Straight Kurta for Women (Blue)",
+    "short_description": "Color: Blue\nFabric: Pure Cotton\nPattern: Floral Print\nType: Straight",
+    "description": null,
+    "specifications": {
+      "Pattern": "Floral Print",
+      "Type": "Straight",
+      "Fabric": "Pure Cotton",
+      "Color": "Blue"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e1f94e1c8999fea7f6c58a56",
+      "path": "media/images/e1f94e1c8999fea7f6c58a56/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/d/p/8/m-sk-2-blue-big-lehariya-prisca-original-imahgfgss6mzvqke.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/d/p/8/m-sk-2-blue-big-lehariya-prisca-original-imahgfgss6mzvqke.jpeg?q=100",
+        "local_path": "../../media/images/e1f94e1c8999fea7f6c58a56/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cgt/FPS/CNTccMf4reQx-t8tnsrCTnVQ/manifest.jpg?q=20",
+        "download_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cgt/FPS/CNTccMf4reQx-t8tnsrCTnVQ/manifest.jpg?q=20",
+        "local_path": "../../media/images/e1f94e1c8999fea7f6c58a56/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cgt/FPS/CNMrC2oAceRMGzVcW03Y1QhA/manifest.jpg?q=20",
+        "download_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cgt/FPS/CNMrC2oAceRMGzVcW03Y1QhA/manifest.jpg?q=20",
+        "local_path": "../../media/images/e1f94e1c8999fea7f6c58a56/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/m/l/l/m-sk-2-blue-big-lehariya-prisca-original-imahgfgsmjj4gwb9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/m/l/l/m-sk-2-blue-big-lehariya-prisca-original-imahgfgsmjj4gwb9.jpeg?q=100",
+        "local_path": "../../media/images/e1f94e1c8999fea7f6c58a56/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/5/9/p/m-sk-2-blue-big-lehariya-prisca-original-imahgfgsyczxuzcx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/5/9/p/m-sk-2-blue-big-lehariya-prisca-original-imahgfgsyczxuzcx.jpeg?q=100",
+        "local_path": "../../media/images/e1f94e1c8999fea7f6c58a56/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/1/n/o/xxl-29-blue-lehriya-wawlooks-resized-original-imah8aqfdcwuggtb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/1/n/o/xxl-29-blue-lehriya-wawlooks-resized-original-imah8aqfdcwuggtb.jpeg?q=100",
+        "local_path": "../../media/images/e1f94e1c8999fea7f6c58a56/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/a/c/s-sk-n-pink-yoke-kkfab-resized-original-imahj5bx2hcz5qhz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/a/c/s-sk-n-pink-yoke-kkfab-resized-original-imahj5bx2hcz5qhz.jpeg?q=100",
+        "local_path": "../../media/images/e1f94e1c8999fea7f6c58a56/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/c/5/xxl-58-nk-redlace-wawlooks-original-imahzx8zvgt2zcpd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/c/5/xxl-58-nk-redlace-wawlooks-original-imahzx8zvgt2zcpd.jpeg?q=100",
+        "local_path": "../../media/images/e1f94e1c8999fea7f6c58a56/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/d/y/b/4xl-25-grin-wawlooks-original-imah664skrkkyhvz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/d/y/b/4xl-25-grin-wawlooks-original-imah664skrkkyhvz.jpeg?q=100",
+        "local_path": "../../media/images/e1f94e1c8999fea7f6c58a56/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/a/z/b/-resized-original-imahjypkkcqhnrr2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/a/z/b/-resized-original-imahjypkkcqhnrr2.jpeg?q=100",
+        "local_path": "../../media/images/e1f94e1c8999fea7f6c58a56/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/6/3/6/m-sa19em1447b-new-surhi-original-imahgs63822f9e3f.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/6/3/6/m-sa19em1447b-new-surhi-original-imahgs63822f9e3f.jpeg?q=100",
+        "local_path": "../../media/images/e1f94e1c8999fea7f6c58a56/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/2/v/j/-resized-original-imahfevrcmdfutqa.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/2/v/j/-resized-original-imahfevrcmdfutqa.jpeg?q=100",
+        "local_path": "../../media/images/e1f94e1c8999fea7f6c58a56/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/y/e/xxl-av009orange-xxl-senoras-original-imafvnqzyrxvgpgj-bb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/y/e/xxl-av009orange-xxl-senoras-original-imafvnqzyrxvgpgj-bb.jpeg?q=100",
+        "local_path": "../../media/images/e1f94e1c8999fea7f6c58a56/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Floral Print",
+        "Type": "Straight",
+        "Fabric": "Pure Cotton",
+        "Color": "Blue"
+      },
+      "specifications": {}
+    }
+  }
+}

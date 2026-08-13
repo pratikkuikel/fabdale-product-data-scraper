@@ -1,0 +1,154 @@
+{
+  "product_id": "5333",
+  "sku": null,
+  "product": {
+    "name": "Kala Sutra Floral  Casual Festive  Salwar Suit Material",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm238b776ea2f4e?pid=FABGTXTGYFWNYEYY&lid=LSTFABGTXTGYFWNYEYYKBWCYL&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-FABGTXTGYFWNYEYY",
+    "path": "../../sources/pid-FABGTXTGYFWNYEYY/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm238b776ea2f4e?pid=FABGTXTGYFWNYEYY&lid=LSTFABGTXTGYFWNYEYYKBWCYL&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:35:59.939Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm238b776ea2f4e?pid=FABGTXTGYFWNYEYY&lid=LSTFABGTXTGYFWNYEYYKBWCYL&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:36:09.038Z"
+  },
+  "content": {
+    "title": "krishna boutique Unstitched Pure Cotton Salwar Suit Material Printed",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupattta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Vibrant Floral Print\nThis beautiful salwar suit material features a vibrant floral print, combining shades of blue, white…\n\nUnstitched and Customizable\nDesigned as an unstitched set, this salwar suit material gives you the freedom to create a suit that…\n\nLuxurious Maheshwari Fabric\nCrafted from pure cotton, this salwar suit material showcases the exquisite craftsmanship of Maheshw…\n\nEasy Care and Maintenance\nTo maintain the quality and longevity of this fabric, it is recommended to hand wash it. This gentle…\n\nVersatile Casual Wear\nWhether you're going for a casual outing or meeting friends, this salwar suit material is perfect fo…",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupattta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "6d2873774f79420dbfcf91f7",
+      "path": "media/images/6d2873774f79420dbfcf91f7/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/v/x/x/yes-2-5-m-unstitched-2-2-m-ranma7-krishna-boutique-resized-original-imagtxtfq27zgsej.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/v/x/x/yes-2-5-m-unstitched-2-2-m-ranma7-krishna-boutique-resized-original-imagtxtfq27zgsej.jpeg?q=100",
+        "local_path": "../../media/images/6d2873774f79420dbfcf91f7/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/c/c/c/yes-2-5-m-unstitched-2-36-m-980-krishna-boutique-resized-original-imah8wwbcrndzrxh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/c/c/c/yes-2-5-m-unstitched-2-36-m-980-krishna-boutique-resized-original-imah8wwbcrndzrxh.jpeg?q=100",
+        "local_path": "../../media/images/6d2873774f79420dbfcf91f7/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/y/g/w/yes-2-m-unstitched-2-m-2-5-m-flp8u-jensuits-resized-original-imag9bhvhmdxrtfa.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/y/g/w/yes-2-m-unstitched-2-m-2-5-m-flp8u-jensuits-resized-original-imag9bhvhmdxrtfa.jpeg?q=100",
+        "local_path": "../../media/images/6d2873774f79420dbfcf91f7/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/m/v/s/yes-2-2-m-unstitched-2-10m-gh-coffi-golory-resized-original-imahjjzutadgq23p.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/m/v/s/yes-2-2-m-unstitched-2-10m-gh-coffi-golory-resized-original-imahjjzutadgq23p.jpeg?q=100",
+        "local_path": "../../media/images/6d2873774f79420dbfcf91f7/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/p/c/m/yes-2-25-m-unstitched-2-5-m-barfi-blue-56-stylebhawani-original-imahj28swsh2zh9h.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/p/c/m/yes-2-25-m-unstitched-2-5-m-barfi-blue-56-stylebhawani-original-imahj28swsh2zh9h.jpeg?q=100",
+        "local_path": "../../media/images/6d2873774f79420dbfcf91f7/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/b/q/d/yes-2-5-m-unstitched-2-2-m-linig-mustd-krishna-boutique-original-imagxrsnyfa826bh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/b/q/d/yes-2-5-m-unstitched-2-2-m-linig-mustd-krishna-boutique-original-imagxrsnyfa826bh.jpeg?q=100",
+        "local_path": "../../media/images/6d2873774f79420dbfcf91f7/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/5/5/b/yes-2-m-unstitched-2-2-m-grey-bandhani-dupatta-citylook-resized-original-imahgrtwzhwzfn8s.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/5/5/b/yes-2-m-unstitched-2-2-m-grey-bandhani-dupatta-citylook-resized-original-imahgrtwzhwzfn8s.jpeg?q=100",
+        "local_path": "../../media/images/6d2873774f79420dbfcf91f7/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/f/h/g/yes-2-5-m-unstitched-2-36-m-766-krishna-boutique-resized-original-imaheee2cdyxzsrg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/f/h/g/yes-2-5-m-unstitched-2-36-m-766-krishna-boutique-resized-original-imaheee2cdyxzsrg.jpeg?q=100",
+        "local_path": "../../media/images/6d2873774f79420dbfcf91f7/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/s/7/m/yes-2-35-m-unstitched-2-10m-pure-cotton-salwar-suits-dress-original-imagq3b5pcenf8w5.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/s/7/m/yes-2-35-m-unstitched-2-10m-pure-cotton-salwar-suits-dress-original-imagq3b5pcenf8w5.jpeg?q=100",
+        "local_path": "../../media/images/6d2873774f79420dbfcf91f7/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Vibrant Floral Print",
+          "body": "This beautiful salwar suit material features a vibrant floral print, combining shades of blue, white…"
+        },
+        {
+          "heading": "Unstitched and Customizable",
+          "body": "Designed as an unstitched set, this salwar suit material gives you the freedom to create a suit that…"
+        },
+        {
+          "heading": "Luxurious Maheshwari Fabric",
+          "body": "Crafted from pure cotton, this salwar suit material showcases the exquisite craftsmanship of Maheshw…"
+        },
+        {
+          "heading": "Easy Care and Maintenance",
+          "body": "To maintain the quality and longevity of this fabric, it is recommended to hand wash it. This gentle…"
+        },
+        {
+          "heading": "Versatile Casual Wear",
+          "body": "Whether you're going for a casual outing or meeting friends, this salwar suit material is perfect fo…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupattta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  }
+}

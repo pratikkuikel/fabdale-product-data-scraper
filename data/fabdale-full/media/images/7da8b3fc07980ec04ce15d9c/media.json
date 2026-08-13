@@ -1,0 +1,128 @@
+{
+  "key": "7da8b3fc07980ec04ce15d9c",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T11:25:06.844Z",
+  "items": [
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/m/i/i/s-skyblue-botta-dori-prisca-resized-original-imahds3gxdezzcdh.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/m/i/i/s-skyblue-botta-dori-prisca-resized-original-imahds3gxdezzcdh.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/m/d/7/s-skyblue-botta-dori-prisca-original-imahds3gykhhrdze.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/m/d/7/s-skyblue-botta-dori-prisca-original-imahds3gykhhrdze.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/d/l/g/s-skyblue-botta-dori-prisca-original-imahds3guseatmtv.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/d/l/g/s-skyblue-botta-dori-prisca-original-imahds3guseatmtv.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/8/d/s/s-skyblue-botta-dori-prisca-original-imahds3gsayaqngv.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/8/d/s/s-skyblue-botta-dori-prisca-original-imahds3gsayaqngv.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/n/x/d/s-skyblue-botta-dori-prisca-original-imahds3gjmybzmzv.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/n/x/d/s-skyblue-botta-dori-prisca-original-imahds3gjmybzmzv.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_948d6e4a357147798935337db70e3d3b.jpg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_948d6e4a357147798935337db70e3d3b.jpg?q=80",
+      "local_path": "assets/images/image-006.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b4c68d480b2a4115ae7d0dca9e758f15.jpg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b4c68d480b2a4115ae7d0dca9e758f15.jpg?q=80",
+      "local_path": "assets/images/image-007.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d229febf95c24b98a48ac46ff97230a8.jpg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d229febf95c24b98a48ac46ff97230a8.jpg?q=80",
+      "local_path": "assets/images/image-008.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f47eab9309c24545b83b54adb85250ac.jpg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f47eab9309c24545b83b54adb85250ac.jpg?q=80",
+      "local_path": "assets/images/image-009.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/g/4/5/s-ov-vdn1048-ovya-original-imah3xnf8q5xmydh.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/g/4/5/s-ov-vdn1048-ovya-original-imah3xnf8q5xmydh.jpeg?q=100",
+      "local_path": "assets/images/image-010.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=100",
+      "local_path": "assets/images/image-011.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/c/5/xxl-58-nk-redlace-wawlooks-original-imahzx8zvgt2zcpd.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/c/5/xxl-58-nk-redlace-wawlooks-original-imahzx8zvgt2zcpd.jpeg?q=100",
+      "local_path": "assets/images/image-012.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/d/n/xxl-viking-lovisa-fashion-original-imahagyrtzzwrdhr.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/d/n/xxl-viking-lovisa-fashion-original-imahagyrtzzwrdhr.jpeg?q=100",
+      "local_path": "assets/images/image-013.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/v/0/1/m-ah904-ahmi-original-imahhdmn9x8djxpk.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/v/0/1/m-ah904-ahmi-original-imahhdmn9x8djxpk.jpeg?q=100",
+      "local_path": "assets/images/image-014.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/w/z/p/s-sk-yellow-thread-kkfab-resized-original-imahj47cfxwadxmc.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/w/z/p/s-sk-yellow-thread-kkfab-resized-original-imahj47cfxwadxmc.jpeg?q=100",
+      "local_path": "assets/images/image-015.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/h/z/r/3xl-long-kurtas-piroki-original-imahftwpchz6csge.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/h/z/r/3xl-long-kurtas-piroki-original-imahftwpchz6csge.jpeg?q=100",
+      "local_path": "assets/images/image-016.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/u/v/s-rama-green-v-neck-prisca-resized-original-imahgfghtvsgvz3d.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/u/v/s-rama-green-v-neck-prisca-resized-original-imahgfghtvsgvz3d.jpeg?q=100",
+      "local_path": "assets/images/image-017.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "product_id": "1444",
+  "sku": "Fab-Salwar-RYEX-007ML-S",
+  "product": {
+    "name": "Rivanta  Pink Floral Palazzo Salwar Suit Set",
+    "parent_id": "5236",
+    "notes": "https://www.flipkart.com/royal-export-women-kurta-palazzo-set/p/itm10a1766550382?pid=ETHH2Z9H6SDQHWHG&marketplace=FLIPKART&lid=LSTETHH2Z9H6SDQHWHGY2VCKT&swatchAttr=size&pageUID=1772797895743"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH2Z9H6SDQHWHG",
+    "path": "../../sources/pid-ETHH2Z9H6SDQHWHG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-palazzo-set/p/itm10a1766550382?pid=ETHH2Z9H6SDQHWHG&marketplace=FLIPKART&lid=LSTETHH2Z9H6SDQHWHGY2VCKT&swatchAttr=size&pageUID=1772797895743",
+    "scraped_at": "2026-08-12T15:31:36.122Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-palazzo-set/p/itm10a1766550382?pid=ETHH2Z9H6SDQHWHG&marketplace=FLIPKART&lid=LSTETHH2Z9H6SDQHWHGY2VCKT&swatchAttr=size&pageUID=1772797895743"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:31:49.555Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Palazzo Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Printed\nFabricViscose Rayon: PatternPrinted",
+    "description": "Floral Printed Design\nAdorned with a charming floral print, this green viscose rayon kurta and palazzo set exudes traditio…\n\nStylish Palazzo Bottoms\nThe palazzo bottoms crafted from viscose fabric offer a trendy silhouette, adding a touch of sophist…\n\nTraditional Viscose Rayon Fabric\nCrafted from high-quality viscose rayon fabric, this set ensures a luxurious feel against your skin,…",
+    "specifications": {
+      "FabricViscose Rayon": "PatternPrinted",
+      "Fabric": "Viscose Rayon",
+      "Pattern": "Printed"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "62199e696cbe17e036cd01b5",
+      "path": "media/images/62199e696cbe17e036cd01b5/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "5fcc5b739d3d06632a740665",
+      "path": "media/videos/5fcc5b739d3d06632a740665/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/3/c/q/m-rx74-grnpink-codset-royal-export-original-imah2z9hz448anz9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/3/c/q/m-rx74-grnpink-codset-royal-export-original-imah2z9hz448anz9.jpeg?q=100",
+        "local_path": "../../media/images/62199e696cbe17e036cd01b5/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/d/w/m-rx74-grnpink-codset-royal-export-original-imah2z9hqtg6cxbn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/d/w/m-rx74-grnpink-codset-royal-export-original-imah2z9hqtg6cxbn.jpeg?q=100",
+        "local_path": "../../media/images/62199e696cbe17e036cd01b5/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/6/s/m-rx74-grnpink-codset-royal-export-original-imah2z9ha42khfj3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/6/s/m-rx74-grnpink-codset-royal-export-original-imah2z9ha42khfj3.jpeg?q=100",
+        "local_path": "../../media/images/62199e696cbe17e036cd01b5/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/2/e/m-rx74-grnpink-codset-royal-export-original-imah2z9hvykpga4f.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/2/e/m-rx74-grnpink-codset-royal-export-original-imah2z9hvykpga4f.jpeg?q=100",
+        "local_path": "../../media/images/62199e696cbe17e036cd01b5/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNeeSeEOvxTg-y2D96BBt8RA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Palazzo Set",
+      "description": "Royal Export Women Kurta Palazzo Set - Buy Royal Export Women Kurta Palazzo Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/3/c/q/m-rx74-grnpink-codset-royal-export-original-imah2z9hz448anz9.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/d/w/m-rx74-grnpink-codset-royal-export-original-imah2z9hqtg6cxbn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/6/s/m-rx74-grnpink-codset-royal-export-original-imah2z9ha42khfj3.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/2/e/m-rx74-grnpink-codset-royal-export-original-imah2z9hvykpga4f.jpeg?q=70"
+      ],
+      "sku": "ETHH2Z9H6SDQHWHG",
+      "color": "Green",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 18,
+        "ratingCount": 184,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 364,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Vineeta Rastogi",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-04",
+          "reviewBody": "Beautiful suit set, love the print. Very soft material. Happy to purchase",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Utterly Disappointed",
+          "author": {
+            "name": "Damineni Geetha",
+            "@type": "Person"
+          },
+          "datePublished": "2025-12-14",
+          "reviewBody": "Not as expected",
+          "reviewRating": {
+            "ratingValue": 1,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Jagrati Dodwa",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-04",
+          "reviewBody": "Very nice \nLoved it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Floral Printed Design",
+          "body": "Adorned with a charming floral print, this green viscose rayon kurta and palazzo set exudes traditio…"
+        },
+        {
+          "heading": "Stylish Palazzo Bottoms",
+          "body": "The palazzo bottoms crafted from viscose fabric offer a trendy silhouette, adding a touch of sophist…"
+        },
+        {
+          "heading": "Traditional Viscose Rayon Fabric",
+          "body": "Crafted from high-quality viscose rayon fabric, this set ensures a luxurious feel against your skin,…"
+        }
+      ],
+      "product_highlights": {
+        "FabricViscose Rayon": "PatternPrinted",
+        "Fabric": "Viscose Rayon",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  }
+}

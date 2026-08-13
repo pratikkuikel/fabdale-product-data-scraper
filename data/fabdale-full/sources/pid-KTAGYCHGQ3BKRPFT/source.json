@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/aurelia-women-printed-straight-kurta/p/itm37d82dd5e938f?pid=KTAGYCHGQ3BKRPFT&marketplace=FLIPKART&lid=LSTKTAGYCHGQ3BKRPFTKJQBBX&swatchAttr=size",
+    "scraped_at": "2026-08-12T10:46:28.899Z",
+    "final_url": "https://www.flipkart.com/aurelia-women-printed-straight-kurta/p/itm37d82dd5e938f?pid=KTAGYCHGQ3BKRPFT&marketplace=FLIPKART&lid=LSTKTAGYCHGQ3BKRPFTKJQBBX&swatchAttr=size"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:46:33.249Z"
+  },
+  "content": {
+    "title": "Aurelia Women Printed Straight Kurta",
+    "short_description": "Color: Blue\nFabric: Pure Cotton\nPattern: Printed\nType: Straight\nFit: Regular Fit",
+    "description": "Aurelia Women Printed Straight Kurta - Buy Aurelia Women Printed Straight Kurta For Only Rs. 1599.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Printed",
+      "Type": "Straight",
+      "Fabric": "Pure Cotton",
+      "Fit": "Regular Fit",
+      "Color": "Blue"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/c/n/u/xxl-21fea11782-701819-aurelia-original-imagychemkdzhgbv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/c/n/u/xxl-21fea11782-701819-aurelia-original-imagychemkdzhgbv.jpeg?q=100",
+        "local_path": "../../media/images/698166acda687b38e324b169/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/d/s/s/xxl-21fea11782-701819-aurelia-original-imagychegrm4aypy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/d/s/s/xxl-21fea11782-701819-aurelia-original-imagychegrm4aypy.jpeg?q=100",
+        "local_path": "../../media/images/698166acda687b38e324b169/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/y/v/m/xxl-21fea11782-701819-aurelia-original-imagychetbqn7ehz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/y/v/m/xxl-21fea11782-701819-aurelia-original-imagychetbqn7ehz.jpeg?q=100",
+        "local_path": "../../media/images/698166acda687b38e324b169/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/r/5/j/xxl-21fea11782-701819-aurelia-original-imagyche7mfhggyu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/r/5/j/xxl-21fea11782-701819-aurelia-original-imagyche7mfhggyu.jpeg?q=100",
+        "local_path": "../../media/images/698166acda687b38e324b169/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/b/o/o/xxl-21fea11782-701819-aurelia-original-imagychezyzzdbyg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/b/o/o/xxl-21fea11782-701819-aurelia-original-imagychezyzzdbyg.jpeg?q=100",
+        "local_path": "../../media/images/698166acda687b38e324b169/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Aurelia Women Printed Straight Kurta",
+      "description": "Aurelia Women Printed Straight Kurta - Buy Aurelia Women Printed Straight Kurta For Only Rs. 1599.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/c/n/u/xxl-21fea11782-701819-aurelia-original-imagychemkdzhgbv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/d/s/s/xxl-21fea11782-701819-aurelia-original-imagychegrm4aypy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/y/v/m/xxl-21fea11782-701819-aurelia-original-imagychetbqn7ehz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/r/5/j/xxl-21fea11782-701819-aurelia-original-imagyche7mfhggyu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/b/o/o/xxl-21fea11782-701819-aurelia-original-imagychezyzzdbyg.jpeg?q=70"
+      ],
+      "sku": "KTAGYCHGQ3BKRPFT",
+      "color": "Navy",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 19,
+        "ratingCount": 220,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Aurelia",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 806,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Jaya Lakshmi",
+            "@type": "Person"
+          },
+          "datePublished": "2021-06-29",
+          "reviewBody": "Very very good material and stitchings also.... purey jeans cotton type material... fast delivery booked after next day only  i got this items.. tq flipkart....i got this kurtha  for 639/- worth every penney",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "NISHAT SHIMA SULTANA",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-01",
+          "reviewBody": "Looking very beautiful and comfortable....perfect for summer 🤍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "prity chowdhury",
+            "@type": "Person"
+          },
+          "datePublished": "2021-10-24",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Type": "Straight",
+        "Fabric": "Pure Cotton",
+        "Fit": "Regular Fit",
+        "Color": "Blue"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "698166acda687b38e324b169",
+      "path": "media/images/698166acda687b38e324b169/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

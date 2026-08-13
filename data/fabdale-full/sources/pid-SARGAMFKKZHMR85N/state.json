@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-SARGAMFKKZHMR85N",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "451",
+    "5295"
+  ],
+  "source_path": "sources/pid-SARGAMFKKZHMR85N/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T08:50:14.570Z",
+  "completed_at": "2026-08-12T08:50:35.104Z"
+}

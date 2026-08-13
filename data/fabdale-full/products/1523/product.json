@@ -1,0 +1,175 @@
+{
+  "product_id": "1523",
+  "sku": "Fab-Salwar-RYEX-014BL-XXL",
+  "product": {
+    "name": "Rivanta  Floral Casual Salwar Suit Set",
+    "parent_id": "5246",
+    "notes": "https://www.flipkart.com/royal-export-women-kurta-pant-set/p/itmbb70dcddc7d95?pid=ETHH2W28DXR5B4GY&marketplace=FLIPKART&lid=LSTETHH2W28DXR5B4GYSWOTPW&swatchAttr=size&pageUID=1772811462726"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH2W28DXR5B4GY",
+    "path": "../../sources/pid-ETHH2W28DXR5B4GY/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-set/p/itmbb70dcddc7d95?pid=ETHH2W28DXR5B4GY&marketplace=FLIPKART&lid=LSTETHH2W28DXR5B4GYSWOTPW&swatchAttr=size&pageUID=1772811462726",
+    "scraped_at": "2026-08-12T15:45:31.993Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-set/p/itmbb70dcddc7d95?pid=ETHH2W28DXR5B4GY&marketplace=FLIPKART&lid=LSTETHH2W28DXR5B4GYSWOTPW&swatchAttr=size&pageUID=1772811462726"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:45:38.562Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Set",
+    "short_description": "Royal Export Women Kurta Pant Set - Buy Royal Export Women Kurta Pant Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Royal Export Women Kurta Pant Set - Buy Royal Export Women Kurta Pant Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "52940d57fbd85bdb1b2be1e6",
+      "path": "media/images/52940d57fbd85bdb1b2be1e6/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/m/t/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufesb2qav2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/m/t/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufesb2qav2.jpeg?q=100",
+        "local_path": "../../media/images/52940d57fbd85bdb1b2be1e6/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/r/y/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufnfvmfukc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/r/y/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufnfvmfukc.jpeg?q=100",
+        "local_path": "../../media/images/52940d57fbd85bdb1b2be1e6/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/o/k/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufvep3tyum.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/o/k/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufvep3tyum.jpeg?q=100",
+        "local_path": "../../media/images/52940d57fbd85bdb1b2be1e6/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/s/z/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufdzgfbypw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/s/z/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufdzgfbypw.jpeg?q=100",
+        "local_path": "../../media/images/52940d57fbd85bdb1b2be1e6/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/u/3/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufm8hpg6ex.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/u/3/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufm8hpg6ex.jpeg?q=100",
+        "local_path": "../../media/images/52940d57fbd85bdb1b2be1e6/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Set",
+      "description": "Royal Export Women Kurta Pant Set - Buy Royal Export Women Kurta Pant Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/m/t/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufesb2qav2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/r/y/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufnfvmfukc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/o/k/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufvep3tyum.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/s/z/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufdzgfbypw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/u/3/xxl-rx76-srisroyalblu-kp-royal-export-original-imah47ufm8hpg6ex.jpeg?q=70"
+      ],
+      "sku": "ETHH2W28DXR5B4GY",
+      "color": "Royal Blue",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 5,
+        "ratingCount": 132,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 415,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-26",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Anshuman ramraje",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-23",
+          "reviewBody": "Wow I like this photo very stylish I love this",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Moderate",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-13",
+          "reviewBody": "So cheap",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

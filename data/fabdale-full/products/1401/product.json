@@ -1,0 +1,207 @@
+{
+  "product_id": "1401",
+  "sku": "Fab-Salwar-RYEX-003RD-L",
+  "product": {
+    "name": "Rivanta Embroidered V-Neck Salwar Suit Set",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm4be44dbe25746?pid=ETHH96GTRQGJHNCT&marketplace=FLIPKART&lid=LSTETHH96GTRQGJHNCTXMGJ0O&swatchAttr=size&pageUID=1772794894734"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH96GTRQGJHNCT",
+    "path": "../../sources/pid-ETHH96GTRQGJHNCT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm4be44dbe25746?pid=ETHH96GTRQGJHNCT&marketplace=FLIPKART&lid=LSTETHH96GTRQGJHNCTXMGJ0O&swatchAttr=size&pageUID=1772794894734",
+    "scraped_at": "2026-08-12T12:53:36.999Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm4be44dbe25746?pid=ETHH96GTRQGJHNCT&marketplace=FLIPKART&lid=LSTETHH96GTRQGJHNCTXMGJ0O&swatchAttr=size&pageUID=1772794894734"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T12:53:45.920Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Embroidered\nFabricViscose Rayon: PatternEmbroidered",
+    "description": "In the Box\nItems Included1 Kurta, 1 Pant, 1 Dupatta\n\nProduct Details\nNeck V NeckFabric careHand WashOther DetailsKurta Work- Embroidered, Pant Work- Solid, Dupatta Work- Printed Work Type- Yoke Design\n\nOther Details\nKurta Work- Embroidered, Pant Work- Solid, Dupatta Work- Printed Work Type- Yoke Design",
+    "specifications": {
+      "FabricViscose Rayon": "PatternEmbroidered",
+      "Fabric": "Viscose Rayon",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "575cec083e30bc8dc44a59bc",
+      "path": "media/images/575cec083e30bc8dc44a59bc/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "d930bb78e618101de9fd7362",
+      "path": "media/videos/d930bb78e618101de9fd7362/media.json",
+      "reused": true
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/i/n/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9yt8vqrjt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/i/n/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9yt8vqrjt.jpeg?q=100",
+        "local_path": "../../media/images/575cec083e30bc8dc44a59bc/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/x/q/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9qbjkm8n9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/x/q/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9qbjkm8n9.jpeg?q=100",
+        "local_path": "../../media/images/575cec083e30bc8dc44a59bc/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/b/y/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9fseyszzw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/b/y/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9fseyszzw.jpeg?q=100",
+        "local_path": "../../media/images/575cec083e30bc8dc44a59bc/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/6/m/2/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9vbdazvhd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/6/m/2/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9vbdazvhd.jpeg?q=100",
+        "local_path": "../../media/images/575cec083e30bc8dc44a59bc/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/g/h/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9sqd8b9ff.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/g/h/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9sqd8b9ff.jpeg?q=100",
+        "local_path": "../../media/images/575cec083e30bc8dc44a59bc/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNw2_ZHa-6Tq-fBUncnSaO_A/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Dupatta Set",
+      "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/i/n/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9yt8vqrjt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/x/q/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9qbjkm8n9.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/b/y/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9fseyszzw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/6/m/2/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9vbdazvhd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/g/h/l-rx231-red-vnek-shibori-royal-export-original-imahbvd9sqd8b9ff.jpeg?q=70"
+      ],
+      "sku": "ETHH96GTRQGJHNCT",
+      "color": "Red",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 44,
+        "ratingCount": 193,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 716,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Zarin Ahmed",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-26",
+          "reviewBody": "Superb",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-03-16",
+          "reviewBody": "All are too good 👍👍👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Muskan Yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-21",
+          "reviewBody": "Very comfortable but Dupatta",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "In the Box",
+          "body": "Items Included1 Kurta, 1 Pant, 1 Dupatta"
+        },
+        {
+          "heading": "Product Details",
+          "body": "Neck V NeckFabric careHand WashOther DetailsKurta Work- Embroidered, Pant Work- Solid, Dupatta Work- Printed Work Type- Yoke Design"
+        },
+        {
+          "heading": "Other Details",
+          "body": "Kurta Work- Embroidered, Pant Work- Solid, Dupatta Work- Printed Work Type- Yoke Design"
+        }
+      ],
+      "product_highlights": {
+        "FabricViscose Rayon": "PatternEmbroidered",
+        "Fabric": "Viscose Rayon",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  }
+}

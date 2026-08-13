@@ -1,0 +1,37 @@
+{
+  "key": "86bce9155608599625ac82a7",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T08:04:11.079Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/h/e/xxl-po2-hs-501-green-maroon-voroxy-original-imagtz4f55rs5nwh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/f/h/e/xxl-po2-hs-501-green-maroon-voroxy-original-imagtz4f55rs5nwh.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/4/r/xl-hs-501-maroon-voroxy-original-imagtg66czf3v2nj.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/4/r/xl-hs-501-maroon-voroxy-original-imagtg66czf3v2nj.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/3/v/m-mhs-501-maroon-metronaut-original-imahzhpnuyezsybj.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/3/v/m-mhs-501-maroon-metronaut-original-imahzhpnuyezsybj.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/9/t/l-mhs-501-maroon-metronaut-original-imahbkbezmgy6ng8.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/9/t/l-mhs-501-maroon-metronaut-original-imahbkbezmgy6ng8.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

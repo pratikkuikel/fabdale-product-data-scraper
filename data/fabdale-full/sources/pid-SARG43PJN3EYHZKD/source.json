@@ -1,0 +1,188 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/samah-geometric-print-printed-embellished-bollywood-georgette-chiffon-saree/p/itm720cbb4cf80a4?pid=SARG43PJN3EYHZKD&lid=LSTSARG43PJN3EYHZKDBOC6F1&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:18:37.053Z",
+    "final_url": "https://www.flipkart.com/samah-geometric-print-printed-embellished-bollywood-georgette-chiffon-saree/p/itm720cbb4cf80a4?pid=SARG43PJN3EYHZKD&lid=LSTSARG43PJN3EYHZKDBOC6F1&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:18:45.969Z"
+  },
+  "content": {
+    "title": "Samah Geometric Print, Printed, Embellished Bollywood Georgette, Chiffon Saree",
+    "short_description": "Fabric: Georgette, Chiffon\nPattern: Geometric Print, Printed, Embellished\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Samah Geometric Print, Printed, Embellished Bollywood Georgette, Chiffon Saree - Buy Samah Geometric Print, Printed, Embellished Bollywood Georgette, Chiffon Saree For Only Rs. 2997.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Geometric Print, Printed, Embellished",
+      "Fabric": "Georgette, Chiffon",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/d/x/free-1976s513-samah-unstitched-resized-original-imahc6gfvyvk8jzv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/d/x/free-1976s513-samah-unstitched-resized-original-imahc6gfvyvk8jzv.jpeg?q=100",
+        "local_path": "../../media/images/f2be1e46c7f999954f41afd3/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/h/2/free-1976s513-samah-unstitched-original-imahc6gff8k4trtu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/h/2/free-1976s513-samah-unstitched-original-imahc6gff8k4trtu.jpeg?q=100",
+        "local_path": "../../media/images/f2be1e46c7f999954f41afd3/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/k/g/free-1976s513-samah-unstitched-original-imahc6gfmd55zg2d.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/k/g/free-1976s513-samah-unstitched-original-imahc6gfmd55zg2d.jpeg?q=100",
+        "local_path": "../../media/images/f2be1e46c7f999954f41afd3/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/y/x/free-1976s513-samah-unstitched-original-imahc6gft46hzevj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/y/x/free-1976s513-samah-unstitched-original-imahc6gft46hzevj.jpeg?q=100",
+        "local_path": "../../media/images/f2be1e46c7f999954f41afd3/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/v/e/t/free-1976s513-samah-unstitched-original-imahc6gfhqdfespe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/v/e/t/free-1976s513-samah-unstitched-original-imahc6gfhqdfespe.jpeg?q=100",
+        "local_path": "../../media/images/f2be1e46c7f999954f41afd3/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Samah Geometric Print, Printed, Embellished Bollywood Georgette, Chiffon Saree",
+      "description": "Samah Geometric Print, Printed, Embellished Bollywood Georgette, Chiffon Saree - Buy Samah Geometric Print, Printed, Embellished Bollywood Georgette, Chiffon Saree For Only Rs. 2997.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/d/x/free-1976s513-samah-unstitched-resized-original-imahc6gfvyvk8jzv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/h/2/free-1976s513-samah-unstitched-original-imahc6gff8k4trtu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/k/g/free-1976s513-samah-unstitched-original-imahc6gfmd55zg2d.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/y/x/free-1976s513-samah-unstitched-original-imahc6gft46hzevj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/v/e/t/free-1976s513-samah-unstitched-original-imahc6gfhqdfespe.jpeg?q=70"
+      ],
+      "sku": "SARG43PJN3EYHZKD",
+      "color": "Yellow",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 989,
+        "ratingCount": 18944,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Samah",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 448,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Rahul Raj",
+            "@type": "Person"
+          },
+          "datePublished": "2022-02-22",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Aman  Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2021-10-19",
+          "reviewBody": "Good Quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Surekha  K",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-21",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Geometric Print, Printed, Embellished",
+        "Fabric": "Georgette, Chiffon",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "f2be1e46c7f999954f41afd3",
+      "path": "media/images/f2be1e46c7f999954f41afd3/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

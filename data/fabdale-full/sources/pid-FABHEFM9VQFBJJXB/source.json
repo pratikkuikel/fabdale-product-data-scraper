@@ -1,0 +1,172 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itma41a6c3d9ae43?pid=FABHEFM9VQFBJJXB&lid=LSTFABHEFM9VQFBJJXBXGEKG1&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:34:24.423Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itma41a6c3d9ae43?pid=FABHEFM9VQFBJJXB&lid=LSTFABHEFM9VQFBJJXBXGEKG1&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:34:30.518Z"
+  },
+  "content": {
+    "title": "krishna boutique Unstitched Pure Cotton Salwar Suit Material Printed",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupatta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": null,
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupatta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/c/3/m/yes-2-5-m-unstitched-2-36-m-gg-krishna-boutique-original-imahefm9kc9rwtn6.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/c/3/m/yes-2-5-m-unstitched-2-36-m-gg-krishna-boutique-original-imahefm9kc9rwtn6.jpeg?q=100",
+        "local_path": "../../media/images/b3ffae778ba996492b8980ff/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_bede0d0b9c3841bc974e6b4e8761eb4a.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_bede0d0b9c3841bc974e6b4e8761eb4a.jpg?q=80",
+        "local_path": "../../media/images/b3ffae778ba996492b8980ff/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_87815e7e821d4e37b66ba7283aafb395.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_87815e7e821d4e37b66ba7283aafb395.jpg?q=80",
+        "local_path": "../../media/images/b3ffae778ba996492b8980ff/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_eb1ad450015742aeab8d252822de9147.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_eb1ad450015742aeab8d252822de9147.jpg?q=80",
+        "local_path": "../../media/images/b3ffae778ba996492b8980ff/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b640aaf572af43f1b3a9a6c68ef28203.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b640aaf572af43f1b3a9a6c68ef28203.jpg?q=80",
+        "local_path": "../../media/images/b3ffae778ba996492b8980ff/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/e/v/4/yes-2-25-m-unstitched-2-5-m-jodhpur-white-10-stylebhawani-original-imahgduzrchb3hsa.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/e/v/4/yes-2-25-m-unstitched-2-5-m-jodhpur-white-10-stylebhawani-original-imahgduzrchb3hsa.jpeg?q=100",
+        "local_path": "../../media/images/b3ffae778ba996492b8980ff/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/q/7/y/yes-2-25-m-unstitched-2-5-m-banduk-chiku-875-stylebhawani-original-imahhm8gjkzxjtvf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/q/7/y/yes-2-25-m-unstitched-2-5-m-banduk-chiku-875-stylebhawani-original-imahhm8gjkzxjtvf.jpeg?q=100",
+        "local_path": "../../media/images/b3ffae778ba996492b8980ff/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/h/o/j/yes-2-5-m-unstitched-2-m-2-5-m-vch20206-soul-essence-original-imahzc9qqpbayk87.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/h/o/j/yes-2-5-m-unstitched-2-m-2-5-m-vch20206-soul-essence-original-imahzc9qqpbayk87.jpeg?q=100",
+        "local_path": "../../media/images/b3ffae778ba996492b8980ff/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/y/g/w/yes-2-m-unstitched-2-m-2-5-m-flp8u-jensuits-resized-original-imag9bhvhmdxrtfa.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/y/g/w/yes-2-m-unstitched-2-m-2-5-m-flp8u-jensuits-resized-original-imag9bhvhmdxrtfa.jpeg?q=100",
+        "local_path": "../../media/images/b3ffae778ba996492b8980ff/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/j/h/s/yes-2-25-m-unstitched-2-5-m-rubdi-blue-03-stylebhawani-resized-original-imahg2zecj6wvdhf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/j/h/s/yes-2-25-m-unstitched-2-5-m-rubdi-blue-03-stylebhawani-resized-original-imahg2zecj6wvdhf.jpeg?q=100",
+        "local_path": "../../media/images/b3ffae778ba996492b8980ff/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/7/q/g/yes-2-m-unstitched-2-10m-rubi-fkt-hidhasha-original-imahmstgwcgyg6ct.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/7/q/g/yes-2-m-unstitched-2-10m-rubi-fkt-hidhasha-original-imahmstgwcgyg6ct.jpeg?q=100",
+        "local_path": "../../media/images/b3ffae778ba996492b8980ff/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/l/l/a/yes-2-m-unstitched-2-m-2-5-m-thira-1525-thira-original-imah28ujycz5gd7j.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/l/l/a/yes-2-m-unstitched-2-m-2-5-m-thira-1525-thira-original-imah28ujycz5gd7j.jpeg?q=100",
+        "local_path": "../../media/images/b3ffae778ba996492b8980ff/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/m/u/8/yes-2-25-m-unstitched-2-5-m-rubdi-grey-026-stylebhawani-original-imahg2zeuvusy8r4.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/m/u/8/yes-2-25-m-unstitched-2-5-m-rubdi-grey-026-stylebhawani-original-imahg2zeuvusy8r4.jpeg?q=100",
+        "local_path": "../../media/images/b3ffae778ba996492b8980ff/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupatta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {
+        "Brand": "krishna boutique",
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupatta",
+        "Ideal For": "Women",
+        "Occasion": "Casual",
+        "Fabric Care": "Hand wash",
+        "Style Code": "GG",
+        "Bottom Length": "2.20m",
+        "Dupatta Length": "2.36 m",
+        "Top Length": "2.5 m",
+        "Color": "White",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched",
+        "Brand Color": "WHITE",
+        "Dupatta": "Yes",
+        "Fabric Purity": "Pure",
+        "Model Name": "GJHVH",
+        "Ornamentation Type": "NA",
+        "Regional Speciality": "Maheshwari",
+        "Trend": "Botanical print"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b3ffae778ba996492b8980ff",
+      "path": "media/images/b3ffae778ba996492b8980ff/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "product_id": "1881",
+  "sku": "Fab-Lehenga-PRVJ-010BL",
+  "product": {
+    "name": "Purvika Silver Colour Pari Lehenga Choli",
+    "parent_id": "5313",
+    "notes": "https://www.flipkart.com/purvaja-bandhani-semi-stitched-lehenga-choli/p/itm5d8951411f1c0?pid=LCHGQAPJSH2FYERZ&lid=LSTLCHGQAPJSH2FYERZNANSSM&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-LCHGQAPJSH2FYERZ",
+    "path": "../../sources/pid-LCHGQAPJSH2FYERZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purvaja-bandhani-semi-stitched-lehenga-choli/p/itm5d8951411f1c0?pid=LCHGQAPJSH2FYERZ&lid=LSTLCHGQAPJSH2FYERZNANSSM&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:47:12.149Z",
+    "final_url": "https://www.flipkart.com/purvaja-bandhani-semi-stitched-lehenga-choli/p/itm5d8951411f1c0?pid=LCHGQAPJSH2FYERZ&lid=LSTLCHGQAPJSH2FYERZNANSSM&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:47:28.932Z"
+  },
+  "content": {
+    "title": "PURVAJA Bandhani Semi Stitched Lehenga Choli",
+    "short_description": "Color: Dark Blue\nPattern: Bandhani\nType: Lehenga Choli\nLehenga Fabric: Art Silk\nCholi Fabric: Jacquard\nDupatta Fabric: Art Silk\nStitching Type: Semi Stitched\nSales Package: (1, Lehengha 1, Blouse 1, Dupatta)",
+    "description": "Dimensions\nBlouse Length1 mDupatta Length2 m - 2.5 m\n\nLehenga Choli Details\nLehenga FabricArt SilkCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckV-NeckSleeveSleevelessEmbroideredNoWorkZari WorkLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternBandhaniSales Package(1, Lehengha 1, Blouse 1, Dupatta)Blouse PatternEmbellishedBlouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkZari WorkBust Size42 inchColorDark BlueBrand ColorNavy BlueDupatta PatternEmbellishedDupatta WorkZari WorkLehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSecondary ColorBlueSizeFreeTrendHeavy Kali Work",
+    "specifications": {
+      "Lehenga Fabric": "Art Silk",
+      "Choli Fabric": "Jacquard",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Art Silk",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Bandhani",
+      "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+      "Color": "Dark Blue"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bc957ec8b1fcbdb97ca36f79",
+      "path": "media/images/bc957ec8b1fcbdb97ca36f79/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "55e667fa2035d1865de13675",
+      "path": "media/videos/55e667fa2035d1865de13675/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/x/1/u/free-sleeveless-mishti-purvaja-original-imagqapjg7ez47tp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/x/1/u/free-sleeveless-mishti-purvaja-original-imagqapjg7ez47tp.jpeg?q=100",
+        "local_path": "../../media/images/bc957ec8b1fcbdb97ca36f79/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/u/6/free-sleeveless-mishti-purvaja-original-imagqapjrdnhkffh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/u/6/free-sleeveless-mishti-purvaja-original-imagqapjrdnhkffh.jpeg?q=100",
+        "local_path": "../../media/images/bc957ec8b1fcbdb97ca36f79/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/m/e/b/free-sleeveless-mishti-purvaja-original-imagqapjpebkuujf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/m/e/b/free-sleeveless-mishti-purvaja-original-imagqapjpebkuujf.jpeg?q=100",
+        "local_path": "../../media/images/bc957ec8b1fcbdb97ca36f79/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/s/y/8/free-sleeveless-mishti-purvaja-original-imagqapjpha5mgcx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/s/y/8/free-sleeveless-mishti-purvaja-original-imagqapjpha5mgcx.jpeg?q=100",
+        "local_path": "../../media/images/bc957ec8b1fcbdb97ca36f79/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/7/d/0/free-sleeveless-mishti-purvaja-original-imagqapj46xgyqhw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/7/d/0/free-sleeveless-mishti-purvaja-original-imagqapj46xgyqhw.jpeg?q=100",
+        "local_path": "../../media/images/bc957ec8b1fcbdb97ca36f79/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/labs/AS/CNlESOA9KHTtqCJ12SEMYDog/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURVAJA Bandhani Semi Stitched Lehenga Choli",
+      "description": "PURVAJA Bandhani Semi Stitched Lehenga Choli - Buy PURVAJA Bandhani Semi Stitched Lehenga Choli For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/x/1/u/free-sleeveless-mishti-purvaja-original-imagqapjg7ez47tp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/u/6/free-sleeveless-mishti-purvaja-original-imagqapjrdnhkffh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/m/e/b/free-sleeveless-mishti-purvaja-original-imagqapjpebkuujf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/s/y/8/free-sleeveless-mishti-purvaja-original-imagqapjpha5mgcx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/7/d/0/free-sleeveless-mishti-purvaja-original-imagqapj46xgyqhw.jpeg?q=70"
+      ],
+      "sku": "LCHGQAPJSH2FYERZ",
+      "color": "Navy Blue",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "ratingCount": 33,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURVAJA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 473,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Dimensions",
+          "body": "Blouse Length1 mDupatta Length2 m - 2.5 m"
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricArt SilkCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckV-NeckSleeveSleevelessEmbroideredNoWorkZari WorkLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternBandhaniSales Package(1, Lehengha 1, Blouse 1, Dupatta)Blouse PatternEmbellishedBlouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkZari WorkBust Size42 inchColorDark BlueBrand ColorNavy BlueDupatta PatternEmbellishedDupatta WorkZari WorkLehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSecondary ColorBlueSizeFreeTrendHeavy Kali Work"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Art Silk",
+        "Choli Fabric": "Jacquard",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Bandhani",
+        "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+        "Color": "Dark Blue"
+      },
+      "specifications": {}
+    }
+  }
+}

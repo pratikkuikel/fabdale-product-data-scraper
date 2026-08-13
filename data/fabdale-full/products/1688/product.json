@@ -1,0 +1,187 @@
+{
+  "product_id": "1688",
+  "sku": "Fab-Salwar-RYEX-025G-XXL",
+  "product": {
+    "name": "Rivanta Pine Green Embroidered Salwar Suit Set",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm6906f1f9d0ec2?pid=ETHHEHNTM9XRYTWH&marketplace=FLIPKART&lid=LSTETHHEHNTM9XRYTWHO0SGZB&swatchAttr=size&pageUID=1772858969435"
+  },
+  "source_bundle": {
+    "key": "pid-ETHHEHNTM9XRYTWH",
+    "path": "../../sources/pid-ETHHEHNTM9XRYTWH/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm6906f1f9d0ec2?pid=ETHHEHNTM9XRYTWH&marketplace=FLIPKART&lid=LSTETHHEHNTM9XRYTWHO0SGZB&swatchAttr=size&pageUID=1772858969435",
+    "scraped_at": "2026-08-12T16:10:52.073Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm6906f1f9d0ec2?pid=ETHHEHNTM9XRYTWH&marketplace=FLIPKART&lid=LSTETHHEHNTM9XRYTWHO0SGZB&swatchAttr=size&pageUID=1772858969435"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T16:11:06.476Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Dupatta Set",
+    "short_description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "8d13a73b330eb7eba6dc2960",
+      "path": "media/images/8d13a73b330eb7eba6dc2960/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/h/r/l-rx329-pinegreen-kpd-royal-export-original-imahgkdt3xcqzbwg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/h/r/l-rx329-pinegreen-kpd-royal-export-original-imahgkdt3xcqzbwg.jpeg?q=100",
+        "local_path": "../../media/images/8d13a73b330eb7eba6dc2960/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/v/l/l-rx329-pinegreen-kpd-royal-export-original-imahgkdtyz9ysg4z.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/v/l/l-rx329-pinegreen-kpd-royal-export-original-imahgkdtyz9ysg4z.jpeg?q=100",
+        "local_path": "../../media/images/8d13a73b330eb7eba6dc2960/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/w/x/l-rx329-pinegreen-kpd-royal-export-original-imahgkdt767skxcn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/w/x/l-rx329-pinegreen-kpd-royal-export-original-imahgkdt767skxcn.jpeg?q=100",
+        "local_path": "../../media/images/8d13a73b330eb7eba6dc2960/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/c/l/l-rx329-pinegreen-kpd-royal-export-original-imahgkdtgbf3xrxy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/c/l/l-rx329-pinegreen-kpd-royal-export-original-imahgkdtgbf3xrxy.jpeg?q=100",
+        "local_path": "../../media/images/8d13a73b330eb7eba6dc2960/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/x/r/l-rx329-pinegreen-kpd-royal-export-original-imahgkdthuffdgyq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/x/r/l-rx329-pinegreen-kpd-royal-export-original-imahgkdthuffdgyq.jpeg?q=100",
+        "local_path": "../../media/images/8d13a73b330eb7eba6dc2960/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Dupatta Set",
+      "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/h/r/l-rx329-pinegreen-kpd-royal-export-original-imahgkdt3xcqzbwg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/v/l/l-rx329-pinegreen-kpd-royal-export-original-imahgkdtyz9ysg4z.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/w/x/l-rx329-pinegreen-kpd-royal-export-original-imahgkdt767skxcn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/c/l/l-rx329-pinegreen-kpd-royal-export-original-imahgkdtgbf3xrxy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/x/r/l-rx329-pinegreen-kpd-royal-export-original-imahgkdthuffdgyq.jpeg?q=70"
+      ],
+      "sku": "ETHHEHNTM9XRYTWH",
+      "color": "Pine Green",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.7,
+        "reviewCount": 120,
+        "ratingCount": 164,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 834,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-19",
+          "reviewBody": "Beautiful dress but only i have a size issue that's why I exchange the size otherwise it's really nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart  User",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-03",
+          "reviewBody": "Material is so soft . I just just love the the fitting specially I love the neck perfect combination . Just go for this kurta set.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-09",
+          "reviewBody": "Wow wow wow 😍 so beautiful. One of my best kurta set i got from FLIPKART.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

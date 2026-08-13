@@ -1,0 +1,16 @@
+{
+  "key": "1cbdacb163657e7dd46ef520",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:36:33.173Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/a/a/z/yes-2-5-m-unstitched-2-2-m-streep-ylo90-krishna-boutique-original-imahymzjssphu5tn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/a/a/z/yes-2-5-m-unstitched-2-2-m-streep-ylo90-krishna-boutique-original-imahymzjssphu5tn.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

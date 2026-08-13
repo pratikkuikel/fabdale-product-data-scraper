@@ -1,0 +1,215 @@
+{
+  "product_id": "483",
+  "sku": "Fab-Saree-SMH-006OR",
+  "product": {
+    "name": "Sharini Bandhani Printed Wedding & Festive Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/samah-printed-bandhani-georgette-chiffon-saree/p/itmb03ebf01462b8?pid=SARGHRWMZJN74CRP&lid=LSTSARGHRWMZJN74CRPD3QKDX&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SARGHRWMZJN74CRP",
+    "path": "../../sources/pid-SARGHRWMZJN74CRP/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/samah-printed-bandhani-georgette-chiffon-saree/p/itmb03ebf01462b8?pid=SARGHRWMZJN74CRP&lid=LSTSARGHRWMZJN74CRPD3QKDX&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:18:12.122Z",
+    "final_url": "https://www.flipkart.com/samah-printed-bandhani-georgette-chiffon-saree/p/itmb03ebf01462b8?pid=SARGHRWMZJN74CRP&lid=LSTSARGHRWMZJN74CRPD3QKDX&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:18:24.233Z"
+  },
+  "content": {
+    "title": "Samah Printed, Embellished Daily Wear Chiffon, Georgette Saree",
+    "short_description": "Fabric: Chiffon, Georgette\nPattern: Printed, Embellished\nType: Daily Wear\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Beautiful Chiffon Fabric\nCrafted from high-quality chiffon fabric, this saree offers a luxurious and comfortable wearing expe…\n\nVersatile Unstitched Blouse Piece\nWith the included unstitched blouse piece, this saree provides endless possibilities for customizati…\n\nElegant and Festive Design\nDesigned for parties, weddings, and festive occasions, this saree exudes elegance and grace. The com…\n\nIntricate Decorative Details\nThis saree is adorned with beautiful decorative details, including zari buta and lace. These embelli…",
+    "specifications": {
+      "Pattern": "Printed, Embellished",
+      "Fabric": "Chiffon, Georgette",
+      "Type": "Daily Wear",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4cc459cbeb614140fad94550",
+      "path": "media/images/4cc459cbeb614140fad94550/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "7329aa977fb84030b642a2af",
+      "path": "media/videos/7329aa977fb84030b642a2af/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/l/6/free-2612s2080-samah-unstitched-resized-original-imahk4xgth74hqaa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/l/6/free-2612s2080-samah-unstitched-resized-original-imahk4xgth74hqaa.jpeg?q=100",
+        "local_path": "../../media/images/4cc459cbeb614140fad94550/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/s/3/2/free-2612s2080-samah-unstitched-original-imahk4xgrmmpdkbb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/s/3/2/free-2612s2080-samah-unstitched-original-imahk4xgrmmpdkbb.jpeg?q=100",
+        "local_path": "../../media/images/4cc459cbeb614140fad94550/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/q/x/free-2612s2080-samah-unstitched-original-imahk4xgryysdf6p.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/q/x/free-2612s2080-samah-unstitched-original-imahk4xgryysdf6p.jpeg?q=100",
+        "local_path": "../../media/images/4cc459cbeb614140fad94550/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/e/a/free-2612s2080-samah-unstitched-original-imahk4xguydcvezp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/e/a/free-2612s2080-samah-unstitched-original-imahk4xguydcvezp.jpeg?q=100",
+        "local_path": "../../media/images/4cc459cbeb614140fad94550/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/2/v/free-2612s2080-samah-unstitched-original-imahk4xgnskp3grz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/2/v/free-2612s2080-samah-unstitched-original-imahk4xgnskp3grz.jpeg?q=100",
+        "local_path": "../../media/images/4cc459cbeb614140fad94550/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN3C9Xz64MRmaFN1QBfjg6ng/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Samah Printed, Embellished Daily Wear Chiffon, Georgette Saree",
+      "description": "Samah Printed, Embellished Daily Wear Chiffon, Georgette Saree - Buy Samah Printed, Embellished Daily Wear Chiffon, Georgette Saree For Only Rs. 3330.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/l/6/free-2612s2080-samah-unstitched-resized-original-imahk4xgth74hqaa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/s/3/2/free-2612s2080-samah-unstitched-original-imahk4xgrmmpdkbb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/q/x/free-2612s2080-samah-unstitched-original-imahk4xgryysdf6p.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/e/a/free-2612s2080-samah-unstitched-original-imahk4xguydcvezp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/2/v/free-2612s2080-samah-unstitched-original-imahk4xgnskp3grz.jpeg?q=70"
+      ],
+      "sku": "SARGHRWMZJN74CRP",
+      "color": "Orange, Red",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 190,
+        "ratingCount": 3866,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Samah",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 448,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Abhishek Anjuman",
+            "@type": "Person"
+          },
+          "datePublished": "2023-07-12",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Princi Shukla",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-16",
+          "reviewBody": "Awesome ❤️",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "JONY MANDAL",
+            "@type": "Person"
+          },
+          "datePublished": "2023-04-27",
+          "reviewBody": "Superb 👌 👌 👌 👌 👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Beautiful Chiffon Fabric",
+          "body": "Crafted from high-quality chiffon fabric, this saree offers a luxurious and comfortable wearing expe…"
+        },
+        {
+          "heading": "Versatile Unstitched Blouse Piece",
+          "body": "With the included unstitched blouse piece, this saree provides endless possibilities for customizati…"
+        },
+        {
+          "heading": "Elegant and Festive Design",
+          "body": "Designed for parties, weddings, and festive occasions, this saree exudes elegance and grace. The com…"
+        },
+        {
+          "heading": "Intricate Decorative Details",
+          "body": "This saree is adorned with beautiful decorative details, including zari buta and lace. These embelli…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Printed, Embellished",
+        "Fabric": "Chiffon, Georgette",
+        "Type": "Daily Wear",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

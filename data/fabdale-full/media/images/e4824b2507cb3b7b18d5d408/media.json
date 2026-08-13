@@ -1,0 +1,37 @@
+{
+  "key": "e4824b2507cb3b7b18d5d408",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T08:04:57.124Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/a/c/xxl-mhs-501-royalblue-metronaut-original-imahzhpvmfdpcdvn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/x/a/c/xxl-mhs-501-royalblue-metronaut-original-imahzhpvmfdpcdvn.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/v/a/s-hs-501-royalblue-voroxy-original-imagtg66aq62feba.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/l/v/a/s-hs-501-royalblue-voroxy-original-imagtg66aq62feba.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/h/s/xxl-mhs-501-royalblue-metronaut-original-imahzhpvqanfbcar.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/h/s/xxl-mhs-501-royalblue-metronaut-original-imahzhpvqanfbcar.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/6/h/l-mhs-501-royalblue-metronaut-original-imahbcgphkv87bng.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/a/6/h/l-mhs-501-royalblue-metronaut-original-imahbcgphkv87bng.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

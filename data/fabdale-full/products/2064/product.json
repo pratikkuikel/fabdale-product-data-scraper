@@ -1,0 +1,124 @@
+{
+  "product_id": "2064",
+  "sku": "Fab-Shirt-METR-010PK-S",
+  "product": {
+    "name": "Metronex Plain Pink Shirt",
+    "parent_id": "5267",
+    "notes": "https://www.flipkart.com/metronaut-men-solid-casual-pink-shirt/p/itmfac00dcf74c95?pid=SHTHCZA5RYCTGV5H&lid=LSTSHTHCZA5RYCTGV5HBWJYZE&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SHTHCZA5RYCTGV5H",
+    "path": "../../sources/pid-SHTHCZA5RYCTGV5H/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-pink-shirt/p/itmfac00dcf74c95?pid=SHTHCZA5RYCTGV5H&lid=LSTSHTHCZA5RYCTGV5HBWJYZE&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T08:06:58.791Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-pink-shirt/p/itmfac00dcf74c95?pid=SHTHCZA5RYCTGV5H&lid=LSTSHTHCZA5RYCTGV5HBWJYZE&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T08:07:11.241Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Regular Fit Solid Spread Collar Casual Shirt",
+    "short_description": "Color: Pink\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": null,
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Pink"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "28a61ae4ee5e02ba252c83ee",
+      "path": "media/images/28a61ae4ee5e02ba252c83ee/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/u/n/o/m-mens-pain-shirt-casual-metronaut-original-imahd3wr2whyscpz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/u/n/o/m-mens-pain-shirt-casual-metronaut-original-imahd3wr2whyscpz.jpeg?q=100",
+        "local_path": "../../media/images/28a61ae4ee5e02ba252c83ee/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/v/c/q/m-mens-pain-shirt-casual-metronaut-original-imahd3wrpzznsk9g.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/v/c/q/m-mens-pain-shirt-casual-metronaut-original-imahd3wrpzznsk9g.jpeg?q=100",
+        "local_path": "../../media/images/28a61ae4ee5e02ba252c83ee/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/s/m/5/l-mens-pain-shirt-casual-metronaut-original-imahd3wrphz69gyf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/s/m/5/l-mens-pain-shirt-casual-metronaut-original-imahd3wrphz69gyf.jpeg?q=100",
+        "local_path": "../../media/images/28a61ae4ee5e02ba252c83ee/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_747624e831504fd0836ad2e0486fe9f9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_747624e831504fd0836ad2e0486fe9f9.jpeg?q=80",
+        "local_path": "../../media/images/28a61ae4ee5e02ba252c83ee/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_155b52c0c86d40dcae33a5e7ad74e475.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_155b52c0c86d40dcae33a5e7ad74e475.jpg?q=80",
+        "local_path": "../../media/images/28a61ae4ee5e02ba252c83ee/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_540ec2d7cf8742c9b0c9462574b28c38.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_540ec2d7cf8742c9b0c9462574b28c38.jpg?q=80",
+        "local_path": "../../media/images/28a61ae4ee5e02ba252c83ee/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_057eeb85194440fab8fc3a3c3fca8c62.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_057eeb85194440fab8fc3a3c3fca8c62.jpg?q=80",
+        "local_path": "../../media/images/28a61ae4ee5e02ba252c83ee/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_3a612ad29162497499abe20c170d885a.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_3a612ad29162497499abe20c170d885a.jpg?q=80",
+        "local_path": "../../media/images/28a61ae4ee5e02ba252c83ee/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Pink"
+      },
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itm22340f3154b40?pid=ETHHYQBEFSXGFMYW&marketplace=FLIPKART&lid=LSTETHHYQBEFSXGFMYWOLV6YR&swatchAttr=size&pageUID=1772729607173",
+    "scraped_at": "2026-08-12T12:05:21.053Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itm22340f3154b40?pid=ETHHYQBEFSXGFMYW&marketplace=FLIPKART&lid=LSTETHHYQBEFSXGFMYWOLV6YR&swatchAttr=size&pageUID=1772729607173"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T12:05:43.012Z"
+  },
+  "content": {
+    "title": "Divastri Women Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nFabricPure Cotton: PatternPrinted",
+    "description": "In the BoxItems IncludedKURTI, DUPATTA\nGeneralBrandDivastriFabricPure CottonAdditional GarmentsDupattaStyle Code Ethnic setTop typeKurtaBottom type PantPatternPrintedColor RedBrand ColorRED 1Ideal ForWomenSizeL RegularSleeve Length3/4 Sleeve",
+    "specifications": {
+      "FabricPure Cotton": "PatternPrinted",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/k/x/m-ethnic-set-divastri-resized-original-imahyqbddfgeeceg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/k/x/m-ethnic-set-divastri-resized-original-imahyqbddfgeeceg.jpeg?q=100",
+        "local_path": "../../media/images/88c74d8065cabe11b6bcf13f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/v/r/m-ethnic-set-divastri-original-imahyqbdskhzprjq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/v/r/m-ethnic-set-divastri-original-imahyqbdskhzprjq.jpeg?q=100",
+        "local_path": "../../media/images/88c74d8065cabe11b6bcf13f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/d/k/m-ethnic-set-divastri-original-imahyqbdhqzwmxhj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/d/k/m-ethnic-set-divastri-original-imahyqbdhqzwmxhj.jpeg?q=100",
+        "local_path": "../../media/images/88c74d8065cabe11b6bcf13f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/t/h/m-ethnic-set-divastri-original-imahyqbdawghtvdk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/t/h/m-ethnic-set-divastri-original-imahyqbdawghtvdk.jpeg?q=100",
+        "local_path": "../../media/images/88c74d8065cabe11b6bcf13f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/x/s/m-ethnic-set-divastri-original-imahyqbdas7gpnmg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/x/s/m-ethnic-set-divastri-original-imahyqbdas7gpnmg.jpeg?q=100",
+        "local_path": "../../media/images/88c74d8065cabe11b6bcf13f/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/labs/AS/CNyd8OLZGLRK2Z2aGG3rZ6sQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNcHMlMpzDSLaZEKosSmDGzw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Kurta Pant Dupatta Set",
+      "description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/k/x/m-ethnic-set-divastri-resized-original-imahyqbddfgeeceg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/v/r/m-ethnic-set-divastri-original-imahyqbdskhzprjq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/d/k/m-ethnic-set-divastri-original-imahyqbdhqzwmxhj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/t/h/m-ethnic-set-divastri-original-imahyqbdawghtvdk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/x/s/m-ethnic-set-divastri-original-imahyqbdas7gpnmg.jpeg?q=70"
+      ],
+      "sku": "ETHHYQBEFSXGFMYW",
+      "color": "RED 1",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 626,
+        "ratingCount": 11618,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 606,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-16",
+          "reviewBody": "Dupatta length is good, material quality good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Priyanka Janawade",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-16",
+          "reviewBody": "Amazing kurti set love it \nColour  quality good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Tabdila Khatun",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-05",
+          "reviewBody": "Nice product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "In the BoxItems IncludedKURTI, DUPATTA",
+          "body": "GeneralBrandDivastriFabricPure CottonAdditional GarmentsDupattaStyle Code Ethnic setTop typeKurtaBottom type PantPatternPrintedColor RedBrand ColorRED 1Ideal ForWomenSizeL RegularSleeve Length3/4 Sleeve"
+        }
+      ],
+      "product_highlights": {
+        "FabricPure Cotton": "PatternPrinted",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed"
+      },
+      "specifications": {
+        "In the Box": "Items IncludedKURTI, DUPATTA",
+        "Items Included": "KURTI, DUPATTA",
+        "Brand": "Divastri",
+        "Fabric": "Pure Cotton",
+        "Additional Garments": "Dupatta",
+        "Style Code": "Ethnic set",
+        "Top type": "Kurta",
+        "Bottom type": "Pant",
+        "Pattern": "Printed",
+        "Color": "Red",
+        "Brand Color": "RED 1",
+        "Ideal For": "Women",
+        "Size": "L Regular",
+        "Sleeve Length": "3/4 Sleeve"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "88c74d8065cabe11b6bcf13f",
+      "path": "media/images/88c74d8065cabe11b6bcf13f/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "7694c90005330dde1bb26297",
+      "path": "media/videos/7694c90005330dde1bb26297/media.json",
+      "reused": false
+    }
+  }
+}

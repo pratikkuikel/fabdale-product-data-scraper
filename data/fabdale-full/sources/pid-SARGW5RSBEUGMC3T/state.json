@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SARGW5RSBEUGMC3T",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "533"
+  ],
+  "source_path": "sources/pid-SARGW5RSBEUGMC3T/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T10:30:05.943Z",
+  "completed_at": "2026-08-12T10:30:17.147Z"
+}

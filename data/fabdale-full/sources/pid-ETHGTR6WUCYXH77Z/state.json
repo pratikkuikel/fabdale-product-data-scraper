@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-ETHGTR6WUCYXH77Z",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "729",
+    "730",
+    "731",
+    "732",
+    "733",
+    "5135"
+  ],
+  "source_path": "sources/pid-ETHGTR6WUCYXH77Z/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T10:52:21.856Z",
+  "completed_at": "2026-08-12T10:52:29.123Z"
+}

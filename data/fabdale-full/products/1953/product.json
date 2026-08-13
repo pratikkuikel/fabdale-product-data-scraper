@@ -1,0 +1,167 @@
+{
+  "product_id": "1953",
+  "sku": "Fab-Shirt-METR-004PR-XXL",
+  "product": {
+    "name": "Metronex Fit Striped Button Down Shirt",
+    "parent_id": "5257",
+    "notes": "https://www.flipkart.com/metronaut-men-striped-casual-purple-shirt/p/itmfb8c341ff9be3?pid=SHTHDG8M4G9WEKZS&lid=LSTSHTHDG8M4G9WEKZSZWDH0W&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SHTHDG8M4G9WEKZS",
+    "path": "../../sources/pid-SHTHDG8M4G9WEKZS/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-striped-casual-purple-shirt/p/itmfb8c341ff9be3?pid=SHTHDG8M4G9WEKZS&lid=LSTSHTHDG8M4G9WEKZSZWDH0W&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T07:56:09.577Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-striped-casual-purple-shirt/p/itmfb8c341ff9be3?pid=SHTHDG8M4G9WEKZS&lid=LSTSHTHDG8M4G9WEKZSZWDH0W&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:56:16.629Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Striped Casual Purple Shirt",
+    "short_description": "METRONAUT Men Striped Casual Purple Shirt - Buy METRONAUT Men Striped Casual Purple Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "METRONAUT Men Striped Casual Purple Shirt - Buy METRONAUT Men Striped Casual Purple Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e38167ca4e90e7aac3947916",
+      "path": "media/images/e38167ca4e90e7aac3947916/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/f/p/m-vd-sr240-metronaut-resized-original-imahdg8mcfhymsfu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/f/p/m-vd-sr240-metronaut-resized-original-imahdg8mcfhymsfu.jpeg?q=100",
+        "local_path": "../../media/images/e38167ca4e90e7aac3947916/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/o/9/m-vd-sr240-metronaut-original-imahdg8m5hasshby.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/o/9/m-vd-sr240-metronaut-original-imahdg8m5hasshby.jpeg?q=100",
+        "local_path": "../../media/images/e38167ca4e90e7aac3947916/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/k/n/m-vd-sr240-metronaut-original-imahdg8mngf7ngmb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/k/n/m-vd-sr240-metronaut-original-imahdg8mngf7ngmb.jpeg?q=100",
+        "local_path": "../../media/images/e38167ca4e90e7aac3947916/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/z/0/m-vd-sr240-metronaut-original-imahdg8mrfz3shrv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/z/0/m-vd-sr240-metronaut-original-imahdg8mrfz3shrv.jpeg?q=100",
+        "local_path": "../../media/images/e38167ca4e90e7aac3947916/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Striped Casual Purple Shirt",
+      "description": "METRONAUT Men Striped Casual Purple Shirt - Buy METRONAUT Men Striped Casual Purple Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/e/f/p/m-vd-sr240-metronaut-resized-original-imahdg8mcfhymsfu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/o/9/m-vd-sr240-metronaut-original-imahdg8m5hasshby.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/k/n/m-vd-sr240-metronaut-original-imahdg8mngf7ngmb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/g/z/0/m-vd-sr240-metronaut-original-imahdg8mrfz3shrv.jpeg?q=70"
+      ],
+      "sku": "SHTHDG8M4G9WEKZS",
+      "color": "Purple",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 49,
+        "ratingCount": 78,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 418,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Sukhbir Dhillon ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-15",
+          "reviewBody": "Shirt is well stitched and the color is exactly as shown",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Rigan Rigan Rozz",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-02",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Nilima Kumari",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-13",
+          "reviewBody": "Top",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

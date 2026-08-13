@@ -1,0 +1,184 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/k-5-fashion-striped-bollywood-georgette-chiffon-saree/p/itmb45dfdb9a1278?pid=SARGRCHKMYY3GMXQ&lid=LSTSARGRCHKMYY3GMXQLTVNFJ&marketplace=FLIPKART&q=K+5+FASHION+&store=clo%2F8on%2Fzpd&srno=s_6_223&otracker=search&otracker1=search&fm=Search&iid=deefa69f-c6dd-4b4e-879b-8d44a503e400.SARGRCHKMYY3GMXQ.SEARCH&ppt=sp&ppn=sp&ssid=766gdt1spc0000001756624097529&qH=aac64e553e841b21",
+    "scraped_at": "2026-08-12T10:30:18.202Z",
+    "final_url": "https://www.flipkart.com/k-5-fashion-striped-bollywood-georgette-chiffon-saree/p/itmb45dfdb9a1278?pid=SARGRCHKMYY3GMXQ&lid=LSTSARGRCHKMYY3GMXQLTVNFJ&marketplace=FLIPKART&q=K+5+FASHION+&store=clo%2F8on%2Fzpd&srno=s_6_223&otracker=search&otracker1=search&fm=Search&iid=deefa69f-c6dd-4b4e-879b-8d44a503e400.SARGRCHKMYY3GMXQ.SEARCH&ppt=sp&ppn=sp&ssid=766gdt1spc0000001756624097529&qH=aac64e553e841b21"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:30:27.792Z"
+  },
+  "content": {
+    "title": "K 5 FASHION Striped Bollywood Georgette, Chiffon Saree (Light Green)",
+    "short_description": "Fabric: Georgette, Chiffon\nPattern: Striped\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Dimensions\nSari Length5.5mBlouse Piece Length0.8 mWeight0.45 kg",
+    "specifications": {
+      "Pattern": "Striped",
+      "Fabric": "Georgette, Chiffon",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/j/j/3/free-not-out-k-5-fashion-unstitched-original-imagrchgnzmuecqr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/j/j/3/free-not-out-k-5-fashion-unstitched-original-imagrchgnzmuecqr.jpeg?q=100",
+        "local_path": "../../media/images/d94bb557845c7ee45fa1c7a5/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/c/z/f/free-not-out-k-5-fashion-unstitched-original-imagrchg7tqpzhhy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/c/z/f/free-not-out-k-5-fashion-unstitched-original-imagrchg7tqpzhhy.jpeg?q=100",
+        "local_path": "../../media/images/d94bb557845c7ee45fa1c7a5/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/w/s/l/free-not-out-k-5-fashion-unstitched-original-imagrchgaxmeq9mj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/w/s/l/free-not-out-k-5-fashion-unstitched-original-imagrchgaxmeq9mj.jpeg?q=100",
+        "local_path": "../../media/images/d94bb557845c7ee45fa1c7a5/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/s/h/k/free-not-out-k-5-fashion-unstitched-original-imagrchgrahgzfty.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/s/h/k/free-not-out-k-5-fashion-unstitched-original-imagrchgrahgzfty.jpeg?q=100",
+        "local_path": "../../media/images/d94bb557845c7ee45fa1c7a5/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/1/e/y/free-not-out-k-5-fashion-unstitched-original-imagrchgvaeakbcf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/1/e/y/free-not-out-k-5-fashion-unstitched-original-imagrchgvaeakbcf.jpeg?q=100",
+        "local_path": "../../media/images/d94bb557845c7ee45fa1c7a5/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/s/h/k/free-not-out-k-5-fashion-unstitched-original-imagrchgrahgzfty.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/s/h/k/free-not-out-k-5-fashion-unstitched-original-imagrchgrahgzfty.jpeg?q=100",
+        "local_path": "../../media/images/d94bb557845c7ee45fa1c7a5/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/k/o/b/free-shraddha-k-5-fashion-unstitched-resized-original-imagybs5trkhp5uz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/k/o/b/free-shraddha-k-5-fashion-unstitched-resized-original-imagybs5trkhp5uz.jpeg?q=100",
+        "local_path": "../../media/images/d94bb557845c7ee45fa1c7a5/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/h/j/g/free-shyama-6-k-5-fashion-unstitched-original-imahpq2fpsw9nsj6.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/h/j/g/free-shyama-6-k-5-fashion-unstitched-original-imahpq2fpsw9nsj6.jpeg?q=100",
+        "local_path": "../../media/images/d94bb557845c7ee45fa1c7a5/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/m/f/c/free-anisha-n-dusty3-k-5-fashion-unstitched-original-imahzyhycgzuptzg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/m/f/c/free-anisha-n-dusty3-k-5-fashion-unstitched-original-imahzyhycgzuptzg.jpeg?q=100",
+        "local_path": "../../media/images/d94bb557845c7ee45fa1c7a5/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/p/l/v/free-siya-neelmadhav-fashion-unstitched-original-imahharfygb7edbm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/p/l/v/free-siya-neelmadhav-fashion-unstitched-original-imahharfygb7edbm.jpeg?q=100",
+        "local_path": "../../media/images/d94bb557845c7ee45fa1c7a5/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/1/9/f/free-rangilaart-chiffon-designer-bollywood-fashion-style-litchi-original-imahkdv6te3x692d.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/1/9/f/free-rangilaart-chiffon-designer-bollywood-fashion-style-litchi-original-imahkdv6te3x692d.jpeg?q=100",
+        "local_path": "../../media/images/d94bb557845c7ee45fa1c7a5/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/g/m/b/free-poshak-morpeach-rich-choice-unstitched-original-imah7svj3hytbn59.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/g/m/b/free-poshak-morpeach-rich-choice-unstitched-original-imah7svj3hytbn59.jpeg?q=100",
+        "local_path": "../../media/images/d94bb557845c7ee45fa1c7a5/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/o/f/d/free-nagma-k-5-fashion-unstitched-original-imagz7z9ya2mzwhw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/o/f/d/free-nagma-k-5-fashion-unstitched-original-imagz7z9ya2mzwhw.jpeg?q=100",
+        "local_path": "../../media/images/d94bb557845c7ee45fa1c7a5/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Dimensions",
+          "body": "Sari Length5.5mBlouse Piece Length0.8 mWeight0.45 kg"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Striped",
+        "Fabric": "Georgette, Chiffon",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {
+        "Brand": "K 5 FASHION",
+        "Style Code": "Not-Out",
+        "Pattern": "Striped",
+        "Pack of": "1",
+        "Secondary Color": "None",
+        "Occasion": "Wedding, Festive",
+        "Type of Embroidery": "Sequin Work",
+        "Decorative Material": "Shimmer, Tassel",
+        "Embroidery Method": "Machine",
+        "Fabric Care": "Do not Wring",
+        "Fabric": "Georgette, Chiffon",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari",
+        "Net Quantity": "1",
+        "Blouse Pattern": "Embroidered",
+        "Blouse Fabric": "Net",
+        "Border Details": "Solid",
+        "Border Length": "Thin/Small",
+        "Color": "Light Green",
+        "Brand Color": "bottle green",
+        "Handloom Product": "No",
+        "Ideal For": "Women",
+        "Print Type": "Sequin, Self Design",
+        "Sales Package": "saree, unstitched blouse piece",
+        "Sari Purity": "Blend",
+        "Trend": "Day Festive, Night Party, Net",
+        "Uniform": "Yes",
+        "Dimensions": "Sari Length5.5mBlouse Piece Length0.8 mWeight0.45 kg",
+        "Sari Length": "5.5m",
+        "Blouse Piece Length": "0.8 m",
+        "Weight": "0.45 kg"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "d94bb557845c7ee45fa1c7a5",
+      "path": "media/images/d94bb557845c7ee45fa1c7a5/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "key": "4fc62946f43866645142e1be",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:45:51.785Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/u/o/free-short-sleeve-malika-purvaja-original-imagh4h2wtqmpvgr.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/u/o/free-short-sleeve-malika-purvaja-original-imagh4h2wtqmpvgr.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/a/q/free-short-sleeve-malika-purvaja-original-imagh4h2xgphwmut.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/a/q/free-short-sleeve-malika-purvaja-original-imagh4h2xgphwmut.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/5/s/free-short-sleeve-malika-purvaja-original-imagh4h2qrdh6d89.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/5/s/free-short-sleeve-malika-purvaja-original-imagh4h2qrdh6d89.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/q/z/free-short-sleeve-malika-purvaja-original-imagh4h2cdrewnge.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/q/z/free-short-sleeve-malika-purvaja-original-imagh4h2cdrewnge.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/l/h/t/free-short-sleeve-malika-purvaja-original-imagh4h2cytrzhza.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/l/h/t/free-short-sleeve-malika-purvaja-original-imagh4h2cytrzhza.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

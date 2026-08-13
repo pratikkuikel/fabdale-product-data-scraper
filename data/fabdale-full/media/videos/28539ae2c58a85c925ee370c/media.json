@@ -1,0 +1,15 @@
+{
+  "key": "28539ae2c58a85c925ee370c",
+  "type": "videos",
+  "image_quality": null,
+  "download_media": true,
+  "created_at": "2026-08-12T11:16:32.874Z",
+  "items": [
+    {
+      "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNF-2gfAQIQU2DlqnUl1qB9Q/manifest.m3u8",
+      "local_path": null,
+      "downloaded": false,
+      "reason": "streaming_manifest"
+    }
+  ]
+}

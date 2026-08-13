@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-FABGZW9SR5AVGSAA",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "568"
+  ],
+  "source_path": "sources/pid-FABGZW9SR5AVGSAA/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T10:34:39.606Z",
+  "completed_at": "2026-08-12T10:34:45.916Z"
+}

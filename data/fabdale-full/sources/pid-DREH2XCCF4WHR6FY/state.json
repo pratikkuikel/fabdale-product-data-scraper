@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-DREH2XCCF4WHR6FY",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "387"
+  ],
+  "source_path": "sources/pid-DREH2XCCF4WHR6FY/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T08:41:00.786Z",
+  "completed_at": "2026-08-12T08:41:13.075Z"
+}

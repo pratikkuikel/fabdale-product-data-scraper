@@ -1,0 +1,204 @@
+{
+  "product_id": "5101",
+  "sku": null,
+  "product": {
+    "name": "Zeflora Tiered Puff-Sleeve Midi Dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/zwerlon-women-a-line-multicolor-midi-calf-length-dress/p/itm09926ea3235ff?pid=DREHC8JDJZM39DHS&lid=LSTDREHC8JDJZM39DHSPIDBQG&marketplace=FLIPKART&store=clo%2Fodx%2Fmaj%2Fjhy&srno=b_1_24&otracker=product_breadCrumbs_ZWERLON%20Women%27s%20Dresses&fm=organic&iid=68485fba-1bde-4d6f-a634-d2600d1b935a.DREHC8JDJZM39DHS.SEARCH&ppt=browse&ppn=browse&ssid=uwyep5swnk0000001761234189250"
+  },
+  "source_bundle": {
+    "key": "pid-DREHC8JDJZM39DHS",
+    "path": "../../sources/pid-DREHC8JDJZM39DHS/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zwerlon-women-a-line-multicolor-midi-calf-length-dress/p/itm09926ea3235ff?pid=DREHC8JDJZM39DHS&lid=LSTDREHC8JDJZM39DHSPIDBQG&marketplace=FLIPKART&store=clo%2Fodx%2Fmaj%2Fjhy&srno=b_1_24&otracker=product_breadCrumbs_ZWERLON%20Women%27s%20Dresses&fm=organic&iid=68485fba-1bde-4d6f-a634-d2600d1b935a.DREHC8JDJZM39DHS.SEARCH&ppt=browse&ppn=browse&ssid=uwyep5swnk0000001761234189250",
+    "scraped_at": "2026-08-12T08:33:21.669Z",
+    "final_url": "https://www.flipkart.com/zwerlon-women-a-line-multicolor-midi-calf-length-dress/p/itm09926ea3235ff?pid=DREHC8JDJZM39DHS&lid=LSTDREHC8JDJZM39DHSPIDBQG&marketplace=FLIPKART&store=clo%2Fodx%2Fmaj%2Fjhy&srno=b_1_24&otracker=product_breadCrumbs_ZWERLON%20Women%27s%20Dresses&fm=organic&iid=68485fba-1bde-4d6f-a634-d2600d1b935a.DREHC8JDJZM39DHS.SEARCH&ppt=browse&ppn=browse&ssid=uwyep5swnk0000001761234189250"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:33:29.518Z"
+  },
+  "content": {
+    "title": "ZWERLON Women A-line Multicolor Midi/Calf Length Dress",
+    "short_description": "Color: Multicolor\nPattern: Floral Print\nType: A-line\nLength: Midi/Calf Length\nSleeve Length: Half Sleeve",
+    "description": "Model Name\nDress For Women | Floral Printed | Tiered Midi Dress | Puff Sleeves | Drawstring Waist",
+    "specifications": {
+      "Color": "Multicolor",
+      "Length": "Midi/Calf Length",
+      "Pattern": "Floral Print",
+      "Type": "A-line",
+      "Sleeve Length": "Half Sleeve"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "d753a2ae3d1c30cd1297bab3",
+      "path": "media/images/d753a2ae3d1c30cd1297bab3/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/u/e/e/l-d5-zwerlon-resized-original-imahg4htmsuhwbqq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/u/e/e/l-d5-zwerlon-resized-original-imahg4htmsuhwbqq.jpeg?q=100",
+        "local_path": "../../media/images/d753a2ae3d1c30cd1297bab3/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/a/f/l-d5-zwerlon-original-imahg4htq4axmfzf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/a/f/l-d5-zwerlon-original-imahg4htq4axmfzf.jpeg?q=100",
+        "local_path": "../../media/images/d753a2ae3d1c30cd1297bab3/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/z/4/l-d5-zwerlon-original-imahg4htntqtvzkt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/z/4/l-d5-zwerlon-original-imahg4htntqtvzkt.jpeg?q=100",
+        "local_path": "../../media/images/d753a2ae3d1c30cd1297bab3/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/3/b/l/l-d5-zwerlon-original-imahg4htfw7qk4yw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/3/b/l/l-d5-zwerlon-original-imahg4htfw7qk4yw.jpeg?q=100",
+        "local_path": "../../media/images/d753a2ae3d1c30cd1297bab3/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/s/k/a/l-d5-zwerlon-original-imahg4htgfhe9zv9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/s/k/a/l-d5-zwerlon-original-imahg4htgfhe9zv9.jpeg?q=100",
+        "local_path": "../../media/images/d753a2ae3d1c30cd1297bab3/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "ZWERLON Women A-line Multicolor Midi/Calf Length Dress",
+      "description": "ZWERLON Women A-line Multicolor Midi/Calf Length Dress - Buy ZWERLON Women A-line Multicolor Midi/Calf Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/u/e/e/l-d5-zwerlon-resized-original-imahg4htmsuhwbqq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/a/f/l-d5-zwerlon-original-imahg4htq4axmfzf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/z/4/l-d5-zwerlon-original-imahg4htntqtvzkt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/3/b/l/l-d5-zwerlon-original-imahg4htfw7qk4yw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/s/k/a/l-d5-zwerlon-original-imahg4htgfhe9zv9.jpeg?q=70"
+      ],
+      "sku": "DREHC8JDJZM39DHS",
+      "color": "Goldy-Green",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 130,
+        "ratingCount": 2486,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "ZWERLON",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 347,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-22",
+          "reviewBody": "I really loved it.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Nisha Khilwani",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-03",
+          "reviewBody": "Firstly packing was awesome.\nI ordered for myself and really superb quality.\nMaterial is soft and comfortable.\nColour combination is also vary nice.\nThanks Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "sushmita rathore",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-10",
+          "reviewBody": "Comfortable and beautiful dress\nFabric is also super soft and perfect for daily use",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Model Name",
+          "body": "Dress For Women | Floral Printed | Tiered Midi Dress | Puff Sleeves | Drawstring Waist"
+        }
+      ],
+      "product_highlights": {
+        "Color": "Multicolor",
+        "Length": "Midi/Calf Length",
+        "Pattern": "Floral Print",
+        "Type": "A-line",
+        "Sleeve Length": "Half Sleeve"
+      },
+      "specifications": {}
+    }
+  }
+}

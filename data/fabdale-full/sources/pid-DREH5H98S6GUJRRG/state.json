@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-DREH5H98S6GUJRRG",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "330"
+  ],
+  "source_path": "sources/pid-DREH5H98S6GUJRRG/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T08:34:28.077Z",
+  "completed_at": "2026-08-12T08:34:37.509Z"
+}

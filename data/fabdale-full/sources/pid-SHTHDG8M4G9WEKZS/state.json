@@ -1,0 +1,23 @@
+{
+  "source_key": "pid-SHTHDG8M4G9WEKZS",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1949",
+    "1951",
+    "1953",
+    "5257",
+    "6377",
+    "6378",
+    "6379",
+    "6380",
+    "6381"
+  ],
+  "source_path": "sources/pid-SHTHDG8M4G9WEKZS/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T07:56:09.409Z",
+  "completed_at": "2026-08-13T07:56:16.629Z"
+}

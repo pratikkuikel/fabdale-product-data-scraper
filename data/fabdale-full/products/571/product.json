@@ -1,0 +1,157 @@
+{
+  "product_id": "571",
+  "sku": "Fab-Drsmtl-KRSN-018CR",
+  "product": {
+    "name": "Kala Sutra Pure Cotton Floral Salwar Suit Material",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm09bf6c10bcc37?pid=FABGVRDJFZX8FFWB&lid=LSTFABGVRDJFZX8FFWBHSN0RE&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-FABGVRDJFZX8FFWB",
+    "path": "../../sources/pid-FABGVRDJFZX8FFWB/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm09bf6c10bcc37?pid=FABGVRDJFZX8FFWB&lid=LSTFABGVRDJFZX8FFWBHSN0RE&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:35:00.045Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm09bf6c10bcc37?pid=FABGVRDJFZX8FFWB&lid=LSTFABGVRDJFZX8FFWBHSN0RE&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:35:06.976Z"
+  },
+  "content": {
+    "title": "krishna boutique Unstitched Pure Cotton Salwar Suit Material Floral Print",
+    "short_description": "Fabric: Pure Cotton\nPattern: Floral Print\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupattta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Beautiful Rajshahi Print\nThanks to the charming printed Rajshahi pattern, this salwar suit material can effortlessly make you…\n\nUnstitched Material\nDesigned as an unstitched top and bottom set, this salwar suit material gives you complete control o…\n\nExcellent Fabric\nCrafted from high-quality pure cotton fabric, this salwar suit material offers breathable, skin-frie…\n\nVersatile Casual Wear\nCourtesy of its adaptability, this salwar suit material is an ideal option for casual wear. You can …",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupattta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Floral Print",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4b52ea820d856c5071fdef64",
+      "path": "media/images/4b52ea820d856c5071fdef64/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/r/8/h/yes-2-5-m-unstitched-2-2-m-grey-krishna-krishna-boutique-resized-original-imahdgfvgbsc7ucf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/r/8/h/yes-2-5-m-unstitched-2-2-m-grey-krishna-krishna-boutique-resized-original-imahdgfvgbsc7ucf.jpeg?q=100",
+        "local_path": "../../media/images/4b52ea820d856c5071fdef64/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b9cdd0956ac240099b5f64b6eced9abb.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b9cdd0956ac240099b5f64b6eced9abb.jpg?q=80",
+        "local_path": "../../media/images/4b52ea820d856c5071fdef64/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/x/u/h/yes-2-5-m-unstitched-2-m-2-5-m-mtmt-white-floral-soniiii-yy-225-original-imahjxf9uthruwp9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/x/u/h/yes-2-5-m-unstitched-2-m-2-5-m-mtmt-white-floral-soniiii-yy-225-original-imahjxf9uthruwp9.jpeg?q=100",
+        "local_path": "../../media/images/4b52ea820d856c5071fdef64/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/o/f/c/no-2-2-m-unstitched-na-kl-light-pink-winssutra-original-imahmknndjk6mr9k.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/o/f/c/no-2-2-m-unstitched-na-kl-light-pink-winssutra-original-imahmknndjk6mr9k.jpeg?q=100",
+        "local_path": "../../media/images/4b52ea820d856c5071fdef64/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/h/o/j/yes-2-5-m-unstitched-2-m-2-5-m-vch20206-soul-essence-original-imahzc9qqpbayk87.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/h/o/j/yes-2-5-m-unstitched-2-m-2-5-m-vch20206-soul-essence-original-imahzc9qqpbayk87.jpeg?q=100",
+        "local_path": "../../media/images/4b52ea820d856c5071fdef64/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/4/k/v/yes-2-5-m-unstitched-2-m-2-5-m-ferwe-vijaycreation-original-imah9ydfr7c2v7wh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/4/k/v/yes-2-5-m-unstitched-2-m-2-5-m-ferwe-vijaycreation-original-imah9ydfr7c2v7wh.jpeg?q=100",
+        "local_path": "../../media/images/4b52ea820d856c5071fdef64/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/j/k/s/yes-2-5-m-unstitched-2-m-2-5-m-patti-flowr-mir-reet-mahal-resized-original-imahj3dssvsyghwv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/j/k/s/yes-2-5-m-unstitched-2-m-2-5-m-patti-flowr-mir-reet-mahal-resized-original-imahj3dssvsyghwv.jpeg?q=100",
+        "local_path": "../../media/images/4b52ea820d856c5071fdef64/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/q/x/9/yes-2-5-m-unstitched-2-2-m-un-fl-dt-kjghvt-krishna-boutique-resized-original-imahdbauadgcmzzc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/q/x/9/yes-2-5-m-unstitched-2-2-m-un-fl-dt-kjghvt-krishna-boutique-resized-original-imahdbauadgcmzzc.jpeg?q=100",
+        "local_path": "../../media/images/4b52ea820d856c5071fdef64/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/y/g/w/yes-2-m-unstitched-2-m-2-5-m-flp8u-jensuits-resized-original-imag9bhvhmdxrtfa.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/y/g/w/yes-2-m-unstitched-2-m-2-5-m-flp8u-jensuits-resized-original-imag9bhvhmdxrtfa.jpeg?q=100",
+        "local_path": "../../media/images/4b52ea820d856c5071fdef64/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/z/x/l/yes-2-2-m-unstitched-2-2-m-red-white-pc141-stylish-designer-original-imahzcbwtfbegzez.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/z/x/l/yes-2-2-m-unstitched-2-2-m-red-white-pc141-stylish-designer-original-imahzcbwtfbegzez.jpeg?q=100",
+        "local_path": "../../media/images/4b52ea820d856c5071fdef64/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Beautiful Rajshahi Print",
+          "body": "Thanks to the charming printed Rajshahi pattern, this salwar suit material can effortlessly make you…"
+        },
+        {
+          "heading": "Unstitched Material",
+          "body": "Designed as an unstitched top and bottom set, this salwar suit material gives you complete control o…"
+        },
+        {
+          "heading": "Excellent Fabric",
+          "body": "Crafted from high-quality pure cotton fabric, this salwar suit material offers breathable, skin-frie…"
+        },
+        {
+          "heading": "Versatile Casual Wear",
+          "body": "Courtesy of its adaptability, this salwar suit material is an ideal option for casual wear. You can …"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupattta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Floral Print",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  }
+}

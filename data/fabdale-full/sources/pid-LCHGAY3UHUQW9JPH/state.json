@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-LCHGAY3UHUQW9JPH",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1879",
+    "5312"
+  ],
+  "source_path": "sources/pid-LCHGAY3UHUQW9JPH/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T07:46:49.081Z",
+  "completed_at": "2026-08-13T07:46:57.943Z"
+}

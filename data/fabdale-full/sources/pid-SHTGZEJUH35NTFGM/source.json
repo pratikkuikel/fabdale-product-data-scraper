@@ -1,0 +1,168 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-printed-casual-brown-shirt/p/itmb5ef17c2d7b09?pid=SHTGZEJUH35NTFGM&marketplace=FLIPKART&lid=LSTSHTGZEJUH35NTFGMT5THI8&swatchAttr=size&pageUID=1773312038603",
+    "scraped_at": "2026-08-13T08:05:55.162Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-printed-casual-brown-shirt/p/itmb5ef17c2d7b09?pid=SHTGZEJUH35NTFGM&marketplace=FLIPKART&lid=LSTSHTGZEJUH35NTFGMT5THI8&swatchAttr=size&pageUID=1773312038603"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T08:06:03.780Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Printed Casual Brown Shirt",
+    "short_description": "METRONAUT Men Printed Casual Brown Shirt - Buy METRONAUT Men Printed Casual Brown Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "METRONAUT Men Printed Casual Brown Shirt - Buy METRONAUT Men Printed Casual Brown Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/0/l/l-po2-hs-501-steelgrey-brown-voroxy-original-imagtz3xmhzkj2ch.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/0/l/l-po2-hs-501-steelgrey-brown-voroxy-original-imagtz3xmhzkj2ch.jpeg?q=100",
+        "local_path": "../../media/images/e40fd213a62095ff1aea53ca/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/s/6/p/s-spc-hs-501-brown-voroxy-original-imagtg7x6khhfhs5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/s/6/p/s-spc-hs-501-brown-voroxy-original-imagtg7x6khhfhs5.jpeg?q=100",
+        "local_path": "../../media/images/e40fd213a62095ff1aea53ca/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/v/l/xl-mhs-501-brown-metronaut-original-imahzhzztdw9gpuj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/v/l/xl-mhs-501-brown-metronaut-original-imahzhzztdw9gpuj.jpeg?q=100",
+        "local_path": "../../media/images/e40fd213a62095ff1aea53ca/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/f/g/l-mhs-501-brown-metronaut-original-imahbkbvudhgnkze.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/f/g/l-mhs-501-brown-metronaut-original-imahbkbvudhgnkze.jpeg?q=100",
+        "local_path": "../../media/images/e40fd213a62095ff1aea53ca/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Printed Casual Brown Shirt",
+      "description": "METRONAUT Men Printed Casual Brown Shirt - Buy METRONAUT Men Printed Casual Brown Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/0/l/l-po2-hs-501-steelgrey-brown-voroxy-original-imagtz3xmhzkj2ch.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/s/6/p/s-spc-hs-501-brown-voroxy-original-imagtg7x6khhfhs5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/n/v/l/xl-mhs-501-brown-metronaut-original-imahzhzztdw9gpuj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/f/g/l-mhs-501-brown-metronaut-original-imahbkbvudhgnkze.jpeg?q=70"
+      ],
+      "sku": "SHTGZEJUH35NTFGM",
+      "color": "Brown",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 477,
+        "ratingCount": 12175,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 257,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Ricky Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-27",
+          "reviewBody": "very good product very nice colour",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Apparao  Bangari",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-28",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Sameer  Khan ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-18",
+          "reviewBody": "Good product 👍🏻👍🏻👍🏻",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e40fd213a62095ff1aea53ca",
+      "path": "media/images/e40fd213a62095ff1aea53ca/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

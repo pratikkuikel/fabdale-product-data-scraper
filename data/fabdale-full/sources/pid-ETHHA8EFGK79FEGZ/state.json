@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-ETHHA8EFGK79FEGZ",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1438"
+  ],
+  "source_path": "sources/pid-ETHHA8EFGK79FEGZ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T15:30:18.285Z",
+  "completed_at": "2026-08-12T15:30:29.992Z"
+}

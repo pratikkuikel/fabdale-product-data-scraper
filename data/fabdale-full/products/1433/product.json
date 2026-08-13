@@ -1,0 +1,229 @@
+{
+  "product_id": "1433",
+  "sku": "Fab-Salwar-RYEX-006BR-XXL",
+  "product": {
+    "name": "Rivanta Embroidered Kurta Salwar Suit Set",
+    "parent_id": "5235",
+    "notes": "https://www.flipkart.com/royal-export-women-kurta-palazzo-dupatta-set/p/itmec6795f352d5c?pid=ETHHFPY7BGXYGGAZ&marketplace=FLIPKART&lid=LSTETHHFPY7BGXYGGAZ4G6ZDY&swatchAttr=size&pageUID=1772797360387"
+  },
+  "source_bundle": {
+    "key": "pid-ETHHFPY7BGXYGGAZ",
+    "path": "../../sources/pid-ETHHFPY7BGXYGGAZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-palazzo-dupatta-set/p/itmec6795f352d5c?pid=ETHHFPY7BGXYGGAZ&marketplace=FLIPKART&lid=LSTETHHFPY7BGXYGGAZ4G6ZDY&swatchAttr=size&pageUID=1772797360387",
+    "scraped_at": "2026-08-12T15:29:11.651Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-palazzo-dupatta-set/p/itmec6795f352d5c?pid=ETHHFPY7BGXYGGAZ&marketplace=FLIPKART&lid=LSTETHHFPY7BGXYGGAZ4G6ZDY&swatchAttr=size&pageUID=1772797360387"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:29:23.882Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Palazzo Dupatta Set",
+    "short_description": "Fabric: Chanderi\nPattern: Embroidered\nFabricChanderi: PatternEmbroidered",
+    "description": "Stylish Pattern\nThanks to its intricate embroidered pattern, this women's kurta, palazzos and dupatta set adds subtl…\n\nBeautiful Design\nCourtesy of its beautiful design, this set showcases a straight kurta with a V-neck, three-quarter b…\n\nLightweight Material\nMade from lightweight material, this set uses high quality material for this kurta and palazzos, and…\n\nVersatile Style\nOwing to its versatile style, this set is suitable for a wide range of occasions, including casual g…",
+    "specifications": {
+      "FabricChanderi": "PatternEmbroidered",
+      "Fabric": "Chanderi",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "01bf66acba05c5ce253a54f4",
+      "path": "media/images/01bf66acba05c5ce253a54f4/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "194eb0ec15adcc983434290c",
+      "path": "media/videos/194eb0ec15adcc983434290c/media.json",
+      "reused": true
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/n/i/-resized-original-imahebyxrmw3hpdg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/n/i/-resized-original-imahebyxrmw3hpdg.jpeg?q=100",
+        "local_path": "../../media/images/01bf66acba05c5ce253a54f4/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/y/3/-original-imahebyxysmkmkzr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/y/3/-original-imahebyxysmkmkzr.jpeg?q=100",
+        "local_path": "../../media/images/01bf66acba05c5ce253a54f4/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/v/x/-original-imahebyxzh6u7r9j.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/v/x/-original-imahebyxzh6u7r9j.jpeg?q=100",
+        "local_path": "../../media/images/01bf66acba05c5ce253a54f4/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/n/i/-original-imahebyxgbhjkmwa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/n/i/-original-imahebyxgbhjkmwa.jpeg?q=100",
+        "local_path": "../../media/images/01bf66acba05c5ce253a54f4/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/6/q/-original-imahebyxuzgpfeec.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/6/q/-original-imahebyxuzgpfeec.jpeg?q=100",
+        "local_path": "../../media/images/01bf66acba05c5ce253a54f4/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNsdKQRnjsReaYZDCWL1PeTA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNwxkYDj_tSGOXM-E4gkA_Sw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Palazzo Dupatta Set",
+      "description": "Royal Export Women Kurta Palazzo Dupatta Set - Buy Royal Export Women Kurta Palazzo Dupatta Set For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/n/i/-resized-original-imahebyxrmw3hpdg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/y/3/-original-imahebyxysmkmkzr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/v/x/-original-imahebyxzh6u7r9j.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/n/i/-original-imahebyxgbhjkmwa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/6/q/-original-imahebyxuzgpfeec.jpeg?q=70"
+      ],
+      "sku": "ETHHFPY7BGXYGGAZ",
+      "color": "Brown",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 2059,
+        "ratingCount": 25287,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 822,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Sangeeta  sahoo",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-16",
+          "reviewBody": "Just an amazing dress 😍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Roshni Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-15",
+          "reviewBody": "Wow wow wow omg. What a suit it is. So rich in color and feel. So lightweight. Must have girls",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Alashree Gurpude",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-08",
+          "reviewBody": "Best .... 🤩👍🏻\nAmazing quality of fabric and received as expected.. fabric is soft and looks classy.... I am Very satisfied with this Product ..",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Stylish Pattern",
+          "body": "Thanks to its intricate embroidered pattern, this women's kurta, palazzos and dupatta set adds subtl…"
+        },
+        {
+          "heading": "Beautiful Design",
+          "body": "Courtesy of its beautiful design, this set showcases a straight kurta with a V-neck, three-quarter b…"
+        },
+        {
+          "heading": "Lightweight Material",
+          "body": "Made from lightweight material, this set uses high quality material for this kurta and palazzos, and…"
+        },
+        {
+          "heading": "Versatile Style",
+          "body": "Owing to its versatile style, this set is suitable for a wide range of occasions, including casual g…"
+        }
+      ],
+      "product_highlights": {
+        "FabricChanderi": "PatternEmbroidered",
+        "Fabric": "Chanderi",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  }
+}

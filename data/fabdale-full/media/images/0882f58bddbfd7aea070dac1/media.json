@@ -1,0 +1,44 @@
+{
+  "key": "0882f58bddbfd7aea070dac1",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:28:27.686Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/v/b/free-fk-ys-p1-sravani-green-yashika-unstitched-resized-original-imah8k9gxhqgzzyc.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/v/b/free-fk-ys-p1-sravani-green-yashika-unstitched-resized-original-imah8k9gxhqgzzyc.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/8/i/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gerxezewy.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/8/i/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gerxezewy.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/u/1/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9g6dyymrxz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/u/1/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9g6dyymrxz.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/k/h/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gmwrf5arw.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/k/h/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gmwrf5arw.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/u/e/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gthux39zx.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/u/e/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gthux39zx.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

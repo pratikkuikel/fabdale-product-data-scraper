@@ -1,0 +1,155 @@
+{
+  "product_id": "1023",
+  "sku": "Fab-Salwar-PRSC-020OR-XXL",
+  "product": {
+    "name": "Pravya Pure Cotton Salwar Suit Set",
+    "parent_id": "5175",
+    "notes": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm08c8ab923c05b?pid=KTAHB29VKTJZD6HK&otracker=wishlist&lid=LSTKTAHB29VKTJZD6HKABF6SQ&fm=organic&iid=8dfd39e6-7487-49f1-b2b2-bed4542d81f6.KTAHB29VKTJZD6HK.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=nottyiawjk0000001760193387334"
+  },
+  "source_bundle": {
+    "key": "pid-KTAHB29VKTJZD6HK",
+    "path": "../../sources/pid-KTAHB29VKTJZD6HK/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm08c8ab923c05b?pid=KTAHB29VKTJZD6HK&otracker=wishlist&lid=LSTKTAHB29VKTJZD6HKABF6SQ&fm=organic&iid=8dfd39e6-7487-49f1-b2b2-bed4542d81f6.KTAHB29VKTJZD6HK.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=nottyiawjk0000001760193387334",
+    "scraped_at": "2026-08-12T11:23:12.174Z",
+    "final_url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm08c8ab923c05b?pid=KTAHB29VKTJZD6HK&otracker=wishlist&lid=LSTKTAHB29VKTJZD6HKABF6SQ&fm=organic&iid=8dfd39e6-7487-49f1-b2b2-bed4542d81f6.KTAHB29VKTJZD6HK.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=nottyiawjk0000001760193387334"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:23:24.224Z"
+  },
+  "content": {
+    "title": "PRISCA Floral Print Pure Cotton Straight Kurta for Women (Orange)",
+    "short_description": "Color: Orange\nFabric: Pure Cotton\nPattern: Floral Print\nType: Straight",
+    "description": null,
+    "specifications": {
+      "Pattern": "Floral Print",
+      "Type": "Straight",
+      "Fabric": "Pure Cotton",
+      "Color": "Orange"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "256eb6da1218c230b22cf861",
+      "path": "media/images/256eb6da1218c230b22cf861/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kurta/y/x/f/s-peach-boota-dori-prisca-original-imahb29veknbmb7k.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kurta/y/x/f/s-peach-boota-dori-prisca-original-imahb29veknbmb7k.jpeg?q=100",
+        "local_path": "../../media/images/256eb6da1218c230b22cf861/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kurta/m/4/t/s-peach-boota-dori-prisca-original-imahb29vatwrfzmb.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kurta/m/4/t/s-peach-boota-dori-prisca-original-imahb29vatwrfzmb.jpeg?q=100",
+        "local_path": "../../media/images/256eb6da1218c230b22cf861/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kurta/x/r/x/s-peach-boota-dori-prisca-original-imahb29vnx8f48kt.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kurta/x/r/x/s-peach-boota-dori-prisca-original-imahb29vnx8f48kt.jpeg?q=100",
+        "local_path": "../../media/images/256eb6da1218c230b22cf861/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kurta/g/w/g/s-peach-boota-dori-prisca-original-imahb29vv2xvzh3m.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kurta/g/w/g/s-peach-boota-dori-prisca-original-imahb29vv2xvzh3m.jpeg?q=100",
+        "local_path": "../../media/images/256eb6da1218c230b22cf861/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kurta/j/j/4/s-peach-boota-dori-prisca-original-imahb29vhnvqkcrf.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kurta/j/j/4/s-peach-boota-dori-prisca-original-imahb29vhnvqkcrf.jpeg?q=100",
+        "local_path": "../../media/images/256eb6da1218c230b22cf861/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=100",
+        "local_path": "../../media/images/256eb6da1218c230b22cf861/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/o/n/e/xxl-02-maroon-chhapainama-fashion-resized-original-imahg4wqgrbhw7mm.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/o/n/e/xxl-02-maroon-chhapainama-fashion-resized-original-imahg4wqgrbhw7mm.jpeg?q=100",
+        "local_path": "../../media/images/256eb6da1218c230b22cf861/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/y/j/y/l-49-nk-grin-wawlooks-original-imahzx8xhvdtnxzu.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/y/j/y/l-49-nk-grin-wawlooks-original-imahzx8xhvdtnxzu.jpeg?q=100",
+        "local_path": "../../media/images/256eb6da1218c230b22cf861/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/o/u/v/s-rama-green-v-neck-prisca-resized-original-imahgfghtvsgvz3d.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/o/u/v/s-rama-green-v-neck-prisca-resized-original-imahgfghtvsgvz3d.jpeg?q=100",
+        "local_path": "../../media/images/256eb6da1218c230b22cf861/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/s/i/k/m-102-black-kurta-ethenicverse-original-imahjhjvb3rqzg8a.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/s/i/k/m-102-black-kurta-ethenicverse-original-imahjhjvb3rqzg8a.jpeg?q=100",
+        "local_path": "../../media/images/256eb6da1218c230b22cf861/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/h/0/q/l-yellow-short-bell-m-shiv-homiefix-original-imahh55tzffthbg7.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/h/0/q/l-yellow-short-bell-m-shiv-homiefix-original-imahh55tzffthbg7.jpeg?q=100",
+        "local_path": "../../media/images/256eb6da1218c230b22cf861/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/a/y/q/xxl-02-maroon-chhapainama-fashion-resized-original-imahg4wqfn3fpmsc.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/a/y/q/xxl-02-maroon-chhapainama-fashion-resized-original-imahg4wqfn3fpmsc.jpeg?q=100",
+        "local_path": "../../media/images/256eb6da1218c230b22cf861/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/g/g/x/s-pink-zari-printed-sk-prisca-original-imahgfggkw5ywpcv.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kurta/g/g/x/s-pink-zari-printed-sk-prisca-original-imahgfggkw5ywpcv.jpeg?q=100",
+        "local_path": "../../media/images/256eb6da1218c230b22cf861/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Floral Print",
+        "Type": "Straight",
+        "Fabric": "Pure Cotton",
+        "Color": "Orange"
+      },
+      "specifications": {}
+    }
+  }
+}

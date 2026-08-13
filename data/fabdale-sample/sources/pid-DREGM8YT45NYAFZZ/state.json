@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-DREGM8YT45NYAFZZ",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "261"
+  ],
+  "source_path": "sources/pid-DREGM8YT45NYAFZZ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T07:22:39.522Z",
+  "completed_at": "2026-08-12T07:22:46.520Z"
+}

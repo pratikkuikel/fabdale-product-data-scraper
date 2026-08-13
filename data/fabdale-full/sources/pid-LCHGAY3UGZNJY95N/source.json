@@ -1,0 +1,249 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/purvaja-solid-embellished-semi-stitched-lehenga-choli/p/itm0ee15326b4edb?pid=LCHGAY3UGZNJY95N&lid=LSTLCHGAY3UGZNJY95NO9W5NH&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:46:32.844Z",
+    "final_url": "https://www.flipkart.com/purvaja-solid-embellished-semi-stitched-lehenga-choli/p/itm0ee15326b4edb?pid=LCHGAY3UGZNJY95N&lid=LSTLCHGAY3UGZNJY95NO9W5NH&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:46:48.057Z"
+  },
+  "content": {
+    "title": "PURVAJA Solid, Embellished Semi Stitched Lehenga Choli",
+    "short_description": "Color: Black\nPattern: Solid, Embellished\nType: Lehenga Choli\nLehenga Fabric: Cotton Blend\nCholi Fabric: Jacquard\nDupatta Fabric: Art Silk\nStitching Type: Semi Stitched\nSales Package: (1, Lehengha 1, Blouse 1, Dupatta)",
+    "description": "Dimensions\nBlouse Length1 mDupatta Length2 m - 2.5 m\n\nLehenga Choli Details\nLehenga FabricCotton BlendCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckSweetheart NeckSleeveShort SleeveEmbroideredNoWorkZari WorkLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternSolid, EmbellishedSales Package(1, Lehengha 1, Blouse 1, Dupatta)Blouse PatternSolidBlouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkZari WorkBust Size44 inchColorBlackBrand ColorBlackDupatta PatternSolidDupatta WorkZari WorkLehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSizeFreeTrendHeavy Kali Work",
+    "specifications": {
+      "Lehenga Fabric": "Cotton Blend",
+      "Choli Fabric": "Jacquard",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Art Silk",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Solid, Embellished",
+      "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+      "Color": "Black"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/y/g/n/free-short-sleeve-arambh-purvaja-original-imagay3uagf3n7rb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/y/g/n/free-short-sleeve-arambh-purvaja-original-imagay3uagf3n7rb.jpeg?q=100",
+        "local_path": "../../media/images/5e6253927f1895a38dc4e300/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/v/y/k/free-short-sleeve-arambh-purvaja-original-imagay3uh9dg722g.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/v/y/k/free-short-sleeve-arambh-purvaja-original-imagay3uh9dg722g.jpeg?q=100",
+        "local_path": "../../media/images/5e6253927f1895a38dc4e300/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/s/4/7/free-short-sleeve-arambh-purvaja-original-imagay3ukfejfz9e.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/s/4/7/free-short-sleeve-arambh-purvaja-original-imagay3ukfejfz9e.jpeg?q=100",
+        "local_path": "../../media/images/5e6253927f1895a38dc4e300/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/f/y/y/free-short-sleeve-arambh-purvaja-original-imagay3u6qycwwpe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/f/y/y/free-short-sleeve-arambh-purvaja-original-imagay3u6qycwwpe.jpeg?q=100",
+        "local_path": "../../media/images/5e6253927f1895a38dc4e300/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/z/x/y/free-short-sleeve-arambh-purvaja-original-imagay3uk9eynznj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/z/x/y/free-short-sleeve-arambh-purvaja-original-imagay3uk9eynznj.jpeg?q=100",
+        "local_path": "../../media/images/5e6253927f1895a38dc4e300/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNbJf1w3WGRpeRViMu2-XGgA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURVAJA Solid, Embellished Semi Stitched Lehenga Choli",
+      "description": "PURVAJA Solid, Embellished Semi Stitched Lehenga Choli - Buy PURVAJA Solid, Embellished Semi Stitched Lehenga Choli For Only Rs. 6999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/y/g/n/free-short-sleeve-arambh-purvaja-original-imagay3uagf3n7rb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/v/y/k/free-short-sleeve-arambh-purvaja-original-imagay3uh9dg722g.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/s/4/7/free-short-sleeve-arambh-purvaja-original-imagay3ukfejfz9e.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/f/y/y/free-short-sleeve-arambh-purvaja-original-imagay3u6qycwwpe.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kxkqavk0/lehenga-choli/z/x/y/free-short-sleeve-arambh-purvaja-original-imagay3uk9eynznj.jpeg?q=70"
+      ],
+      "sku": "LCHGAY3UGZNJY95N",
+      "color": "Black",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 641,
+        "ratingCount": 7780,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURVAJA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 664,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Gazala Jamal",
+            "@type": "Person"
+          },
+          "datePublished": "2022-03-12",
+          "reviewBody": "Awesome 😎👍👍👍👍👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "ganga Bharti",
+            "@type": "Person"
+          },
+          "datePublished": "2022-12-20",
+          "reviewBody": "I loved it😍,it was as beautiful  as shown in the picture, thanku flipkart, i dressed  .",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Kaushal  Chauhan",
+            "@type": "Person"
+          },
+          "datePublished": "2022-10-13",
+          "reviewBody": "Nice dress I m very very happy 😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Dimensions",
+          "body": "Blouse Length1 mDupatta Length2 m - 2.5 m"
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricCotton BlendCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckSweetheart NeckSleeveShort SleeveEmbroideredNoWorkZari WorkLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternSolid, EmbellishedSales Package(1, Lehengha 1, Blouse 1, Dupatta)Blouse PatternSolidBlouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkZari WorkBust Size44 inchColorBlackBrand ColorBlackDupatta PatternSolidDupatta WorkZari WorkLehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSizeFreeTrendHeavy Kali Work"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Cotton Blend",
+        "Choli Fabric": "Jacquard",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Solid, Embellished",
+        "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+        "Color": "Black"
+      },
+      "specifications": {
+        "Dimensions": "Blouse Length1 mDupatta Length2 m - 2.5 m",
+        "Blouse Length1 m": "Dupatta Length2 m - 2.5 m",
+        "Blouse Length": "1 m",
+        "Dupatta Length": "2 m - 2.5 m",
+        "Fabric Care": "Hand Wash",
+        "Brand": "PURVAJA",
+        "Ideal For": "Women",
+        "Occasion": "Wedding & Festive",
+        "Lehenga Fabric": "Cotton Blend",
+        "Choli Fabric": "Jacquard",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Neck": "Sweetheart Neck",
+        "Sleeve": "Short Sleeve",
+        "Embroidered": "No",
+        "Work": "Zari Work",
+        "Lining Type": "Santoon",
+        "Dupatta": "Yes",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Solid, Embellished",
+        "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+        "Blouse Pattern": "Solid",
+        "Blouse Stitch Type": "Unstitched Blouse",
+        "Blouse Type": "Designer",
+        "Blouse Work": "Zari Work",
+        "Bust Size": "44 inch",
+        "Color": "Black",
+        "Brand Color": "Black",
+        "Dupatta Pattern": "Solid",
+        "Dupatta Work": "Zari Work",
+        "Lehenga Closure": "Side Zipper",
+        "Lehenga Shape": "Circular/Flared",
+        "Size": "Free",
+        "Trend": "Heavy Kali Work"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "5e6253927f1895a38dc4e300",
+      "path": "media/images/5e6253927f1895a38dc4e300/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "24fa806488badc0067bf55fb",
+      "path": "media/videos/24fa806488badc0067bf55fb/media.json",
+      "reused": false
+    }
+  }
+}

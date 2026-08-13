@@ -1,0 +1,197 @@
+{
+  "product_id": "1882",
+  "sku": "Fab-Lehenga-PRVJ-011G",
+  "product": {
+    "name": "Purvika Red Motifs Pari Lehenga Choli",
+    "parent_id": "5314",
+    "notes": "https://www.flipkart.com/purvaja-printed-semi-stitched-lehenga-choli/p/itm1ab1011467d43?pid=LCHG5ZK75ZUPM5SG&lid=LSTLCHG5ZK75ZUPM5SGT3XAZE&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-LCHG5ZK75ZUPM5SG",
+    "path": "../../sources/pid-LCHG5ZK75ZUPM5SG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purvaja-printed-semi-stitched-lehenga-choli/p/itm1ab1011467d43?pid=LCHG5ZK75ZUPM5SG&lid=LSTLCHG5ZK75ZUPM5SGT3XAZE&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T07:47:30.090Z",
+    "final_url": "https://www.flipkart.com/purvaja-printed-semi-stitched-lehenga-choli/p/itm1ab1011467d43?pid=LCHG5ZK75ZUPM5SG&lid=LSTLCHG5ZK75ZUPM5SGT3XAZE&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:47:48.091Z"
+  },
+  "content": {
+    "title": "PURVAJA Printed Semi Stitched Lehenga Choli (Dark Green)",
+    "short_description": "Color: Dark Green\nPattern: Printed\nType: Lehenga Choli\nLehenga Fabric: Cotton Blend\nCholi Fabric: Jacquard\nDupatta Fabric: Art Silk\nStitching Type: Semi Stitched\nSales Package: (1, Lehengha 1, Blouse 1, Dupatta)",
+    "description": "Dimensions\nBlouse Length1 mDupatta Length2 m - 2.5 m\n\nLehenga Choli Details\nLehenga FabricCotton BlendCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckRound NeckSleeveHalf SleeveEmbroideredNoWorkZari WorkLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternPrintedSales Package(1, Lehengha 1, Blouse 1, Dupatta)Blouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkZari WorkBust Size44 inchColorDark GreenBrand ColorDark GreenDupatta PatternSolidDupatta WorkZari WorkLehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSizeFreeTrendHeavy Kali Work",
+    "specifications": {
+      "Lehenga Fabric": "Cotton Blend",
+      "Choli Fabric": "Jacquard",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Art Silk",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Printed",
+      "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+      "Color": "Dark Green"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "5e93fa00930a56c166d5390e",
+      "path": "media/images/5e93fa00930a56c166d5390e/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "7fb3bfc5c9e308e9e26624f8",
+      "path": "media/videos/7fb3bfc5c9e308e9e26624f8/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/ks0onm80/lehenga-choli/a/e/s/free-half-sleeve-lehenga-cholis-kalash-purvaja-original-imag5zk6wjfat3fw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/ks0onm80/lehenga-choli/a/e/s/free-half-sleeve-lehenga-cholis-kalash-purvaja-original-imag5zk6wjfat3fw.jpeg?q=100",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/ks0onm80/lehenga-choli/p/c/m/free-half-sleeve-lehenga-cholis-kalash-purvaja-original-imag5zk6rghyhyk5.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/ks0onm80/lehenga-choli/p/c/m/free-half-sleeve-lehenga-cholis-kalash-purvaja-original-imag5zk6rghyhyk5.jpeg?q=100",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/ks0onm80/lehenga-choli/x/8/c/free-half-sleeve-lehenga-cholis-kalash-purvaja-original-imag5zk6hbcnfdvq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/ks0onm80/lehenga-choli/x/8/c/free-half-sleeve-lehenga-cholis-kalash-purvaja-original-imag5zk6hbcnfdvq.jpeg?q=100",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/ks0onm80/lehenga-choli/m/w/p/free-half-sleeve-lehenga-cholis-kalash-purvaja-original-imag5zk6wwyfbave.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/ks0onm80/lehenga-choli/m/w/p/free-half-sleeve-lehenga-cholis-kalash-purvaja-original-imag5zk6wwyfbave.jpeg?q=100",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr-202112/blobio-imr-202112_c3a0169e637c40cc93f5e780de5fabd8.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr-202112/blobio-imr-202112_c3a0169e637c40cc93f5e780de5fabd8.jpg?q=80",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f06201f09c2543cc89605d64a157dec1.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f06201f09c2543cc89605d64a157dec1.jpg?q=80",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr-202109/blobio-imr-202109_7766b040498f478c808a4fc756e9f4b1.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr-202109/blobio-imr-202109_7766b040498f478c808a4fc756e9f4b1.jpg?q=80",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/j/o/v/free-full-sleeve-women-lehenga-choli-rani-03-e-mart-resized-original-imahyq6tr7vxyjuz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/j/o/v/free-full-sleeve-women-lehenga-choli-rani-03-e-mart-resized-original-imahyq6tr7vxyjuz.jpeg?q=100",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/n/o/f/free-short-sleeve-pr1-rendol-resized-original-imahhf8wywztbh6h.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/n/o/f/free-short-sleeve-pr1-rendol-resized-original-imahhf8wywztbh6h.jpeg?q=100",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/5/i/l/free-3-4-sleeve-women-s-wedding-special-floral-lehenga-choli-original-imahj4bccrga8pem.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/5/i/l/free-3-4-sleeve-women-s-wedding-special-floral-lehenga-choli-original-imahj4bccrga8pem.jpeg?q=100",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/k/a/k/free-half-sleeve-trisha-purvaja-original-imaghfdmkczyfdtr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/k/a/k/free-half-sleeve-trisha-purvaja-original-imaghfdmkczyfdtr.jpeg?q=100",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/s/q/h/free-3-4-sleeve-shc-blk-1216-yellow-shringarhouse-resized-original-imahgmtf3fvgtq3k.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/s/q/h/free-3-4-sleeve-shc-blk-1216-yellow-shringarhouse-resized-original-imahgmtf3fvgtq3k.jpeg?q=100",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/3/h/8/free-3-4-sleeve-l-007-sneha-fashion-resized-original-imah3d3uyyfkkxzu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/3/h/8/free-3-4-sleeve-l-007-sneha-fashion-resized-original-imah3d3uyyfkkxzu.jpeg?q=100",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/o/w/o/free-half-sleeve-pochampalli-pattu-fabcartz-original-imahdjcgmqpbfawu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/o/w/o/free-half-sleeve-pochampalli-pattu-fabcartz-original-imahdjcgmqpbfawu.jpeg?q=100",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/b/a/q/free-na-ariya-z1-rk-infinitive-original-imahyupdrmwxdwj3.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/b/a/q/free-na-ariya-z1-rk-infinitive-original-imahyupdrmwxdwj3.jpeg?q=100",
+        "local_path": "../../media/images/5e93fa00930a56c166d5390e/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNxxAGClf2RXmMah1ovKrx3A/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Dimensions",
+          "body": "Blouse Length1 mDupatta Length2 m - 2.5 m"
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricCotton BlendCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckRound NeckSleeveHalf SleeveEmbroideredNoWorkZari WorkLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternPrintedSales Package(1, Lehengha 1, Blouse 1, Dupatta)Blouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkZari WorkBust Size44 inchColorDark GreenBrand ColorDark GreenDupatta PatternSolidDupatta WorkZari WorkLehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSizeFreeTrendHeavy Kali Work"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Cotton Blend",
+        "Choli Fabric": "Jacquard",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Printed",
+        "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+        "Color": "Dark Green"
+      },
+      "specifications": {}
+    }
+  }
+}

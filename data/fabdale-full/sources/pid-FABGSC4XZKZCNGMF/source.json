@@ -1,0 +1,185 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/tavas-chanderi-embroidered-salwar-suit-material/p/itm546832f349fb2?pid=FABGSC4XZKZCNGMF&lid=LSTFABGSC4XZKZCNGMFYOEENR&marketplace=FLIPKART&q=Tavas&sattr[]=color&st=color&otracker=search",
+    "scraped_at": "2026-08-12T10:39:55.980Z",
+    "final_url": "https://www.flipkart.com/tavas-chanderi-embroidered-salwar-suit-material/p/itm546832f349fb2?pid=FABGSC4XZKZCNGMF&lid=LSTFABGSC4XZKZCNGMFYOEENR&marketplace=FLIPKART&q=Tavas&sattr[]=color&st=color&otracker=search"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:40:03.945Z"
+  },
+  "content": {
+    "title": "Tavas Chanderi Embroidered Salwar Suit Material",
+    "short_description": "Fabric: Chanderi\nPattern: Embroidered\nType: Salwar Suit Material\nSales Package: 1 Top, 1 Bottom, 1 Dupatta\nBottom Length: 3 m\nTop Length: 2 m\nStitching Type: Unstitched",
+    "description": "Elegant Chanderi Fabric\nCrafted from a blend of high-quality materials, this fabric exudes elegance and sophistication. The …\n\nBeautiful Embroidered Pattern\nAdorned with intricate embroidered details, this fabric is a perfect choice for special occasions. T…\n\nUnstitched Salwar Suit Material\nDesigned in an unstitched style, this set allows you to customize the fit and style according to you…\n\nPatch Work Ornamentation\nEnhanced with exquisite patch work, this fabric showcases traditional craftsmanship and attention to…\n\nIdeal for Parties and Festive Occasions\nWhether it's a party or a festive celebration, this fabric is the perfect choice to make a style sta…",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 Top, 1 Bottom, 1 Dupatta",
+      "Bottom Length": "3 m",
+      "Top Length": "2 m",
+      "Fabric": "Chanderi",
+      "Pattern": "Embroidered",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/q/n/g/yes-2-m-unstitched-2-m-2-5-m-tvs-17-05-bron-fs-tavas-original-imahcnbngfukkbfa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/q/n/g/yes-2-m-unstitched-2-m-2-5-m-tvs-17-05-bron-fs-tavas-original-imahcnbngfukkbfa.jpeg?q=100",
+        "local_path": "../../media/images/92ba195675b7b26c890ff562/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/k/2/a/yes-2-m-unstitched-2-m-2-5-m-tvs-17-05-bron-fs-tavas-original-imahapc6hystcptk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/k/2/a/yes-2-m-unstitched-2-m-2-5-m-tvs-17-05-bron-fs-tavas-original-imahapc6hystcptk.jpeg?q=100",
+        "local_path": "../../media/images/92ba195675b7b26c890ff562/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/r/v/q/yes-2-m-unstitched-2-m-2-5-m-tvs-17-05-bron-fs-tavas-original-imahapc6umry4fz5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/r/v/q/yes-2-m-unstitched-2-m-2-5-m-tvs-17-05-bron-fs-tavas-original-imahapc6umry4fz5.jpeg?q=100",
+        "local_path": "../../media/images/92ba195675b7b26c890ff562/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Tavas Chanderi Embroidered Salwar Suit Material",
+      "description": "Buy Tavas Chanderi Embroidered Salwar Suit Material for Rs.5999.0 online. Tavas Chanderi Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/q/n/g/yes-2-m-unstitched-2-m-2-5-m-tvs-17-05-bron-fs-tavas-original-imahcnbngfukkbfa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/k/2/a/yes-2-m-unstitched-2-m-2-5-m-tvs-17-05-bron-fs-tavas-original-imahapc6hystcptk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/r/v/q/yes-2-m-unstitched-2-m-2-5-m-tvs-17-05-bron-fs-tavas-original-imahapc6umry4fz5.jpeg?q=70"
+      ],
+      "sku": "FABGSC4XZKZCNGMF",
+      "color": "Brown",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 12,
+        "ratingCount": 169,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tavas",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 728,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Soumya Mahesh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-02",
+          "reviewBody": "Product I like it",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Anjali Negi",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-28",
+          "reviewBody": "Ok ok",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Kalaivani Vijayaragavan",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-05",
+          "reviewBody": "Excellent quality. Value for money",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant Chanderi Fabric",
+          "body": "Crafted from a blend of high-quality materials, this fabric exudes elegance and sophistication. The …"
+        },
+        {
+          "heading": "Beautiful Embroidered Pattern",
+          "body": "Adorned with intricate embroidered details, this fabric is a perfect choice for special occasions. T…"
+        },
+        {
+          "heading": "Unstitched Salwar Suit Material",
+          "body": "Designed in an unstitched style, this set allows you to customize the fit and style according to you…"
+        },
+        {
+          "heading": "Patch Work Ornamentation",
+          "body": "Enhanced with exquisite patch work, this fabric showcases traditional craftsmanship and attention to…"
+        },
+        {
+          "heading": "Ideal for Parties and Festive Occasions",
+          "body": "Whether it's a party or a festive celebration, this fabric is the perfect choice to make a style sta…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 Top, 1 Bottom, 1 Dupatta",
+        "Bottom Length": "3 m",
+        "Top Length": "2 m",
+        "Fabric": "Chanderi",
+        "Pattern": "Embroidered",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "92ba195675b7b26c890ff562",
+      "path": "media/images/92ba195675b7b26c890ff562/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

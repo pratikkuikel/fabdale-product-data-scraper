@@ -1,0 +1,44 @@
+{
+  "key": "9dea47300634d396d3b10666",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:23:59.936Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/x/y/g/free-half-sleeve-semi-stitched-44-green-tulip-lehenga-shopsy-original-imahf3t2pdrzzmay.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/x/y/g/free-half-sleeve-semi-stitched-44-green-tulip-lehenga-shopsy-original-imahf3t2pdrzzmay.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/i/c/n/free-half-sleeve-semi-stitched-44-green-tulip-lehenga-shopsy-original-imahf3t2eyjsaesu.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/i/c/n/free-half-sleeve-semi-stitched-44-green-tulip-lehenga-shopsy-original-imahf3t2eyjsaesu.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/j/5/o/free-half-sleeve-semi-stitched-44-green-tulip-lehenga-shopsy-original-imahf3t2mjupguz7.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/j/5/o/free-half-sleeve-semi-stitched-44-green-tulip-lehenga-shopsy-original-imahf3t2mjupguz7.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/f/g/z/free-half-sleeve-semi-stitched-44-green-tulip-lehenga-shopsy-original-imahf3t2b3rykywm.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/f/g/z/free-half-sleeve-semi-stitched-44-green-tulip-lehenga-shopsy-original-imahf3t2b3rykywm.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/o/j/s/free-half-sleeve-semi-stitched-44-green-tulip-lehenga-shopsy-original-imahf3t2ney2nsdp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/o/j/s/free-half-sleeve-semi-stitched-44-green-tulip-lehenga-shopsy-original-imahf3t2ney2nsdp.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

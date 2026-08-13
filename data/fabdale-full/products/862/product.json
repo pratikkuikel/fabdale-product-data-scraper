@@ -1,0 +1,184 @@
+{
+  "product_id": "862",
+  "sku": "Fab-Salwar-PLDI-018MR-XL",
+  "product": {
+    "name": "Pilessa Viscose Rayon Salwar Suit Set",
+    "parent_id": "5148",
+    "notes": "https://www.flipkart.com/piludi-women-kurta-set/p/itmff5e5b986da67?pid=ETHGR84ZTBFGVEHZ&lid=LSTETHGR84ZTBFGVEHZJ5MYLZ&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-ETHGR84ZTBFGVEHZ",
+    "path": "../../sources/pid-ETHGR84ZTBFGVEHZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/piludi-women-kurta-set/p/itmff5e5b986da67?pid=ETHGR84ZTBFGVEHZ&lid=LSTETHGR84ZTBFGVEHZJ5MYLZ&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T11:04:31.168Z",
+    "final_url": "https://www.flipkart.com/piludi-women-kurta-set/p/itmff5e5b986da67?pid=ETHGR84ZTBFGVEHZ&lid=LSTETHGR84ZTBFGVEHZJ5MYLZ&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:04:44.815Z"
+  },
+  "content": {
+    "title": "PILUDI Women Viscose Rayon Kurta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Embroidered\nType: Kurta and Pant Set",
+    "description": "In the BoxItems Included1\nGeneralBrandPILUDIFabricViscose RayonTypeKurta and Pant SetStyle Code SW.Rajmoti.Pink2Top typeKurtaPatternEmbroideredColor PinkBrand ColorPinkIdeal ForWomenSizeXL RegularSleeve Length3/4 Sleeve",
+    "specifications": {
+      "Fabric": "Viscose Rayon",
+      "Type": "Kurta and Pant Set",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "93029c492212699c1404a854",
+      "path": "media/images/93029c492212699c1404a854/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "b5bffe4778be13d6c94edb97",
+      "path": "media/videos/b5bffe4778be13d6c94edb97/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/b/b/e/l-sw-rajmoti-pink2-piludi-original-imagr84esyhbvwzc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/b/b/e/l-sw-rajmoti-pink2-piludi-original-imagr84esyhbvwzc.jpeg?q=100",
+        "local_path": "../../media/images/93029c492212699c1404a854/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/e/z/f/l-sw-rajmoti-pink2-piludi-original-imagr84ezzvhd7qe.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/e/z/f/l-sw-rajmoti-pink2-piludi-original-imagr84ezzvhd7qe.jpeg?q=100",
+        "local_path": "../../media/images/93029c492212699c1404a854/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/o/u/w/l-sw-rajmoti-pink2-piludi-original-imagr84exeahfzzf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/o/u/w/l-sw-rajmoti-pink2-piludi-original-imagr84exeahfzzf.jpeg?q=100",
+        "local_path": "../../media/images/93029c492212699c1404a854/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/p/8/w/l-sw-rajmoti-pink2-piludi-original-imagr84eeh8wxtf5.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/p/8/w/l-sw-rajmoti-pink2-piludi-original-imagr84eeh8wxtf5.jpeg?q=100",
+        "local_path": "../../media/images/93029c492212699c1404a854/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_ce79209336284c59ac35ddcd5cdc41a7.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_ce79209336284c59ac35ddcd5cdc41a7.jpg?q=80",
+        "local_path": "../../media/images/93029c492212699c1404a854/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/o/5/l-women-kurta-pant-set-abcreation-original-imahmkytk6h7hnk7.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/o/5/l-women-kurta-pant-set-abcreation-original-imahmkytk6h7hnk7.jpeg?q=100",
+        "local_path": "../../media/images/93029c492212699c1404a854/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/i/c/b/l-gb-aa-01-g-bluxe-resized-original-imah2n3aw9qdfmhb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/i/c/b/l-gb-aa-01-g-bluxe-resized-original-imah2n3aw9qdfmhb.jpeg?q=100",
+        "local_path": "../../media/images/93029c492212699c1404a854/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/y/n/xl-001-naazish-trends-original-imahprttbnzb2fzy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/y/n/xl-001-naazish-trends-original-imahprttbnzb2fzy.jpeg?q=100",
+        "local_path": "../../media/images/93029c492212699c1404a854/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/g/x/xxl-solid-nayra-stylefy-resized-original-imahgxz3aqs3zueg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/g/x/xxl-solid-nayra-stylefy-resized-original-imahgxz3aqs3zueg.jpeg?q=100",
+        "local_path": "../../media/images/93029c492212699c1404a854/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/i/o/xl-dare-red-gsk-gosriki-original-imahje9zzchjs6fs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/i/o/xl-dare-red-gsk-gosriki-original-imahje9zzchjs6fs.jpeg?q=100",
+        "local_path": "../../media/images/93029c492212699c1404a854/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/z/r/v/xxl-tie-dye-001-fabunna-cotton-resized-original-imahgbgawqeadk8q.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/z/r/v/xxl-tie-dye-001-fabunna-cotton-resized-original-imahgbgawqeadk8q.jpeg?q=100",
+        "local_path": "../../media/images/93029c492212699c1404a854/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/1/f/t/m-kurta-pant-tyedye-purple-flymen-s-resized-original-imahgq8dwv36vkge.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/1/f/t/m-kurta-pant-tyedye-purple-flymen-s-resized-original-imahgq8dwv36vkge.jpeg?q=100",
+        "local_path": "../../media/images/93029c492212699c1404a854/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/b/v/7/m-sw-raajo-piludi-original-imahphagu3vzazxq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/b/v/7/m-sw-raajo-piludi-original-imahphagu3vzazxq.jpeg?q=100",
+        "local_path": "../../media/images/93029c492212699c1404a854/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/labs/AS/CNQ0c-_mWHQiK_tejXzV867Q/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "In the BoxItems Included1",
+          "body": "GeneralBrandPILUDIFabricViscose RayonTypeKurta and Pant SetStyle Code SW.Rajmoti.Pink2Top typeKurtaPatternEmbroideredColor PinkBrand ColorPinkIdeal ForWomenSizeXL RegularSleeve Length3/4 Sleeve"
+        }
+      ],
+      "product_highlights": {
+        "Fabric": "Viscose Rayon",
+        "Type": "Kurta and Pant Set",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {
+        "In the BoxItems Included1": "GeneralBrandPILUDIFabricViscose RayonTypeKurta and Pant SetStyle Code SW.Rajmoti.Pink2Top typeKurtaPatternEmbroideredColor PinkBrand ColorPinkIdeal ForWomenSizeXL RegularSleeve Length3/4 Sleeve",
+        "In the Box": "Items Included1",
+        "Items Included": "1",
+        "Brand": "PILUDI",
+        "Fabric": "Viscose Rayon",
+        "Type": "Kurta and Pant Set",
+        "Style Code": "SW.Rajmoti.Pink2",
+        "Top type": "Kurta",
+        "Pattern": "Embroidered",
+        "Color": "Pink",
+        "Brand Color": "Pink",
+        "Ideal For": "Women",
+        "Size": "XL Regular",
+        "Sleeve Length": "3/4 Sleeve"
+      }
+    }
+  }
+}

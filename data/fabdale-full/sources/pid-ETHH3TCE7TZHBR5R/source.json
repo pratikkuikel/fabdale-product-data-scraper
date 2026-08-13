@@ -1,0 +1,201 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-palazzo-dupatta-set/p/itm4aa851abd7c46?pid=ETHH3TCE7TZHBR5R&marketplace=FLIPKART&lid=LSTETHH3TCE7TZHBR5RY3SCSL&swatchAttr=size&pageUID=1772866549284",
+    "scraped_at": "2026-08-12T16:24:24.724Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-palazzo-dupatta-set/p/itm4aa851abd7c46?pid=ETHH3TCE7TZHBR5R&marketplace=FLIPKART&lid=LSTETHH3TCE7TZHBR5RY3SCSL&swatchAttr=size&pageUID=1772866549284"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T16:24:59.093Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Palazzo Dupatta Set",
+    "short_description": "Fabric: Chanderi\nPattern: Embroidered\nFabricChanderi: PatternEmbroidered",
+    "description": "Heavy Embroidered Pattern\nBoasting a heavy embroidered pattern, this women’s kurta, pants and dupatta set presents a refined a…\n\nStylish Design\nFeaturing a stylish design, this set contains a straight kurta designed with a V-neckline, three-qua…\n\nResilient Material\nMade from resilient material, this set offers both comfort and longevity. The kurta and pants are ma…\n\nVersatile Style\nOffering a versatile appeal, this set can be worn for various gatherings and celebrations. Whether y…",
+    "specifications": {
+      "FabricChanderi": "PatternEmbroidered",
+      "Fabric": "Chanderi",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/r/k/s-rx99-nryncheryskd-royal-export-original-imahb9ykpyyrs2qs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/r/k/s-rx99-nryncheryskd-royal-export-original-imahb9ykpyyrs2qs.jpeg?q=100",
+        "local_path": "../../media/images/fb4d984cc0ff3887b6290523/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/v/q/xxl-rx99-nryncheryskd-royal-export-original-imahbv86hazspbsx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/v/q/xxl-rx99-nryncheryskd-royal-export-original-imahbv86hazspbsx.jpeg?q=100",
+        "local_path": "../../media/images/fb4d984cc0ff3887b6290523/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/e/d/xxl-rx99-nryncheryskd-royal-export-original-imahbv864wkkhdqp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/e/d/xxl-rx99-nryncheryskd-royal-export-original-imahbv864wkkhdqp.jpeg?q=100",
+        "local_path": "../../media/images/fb4d984cc0ff3887b6290523/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/p/s/xxl-rx99-nryncheryskd-royal-export-original-imahbv86jq2qg2x2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/p/s/xxl-rx99-nryncheryskd-royal-export-original-imahbv86jq2qg2x2.jpeg?q=100",
+        "local_path": "../../media/images/fb4d984cc0ff3887b6290523/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/4/r/a/xxl-rx99-nryncheryskd-royal-export-original-imahbv86qtqfeath.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/4/r/a/xxl-rx99-nryncheryskd-royal-export-original-imahbv86qtqfeath.jpeg?q=100",
+        "local_path": "../../media/images/fb4d984cc0ff3887b6290523/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Palazzo Dupatta Set",
+      "description": "Royal Export Women Kurta Palazzo Dupatta Set - Buy Royal Export Women Kurta Palazzo Dupatta Set For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/r/k/s-rx99-nryncheryskd-royal-export-original-imahb9ykpyyrs2qs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/v/q/xxl-rx99-nryncheryskd-royal-export-original-imahbv86hazspbsx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/e/d/xxl-rx99-nryncheryskd-royal-export-original-imahbv864wkkhdqp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/p/s/xxl-rx99-nryncheryskd-royal-export-original-imahbv86jq2qg2x2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/4/r/a/xxl-rx99-nryncheryskd-royal-export-original-imahbv86qtqfeath.jpeg?q=70"
+      ],
+      "sku": "ETHH3TCE7TZHBR5R",
+      "color": "Purple",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 101,
+        "ratingCount": 1095,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 956,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Priyam",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-27",
+          "reviewBody": "The fabric is good quality, the fit is perfect, and the design is beautiful. It is comfortable yet stylish, making it a addition to my wardrobe.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Satish  Bhai",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-30",
+          "reviewBody": "Best fabric nice colour super collection 💗🥰😍😘",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Ankit Ishvarlal",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-24",
+          "reviewBody": "Color is very pretty😍 nice collection",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Heavy Embroidered Pattern",
+          "body": "Boasting a heavy embroidered pattern, this women’s kurta, pants and dupatta set presents a refined a…"
+        },
+        {
+          "heading": "Stylish Design",
+          "body": "Featuring a stylish design, this set contains a straight kurta designed with a V-neckline, three-qua…"
+        },
+        {
+          "heading": "Resilient Material",
+          "body": "Made from resilient material, this set offers both comfort and longevity. The kurta and pants are ma…"
+        },
+        {
+          "heading": "Versatile Style",
+          "body": "Offering a versatile appeal, this set can be worn for various gatherings and celebrations. Whether y…"
+        }
+      ],
+      "product_highlights": {
+        "FabricChanderi": "PatternEmbroidered",
+        "Fabric": "Chanderi",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "fb4d984cc0ff3887b6290523",
+      "path": "media/images/fb4d984cc0ff3887b6290523/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

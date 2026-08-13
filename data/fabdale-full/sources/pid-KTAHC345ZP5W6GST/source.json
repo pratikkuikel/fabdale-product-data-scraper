@@ -1,0 +1,144 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm82dba0776b289?pid=KTAHC345ZP5W6GST&marketplace=FLIPKART&lid=LSTKTAHC345ZP5W6GST2E1VD0&swatchAttr=size&pageUID=1772646910485",
+    "scraped_at": "2026-08-12T11:34:17.593Z",
+    "final_url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm82dba0776b289?pid=KTAHC345ZP5W6GST&marketplace=FLIPKART&lid=LSTKTAHC345ZP5W6GST2E1VD0&swatchAttr=size&pageUID=1772646910485"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:34:29.489Z"
+  },
+  "content": {
+    "title": "PRISCA Floral Print Pure Cotton Straight Kurta for Women (Black)",
+    "short_description": "Color: Black\nFabric: Pure Cotton\nPattern: Floral Print\nType: Straight",
+    "description": null,
+    "specifications": {
+      "Pattern": "Floral Print",
+      "Type": "Straight",
+      "Fabric": "Pure Cotton",
+      "Color": "Black"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/s/n/h/s-sk-100-black-zari-v-neck-prisca-original-imahgfgptjv3dqas.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/s/n/h/s-sk-100-black-zari-v-neck-prisca-original-imahgfgptjv3dqas.jpeg?q=100",
+        "local_path": "../../media/images/888aa2b2605549aec06fa3d1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/w/b/j/s-sk-100-black-zari-v-neck-prisca-original-imahgfgpxuc7rczs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/w/b/j/s-sk-100-black-zari-v-neck-prisca-original-imahgfgpxuc7rczs.jpeg?q=100",
+        "local_path": "../../media/images/888aa2b2605549aec06fa3d1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/u/w/w/s-sk-100-black-zari-v-neck-prisca-original-imahgfgpubwzuecg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/u/w/w/s-sk-100-black-zari-v-neck-prisca-original-imahgfgpubwzuecg.jpeg?q=100",
+        "local_path": "../../media/images/888aa2b2605549aec06fa3d1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/3/c/c/s-sk-100-black-zari-v-neck-prisca-original-imahgfgppz2rkdpb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/3/c/c/s-sk-100-black-zari-v-neck-prisca-original-imahgfgppz2rkdpb.jpeg?q=100",
+        "local_path": "../../media/images/888aa2b2605549aec06fa3d1/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/z/x/m/s-sk-100-black-zari-v-neck-prisca-original-imahgfgpkqfmgvz2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/z/x/m/s-sk-100-black-zari-v-neck-prisca-original-imahgfgpkqfmgvz2.jpeg?q=100",
+        "local_path": "../../media/images/888aa2b2605549aec06fa3d1/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/y/e/y/m-shopsy-black-zari-kkoutfits-original-imahheyfzhky9j7w.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/y/e/y/m-shopsy-black-zari-kkoutfits-original-imahheyfzhky9j7w.jpeg?q=100",
+        "local_path": "../../media/images/888aa2b2605549aec06fa3d1/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/c/f/s-kkfts-peech-thread-kkoutfits-resized-original-imahhvvrrazhhgyf.jpeg?q=100",
+        "local_path": "../../media/images/888aa2b2605549aec06fa3d1/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/8/0/j/4xl-59-nk-yellow-wawlooks-original-imahzx8xqt7c2en6.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/8/0/j/4xl-59-nk-yellow-wawlooks-original-imahzx8xqt7c2en6.jpeg?q=100",
+        "local_path": "../../media/images/888aa2b2605549aec06fa3d1/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/u/v/s-rama-green-v-neck-prisca-resized-original-imahgfghtvsgvz3d.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/u/v/s-rama-green-v-neck-prisca-resized-original-imahgfghtvsgvz3d.jpeg?q=100",
+        "local_path": "../../media/images/888aa2b2605549aec06fa3d1/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/o/0/0/xl-kkfts-blue-stripes-kurta-kkoutfits-original-imahjrpezwyhbh65.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/o/0/0/xl-kkfts-blue-stripes-kurta-kkoutfits-original-imahjrpezwyhbh65.jpeg?q=100",
+        "local_path": "../../media/images/888aa2b2605549aec06fa3d1/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/s/i/k/m-102-black-kurta-ethenicverse-original-imahjhjvb3rqzg8a.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/s/i/k/m-102-black-kurta-ethenicverse-original-imahjhjvb3rqzg8a.jpeg?q=100",
+        "local_path": "../../media/images/888aa2b2605549aec06fa3d1/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/h/z/r/3xl-long-kurtas-piroki-original-imahftwpchz6csge.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/h/z/r/3xl-long-kurtas-piroki-original-imahftwpchz6csge.jpeg?q=100",
+        "local_path": "../../media/images/888aa2b2605549aec06fa3d1/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/k/n/b/-resized-original-imahesxuuxbftktf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/k/n/b/-resized-original-imahesxuuxbftktf.jpeg?q=100",
+        "local_path": "../../media/images/888aa2b2605549aec06fa3d1/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Floral Print",
+        "Type": "Straight",
+        "Fabric": "Pure Cotton",
+        "Color": "Black"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "888aa2b2605549aec06fa3d1",
+      "path": "media/images/888aa2b2605549aec06fa3d1/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

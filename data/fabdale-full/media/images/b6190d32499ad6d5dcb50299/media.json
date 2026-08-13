@@ -1,0 +1,44 @@
+{
+  "key": "b6190d32499ad6d5dcb50299",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T11:08:04.720Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/y/j/i/xxl-sw-violet-blue-03-piludi-resized-original-imahbpv8cqfux2vn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/y/j/i/xxl-sw-violet-blue-03-piludi-resized-original-imahbpv8cqfux2vn.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/q/k/4xl-sw-violet-blue-piludi-original-imah3jc5tx4jwqkm.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/q/k/4xl-sw-violet-blue-piludi-original-imah3jc5tx4jwqkm.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/v/n/n/xxl-sw-violet-blue-03-piludi-original-imahbpv8s4eyxxng.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/v/n/n/xxl-sw-violet-blue-03-piludi-original-imahbpv8s4eyxxng.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/b/f/0/xxl-sw-violet-blue-03-piludi-original-imahbpv8sqrzrca9.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/b/f/0/xxl-sw-violet-blue-03-piludi-original-imahbpv8sqrzrca9.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/d/p/4xl-sw-violet-blue-piludi-original-imah3jc5hsk668uu.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/d/p/4xl-sw-violet-blue-piludi-original-imah3jc5hsk668uu.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

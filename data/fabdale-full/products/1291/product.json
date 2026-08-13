@@ -1,0 +1,187 @@
+{
+  "product_id": "1291",
+  "sku": "Fab-Salwar-DVST-016BL-L",
+  "product": {
+    "name": "Divashree Viscose Rayon  Salwar Suit Set",
+    "parent_id": "5224",
+    "notes": "https://www.flipkart.com/divastri-women-ethnic-top-pant-attached-dupatta-set/p/itm96b6d2801984a?pid=ETHH2TQ4KKJZQ5GV&lid=LSTETHH2TQ4KKJZQ5GVOXMM35&marketplace=FLIPKART&sattr%5B%5D=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH2TQ4KKJZQ5GV",
+    "path": "../../sources/pid-ETHH2TQ4KKJZQ5GV/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-ethnic-top-pant-attached-dupatta-set/p/itm96b6d2801984a?pid=ETHH2TQ4KKJZQ5GV&lid=LSTETHH2TQ4KKJZQ5GVOXMM35&marketplace=FLIPKART&sattr%5B%5D=color&st=color",
+    "scraped_at": "2026-08-12T12:23:52.744Z",
+    "final_url": "https://www.flipkart.com/divastri-women-ethnic-top-pant-attached-dupatta-set/p/itm96b6d2801984a?pid=ETHH2TQ4KKJZQ5GV&lid=LSTETHH2TQ4KKJZQ5GVOXMM35&marketplace=FLIPKART&sattr%5B%5D=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T12:24:25.702Z"
+  },
+  "content": {
+    "title": "Divastri Women Ethnic Top Pant Attached Dupatta Set",
+    "short_description": "Divastri Women Ethnic Top Pant Attached Dupatta Set - Buy Divastri Women Ethnic Top Pant Attached Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Divastri Women Ethnic Top Pant Attached Dupatta Set - Buy Divastri Women Ethnic Top Pant Attached Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "412ab46d633796a86436004f",
+      "path": "media/images/412ab46d633796a86436004f/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/p/z/xs-dup-1031-divastri-resized-original-imah7m34k2agkzwg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/p/z/xs-dup-1031-divastri-resized-original-imah7m34k2agkzwg.jpeg?q=100",
+        "local_path": "../../media/images/412ab46d633796a86436004f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/4/e/xs-dup-1031-divastri-original-imah7m34sj3jrbjh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/4/e/xs-dup-1031-divastri-original-imah7m34sj3jrbjh.jpeg?q=100",
+        "local_path": "../../media/images/412ab46d633796a86436004f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/i/9/xs-dup-1031-divastri-original-imah7m34e8gdpypt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/i/9/xs-dup-1031-divastri-original-imah7m34e8gdpypt.jpeg?q=100",
+        "local_path": "../../media/images/412ab46d633796a86436004f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/8/s/e/l-women-blue-ethnic-set-vidhani-original-imah5tzyqkpgcez4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/8/s/e/l-women-blue-ethnic-set-vidhani-original-imah5tzyqkpgcez4.jpeg?q=100",
+        "local_path": "../../media/images/412ab46d633796a86436004f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/t/k/xs-dup-1031-divastri-original-imah7m34eqfhcv2c.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/t/k/xs-dup-1031-divastri-original-imah7m34eqfhcv2c.jpeg?q=100",
+        "local_path": "../../media/images/412ab46d633796a86436004f/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Ethnic Top Pant Attached Dupatta Set",
+      "description": "Divastri Women Ethnic Top Pant Attached Dupatta Set - Buy Divastri Women Ethnic Top Pant Attached Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/p/z/xs-dup-1031-divastri-resized-original-imah7m34k2agkzwg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/4/e/xs-dup-1031-divastri-original-imah7m34sj3jrbjh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/i/9/xs-dup-1031-divastri-original-imah7m34e8gdpypt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/8/s/e/l-women-blue-ethnic-set-vidhani-original-imah5tzyqkpgcez4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/t/k/xs-dup-1031-divastri-original-imah7m34eqfhcv2c.jpeg?q=70"
+      ],
+      "sku": "ETHH2TQ4KKJZQ5GV",
+      "color": "Teal",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 15,
+        "ratingCount": 284,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 667,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Kishor  Veenaa ginigeragirl",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-16",
+          "reviewBody": "Superb.....loth is very soft, I love this product my brother giving the rakhi gift",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "SANJIV PRASAD YADAV",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-19",
+          "reviewBody": "Superb quality of fabric attract me towards its.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-12-24",
+          "reviewBody": "Very very good product looks amazing",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

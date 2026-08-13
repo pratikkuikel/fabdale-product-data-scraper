@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-ETHH84XS9GPWQRH3",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "774",
+    "775",
+    "776",
+    "777",
+    "778",
+    "5139"
+  ],
+  "source_path": "sources/pid-ETHH84XS9GPWQRH3/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T10:56:30.858Z",
+  "completed_at": "2026-08-12T10:56:38.894Z"
+}

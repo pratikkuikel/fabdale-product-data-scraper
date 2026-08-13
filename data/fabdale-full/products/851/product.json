@@ -1,0 +1,146 @@
+{
+  "product_id": "851",
+  "sku": "Fab-Salwar-PLDI-016BR-L",
+  "product": {
+    "name": "Pilessa Chanderi Salwar Suit Set",
+    "parent_id": "5146",
+    "notes": "https://www.flipkart.com/piludi-women-kurti-palazzo-attached-dupatta-set/p/itmdc1302188ce6d?pid=ETHH7X5BSAYEPCK4&lid=LSTETHH7X5BSAYEPCK4NYVCFV&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH7X5BSAYEPCK4",
+    "path": "../../sources/pid-ETHH7X5BSAYEPCK4/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/piludi-women-kurti-palazzo-attached-dupatta-set/p/itmdc1302188ce6d?pid=ETHH7X5BSAYEPCK4&lid=LSTETHH7X5BSAYEPCK4NYVCFV&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T11:03:56.611Z",
+    "final_url": "https://www.flipkart.com/piludi-women-kurti-palazzo-attached-dupatta-set/p/itmdc1302188ce6d?pid=ETHH7X5BSAYEPCK4&lid=LSTETHH7X5BSAYEPCK4NYVCFV&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:04:06.471Z"
+  },
+  "content": {
+    "title": "PILUDI Women Chanderi Kurti Palazzo Attached Dupatta Set",
+    "short_description": "Fabric: Chanderi\nPattern: Embroidered\nFabricChanderi: PatternEmbroidered",
+    "description": null,
+    "specifications": {
+      "FabricChanderi": "PatternEmbroidered",
+      "Fabric": "Chanderi",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "5b5775d3169ed6a3fef36aba",
+      "path": "media/images/5b5775d3169ed6a3fef36aba/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/s/h/d/l-sw-krishna-piludi-resized-original-imah7x5augvyaxxd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/s/h/d/l-sw-krishna-piludi-resized-original-imah7x5augvyaxxd.jpeg?q=100",
+        "local_path": "../../media/images/5b5775d3169ed6a3fef36aba/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cse-genai/AS/CN4YXG8k3pTWe-2VVaMN4sqw/manifest.jpg?q=20",
+        "download_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cse-genai/AS/CN4YXG8k3pTWe-2VVaMN4sqw/manifest.jpg?q=20",
+        "local_path": "../../media/images/5b5775d3169ed6a3fef36aba/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/q/k/f/xxl-sw-krishna-piludi-original-imahbyecvyhhjq2e.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/q/k/f/xxl-sw-krishna-piludi-original-imahbyecvyhhjq2e.jpeg?q=100",
+        "local_path": "../../media/images/5b5775d3169ed6a3fef36aba/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/z/l/k/xxl-sw-krishna-piludi-original-imahbyecrrkkwvxn.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/z/l/k/xxl-sw-krishna-piludi-original-imahbyecrrkkwvxn.jpeg?q=100",
+        "local_path": "../../media/images/5b5775d3169ed6a3fef36aba/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/z/q/a/s-avni-oniyuri-original-imahaq2gpuh5ksvs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/z/q/a/s-avni-oniyuri-original-imahaq2gpuh5ksvs.jpeg?q=100",
+        "local_path": "../../media/images/5b5775d3169ed6a3fef36aba/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/s/b/f/l-sw-pihu-piludi-house-original-imahgb89uwqkkyfe.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/s/b/f/l-sw-pihu-piludi-house-original-imahgb89uwqkkyfe.jpeg?q=100",
+        "local_path": "../../media/images/5b5775d3169ed6a3fef36aba/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/j/s/g/m-tz-043-yellow-the-zarina-original-imahpq83zvhgzpug.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/j/s/g/m-tz-043-yellow-the-zarina-original-imahpq83zvhgzpug.jpeg?q=100",
+        "local_path": "../../media/images/5b5775d3169ed6a3fef36aba/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/i/d/u/xxl-sw-chameli-piludi-house-original-imahjm2r6fbdjcgy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/i/d/u/xxl-sw-chameli-piludi-house-original-imahjm2r6fbdjcgy.jpeg?q=100",
+        "local_path": "../../media/images/5b5775d3169ed6a3fef36aba/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/5/n/x/s-sw-noor-black-s-piludi-original-imahm4482h6gqvyf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/5/n/x/s-sw-noor-black-s-piludi-original-imahm4482h6gqvyf.jpeg?q=100",
+        "local_path": "../../media/images/5b5775d3169ed6a3fef36aba/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/2/n/a/xxl-sw-janki-pink-piludi-resized-original-imahm469dhm9fd3k.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/2/n/a/xxl-sw-janki-pink-piludi-resized-original-imahm469dhm9fd3k.jpeg?q=100",
+        "local_path": "../../media/images/5b5775d3169ed6a3fef36aba/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/y/f/n/xxl-sw-malaika-piludi-resized-original-imahm4484ggy8qxn.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/y/f/n/xxl-sw-malaika-piludi-resized-original-imahm4484ggy8qxn.jpeg?q=100",
+        "local_path": "../../media/images/5b5775d3169ed6a3fef36aba/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/w/c/w/xl-sw-aasms-piludi-original-imahd2jknqe3xw54.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/w/c/w/xl-sw-aasms-piludi-original-imahd2jknqe3xw54.jpeg?q=100",
+        "local_path": "../../media/images/5b5775d3169ed6a3fef36aba/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "FabricChanderi": "PatternEmbroidered",
+        "Fabric": "Chanderi",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  }
+}

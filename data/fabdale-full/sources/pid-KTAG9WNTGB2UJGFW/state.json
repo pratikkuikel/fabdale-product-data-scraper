@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KTAG9WNTGB2UJGFW",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "648"
+  ],
+  "source_path": "sources/pid-KTAG9WNTGB2UJGFW/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T10:44:31.518Z",
+  "completed_at": "2026-08-12T10:44:38.306Z"
+}

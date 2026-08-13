@@ -1,0 +1,212 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-set/p/itme019bbdc8155e?pid=ETHH3TCDH5CHKUJD&marketplace=FLIPKART&lid=LSTETHH3TCDH5CHKUJDW9CTMC&swatchAttr=size&pageUID=1772869362389",
+    "scraped_at": "2026-08-13T07:19:22.315Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-set/p/itme019bbdc8155e?pid=ETHH3TCDH5CHKUJD&marketplace=FLIPKART&lid=LSTETHH3TCDH5CHKUJDW9CTMC&swatchAttr=size&pageUID=1772869362389"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:19:32.511Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Set",
+    "short_description": "Fabric: Cotton Blend\nPattern: Embroidered\nFabricCotton Blend: PatternEmbroidered",
+    "description": "Diverse Patterns\nThanks to its floral embroidered pattern, this women's kurta and pants set combines elegance with a …\n\nStylish Look\nOffering V-neck and three-quarter sleeves, this set contains a straight kurta that is crafted to pro…\n\nHigh-quality Fabric\nMade from high-quality fabric, this set ensures durability and comfort. The fabric has been selected…\n\nEnhanced Versatility\nThanks to its versatile design, this set is ideal for various occasions, including casual gatherings…",
+    "specifications": {
+      "FabricCotton Blend": "PatternEmbroidered",
+      "Fabric": "Cotton Blend",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/k/9/s-rx72new-blackctn-kp-royal-export-resized-original-imah82t3k9hpfmaf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/k/9/s-rx72new-blackctn-kp-royal-export-resized-original-imah82t3k9hpfmaf.jpeg?q=100",
+        "local_path": "../../media/images/c1247b7ab356fcc5b07ef378/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/g/q/xl-rx72new-blackctn-kp-royal-export-original-imah47twzhnxwybz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/g/q/xl-rx72new-blackctn-kp-royal-export-original-imah47twzhnxwybz.jpeg?q=100",
+        "local_path": "../../media/images/c1247b7ab356fcc5b07ef378/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/7/l/9/l-rx72new-blackctn-kp-royal-export-original-imah82t4bktbzygc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/7/l/9/l-rx72new-blackctn-kp-royal-export-original-imah82t4bktbzygc.jpeg?q=100",
+        "local_path": "../../media/images/c1247b7ab356fcc5b07ef378/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/n/b/l-rx72new-blackctn-kp-royal-export-original-imah82t49cgvzmt4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/n/b/l-rx72new-blackctn-kp-royal-export-original-imah82t49cgvzmt4.jpeg?q=100",
+        "local_path": "../../media/images/c1247b7ab356fcc5b07ef378/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/m/3/l-rx72new-blackctn-kp-royal-export-original-imah82t44eztbfag.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/m/3/l-rx72new-blackctn-kp-royal-export-original-imah82t44eztbfag.jpeg?q=100",
+        "local_path": "../../media/images/c1247b7ab356fcc5b07ef378/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNNp6Vka_ERm6S7yf4EntLAw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Set",
+      "description": "Royal Export Women Kurta Pant Set - Buy Royal Export Women Kurta Pant Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/k/9/s-rx72new-blackctn-kp-royal-export-resized-original-imah82t3k9hpfmaf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/g/q/xl-rx72new-blackctn-kp-royal-export-original-imah47twzhnxwybz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/7/l/9/l-rx72new-blackctn-kp-royal-export-original-imah82t4bktbzygc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/n/b/l-rx72new-blackctn-kp-royal-export-original-imah82t49cgvzmt4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/m/3/l-rx72new-blackctn-kp-royal-export-original-imah82t44eztbfag.jpeg?q=70"
+      ],
+      "sku": "ETHH3TCDH5CHKUJD",
+      "color": "Black",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 273,
+        "ratingCount": 4009,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 549,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Raunak  Chaddha ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-12",
+          "reviewBody": "It's cotton kurta set .. embroidered flowers, pant is plain ... Perfect Fitting. I ordered Small size and it's perfect fit. Calf sleeves.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Satish  Bhai",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-30",
+          "reviewBody": "Black is my favorite colour suit fabric is nice👍 ❤😍💯",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Ankita Mallick",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-28",
+          "reviewBody": "Lovely kurta set at this price.... Fabric quality nd mostly design just wow.... Embroidery stitching was prominent....",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Diverse Patterns",
+          "body": "Thanks to its floral embroidered pattern, this women's kurta and pants set combines elegance with a …"
+        },
+        {
+          "heading": "Stylish Look",
+          "body": "Offering V-neck and three-quarter sleeves, this set contains a straight kurta that is crafted to pro…"
+        },
+        {
+          "heading": "High-quality Fabric",
+          "body": "Made from high-quality fabric, this set ensures durability and comfort. The fabric has been selected…"
+        },
+        {
+          "heading": "Enhanced Versatility",
+          "body": "Thanks to its versatile design, this set is ideal for various occasions, including casual gatherings…"
+        }
+      ],
+      "product_highlights": {
+        "FabricCotton Blend": "PatternEmbroidered",
+        "Fabric": "Cotton Blend",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c1247b7ab356fcc5b07ef378",
+      "path": "media/images/c1247b7ab356fcc5b07ef378/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "0fe20e1f45ec7617555b90f6",
+      "path": "media/videos/0fe20e1f45ec7617555b90f6/media.json",
+      "reused": false
+    }
+  }
+}

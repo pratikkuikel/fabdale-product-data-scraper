@@ -1,0 +1,191 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/sheetal-associates-women-a-line-multicolor-midi-calf-length-dress/p/itmed8dcdec9fac0?pid=DREH2XCCXHH274QE&marketplace=FLIPKART&lid=LSTDREH2XCCXHH274QEIZ3YDR&swatchAttr=size&pageUID=1778749134922",
+    "scraped_at": "2026-08-12T08:41:27.309Z",
+    "final_url": "https://www.flipkart.com/sheetal-associates-women-a-line-multicolor-midi-calf-length-dress/p/itmed8dcdec9fac0?pid=DREH2XCCXHH274QE&marketplace=FLIPKART&lid=LSTDREH2XCCXHH274QEIZ3YDR&swatchAttr=size&pageUID=1778749134922"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:41:42.814Z"
+  },
+  "content": {
+    "title": "Sheetal Associates Women A-line Multicolor Midi/Calf Length Dress",
+    "short_description": "Color: Multicolor\nPattern: Printed\nType: A-line\nSleeve: Roll-up Sleeve\nLength: Midi/Calf Length\nSleeve Length: 3/4 Sleeve",
+    "description": "Sheetal Associates Women A-line Multicolor Midi/Calf Length Dress - Buy Sheetal Associates Women A-line Multicolor Midi/Calf Length Dress For Only Rs. 1349.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Color": "Multicolor",
+      "Length": "Midi/Calf Length",
+      "Pattern": "Printed",
+      "Type": "A-line",
+      "Sleeve Length": "3/4 Sleeve",
+      "Sleeve": "Roll-up Sleeve"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/r/s/l/m-dr11275-honky-tonky-original-imahhgp6vufdmewn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/r/s/l/m-dr11275-honky-tonky-original-imahhgp6vufdmewn.jpeg?q=100",
+        "local_path": "../../media/images/293d3aaf62ffc969ab89b1ef/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/g/q/e/m-dr11275-honky-tonky-original-imahhgp6ebcnwzzr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/g/q/e/m-dr11275-honky-tonky-original-imahhgp6ebcnwzzr.jpeg?q=100",
+        "local_path": "../../media/images/293d3aaf62ffc969ab89b1ef/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/c/l/j/m-dr11275-honky-tonky-original-imahhgp6n8yaatqr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/c/l/j/m-dr11275-honky-tonky-original-imahhgp6n8yaatqr.jpeg?q=100",
+        "local_path": "../../media/images/293d3aaf62ffc969ab89b1ef/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNqYkFrE8XQIKtTn1svz_vaw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNEdPf_G_PR5yUiUiFofYY-A/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Sheetal Associates Women A-line Multicolor Midi/Calf Length Dress",
+      "description": "Sheetal Associates Women A-line Multicolor Midi/Calf Length Dress - Buy Sheetal Associates Women A-line Multicolor Midi/Calf Length Dress For Only Rs. 1349.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/r/s/l/m-dr11275-honky-tonky-original-imahhgp6vufdmewn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/g/q/e/m-dr11275-honky-tonky-original-imahhgp6ebcnwzzr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/c/l/j/m-dr11275-honky-tonky-original-imahhgp6n8yaatqr.jpeg?q=70"
+      ],
+      "sku": "DREH2XCCXHH274QE",
+      "color": "Multicolor",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 1158,
+        "ratingCount": 19896,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Sheetal Associates",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 293,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Priti Gaonkar",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-20",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Shruti Chaurasiya",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-05",
+          "reviewBody": "I can say this dress is one of the beautiful dress in my wardrobe",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-27",
+          "reviewBody": "Good one...lovely looks of it's colours",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Color": "Multicolor",
+        "Length": "Midi/Calf Length",
+        "Pattern": "Printed",
+        "Type": "A-line",
+        "Sleeve Length": "3/4 Sleeve",
+        "Sleeve": "Roll-up Sleeve"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "293d3aaf62ffc969ab89b1ef",
+      "path": "media/images/293d3aaf62ffc969ab89b1ef/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "fb8267f9aac04394de06f77f",
+      "path": "media/videos/fb8267f9aac04394de06f77f/media.json",
+      "reused": false
+    }
+  }
+}

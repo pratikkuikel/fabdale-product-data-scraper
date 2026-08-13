@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-palazzo-dupatta-set/p/itm7b61572c98dd8?pid=ETHHFPUVGKC9A9TR&marketplace=FLIPKART&lid=LSTETHHFPUVGKC9A9TROYSLYL&swatchAttr=size&pageUID=1772797655123",
+    "scraped_at": "2026-08-12T15:31:23.220Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-palazzo-dupatta-set/p/itm7b61572c98dd8?pid=ETHHFPUVGKC9A9TR&marketplace=FLIPKART&lid=LSTETHHFPUVGKC9A9TROYSLYL&swatchAttr=size&pageUID=1772797655123"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:31:35.004Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Palazzo Dupatta Set",
+    "short_description": "Royal Export Women Kurta Palazzo Dupatta Set - Buy Royal Export Women Kurta Palazzo Dupatta Set For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Royal Export Women Kurta Palazzo Dupatta Set - Buy Royal Export Women Kurta Palazzo Dupatta Set For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/c/r/3xl-rx60-pine-green-kpd-royal-export-resized-original-imah7qgbvugp3w2x.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/c/r/3xl-rx60-pine-green-kpd-royal-export-resized-original-imah7qgbvugp3w2x.jpeg?q=100",
+        "local_path": "../../media/images/ed4960f398f9695624a346e6/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/j/7/l-rx60-pine-green-kpd-royal-export-original-imah7nbnrh2nhkmx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/j/7/l-rx60-pine-green-kpd-royal-export-original-imah7nbnrh2nhkmx.jpeg?q=100",
+        "local_path": "../../media/images/ed4960f398f9695624a346e6/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/c/q/3xl-rx60-pine-green-kpd-royal-export-original-imah7qgbzdw5rmfg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/c/q/3xl-rx60-pine-green-kpd-royal-export-original-imah7qgbzdw5rmfg.jpeg?q=100",
+        "local_path": "../../media/images/ed4960f398f9695624a346e6/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/s/q/3xl-rx60-pine-green-kpd-royal-export-original-imah7qgbh58bkn6s.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/s/q/3xl-rx60-pine-green-kpd-royal-export-original-imah7qgbh58bkn6s.jpeg?q=100",
+        "local_path": "../../media/images/ed4960f398f9695624a346e6/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/h/o/3xl-rx60-pine-green-kpd-royal-export-original-imah7qgbzpynddtx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/h/o/3xl-rx60-pine-green-kpd-royal-export-original-imah7qgbzpynddtx.jpeg?q=100",
+        "local_path": "../../media/images/ed4960f398f9695624a346e6/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Palazzo Dupatta Set",
+      "description": "Royal Export Women Kurta Palazzo Dupatta Set - Buy Royal Export Women Kurta Palazzo Dupatta Set For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/c/r/3xl-rx60-pine-green-kpd-royal-export-resized-original-imah7qgbvugp3w2x.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/j/7/l-rx60-pine-green-kpd-royal-export-original-imah7nbnrh2nhkmx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/c/q/3xl-rx60-pine-green-kpd-royal-export-original-imah7qgbzdw5rmfg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/s/q/3xl-rx60-pine-green-kpd-royal-export-original-imah7qgbh58bkn6s.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/h/o/3xl-rx60-pine-green-kpd-royal-export-original-imah7qgbzpynddtx.jpeg?q=70"
+      ],
+      "sku": "ETHHFPUVGKC9A9TR",
+      "color": "Pine Green",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 2059,
+        "ratingCount": 25287,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 831,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Sangeeta  sahoo",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-16",
+          "reviewBody": "Just an amazing dress 😍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Roshni Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-15",
+          "reviewBody": "Wow wow wow omg. What a suit it is. So rich in color and feel. So lightweight. Must have girls",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Alashree Gurpude",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-08",
+          "reviewBody": "Best .... 🤩👍🏻\nAmazing quality of fabric and received as expected.. fabric is soft and looks classy.... I am Very satisfied with this Product ..",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ed4960f398f9695624a346e6",
+      "path": "media/images/ed4960f398f9695624a346e6/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

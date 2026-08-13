@@ -1,0 +1,235 @@
+{
+  "product_id": "454",
+  "sku": "Fab-Saree-AVTK-006PK",
+  "product": {
+    "name": "Avnika Georgette Art Silk Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/avantika-fashion-printed-embellished-solid-plain-bollywood-georgette-art-silk-saree/p/itmbd520db85c17b?pid=SARGT4QV9TE2VM9Z&lid=LSTSARGT4QV9TE2VM9ZYBE6RV&marketplace=FLIPKART&sattr[]=color&st=color&otracker=pp_reco_Similar%252BProducts_16_AVANTIKA%252BFASHION%252BPrinted%25252C%252BEmbellished%25252C%252BSolid%25252FPlain%252BBollywood%252BGeorgette%25252C%252BArt%252BSilk%252BSaree_SARGT4QV9TE2VM9Z_productRecommendation%252Fsimilar_15"
+  },
+  "source_bundle": {
+    "key": "pid-SARGT4QV9TE2VM9Z",
+    "path": "../../sources/pid-SARGT4QV9TE2VM9Z/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/avantika-fashion-printed-embellished-solid-plain-bollywood-georgette-art-silk-saree/p/itmbd520db85c17b?pid=SARGT4QV9TE2VM9Z&lid=LSTSARGT4QV9TE2VM9ZYBE6RV&marketplace=FLIPKART&sattr[]=color&st=color&otracker=pp_reco_Similar%252BProducts_16_AVANTIKA%252BFASHION%252BPrinted%25252C%252BEmbellished%25252C%252BSolid%25252FPlain%252BBollywood%252BGeorgette%25252C%252BArt%252BSilk%252BSaree_SARGT4QV9TE2VM9Z_productRecommendation%252Fsimilar_15",
+    "scraped_at": "2026-08-12T08:50:55.666Z",
+    "final_url": "https://www.flipkart.com/avantika-fashion-printed-embellished-solid-plain-bollywood-georgette-art-silk-saree/p/itmbd520db85c17b?pid=SARGT4QV9TE2VM9Z&lid=LSTSARGT4QV9TE2VM9ZYBE6RV&marketplace=FLIPKART&sattr[]=color&st=color&otracker=pp_reco_Similar%252BProducts_16_AVANTIKA%252BFASHION%252BPrinted%25252C%252BEmbellished%25252C%252BSolid%25252FPlain%252BBollywood%252BGeorgette%25252C%252BArt%252BSilk%252BSaree_SARGT4QV9TE2VM9Z_productRecommendation%252Fsimilar_15"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:51:14.263Z"
+  },
+  "content": {
+    "title": "AVANTIKA FASHION Printed, Embellished, Solid/Plain Bollywood Georgette, Art Silk Saree",
+    "short_description": "Fabric: Georgette, Art Silk\nPattern: Printed, Embellished, Solid/Plain\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Versatile Unstitched Blouse\nWith the inclusion of an unstitched blouse piece, this saree offers you the freedom to customise you…\n\nComfortable Georgette Fabric\nCrafted from high-quality georgette and art silk fabric, this saree offers a comfortable and luxurio…\n\nPerfect for Various Occasions\nThis saree is suitable for a wide range of occasions, making it a versatile addition to your wardrob…",
+    "specifications": {
+      "Pattern": "Printed, Embellished, Solid/Plain",
+      "Fabric": "Georgette, Art Silk",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "56b39ef80e12c42169f0a152",
+      "path": "media/images/56b39ef80e12c42169f0a152/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "3a862af6703271f7ffe77681",
+      "path": "media/videos/3a862af6703271f7ffe77681/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/7/f/f/free-bollywood-unity-hub-unstitched-resized-original-imahepqqfmcj9eyz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/7/f/f/free-bollywood-unity-hub-unstitched-resized-original-imahepqqfmcj9eyz.jpeg?q=100",
+        "local_path": "../../media/images/56b39ef80e12c42169f0a152/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/n/m/free-bollywood-avantika-fashion-unstitched-original-imahftz7pgswvz76.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/n/m/free-bollywood-avantika-fashion-unstitched-original-imahftz7pgswvz76.jpeg?q=100",
+        "local_path": "../../media/images/56b39ef80e12c42169f0a152/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/l/u/f/free-bollywood-avantika-fashion-unstitched-original-imahftz72zswb96w.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/l/u/f/free-bollywood-avantika-fashion-unstitched-original-imahftz72zswb96w.jpeg?q=100",
+        "local_path": "../../media/images/56b39ef80e12c42169f0a152/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/s/c/free-bollywood-avantika-fashion-unstitched-original-imahftz7czpabw7k.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/s/c/free-bollywood-avantika-fashion-unstitched-original-imahftz7czpabw7k.jpeg?q=100",
+        "local_path": "../../media/images/56b39ef80e12c42169f0a152/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/g/3/free-bollywood-avantika-fashion-unstitched-original-imahftz7yznudc9a.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/g/3/free-bollywood-avantika-fashion-unstitched-original-imahftz7yznudc9a.jpeg?q=100",
+        "local_path": "../../media/images/56b39ef80e12c42169f0a152/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/labs/AS/CN8Xj-rvOjQwW-o5G8B9Ya6Q/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNRz6cgMjYS7uaijhYohClAw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNqIdR-nf5SomZ24jC3G3CLA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "AVANTIKA FASHION Printed, Embellished, Solid/Plain Bollywood Georgette, Art Silk Saree",
+      "description": "AVANTIKA FASHION Printed, Embellished, Solid/Plain Bollywood Georgette, Art Silk Saree - Buy AVANTIKA FASHION Printed, Embellished, Solid/Plain Bollywood Georgette, Art Silk Saree For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/7/f/f/free-bollywood-unity-hub-unstitched-resized-original-imahepqqfmcj9eyz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/n/m/free-bollywood-avantika-fashion-unstitched-original-imahftz7pgswvz76.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/l/u/f/free-bollywood-avantika-fashion-unstitched-original-imahftz72zswb96w.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/s/c/free-bollywood-avantika-fashion-unstitched-original-imahftz7czpabw7k.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/g/3/free-bollywood-avantika-fashion-unstitched-original-imahftz7yznudc9a.jpeg?q=70"
+      ],
+      "sku": "SARGT4QV9TE2VM9Z",
+      "color": "SF-AALIYA-BHATT-NEW",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 89,
+        "ratingCount": 2111,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "AVANTIKA FASHION",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 433,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-09",
+          "reviewBody": "Superb.. Good quality... Loved it🥰🥰🥰",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Kanchan Kumari",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-04",
+          "reviewBody": "Nice product i like this🥰",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Rakesh  Kumar ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-02",
+          "reviewBody": "Great printed saree in this range.\nGuys go and buy this amazing saree for occasion and also regular use 😀 😄 👏 😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Versatile Unstitched Blouse",
+          "body": "With the inclusion of an unstitched blouse piece, this saree offers you the freedom to customise you…"
+        },
+        {
+          "heading": "Comfortable Georgette Fabric",
+          "body": "Crafted from high-quality georgette and art silk fabric, this saree offers a comfortable and luxurio…"
+        },
+        {
+          "heading": "Perfect for Various Occasions",
+          "body": "This saree is suitable for a wide range of occasions, making it a versatile addition to your wardrob…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Printed, Embellished, Solid/Plain",
+        "Fabric": "Georgette, Art Silk",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

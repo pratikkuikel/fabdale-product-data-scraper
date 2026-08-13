@@ -1,0 +1,186 @@
+{
+  "product_id": "1899",
+  "sku": "Fab-Lehenga-TRVT-005PK",
+  "product": {
+    "name": "Trivenika Silver Dots Lehenga Choli",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/trivety-embellished-semi-stitched-lehenga-choli/p/itmc6fdd2afef1a2?pid=LCHGBFP3RV2XGKD8&lid=LSTLCHGBFP3RV2XGKD8JIZNDS&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-LCHGBFP3RV2XGKD8",
+    "path": "../../sources/pid-LCHGBFP3RV2XGKD8/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/trivety-embellished-semi-stitched-lehenga-choli/p/itmc6fdd2afef1a2?pid=LCHGBFP3RV2XGKD8&lid=LSTLCHGBFP3RV2XGKD8JIZNDS&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T07:51:07.034Z",
+    "final_url": "https://www.flipkart.com/trivety-embellished-semi-stitched-lehenga-choli/p/itmc6fdd2afef1a2?pid=LCHGBFP3RV2XGKD8&lid=LSTLCHGBFP3RV2XGKD8JIZNDS&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:51:20.618Z"
+  },
+  "content": {
+    "title": "Trivety Embellished Semi Stitched Lehenga Choli",
+    "short_description": "Color: Pink\nPattern: Embellished\nType: Lehenga Choli\nLehenga Fabric: Net\nStitching Type: Semi Stitched\nSales Package: Lehenga, Choli, dupatta",
+    "description": "Lehenga Choli Details\nLehenga FabricNetTypeLehenga CholiNeckNASleeveShort SleeveDupattaYesStitching TypeSemi StitchedPatternEmbellishedSales PackageLehenga, Choli, dupattaColorPinkBrand ColorPinkSizeFree",
+    "specifications": {
+      "Lehenga Fabric": "Net",
+      "Type": "Lehenga Choli",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Embellished",
+      "Sales Package": "Lehenga, Choli, dupatta",
+      "Color": "Pink"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "576e7f75897b6bc2423711e0",
+      "path": "media/images/576e7f75897b6bc2423711e0/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/n/u/free-short-sleeve-big-roshni-pink-trivety-resized-original-imagbfp2bc8steyj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/n/u/free-short-sleeve-big-roshni-pink-trivety-resized-original-imagbfp2bc8steyj.jpeg?q=100",
+        "local_path": "../../media/images/576e7f75897b6bc2423711e0/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kyxb9u80/lehenga-choli/n/0/r/free-short-sleeve-big-roshni-pink-trivety-original-imagbfp2tqpgfjfb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kyxb9u80/lehenga-choli/n/0/r/free-short-sleeve-big-roshni-pink-trivety-original-imagbfp2tqpgfjfb.jpeg?q=100",
+        "local_path": "../../media/images/576e7f75897b6bc2423711e0/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Trivety Embellished Semi Stitched Lehenga Choli",
+      "description": "Trivety Embellished Semi Stitched Lehenga Choli - Buy Trivety Embellished Semi Stitched Lehenga Choli For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/n/u/free-short-sleeve-big-roshni-pink-trivety-resized-original-imagbfp2bc8steyj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kyxb9u80/lehenga-choli/n/0/r/free-short-sleeve-big-roshni-pink-trivety-original-imagbfp2tqpgfjfb.jpeg?q=70"
+      ],
+      "sku": "LCHGBFP3RV2XGKD8",
+      "color": "Pink",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 90,
+        "ratingCount": 2670,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Trivety",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 401,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Flipkartsk Customersuresh",
+            "@type": "Person"
+          },
+          "datePublished": "2022-06-01",
+          "reviewBody": "Very good 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "SK MD Shareef",
+            "@type": "Person"
+          },
+          "datePublished": "2022-06-29",
+          "reviewBody": "Super product ok but langa and dhupatta cloth is nice but blouse cloth is average not too good...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Ash babbar",
+            "@type": "Person"
+          },
+          "datePublished": "2022-05-27",
+          "reviewBody": "Best gift item and absolute best fabric is used with it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricNetTypeLehenga CholiNeckNASleeveShort SleeveDupattaYesStitching TypeSemi StitchedPatternEmbellishedSales PackageLehenga, Choli, dupattaColorPinkBrand ColorPinkSizeFree"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Net",
+        "Type": "Lehenga Choli",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Embellished",
+        "Sales Package": "Lehenga, Choli, dupatta",
+        "Color": "Pink"
+      },
+      "specifications": {
+        "Brand": "Trivety",
+        "Ideal For": "Women",
+        "Occasion": "Wedding & Festive",
+        "Lehenga Choli Details": "Lehenga FabricNetTypeLehenga CholiNeckNASleeveShort SleeveDupattaYesStitching TypeSemi StitchedPatternEmbellishedSales PackageLehenga, Choli, dupattaColorPinkBrand ColorPinkSizeFree",
+        "Lehenga Fabric": "Net",
+        "Type": "Lehenga Choli",
+        "Neck": "NA",
+        "Sleeve": "Short Sleeve",
+        "Dupatta": "Yes",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Embellished",
+        "Sales Package": "Lehenga, Choli, dupatta",
+        "Color": "Pink",
+        "Brand Color": "Pink",
+        "Size": "Free"
+      }
+    }
+  }
+}

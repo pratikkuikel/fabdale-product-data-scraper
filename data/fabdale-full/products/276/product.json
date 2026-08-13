@@ -1,0 +1,206 @@
+{
+  "product_id": "276",
+  "sku": "Fab-Dress-ZWRL-002BL-XXL",
+  "product": {
+    "name": "Zeflora A-line Blue fit&flare Dress",
+    "parent_id": "5093",
+    "notes": "https://www.flipkart.com/zwerlon-women-fit-flare-dark-blue-white-light-blue-midi-calf-length-dress/p/itmc9b7a81ec540f?pid=DREGU7UUHAYYHYUT&marketplace=FLIPKART&lid=LSTDREGU7UUHAYYHYUTMYYZ6L&q=zwerlon+dress&swatchAttr=size&pageUID=1772357980060"
+  },
+  "source_bundle": {
+    "key": "pid-DREGU7UUHAYYHYUT",
+    "path": "../../sources/pid-DREGU7UUHAYYHYUT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zwerlon-women-fit-flare-dark-blue-white-light-blue-midi-calf-length-dress/p/itmc9b7a81ec540f?pid=DREGU7UUHAYYHYUT&marketplace=FLIPKART&lid=LSTDREGU7UUHAYYHYUTMYYZ6L&q=zwerlon+dress&swatchAttr=size&pageUID=1772357980060",
+    "scraped_at": "2026-08-12T08:27:56.020Z",
+    "final_url": "https://www.flipkart.com/zwerlon-women-fit-flare-dark-blue-white-light-blue-midi-calf-length-dress/p/itmc9b7a81ec540f?pid=DREGU7UUHAYYHYUT&marketplace=FLIPKART&lid=LSTDREGU7UUHAYYHYUTMYYZ6L&q=zwerlon+dress&swatchAttr=size&pageUID=1772357980060"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:28:01.997Z"
+  },
+  "content": {
+    "title": "ZWERLON Women Fit and Flare Dark Blue, White, Light Blue Midi/Calf Length Dress",
+    "short_description": "Color: Dark Blue, White, Light Blue\nPattern: Printed\nType: Fit and Flare\nSleeve: Flared Sleeve\nLength: Midi/Calf Length\nSleeve Length: Half Sleeve",
+    "description": "Lovely Pattern\nFeaturing a charming mix of abstract and solid patterns, this women’s dress is a visual delight. The…\n\nEye-catching Design\nThis fit-and-flare dress is designed to turn heads with its striking features. The short flared slee…\n\nHigh-quality Fabric\nCrafted from high-quality polyester fabric, this dress offers both style and durability. Polyester i…\n\nIdeal for Casual Wear\nThis dress is suitable for casual occasions where you want to look stylish and put together with min…",
+    "specifications": {
+      "Color": "Dark Blue, White, Light Blue",
+      "Length": "Midi/Calf Length",
+      "Pattern": "Printed",
+      "Type": "Fit and Flare",
+      "Sleeve Length": "Half Sleeve",
+      "Sleeve": "Flared Sleeve"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "47c8b8599c76e46fb8f994ca",
+      "path": "media/images/47c8b8599c76e46fb8f994ca/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/n/1/s/m-601-zwerlon-original-imahg4hs77djhckk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/n/1/s/m-601-zwerlon-original-imahg4hs77djhckk.jpeg?q=100",
+        "local_path": "../../media/images/47c8b8599c76e46fb8f994ca/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/r/e/k/m-601-zwerlon-original-imahg4hsafetydzz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/r/e/k/m-601-zwerlon-original-imahg4hsafetydzz.jpeg?q=100",
+        "local_path": "../../media/images/47c8b8599c76e46fb8f994ca/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/f/f/c/m-601-zwerlon-original-imahg4hsnggkk7gq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/f/f/c/m-601-zwerlon-original-imahg4hsnggkk7gq.jpeg?q=100",
+        "local_path": "../../media/images/47c8b8599c76e46fb8f994ca/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/n/6/b/s-601-zwerlon-original-imahg4hs3zhkhb9j.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/n/6/b/s-601-zwerlon-original-imahg4hs3zhkhb9j.jpeg?q=100",
+        "local_path": "../../media/images/47c8b8599c76e46fb8f994ca/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/2/4/s/m-601-zwerlon-original-imahg4hsfyrqtnuz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/2/4/s/m-601-zwerlon-original-imahg4hsfyrqtnuz.jpeg?q=100",
+        "local_path": "../../media/images/47c8b8599c76e46fb8f994ca/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "ZWERLON Women Fit and Flare Dark Blue, White, Light Blue Midi/Calf Length Dress",
+      "description": "ZWERLON Women Fit and Flare Dark Blue, White, Light Blue Midi/Calf Length Dress - Buy ZWERLON Women Fit and Flare Dark Blue, White, Light Blue Midi/Calf Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/n/1/s/m-601-zwerlon-original-imahg4hs77djhckk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/r/e/k/m-601-zwerlon-original-imahg4hsafetydzz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/f/f/c/m-601-zwerlon-original-imahg4hsnggkk7gq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/n/6/b/s-601-zwerlon-original-imahg4hs3zhkhb9j.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/2/4/s/m-601-zwerlon-original-imahg4hsfyrqtnuz.jpeg?q=70"
+      ],
+      "sku": "DREGU7UUHAYYHYUT",
+      "color": "Galaxy-Blue",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 223,
+        "ratingCount": 3376,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "ZWERLON",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 248,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Udas  Mondal ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-01",
+          "reviewBody": "Nice awesome 👍😎",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-10",
+          "reviewBody": "Nice dress 🙂",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "SUHAGINI BARDHAN",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-10",
+          "reviewBody": "According to price...👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Lovely Pattern",
+          "body": "Featuring a charming mix of abstract and solid patterns, this women’s dress is a visual delight. The…"
+        },
+        {
+          "heading": "Eye-catching Design",
+          "body": "This fit-and-flare dress is designed to turn heads with its striking features. The short flared slee…"
+        },
+        {
+          "heading": "High-quality Fabric",
+          "body": "Crafted from high-quality polyester fabric, this dress offers both style and durability. Polyester i…"
+        },
+        {
+          "heading": "Ideal for Casual Wear",
+          "body": "This dress is suitable for casual occasions where you want to look stylish and put together with min…"
+        }
+      ],
+      "product_highlights": {
+        "Color": "Dark Blue, White, Light Blue",
+        "Length": "Midi/Calf Length",
+        "Pattern": "Printed",
+        "Type": "Fit and Flare",
+        "Sleeve Length": "Half Sleeve",
+        "Sleeve": "Flared Sleeve"
+      },
+      "specifications": {}
+    }
+  }
+}

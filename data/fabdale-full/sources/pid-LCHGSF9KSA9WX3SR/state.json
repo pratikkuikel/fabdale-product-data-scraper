@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-LCHGSF9KSA9WX3SR",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "1840",
+    "5302"
+  ],
+  "source_path": "sources/pid-LCHGSF9KSA9WX3SR/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T07:36:12.334Z",
+  "completed_at": "2026-08-13T07:36:23.530Z"
+}

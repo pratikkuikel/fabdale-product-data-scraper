@@ -1,0 +1,215 @@
+{
+  "product_id": "525",
+  "sku": "Fab-Saree-YSHK-025PK",
+  "product": {
+    "name": "Yarie Digital Print Georgette Saree with Blouse",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/yashika-printed-digital-print-daily-wear-georgette-saree/p/itm0a3d2d3fa735d?pid=SARF5HFN6BWXGSCY&lid=LSTSARF5HFN6BWXGSCY5GTESD&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SARF5HFN6BWXGSCY",
+    "path": "../../sources/pid-SARF5HFN6BWXGSCY/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/yashika-printed-digital-print-daily-wear-georgette-saree/p/itm0a3d2d3fa735d?pid=SARF5HFN6BWXGSCY&lid=LSTSARF5HFN6BWXGSCY5GTESD&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:28:43.158Z",
+    "final_url": "https://www.flipkart.com/yashika-printed-digital-print-daily-wear-georgette-saree/p/itm0a3d2d3fa735d?pid=SARF5HFN6BWXGSCY&lid=LSTSARF5HFN6BWXGSCY5GTESD&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 7,
+    "completed_at": "2026-08-12T10:28:51.285Z"
+  },
+  "content": {
+    "title": "YASHIKA Printed, Digital Print Daily Wear Georgette Saree",
+    "short_description": "Fabric: Georgette\nPattern: Printed, Digital Print\nType: Daily Wear\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Styling Tips by Aakriti Jaiswal, Fashion Influencer\nThis gorgeous saree is just what you need for a classy party. You can accessorise this saree with a …",
+    "specifications": {
+      "Pattern": "Printed, Digital Print",
+      "Fabric": "Georgette",
+      "Type": "Daily Wear",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c5d2fc423632dee0232df3f0",
+      "path": "media/images/c5d2fc423632dee0232df3f0/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "4ea40010644ecb3e16f6a4ab",
+      "path": "media/videos/4ea40010644ecb3e16f6a4ab/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/c/o/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7fkbmxpdcj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/c/o/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7fkbmxpdcj.jpeg?q=100",
+        "local_path": "../../media/images/c5d2fc423632dee0232df3f0/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/w/e/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7ffz25mzqn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/w/e/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7ffz25mzqn.jpeg?q=100",
+        "local_path": "../../media/images/c5d2fc423632dee0232df3f0/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/e/b/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7fvwgp7vfp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/e/b/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7fvwgp7vfp.jpeg?q=100",
+        "local_path": "../../media/images/c5d2fc423632dee0232df3f0/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/u/x/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7fsbhhhd9e.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/u/x/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7fsbhhhd9e.jpeg?q=100",
+        "local_path": "../../media/images/c5d2fc423632dee0232df3f0/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/u/c/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7fzgk29krg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/u/c/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7fzgk29krg.jpeg?q=100",
+        "local_path": "../../media/images/c5d2fc423632dee0232df3f0/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNTseKq8zbROivACsewQAIEQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "YASHIKA Printed, Digital Print Daily Wear Georgette Saree",
+      "description": "YASHIKA Printed, Digital Print Daily Wear Georgette Saree - Buy YASHIKA Printed, Digital Print Daily Wear Georgette Saree For Only Rs. 1799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/c/o/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7fkbmxpdcj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/w/e/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7ffz25mzqn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/e/b/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7fvwgp7vfp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/u/x/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7fsbhhhd9e.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/u/c/free-sdpl-piku-pink-yashika-unstitched-original-imah9n7fzgk29krg.jpeg?q=70"
+      ],
+      "sku": "SARF5HFN6BWXGSCY",
+      "color": "Multicolor",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 1022,
+        "ratingCount": 17974,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "YASHIKA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 265,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Renu Soni",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-28",
+          "reviewBody": "Sari material is Georgette ,soft and silky print was really good. I love this ❤️",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good",
+          "author": {
+            "name": "Vishu Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2021-06-17",
+          "reviewBody": "Nice saari osm",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Santosh Dutta",
+            "@type": "Person"
+          },
+          "datePublished": "2021-08-19",
+          "reviewBody": "Awesome product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Styling Tips by Aakriti Jaiswal, Fashion Influencer",
+          "body": "This gorgeous saree is just what you need for a classy party. You can accessorise this saree with a …"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Printed, Digital Print",
+        "Fabric": "Georgette",
+        "Type": "Daily Wear",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

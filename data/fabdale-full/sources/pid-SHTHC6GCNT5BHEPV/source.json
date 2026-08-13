@@ -1,0 +1,168 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-pink-shirt/p/itmbcb2e69e12df9?pid=SHTHC6GCNT5BHEPV&marketplace=FLIPKART&lid=LSTSHTHC6GCNT5BHEPVQJTOKX&swatchAttr=size&pageUID=1773311113030",
+    "scraped_at": "2026-08-13T08:02:28.435Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-pink-shirt/p/itmbcb2e69e12df9?pid=SHTHC6GCNT5BHEPV&marketplace=FLIPKART&lid=LSTSHTHC6GCNT5BHEPVQJTOKX&swatchAttr=size&pageUID=1773311113030"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T08:02:32.670Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Solid Casual Pink Shirt",
+    "short_description": "METRONAUT Men Solid Casual Pink Shirt - Buy METRONAUT Men Solid Casual Pink Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "METRONAUT Men Solid Casual Pink Shirt - Buy METRONAUT Men Solid Casual Pink Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/p/i/m-ml-sr138-metronaut-resized-original-imahc6gcmabhskmz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/p/i/m-ml-sr138-metronaut-resized-original-imahc6gcmabhskmz.jpeg?q=100",
+        "local_path": "../../media/images/9fad32e6b9ec1c2b3d02040a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/b/h/m-ml-sr138-metronaut-original-imahc6gckfzsfzpz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/b/h/m-ml-sr138-metronaut-original-imahc6gckfzsfzpz.jpeg?q=100",
+        "local_path": "../../media/images/9fad32e6b9ec1c2b3d02040a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/k/f/m-ml-sr138-metronaut-original-imahc6gcsgqkqtuj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/k/f/m-ml-sr138-metronaut-original-imahc6gcsgqkqtuj.jpeg?q=100",
+        "local_path": "../../media/images/9fad32e6b9ec1c2b3d02040a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/4/k/m-ml-sr138-metronaut-original-imahc6gcj2pyhfd3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/4/k/m-ml-sr138-metronaut-original-imahc6gcj2pyhfd3.jpeg?q=100",
+        "local_path": "../../media/images/9fad32e6b9ec1c2b3d02040a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual Pink Shirt",
+      "description": "METRONAUT Men Solid Casual Pink Shirt - Buy METRONAUT Men Solid Casual Pink Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/p/i/m-ml-sr138-metronaut-resized-original-imahc6gcmabhskmz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/2/b/h/m-ml-sr138-metronaut-original-imahc6gckfzsfzpz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/k/f/m-ml-sr138-metronaut-original-imahc6gcsgqkqtuj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/i/4/k/m-ml-sr138-metronaut-original-imahc6gcj2pyhfd3.jpeg?q=70"
+      ],
+      "sku": "SHTHC6GCNT5BHEPV",
+      "color": "Pink",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 277,
+        "ratingCount": 1509,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 416,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Avinandan  Mondal",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-03",
+          "reviewBody": "Awesome quality products",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Reva",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-01",
+          "reviewBody": "Color is same as shown in the picture and looks classy\nAfter washing also the color and fabric remained the same",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Tejas  Dey",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-01",
+          "reviewBody": "Fabric is soft and perfect for summer wear",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "9fad32e6b9ec1c2b3d02040a",
+      "path": "media/images/9fad32e6b9ec1c2b3d02040a/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

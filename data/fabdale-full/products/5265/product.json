@@ -1,0 +1,214 @@
+{
+  "product_id": "5265",
+  "sku": null,
+  "product": {
+    "name": "Metronex Cut Away Collar Casual Shirt",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/metronaut-men-printed-casual-yellow-shirt/p/itmf07ff05bb6df0?pid=SHTGS5JHZTDSJ6UG&marketplace=FLIPKART&lid=LSTSHTGS5JHZTDSJ6UG9PLA7R&swatchAttr=size&pageUID=1773310726908"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGS5JHZTDSJ6UG",
+    "path": "../../sources/pid-SHTGS5JHZTDSJ6UG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-printed-casual-yellow-shirt/p/itmf07ff05bb6df0?pid=SHTGS5JHZTDSJ6UG&marketplace=FLIPKART&lid=LSTSHTGS5JHZTDSJ6UG9PLA7R&swatchAttr=size&pageUID=1773310726908",
+    "scraped_at": "2026-08-13T08:01:58.414Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-printed-casual-yellow-shirt/p/itmf07ff05bb6df0?pid=SHTGS5JHZTDSJ6UG&marketplace=FLIPKART&lid=LSTSHTGS5JHZTDSJ6UG9PLA7R&swatchAttr=size&pageUID=1773310726908"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T08:02:11.959Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Printed Casual Yellow Shirt",
+    "short_description": "Color: Yellow\nFabric: Pure Cotton\nPattern: Printed\nSleeve: Full Sleeve\nPack of: 1\nCollar: Cut Away",
+    "description": "Stylish Geometric Print\nThis men's casual shirt showcases a trendy geometric print, adding a touch of style and uniqueness t…\n\nPremium Pure Cotton Fabric\nCrafted from pure cotton fabric, this shirt offers exceptional comfort and breathability. The soft a…\n\nCut Away Collar\nFeaturing a cut away collar, this shirt exudes a contemporary and sophisticated vibe. The unique col…",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Pure Cotton",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Printed",
+      "Collar": "Cut Away",
+      "Color": "Yellow"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a1dfcfb1ad8786c2e8badb66",
+      "path": "media/images/a1dfcfb1ad8786c2e8badb66/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/q/m/xl-mpf-17c-metronaut-original-imahgagudhf7ezzc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/q/m/xl-mpf-17c-metronaut-original-imahgagudhf7ezzc.jpeg?q=100",
+        "local_path": "../../media/images/a1dfcfb1ad8786c2e8badb66/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/e/9/xl-mpf-17c-metronaut-original-imahgagu65gmtr2y.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/e/9/xl-mpf-17c-metronaut-original-imahgagu65gmtr2y.jpeg?q=100",
+        "local_path": "../../media/images/a1dfcfb1ad8786c2e8badb66/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/t/b/xl-mpf-17c-metronaut-original-imahgagubjue3ghr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/t/b/xl-mpf-17c-metronaut-original-imahgagubjue3ghr.jpeg?q=100",
+        "local_path": "../../media/images/a1dfcfb1ad8786c2e8badb66/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/6/p/v/xl-mpf-17c-metronaut-original-imahgagusggrvfny.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/6/p/v/xl-mpf-17c-metronaut-original-imahgagusggrvfny.jpeg?q=100",
+        "local_path": "../../media/images/a1dfcfb1ad8786c2e8badb66/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/1/f/m-mpf-17c-metronaut-original-imahgaguvdsc5shy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/1/f/m-mpf-17c-metronaut-original-imahgaguvdsc5shy.jpeg?q=100",
+        "local_path": "../../media/images/a1dfcfb1ad8786c2e8badb66/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Printed Casual Yellow Shirt",
+      "description": "METRONAUT Men Printed Casual Yellow Shirt - Buy METRONAUT Men Printed Casual Yellow Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/q/m/xl-mpf-17c-metronaut-original-imahgagudhf7ezzc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/e/9/xl-mpf-17c-metronaut-original-imahgagu65gmtr2y.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/w/t/b/xl-mpf-17c-metronaut-original-imahgagubjue3ghr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/6/p/v/xl-mpf-17c-metronaut-original-imahgagusggrvfny.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/1/f/m-mpf-17c-metronaut-original-imahgaguvdsc5shy.jpeg?q=70"
+      ],
+      "sku": "SHTGS5JHZTDSJ6UG",
+      "color": "Yellow",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 35,
+        "ratingCount": 319,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 321,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "vignesh vicky",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-10",
+          "reviewBody": "Nice purchase",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Moderate",
+          "author": {
+            "name": "AP SINGH GULERIA",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-28",
+          "reviewBody": "Normal, Wastage of money",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Could be way better",
+          "author": {
+            "name": "Abhishek",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-22",
+          "reviewBody": "The print on the shirt is great, but the fabric is terrible, and the color has faded a lot after washing.",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Stylish Geometric Print",
+          "body": "This men's casual shirt showcases a trendy geometric print, adding a touch of style and uniqueness t…"
+        },
+        {
+          "heading": "Premium Pure Cotton Fabric",
+          "body": "Crafted from pure cotton fabric, this shirt offers exceptional comfort and breathability. The soft a…"
+        },
+        {
+          "heading": "Cut Away Collar",
+          "body": "Featuring a cut away collar, this shirt exudes a contemporary and sophisticated vibe. The unique col…"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Pure Cotton",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Printed",
+        "Collar": "Cut Away",
+        "Color": "Yellow"
+      },
+      "specifications": {}
+    }
+  }
+}

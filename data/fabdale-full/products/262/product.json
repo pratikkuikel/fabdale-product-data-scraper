@@ -1,0 +1,217 @@
+{
+  "product_id": "262",
+  "sku": "Fab-Dress-ZWRL-001BL-S",
+  "product": {
+    "name": "Zeflora A-line Blue Midi Dress",
+    "parent_id": "7013",
+    "notes": "https://www.flipkart.com/zwerlon-women-a-line-dark-blue-midi-calf-length-dress/p/itm9a8d2e6b1783b?pid=DREGM8YTADFBPHZB&marketplace=FLIPKART&lid=LSTDREGM8YTADFBPHZBNYV6GR&q=zwerlon+dress&swatchAttr=size&pageUID=1772347702375"
+  },
+  "source_bundle": {
+    "key": "pid-DREGM8YTADFBPHZB",
+    "path": "../../sources/pid-DREGM8YTADFBPHZB/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zwerlon-women-a-line-dark-blue-midi-calf-length-dress/p/itm9a8d2e6b1783b?pid=DREGM8YTADFBPHZB&marketplace=FLIPKART&lid=LSTDREGM8YTADFBPHZBNYV6GR&q=zwerlon+dress&swatchAttr=size&pageUID=1772347702375",
+    "scraped_at": "2026-08-12T08:26:01.668Z",
+    "final_url": "https://www.flipkart.com/zwerlon-women-a-line-dark-blue-midi-calf-length-dress/p/itm9a8d2e6b1783b?pid=DREGM8YTADFBPHZB&marketplace=FLIPKART&lid=LSTDREGM8YTADFBPHZBNYV6GR&q=zwerlon+dress&swatchAttr=size&pageUID=1772347702375"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:26:14.327Z"
+  },
+  "content": {
+    "title": "ZWERLON Women A-line Dark Blue Midi/Calf Length Dress",
+    "short_description": "Color: Dark Blue\nPattern: Printed\nType: A-line\nSleeve: 3/4 Sleeve\nLength: Midi/Calf Length\nSleeve Length: 3/4 Sleeve",
+    "description": "Lovely Aesthetics\nFeaturing a charming mix of floral and solid patterns, this women’s dress is sure to turn heads wher…\n\nEye-catching Design\nThis fit-and-flare dress is designed to flatter your figure and accentuate your curves. With three-q…\n\nHigh-quality Fabric\nMade from polyester, this dress offers numerous benefits. Polyester is known for its durability and …\n\nIdeal for Casual Wear\nThis dress is suitable for casual occasions where you want to look effortlessly chic. You can run er…",
+    "specifications": {
+      "Color": "Dark Blue",
+      "Length": "Midi/Calf Length",
+      "Pattern": "Printed",
+      "Type": "A-line",
+      "Sleeve Length": "3/4 Sleeve",
+      "Sleeve": "3/4 Sleeve"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a967122c47669bb05f0d35a9",
+      "path": "media/images/a967122c47669bb05f0d35a9/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "d6678b32fa1a211a54c5cdc5",
+      "path": "media/videos/d6678b32fa1a211a54c5cdc5/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/y/d/f/l-a1-zwerlon-original-imahg4hssedgsc8t.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/y/d/f/l-a1-zwerlon-original-imahg4hssedgsc8t.jpeg?q=100",
+        "local_path": "../../media/images/a967122c47669bb05f0d35a9/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/2/n/1/xxl-a1-zwerlon-original-imahg4hsdh8gxhmh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/2/n/1/xxl-a1-zwerlon-original-imahg4hsdh8gxhmh.jpeg?q=100",
+        "local_path": "../../media/images/a967122c47669bb05f0d35a9/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/r/n/p/xxl-a1-zwerlon-original-imahg4hsckspgcnm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/r/n/p/xxl-a1-zwerlon-original-imahg4hsckspgcnm.jpeg?q=100",
+        "local_path": "../../media/images/a967122c47669bb05f0d35a9/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/t/o/b/s-a1-zwerlon-original-imahg4hsa5qdawqh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/t/o/b/s-a1-zwerlon-original-imahg4hsa5qdawqh.jpeg?q=100",
+        "local_path": "../../media/images/a967122c47669bb05f0d35a9/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/u/w/l/xxl-a1-zwerlon-original-imahg4hsyxxf4htz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/u/w/l/xxl-a1-zwerlon-original-imahg4hsyxxf4htz.jpeg?q=100",
+        "local_path": "../../media/images/a967122c47669bb05f0d35a9/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNM5TsehHBSYi_-Qmrt5FJMA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "ZWERLON Women A-line Dark Blue Midi/Calf Length Dress",
+      "description": "ZWERLON Women A-line Dark Blue Midi/Calf Length Dress - Buy ZWERLON Women A-line Dark Blue Midi/Calf Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/y/d/f/l-a1-zwerlon-original-imahg4hssedgsc8t.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/2/n/1/xxl-a1-zwerlon-original-imahg4hsdh8gxhmh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/r/n/p/xxl-a1-zwerlon-original-imahg4hsckspgcnm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/t/o/b/s-a1-zwerlon-original-imahg4hsa5qdawqh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/u/w/l/xxl-a1-zwerlon-original-imahg4hsyxxf4htz.jpeg?q=70"
+      ],
+      "sku": "DREGM8YTADFBPHZB",
+      "color": "NAVY BLUE",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 6013,
+        "ratingCount": 99406,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "ZWERLON",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 320,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Sneha Dutta",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-21",
+          "reviewBody": "Very nice n comfortable 😍😍😍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-30",
+          "reviewBody": "We purchased  for school day..... Really it was very nice and beautiful too.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Priyanka  Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2023-04-23",
+          "reviewBody": "Superb dress...😘😘😘😘",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Lovely Aesthetics",
+          "body": "Featuring a charming mix of floral and solid patterns, this women’s dress is sure to turn heads wher…"
+        },
+        {
+          "heading": "Eye-catching Design",
+          "body": "This fit-and-flare dress is designed to flatter your figure and accentuate your curves. With three-q…"
+        },
+        {
+          "heading": "High-quality Fabric",
+          "body": "Made from polyester, this dress offers numerous benefits. Polyester is known for its durability and …"
+        },
+        {
+          "heading": "Ideal for Casual Wear",
+          "body": "This dress is suitable for casual occasions where you want to look effortlessly chic. You can run er…"
+        }
+      ],
+      "product_highlights": {
+        "Color": "Dark Blue",
+        "Length": "Midi/Calf Length",
+        "Pattern": "Printed",
+        "Type": "A-line",
+        "Sleeve Length": "3/4 Sleeve",
+        "Sleeve": "3/4 Sleeve"
+      },
+      "specifications": {}
+    }
+  }
+}

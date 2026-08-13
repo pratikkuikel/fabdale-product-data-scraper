@@ -1,0 +1,213 @@
+{
+  "product_id": "498",
+  "sku": "Fab-Saree-SMH-022MR",
+  "product": {
+    "name": "Sharini Geometric Prints, Lace & Tassels Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/samah-floral-print-printed-geometric-embellished-daily-wear-lycra-blend-saree/p/itma5f2ea6150256?pid=SARGHQF9EJBGF5QZ&lid=LSTSARGHQF9EJBGF5QZLK1T9X&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SARGHQF9EJBGF5QZ",
+    "path": "../../sources/pid-SARGHQF9EJBGF5QZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/samah-floral-print-printed-geometric-embellished-daily-wear-lycra-blend-saree/p/itma5f2ea6150256?pid=SARGHQF9EJBGF5QZ&lid=LSTSARGHQF9EJBGF5QZLK1T9X&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:21:13.246Z",
+    "final_url": "https://www.flipkart.com/samah-floral-print-printed-geometric-embellished-daily-wear-lycra-blend-saree/p/itma5f2ea6150256?pid=SARGHQF9EJBGF5QZ&lid=LSTSARGHQF9EJBGF5QZLK1T9X&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:21:27.160Z"
+  },
+  "content": {
+    "title": "Samah Floral Print, Printed, Geometric Print, Embellished Daily Wear Lycra Blend Saree (Brown)",
+    "short_description": "Fabric: Lycra Blend\nPattern: Floral Print, Printed, Geometric Print, Embellished\nType: Daily Wear\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Elegant Floral Print\nThis saree features a beautiful floral print that adds a touch of elegance to your ensemble. The int…\n\nComfortable and Versatile Fabric\nCrafted from a lycra blend fabric, this saree offers a comfortable and flattering fit. The fabric dr…\n\nStylish Unstitched Blouse Piece\nThis saree comes with an unstitched blouse piece that allows you to customize your blouse according …\n\nIdeal for Multiple Occasions\nThis saree is perfect for a variety of occasions, including casual outings, parties, and weddings. T…",
+    "specifications": {
+      "Pattern": "Floral Print, Printed, Geometric Print, Embellished",
+      "Fabric": "Lycra Blend",
+      "Type": "Daily Wear",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "73a6c62f8e286acccb1dadee",
+      "path": "media/images/73a6c62f8e286acccb1dadee/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "2a1c35cdab572fda60dd7cf6",
+      "path": "media/videos/2a1c35cdab572fda60dd7cf6/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/q/r/4/free-2739s259-samah-unstitched-original-imaghqf9rz7yjhjt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/q/r/4/free-2739s259-samah-unstitched-original-imaghqf9rz7yjhjt.jpeg?q=100",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/0/l/d/free-2739s259-samah-unstitched-original-imaghqf9zdswpnzg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/0/l/d/free-2739s259-samah-unstitched-original-imaghqf9zdswpnzg.jpeg?q=100",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/p/p/p/free-2739s259-samah-unstitched-original-imaghqf9cmzrnmea.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/p/p/p/free-2739s259-samah-unstitched-original-imaghqf9cmzrnmea.jpeg?q=100",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/q/f/m/free-2739s259-samah-unstitched-original-imaghqf9g23wtqz8.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/q/f/m/free-2739s259-samah-unstitched-original-imaghqf9g23wtqz8.jpeg?q=100",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b43551e56fb04930b6918a4cf94e625e.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b43551e56fb04930b6918a4cf94e625e.jpg?q=80",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_48d304ce441c46af9eb4deb0324804b4.png?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_48d304ce441c46af9eb4deb0324804b4.png?q=80",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-006.png",
+        "downloaded": true,
+        "content_type": "image/png"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_52fc4b2d7c854770951fc9af17e81959.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_52fc4b2d7c854770951fc9af17e81959.jpg?q=80",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b395f9389a684fb58af2be7b816db69a.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_b395f9389a684fb58af2be7b816db69a.jpg?q=80",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_cae8f9d0399d498eab3f2e6bc7bcd0dc.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_cae8f9d0399d498eab3f2e6bc7bcd0dc.jpg?q=80",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/z/i/s/free-radhika-grey-p-l-silk-mills-unstitched-resized-original-imagf6nxqhfyhh6d.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/z/i/s/free-radhika-grey-p-l-silk-mills-unstitched-resized-original-imagf6nxqhfyhh6d.jpeg?q=100",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/b/l/0/free-5067s262-samah-unstitched-resized-original-imahjzkkzyvmqqag.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/b/l/0/free-5067s262-samah-unstitched-resized-original-imahjzkkzyvmqqag.jpeg?q=100",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/h/v/j/free-2206s938-samah-unstitched-resized-original-imahc6gg4xrevwps.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/h/v/j/free-2206s938-samah-unstitched-resized-original-imahc6gg4xrevwps.jpeg?q=100",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/a/t/e/free-113vs1382-samah-unstitched-original-imahzx7vtw4nhkq9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/a/t/e/free-113vs1382-samah-unstitched-original-imahzx7vtw4nhkq9.jpeg?q=100",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/5/p/c/free-4415s702-samah-unstitched-original-imahc5armtryrhky.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/5/p/c/free-4415s702-samah-unstitched-original-imahc5armtryrhky.jpeg?q=100",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/kusph8w0/sari/e/o/d/free-2041s576-1850s178b-samah-unstitched-original-imag7u966ruzfcgy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/kusph8w0/sari/e/o/d/free-2041s576-1850s178b-samah-unstitched-original-imag7u966ruzfcgy.jpeg?q=100",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/b/s/y/free-55rs117z-samah-unstitched-resized-original-imahfmwxex5g8vrf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/b/s/y/free-55rs117z-samah-unstitched-resized-original-imahfmwxex5g8vrf.jpeg?q=100",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/l/n/n/free-4747s255-samah-unstitched-original-imahgqv392phz8vp.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/l/n/n/free-4747s255-samah-unstitched-original-imahgqv392phz8vp.jpeg?q=100",
+        "local_path": "../../media/images/73a6c62f8e286acccb1dadee/assets/images/image-017.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/labs/AS/CNdxtc3FXOTva-Yn_uaCWfGw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant Floral Print",
+          "body": "This saree features a beautiful floral print that adds a touch of elegance to your ensemble. The int…"
+        },
+        {
+          "heading": "Comfortable and Versatile Fabric",
+          "body": "Crafted from a lycra blend fabric, this saree offers a comfortable and flattering fit. The fabric dr…"
+        },
+        {
+          "heading": "Stylish Unstitched Blouse Piece",
+          "body": "This saree comes with an unstitched blouse piece that allows you to customize your blouse according …"
+        },
+        {
+          "heading": "Ideal for Multiple Occasions",
+          "body": "This saree is perfect for a variety of occasions, including casual outings, parties, and weddings. T…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Floral Print, Printed, Geometric Print, Embellished",
+        "Fabric": "Lycra Blend",
+        "Type": "Daily Wear",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

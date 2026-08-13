@@ -1,0 +1,190 @@
+{
+  "product_id": "1898",
+  "sku": "Fab-Lehenga-TRVT-004MR",
+  "product": {
+    "name": "Trivenika Silver COlour LIne Design Lehenga Choli",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/trivety-self-design-semi-stitched-lehenga-choli/p/itm56732fecb3f53?pid=LCHHED5ZQQZ4JRHS&lid=LSTLCHHED5ZQQZ4JRHSCZOFC0&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-LCHHED5ZQQZ4JRHS",
+    "path": "../../sources/pid-LCHHED5ZQQZ4JRHS/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/trivety-self-design-semi-stitched-lehenga-choli/p/itm56732fecb3f53?pid=LCHHED5ZQQZ4JRHS&lid=LSTLCHHED5ZQQZ4JRHSCZOFC0&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:50:50.817Z",
+    "final_url": "https://www.flipkart.com/trivety-self-design-semi-stitched-lehenga-choli/p/itm56732fecb3f53?pid=LCHHED5ZQQZ4JRHS&lid=LSTLCHHED5ZQQZ4JRHSCZOFC0&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:51:05.802Z"
+  },
+  "content": {
+    "title": "Trivety Self Design Semi Stitched Lehenga Choli",
+    "short_description": "Color: Maroon\nPattern: Self Design\nType: Lehenga Choli\nLehenga Fabric: Silk Blend\nCholi Fabric: Art Silk\nDupatta Fabric: Art Silk\nStitching Type: Semi Stitched\nSales Package: 1 Kurta, 1 Pant, 1 Dupatta",
+    "description": "Lehenga Choli Details\nLehenga FabricSilk BlendCholi FabricArt SilkTypeLehenga CholiDupatta FabricArt SilkNeckRound NeckSleeve3/4 SleeveEmbroideredNoLining TypeCrepDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package1 Kurta, 1 Pant, 1 DupattaBlouse PatternPrintedBlouse Stitch TypeUnstitched BlouseBlouse TypeTraditionalBlouse WorkNoneBust Size44 inchColorMaroonBrand ColorMaroonDupatta PatternPrintedDupatta WorkNALehenga ClosureDrawstring/DoriLehenga ShapeCircular/FlaredSecondary ColorMaroonSizeFreeTrendPastel",
+    "specifications": {
+      "Lehenga Fabric": "Silk Blend",
+      "Choli Fabric": "Art Silk",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Art Silk",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Self Design",
+      "Sales Package": "1 Kurta, 1 Pant, 1 Dupatta",
+      "Color": "Maroon"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b1808d0113f75dd4afc1c3f3",
+      "path": "media/images/b1808d0113f75dd4afc1c3f3/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/r/i/free-3-4-sleeve-big-ikkat-trivety-original-imahed5zvsrnuzj6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/r/i/free-3-4-sleeve-big-ikkat-trivety-original-imahed5zvsrnuzj6.jpeg?q=100",
+        "local_path": "../../media/images/b1808d0113f75dd4afc1c3f3/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/2/7/free-3-4-sleeve-big-ikkat-trivety-original-imahed5z8wrkhcga.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/2/7/free-3-4-sleeve-big-ikkat-trivety-original-imahed5z8wrkhcga.jpeg?q=100",
+        "local_path": "../../media/images/b1808d0113f75dd4afc1c3f3/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/p/s/g/free-3-4-sleeve-big-ikkat-trivety-original-imahed5ztgdvwknp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/p/s/g/free-3-4-sleeve-big-ikkat-trivety-original-imahed5ztgdvwknp.jpeg?q=100",
+        "local_path": "../../media/images/b1808d0113f75dd4afc1c3f3/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/w/h/free-3-4-sleeve-big-ikkat-trivety-original-imahed5zjgus7agk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/w/h/free-3-4-sleeve-big-ikkat-trivety-original-imahed5zjgus7agk.jpeg?q=100",
+        "local_path": "../../media/images/b1808d0113f75dd4afc1c3f3/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Trivety Self Design Semi Stitched Lehenga Choli",
+      "description": "Trivety Self Design Semi Stitched Lehenga Choli - Buy Trivety Self Design Semi Stitched Lehenga Choli For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/r/i/free-3-4-sleeve-big-ikkat-trivety-original-imahed5zvsrnuzj6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/2/7/free-3-4-sleeve-big-ikkat-trivety-original-imahed5z8wrkhcga.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/p/s/g/free-3-4-sleeve-big-ikkat-trivety-original-imahed5ztgdvwknp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/w/h/free-3-4-sleeve-big-ikkat-trivety-original-imahed5zjgus7agk.jpeg?q=70"
+      ],
+      "sku": "LCHHED5ZQQZ4JRHS",
+      "color": "Maroon",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 46,
+        "ratingCount": 823,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Trivety",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 600,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Gurleen Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-16",
+          "reviewBody": "This product is recommended by my friend.\nThis product is best at this reasonable price.\nHappy after got this.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Abhishek ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-16",
+          "reviewBody": "Amazing item.\nOne of the best product i have ever used.\nWorth the product price paid.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Kaku Verma",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-16",
+          "reviewBody": "Design was very good and attractive. Best price range product.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricSilk BlendCholi FabricArt SilkTypeLehenga CholiDupatta FabricArt SilkNeckRound NeckSleeve3/4 SleeveEmbroideredNoLining TypeCrepDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package1 Kurta, 1 Pant, 1 DupattaBlouse PatternPrintedBlouse Stitch TypeUnstitched BlouseBlouse TypeTraditionalBlouse WorkNoneBust Size44 inchColorMaroonBrand ColorMaroonDupatta PatternPrintedDupatta WorkNALehenga ClosureDrawstring/DoriLehenga ShapeCircular/FlaredSecondary ColorMaroonSizeFreeTrendPastel"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Silk Blend",
+        "Choli Fabric": "Art Silk",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Self Design",
+        "Sales Package": "1 Kurta, 1 Pant, 1 Dupatta",
+        "Color": "Maroon"
+      },
+      "specifications": {}
+    }
+  }
+}

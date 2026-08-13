@@ -1,0 +1,145 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itm9f805432d33b1?pid=LCHGQAPVRWXHGQDY&lid=LSTLCHGQAPVRWXHGQDYV9Q0YS&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T07:49:21.723Z",
+    "final_url": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itm9f805432d33b1?pid=LCHGQAPVRWXHGQDY&lid=LSTLCHGQAPVRWXHGQDYV9Q0YS&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:49:29.644Z"
+  },
+  "content": {
+    "title": "PURVAJA Self Design Semi Stitched Lehenga Choli (Black)",
+    "short_description": "Color: Black\nPattern: Self Design\nType: Lehenga Choli\nLehenga Fabric: Art Silk\nCholi Fabric: Jacquard\nDupatta Fabric: Art Silk\nStitching Type: Semi Stitched\nSales Package: (1, Lehengha 1, Blouse 1, Dupatta)",
+    "description": null,
+    "specifications": {
+      "Lehenga Fabric": "Art Silk",
+      "Choli Fabric": "Jacquard",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Art Silk",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Self Design",
+      "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+      "Color": "Black"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/m/h/s/free-sleeveless-kasish-purvaja-original-imagqapvzrmpd4ym.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/m/h/s/free-sleeveless-kasish-purvaja-original-imagqapvzrmpd4ym.jpeg?q=100",
+        "local_path": "../../media/images/9a16fd9d17da67e583fcbf7f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/c/l/o/free-sleeveless-kasish-purvaja-original-imagqapvzxkfjgzr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/c/l/o/free-sleeveless-kasish-purvaja-original-imagqapvzxkfjgzr.jpeg?q=100",
+        "local_path": "../../media/images/9a16fd9d17da67e583fcbf7f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/t/m/i/free-sleeveless-kasish-purvaja-original-imagqapvsfrsekub.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/t/m/i/free-sleeveless-kasish-purvaja-original-imagqapvsfrsekub.jpeg?q=100",
+        "local_path": "../../media/images/9a16fd9d17da67e583fcbf7f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/x/t/x/free-sleeveless-kasish-purvaja-original-imagqapvtz4gfz5r.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/x/t/x/free-sleeveless-kasish-purvaja-original-imagqapvtz4gfz5r.jpeg?q=100",
+        "local_path": "../../media/images/9a16fd9d17da67e583fcbf7f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-fabric/k/u/k/2-25-m-unstitched-n041white-2-5-m-gown-anarkali-kurta-bottom-original-imaha72npwdv8man.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-fabric/k/u/k/2-25-m-unstitched-n041white-2-5-m-gown-anarkali-kurta-bottom-original-imaha72npwdv8man.jpeg?q=100",
+        "local_path": "../../media/images/9a16fd9d17da67e583fcbf7f/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/c/u/r/free-na-lehengapatu-amn-pavitraa-sarees-original-imahzj4zbfgz3z85.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/c/u/r/free-na-lehengapatu-amn-pavitraa-sarees-original-imahzj4zbfgz3z85.jpeg?q=100",
+        "local_path": "../../media/images/9a16fd9d17da67e583fcbf7f/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/f/c/o/free-half-sleeve-naklhg-swami-studio-original-imahgs6m9vz4hfm4.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/f/c/o/free-half-sleeve-naklhg-swami-studio-original-imahgs6m9vz4hfm4.jpeg?q=100",
+        "local_path": "../../media/images/9a16fd9d17da67e583fcbf7f/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/p/e/f/free-sleeveless-lazya-purvaja-original-imahfkqfq7fhxgbz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/p/e/f/free-sleeveless-lazya-purvaja-original-imahfkqfq7fhxgbz.jpeg?q=100",
+        "local_path": "../../media/images/9a16fd9d17da67e583fcbf7f/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/g/t/u/free-short-sleeve-hira-purvaja-original-imahm353fpnpjgaz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/g/t/u/free-short-sleeve-hira-purvaja-original-imahm353fpnpjgaz.jpeg?q=100",
+        "local_path": "../../media/images/9a16fd9d17da67e583fcbf7f/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/e/4/u/free-short-sleeve-hira-purvaja-original-imahftqeg3wxbues.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/e/4/u/free-short-sleeve-hira-purvaja-original-imahftqeg3wxbues.jpeg?q=100",
+        "local_path": "../../media/images/9a16fd9d17da67e583fcbf7f/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/v/d/k/free-sleeveless-hiya-purvaja-original-imahg2z6kcb62azy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/v/d/k/free-sleeveless-hiya-purvaja-original-imahg2z6kcb62azy.jpeg?q=100",
+        "local_path": "../../media/images/9a16fd9d17da67e583fcbf7f/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/n/c/9/free-sleeveless-saaya-purvaja-original-imahm48fr5ynyem4.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/n/c/9/free-sleeveless-saaya-purvaja-original-imahm48fr5ynyem4.jpeg?q=100",
+        "local_path": "../../media/images/9a16fd9d17da67e583fcbf7f/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Lehenga Fabric": "Art Silk",
+        "Choli Fabric": "Jacquard",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Self Design",
+        "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+        "Color": "Black"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "9a16fd9d17da67e583fcbf7f",
+      "path": "media/images/9a16fd9d17da67e583fcbf7f/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

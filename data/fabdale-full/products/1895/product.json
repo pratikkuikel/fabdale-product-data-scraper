@@ -1,0 +1,206 @@
+{
+  "product_id": "1895",
+  "sku": "Fab-Lehenga-TRVT-001PL",
+  "product": {
+    "name": "Trivenika Border-Patterned Lehenga Choli",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/trivety-embroidered-semi-stitched-lehenga-choli/p/itm1721b4cc25f76?pid=LCHHCBVFM3PHGHH4&lid=LSTLCHHCBVFM3PHGHH4WJR18Z&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-LCHHCBVFM3PHGHH4",
+    "path": "../../sources/pid-LCHHCBVFM3PHGHH4/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/trivety-embroidered-semi-stitched-lehenga-choli/p/itm1721b4cc25f76?pid=LCHHCBVFM3PHGHH4&lid=LSTLCHHCBVFM3PHGHH4WJR18Z&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T07:50:17.791Z",
+    "final_url": "https://www.flipkart.com/trivety-embroidered-semi-stitched-lehenga-choli/p/itm1721b4cc25f76?pid=LCHHCBVFM3PHGHH4&lid=LSTLCHHCBVFM3PHGHH4WJR18Z&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:50:31.539Z"
+  },
+  "content": {
+    "title": "Trivety Embroidered Semi Stitched Lehenga Choli",
+    "short_description": "Color: Purple\nPattern: Embroidered\nType: Lehenga Choli\nLehenga Fabric: Art Silk\nCholi Fabric: Art Silk\nDupatta Fabric: Chanderi\nStitching Type: Semi Stitched\nSales Package: 1",
+    "description": "Additional Details\nReady to Wear Lehenga & Unstitched Blouse With Dupatta\n\nLehenga Choli Details\nLehenga FabricArt SilkCholi FabricArt SilkTypeLehenga CholiDupatta FabricChanderiNeckV-NeckSleeve3/4 SleeveEmbroideredYesWorkThread WorkDupattaYesStitching TypeSemi StitchedPatternEmbroideredSales Package1Blouse PatternEmbroideredBlouse Stitch TypeUnstitched BlouseBlouse TypeTraditionalBlouse WorkThread WorkColorPurpleBrand ColorPurpleDupatta PatternEmbroideredDupatta WorkThread WorkLehenga ClosureDrawstring/DoriLehenga ShapeCircular/FlaredSecondary ColorPurpleSizeFreeTrendHeavy Kali Work",
+    "specifications": {
+      "Lehenga Fabric": "Art Silk",
+      "Choli Fabric": "Art Silk",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Chanderi",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Embroidered",
+      "Sales Package": "1",
+      "Color": "Purple"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "912e39820707b6e59090fb99",
+      "path": "media/images/912e39820707b6e59090fb99/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/s/v/free-3-4-sleeve-big-savi-trivety-resized-original-imahcbvfmkfj2zcc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/s/v/free-3-4-sleeve-big-savi-trivety-resized-original-imahcbvfmkfj2zcc.jpeg?q=100",
+        "local_path": "../../media/images/912e39820707b6e59090fb99/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/n/z/o/free-3-4-sleeve-big-savi-trivety-original-imahcbvfhshzrtps.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/n/z/o/free-3-4-sleeve-big-savi-trivety-original-imahcbvfhshzrtps.jpeg?q=100",
+        "local_path": "../../media/images/912e39820707b6e59090fb99/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/g/h/free-3-4-sleeve-big-savi-trivety-original-imahcbvfgjng5ghd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/g/h/free-3-4-sleeve-big-savi-trivety-original-imahcbvfgjng5ghd.jpeg?q=100",
+        "local_path": "../../media/images/912e39820707b6e59090fb99/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/e/2/p/free-3-4-sleeve-big-savi-trivety-original-imahcbvfttprxfdn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/e/2/p/free-3-4-sleeve-big-savi-trivety-original-imahcbvfttprxfdn.jpeg?q=100",
+        "local_path": "../../media/images/912e39820707b6e59090fb99/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Trivety Embroidered Semi Stitched Lehenga Choli",
+      "description": "Trivety Embroidered Semi Stitched Lehenga Choli - Buy Trivety Embroidered Semi Stitched Lehenga Choli For Only Rs. 2499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/s/v/free-3-4-sleeve-big-savi-trivety-resized-original-imahcbvfmkfj2zcc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/n/z/o/free-3-4-sleeve-big-savi-trivety-original-imahcbvfhshzrtps.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/g/h/free-3-4-sleeve-big-savi-trivety-original-imahcbvfgjng5ghd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/e/2/p/free-3-4-sleeve-big-savi-trivety-original-imahcbvfttprxfdn.jpeg?q=70"
+      ],
+      "sku": "LCHHCBVFM3PHGHH4",
+      "color": "Purple",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 90,
+        "ratingCount": 930,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Trivety",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 920,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "ANURAG RAUT",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-23",
+          "reviewBody": "Awesome quality product.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Shantimoy  Maji",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-22",
+          "reviewBody": "Good quality product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Sejal Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2025-12-08",
+          "reviewBody": "The quality of the dress is as expected and comfortable. I love this product ❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Additional Details",
+          "body": "Ready to Wear Lehenga & Unstitched Blouse With Dupatta"
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricArt SilkCholi FabricArt SilkTypeLehenga CholiDupatta FabricChanderiNeckV-NeckSleeve3/4 SleeveEmbroideredYesWorkThread WorkDupattaYesStitching TypeSemi StitchedPatternEmbroideredSales Package1Blouse PatternEmbroideredBlouse Stitch TypeUnstitched BlouseBlouse TypeTraditionalBlouse WorkThread WorkColorPurpleBrand ColorPurpleDupatta PatternEmbroideredDupatta WorkThread WorkLehenga ClosureDrawstring/DoriLehenga ShapeCircular/FlaredSecondary ColorPurpleSizeFreeTrendHeavy Kali Work"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Art Silk",
+        "Choli Fabric": "Art Silk",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Chanderi",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Embroidered",
+        "Sales Package": "1",
+        "Color": "Purple"
+      },
+      "specifications": {}
+    }
+  }
+}

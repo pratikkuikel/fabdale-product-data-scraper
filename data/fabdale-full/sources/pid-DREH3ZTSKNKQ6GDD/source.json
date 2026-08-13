@@ -1,0 +1,181 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/sheetal-associates-women-a-line-yellow-midi-calf-length-dress/p/itm462598bce2fdf?pid=DREH3ZTSKNKQ6GDD&marketplace=FLIPKART&lid=LSTDREH3ZTSKNKQ6GDDYZRFSY&q=sheetal+associates&swatchAttr=size",
+    "scraped_at": "2026-08-12T08:42:10.285Z",
+    "final_url": "https://www.flipkart.com/sheetal-associates-women-a-line-yellow-midi-calf-length-dress/p/itm462598bce2fdf?pid=DREH3ZTSKNKQ6GDD&marketplace=FLIPKART&lid=LSTDREH3ZTSKNKQ6GDDYZRFSY&q=sheetal+associates&swatchAttr=size"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:42:21.119Z"
+  },
+  "content": {
+    "title": "Sheetal Associates Women A-line Yellow Midi/Calf Length Dress",
+    "short_description": "Color: Yellow\nPattern: Printed\nType: A-line\nSleeve: Puff Sleeves\nLength: Midi/Calf Length\nSleeve Length: 3/4 Sleeve",
+    "description": "Trend\nMidi Dress, Printed Maxi Dress, Floral prints, Fit & Flare, Flared Sleeve, Midis",
+    "specifications": {
+      "Color": "Yellow",
+      "Length": "Midi/Calf Length",
+      "Pattern": "Printed",
+      "Type": "A-line",
+      "Sleeve Length": "3/4 Sleeve",
+      "Sleeve": "Puff Sleeves"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/dress/9/u/m/l-dr11435-sheetal-associates-original-imahmaysdbrbhfjj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/dress/9/u/m/l-dr11435-sheetal-associates-original-imahmaysdbrbhfjj.jpeg?q=100",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/dress/k/z/y/l-dr11435-sheetal-associates-original-imahmaysgjxmqemk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/dress/k/z/y/l-dr11435-sheetal-associates-original-imahmaysgjxmqemk.jpeg?q=100",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/dress/b/1/g/l-dr11435-sheetal-associates-original-imahmayszz9jhdnw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/dress/b/1/g/l-dr11435-sheetal-associates-original-imahmayszz9jhdnw.jpeg?q=100",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/dress/x/m/i/l-dr11435-sheetal-associates-original-imahmayssu9wsgmd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/dress/x/m/i/l-dr11435-sheetal-associates-original-imahmayssu9wsgmd.jpeg?q=100",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/dress/c/e/g/l-dr11435-sheetal-associates-original-imahmayssv6fhj3z.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/dress/c/e/g/l-dr11435-sheetal-associates-original-imahmayssv6fhj3z.jpeg?q=100",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_c1b796e74e034a4aa4220c5b2ee7ce08.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_c1b796e74e034a4aa4220c5b2ee7ce08.jpg?q=80",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_48d35b3bf47e4490be553796448e7c07.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_48d35b3bf47e4490be553796448e7c07.jpg?q=80",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_97c22f02db7b4eb89959f25d5b69ebf4.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_97c22f02db7b4eb89959f25d5b69ebf4.jpg?q=80",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_cde654ca193d4450806cb2b0019492b9.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_cde654ca193d4450806cb2b0019492b9.jpg?q=80",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/x/v/d/xl-12516-sheetal-associates-original-imahhusfkjxzefsa.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/x/v/d/xl-12516-sheetal-associates-original-imahhusfkjxzefsa.jpeg?q=100",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/0/p/c/xxl-12504-sheetal-associates-original-imahhusfg86zdrub.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/0/p/c/xxl-12504-sheetal-associates-original-imahhusfg86zdrub.jpeg?q=100",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-skirt/z/o/t/m-1-8001-leriya-m2-s-a-line-zwerlon-women-original-imahneqp6bhqzuhz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-skirt/z/o/t/m-1-8001-leriya-m2-s-a-line-zwerlon-women-original-imahneqp6bhqzuhz.jpeg?q=100",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/p/a/t/l-11970-sheetal-associates-original-imahdjgh9ma5br46.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/p/a/t/l-11970-sheetal-associates-original-imahdjgh9ma5br46.jpeg?q=100",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/m/i/4/l-11852-honky-tonky-original-imahhjwuusbcvxkt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/m/i/4/l-11852-honky-tonky-original-imahhjwuusbcvxkt.jpeg?q=100",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/d/a/r/l-11851-sheetal-associates-original-imahc2xxhevctdzf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/d/a/r/l-11851-sheetal-associates-original-imahc2xxhevctdzf.jpeg?q=100",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/m/a/d/l-12085-sheetal-associates-original-imahzkyaadaefv49.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/m/a/d/l-12085-sheetal-associates-original-imahzkyaadaefv49.jpeg?q=100",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/p/t/g/m-12124-honky-tonky-original-imahetyncdneqzqy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/dress/p/t/g/m-12124-honky-tonky-original-imahetyncdneqzqy.jpeg?q=100",
+        "local_path": "../../media/images/a303a0bafa8b451dd15d124c/assets/images/image-017.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Trend",
+          "body": "Midi Dress, Printed Maxi Dress, Floral prints, Fit & Flare, Flared Sleeve, Midis"
+        }
+      ],
+      "product_highlights": {
+        "Color": "Yellow",
+        "Length": "Midi/Calf Length",
+        "Pattern": "Printed",
+        "Type": "A-line",
+        "Sleeve Length": "3/4 Sleeve",
+        "Sleeve": "Puff Sleeves"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a303a0bafa8b451dd15d124c",
+      "path": "media/images/a303a0bafa8b451dd15d124c/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

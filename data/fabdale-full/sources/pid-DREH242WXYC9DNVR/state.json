@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-DREH242WXYC9DNVR",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "302"
+  ],
+  "source_path": "sources/pid-DREH242WXYC9DNVR/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T08:30:55.411Z",
+  "completed_at": "2026-08-12T08:31:07.928Z"
+}

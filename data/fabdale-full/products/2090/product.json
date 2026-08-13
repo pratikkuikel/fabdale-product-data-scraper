@@ -1,0 +1,38 @@
+{
+  "product_id": "2090",
+  "sku": "Fab-Shirt-METR-011BL-M",
+  "product": {
+    "name": "Metronex Cotton Blend WesternShirt",
+    "parent_id": "5268",
+    "notes": "https://www.flipkart.com/metronaut-men-solid-casual-dark-blue-shirt/p/itm794325cca1dcb?pid=SHTHFV93HWK8FZDZ&marketplace=FLIPKART&lid=LSTSHTHFV93HWK8FZDZMZSUV9&swatchAttr=size&pageUID=1773312946714"
+  },
+  "source_bundle": {
+    "key": "pid-SHTHFV93HWK8FZDZ",
+    "path": "../../sources/pid-SHTHFV93HWK8FZDZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-dark-blue-shirt/p/itm794325cca1dcb?pid=SHTHFV93HWK8FZDZ&marketplace=FLIPKART&lid=LSTSHTHFV93HWK8FZDZMZSUV9&swatchAttr=size&pageUID=1773312946714",
+    "scraped_at": "2026-08-13T08:09:29.577Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-dark-blue-shirt/p/itm794325cca1dcb?pid=SHTHFV93HWK8FZDZ&marketplace=FLIPKART&lid=LSTSHTHFV93HWK8FZDZMZSUV9&swatchAttr=size&pageUID=1773312946714"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "locator.allTextContents: Target page, context or browser has been closed",
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T08:09:40.018Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

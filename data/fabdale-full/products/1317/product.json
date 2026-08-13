@@ -1,0 +1,187 @@
+{
+  "product_id": "1317",
+  "sku": "Fab-Salwar-DVST-017G-XL",
+  "product": {
+    "name": "Divashree Floral Salwar Suit Set",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itmb4c24988f5781?pid=ETHGTFYZGDQDX7EY&lid=LSTETHGTFYZGDQDX7EYECCXOF&marketplace=FLIPKART&sattr%5B%5D=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-ETHGTFYZGDQDX7EY",
+    "path": "../../sources/pid-ETHGTFYZGDQDX7EY/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itmb4c24988f5781?pid=ETHGTFYZGDQDX7EY&marketplace=FLIPKART&lid=LSTETHGTFYZGDQDX7EYECCXOF&swatchAttr=size&pageUID=1772786915166",
+    "scraped_at": "2026-08-12T12:32:13.545Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itmb4c24988f5781?pid=ETHGTFYZGDQDX7EY&marketplace=FLIPKART&lid=LSTETHGTFYZGDQDX7EYECCXOF&swatchAttr=size&pageUID=1772786915166"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 5,
+    "completed_at": "2026-08-12T12:32:46.639Z"
+  },
+  "content": {
+    "title": "Divastri Women Kurta Pant Dupatta Set",
+    "short_description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "49a74975e54b791744379495",
+      "path": "media/images/49a74975e54b791744379495/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/d/k/l-dupatta-set-d-k-w-resized-original-imah2vvk6cxqpwfe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/d/k/l-dupatta-set-d-k-w-resized-original-imah2vvk6cxqpwfe.jpeg?q=100",
+        "local_path": "../../media/images/49a74975e54b791744379495/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/6/p/n/l-dupatta-set-d-k-w-original-imah2vvkwwyg8qzx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/6/p/n/l-dupatta-set-d-k-w-original-imah2vvkwwyg8qzx.jpeg?q=100",
+        "local_path": "../../media/images/49a74975e54b791744379495/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/3/x/2/l-dupatta-set-d-k-w-original-imah2vvkmnuvzgv6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/3/x/2/l-dupatta-set-d-k-w-original-imah2vvkmnuvzgv6.jpeg?q=100",
+        "local_path": "../../media/images/49a74975e54b791744379495/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/7/i/l-dupatta-set-d-k-w-original-imah2vvkxtpsehxw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/7/i/l-dupatta-set-d-k-w-original-imah2vvkxtpsehxw.jpeg?q=100",
+        "local_path": "../../media/images/49a74975e54b791744379495/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/c/i/l-dupatta-set-d-k-w-original-imah2vvkbmxpfnfd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/c/i/l-dupatta-set-d-k-w-original-imah2vvkbmxpfnfd.jpeg?q=100",
+        "local_path": "../../media/images/49a74975e54b791744379495/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Kurta Pant Dupatta Set",
+      "description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/d/k/l-dupatta-set-d-k-w-resized-original-imah2vvk6cxqpwfe.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/6/p/n/l-dupatta-set-d-k-w-original-imah2vvkwwyg8qzx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/3/x/2/l-dupatta-set-d-k-w-original-imah2vvkmnuvzgv6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/7/i/l-dupatta-set-d-k-w-original-imah2vvkxtpsehxw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/c/i/l-dupatta-set-d-k-w-original-imah2vvkbmxpfnfd.jpeg?q=70"
+      ],
+      "sku": "ETHGTFYZGDQDX7EY",
+      "color": "GREEN",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 1444,
+        "ratingCount": 32385,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 606,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-21",
+          "reviewBody": "Ok ok , have to see how it is after wash",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Kanhaiya Dhakad",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-11",
+          "reviewBody": "Very nice kurta set. Perfect for summer. Fabric is good.. Go for it.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Nita Kumari Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-04",
+          "reviewBody": "Beautiful product. ❣️",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

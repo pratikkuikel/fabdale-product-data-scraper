@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-DREGM8YTDKSGC6GM",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "264"
+  ],
+  "source_path": "sources/pid-DREGM8YTDKSGC6GM/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T07:23:09.300Z",
+  "completed_at": "2026-08-12T07:23:15.686Z"
+}

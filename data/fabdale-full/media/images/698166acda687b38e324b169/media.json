@@ -1,0 +1,44 @@
+{
+  "key": "698166acda687b38e324b169",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:46:27.742Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/c/n/u/xxl-21fea11782-701819-aurelia-original-imagychemkdzhgbv.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/c/n/u/xxl-21fea11782-701819-aurelia-original-imagychemkdzhgbv.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/d/s/s/xxl-21fea11782-701819-aurelia-original-imagychegrm4aypy.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/d/s/s/xxl-21fea11782-701819-aurelia-original-imagychegrm4aypy.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/y/v/m/xxl-21fea11782-701819-aurelia-original-imagychetbqn7ehz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/y/v/m/xxl-21fea11782-701819-aurelia-original-imagychetbqn7ehz.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/r/5/j/xxl-21fea11782-701819-aurelia-original-imagyche7mfhggyu.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/r/5/j/xxl-21fea11782-701819-aurelia-original-imagyche7mfhggyu.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/b/o/o/xxl-21fea11782-701819-aurelia-original-imagychezyzzdbyg.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kl5hh8w0/kurta/b/o/o/xxl-21fea11782-701819-aurelia-original-imagychezyzzdbyg.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

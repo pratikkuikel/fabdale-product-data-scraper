@@ -1,0 +1,108 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kedar-fab-self-design-semi-stitched-lehenga-choli/p/itm8afee88a7ae2f?pid=LCHHANFPFPXRKWJN&otracker=wishlist&lid=LSTLCHHANFPFPXRKWJN4Z6HKE&fm=organic&iid=7a9a8405-e62c-499a-b842-85d413b36254.LCHHANFPFPXRKWJN.PRODUCTSUMMARY&ppt=None&ppn=None&ssid=3c7e24aeuo0000001757601775710",
+    "scraped_at": "2026-08-13T07:23:47.770Z",
+    "final_url": "https://www.flipkart.com/kedar-fab-self-design-semi-stitched-lehenga-choli/p/itm8afee88a7ae2f?pid=LCHHANFPFPXRKWJN&otracker=wishlist&lid=LSTLCHHANFPFPXRKWJN4Z6HKE&fm=organic&iid=7a9a8405-e62c-499a-b842-85d413b36254.LCHHANFPFPXRKWJN.PRODUCTSUMMARY&ppt=None&ppn=None&ssid=3c7e24aeuo0000001757601775710"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:23:53.060Z"
+  },
+  "content": {
+    "title": "Kedar Fab Self Design Semi Stitched Lehenga Choli",
+    "short_description": "Kedar Fab Self Design Semi Stitched Lehenga Choli - Buy Kedar Fab Self Design Semi Stitched Lehenga Choli For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Kedar Fab Self Design Semi Stitched Lehenga Choli - Buy Kedar Fab Self Design Semi Stitched Lehenga Choli For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/p/e/free-half-sleeve-purple-niyati-lehenga-kf-kedar-fab-original-imahanfpnrghdyay.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/p/e/free-half-sleeve-purple-niyati-lehenga-kf-kedar-fab-original-imahanfpnrghdyay.jpeg?q=100",
+        "local_path": "../../media/images/ee20fee18db04e1fed9b15ec/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/u/v/free-half-sleeve-purple-niyati-lehenga-kf-kedar-fab-original-imahanfpsdhcnhwg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/u/v/free-half-sleeve-purple-niyati-lehenga-kf-kedar-fab-original-imahanfpsdhcnhwg.jpeg?q=100",
+        "local_path": "../../media/images/ee20fee18db04e1fed9b15ec/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/m/x/free-half-sleeve-purple-niyati-lehenga-kf-kedar-fab-original-imahanfpdyyyv6yx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/m/x/free-half-sleeve-purple-niyati-lehenga-kf-kedar-fab-original-imahanfpdyyyv6yx.jpeg?q=100",
+        "local_path": "../../media/images/ee20fee18db04e1fed9b15ec/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Kedar Fab Self Design Semi Stitched Lehenga Choli",
+      "description": "Kedar Fab Self Design Semi Stitched Lehenga Choli - Buy Kedar Fab Self Design Semi Stitched Lehenga Choli For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/p/e/free-half-sleeve-purple-niyati-lehenga-kf-kedar-fab-original-imahanfpnrghdyay.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/u/v/free-half-sleeve-purple-niyati-lehenga-kf-kedar-fab-original-imahanfpsdhcnhwg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/m/x/free-half-sleeve-purple-niyati-lehenga-kf-kedar-fab-original-imahanfpdyyyv6yx.jpeg?q=70"
+      ],
+      "sku": "LCHHANFPFPXRKWJN",
+      "color": "Purple",
+      "category": "lehenga_choli",
+      "brand": {
+        "name": "Kedar Fab",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 578,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ee20fee18db04e1fed9b15ec",
+      "path": "media/images/ee20fee18db04e1fed9b15ec/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

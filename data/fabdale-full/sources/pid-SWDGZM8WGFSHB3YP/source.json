@@ -1,0 +1,168 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-embroidered-kurta-trouser-pant-dupatta-set/p/itmca58f6574312a?pid=SWDGZM8WGFSHB3YP&marketplace=FLIPKART&lid=LSTSWDGZM8WGFSHB3YPEVCP7C&swatchAttr=size&pageUID=1772811095078",
+    "scraped_at": "2026-08-12T15:42:41.713Z",
+    "final_url": "https://www.flipkart.com/royal-export-embroidered-kurta-trouser-pant-dupatta-set/p/itmca58f6574312a?pid=SWDGZM8WGFSHB3YP&marketplace=FLIPKART&lid=LSTSWDGZM8WGFSHB3YPEVCP7C&swatchAttr=size&pageUID=1772811095078"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:42:52.254Z"
+  },
+  "content": {
+    "title": "Royal Export Embroidered Kurta, Trouser/Pant & Dupatta Set",
+    "short_description": "Royal Export Embroidered Kurta, Trouser/Pant & Dupatta Set - Buy Royal Export Embroidered Kurta, Trouser/Pant & Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Royal Export Embroidered Kurta, Trouser/Pant & Dupatta Set - Buy Royal Export Embroidered Kurta, Trouser/Pant & Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/a/d/4/m-rx048-ktd-purple-royal-export-original-imahc6gwhhshrfvf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/a/d/4/m-rx048-ktd-purple-royal-export-original-imahc6gwhhshrfvf.jpeg?q=100",
+        "local_path": "../../media/images/1062800ffc115b069568067b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/4/2/i/m-rx048-ktd-purple-royal-export-original-imahc6gw9wz2qfpe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/4/2/i/m-rx048-ktd-purple-royal-export-original-imahc6gw9wz2qfpe.jpeg?q=100",
+        "local_path": "../../media/images/1062800ffc115b069568067b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/b/p/z/m-rx048-ktd-purple-royal-export-original-imahc6gwzsz9wseu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/b/p/z/m-rx048-ktd-purple-royal-export-original-imahc6gwzsz9wseu.jpeg?q=100",
+        "local_path": "../../media/images/1062800ffc115b069568067b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/i/m/m-rx048-ktd-purple-royal-export-original-imahc6gwpkkfyugh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/i/m/m-rx048-ktd-purple-royal-export-original-imahc6gwpkkfyugh.jpeg?q=100",
+        "local_path": "../../media/images/1062800ffc115b069568067b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Embroidered Kurta, Trouser/Pant & Dupatta Set",
+      "description": "Royal Export Embroidered Kurta, Trouser/Pant & Dupatta Set - Buy Royal Export Embroidered Kurta, Trouser/Pant & Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/a/d/4/m-rx048-ktd-purple-royal-export-original-imahc6gwhhshrfvf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/4/2/i/m-rx048-ktd-purple-royal-export-original-imahc6gw9wz2qfpe.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/b/p/z/m-rx048-ktd-purple-royal-export-original-imahc6gwzsz9wseu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/i/m/m-rx048-ktd-purple-royal-export-original-imahc6gwpkkfyugh.jpeg?q=70"
+      ],
+      "sku": "SWDGZM8WGFSHB3YP",
+      "color": "Purple",
+      "category": "salwar_kurta_dupatta",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 808,
+        "ratingCount": 14606,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 484,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Aakanksha Jindal",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-16",
+          "reviewBody": "Suit is very beautiful and colourful. Colour and material is same as shown. Just loved the piece.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "kashish singla",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-20",
+          "reviewBody": "Quality of this kurta set is really great and it is perfect for summers , daily wear and office wear as well colours are very vibrant and fitting is also good i love it and it is a must buy kurta set",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Daksh G",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-23",
+          "reviewBody": "I like this suit. Perfectly fitted my sister. Quality is superior, did not bleed after wash. Price is worth offering. Soft and comfortable",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1062800ffc115b069568067b",
+      "path": "media/images/1062800ffc115b069568067b/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

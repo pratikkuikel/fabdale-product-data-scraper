@@ -1,0 +1,189 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/fabcartz-floral-print-semi-stitched-lehenga-choli/p/itmfgd6pgqp57mg4?pid=LCHFGD49CE3AVYHY&lid=LSTLCHFGD49CE3AVYHYYMPKGJ&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:34:02.775Z",
+    "final_url": "https://www.flipkart.com/fabcartz-floral-print-semi-stitched-lehenga-choli/p/itmfgd6pgqp57mg4?pid=LCHFGD49CE3AVYHY&lid=LSTLCHFGD49CE3AVYHYYMPKGJ&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-13T07:34:15.949Z"
+  },
+  "content": {
+    "title": "Fabcartz Floral Print Semi Stitched Lehenga Choli",
+    "short_description": "Color: Green, Blue\nPattern: Floral Print\nType: Lehenga Choli\nLehenga Fabric: Cotton Blend\nCholi Fabric: Silk\nStitching Type: Semi Stitched\nSales Package: 1 Lehanga , 1 Unstitch Choli, 1 Duptta",
+    "description": "Additional Details\ncholi is unstitched and 0.8 meter fabric is there for choli.\n\nLehenga Choli Details\nLehenga FabricCotton BlendCholi FabricSilkTypeLehenga CholiNeckRound NeckSleeveHalf SleeveEmbroideredNoWorkZari WorkDupattaYesStitching TypeSemi StitchedPatternFloral PrintSales Package1 Lehanga , 1 Unstitch Choli, 1 DupttaBlouse PatternPrintedBlouse Stitch TypeUnstitched BlouseColorGreen, BlueBrand ColorRamaLehenga ShapeCircular/FlaredSecondary ColorBlueSizeFree",
+    "specifications": {
+      "Lehenga Fabric": "Cotton Blend",
+      "Choli Fabric": "Silk",
+      "Type": "Lehenga Choli",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Floral Print",
+      "Sales Package": "1 Lehanga , 1 Unstitch Choli, 1 Duptta",
+      "Color": "Green, Blue"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/z/z/r/free-rk1009-lehnega-choli-mr-y-original-imafgd42hdrarncf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/z/z/r/free-rk1009-lehnega-choli-mr-y-original-imafgd42hdrarncf.jpeg?q=100",
+        "local_path": "../../media/images/4814eeb66b7b74b5d1896302/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/z/z/r/free-rk1009-lehnega-choli-mr-y-original-imafgd42a4scjfyg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/z/z/r/free-rk1009-lehnega-choli-mr-y-original-imafgd42a4scjfyg.jpeg?q=100",
+        "local_path": "../../media/images/4814eeb66b7b74b5d1896302/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/h/s/d/free-rk1010-lehenga-choli-payu-original-imafgd3pvrzgzncj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/h/s/d/free-rk1010-lehenga-choli-payu-original-imafgd3pvrzgzncj.jpeg?q=100",
+        "local_path": "../../media/images/4814eeb66b7b74b5d1896302/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/z/z/r/free-rk1009-lehnega-choli-mr-y-original-imafgd42qzhvpthr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/z/z/r/free-rk1009-lehnega-choli-mr-y-original-imafgd42qzhvpthr.jpeg?q=100",
+        "local_path": "../../media/images/4814eeb66b7b74b5d1896302/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/u/p/s/free-rk1009-lehenga-choli-shree-creation-original-imafgd43zztaukf4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/u/p/s/free-rk1009-lehenga-choli-shree-creation-original-imafgd43zztaukf4.jpeg?q=100",
+        "local_path": "../../media/images/4814eeb66b7b74b5d1896302/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Fabcartz Floral Print Semi Stitched Lehenga Choli",
+      "description": "Fabcartz Floral Print Semi Stitched Lehenga Choli - Buy Fabcartz Floral Print Semi Stitched Lehenga Choli For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/z/z/r/free-rk1009-lehnega-choli-mr-y-original-imafgd42hdrarncf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/z/z/r/free-rk1009-lehnega-choli-mr-y-original-imafgd42a4scjfyg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/h/s/d/free-rk1010-lehenga-choli-payu-original-imafgd3pvrzgzncj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/z/z/r/free-rk1009-lehnega-choli-mr-y-original-imafgd42qzhvpthr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/jvif0y80/lehenga-choli/u/p/s/free-rk1009-lehenga-choli-shree-creation-original-imafgd43zztaukf4.jpeg?q=70"
+      ],
+      "sku": "LCHFGD49CE3AVYHY",
+      "color": "Rama",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 139,
+        "ratingCount": 539,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Fabcartz",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 516,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Rajan Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2019-10-01",
+          "reviewBody": "Awesome cloth quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2019-05-24",
+          "reviewBody": "owsm product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2019-10-27",
+          "reviewBody": "mind blowing purchase very beautiful lehnga I love it highly recommend I got at 949+50coin it make my diwali.duptta is not so. I have 5'8\" height  it is perfect for me length of skirt is too good perfect lehnga",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Additional Details",
+          "body": "choli is unstitched and 0.8 meter fabric is there for choli."
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricCotton BlendCholi FabricSilkTypeLehenga CholiNeckRound NeckSleeveHalf SleeveEmbroideredNoWorkZari WorkDupattaYesStitching TypeSemi StitchedPatternFloral PrintSales Package1 Lehanga , 1 Unstitch Choli, 1 DupttaBlouse PatternPrintedBlouse Stitch TypeUnstitched BlouseColorGreen, BlueBrand ColorRamaLehenga ShapeCircular/FlaredSecondary ColorBlueSizeFree"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Cotton Blend",
+        "Choli Fabric": "Silk",
+        "Type": "Lehenga Choli",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Floral Print",
+        "Sales Package": "1 Lehanga , 1 Unstitch Choli, 1 Duptta",
+        "Color": "Green, Blue"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4814eeb66b7b74b5d1896302",
+      "path": "media/images/4814eeb66b7b74b5d1896302/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

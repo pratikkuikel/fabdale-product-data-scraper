@@ -1,0 +1,222 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/zwerlon-women-fit-flare-multicolor-midi-calf-length-dress/p/itm3e495b2faf5c4?pid=DREHF5TYZ2Z7GAHT&marketplace=FLIPKART&lid=LSTDREHF5TYZ2Z7GAHTCF0WZR&q=zwerlon+dress&fm=search-autosuggest&swatchAttr=size&pageUID=1772361145123",
+    "scraped_at": "2026-08-12T08:30:43.638Z",
+    "final_url": "https://www.flipkart.com/zwerlon-women-fit-flare-multicolor-midi-calf-length-dress/p/itm3e495b2faf5c4?pid=DREHF5TYZ2Z7GAHT&marketplace=FLIPKART&lid=LSTDREHF5TYZ2Z7GAHTCF0WZR&q=zwerlon+dress&fm=search-autosuggest&swatchAttr=size&pageUID=1772361145123"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:30:48.498Z"
+  },
+  "content": {
+    "title": "ZWERLON Women Fit and Flare Multicolor Midi/Calf Length Dress",
+    "short_description": "Color: Multicolor\nPattern: Floral Print\nType: Fit and Flare\nSleeve: Off Shoulder Sleeve\nLength: Midi/Calf Length\nSleeve Length: Short Sleeve",
+    "description": "Vibrant Printed Pattern\nThe dress features a lively and dynamic digital print pattern, making it perfect for parties and spe…\n\nOff-Shoulder Elegance\nThe off-shoulder neckline of this dress exudes a sense of allure and charm, showcasing your shoulder…\n\nFlattering Fit and Flare Silhouette\nThe fit and flare silhouette of this dress accentuates your curves while providing a comfortable and…\n\nEasy Care Crepe Fabric\nCrafted from high-quality crepe fabric, this dress offers a luxurious feel and a smooth drape. The m…\n\nMidi/Calf Length Elegance\nWith a midi/calf length design, this dress strikes the perfect balance between sophistication and co…",
+    "specifications": {
+      "Color": "Multicolor",
+      "Length": "Midi/Calf Length",
+      "Pattern": "Floral Print",
+      "Type": "Fit and Flare",
+      "Sleeve Length": "Short Sleeve",
+      "Sleeve": "Off Shoulder Sleeve"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/e/p/z/xs-7001-zwerlon-original-imahf5tycrgqpb27.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/e/p/z/xs-7001-zwerlon-original-imahf5tycrgqpb27.jpeg?q=100",
+        "local_path": "../../media/images/d45e9bf13fbc22e97510e5a2/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/w/j/m/xs-7001-zwerlon-original-imahf5tyyzjmt4tt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/w/j/m/xs-7001-zwerlon-original-imahf5tyyzjmt4tt.jpeg?q=100",
+        "local_path": "../../media/images/d45e9bf13fbc22e97510e5a2/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/g/e/p/xs-7001-zwerlon-original-imahf5ty6m7ggjhm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/g/e/p/xs-7001-zwerlon-original-imahf5ty6m7ggjhm.jpeg?q=100",
+        "local_path": "../../media/images/d45e9bf13fbc22e97510e5a2/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/y/c/g/xs-7001-zwerlon-original-imahf5tythegrqhf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/y/c/g/xs-7001-zwerlon-original-imahf5tythegrqhf.jpeg?q=100",
+        "local_path": "../../media/images/d45e9bf13fbc22e97510e5a2/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/5/i/z/xs-7001-zwerlon-original-imahf5tywqyhahk8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/5/i/z/xs-7001-zwerlon-original-imahf5tywqyhahk8.jpeg?q=100",
+        "local_path": "../../media/images/d45e9bf13fbc22e97510e5a2/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNft837l9aQ16-NVNGeuYe-A/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "ZWERLON Women Fit and Flare Multicolor Midi/Calf Length Dress",
+      "description": "ZWERLON Women Fit and Flare Multicolor Midi/Calf Length Dress - Buy ZWERLON Women Fit and Flare Multicolor Midi/Calf Length Dress For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/e/p/z/xs-7001-zwerlon-original-imahf5tycrgqpb27.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/w/j/m/xs-7001-zwerlon-original-imahf5tyyzjmt4tt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/g/e/p/xs-7001-zwerlon-original-imahf5ty6m7ggjhm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/y/c/g/xs-7001-zwerlon-original-imahf5tythegrqhf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/5/i/z/xs-7001-zwerlon-original-imahf5tywqyhahk8.jpeg?q=70"
+      ],
+      "sku": "DREHF5TYZ2Z7GAHT",
+      "color": "Orange Pink",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 302,
+        "ratingCount": 4607,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "ZWERLON",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 374,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Priyanka  Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-19",
+          "reviewBody": "Must buy",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Avijit Biswas",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-18",
+          "reviewBody": "Excellent dress thankyou Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-10",
+          "reviewBody": "Very nice \nPretty dress",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Vibrant Printed Pattern",
+          "body": "The dress features a lively and dynamic digital print pattern, making it perfect for parties and spe…"
+        },
+        {
+          "heading": "Off-Shoulder Elegance",
+          "body": "The off-shoulder neckline of this dress exudes a sense of allure and charm, showcasing your shoulder…"
+        },
+        {
+          "heading": "Flattering Fit and Flare Silhouette",
+          "body": "The fit and flare silhouette of this dress accentuates your curves while providing a comfortable and…"
+        },
+        {
+          "heading": "Easy Care Crepe Fabric",
+          "body": "Crafted from high-quality crepe fabric, this dress offers a luxurious feel and a smooth drape. The m…"
+        },
+        {
+          "heading": "Midi/Calf Length Elegance",
+          "body": "With a midi/calf length design, this dress strikes the perfect balance between sophistication and co…"
+        }
+      ],
+      "product_highlights": {
+        "Color": "Multicolor",
+        "Length": "Midi/Calf Length",
+        "Pattern": "Floral Print",
+        "Type": "Fit and Flare",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve": "Off Shoulder Sleeve"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "d45e9bf13fbc22e97510e5a2",
+      "path": "media/images/d45e9bf13fbc22e97510e5a2/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "c155da0f11230cd2c25e978b",
+      "path": "media/videos/c155da0f11230cd2c25e978b/media.json",
+      "reused": true
+    }
+  }
+}

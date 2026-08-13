@@ -1,0 +1,187 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itma9e8edc591107?pid=FABHFTHETT3RZPAT&lid=LSTFABHFTHETT3RZPATFHGTOY&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:31:21.649Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itma9e8edc591107?pid=FABHFTHETT3RZPAT&lid=LSTFABHFTHETT3RZPATFHGTOY&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:31:29.373Z"
+  },
+  "content": {
+    "title": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 fabric set\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.2498.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 fabric set",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/y/0/l/yes-2-m-unstitched-2-10m-6049-02-houseofcommon-original-imahcuyhhppwbefa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/y/0/l/yes-2-m-unstitched-2-10m-6049-02-houseofcommon-original-imahcuyhhppwbefa.jpeg?q=100",
+        "local_path": "../../media/images/bc23346a43337d3ef413d0e3/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/1/1/g/yes-2-m-unstitched-2-10m-6049-02-houseofcommon-original-imahcuyhkxhhm2kz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/1/1/g/yes-2-m-unstitched-2-10m-6049-02-houseofcommon-original-imahcuyhkxhhm2kz.jpeg?q=100",
+        "local_path": "../../media/images/bc23346a43337d3ef413d0e3/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/d/p/yes-2-25-m-unstitched-2-36-m-vc-02-vc-fashion-original-imahfsjzzg7fmx5m.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/d/p/yes-2-25-m-unstitched-2-36-m-vc-02-vc-fashion-original-imahfsjzzg7fmx5m.jpeg?q=100",
+        "local_path": "../../media/images/bc23346a43337d3ef413d0e3/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/SELLER_CATALOG/CNzni9k2LITiaP5Ya8Mtytkw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+      "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.2498.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/y/0/l/yes-2-m-unstitched-2-10m-6049-02-houseofcommon-original-imahcuyhhppwbefa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/1/1/g/yes-2-m-unstitched-2-10m-6049-02-houseofcommon-original-imahcuyhkxhhm2kz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/d/p/yes-2-25-m-unstitched-2-36-m-vc-02-vc-fashion-original-imahfsjzzg7fmx5m.jpeg?q=70"
+      ],
+      "sku": "FABHFTHETT3RZPAT",
+      "color": "yellow-03",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 6,
+        "ratingCount": 112,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "krishna boutique",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 448,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-31",
+          "reviewBody": "Top length 2.25😔",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Dipa Dutta",
+            "@type": "Person"
+          },
+          "datePublished": "2026-07-12",
+          "reviewBody": "Nice product.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Rubina R+m",
+            "@type": "Person"
+          },
+          "datePublished": "2026-07-06",
+          "reviewBody": "Nice baby good quality and same received on parcel",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 fabric set",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bc23346a43337d3ef413d0e3",
+      "path": "media/images/bc23346a43337d3ef413d0e3/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "7228b4007e1d877ce7ea6ff7",
+      "path": "media/videos/7228b4007e1d877ce7ea6ff7/media.json",
+      "reused": false
+    }
+  }
+}

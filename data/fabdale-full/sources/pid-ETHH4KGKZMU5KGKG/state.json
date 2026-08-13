@@ -1,0 +1,21 @@
+{
+  "source_key": "pid-ETHH4KGKZMU5KGKG",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1593",
+    "5260",
+    "7169",
+    "7170",
+    "7171",
+    "7172",
+    "7173"
+  ],
+  "source_path": "sources/pid-ETHH4KGKZMU5KGKG/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T15:51:37.663Z",
+  "completed_at": "2026-08-12T15:51:47.330Z"
+}

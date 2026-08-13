@@ -1,0 +1,187 @@
+{
+  "product_id": "479",
+  "sku": "Fab-Saree-SMH-002PK",
+  "product": {
+    "name": "Sharini Floral Printed Georgette & Chiffon",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/samah-printed-daily-wear-georgette-chiffon-saree/p/itme02e35a16b1ea?pid=SARHAY6EYCVJDT5V&lid=LSTSARHAY6EYCVJDT5V4ZMHMX&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SARHAY6EYCVJDT5V",
+    "path": "../../sources/pid-SARHAY6EYCVJDT5V/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/samah-printed-daily-wear-georgette-chiffon-saree/p/itme02e35a16b1ea?pid=SARHAY6EYCVJDT5V&lid=LSTSARHAY6EYCVJDT5V4ZMHMX&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T08:56:16.607Z",
+    "final_url": "https://www.flipkart.com/samah-printed-daily-wear-georgette-chiffon-saree/p/itme02e35a16b1ea?pid=SARHAY6EYCVJDT5V&lid=LSTSARHAY6EYCVJDT5V4ZMHMX&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:56:25.796Z"
+  },
+  "content": {
+    "title": "Samah Printed Daily Wear Georgette, Chiffon Saree",
+    "short_description": "Samah Printed Daily Wear Georgette, Chiffon Saree - Buy Samah Printed Daily Wear Georgette, Chiffon Saree For Only Rs. 1782.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Samah Printed Daily Wear Georgette, Chiffon Saree - Buy Samah Printed Daily Wear Georgette, Chiffon Saree For Only Rs. 1782.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "74d05e15e99eb44be9894f6b",
+      "path": "media/images/74d05e15e99eb44be9894f6b/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/e/o/8/free-4288s3062-samah-unstitched-resized-original-imahkyu7xgqfqybj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/e/o/8/free-4288s3062-samah-unstitched-resized-original-imahkyu7xgqfqybj.jpeg?q=100",
+        "local_path": "../../media/images/74d05e15e99eb44be9894f6b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/c/w/free-4288s3062-samah-unstitched-original-imahkyu7fwwzfcrg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/c/w/free-4288s3062-samah-unstitched-original-imahkyu7fwwzfcrg.jpeg?q=100",
+        "local_path": "../../media/images/74d05e15e99eb44be9894f6b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/c/e/free-4288s3062-samah-unstitched-original-imahkyu7ramaw2hs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/c/e/free-4288s3062-samah-unstitched-original-imahkyu7ramaw2hs.jpeg?q=100",
+        "local_path": "../../media/images/74d05e15e99eb44be9894f6b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/p/i/free-4288s3062-samah-unstitched-original-imahkyu7nvazf4je.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/p/i/free-4288s3062-samah-unstitched-original-imahkyu7nvazf4je.jpeg?q=100",
+        "local_path": "../../media/images/74d05e15e99eb44be9894f6b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/2/h/b/free-4288s3062-samah-unstitched-original-imahkyu7ndycvkrf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/2/h/b/free-4288s3062-samah-unstitched-original-imahkyu7ndycvkrf.jpeg?q=100",
+        "local_path": "../../media/images/74d05e15e99eb44be9894f6b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Samah Printed Daily Wear Georgette, Chiffon Saree",
+      "description": "Samah Printed Daily Wear Georgette, Chiffon Saree - Buy Samah Printed Daily Wear Georgette, Chiffon Saree For Only Rs. 1782.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/e/o/8/free-4288s3062-samah-unstitched-resized-original-imahkyu7xgqfqybj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/c/w/free-4288s3062-samah-unstitched-original-imahkyu7fwwzfcrg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/c/e/free-4288s3062-samah-unstitched-original-imahkyu7ramaw2hs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/p/i/free-4288s3062-samah-unstitched-original-imahkyu7nvazf4je.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/2/h/b/free-4288s3062-samah-unstitched-original-imahkyu7ndycvkrf.jpeg?q=70"
+      ],
+      "sku": "SARHAY6EYCVJDT5V",
+      "color": "Rose Pink",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 93,
+        "ratingCount": 1995,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Samah",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 448,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Nidhi ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-22",
+          "reviewBody": "The saree looks even better in person The quality is top-notch and the embroidery is so detailed and neat wore it for a festive occasion and everyone kept asking where I bought it from very happy with my purchase",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Payal Singhal",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-19",
+          "reviewBody": "Lightweight and easy to wear! The prints look really pretty and the fabric feels comfy for daily use. Great pick for the price!",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Unsatisfactory",
+          "author": {
+            "name": "Vanshika Awasthi",
+            "@type": "Person"
+          },
+          "datePublished": "2026-08-11",
+          "reviewBody": "It's not worth of money",
+          "reviewRating": {
+            "ratingValue": 1,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

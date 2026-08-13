@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-LCHHCBVFM3PHGHH4",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1895"
+  ],
+  "source_path": "sources/pid-LCHHCBVFM3PHGHH4/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T07:50:17.742Z",
+  "completed_at": "2026-08-13T07:50:31.539Z"
+}

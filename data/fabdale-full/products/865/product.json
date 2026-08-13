@@ -1,0 +1,161 @@
+{
+  "product_id": "865",
+  "sku": "Fab-Salwar-PLDI-019G-M",
+  "product": {
+    "name": "Pilessa Digital Print Chanderi Kurta Salwar Suit Set",
+    "parent_id": "868",
+    "notes": "https://www.flipkart.com/piludi-embroidered-kurta-salwar-dupatta-set/p/itm5038045485e45?pid=SWDHFYP7FYEQHFWF&marketplace=FLIPKART&lid=LSTSWDHFYP7FYEQHFWF65BIBM&swatchAttr=size&pageUID=1772639428651"
+  },
+  "source_bundle": {
+    "key": "pid-SWDHFYP7FYEQHFWF",
+    "path": "../../sources/pid-SWDHFYP7FYEQHFWF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/piludi-embroidered-kurta-salwar-dupatta-set/p/itm5038045485e45?pid=SWDHFYP7FYEQHFWF&marketplace=FLIPKART&lid=LSTSWDHFYP7FYEQHFWF65BIBM&swatchAttr=size&pageUID=1772639428651",
+    "scraped_at": "2026-08-12T11:04:56.337Z",
+    "final_url": "https://www.flipkart.com/piludi-embroidered-kurta-salwar-dupatta-set/p/itm5038045485e45?pid=SWDHFYP7FYEQHFWF&marketplace=FLIPKART&lid=LSTSWDHFYP7FYEQHFWF65BIBM&swatchAttr=size&pageUID=1772639428651"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:05:08.465Z"
+  },
+  "content": {
+    "title": "PILUDI Embroidered Kurta, Salwar & Dupatta Set",
+    "short_description": "Color: Green\nPattern: Embroidered\nType: Kurta, Salwar & Dupatta Set\nTop Type: Kurti\nBottom Type: Salwar",
+    "description": "Additional Details\nKurti Fabric: Viscose Rayon Soft, breathable, and lightweight Comfortable for all-day wear Good drape and smooth texture, Pant Fabric: Viscose Rayon Matching or contrasting with kurti Elasticated or drawstring waist for comfort Straight cut or tapered style, Dupatta Print: Digital floral, abstract, ethnic, or modern print, Pant Fabric: Viscose Rayon, Dupatta Print: Digital floral, abstract, ethnic, or modern print\n\nSalwar Kurta Dupatta Details\nKurta FabricViscose BlendSalwar FabricSilkTypeKurta, Salwar & Dupatta SetDupatta FabricArt SilkKurta TypeStraightNeckRound NeckSleeve3/4 SleeveTop TypeKurtiBottom TypeSalwarColorGreenPatternEmbroideredDetail PlacementAll - OverDupatta IncludedYesOrnamentation TypeNonePattern/Print TypeDigital PrintSecondary ColorGreenSizeMSleeve StyleRegular SleevesSuitable ForEthnic WearSurface StylingAppliqueTrendSolid Kurtas",
+    "specifications": {
+      "Type": "Kurta, Salwar & Dupatta Set",
+      "Top Type": "Kurti",
+      "Bottom Type": "Salwar",
+      "Color": "Green",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "108c3b1e00dd7cd146a579a8",
+      "path": "media/images/108c3b1e00dd7cd146a579a8/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/d/z/n/xl-sw-arpita-piludi-original-imahgxh7kuwnxwf5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/d/z/n/xl-sw-arpita-piludi-original-imahgxh7kuwnxwf5.jpeg?q=100",
+        "local_path": "../../media/images/108c3b1e00dd7cd146a579a8/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/9/m/h/xl-sw-arpita-piludi-original-imahgxh7v6mjjkf2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/9/m/h/xl-sw-arpita-piludi-original-imahgxh7v6mjjkf2.jpeg?q=100",
+        "local_path": "../../media/images/108c3b1e00dd7cd146a579a8/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/p/w/c/xxl-sw-amisha-piludi-house-original-imahgqw9zug5jgdy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/p/w/c/xxl-sw-amisha-piludi-house-original-imahgqw9zug5jgdy.jpeg?q=100",
+        "local_path": "../../media/images/108c3b1e00dd7cd146a579a8/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/v/c/u/xxl-sw-amisha-piludi-house-original-imahgqw9g2kjzuwe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/v/c/u/xxl-sw-amisha-piludi-house-original-imahgqw9g2kjzuwe.jpeg?q=100",
+        "local_path": "../../media/images/108c3b1e00dd7cd146a579a8/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/z/s/xl-sw-arpita-piludi-original-imahgcfubc8aygda.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/z/s/xl-sw-arpita-piludi-original-imahgcfubc8aygda.jpeg?q=100",
+        "local_path": "../../media/images/108c3b1e00dd7cd146a579a8/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PILUDI Embroidered Kurta, Salwar & Dupatta Set",
+      "description": "PILUDI Embroidered Kurta, Salwar & Dupatta Set - Buy PILUDI Embroidered Kurta, Salwar & Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/d/z/n/xl-sw-arpita-piludi-original-imahgxh7kuwnxwf5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/9/m/h/xl-sw-arpita-piludi-original-imahgxh7v6mjjkf2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/p/w/c/xxl-sw-amisha-piludi-house-original-imahgqw9zug5jgdy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/v/c/u/xxl-sw-amisha-piludi-house-original-imahgqw9g2kjzuwe.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/z/s/xl-sw-arpita-piludi-original-imahgcfubc8aygda.jpeg?q=70"
+      ],
+      "sku": "SWDHFYP7FYEQHFWF",
+      "color": "Green",
+      "category": "salwar_kurta_dupatta",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "ratingCount": 9,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PILUDI",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 736,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Additional Details",
+          "body": "Kurti Fabric: Viscose Rayon Soft, breathable, and lightweight Comfortable for all-day wear Good drape and smooth texture, Pant Fabric: Viscose Rayon Matching or contrasting with kurti Elasticated or drawstring waist for comfort Straight cut or tapered style, Dupatta Print: Digital floral, abstract, ethnic, or modern print, Pant Fabric: Viscose Rayon, Dupatta Print: Digital floral, abstract, ethnic, or modern print"
+        },
+        {
+          "heading": "Salwar Kurta Dupatta Details",
+          "body": "Kurta FabricViscose BlendSalwar FabricSilkTypeKurta, Salwar & Dupatta SetDupatta FabricArt SilkKurta TypeStraightNeckRound NeckSleeve3/4 SleeveTop TypeKurtiBottom TypeSalwarColorGreenPatternEmbroideredDetail PlacementAll - OverDupatta IncludedYesOrnamentation TypeNonePattern/Print TypeDigital PrintSecondary ColorGreenSizeMSleeve StyleRegular SleevesSuitable ForEthnic WearSurface StylingAppliqueTrendSolid Kurtas"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Kurta, Salwar & Dupatta Set",
+        "Top Type": "Kurti",
+        "Bottom Type": "Salwar",
+        "Color": "Green",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  }
+}

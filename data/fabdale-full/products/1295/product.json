@@ -1,0 +1,212 @@
+{
+  "product_id": "1295",
+  "sku": "Fab-Salwar-DVST-016WI-M",
+  "product": {
+    "name": "Divashree Viscose Rayon  Salwar Suit Set",
+    "parent_id": "5224",
+    "notes": "https://www.flipkart.com/divastri-women-ethnic-top-pant-attached-dupatta-set/p/itmc0bfc1004ce3d?pid=ETHH2TS6SZ5J4V5E&marketplace=FLIPKART&lid=LSTETHH2TS6SZ5J4V5ESRS1LM&swatchAttr=size&pageUID=1772782001233"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH2TS6SZ5J4V5E",
+    "path": "../../sources/pid-ETHH2TS6SZ5J4V5E/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-ethnic-top-pant-attached-dupatta-set/p/itmc0bfc1004ce3d?pid=ETHH2TS6SZ5J4V5E&marketplace=FLIPKART&lid=LSTETHH2TS6SZ5J4V5ESRS1LM&swatchAttr=size&pageUID=1772782001233",
+    "scraped_at": "2026-08-12T12:24:59.351Z",
+    "final_url": "https://www.flipkart.com/divastri-women-ethnic-top-pant-attached-dupatta-set/p/itmc0bfc1004ce3d?pid=ETHH2TS6SZ5J4V5E&marketplace=FLIPKART&lid=LSTETHH2TS6SZ5J4V5ESRS1LM&swatchAttr=size&pageUID=1772782001233"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T12:25:46.660Z"
+  },
+  "content": {
+    "title": "Divastri Women Ethnic Top Pant Attached Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Embroidered\nFabricViscose Rayon: PatternEmbroidered",
+    "description": "Elegant Printed Design\nThis women's ethnic set features a beautiful printed design that adds a touch of elegance to your at…\n\nStylish Pant Bottoms\nThe pant bottoms in this set are crafted from high-quality rayon fabric, offering a comfortable and …\n\nRound Neckline\nThe round neckline of the ethnic top adds a touch of sophistication to your look. It frames your fac…\n\nPremium Viscose Rayon Fabric\nMade from premium viscose rayon fabric, this ethnic set offers a luxurious feel against your skin. T…",
+    "specifications": {
+      "FabricViscose Rayon": "PatternEmbroidered",
+      "Fabric": "Viscose Rayon",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1bd3c1ac7d54c103a534e847",
+      "path": "media/images/1bd3c1ac7d54c103a534e847/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/g/s/m-kurta-vidhani-resized-original-imah5tnzx7xf8usc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/g/s/m-kurta-vidhani-resized-original-imah5tnzx7xf8usc.jpeg?q=100",
+        "local_path": "../../media/images/1bd3c1ac7d54c103a534e847/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/m/8/s-dup-1031-divastri-original-imah7m35hamzrzfx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/m/8/s-dup-1031-divastri-original-imah7m35hamzrzfx.jpeg?q=100",
+        "local_path": "../../media/images/1bd3c1ac7d54c103a534e847/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/a/e/m-kurta-vidhani-original-imah5tnzye5gfnch.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/a/e/m-kurta-vidhani-original-imah5tnzye5gfnch.jpeg?q=100",
+        "local_path": "../../media/images/1bd3c1ac7d54c103a534e847/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/s/8/m-kurta-vidhani-original-imah5tnzk3zp6vf7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/s/8/m-kurta-vidhani-original-imah5tnzk3zp6vf7.jpeg?q=100",
+        "local_path": "../../media/images/1bd3c1ac7d54c103a534e847/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/t/d/s-dup-1031-divastri-original-imah7m35zgquhhme.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/t/d/s-dup-1031-divastri-original-imah7m35zgquhhme.jpeg?q=100",
+        "local_path": "../../media/images/1bd3c1ac7d54c103a534e847/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Ethnic Top Pant Attached Dupatta Set",
+      "description": "Divastri Women Ethnic Top Pant Attached Dupatta Set - Buy Divastri Women Ethnic Top Pant Attached Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/g/s/m-kurta-vidhani-resized-original-imah5tnzx7xf8usc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/m/8/s-dup-1031-divastri-original-imah7m35hamzrzfx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/a/e/m-kurta-vidhani-original-imah5tnzye5gfnch.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/s/8/m-kurta-vidhani-original-imah5tnzk3zp6vf7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/t/d/s-dup-1031-divastri-original-imah7m35zgquhhme.jpeg?q=70"
+      ],
+      "sku": "ETHH2TS6SZ5J4V5E",
+      "color": "Wine",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 15,
+        "ratingCount": 284,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 664,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Kishor  Veenaa ginigeragirl",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-16",
+          "reviewBody": "Superb.....loth is very soft, I love this product my brother giving the rakhi gift",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "SANJIV PRASAD YADAV",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-19",
+          "reviewBody": "Superb quality of fabric attract me towards its.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-12-24",
+          "reviewBody": "Very very good product looks amazing",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant Printed Design",
+          "body": "This women's ethnic set features a beautiful printed design that adds a touch of elegance to your at…"
+        },
+        {
+          "heading": "Stylish Pant Bottoms",
+          "body": "The pant bottoms in this set are crafted from high-quality rayon fabric, offering a comfortable and …"
+        },
+        {
+          "heading": "Round Neckline",
+          "body": "The round neckline of the ethnic top adds a touch of sophistication to your look. It frames your fac…"
+        },
+        {
+          "heading": "Premium Viscose Rayon Fabric",
+          "body": "Made from premium viscose rayon fabric, this ethnic set offers a luxurious feel against your skin. T…"
+        }
+      ],
+      "product_highlights": {
+        "FabricViscose Rayon": "PatternEmbroidered",
+        "Fabric": "Viscose Rayon",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  }
+}

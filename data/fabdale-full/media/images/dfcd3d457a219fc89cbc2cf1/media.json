@@ -1,0 +1,44 @@
+{
+  "key": "dfcd3d457a219fc89cbc2cf1",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:29:21.462Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/l/9/free-fk-ys-maliya-pink-yashika-unstitched-resized-original-imahg7yzhaxjhfjz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/l/9/free-fk-ys-maliya-pink-yashika-unstitched-resized-original-imahg7yzhaxjhfjz.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/i/q/1/free-fk-ys-maliya-pink-yashika-unstitched-original-imahg7yz7qrbuzgn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/i/q/1/free-fk-ys-maliya-pink-yashika-unstitched-original-imahg7yz7qrbuzgn.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/b/u/free-fk-ys-maliya-pink-yashika-unstitched-original-imahg7yzfkhz76k4.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/b/u/free-fk-ys-maliya-pink-yashika-unstitched-original-imahg7yzfkhz76k4.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/w/c/free-fk-ys-maliya-pink-yashika-unstitched-original-imahg7yzppp6ua7x.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/w/c/free-fk-ys-maliya-pink-yashika-unstitched-original-imahg7yzppp6ua7x.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/w/e/free-fk-ys-maliya-pink-yashika-unstitched-original-imahg7yz8vdaqdkq.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/w/e/free-fk-ys-maliya-pink-yashika-unstitched-original-imahg7yz8vdaqdkq.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

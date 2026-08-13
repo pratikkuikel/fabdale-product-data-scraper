@@ -1,0 +1,201 @@
+{
+  "product_id": "372",
+  "sku": "Fab-Dress-SHTL-007YL-S",
+  "product": {
+    "name": "Shemora Full Length Maxi Dress",
+    "parent_id": "5108",
+    "notes": "https://www.flipkart.com/sheetal-associates-women-fit-flare-yellow-white-green-maxi-full-length-dress/p/itmf8335715d3070?pid=DREGMNETYHK5GANT&marketplace=FLIPKART&lid=LSTDREGMNETYHK5GANTLCL3QQ&q=sheetal+associates&fm=search-autosuggest&swatchAttr=size&pageUID=1772428468668"
+  },
+  "source_bundle": {
+    "key": "pid-DREGMNETYHK5GANT",
+    "path": "../../sources/pid-DREGMNETYHK5GANT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/sheetal-associates-women-fit-flare-yellow-white-green-maxi-full-length-dress/p/itmf8335715d3070?pid=DREGMNETYHK5GANT&marketplace=FLIPKART&lid=LSTDREGMNETYHK5GANTLCL3QQ&q=sheetal+associates&fm=search-autosuggest&swatchAttr=size&pageUID=1772428468668",
+    "scraped_at": "2026-08-12T08:39:45.855Z",
+    "final_url": "https://www.flipkart.com/sheetal-associates-women-fit-flare-yellow-white-green-maxi-full-length-dress/p/itmf8335715d3070?pid=DREGMNETYHK5GANT&marketplace=FLIPKART&lid=LSTDREGMNETYHK5GANTLCL3QQ&q=sheetal+associates&fm=search-autosuggest&swatchAttr=size&pageUID=1772428468668"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:39:56.758Z"
+  },
+  "content": {
+    "title": "Sheetal Associates Women Fit and Flare Yellow, White, Green Maxi/Full Length Dress",
+    "short_description": "Color: Yellow, White, Green\nPattern: Printed\nType: Fit and Flare\nSleeve: Bishop Sleeve\nLength: Maxi/Full Length\nSleeve Length: 3/4 Sleeve",
+    "description": "Sheetal Associates Women Fit and Flare Yellow, White, Green Maxi/Full Length Dress - Buy Sheetal Associates Women Fit and Flare Yellow, White, Green Maxi/Full Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Color": "Yellow, White, Green",
+      "Length": "Maxi/Full Length",
+      "Pattern": "Printed",
+      "Type": "Fit and Flare",
+      "Sleeve Length": "3/4 Sleeve",
+      "Sleeve": "Bishop Sleeve"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3d7fa1d33d3441ea4ceda892",
+      "path": "media/images/3d7fa1d33d3441ea4ceda892/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/f/y/d/m-6101-sheetal-associates-original-imahhm4ydhysg2zq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/f/y/d/m-6101-sheetal-associates-original-imahhm4ydhysg2zq.jpeg?q=100",
+        "local_path": "../../media/images/3d7fa1d33d3441ea4ceda892/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/t/h/s/m-6101-sheetal-associates-original-imahhm4yg7mhsqba.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/t/h/s/m-6101-sheetal-associates-original-imahhm4yg7mhsqba.jpeg?q=100",
+        "local_path": "../../media/images/3d7fa1d33d3441ea4ceda892/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/a/k/j/m-6101-sheetal-associates-original-imahhm4ybgsz99hz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/a/k/j/m-6101-sheetal-associates-original-imahhm4ybgsz99hz.jpeg?q=100",
+        "local_path": "../../media/images/3d7fa1d33d3441ea4ceda892/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/u/z/n/m-6101-sheetal-associates-original-imahhm4yvx7xt9yf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/u/z/n/m-6101-sheetal-associates-original-imahhm4yvx7xt9yf.jpeg?q=100",
+        "local_path": "../../media/images/3d7fa1d33d3441ea4ceda892/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/x/y/o/m-6101-sheetal-associates-original-imahhm4ywuzy6jhe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/x/y/o/m-6101-sheetal-associates-original-imahhm4ywuzy6jhe.jpeg?q=100",
+        "local_path": "../../media/images/3d7fa1d33d3441ea4ceda892/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Sheetal Associates Women Fit and Flare Yellow, White, Green Maxi/Full Length Dress",
+      "description": "Sheetal Associates Women Fit and Flare Yellow, White, Green Maxi/Full Length Dress - Buy Sheetal Associates Women Fit and Flare Yellow, White, Green Maxi/Full Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/f/y/d/m-6101-sheetal-associates-original-imahhm4ydhysg2zq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/t/h/s/m-6101-sheetal-associates-original-imahhm4yg7mhsqba.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/a/k/j/m-6101-sheetal-associates-original-imahhm4ybgsz99hz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/u/z/n/m-6101-sheetal-associates-original-imahhm4yvx7xt9yf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/x/y/o/m-6101-sheetal-associates-original-imahhm4ywuzy6jhe.jpeg?q=70"
+      ],
+      "sku": "DREGMNETYHK5GANT",
+      "color": "Yellow",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 3221,
+        "ratingCount": 49203,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Sheetal Associates",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 334,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Thulasi N",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-22",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Trishagni Majumder",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-08",
+          "reviewBody": "Better than I Expected 💗",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Chandrima Dutta",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-03",
+          "reviewBody": "This drss is soo beautiful😍 thank you flipkart ❣️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Color": "Yellow, White, Green",
+        "Length": "Maxi/Full Length",
+        "Pattern": "Printed",
+        "Type": "Fit and Flare",
+        "Sleeve Length": "3/4 Sleeve",
+        "Sleeve": "Bishop Sleeve"
+      },
+      "specifications": {}
+    }
+  }
+}

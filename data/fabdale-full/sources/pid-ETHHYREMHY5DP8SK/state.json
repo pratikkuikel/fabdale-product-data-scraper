@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-ETHHYREMHY5DP8SK",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "1302"
+  ],
+  "source_path": "sources/pid-ETHHYREMHY5DP8SK/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T12:27:29.640Z",
+  "completed_at": "2026-08-12T12:29:21.280Z"
+}

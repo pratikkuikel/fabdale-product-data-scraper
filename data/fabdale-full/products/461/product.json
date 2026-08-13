@@ -1,0 +1,204 @@
+{
+  "product_id": "461",
+  "sku": "Fab-Saree-ANND-003RD",
+  "product": {
+    "name": "Anshiqa Striped & Printed  Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/anand-sarees-printed-bollywood-georgette-saree/p/itm5214bf3ea6280"
+  },
+  "source_bundle": {
+    "key": "url-277699160da21e8e791fe827",
+    "path": "../../sources/url-277699160da21e8e791fe827/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/anand-sarees-printed-bollywood-georgette-saree/p/itm5214bf3ea6280",
+    "scraped_at": "2026-08-12T10:15:44.179Z",
+    "final_url": "https://www.flipkart.com/anand-sarees-printed-bollywood-georgette-saree/p/itm5214bf3ea6280"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:15:52.568Z"
+  },
+  "content": {
+    "title": "Anand Sarees Printed Bollywood Georgette Saree",
+    "short_description": "Fabric: Georgette\nPattern: Printed\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Vibrant Bollywood Style\nEmbrace the glamour of Bollywood with this vibrant saree that exudes a captivating style statement. …\n\nChic Printed Pattern\nThe saree features a chic printed pattern that elevates its overall appeal. The intricate striped de…\n\nGeorgette Elegance\nCrafted from high-quality georgette fabric, this saree offers a luxurious drape and a comfortable fe…\n\nUnstitched Georgette Blouse Piece\nComplementing the saree is an unstitched georgette blouse piece with printed detailing. This feature…",
+    "specifications": {
+      "Pattern": "Printed",
+      "Fabric": "Georgette",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "684660c7028fc29293d66309",
+      "path": "media/images/684660c7028fc29293d66309/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/p/d/free-md-1755-2-anand-sarees-unstitched-original-imah46nvwgkfnprs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/p/d/free-md-1755-2-anand-sarees-unstitched-original-imah46nvwgkfnprs.jpeg?q=100",
+        "local_path": "../../media/images/684660c7028fc29293d66309/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/l/2/n/free-md-1755-2-anand-sarees-unstitched-original-imah46nvyzbewwhc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/l/2/n/free-md-1755-2-anand-sarees-unstitched-original-imah46nvyzbewwhc.jpeg?q=100",
+        "local_path": "../../media/images/684660c7028fc29293d66309/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/1/h/free-md-1755-2-anand-sarees-unstitched-original-imah46nvez4cazhw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/1/h/free-md-1755-2-anand-sarees-unstitched-original-imah46nvez4cazhw.jpeg?q=100",
+        "local_path": "../../media/images/684660c7028fc29293d66309/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/e/x/free-md-1755-2-anand-sarees-unstitched-original-imah46nvstfeujmx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/e/x/free-md-1755-2-anand-sarees-unstitched-original-imah46nvstfeujmx.jpeg?q=100",
+        "local_path": "../../media/images/684660c7028fc29293d66309/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/j/p/free-md-1755-2-anand-sarees-unstitched-original-imah46nvttz9zfmc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/j/p/free-md-1755-2-anand-sarees-unstitched-original-imah46nvttz9zfmc.jpeg?q=100",
+        "local_path": "../../media/images/684660c7028fc29293d66309/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Anand Sarees Printed Bollywood Georgette Saree",
+      "description": "Anand Sarees Printed Bollywood Georgette Saree - Buy Anand Sarees Printed Bollywood Georgette Saree For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/p/d/free-md-1755-2-anand-sarees-unstitched-original-imah46nvwgkfnprs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/l/2/n/free-md-1755-2-anand-sarees-unstitched-original-imah46nvyzbewwhc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/1/h/free-md-1755-2-anand-sarees-unstitched-original-imah46nvez4cazhw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/e/x/free-md-1755-2-anand-sarees-unstitched-original-imah46nvstfeujmx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/j/p/free-md-1755-2-anand-sarees-unstitched-original-imah46nvttz9zfmc.jpeg?q=70"
+      ],
+      "sku": "SARH46ZF7XMNSHYW",
+      "color": "Red",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 168,
+        "ratingCount": 3879,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Anand Sarees",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 236,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-20",
+          "reviewBody": "Gud quality..i loved it...same as shown...😍😍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Sakshi Gupta",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-11",
+          "reviewBody": "Vibrant colour.. febric is very soft.. saree is very pretty",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-01",
+          "reviewBody": "Good collection thanks",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Vibrant Bollywood Style",
+          "body": "Embrace the glamour of Bollywood with this vibrant saree that exudes a captivating style statement. …"
+        },
+        {
+          "heading": "Chic Printed Pattern",
+          "body": "The saree features a chic printed pattern that elevates its overall appeal. The intricate striped de…"
+        },
+        {
+          "heading": "Georgette Elegance",
+          "body": "Crafted from high-quality georgette fabric, this saree offers a luxurious drape and a comfortable fe…"
+        },
+        {
+          "heading": "Unstitched Georgette Blouse Piece",
+          "body": "Complementing the saree is an unstitched georgette blouse piece with printed detailing. This feature…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Fabric": "Georgette",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "product_id": "1752",
+  "sku": "Fab-Salwar-RYEX-029YL-XL",
+  "product": {
+    "name": "Rivanta Viscose Rayon Salwar Suit Set",
+    "parent_id": "7174",
+    "notes": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm836fefe0c56e0?pid=ETHHCSWCYTBXHYTM&lid=LSTETHHCSWCYTBXHYTMXAXQAK&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-ETHHCSWCYTBXHYTM",
+    "path": "../../sources/pid-ETHHCSWCYTBXHYTM/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm836fefe0c56e0?pid=ETHHCSWCYTBXHYTM&lid=LSTETHHCSWCYTBXHYTMXAXQAK&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:16:21.863Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm836fefe0c56e0?pid=ETHHCSWCYTBXHYTM&lid=LSTETHHCSWCYTBXHYTMXAXQAK&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:16:33.919Z"
+  },
+  "content": {
+    "title": "Royal Export Women Viscose Rayon Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Embroidered\nFabricViscose Rayon: PatternEmbroidered",
+    "description": "In the Box\nItems Included1 Kurta, 1 Pant, 1 Dupatta",
+    "specifications": {
+      "FabricViscose Rayon": "PatternEmbroidered",
+      "Fabric": "Viscose Rayon",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "653fa502f5979eb883041dbf",
+      "path": "media/images/653fa502f5979eb883041dbf/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/i/h/o/xl-rx346-pnsmsd-skd-royal-export-original-imahfr88rgkhdg3f.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/i/h/o/xl-rx346-pnsmsd-skd-royal-export-original-imahfr88rgkhdg3f.jpeg?q=100",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/f/w/c/xl-rx346-pnsmsd-skd-royal-export-original-imahfr88xjmzzhhh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/f/w/c/xl-rx346-pnsmsd-skd-royal-export-original-imahfr88xjmzzhhh.jpeg?q=100",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/n/r/q/xl-rx346-pnsmsd-skd-royal-export-original-imahfr88gqykxgxz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/n/r/q/xl-rx346-pnsmsd-skd-royal-export-original-imahfr88gqykxgxz.jpeg?q=100",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/s/k/b/xl-rx346-pnsmsd-skd-royal-export-original-imahfr88st9hcqpy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/s/k/b/xl-rx346-pnsmsd-skd-royal-export-original-imahfr88st9hcqpy.jpeg?q=100",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/l/k/h/xl-rx346-pnsmsd-skd-royal-export-original-imahfr88txumhmac.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/l/k/h/xl-rx346-pnsmsd-skd-royal-export-original-imahfr88txumhmac.jpeg?q=100",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_j81h3m1f.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_j81h3m1f.jpeg?q=80",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_edfdef7f20b84961982375468d83e1b9.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_edfdef7f20b84961982375468d83e1b9.jpg?q=80",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_71dc963c9a80468687eba21238e4f106.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_71dc963c9a80468687eba21238e4f106.jpg?q=80",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_804c75044d83425c8f3e67616e771b5c.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_804c75044d83425c8f3e67616e771b5c.jpg?q=80",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f2b4372d1f1f4a32bcf3a6df88a6ae36.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f2b4372d1f1f4a32bcf3a6df88a6ae36.jpg?q=80",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/q/r/xl-jf007-new-printed-dupatta-set-jivansh-fab-resized-original-imahhz2bsaeymspq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/q/r/xl-jf007-new-printed-dupatta-set-jivansh-fab-resized-original-imahhz2bsaeymspq.jpeg?q=100",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/i/o/xl-dare-red-gsk-gosriki-original-imahje9zzchjs6fs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/i/o/xl-dare-red-gsk-gosriki-original-imahje9zzchjs6fs.jpeg?q=100",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/a/t/p/m-ab-vrc-8-indianrani-original-imahpr8k5ygtxucj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/a/t/p/m-ab-vrc-8-indianrani-original-imahpr8k5ygtxucj.jpeg?q=100",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/l/z/z/m-mf-yellow-kurta-mayankfabric-original-imah2pehquavqbwg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/l/z/z/m-mf-yellow-kurta-mayankfabric-original-imah2pehquavqbwg.jpeg?q=100",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/m/z/c/l-bb-shg-maya-brown-l-bbv-couture-original-imahnnppst8eum3g.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/m/z/c/l-bb-shg-maya-brown-l-bbv-couture-original-imahnnppst8eum3g.jpeg?q=100",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/c/4/n/xxl-an-e6618-anara-original-imahjf3d72bhrzgg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/c/4/n/xxl-an-e6618-anara-original-imahjf3d72bhrzgg.jpeg?q=100",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/s/w/4/l-rx235-surbhi-chiku-cutw-kpd-royal-export-resized-original-imahemazatzdzbqb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/s/w/4/l-rx235-surbhi-chiku-cutw-kpd-royal-export-resized-original-imahemazatzdzbqb.jpeg?q=100",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-017.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/l/o/n/s-rx78-tealblue-anrkl-hwrk-hoc-original-imahk58jbr6bd45e.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/l/o/n/s-rx78-tealblue-anrkl-hwrk-hoc-original-imahk58jbr6bd45e.jpeg?q=100",
+        "local_path": "../../media/images/653fa502f5979eb883041dbf/assets/images/image-018.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "In the Box",
+          "body": "Items Included1 Kurta, 1 Pant, 1 Dupatta"
+        }
+      ],
+      "product_highlights": {
+        "FabricViscose Rayon": "PatternEmbroidered",
+        "Fabric": "Viscose Rayon",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  }
+}

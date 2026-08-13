@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SARGHRWMZJN74CRP",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "483"
+  ],
+  "source_path": "sources/pid-SARGHRWMZJN74CRP/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T10:18:12.056Z",
+  "completed_at": "2026-08-12T10:18:24.233Z"
+}

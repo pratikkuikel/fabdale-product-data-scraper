@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-ETHGR84ZTBFGVEHZ",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "859",
+    "860",
+    "861",
+    "862",
+    "863",
+    "5148"
+  ],
+  "source_path": "sources/pid-ETHGR84ZTBFGVEHZ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:04:31.047Z",
+  "completed_at": "2026-08-12T11:04:44.815Z"
+}

@@ -1,0 +1,163 @@
+{
+  "product_id": "843",
+  "sku": "Fab-Salwar-PLDI-014PK-XXL",
+  "product": {
+    "name": "Pilessa Viscose Rayon Festive Salwar Suit Set",
+    "parent_id": "5144",
+    "notes": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itme23432df90595?pid=ETHH3G2YXXYQHKUH&lid=LSTETHH3G2YXXYQHKUHMBPUQP&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH3G2YXXYQHKUH",
+    "path": "../../sources/pid-ETHH3G2YXXYQHKUH/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itme23432df90595?pid=ETHH3G2YXXYQHKUH&lid=LSTETHH3G2YXXYQHKUHMBPUQP&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T11:02:46.892Z",
+    "final_url": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itme23432df90595?pid=ETHH3G2YXXYQHKUH&lid=LSTETHH3G2YXXYQHKUHMBPUQP&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:02:59.860Z"
+  },
+  "content": {
+    "title": "PILUDI Women Viscose Rayon Kurti Pant Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Printed\nFabricViscose Rayon: PatternPrinted",
+    "description": "In the BoxItems Included1pc kurta, 1pc pant, 1pc dupatta\nGeneralBrandPILUDIFabricViscose RayonAdditional GarmentsDupattaStyle Code SW.Diya.WineTop typeKurtiBottom type PantPatternPrintedColor PurpleBrand ColorWineIdeal ForWomenSizeL RegularSleeve Length3/4 Sleeve\n\nIn the Box\nItems Included1pc kurta, 1pc pant, 1pc dupatta",
+    "specifications": {
+      "FabricViscose Rayon": "PatternPrinted",
+      "Fabric": "Viscose Rayon",
+      "Pattern": "Printed"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e16faf7172c5e55210ec8291",
+      "path": "media/images/e16faf7172c5e55210ec8291/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/6/2/6/4xl-sw-diya-wine-piludi-original-imah3hhbgyzpqgf9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/6/2/6/4xl-sw-diya-wine-piludi-original-imah3hhbgyzpqgf9.jpeg?q=100",
+        "local_path": "../../media/images/e16faf7172c5e55210ec8291/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/c/a/8/xxl-sw-diya-wine-piludi-original-imahcyzashvvhpfu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/c/a/8/xxl-sw-diya-wine-piludi-original-imahcyzashvvhpfu.jpeg?q=100",
+        "local_path": "../../media/images/e16faf7172c5e55210ec8291/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/5/9/c/xxl-sw-diya-wine-piludi-original-imahcyzautyyymtt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/5/9/c/xxl-sw-diya-wine-piludi-original-imahcyzautyyymtt.jpeg?q=100",
+        "local_path": "../../media/images/e16faf7172c5e55210ec8291/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/apparel-set/0/o/s/s-co-ord-co-ords-heymatha-original-imahjrq8hemf6wvy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/apparel-set/0/o/s/s-co-ord-co-ords-heymatha-original-imahjrq8hemf6wvy.jpeg?q=100",
+        "local_path": "../../media/images/e16faf7172c5e55210ec8291/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/f/x/g/xs-hathi-print-blevy-original-imahjphafmxwq3e2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/f/x/g/xs-hathi-print-blevy-original-imahjphafmxwq3e2.jpeg?q=100",
+        "local_path": "../../media/images/e16faf7172c5e55210ec8291/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/t/7/4xl-ab-vrc-6-gulkanya-style-original-imahprd7gssvknhk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/t/7/4xl-ab-vrc-6-gulkanya-style-original-imahprd7gssvknhk.jpeg?q=100",
+        "local_path": "../../media/images/e16faf7172c5e55210ec8291/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/w/a/o/5xl-multi-flower-print-galbaliya-original-imahjhupdjgtjpn6.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/w/a/o/5xl-multi-flower-print-galbaliya-original-imahjhupdjgtjpn6.jpeg?q=100",
+        "local_path": "../../media/images/e16faf7172c5e55210ec8291/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/c/p/t/xxl-sw-kashvi-yellow-piludi-original-imahm4487cwfe8ya.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/c/p/t/xxl-sw-kashvi-yellow-piludi-original-imahm4487cwfe8ya.jpeg?q=100",
+        "local_path": "../../media/images/e16faf7172c5e55210ec8291/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/b/v/7/m-sw-raajo-piludi-original-imahphagu3vzazxq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/b/v/7/m-sw-raajo-piludi-original-imahphagu3vzazxq.jpeg?q=100",
+        "local_path": "../../media/images/e16faf7172c5e55210ec8291/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/a/z/b/xl-sw-mahek-piludi-house-original-imahn6fhc9fpkcfy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/a/z/b/xl-sw-mahek-piludi-house-original-imahn6fhc9fpkcfy.jpeg?q=100",
+        "local_path": "../../media/images/e16faf7172c5e55210ec8291/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/a/9/a/m-cc113-mocha-charvi-creation-original-imahjuzywpzz9jfc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/a/9/a/m-cc113-mocha-charvi-creation-original-imahjuzywpzz9jfc.jpeg?q=100",
+        "local_path": "../../media/images/e16faf7172c5e55210ec8291/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "In the BoxItems Included1pc kurta, 1pc pant, 1pc dupatta",
+          "body": "GeneralBrandPILUDIFabricViscose RayonAdditional GarmentsDupattaStyle Code SW.Diya.WineTop typeKurtiBottom type PantPatternPrintedColor PurpleBrand ColorWineIdeal ForWomenSizeL RegularSleeve Length3/4 Sleeve"
+        },
+        {
+          "heading": "In the Box",
+          "body": "Items Included1pc kurta, 1pc pant, 1pc dupatta"
+        }
+      ],
+      "product_highlights": {
+        "FabricViscose Rayon": "PatternPrinted",
+        "Fabric": "Viscose Rayon",
+        "Pattern": "Printed"
+      },
+      "specifications": {
+        "In the Box": "Items Included1pc kurta, 1pc pant, 1pc dupatta",
+        "Items Included": "1pc kurta, 1pc pant, 1pc dupatta",
+        "Brand": "PILUDI",
+        "Fabric": "Viscose Rayon",
+        "Additional Garments": "Dupatta",
+        "Style Code": "SW.Diya.Wine",
+        "Top type": "Kurti",
+        "Bottom type": "Pant",
+        "Pattern": "Printed",
+        "Color": "Purple",
+        "Brand Color": "Wine",
+        "Ideal For": "Women",
+        "Size": "L Regular",
+        "Sleeve Length": "3/4 Sleeve"
+      }
+    }
+  }
+}

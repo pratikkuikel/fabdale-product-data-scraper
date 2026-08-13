@@ -1,0 +1,37 @@
+{
+  "key": "79fb9e0b483bf65c343b06be",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:37:05.590Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/i/r/free-half-sleeve-pochampali-0001-fabcartz-resized-original-imagpwbewbpdkdmd.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/i/r/free-half-sleeve-pochampali-0001-fabcartz-resized-original-imagpwbewbpdkdmd.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/g/p/free-half-sleeve-pochampalli-pattu-fabcartz-original-imagpts8gayzndfe.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/g/p/free-half-sleeve-pochampalli-pattu-fabcartz-original-imagpts8gayzndfe.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/z/n/i/free-half-sleeve-pochampalli-pattu-fabcartz-original-imagpts8zmxcb67h.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/z/n/i/free-half-sleeve-pochampalli-pattu-fabcartz-original-imagpts8zmxcb67h.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/4/3/9/free-half-sleeve-pochampalli-pattu-fabcartz-original-imagpts8gzhybrat.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/4/3/9/free-half-sleeve-pochampalli-pattu-fabcartz-original-imagpts8gzhybrat.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

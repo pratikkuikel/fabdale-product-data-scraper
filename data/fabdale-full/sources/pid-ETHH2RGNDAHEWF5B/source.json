@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurta-palazzo-dupatta-set/p/itm0a7443ef96f52?pid=ETHH2RGNDAHEWF5B&marketplace=FLIPKART&lid=LSTETHH2RGNDAHEWF5BZEG7QC&swatchAttr=size&pageUID=1772725813309",
+    "scraped_at": "2026-08-12T11:42:12.055Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurta-palazzo-dupatta-set/p/itm0a7443ef96f52?pid=ETHH2RGNDAHEWF5B&marketplace=FLIPKART&lid=LSTETHH2RGNDAHEWF5BZEG7QC&swatchAttr=size&pageUID=1772725813309"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:42:22.771Z"
+  },
+  "content": {
+    "title": "Divastri Women Kurta Palazzo Dupatta Set",
+    "short_description": "Divastri Women Kurta Palazzo Dupatta Set - Buy Divastri Women Kurta Palazzo Dupatta Set For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Divastri Women Kurta Palazzo Dupatta Set - Buy Divastri Women Kurta Palazzo Dupatta Set For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/w/3/-resized-original-imahf77tjrzhxshs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/w/3/-resized-original-imahf77tjrzhxshs.jpeg?q=100",
+        "local_path": "../../media/images/fdef12d4fd04edf87f99c900/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/1/8/-original-imahf77twftczhj2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/1/8/-original-imahf77twftczhj2.jpeg?q=100",
+        "local_path": "../../media/images/fdef12d4fd04edf87f99c900/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/x/s/-original-imahf787vzu5z9ft.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/x/s/-original-imahf787vzu5z9ft.jpeg?q=100",
+        "local_path": "../../media/images/fdef12d4fd04edf87f99c900/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/8/2/-original-imahf782zwajdw8x.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/8/2/-original-imahf782zwajdw8x.jpeg?q=100",
+        "local_path": "../../media/images/fdef12d4fd04edf87f99c900/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/i/7/-original-imahf78fybsbeugv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/i/7/-original-imahf78fybsbeugv.jpeg?q=100",
+        "local_path": "../../media/images/fdef12d4fd04edf87f99c900/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Kurta Palazzo Dupatta Set",
+      "description": "Divastri Women Kurta Palazzo Dupatta Set - Buy Divastri Women Kurta Palazzo Dupatta Set For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/w/3/-resized-original-imahf77tjrzhxshs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/1/8/-original-imahf77twftczhj2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/x/s/-original-imahf787vzu5z9ft.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/8/2/-original-imahf782zwajdw8x.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/i/7/-original-imahf78fybsbeugv.jpeg?q=70"
+      ],
+      "sku": "ETHH2RGNDAHEWF5B",
+      "color": "Brown",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 735,
+        "ratingCount": 8963,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 859,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-29",
+          "reviewBody": "Nice product I am very happy to have this.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Avra Goswami",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-23",
+          "reviewBody": "Fantastic silk kurta set , apt for any occasion, the texture is buttery soft the colour is so elegant , the embroidery stich is just adding up the beauty, this was my rakhi gift",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Ruchi  Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-22",
+          "reviewBody": "I just liked everything about this suit, colour as shown in image and the comfort is top level.\nGot perfect in this range.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "fdef12d4fd04edf87f99c900",
+      "path": "media/images/fdef12d4fd04edf87f99c900/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

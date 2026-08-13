@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-LCHFG7TT24PPMRT9",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1797"
+  ],
+  "source_path": "sources/pid-LCHFG7TT24PPMRT9/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T07:23:00.461Z",
+  "completed_at": "2026-08-13T07:23:06.267Z"
+}

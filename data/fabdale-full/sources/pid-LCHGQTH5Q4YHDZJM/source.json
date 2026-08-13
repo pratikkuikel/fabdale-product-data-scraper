@@ -1,0 +1,203 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/fabcartz-self-design-semi-stitched-lehenga-choli/p/itmfa06aa1f73f9c?pid=LCHGQTH5Q4YHDZJM&lid=LSTLCHGQTH5Q4YHDZJMLHJMFK&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:34:33.419Z",
+    "final_url": "https://www.flipkart.com/fabcartz-self-design-semi-stitched-lehenga-choli/p/itmfa06aa1f73f9c?pid=LCHGQTH5Q4YHDZJM&lid=LSTLCHGQTH5Q4YHDZJMLHJMFK&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-13T07:34:48.137Z"
+  },
+  "content": {
+    "title": "Fabcartz Self Design Semi Stitched Lehenga Choli",
+    "short_description": "Color: Dark Blue\nPattern: Self Design\nType: Lehenga Choli\nLehenga Fabric: Art Silk\nCholi Fabric: Jacquard\nDupatta Fabric: Art Silk\nStitching Type: Semi Stitched\nSales Package: 1 Unstitched lehenga , 1 Unstitched Blouse , 1 Dupatta, 1 Waist Belt",
+    "description": "Unstitched Lehenga and Choli\nYou may exactly customise the style and fit of the lehenga and choli to suit your body type and pref…\n\nComplete Set\nThe set comes with one lehenga, one choli, a matching waist belt, and a stunningly made dupatta. The…\n\nIdeal for Festivals and Parties\nThis lehenga choli set is ideal for a range of festive occasions and festivities because of its vers…\n\nEasy fabric Care\nTo maintain the brand-new appearance of this set, just dry cleaning is required. The bright colours …\n\nArt Silk and Jacquard Fabric\nFine art silk, which has an opulent, smooth texture and look, is used to make the lehenga and dupatt…",
+    "specifications": {
+      "Lehenga Fabric": "Art Silk",
+      "Choli Fabric": "Jacquard",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Art Silk",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Self Design",
+      "Sales Package": "1 Unstitched lehenga , 1 Unstitched Blouse , 1 Dupatta, 1 Waist Belt",
+      "Color": "Dark Blue"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/7/5/free-half-sleeve-supriya-fabcartz-original-imagqth4qtyvxtam.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/7/5/free-half-sleeve-supriya-fabcartz-original-imagqth4qtyvxtam.jpeg?q=100",
+        "local_path": "../../media/images/c8d3690a148c3d706771a1d4/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/y/f/free-half-sleeve-supriya-shree-creation-original-imagsyzvfagz946j.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/y/f/free-half-sleeve-supriya-shree-creation-original-imagsyzvfagz946j.jpeg?q=100",
+        "local_path": "../../media/images/c8d3690a148c3d706771a1d4/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/n/5/free-half-sleeve-supriya-shree-creation-original-imagsyzvh88jzhbx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/n/5/free-half-sleeve-supriya-shree-creation-original-imagsyzvh88jzhbx.jpeg?q=100",
+        "local_path": "../../media/images/c8d3690a148c3d706771a1d4/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/d/v/q/free-half-sleeve-supriya-shree-creation-original-imagsyzv8jzsgsdc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/d/v/q/free-half-sleeve-supriya-shree-creation-original-imagsyzv8jzsgsdc.jpeg?q=100",
+        "local_path": "../../media/images/c8d3690a148c3d706771a1d4/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/h/y/free-half-sleeve-supriya-shree-creation-original-imagsyzvycym48tb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/h/y/free-half-sleeve-supriya-shree-creation-original-imagsyzvycym48tb.jpeg?q=100",
+        "local_path": "../../media/images/c8d3690a148c3d706771a1d4/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Fabcartz Self Design Semi Stitched Lehenga Choli",
+      "description": "Fabcartz Self Design Semi Stitched Lehenga Choli - Buy Fabcartz Self Design Semi Stitched Lehenga Choli For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/7/5/free-half-sleeve-supriya-fabcartz-original-imagqth4qtyvxtam.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/y/f/free-half-sleeve-supriya-shree-creation-original-imagsyzvfagz946j.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/n/5/free-half-sleeve-supriya-shree-creation-original-imagsyzvh88jzhbx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/d/v/q/free-half-sleeve-supriya-shree-creation-original-imagsyzv8jzsgsdc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/h/y/free-half-sleeve-supriya-shree-creation-original-imagsyzvycym48tb.jpeg?q=70"
+      ],
+      "sku": "LCHGQTH5Q4YHDZJM",
+      "color": "Navy Blue",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 36,
+        "ratingCount": 639,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Fabcartz",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 660,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "JOTHIKA JOTHIKA ANAND",
+            "@type": "Person"
+          },
+          "datePublished": "2023-08-19",
+          "reviewBody": "Really very very good product very nice dress quality thank you Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Gopi Meruga",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-13",
+          "reviewBody": "Super",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Shanmugam  Mayil",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-05",
+          "reviewBody": "Worth of money 💖💖",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Unstitched Lehenga and Choli",
+          "body": "You may exactly customise the style and fit of the lehenga and choli to suit your body type and pref…"
+        },
+        {
+          "heading": "Complete Set",
+          "body": "The set comes with one lehenga, one choli, a matching waist belt, and a stunningly made dupatta. The…"
+        },
+        {
+          "heading": "Ideal for Festivals and Parties",
+          "body": "This lehenga choli set is ideal for a range of festive occasions and festivities because of its vers…"
+        },
+        {
+          "heading": "Easy fabric Care",
+          "body": "To maintain the brand-new appearance of this set, just dry cleaning is required. The bright colours …"
+        },
+        {
+          "heading": "Art Silk and Jacquard Fabric",
+          "body": "Fine art silk, which has an opulent, smooth texture and look, is used to make the lehenga and dupatt…"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Art Silk",
+        "Choli Fabric": "Jacquard",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Self Design",
+        "Sales Package": "1 Unstitched lehenga , 1 Unstitched Blouse , 1 Dupatta, 1 Waist Belt",
+        "Color": "Dark Blue"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c8d3690a148c3d706771a1d4",
+      "path": "media/images/c8d3690a148c3d706771a1d4/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

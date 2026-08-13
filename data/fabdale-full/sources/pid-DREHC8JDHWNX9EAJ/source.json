@@ -1,0 +1,195 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/zwerlon-women-a-line-yellow-midi-calf-length-dress/p/itm09926ea3235ff?pid=DREHC8JDHWNX9EAJ&marketplace=FLIPKART&lid=LSTDREHC8JDHWNX9EAJAMFOAB&fm=organic&swatchAttr=size&pageUID=1772361810247",
+    "scraped_at": "2026-08-12T08:32:46.351Z",
+    "final_url": "https://www.flipkart.com/zwerlon-women-a-line-yellow-midi-calf-length-dress/p/itm09926ea3235ff?pid=DREHC8JDHWNX9EAJ&marketplace=FLIPKART&lid=LSTDREHC8JDHWNX9EAJAMFOAB&fm=organic&swatchAttr=size&pageUID=1772361810247"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:33:00.143Z"
+  },
+  "content": {
+    "title": "ZWERLON Women A-line Yellow Midi/Calf Length Dress",
+    "short_description": "Color: Yellow\nPattern: Floral Print\nType: A-line\nSleeve: Puff Sleeves\nLength: Midi/Calf Length\nSleeve Length: Half Sleeve",
+    "description": "Model Name\nDress For Women | Floral Printed | Tiered Midi Dress | Puff Sleeves | Drawstring Waist",
+    "specifications": {
+      "Color": "Yellow",
+      "Length": "Midi/Calf Length",
+      "Pattern": "Floral Print",
+      "Type": "A-line",
+      "Sleeve Length": "Half Sleeve",
+      "Sleeve": "Puff Sleeves"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/u/e/e/l-d5-zwerlon-resized-original-imahg4htmsuhwbqq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/u/e/e/l-d5-zwerlon-resized-original-imahg4htmsuhwbqq.jpeg?q=100",
+        "local_path": "../../media/images/d753a2ae3d1c30cd1297bab3/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/a/f/l-d5-zwerlon-original-imahg4htq4axmfzf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/a/f/l-d5-zwerlon-original-imahg4htq4axmfzf.jpeg?q=100",
+        "local_path": "../../media/images/d753a2ae3d1c30cd1297bab3/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/z/4/l-d5-zwerlon-original-imahg4htntqtvzkt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/z/4/l-d5-zwerlon-original-imahg4htntqtvzkt.jpeg?q=100",
+        "local_path": "../../media/images/d753a2ae3d1c30cd1297bab3/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/3/b/l/l-d5-zwerlon-original-imahg4htfw7qk4yw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/3/b/l/l-d5-zwerlon-original-imahg4htfw7qk4yw.jpeg?q=100",
+        "local_path": "../../media/images/d753a2ae3d1c30cd1297bab3/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/s/k/a/l-d5-zwerlon-original-imahg4htgfhe9zv9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/s/k/a/l-d5-zwerlon-original-imahg4htgfhe9zv9.jpeg?q=100",
+        "local_path": "../../media/images/d753a2ae3d1c30cd1297bab3/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "ZWERLON Women A-line Yellow Midi/Calf Length Dress",
+      "description": "ZWERLON Women A-line Yellow Midi/Calf Length Dress - Buy ZWERLON Women A-line Yellow Midi/Calf Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/u/e/e/l-d5-zwerlon-resized-original-imahg4htmsuhwbqq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/a/f/l-d5-zwerlon-original-imahg4htq4axmfzf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/z/4/l-d5-zwerlon-original-imahg4htntqtvzkt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/3/b/l/l-d5-zwerlon-original-imahg4htfw7qk4yw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/s/k/a/l-d5-zwerlon-original-imahg4htgfhe9zv9.jpeg?q=70"
+      ],
+      "sku": "DREHC8JDHWNX9EAJ",
+      "color": "Goldy-Green",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 130,
+        "ratingCount": 2486,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "ZWERLON",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 347,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-22",
+          "reviewBody": "I really loved it.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Nisha Khilwani",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-03",
+          "reviewBody": "Firstly packing was awesome.\nI ordered for myself and really superb quality.\nMaterial is soft and comfortable.\nColour combination is also vary nice.\nThanks Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "sushmita rathore",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-10",
+          "reviewBody": "Comfortable and beautiful dress\nFabric is also super soft and perfect for daily use",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Model Name",
+          "body": "Dress For Women | Floral Printed | Tiered Midi Dress | Puff Sleeves | Drawstring Waist"
+        }
+      ],
+      "product_highlights": {
+        "Color": "Yellow",
+        "Length": "Midi/Calf Length",
+        "Pattern": "Floral Print",
+        "Type": "A-line",
+        "Sleeve Length": "Half Sleeve",
+        "Sleeve": "Puff Sleeves"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "d753a2ae3d1c30cd1297bab3",
+      "path": "media/images/d753a2ae3d1c30cd1297bab3/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

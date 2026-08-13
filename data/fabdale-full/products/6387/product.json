@@ -1,0 +1,181 @@
+{
+  "product_id": "6387",
+  "sku": "Fab-Shirt-METR-008G-S",
+  "product": {
+    "name": "Smart Looking Shirt",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/metronaut-men-solid-casual-green-shirt/p/itm8d33fcbb5297e?pid=SHTHC6GCCFH9ZVAG&lid=LSTSHTHC6GCCFH9ZVAG587QNF&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SHTHC6GCCFH9ZVAG",
+    "path": "../../sources/pid-SHTHC6GCCFH9ZVAG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-green-shirt/p/itm8d33fcbb5297e?pid=SHTHC6GCCFH9ZVAG&lid=LSTSHTHC6GCCFH9ZVAG587QNF&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T08:03:05.360Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-green-shirt/p/itm8d33fcbb5297e?pid=SHTHC6GCCFH9ZVAG&lid=LSTSHTHC6GCCFH9ZVAG587QNF&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T08:03:20.522Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Solid Casual Green Shirt",
+    "short_description": "Color: Green\nFabric: Polyester\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Button Down",
+    "description": "METRONAUT Men Solid Casual Green Shirt - Buy METRONAUT Men Solid Casual Green Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Polyester",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Button Down",
+      "Color": "Green"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ee8d0f09e43cfc64961a31d1",
+      "path": "media/images/ee8d0f09e43cfc64961a31d1/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/y/z/d/xl-ml-sr136-metronaut-original-imahc6gchy8hqqgr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/y/z/d/xl-ml-sr136-metronaut-original-imahc6gchy8hqqgr.jpeg?q=100",
+        "local_path": "../../media/images/ee8d0f09e43cfc64961a31d1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/u/k/8/xl-ml-sr136-metronaut-original-imahc6gcdruytjq4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/u/k/8/xl-ml-sr136-metronaut-original-imahc6gcdruytjq4.jpeg?q=100",
+        "local_path": "../../media/images/ee8d0f09e43cfc64961a31d1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/r/s/xl-ml-sr136-metronaut-original-imahc6gc8zjjabvv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/r/s/xl-ml-sr136-metronaut-original-imahc6gc8zjjabvv.jpeg?q=100",
+        "local_path": "../../media/images/ee8d0f09e43cfc64961a31d1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/m/4/xl-ml-sr136-metronaut-original-imahc6gcy9tmtzmg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/m/4/xl-ml-sr136-metronaut-original-imahc6gcy9tmtzmg.jpeg?q=100",
+        "local_path": "../../media/images/ee8d0f09e43cfc64961a31d1/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual Green Shirt",
+      "description": "METRONAUT Men Solid Casual Green Shirt - Buy METRONAUT Men Solid Casual Green Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/y/z/d/xl-ml-sr136-metronaut-original-imahc6gchy8hqqgr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/u/k/8/xl-ml-sr136-metronaut-original-imahc6gcdruytjq4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/r/s/xl-ml-sr136-metronaut-original-imahc6gc8zjjabvv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/k/m/4/xl-ml-sr136-metronaut-original-imahc6gcy9tmtzmg.jpeg?q=70"
+      ],
+      "sku": "SHTHC6GCCFH9ZVAG",
+      "color": "Green",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 277,
+        "ratingCount": 1509,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 416,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Avinandan  Mondal",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-03",
+          "reviewBody": "Awesome quality products",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Reva",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-01",
+          "reviewBody": "Color is same as shown in the picture and looks classy\nAfter washing also the color and fabric remained the same",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Tejas  Dey",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-01",
+          "reviewBody": "Fabric is soft and perfect for summer wear",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Polyester",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Button Down",
+        "Color": "Green"
+      },
+      "specifications": {}
+    }
+  }
+}

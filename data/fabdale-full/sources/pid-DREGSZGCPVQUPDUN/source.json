@@ -1,0 +1,190 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/sheetal-associates-women-fit-flare-purple-midi-calf-length-dress/p/itm3cad2d9e78fdf?pid=DREGSZGCPVQUPDUN&marketplace=FLIPKART&lid=LSTDREGSZGCPVQUPDUN7FG6EX&q=+sheetal+associates&fm=Search&swatchAttr=size&pageUID=1772363332197",
+    "scraped_at": "2026-08-12T08:36:34.530Z",
+    "final_url": "https://www.flipkart.com/sheetal-associates-women-fit-flare-purple-midi-calf-length-dress/p/itm3cad2d9e78fdf?pid=DREGSZGCPVQUPDUN&marketplace=FLIPKART&lid=LSTDREGSZGCPVQUPDUN7FG6EX&q=+sheetal+associates&fm=Search&swatchAttr=size&pageUID=1772363332197"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:36:39.105Z"
+  },
+  "content": {
+    "title": "Sheetal Associates Women Fit and Flare Purple Midi/Calf Length Dress",
+    "short_description": "Color: Purple\nPattern: Solid\nType: Fit and Flare\nSleeve: Puff Sleeves\nLength: Midi/Calf Length\nSleeve Length: Half Sleeve",
+    "description": "Sheetal Associates Women Fit and Flare Purple Midi/Calf Length Dress - Buy Sheetal Associates Women Fit and Flare Purple Midi/Calf Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Color": "Purple",
+      "Length": "Midi/Calf Length",
+      "Pattern": "Solid",
+      "Type": "Fit and Flare",
+      "Sleeve Length": "Half Sleeve",
+      "Sleeve": "Puff Sleeves"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/l/k/j/m-7124-sheetal-associates-original-imahhmy6fgmhcnag.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/l/k/j/m-7124-sheetal-associates-original-imahhmy6fgmhcnag.jpeg?q=100",
+        "local_path": "../../media/images/ba3926bac0d7e2389be56908/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/b/c/h/m-7124-sheetal-associates-original-imahhmy6y3au677x.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/b/c/h/m-7124-sheetal-associates-original-imahhmy6y3au677x.jpeg?q=100",
+        "local_path": "../../media/images/ba3926bac0d7e2389be56908/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/k/v/0/m-7124-sheetal-associates-original-imahhmy6wgzyapbm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/k/v/0/m-7124-sheetal-associates-original-imahhmy6wgzyapbm.jpeg?q=100",
+        "local_path": "../../media/images/ba3926bac0d7e2389be56908/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/e/9/r/m-7124-sheetal-associates-original-imahhmy6acenjrwh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/e/9/r/m-7124-sheetal-associates-original-imahhmy6acenjrwh.jpeg?q=100",
+        "local_path": "../../media/images/ba3926bac0d7e2389be56908/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/x/p/z/m-7124-sheetal-associates-original-imahhmy6egjvrgdf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/x/p/z/m-7124-sheetal-associates-original-imahhmy6egjvrgdf.jpeg?q=100",
+        "local_path": "../../media/images/ba3926bac0d7e2389be56908/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Sheetal Associates Women Fit and Flare Purple Midi/Calf Length Dress",
+      "description": "Sheetal Associates Women Fit and Flare Purple Midi/Calf Length Dress - Buy Sheetal Associates Women Fit and Flare Purple Midi/Calf Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/l/k/j/m-7124-sheetal-associates-original-imahhmy6fgmhcnag.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/b/c/h/m-7124-sheetal-associates-original-imahhmy6y3au677x.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/k/v/0/m-7124-sheetal-associates-original-imahhmy6wgzyapbm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/e/9/r/m-7124-sheetal-associates-original-imahhmy6acenjrwh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/x/p/z/m-7124-sheetal-associates-original-imahhmy6egjvrgdf.jpeg?q=70"
+      ],
+      "sku": "DREGSZGCPVQUPDUN",
+      "color": "Purpal light",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 826,
+        "ratingCount": 17372,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Sheetal Associates",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 293,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-24",
+          "reviewBody": "Nice...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Madhu Priya",
+            "@type": "Person"
+          },
+          "datePublished": "2023-12-05",
+          "reviewBody": "Super",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Sneha Sanal",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-11",
+          "reviewBody": "Just wow..go for it..❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Color": "Purple",
+        "Length": "Midi/Calf Length",
+        "Pattern": "Solid",
+        "Type": "Fit and Flare",
+        "Sleeve Length": "Half Sleeve",
+        "Sleeve": "Puff Sleeves"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ba3926bac0d7e2389be56908",
+      "path": "media/images/ba3926bac0d7e2389be56908/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

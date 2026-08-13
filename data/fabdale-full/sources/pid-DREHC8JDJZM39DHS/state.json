@@ -1,0 +1,17 @@
+{
+  "source_key": "pid-DREHC8JDJZM39DHS",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "321",
+    "5099",
+    "5101"
+  ],
+  "source_path": "sources/pid-DREHC8JDJZM39DHS/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T08:33:21.625Z",
+  "completed_at": "2026-08-12T08:33:29.518Z"
+}

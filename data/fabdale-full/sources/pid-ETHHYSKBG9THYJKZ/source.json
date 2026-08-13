@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itmb704444b64093?pid=ETHHYSKBG9THYJKZ&marketplace=FLIPKART&lid=LSTETHHYSKBG9THYJKZABR0KR&swatchAttr=size&pageUID=1772818301517",
+    "scraped_at": "2026-08-12T16:03:22.056Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itmb704444b64093?pid=ETHHYSKBG9THYJKZ&marketplace=FLIPKART&lid=LSTETHHYSKBG9THYJKZABR0KR&swatchAttr=size&pageUID=1772818301517"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T16:03:36.231Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Dupatta Set",
+    "short_description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 5499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 5499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/4/b/e/s-rx53-sky-blue-royal-export-resized-original-imahyskbggp5na3g.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/4/b/e/s-rx53-sky-blue-royal-export-resized-original-imahyskbggp5na3g.jpeg?q=100",
+        "local_path": "../../media/images/84e714b0613ab8d55611c42b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/s/t/s-rx53-sky-blue-royal-export-original-imahyskbgdy4habm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/s/t/s-rx53-sky-blue-royal-export-original-imahyskbgdy4habm.jpeg?q=100",
+        "local_path": "../../media/images/84e714b0613ab8d55611c42b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/3/2/1/s-rx53-sky-blue-royal-export-original-imahyskbh2pswqxb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/3/2/1/s-rx53-sky-blue-royal-export-original-imahyskbh2pswqxb.jpeg?q=100",
+        "local_path": "../../media/images/84e714b0613ab8d55611c42b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/j/l/s-rx53-sky-blue-royal-export-original-imahyskbegjpaxqz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/j/l/s-rx53-sky-blue-royal-export-original-imahyskbegjpaxqz.jpeg?q=100",
+        "local_path": "../../media/images/84e714b0613ab8d55611c42b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/r/g/s-rx53-sky-blue-royal-export-original-imahyskbzb3q7jze.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/r/g/s-rx53-sky-blue-royal-export-original-imahyskbzb3q7jze.jpeg?q=100",
+        "local_path": "../../media/images/84e714b0613ab8d55611c42b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Dupatta Set",
+      "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 5499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/4/b/e/s-rx53-sky-blue-royal-export-resized-original-imahyskbggp5na3g.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/s/t/s-rx53-sky-blue-royal-export-original-imahyskbgdy4habm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/3/2/1/s-rx53-sky-blue-royal-export-original-imahyskbh2pswqxb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/j/l/s-rx53-sky-blue-royal-export-original-imahyskbegjpaxqz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/r/g/s-rx53-sky-blue-royal-export-original-imahyskbzb3q7jze.jpeg?q=70"
+      ],
+      "sku": "ETHHYSKBG9THYJKZ",
+      "color": "Sky Blue",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 1385,
+        "ratingCount": 17660,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 618,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Mayur Uthale",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-03",
+          "reviewBody": "Material quality is too good, it is very soft and pure cotton material. It can be used for party as well as office. The colour is very fresh and unique and similar as shown in picture. My wife just love this dress.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Aditi Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-28",
+          "reviewBody": "Chic and timeless , this kurta set is a classic. The color is to die for and the best part is it's floral embroidery detail which is so impressive, simple and elegant.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Garima  Garg",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-02",
+          "reviewBody": "Awesome product. \nFabric is too good , comfortable and breathable. So nice quality in this price. Go for it guys",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "84e714b0613ab8d55611c42b",
+      "path": "media/images/84e714b0613ab8d55611c42b/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

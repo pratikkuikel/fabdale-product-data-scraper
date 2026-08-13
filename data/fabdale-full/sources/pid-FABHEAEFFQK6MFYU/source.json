@@ -1,0 +1,183 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm4ad1791c319a3?pid=FABHEAEFFQK6MFYU&lid=LSTFABHEAEFFQK6MFYUOH9GFY&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:36:34.253Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm4ad1791c319a3?pid=FABHEAEFFQK6MFYU&lid=LSTFABHEAEFFQK6MFYUOH9GFY&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:36:43.488Z"
+  },
+  "content": {
+    "title": "krishna boutique Unstitched Pure Cotton Salwar Suit Material Printed",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupattta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": null,
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupattta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/f/m/7/yes-2-5-m-unstitched-2-2-m-purpal1-krishna-boutique-resized-original-imahgwv7aw3wdgr9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/f/m/7/yes-2-5-m-unstitched-2-2-m-purpal1-krishna-boutique-resized-original-imahgwv7aw3wdgr9.jpeg?q=100",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/j/m/y/yes-2-5-m-unstitched-2-2-m-purpal1-krishna-boutique-original-imahgwv7pjrthfdb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/j/m/y/yes-2-5-m-unstitched-2-2-m-purpal1-krishna-boutique-original-imahgwv7pjrthfdb.jpeg?q=100",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a102a84917cd4261ba44771a8af3affd.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a102a84917cd4261ba44771a8af3affd.jpg?q=80",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f118d4a7b42b4fcd90d08047873b8068.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f118d4a7b42b4fcd90d08047873b8068.jpg?q=80",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a31968b7a8304a4fb39ef70513eba1c1.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a31968b7a8304a4fb39ef70513eba1c1.jpg?q=80",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7db94c1714a246ac9924275daf8b45d1.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7db94c1714a246ac9924275daf8b45d1.jpg?q=80",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_2e31f02724db441d9b6eb1e4f7641906.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_2e31f02724db441d9b6eb1e4f7641906.jpg?q=80",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/d/c/j/yes-2-5-m-unstitched-2-2-m-clouf45-krishna-boutique-original-imahzuhxfgupprg3.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/d/c/j/yes-2-5-m-unstitched-2-2-m-clouf45-krishna-boutique-original-imahzuhxfgupprg3.jpeg?q=100",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/r/e/e/yes-2-25-m-unstitched-2-2-m-tbd257-sun-fashion-and-lifestyle-original-imahzfgw3mxxzzwa.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/r/e/e/yes-2-25-m-unstitched-2-2-m-tbd257-sun-fashion-and-lifestyle-original-imahzfgw3mxxzzwa.jpeg?q=100",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/g/6/5/yes-2-5-m-unstitched-2-5-m-itlfoi-vijaycreation-original-imahprasqckhkcay.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/g/6/5/yes-2-5-m-unstitched-2-5-m-itlfoi-vijaycreation-original-imahprasqckhkcay.jpeg?q=100",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/y/k/f/yes-2-2-m-unstitched-2-m-2-5-m-ikkat-2-dark-pink-sun-fashion-and-resized-original-imaggpmzrypgfvef.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/y/k/f/yes-2-2-m-unstitched-2-m-2-5-m-ikkat-2-dark-pink-sun-fashion-and-resized-original-imaggpmzrypgfvef.jpeg?q=100",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/v/y/m/yes-2-35-m-unstitched-2-2-m-meena-fab-junction-original-imahh52njhythxnk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/v/y/m/yes-2-35-m-unstitched-2-2-m-meena-fab-junction-original-imahh52njhythxnk.jpeg?q=100",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/f/j/o/yes-2-5-m-unstitched-2-2-m-kevalfabqurbat-rhinefab-original-imahg9h94jggjhze.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/f/j/o/yes-2-5-m-unstitched-2-2-m-kevalfabqurbat-rhinefab-original-imahg9h94jggjhze.jpeg?q=100",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/u/d/u/yes-2-5-m-unstitched-2-2-m-kevalfabqurbat-rhinefab-original-imahg9h9ckpzg7ze.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/u/d/u/yes-2-5-m-unstitched-2-2-m-kevalfabqurbat-rhinefab-original-imahg9h9ckpzg7ze.jpeg?q=100",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/q/e/x/yes-2-5-m-unstitched-2-2-m-kevalfabqurbat-rhinefab-original-imahg9h9rtkrafzc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/q/e/x/yes-2-5-m-unstitched-2-2-m-kevalfabqurbat-rhinefab-original-imahg9h9rtkrafzc.jpeg?q=100",
+        "local_path": "../../media/images/c5d3c46c3c1716f8e943e5c4/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupattta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {
+        "Brand": "krishna boutique",
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupattta",
+        "Ideal For": "Women",
+        "Occasion": "Casual",
+        "Fabric Care": "Hand wash",
+        "Style Code": "purpal1",
+        "Bottom Length": "2.20m",
+        "Dupatta Length": "2.2 m",
+        "Top Length": "2.5 m",
+        "Color": "Multicolor",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched",
+        "Brand Color": "Pink6",
+        "Dupatta": "Yes",
+        "Fabric Purity": "Pure",
+        "Ornamentation Type": "Thread Work"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c5d3c46c3c1716f8e943e5c4",
+      "path": "media/images/c5d3c46c3c1716f8e943e5c4/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

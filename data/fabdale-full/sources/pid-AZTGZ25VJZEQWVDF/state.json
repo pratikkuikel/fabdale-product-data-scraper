@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-AZTGZ25VJZEQWVDF",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "397",
+    "398"
+  ],
+  "source_path": "sources/pid-AZTGZ25VJZEQWVDF/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T08:42:44.839Z",
+  "completed_at": "2026-08-12T08:42:54.804Z"
+}

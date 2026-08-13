@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/aurelia-women-embroidered-flared-kurta/p/itm10a22fa4072d7?pid=KTAG9WNVFBHUDVD3&marketplace=FLIPKART&lid=LSTKTAG9WNVFBHUDVD3WOJEG7&swatchAttr=size",
+    "scraped_at": "2026-08-12T10:51:10.416Z",
+    "final_url": "https://www.flipkart.com/aurelia-women-embroidered-flared-kurta/p/itm10a22fa4072d7?pid=KTAG9WNVFBHUDVD3&marketplace=FLIPKART&lid=LSTKTAG9WNVFBHUDVD3WOJEG7&swatchAttr=size"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:51:15.460Z"
+  },
+  "content": {
+    "title": "Aurelia Women Embroidered Flared Kurta",
+    "short_description": "Color: Multicolor\nFabric: Polyester\nPattern: Embroidered\nType: Flared\nFit: Regular Fit",
+    "description": "Aurelia Women Embroidered Flared Kurta - Buy Aurelia Women Embroidered Flared Kurta For Only Rs. 2299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Embroidered",
+      "Type": "Flared",
+      "Fabric": "Polyester",
+      "Fit": "Regular Fit",
+      "Color": "Multicolor"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/t/e/-resized-original-imahf8jxewqqpzgh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/t/e/-resized-original-imahf8jxewqqpzgh.jpeg?q=100",
+        "local_path": "../../media/images/4674dc5e5a259a924651ebba/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/d/h/-original-imahf8jxzqxte4ze.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/d/h/-original-imahf8jxzqxte4ze.jpeg?q=100",
+        "local_path": "../../media/images/4674dc5e5a259a924651ebba/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/k/s/-original-imahf8jxudbhsfgy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/k/s/-original-imahf8jxudbhsfgy.jpeg?q=100",
+        "local_path": "../../media/images/4674dc5e5a259a924651ebba/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/b/c/-original-imahf8jxyc9twzgy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/b/c/-original-imahf8jxyc9twzgy.jpeg?q=100",
+        "local_path": "../../media/images/4674dc5e5a259a924651ebba/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/1/r/-original-imahf8jxua5rahv5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/1/r/-original-imahf8jxua5rahv5.jpeg?q=100",
+        "local_path": "../../media/images/4674dc5e5a259a924651ebba/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Aurelia Women Embroidered Flared Kurta",
+      "description": "Aurelia Women Embroidered Flared Kurta - Buy Aurelia Women Embroidered Flared Kurta For Only Rs. 2299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/t/e/-resized-original-imahf8jxewqqpzgh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/d/h/-original-imahf8jxzqxte4ze.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/k/s/-original-imahf8jxudbhsfgy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/b/c/-original-imahf8jxyc9twzgy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/1/r/-original-imahf8jxua5rahv5.jpeg?q=70"
+      ],
+      "sku": "KTAG9WNVFBHUDVD3",
+      "color": "Taffey",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 6,
+        "ratingCount": 86,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Aurelia",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 827,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Prasannanjali Y",
+            "@type": "Person"
+          },
+          "datePublished": "2022-09-23",
+          "reviewBody": "Not this much of shining cloth but good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-26",
+          "reviewBody": "look better",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Komalavalli M",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-20",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Embroidered",
+        "Type": "Flared",
+        "Fabric": "Polyester",
+        "Fit": "Regular Fit",
+        "Color": "Multicolor"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4674dc5e5a259a924651ebba",
+      "path": "media/images/4674dc5e5a259a924651ebba/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

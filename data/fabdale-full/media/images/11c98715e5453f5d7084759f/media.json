@@ -1,0 +1,37 @@
+{
+  "key": "11c98715e5453f5d7084759f",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:39:19.244Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/b/l/p/free-half-sleeve-box-pattu-fabcartz-original-imah3zjpepcyzudh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/b/l/p/free-half-sleeve-box-pattu-fabcartz-original-imah3zjpepcyzudh.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/4/k/d/free-half-sleeve-box-pattu-fabcartz-original-imah3zjpfwvgpghj.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/4/k/d/free-half-sleeve-box-pattu-fabcartz-original-imah3zjpfwvgpghj.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/i/e/free-half-sleeve-box-pattu-fabcartz-original-imah3zjpe6kp6p9d.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/i/e/free-half-sleeve-box-pattu-fabcartz-original-imah3zjpe6kp6p9d.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/b/g/free-half-sleeve-box-pattu-fabcartz-original-imah3zjpzwwhpzm2.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/b/g/free-half-sleeve-box-pattu-fabcartz-original-imah3zjpzwwhpzm2.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

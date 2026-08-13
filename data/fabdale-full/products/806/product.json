@@ -1,0 +1,143 @@
+{
+  "product_id": "806",
+  "sku": "Fab-Salwar-PLDI-009MD-L",
+  "product": {
+    "name": "Pilessa Wedding & Ethnic Salwar Suit Set",
+    "parent_id": "5140",
+    "notes": "https://www.flipkart.com/piludi-embroidered-kurta-salwar-dupatta-set/p/itm165b3f917d12b?pid=SWDH8JETAYPGBDRU&lid=LSTSWDH8JETAYPGBDRUX57TQ2&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SWDH8JETAYPGBDRU",
+    "path": "../../sources/pid-SWDH8JETAYPGBDRU/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/piludi-embroidered-kurta-salwar-dupatta-set/p/itm165b3f917d12b?pid=SWDH8JETAYPGBDRU&lid=LSTSWDH8JETAYPGBDRUX57TQ2&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:59:40.160Z",
+    "final_url": "https://www.flipkart.com/piludi-embroidered-kurta-salwar-dupatta-set/p/itm165b3f917d12b?pid=SWDH8JETAYPGBDRU&lid=LSTSWDH8JETAYPGBDRUX57TQ2&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:59:48.212Z"
+  },
+  "content": {
+    "title": "PILUDI SW.MINAKSHI Embroidered Kurta, Salwar & Dupatta Set",
+    "short_description": "Color: Green\nPattern: Embroidered\nType: Kurta, Salwar & Dupatta Set\nTop Type: Kurti\nBottom Type: Salwar",
+    "description": null,
+    "specifications": {
+      "Type": "Kurta, Salwar & Dupatta Set",
+      "Top Type": "Kurti",
+      "Bottom Type": "Salwar",
+      "Color": "Green",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "67abd2325eab2891d2373543",
+      "path": "media/images/67abd2325eab2891d2373543/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/salwar-kurta-dupatta/n/s/r/-original-imahegpuhggvvf9h.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/salwar-kurta-dupatta/n/s/r/-original-imahegpuhggvvf9h.jpeg?q=100",
+        "local_path": "../../media/images/67abd2325eab2891d2373543/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/b/9/c/m-sw-minakshi-piludi-house-original-imahb98zzuhhyz6z.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/b/9/c/m-sw-minakshi-piludi-house-original-imahb98zzuhhyz6z.jpeg?q=100",
+        "local_path": "../../media/images/67abd2325eab2891d2373543/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/salwar-kurta-dupatta/j/u/j/xl-sw-minakshi-piludi-original-imahcyyxyrhfzpzg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/salwar-kurta-dupatta/j/u/j/xl-sw-minakshi-piludi-original-imahcyyxyrhfzpzg.jpeg?q=100",
+        "local_path": "../../media/images/67abd2325eab2891d2373543/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/k/x/z/s-sw-minakshi-piludi-resized-original-imahczaepndauz6h.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/k/x/z/s-sw-minakshi-piludi-resized-original-imahczaepndauz6h.jpeg?q=100",
+        "local_path": "../../media/images/67abd2325eab2891d2373543/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/l/f/3/3xl-piink-dup-set-s-saba-original-imahmsumkyppv6mj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/l/f/3/3xl-piink-dup-set-s-saba-original-imahmsumkyppv6mj.jpeg?q=100",
+        "local_path": "../../media/images/67abd2325eab2891d2373543/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/j/y/m-ethnicset-k8o-97-purple-m-mpenterorices-original-imahnhgygzfhye5g.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/j/y/m-ethnicset-k8o-97-purple-m-mpenterorices-original-imahnhgygzfhye5g.jpeg?q=100",
+        "local_path": "../../media/images/67abd2325eab2891d2373543/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/l/a/i/m-wine-lotus-goroly-original-imahfw9fntbtkbfg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/l/a/i/m-wine-lotus-goroly-original-imahfw9fntbtkbfg.jpeg?q=100",
+        "local_path": "../../media/images/67abd2325eab2891d2373543/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/n/c/z/4xl-sw-hansika-navyblue-piludi-resized-original-imahjhj4tqfgvywu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/n/c/z/4xl-sw-hansika-navyblue-piludi-resized-original-imahjhj4tqfgvywu.jpeg?q=100",
+        "local_path": "../../media/images/67abd2325eab2891d2373543/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/v/a/n/l-sw-minakshi-piludi-original-imahh6p5uqk4wpyz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/v/a/n/l-sw-minakshi-piludi-original-imahh6p5uqk4wpyz.jpeg?q=100",
+        "local_path": "../../media/images/67abd2325eab2891d2373543/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/w/o/5/xl-sw-kashvi-piludi-house-original-imahe6qqjbfzdfaf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/w/o/5/xl-sw-kashvi-piludi-house-original-imahe6qqjbfzdfaf.jpeg?q=100",
+        "local_path": "../../media/images/67abd2325eab2891d2373543/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/r/x/m-sw-mastani-piludi-house-resized-original-imahgdrrp3tzyyg8.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/r/x/m-sw-mastani-piludi-house-resized-original-imahgdrrp3tzyyg8.jpeg?q=100",
+        "local_path": "../../media/images/67abd2325eab2891d2373543/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "Kurta, Salwar & Dupatta Set",
+        "Top Type": "Kurti",
+        "Bottom Type": "Salwar",
+        "Color": "Green",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  }
+}

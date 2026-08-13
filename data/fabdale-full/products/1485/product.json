@@ -1,0 +1,216 @@
+{
+  "product_id": "1485",
+  "sku": "Fab-Salwar-RYEX-010PK-M",
+  "product": {
+    "name": "Rivanta  Pink Floral Salwar Suit Set",
+    "parent_id": "5239",
+    "notes": "https://www.flipkart.com/royal-export-floral-print-kurta-trouser-pant-dupatta-set/p/itm90de6cf3b1158?pid=SWDGUGPTNHUFANHZ&marketplace=FLIPKART&lid=LSTSWDGUGPTNHUFANHZTJ8ZDU&swatchAttr=size&pageUID=1772809779805"
+  },
+  "source_bundle": {
+    "key": "pid-SWDGUGPTNHUFANHZ",
+    "path": "../../sources/pid-SWDGUGPTNHUFANHZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-floral-print-kurta-trouser-pant-dupatta-set/p/itm90de6cf3b1158?pid=SWDGUGPTNHUFANHZ&marketplace=FLIPKART&lid=LSTSWDGUGPTNHUFANHZTJ8ZDU&swatchAttr=size&pageUID=1772809779805",
+    "scraped_at": "2026-08-12T15:40:21.840Z",
+    "final_url": "https://www.flipkart.com/royal-export-floral-print-kurta-trouser-pant-dupatta-set/p/itm90de6cf3b1158?pid=SWDGUGPTNHUFANHZ&marketplace=FLIPKART&lid=LSTSWDGUGPTNHUFANHZTJ8ZDU&swatchAttr=size&pageUID=1772809779805"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:40:38.045Z"
+  },
+  "content": {
+    "title": "Royal Export Floral Print Kurta, Trouser/Pant & Dupatta Set",
+    "short_description": "Color: Pink\nPattern: Floral Print\nType: Kurta, Trouser/Pant & Dupatta Set\nTop Type: Kurta\nBottom Type: Trouser",
+    "description": "Floral Pattern\nBoasting floral prints on the kurta and striped design on both the dupatta and pants, this women’s k…\n\nModern Design\nThe straight kurta from this set features a flattering V-neck that can beautifully frame your face. …\n\nGood-quality Fabric\nCrafted from high-quality material, this set can ensure a soft, breathable experience, making it com…\n\nStyle Statement\nDesigned for versatility, this set can effortlessly transition from formal to casual occasions. The …",
+    "specifications": {
+      "Type": "Kurta, Trouser/Pant & Dupatta Set",
+      "Top Type": "Kurta",
+      "Bottom Type": "Trouser",
+      "Color": "Pink",
+      "Pattern": "Floral Print"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "fae3eb3457295a9faa0c8001",
+      "path": "media/images/fae3eb3457295a9faa0c8001/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/e/h/xxl-rx27-amr-ktd-royal-export-original-imahfyrcjygpkpbg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/e/h/xxl-rx27-amr-ktd-royal-export-original-imahfyrcjygpkpbg.jpeg?q=100",
+        "local_path": "../../media/images/fae3eb3457295a9faa0c8001/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/w/j/s/s-rx027-amr-ktd-royal-export-original-imah23ydwfxnpuez.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/w/j/s/s-rx027-amr-ktd-royal-export-original-imah23ydwfxnpuez.jpeg?q=100",
+        "local_path": "../../media/images/fae3eb3457295a9faa0c8001/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/l/b/t/s-rx027-amr-ktd-royal-export-original-imah23ydfqfzuqcg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/l/b/t/s-rx027-amr-ktd-royal-export-original-imah23ydfqfzuqcg.jpeg?q=100",
+        "local_path": "../../media/images/fae3eb3457295a9faa0c8001/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/7/r/l/s-rx027-amr-ktd-royal-export-original-imah23ydfkqujxth.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/7/r/l/s-rx027-amr-ktd-royal-export-original-imah23ydfkqujxth.jpeg?q=100",
+        "local_path": "../../media/images/fae3eb3457295a9faa0c8001/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/z/c/s/s-rx027-amr-ktd-royal-export-original-imah23ydgpwgzgfj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/z/c/s/s-rx027-amr-ktd-royal-export-original-imah23ydgpwgzgfj.jpeg?q=100",
+        "local_path": "../../media/images/fae3eb3457295a9faa0c8001/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Floral Print Kurta, Trouser/Pant & Dupatta Set",
+      "description": "Royal Export Floral Print Kurta, Trouser/Pant & Dupatta Set - Buy Royal Export Floral Print Kurta, Trouser/Pant & Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/e/h/xxl-rx27-amr-ktd-royal-export-original-imahfyrcjygpkpbg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/w/j/s/s-rx027-amr-ktd-royal-export-original-imah23ydwfxnpuez.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/l/b/t/s-rx027-amr-ktd-royal-export-original-imah23ydfqfzuqcg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/7/r/l/s-rx027-amr-ktd-royal-export-original-imah23ydfkqujxth.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/z/c/s/s-rx027-amr-ktd-royal-export-original-imah23ydgpwgzgfj.jpeg?q=70"
+      ],
+      "sku": "SWDGUGPTNHUFANHZ",
+      "color": "Pink",
+      "category": "salwar_kurta_dupatta",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 13,
+        "ratingCount": 177,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 508,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Shwetha Arun",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-31",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Shubham  Saini",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-01",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Expected a better product",
+          "author": {
+            "name": "Rashmi Raj",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-12",
+          "reviewBody": "Febric not cotton",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Floral Pattern",
+          "body": "Boasting floral prints on the kurta and striped design on both the dupatta and pants, this women’s k…"
+        },
+        {
+          "heading": "Modern Design",
+          "body": "The straight kurta from this set features a flattering V-neck that can beautifully frame your face. …"
+        },
+        {
+          "heading": "Good-quality Fabric",
+          "body": "Crafted from high-quality material, this set can ensure a soft, breathable experience, making it com…"
+        },
+        {
+          "heading": "Style Statement",
+          "body": "Designed for versatility, this set can effortlessly transition from formal to casual occasions. The …"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Kurta, Trouser/Pant & Dupatta Set",
+        "Top Type": "Kurta",
+        "Bottom Type": "Trouser",
+        "Color": "Pink",
+        "Pattern": "Floral Print"
+      },
+      "specifications": {}
+    }
+  }
+}

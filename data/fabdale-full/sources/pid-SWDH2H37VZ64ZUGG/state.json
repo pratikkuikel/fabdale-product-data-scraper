@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SWDH2H37VZ64ZUGG",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1765"
+  ],
+  "source_path": "sources/pid-SWDH2H37VZ64ZUGG/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T07:18:01.051Z",
+  "completed_at": "2026-08-13T07:18:05.537Z"
+}

@@ -1,0 +1,16 @@
+{
+  "key": "30da2f96186fbe2fb4b3491d",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:35:50.374Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/e/i/o/yes-2-5-m-unstitched-2-2-m-mtmt-white-multicolor-soni-yy-081-original-imahjxf9gwfkjekp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/e/i/o/yes-2-5-m-unstitched-2-2-m-mtmt-white-multicolor-soni-yy-081-original-imahjxf9gwfkjekp.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

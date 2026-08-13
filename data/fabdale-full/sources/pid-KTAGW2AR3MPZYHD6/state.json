@@ -1,0 +1,18 @@
+{
+  "source_key": "pid-KTAGW2AR3MPZYHD6",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "949",
+    "950",
+    "951",
+    "952"
+  ],
+  "source_path": "sources/pid-KTAGW2AR3MPZYHD6/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:14:41.736Z",
+  "completed_at": "2026-08-12T11:14:54.862Z"
+}

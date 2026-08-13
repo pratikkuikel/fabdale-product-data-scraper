@@ -1,0 +1,208 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itmfbfb34ac0f57b?pid=ETHGH8ZECTM5B7CZ&lid=LSTETHGH8ZECTM5B7CZF9AQIV&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T15:27:47.612Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itmfbfb34ac0f57b?pid=ETHGH8ZECTM5B7CZ&lid=LSTETHGH8ZECTM5B7CZF9AQIV&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:27:58.858Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Cotton Blend\nPattern: Floral Print\nType: Kurta, Pant And Dupatta Set",
+    "description": "Beautiful Pattern\nCourtesy of its beautiful design element, the Royal Export Women's Printed Kurta, Pants, and Dupatta…\n\nStylish and Comfortable\nAs this set combines fashion with comfort, it features three-quarter sleeves for a chic look and eas…\n\nContrasting Pants and Dupatta\nWith its contrasting pant-style bottom and printed dupatta, this set offers a modern take on traditi…\n\nImpressive Fabric\nCrafted from a cotton blend top and cotton bottom, this kurta, pants and dupatta set ensures style a…\n\nVersatile Wear\nOwing to its versatility, this set can be worn on various occasions, making it a must-have in your w…\n\nStyle it Right\nLook graceful and feminine when you dress in this lovely ethnic set. Put together your look with del…",
+    "specifications": {
+      "Fabric": "Cotton Blend",
+      "Type": "Kurta, Pant And Dupatta Set",
+      "Pattern": "Floral Print"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/f/3/xl-dmpal-red-royal-export-resized-original-imagh8zezbbb5kzn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/f/3/xl-dmpal-red-royal-export-resized-original-imagh8zezbbb5kzn.jpeg?q=100",
+        "local_path": "../../media/images/a51945c8808a32284f54ef48/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/s/l/xl-dmpal-red-royal-export-original-imagh8zez9sc27z5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/s/l/xl-dmpal-red-royal-export-original-imagh8zez9sc27z5.jpeg?q=100",
+        "local_path": "../../media/images/a51945c8808a32284f54ef48/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/f/l/-original-imagtmtjmejxerzc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/f/l/-original-imagtmtjmejxerzc.jpeg?q=100",
+        "local_path": "../../media/images/a51945c8808a32284f54ef48/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/m/3/xl-dmpal-red-royal-export-original-imagh8zeugenzn2m.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/m/3/xl-dmpal-red-royal-export-original-imagh8zeugenzn2m.jpeg?q=100",
+        "local_path": "../../media/images/a51945c8808a32284f54ef48/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/d/b/xl-dmpal-red-royal-export-original-imagh8ze3pgm8v6e.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/d/b/xl-dmpal-red-royal-export-original-imagh8ze3pgm8v6e.jpeg?q=100",
+        "local_path": "../../media/images/a51945c8808a32284f54ef48/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNlL0S6RqLQ0ehkxZDy_ZDig/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Dupatta Set",
+      "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/f/3/xl-dmpal-red-royal-export-resized-original-imagh8zezbbb5kzn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/s/l/xl-dmpal-red-royal-export-original-imagh8zez9sc27z5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/f/l/-original-imagtmtjmejxerzc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/m/3/xl-dmpal-red-royal-export-original-imagh8zeugenzn2m.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/d/b/xl-dmpal-red-royal-export-original-imagh8ze3pgm8v6e.jpeg?q=70"
+      ],
+      "sku": "ETHGH8ZECTM5B7CZ",
+      "color": "Red",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 242,
+        "ratingCount": 2896,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 3679,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-30",
+          "reviewBody": "Here's an honest review. The cloth material is light and great for summer. It's not of great quality though. The stitching of the trouser is flimsy. Kurta set looks good, but for the price I don't think it's value for money.",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "ANSHITA AGARWAL",
+            "@type": "Person"
+          },
+          "datePublished": "2023-01-16",
+          "reviewBody": "I gifted this to my mom and she is looking so pretty in this suit. Fabric is superb and whole set is worth buying. Really loved it.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-07-10",
+          "reviewBody": "I bought it for my mother and it fitted her very well love the fabric quality...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Beautiful Pattern",
+          "body": "Courtesy of its beautiful design element, the Royal Export Women's Printed Kurta, Pants, and Dupatta…"
+        },
+        {
+          "heading": "Stylish and Comfortable",
+          "body": "As this set combines fashion with comfort, it features three-quarter sleeves for a chic look and eas…"
+        },
+        {
+          "heading": "Contrasting Pants and Dupatta",
+          "body": "With its contrasting pant-style bottom and printed dupatta, this set offers a modern take on traditi…"
+        },
+        {
+          "heading": "Impressive Fabric",
+          "body": "Crafted from a cotton blend top and cotton bottom, this kurta, pants and dupatta set ensures style a…"
+        },
+        {
+          "heading": "Versatile Wear",
+          "body": "Owing to its versatility, this set can be worn on various occasions, making it a must-have in your w…"
+        },
+        {
+          "heading": "Style it Right",
+          "body": "Look graceful and feminine when you dress in this lovely ethnic set. Put together your look with del…"
+        }
+      ],
+      "product_highlights": {
+        "Fabric": "Cotton Blend",
+        "Type": "Kurta, Pant And Dupatta Set",
+        "Pattern": "Floral Print"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a51945c8808a32284f54ef48",
+      "path": "media/images/a51945c8808a32284f54ef48/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "36e1ce95934ef60fca95993b",
+      "path": "media/videos/36e1ce95934ef60fca95993b/media.json",
+      "reused": false
+    }
+  }
+}

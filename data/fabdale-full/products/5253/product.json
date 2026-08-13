@@ -1,0 +1,153 @@
+{
+  "product_id": "5253",
+  "sku": null,
+  "product": {
+    "name": "Rivanta Geometric Printed  Salwar Suit Set",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm8cfc9030a0b5c?pid=ETHH4JFRYVZR8HBU&lid=LSTETHH4JFRYVZR8HBUY0FAHY&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH4JFRYVZR8HBU",
+    "path": "../../sources/pid-ETHH4JFRYVZR8HBU/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm8cfc9030a0b5c?pid=ETHH4JFRYVZR8HBU&lid=LSTETHH4JFRYVZR8HBUY0FAHY&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T15:49:42.865Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm8cfc9030a0b5c?pid=ETHH4JFRYVZR8HBU&lid=LSTETHH4JFRYVZR8HBUY0FAHY&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:49:55.728Z"
+  },
+  "content": {
+    "title": "Royal Export Women Cotton Blend Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Cotton Blend\nPattern: Printed\nFabricCotton Blend: PatternPrinted",
+    "description": null,
+    "specifications": {
+      "FabricCotton Blend": "PatternPrinted",
+      "Fabric": "Cotton Blend",
+      "Pattern": "Printed"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "24ac1713a5654b831e501f3f",
+      "path": "media/images/24ac1713a5654b831e501f3f/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/v/t/q/xxl-rx187-mgpink-skd-royal-export-original-imah4jfrp63hjxeu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/v/t/q/xxl-rx187-mgpink-skd-royal-export-original-imah4jfrp63hjxeu.jpeg?q=100",
+        "local_path": "../../media/images/24ac1713a5654b831e501f3f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://img.youtube.com/vi/1CQj9ZysdqE/0.jpg",
+        "download_url": "https://img.youtube.com/vi/1CQj9ZysdqE/0.jpg",
+        "local_path": "../../media/images/24ac1713a5654b831e501f3f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/g/n/o/xxl-rx187-mgpink-skd-royal-export-original-imah4jfrbkjygg5s.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/g/n/o/xxl-rx187-mgpink-skd-royal-export-original-imah4jfrbkjygg5s.jpeg?q=100",
+        "local_path": "../../media/images/24ac1713a5654b831e501f3f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/p/c/8/xxl-rx187-mgpink-skd-royal-export-original-imah4jfrvfj2zzfn.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/p/c/8/xxl-rx187-mgpink-skd-royal-export-original-imah4jfrvfj2zzfn.jpeg?q=100",
+        "local_path": "../../media/images/24ac1713a5654b831e501f3f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/t/u/x/xxl-rx187-mgpink-skd-royal-export-original-imah4jfrqmnhq6ah.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/t/u/x/xxl-rx187-mgpink-skd-royal-export-original-imah4jfrqmnhq6ah.jpeg?q=100",
+        "local_path": "../../media/images/24ac1713a5654b831e501f3f/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/f/m/h/l-ethnicset01-saba-original-imahn4zv8jrye8aj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/f/m/h/l-ethnicset01-saba-original-imahn4zv8jrye8aj.jpeg?q=100",
+        "local_path": "../../media/images/24ac1713a5654b831e501f3f/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/i/o/xl-dare-red-gsk-gosriki-original-imahje9zzchjs6fs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/i/o/xl-dare-red-gsk-gosriki-original-imahje9zzchjs6fs.jpeg?q=100",
+        "local_path": "../../media/images/24ac1713a5654b831e501f3f/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/p/i/h/xl-hathi-set-rudrakshaimpex-original-imahpmtafrmzqzzz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/p/i/h/xl-hathi-set-rudrakshaimpex-original-imahpmtafrmzqzzz.jpeg?q=100",
+        "local_path": "../../media/images/24ac1713a5654b831e501f3f/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/w/d/a/l-km331nbe-pinfit-original-imahj34czy4cwczq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/w/d/a/l-km331nbe-pinfit-original-imahj34czy4cwczq.jpeg?q=100",
+        "local_path": "../../media/images/24ac1713a5654b831e501f3f/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/s/w/4/l-rx235-surbhi-chiku-cutw-kpd-royal-export-resized-original-imahemazatzdzbqb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/s/w/4/l-rx235-surbhi-chiku-cutw-kpd-royal-export-resized-original-imahemazatzdzbqb.jpeg?q=100",
+        "local_path": "../../media/images/24ac1713a5654b831e501f3f/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/y/t/z/m-rx277-creampurle-kpd-hoc-original-imahk58qtnctksrg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/salwar-kurta-dupatta/y/t/z/m-rx277-creampurle-kpd-hoc-original-imahk58qtnctksrg.jpeg?q=100",
+        "local_path": "../../media/images/24ac1713a5654b831e501f3f/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/p/a/l/xxl-rx328-grey-nryncwrk-kpd-royal-export-original-imahj85fwgajbhcd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/p/a/l/xxl-rx328-grey-nryncwrk-kpd-royal-export-original-imahj85fwgajbhcd.jpeg?q=100",
+        "local_path": "../../media/images/24ac1713a5654b831e501f3f/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/s/2/o/s-pclay-zigzeg-royal-export-original-imah3y9g7f6hqmvb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/s/2/o/s-pclay-zigzeg-royal-export-original-imah3y9g7f6hqmvb.jpeg?q=100",
+        "local_path": "../../media/images/24ac1713a5654b831e501f3f/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "FabricCotton Blend": "PatternPrinted",
+        "Fabric": "Cotton Blend",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  }
+}

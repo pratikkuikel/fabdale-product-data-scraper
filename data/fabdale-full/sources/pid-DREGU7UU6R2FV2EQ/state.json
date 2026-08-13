@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-DREGU7UU6R2FV2EQ",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "274"
+  ],
+  "source_path": "sources/pid-DREGU7UU6R2FV2EQ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T08:27:40.319Z",
+  "completed_at": "2026-08-12T08:27:46.744Z"
+}

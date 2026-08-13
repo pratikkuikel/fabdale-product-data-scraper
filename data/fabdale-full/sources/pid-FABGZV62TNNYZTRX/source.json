@@ -1,0 +1,188 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm081e7bcebf40f?pid=FABGZV62TNNYZTRX&lid=LSTFABGZV62TNNYZTRXZOFITI&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:36:10.126Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm081e7bcebf40f?pid=FABGZV62TNNYZTRX&lid=LSTFABGZV62TNNYZTRXZOFITI&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:36:17.677Z"
+  },
+  "content": {
+    "title": "krishna boutique Pure Cotton Embroidered Salwar Suit Material",
+    "short_description": "Fabric: Pure Cotton\nPattern: Embroidered\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupatta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Beautiful Rajshahi Print\nThis salwar suit material features a stunning botanical print inspired by the Rajshahi region. The i…\n\nUnstitched Versatility\nDesigned as an unstitched top and bottom set, this salwar suit material gives you the freedom to cus…\n\nPremium Pure Cotton Fabric\nCrafted from high-quality pure cotton fabric, this salwar suit material offers exceptional comfort a…\n\nEasy Care and Maintenance\nTo ensure the longevity of this salwar suit material, it is recommended to hand wash it with care. T…",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupatta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Embroidered",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/p/n/s/yes-2-5-m-unstitched-2-2-m-766-krishna-boutique-resized-original-imahfpjnakfyvhyc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/p/n/s/yes-2-5-m-unstitched-2-2-m-766-krishna-boutique-resized-original-imahfpjnakfyvhyc.jpeg?q=100",
+        "local_path": "../../media/images/904168b1f92133e1b60330bc/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/SELLER_CATALOG/CNvZbgJNlPRwWYu9kL5XaGyg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "krishna boutique Pure Cotton Embroidered Salwar Suit Material",
+      "description": "Buy krishna boutique Pure Cotton Embroidered Salwar Suit Material for Rs.1499.0 online. krishna boutique Pure Cotton Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/p/n/s/yes-2-5-m-unstitched-2-2-m-766-krishna-boutique-resized-original-imahfpjnakfyvhyc.jpeg?q=70"
+      ],
+      "sku": "FABGZV62TNNYZTRX",
+      "color": "cream",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 15,
+        "ratingCount": 237,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "krishna boutique",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 567,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Sudhi M",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-03",
+          "reviewBody": "Superb quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Vedam Schools",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-03",
+          "reviewBody": "Very good product.....love it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-24",
+          "reviewBody": "Good quality pure cotton 100  percent",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Beautiful Rajshahi Print",
+          "body": "This salwar suit material features a stunning botanical print inspired by the Rajshahi region. The i…"
+        },
+        {
+          "heading": "Unstitched Versatility",
+          "body": "Designed as an unstitched top and bottom set, this salwar suit material gives you the freedom to cus…"
+        },
+        {
+          "heading": "Premium Pure Cotton Fabric",
+          "body": "Crafted from high-quality pure cotton fabric, this salwar suit material offers exceptional comfort a…"
+        },
+        {
+          "heading": "Easy Care and Maintenance",
+          "body": "To ensure the longevity of this salwar suit material, it is recommended to hand wash it with care. T…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupatta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Embroidered",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "904168b1f92133e1b60330bc",
+      "path": "media/images/904168b1f92133e1b60330bc/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "024e3759f2cc45452e106106",
+      "path": "media/videos/024e3759f2cc45452e106106/media.json",
+      "reused": false
+    }
+  }
+}

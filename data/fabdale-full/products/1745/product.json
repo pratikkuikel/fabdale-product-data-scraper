@@ -1,0 +1,214 @@
+{
+  "product_id": "1745",
+  "sku": "Fab-Salwar-RYEX-029OR-M",
+  "product": {
+    "name": "Rivanta Viscose Rayon Salwar Suit Set",
+    "parent_id": "7174",
+    "notes": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm87b4fea59bebf?pid=ETHHD2T5ZQZTMDHV&lid=LSTETHHD2T5ZQZTMDHVQXELDO&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-ETHHD2T5ZQZTMDHV",
+    "path": "../../sources/pid-ETHHD2T5ZQZTMDHV/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm87b4fea59bebf?pid=ETHHD2T5ZQZTMDHV&lid=LSTETHHD2T5ZQZTMDHVQXELDO&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:16:00.965Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm87b4fea59bebf?pid=ETHHD2T5ZQZTMDHV&lid=LSTETHHD2T5ZQZTMDHVQXELDO&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:16:10.703Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Embroidered\nFabricViscose Rayon: PatternEmbroidered",
+    "description": "In the Box\nItems Included1 Kurta, 1 Pant, 1 Dupatta",
+    "specifications": {
+      "FabricViscose Rayon": "PatternEmbroidered",
+      "Fabric": "Viscose Rayon",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "f6c14fc43d973bab40bf5116",
+      "path": "media/images/f6c14fc43d973bab40bf5116/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/8/c/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6htxwthrnm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/8/c/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6htxwthrnm.jpeg?q=100",
+        "local_path": "../../media/images/f6c14fc43d973bab40bf5116/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/p/y/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6hahgrzzmk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/p/y/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6hahgrzzmk.jpeg?q=100",
+        "local_path": "../../media/images/f6c14fc43d973bab40bf5116/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/c/r/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6hzcf3sfup.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/c/r/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6hzcf3sfup.jpeg?q=100",
+        "local_path": "../../media/images/f6c14fc43d973bab40bf5116/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/u/u/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6hyshavtek.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/u/u/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6hyshavtek.jpeg?q=100",
+        "local_path": "../../media/images/f6c14fc43d973bab40bf5116/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/e/r/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6hxy9tbxfq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/e/r/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6hxy9tbxfq.jpeg?q=100",
+        "local_path": "../../media/images/f6c14fc43d973bab40bf5116/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Dupatta Set",
+      "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 3499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/8/c/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6htxwthrnm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/p/y/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6hahgrzzmk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/c/r/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6hzcf3sfup.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/u/u/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6hyshavtek.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/e/r/xxl-rx343-pnsorg-skd-royal-export-original-imahfr6hxy9tbxfq.jpeg?q=70"
+      ],
+      "sku": "ETHHD2T5ZQZTMDHV",
+      "color": "Orange",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.5,
+        "reviewCount": 116,
+        "ratingCount": 229,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 749,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-23",
+          "reviewBody": "Beautiful set..From colour to material quality to fitting everything is good.. Just a dupatta would have completed it.. Go for it without any doubt.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Sejal",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-11",
+          "reviewBody": "Beautiful kurta set amazing fabric and quality is also great. Thank you flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Flipkart  User",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-28",
+          "reviewBody": "The dress was the best. Quality is very good. Good to wear in the summer season. Fabric is excellent and overall is best.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "In the Box",
+          "body": "Items Included1 Kurta, 1 Pant, 1 Dupatta"
+        }
+      ],
+      "product_highlights": {
+        "FabricViscose Rayon": "PatternEmbroidered",
+        "Fabric": "Viscose Rayon",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {
+        "In the Box": "Items Included1 Kurta, 1 Pant, 1 Dupatta",
+        "Items Included": "1 Kurta, 1 Pant, 1 Dupatta",
+        "Brand": "Royal Export",
+        "Fabric": "Viscose Rayon",
+        "Additional Garments": "Dupatta",
+        "Style Code": "RX343 PNSORG-SKD",
+        "Top fabric": "Viscose",
+        "Bottom fabric": "Viscose",
+        "Top type": "Kurta",
+        "Bottom type": "Pant",
+        "Pattern": "Embroidered",
+        "Color": "Orange",
+        "Occasion": "Festive & Party",
+        "Brand Color": "Orange",
+        "Detail Placement": "Neckline",
+        "Ideal For": "Women",
+        "Kurta Style Type": "Straight",
+        "Ornamentation Type": "Thread Work",
+        "Size": "XXL Regular",
+        "Sleeve Length": "3/4 Sleeve",
+        "Sleeve Style": "Regular Sleeve",
+        "Surface Styling": "Laces",
+        "Trend": "YokeDetail",
+        "Product Details": "Fabric careDry Clean Only",
+        "Fabric care": "Dry Clean Only"
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "key": "e049de52f66c889fa3e6b607",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T12:17:07.529Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-ethnic-set/8/c/v/m-vice-green-1-sho-gosriki-original-imahfuzsfbakm4ga.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-ethnic-set/8/c/v/m-vice-green-1-sho-gosriki-original-imahfuzsfbakm4ga.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-ethnic-set/l/w/l/m-vice-green-1-sho-gosriki-original-imahfuzs23wjmvn6.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-ethnic-set/l/w/l/m-vice-green-1-sho-gosriki-original-imahfuzs23wjmvn6.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-ethnic-set/r/x/i/m-vice-green-1-sho-gosriki-original-imahfuzsjdz4gzue.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-ethnic-set/r/x/i/m-vice-green-1-sho-gosriki-original-imahfuzsjdz4gzue.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/o/l/10xl-vice-peach-1-gosriki-original-imahb3gr8dceyyne.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/o/l/10xl-vice-peach-1-gosriki-original-imahb3gr8dceyyne.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-ethnic-set/v/t/x/s-vice-green-1-sho-gosriki-original-imahfuzszgghgkxt.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-ethnic-set/v/t/x/s-vice-green-1-sho-gosriki-original-imahfuzszgghgkxt.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

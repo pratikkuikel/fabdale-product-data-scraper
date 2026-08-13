@@ -1,0 +1,44 @@
+{
+  "key": "a7c9cbfe7bfc03a303653b83",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:52:26.715Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/5/b/free-full-sleeve-net-lehenga-for-women-gopi-dress-lehenga-resized-original-imahem7u7cyzfzmd.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/5/b/free-full-sleeve-net-lehenga-for-women-gopi-dress-lehenga-resized-original-imahem7u7cyzfzmd.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/7/7/free-full-sleeve-net-lehenga-for-women-gopi-dress-lehenga-original-imahem7uazznjhcs.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/7/7/free-full-sleeve-net-lehenga-for-women-gopi-dress-lehenga-original-imahem7uazznjhcs.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/a/j/free-full-sleeve-net-lehenga-for-women-gopi-dress-lehenga-original-imahem7u8gfzdtw8.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/a/j/free-full-sleeve-net-lehenga-for-women-gopi-dress-lehenga-original-imahem7u8gfzdtw8.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/0/q/s/free-full-sleeve-net-lehenga-for-women-gopi-dress-lehenga-original-imahem7uezyffdt9.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/0/q/s/free-full-sleeve-net-lehenga-for-women-gopi-dress-lehenga-original-imahem7uezyffdt9.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/i/v/m/free-full-sleeve-net-lehenga-for-women-gopi-dress-lehenga-original-imahem7uqrmddkuc.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/i/v/m/free-full-sleeve-net-lehenga-for-women-gopi-dress-lehenga-original-imahem7uqrmddkuc.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "product_id": "538",
+  "sku": "Fab-Drsmtl-KRSN-001BK",
+  "product": {
+    "name": "Kala Sutra Cotton Salwar Suit Material",
+    "parent_id": "5319",
+    "notes": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm26a591b937daf?pid=FABHDBAUHMYB45Q8&lid=LSTFABHDBAUHMYB45Q8NGMJRK&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-FABHDBAUHMYB45Q8",
+    "path": "../../sources/pid-FABHDBAUHMYB45Q8/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm26a591b937daf?pid=FABHDBAUHMYB45Q8&lid=LSTFABHDBAUHMYB45Q8NGMJRK&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:30:57.735Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm26a591b937daf?pid=FABHDBAUHMYB45Q8&lid=LSTFABHDBAUHMYB45Q8NGMJRK&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:31:04.973Z"
+  },
+  "content": {
+    "title": "krishna boutique Pure Cotton Embroidered Salwar Suit Material",
+    "short_description": "Fabric: Pure Cotton\nPattern: Embroidered\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupatta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Buy krishna boutique Pure Cotton Embroidered Salwar Suit Material for Rs.1549.0 online. krishna boutique Pure Cotton Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupatta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Embroidered",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "040e13068c4c53a7bbcced1a",
+      "path": "media/images/040e13068c4c53a7bbcced1a/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/q/x/9/yes-2-5-m-unstitched-2-2-m-un-fl-dt-kjghvt-krishna-boutique-resized-original-imahdbauadgcmzzc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/q/x/9/yes-2-5-m-unstitched-2-2-m-un-fl-dt-kjghvt-krishna-boutique-resized-original-imahdbauadgcmzzc.jpeg?q=100",
+        "local_path": "../../media/images/040e13068c4c53a7bbcced1a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "krishna boutique Pure Cotton Embroidered Salwar Suit Material",
+      "description": "Buy krishna boutique Pure Cotton Embroidered Salwar Suit Material for Rs.1549.0 online. krishna boutique Pure Cotton Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/q/x/9/yes-2-5-m-unstitched-2-2-m-un-fl-dt-kjghvt-krishna-boutique-resized-original-imahdbauadgcmzzc.jpeg?q=70"
+      ],
+      "sku": "FABHDBAUHMYB45Q8",
+      "color": "black",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 422,
+        "ratingCount": 7282,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "krishna boutique",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 437,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Samiksha  Patel ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-21",
+          "reviewBody": "Very nice 👌👌👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Sakshi Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-13",
+          "reviewBody": "Super",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "HIMANI  BHANDARI",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-03",
+          "reviewBody": "Superb,,must buy",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupatta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Embroidered",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {
+        "Brand": "krishna boutique",
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupatta",
+        "Ideal For": "Women",
+        "Occasion": "Casual",
+        "Fabric Care": "Hand wash",
+        "Style Code": "un-fl/dt-kjghvt",
+        "Bottom Length": "2.20m",
+        "Dupatta Length": "2.2 m",
+        "Top Length": "2.5 m",
+        "Color": "Multicolor",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Embroidered",
+        "Stitching Type": "Unstitched",
+        "Brand Color": "black",
+        "Dupatta": "Yes",
+        "Fabric Purity": "Pure",
+        "Ornamentation Type": "NA",
+        "Regional Speciality": "Rajshahi"
+      }
+    }
+  }
+}

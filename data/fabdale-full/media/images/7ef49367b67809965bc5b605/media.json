@@ -1,0 +1,44 @@
+{
+  "key": "7ef49367b67809965bc5b605",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T08:09:28.250Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/c/g/xl-mn-shirt1680-metronaut-original-imahe6zvnug8fdhr.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/m/c/g/xl-mn-shirt1680-metronaut-original-imahe6zvnug8fdhr.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/e/o/n/3xl-mn-shirt1680-blezza-original-imahb5veafmf2ufp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/e/o/n/3xl-mn-shirt1680-blezza-original-imahb5veafmf2ufp.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/p/1/j/3xl-mn-shirt1680-blezza-original-imahb5vemfbshkzh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/p/1/j/3xl-mn-shirt1680-blezza-original-imahb5vemfbshkzh.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/r/p/c/3xl-mn-shirt1680-blezza-original-imahb5veztgzvsdz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/r/p/c/3xl-mn-shirt1680-blezza-original-imahb5veztgzvsdz.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/m/p/a/3xl-mn-shirt1680-blezza-original-imahb5vecggpwbfa.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/m/p/a/3xl-mn-shirt1680-blezza-original-imahb5vecggpwbfa.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

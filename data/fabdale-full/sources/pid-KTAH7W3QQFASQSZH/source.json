@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm568db5531503a?pid=KTAH7W3QQFASQSZH&marketplace=FLIPKART&lid=LSTKTAH7W3QQFASQSZHAYR5VF&swatchAttr=size&pageUID=1772644609469",
+    "scraped_at": "2026-08-12T11:28:22.420Z",
+    "final_url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm568db5531503a?pid=KTAH7W3QQFASQSZH&marketplace=FLIPKART&lid=LSTKTAH7W3QQFASQSZHAYR5VF&swatchAttr=size&pageUID=1772644609469"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:28:30.505Z"
+  },
+  "content": {
+    "title": "PRISCA Women Floral Print Straight Kurta",
+    "short_description": "PRISCA Women Floral Print Straight Kurta - Buy PRISCA Women Floral Print Straight Kurta For Only Rs. 799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PRISCA Women Floral Print Straight Kurta - Buy PRISCA Women Floral Print Straight Kurta For Only Rs. 799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/v/d/6/s-rr-maroon-v-neck-prisca-resized-original-imahgfgnwcqyd2hh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/v/d/6/s-rr-maroon-v-neck-prisca-resized-original-imahgfgnwcqyd2hh.jpeg?q=100",
+        "local_path": "../../media/images/b84791219f85169ed82a56bf/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/z/c/s-rr-maroon-v-neck-prisca-original-imahgfgnuhqazwpg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/z/c/s-rr-maroon-v-neck-prisca-original-imahgfgnuhqazwpg.jpeg?q=100",
+        "local_path": "../../media/images/b84791219f85169ed82a56bf/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/v/h/w/s-rr-maroon-v-neck-prisca-original-imahgfgngv25vadn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/v/h/w/s-rr-maroon-v-neck-prisca-original-imahgfgngv25vadn.jpeg?q=100",
+        "local_path": "../../media/images/b84791219f85169ed82a56bf/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/s/m/s-rr-maroon-v-neck-prisca-original-imahgfgnmjsz3svy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/s/m/s-rr-maroon-v-neck-prisca-original-imahgfgnmjsz3svy.jpeg?q=100",
+        "local_path": "../../media/images/b84791219f85169ed82a56bf/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/l/u/s-rr-maroon-v-neck-prisca-original-imahgfgnhqencgh8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/l/u/s-rr-maroon-v-neck-prisca-original-imahgfgnhqencgh8.jpeg?q=100",
+        "local_path": "../../media/images/b84791219f85169ed82a56bf/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PRISCA Women Floral Print Straight Kurta",
+      "description": "PRISCA Women Floral Print Straight Kurta - Buy PRISCA Women Floral Print Straight Kurta For Only Rs. 799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/v/d/6/s-rr-maroon-v-neck-prisca-resized-original-imahgfgnwcqyd2hh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/z/c/s-rr-maroon-v-neck-prisca-original-imahgfgnuhqazwpg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/v/h/w/s-rr-maroon-v-neck-prisca-original-imahgfgngv25vadn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/s/m/s-rr-maroon-v-neck-prisca-original-imahgfgnmjsz3svy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/l/u/s-rr-maroon-v-neck-prisca-original-imahgfgnhqencgh8.jpeg?q=70"
+      ],
+      "sku": "KTAH7W3QQFASQSZH",
+      "color": "RR MROON",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 626,
+        "ratingCount": 12544,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PRISCA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 246,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-07",
+          "reviewBody": "Nice kurti 🥰😊",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good",
+          "author": {
+            "name": "Punita Shah",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-25",
+          "reviewBody": "Good for day to day use in Hot summer days.",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Nilanjana Sarkar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-22",
+          "reviewBody": "Very comfortable and pretty 😍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b84791219f85169ed82a56bf",
+      "path": "media/images/b84791219f85169ed82a56bf/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

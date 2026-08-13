@@ -1,0 +1,179 @@
+{
+  "product_id": "1617",
+  "sku": "Fab-Salwar-RYEX-020PK-XL",
+  "product": {
+    "name": "Rivanta  Bandhani Mirror Salwar Suit Set",
+    "parent_id": "5261",
+    "notes": "https://www.flipkart.com/royal-export-women-kurta-dhoti-pant-dupatta-set/p/itm3330bdb46a29c?pid=ETHGXN3EVWZETHPF&marketplace=FLIPKART&lid=LSTETHGXN3EVWZETHPF10R0QP&swatchAttr=size&pageUID=1772817363629"
+  },
+  "source_bundle": {
+    "key": "pid-ETHGXN3EVWZETHPF",
+    "path": "../../sources/pid-ETHGXN3EVWZETHPF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-dhoti-pant-dupatta-set/p/itm3330bdb46a29c?pid=ETHGXN3EVWZETHPF&marketplace=FLIPKART&lid=LSTETHGXN3EVWZETHPF10R0QP&swatchAttr=size&pageUID=1772817363629",
+    "scraped_at": "2026-08-12T15:56:15.964Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-dhoti-pant-dupatta-set/p/itm3330bdb46a29c?pid=ETHGXN3EVWZETHPF&marketplace=FLIPKART&lid=LSTETHGXN3EVWZETHPF10R0QP&swatchAttr=size&pageUID=1772817363629"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:56:23.362Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Dhoti Pant Dupatta Set",
+    "short_description": "Royal Export Women Kurta Dhoti Pant Dupatta Set - Buy Royal Export Women Kurta Dhoti Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Royal Export Women Kurta Dhoti Pant Dupatta Set - Buy Royal Export Women Kurta Dhoti Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e639e9eda175a5961a8132ac",
+      "path": "media/images/e639e9eda175a5961a8132ac/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/d/c/m-rx43-ktd-pink-royal-export-original-imagxn3ek8hpavv8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/d/c/m-rx43-ktd-pink-royal-export-original-imagxn3ek8hpavv8.jpeg?q=100",
+        "local_path": "../../media/images/e639e9eda175a5961a8132ac/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/z/j/m-rx43-ktd-pink-royal-export-original-imagxn3ewhcu6cyy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/z/j/m-rx43-ktd-pink-royal-export-original-imagxn3ewhcu6cyy.jpeg?q=100",
+        "local_path": "../../media/images/e639e9eda175a5961a8132ac/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/y/l/m-rx43-ktd-pink-royal-export-original-imagxn3etap8cvmy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/y/l/m-rx43-ktd-pink-royal-export-original-imagxn3etap8cvmy.jpeg?q=100",
+        "local_path": "../../media/images/e639e9eda175a5961a8132ac/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/8/c/m-rx43-ktd-pink-royal-export-original-imagxn3ehfkh3g6g.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/8/c/m-rx43-ktd-pink-royal-export-original-imagxn3ehfkh3g6g.jpeg?q=100",
+        "local_path": "../../media/images/e639e9eda175a5961a8132ac/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Dhoti Pant Dupatta Set",
+      "description": "Royal Export Women Kurta Dhoti Pant Dupatta Set - Buy Royal Export Women Kurta Dhoti Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/d/c/m-rx43-ktd-pink-royal-export-original-imagxn3ek8hpavv8.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/z/j/m-rx43-ktd-pink-royal-export-original-imagxn3ewhcu6cyy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/y/l/m-rx43-ktd-pink-royal-export-original-imagxn3etap8cvmy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/8/c/m-rx43-ktd-pink-royal-export-original-imagxn3ehfkh3g6g.jpeg?q=70"
+      ],
+      "sku": "ETHGXN3EVWZETHPF",
+      "color": "Pink",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 400,
+        "ratingCount": 3659,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 3679,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Himanshu Gupta",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-26",
+          "reviewBody": "Royal kurta pant is very quality fabric. Color and design is also good. Quality of fabric is also remain same after wash. Size is also perfect.\nVery good quality suit in this price.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Shruti  Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-27",
+          "reviewBody": "Very  beautiful suit i love this colour very comfortable 🥰",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Pratham Jain",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-23",
+          "reviewBody": "Fabric quality was super\nAnd colour of the suit is looking pretty and design was awesome. Fully comfortable suit set❣️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

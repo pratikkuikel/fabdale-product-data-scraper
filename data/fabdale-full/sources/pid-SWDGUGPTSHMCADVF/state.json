@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SWDGUGPTSHMCADVF",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1484"
+  ],
+  "source_path": "sources/pid-SWDGUGPTSHMCADVF/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T15:39:57.195Z",
+  "completed_at": "2026-08-12T15:40:20.698Z"
+}

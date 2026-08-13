@@ -1,0 +1,16 @@
+{
+  "key": "4745298f40853a002b0ca6ac",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:32:11.681Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/c/d/yes-2-5-m-unstitched-2-36-m-980-krishna-boutique-resized-original-imah8wwbchjsgjqb.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/c/d/yes-2-5-m-unstitched-2-36-m-980-krishna-boutique-resized-original-imah8wwbchjsgjqb.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

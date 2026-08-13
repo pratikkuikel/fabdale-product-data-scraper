@@ -1,0 +1,159 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm8b2de7c334509?pid=FABGW4GEKSBAUQFK&lid=LSTFABGW4GEKSBAUQFKZCCVEY&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:36:18.727Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm8b2de7c334509?pid=FABGW4GEKSBAUQFK&lid=LSTFABGW4GEKSBAUQFKZCCVEY&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:36:24.089Z"
+  },
+  "content": {
+    "title": "krishna boutique Unstitched Pure Cotton Salwar Suit Material Printed",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupatta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": null,
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupatta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/2/w/t/yes-2-5-m-unstitched-2-2-m-streep-ylo90-krishna-boutique-original-imaha52kf9nbq4fn.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/2/w/t/yes-2-5-m-unstitched-2-2-m-streep-ylo90-krishna-boutique-original-imaha52kf9nbq4fn.jpeg?q=100",
+        "local_path": "../../media/images/f7918448289aa4b4dbd962ae/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d1dc6a25ed0c48de8809ffc6030638d1.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d1dc6a25ed0c48de8809ffc6030638d1.jpg?q=80",
+        "local_path": "../../media/images/f7918448289aa4b4dbd962ae/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_05628db19fbf4f8a986e2b455370b42c.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_05628db19fbf4f8a986e2b455370b42c.jpg?q=80",
+        "local_path": "../../media/images/f7918448289aa4b4dbd962ae/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/o/l/p/yes-2-35-m-unstitched-2-m-2-5-m-45876-reet-mahal-original-imahzykaykh3jxdf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/o/l/p/yes-2-35-m-unstitched-2-m-2-5-m-45876-reet-mahal-original-imahzykaykh3jxdf.jpeg?q=100",
+        "local_path": "../../media/images/f7918448289aa4b4dbd962ae/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/p/k/d/yes-2-35-m-unstitched-2-36-m-new-6047-03-yankita-original-imahmgnxzx9v7p8w.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/p/k/d/yes-2-35-m-unstitched-2-36-m-new-6047-03-yankita-original-imahmgnxzx9v7p8w.jpeg?q=100",
+        "local_path": "../../media/images/f7918448289aa4b4dbd962ae/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/h/o/j/yes-2-5-m-unstitched-2-m-2-5-m-vch20206-soul-essence-original-imahzc9qqpbayk87.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/h/o/j/yes-2-5-m-unstitched-2-m-2-5-m-vch20206-soul-essence-original-imahzc9qqpbayk87.jpeg?q=100",
+        "local_path": "../../media/images/f7918448289aa4b4dbd962ae/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/w/6/r/yes-2-2-m-semi-stitched-2-36-m-new-pure-gc-80-by-gauri-original-imahzy86nhuznqyz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/w/6/r/yes-2-2-m-semi-stitched-2-36-m-new-pure-gc-80-by-gauri-original-imahzy86nhuznqyz.jpeg?q=100",
+        "local_path": "../../media/images/f7918448289aa4b4dbd962ae/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/u/q/x/no-3-m-unstitched-na-pink-flower-3-meter-iqra-faishon-original-imahprmcmsq8da2n.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/u/q/x/no-3-m-unstitched-na-pink-flower-3-meter-iqra-faishon-original-imahprmcmsq8da2n.jpeg?q=100",
+        "local_path": "../../media/images/f7918448289aa4b4dbd962ae/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/c/i/n/yes-2-5-m-unstitched-2-m-2-5-m-vch20205-soul-essence-original-imahzc9nfjs2qzaa.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/c/i/n/yes-2-5-m-unstitched-2-m-2-5-m-vch20205-soul-essence-original-imahzc9nfjs2qzaa.jpeg?q=100",
+        "local_path": "../../media/images/f7918448289aa4b4dbd962ae/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/h/q/g/yes-2-m-unstitched-2-m-2-5-m-thira-111-1396-peach-thira-resized-original-imah4gugme8yztxq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/h/q/g/yes-2-m-unstitched-2-m-2-5-m-thira-111-1396-peach-thira-resized-original-imah4gugme8yztxq.jpeg?q=100",
+        "local_path": "../../media/images/f7918448289aa4b4dbd962ae/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/p/c/m/yes-2-25-m-unstitched-2-5-m-barfi-blue-56-stylebhawani-original-imahj28swsh2zh9h.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/p/c/m/yes-2-25-m-unstitched-2-5-m-barfi-blue-56-stylebhawani-original-imahj28swsh2zh9h.jpeg?q=100",
+        "local_path": "../../media/images/f7918448289aa4b4dbd962ae/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupatta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {
+        "Brand": "krishna boutique",
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupatta",
+        "Ideal For": "Women",
+        "Occasion": "Casual",
+        "Fabric Care": "Hand wash",
+        "Style Code": "streep ylo90",
+        "Bottom Length": "2.20m",
+        "Dupatta Length": "2.2 m",
+        "Top Length": "2.5 m",
+        "Color": "Multicolor",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched",
+        "Print Type": "Self Design",
+        "Brand Color": "yellow",
+        "Dupatta": "Yes",
+        "Fabric Purity": "Pure",
+        "Ornamentation Type": "NA",
+        "Regional Speciality": "Rajshahi",
+        "Secondary Color": "Yellow",
+        "Trend": "Printed Neckline"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "f7918448289aa4b4dbd962ae",
+      "path": "media/images/f7918448289aa4b4dbd962ae/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

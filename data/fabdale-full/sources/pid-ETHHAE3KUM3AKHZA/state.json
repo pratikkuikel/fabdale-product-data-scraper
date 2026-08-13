@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-ETHHAE3KUM3AKHZA",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "833",
+    "5142"
+  ],
+  "source_path": "sources/pid-ETHHAE3KUM3AKHZA/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:01:41.296Z",
+  "completed_at": "2026-08-12T11:01:48.190Z"
+}

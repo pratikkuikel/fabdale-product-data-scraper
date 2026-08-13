@@ -1,0 +1,164 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/purvaja-women-a-line-pink-midi-calf-length-dress/p/itm394242d3979e0?pid=DREGCMCFSZEXKRF7&marketplace=FLIPKART&lid=LSTDREGCMCFSZEXKRF7ESZASN&swatchAttr=size",
+    "scraped_at": "2026-08-12T08:48:36.280Z",
+    "final_url": "https://www.flipkart.com/purvaja-women-a-line-pink-midi-calf-length-dress/p/itm394242d3979e0?pid=DREGCMCFSZEXKRF7&marketplace=FLIPKART&lid=LSTDREGCMCFSZEXKRF7ESZASN&swatchAttr=size"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:48:40.870Z"
+  },
+  "content": {
+    "title": "PURVAJA Women A-line Pink Midi/Calf Length Dress",
+    "short_description": "PURVAJA Women A-line Pink Midi/Calf Length Dress - Buy PURVAJA Women A-line Pink Midi/Calf Length Dress For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PURVAJA Women A-line Pink Midi/Calf Length Dress - Buy PURVAJA Women A-line Pink Midi/Calf Length Dress For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/7/p/k/xl-western-dress-512-purvaja-original-imagcmcf4mwss6wb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/7/p/k/xl-western-dress-512-purvaja-original-imagcmcf4mwss6wb.jpeg?q=100",
+        "local_path": "../../media/images/6085a3080bf052528fc99932/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/k/e/x/xl-western-dress-512-purvaja-original-imagcmcfzdt5htza.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/k/e/x/xl-western-dress-512-purvaja-original-imagcmcfzdt5htza.jpeg?q=100",
+        "local_path": "../../media/images/6085a3080bf052528fc99932/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/n/s/x/xl-western-dress-512-purvaja-original-imagcmcfksusjevx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/n/s/x/xl-western-dress-512-purvaja-original-imagcmcfksusjevx.jpeg?q=100",
+        "local_path": "../../media/images/6085a3080bf052528fc99932/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/g/c/w/xl-western-dress-512-purvaja-original-imagcmcfgpckfjfz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/g/c/w/xl-western-dress-512-purvaja-original-imagcmcfgpckfjfz.jpeg?q=100",
+        "local_path": "../../media/images/6085a3080bf052528fc99932/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/4/o/k/xl-western-dress-512-purvaja-original-imagcmcfuvgb4yub.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/4/o/k/xl-western-dress-512-purvaja-original-imagcmcfuvgb4yub.jpeg?q=100",
+        "local_path": "../../media/images/6085a3080bf052528fc99932/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURVAJA Women A-line Pink Midi/Calf Length Dress",
+      "description": "PURVAJA Women A-line Pink Midi/Calf Length Dress - Buy PURVAJA Women A-line Pink Midi/Calf Length Dress For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/7/p/k/xl-western-dress-512-purvaja-original-imagcmcf4mwss6wb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/k/e/x/xl-western-dress-512-purvaja-original-imagcmcfzdt5htza.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/n/s/x/xl-western-dress-512-purvaja-original-imagcmcfksusjevx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/g/c/w/xl-western-dress-512-purvaja-original-imagcmcfgpckfjfz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l0y6qa80/dress/4/o/k/xl-western-dress-512-purvaja-original-imagcmcfuvgb4yub.jpeg?q=70"
+      ],
+      "sku": "DREGCMCFSZEXKRF7",
+      "color": "Peach & Black",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 33,
+        "ratingCount": 612,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURVAJA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 220,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Lakshmi raj Lakshmi",
+            "@type": "Person"
+          },
+          "datePublished": "2022-04-13",
+          "reviewBody": "Best product awesome cloth and very beautiful pattern",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Renil  Michael",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-29",
+          "reviewBody": "Little bit longer length",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-05-27",
+          "reviewBody": "Verry nice dress",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "6085a3080bf052528fc99932",
+      "path": "media/images/6085a3080bf052528fc99932/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

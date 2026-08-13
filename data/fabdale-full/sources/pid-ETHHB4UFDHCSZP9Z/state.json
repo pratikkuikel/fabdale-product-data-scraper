@@ -1,0 +1,21 @@
+{
+  "source_key": "pid-ETHHB4UFDHCSZP9Z",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "1288",
+    "5223",
+    "7152",
+    "7153",
+    "7154",
+    "7155",
+    "7156"
+  ],
+  "source_path": "sources/pid-ETHHB4UFDHCSZP9Z/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T12:22:59.128Z",
+  "completed_at": "2026-08-12T12:23:50.430Z"
+}

@@ -1,0 +1,153 @@
+{
+  "product_id": "872",
+  "sku": "Fab-Salwar-PLDI-020BL-XL",
+  "product": {
+    "name": "Pilessa Rayon Kurta Salwar Suit Set",
+    "parent_id": "5149",
+    "notes": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itmd67f999b039b5?pid=ETHH9FNJTB4DM5N7&marketplace=FLIPKART&lid=LSTETHH9FNJTB4DM5N7QRY5P6&swatchAttr=size&pageUID=1772640137516"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH9FNJTB4DM5N7",
+    "path": "../../sources/pid-ETHH9FNJTB4DM5N7/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itmd67f999b039b5?pid=ETHH9FNJTB4DM5N7&marketplace=FLIPKART&lid=LSTETHH9FNJTB4DM5N7QRY5P6&swatchAttr=size&pageUID=1772640137516",
+    "scraped_at": "2026-08-12T11:06:02.835Z",
+    "final_url": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itmd67f999b039b5?pid=ETHH9FNJTB4DM5N7&marketplace=FLIPKART&lid=LSTETHH9FNJTB4DM5N7QRY5P6&swatchAttr=size&pageUID=1772640137516"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:06:11.132Z"
+  },
+  "content": {
+    "title": "PILUDI Women Viscose Rayon Kurti Pant Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Embroidered\nFabricViscose Rayon: PatternEmbroidered",
+    "description": null,
+    "specifications": {
+      "FabricViscose Rayon": "PatternEmbroidered",
+      "Fabric": "Viscose Rayon",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "41b903d605e3fe50a8ec3e2f",
+      "path": "media/images/41b903d605e3fe50a8ec3e2f/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/0/p/6/m-sw-yuvika-morpich-piludi-resized-original-imahe8ygqaghegyn.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/0/p/6/m-sw-yuvika-morpich-piludi-resized-original-imahe8ygqaghegyn.jpeg?q=100",
+        "local_path": "../../media/images/41b903d605e3fe50a8ec3e2f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/u/8/l/m-sw-yuvika-morpich-piludi-original-imahe8ygjgencq4h.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/u/8/l/m-sw-yuvika-morpich-piludi-original-imahe8ygjgencq4h.jpeg?q=100",
+        "local_path": "../../media/images/41b903d605e3fe50a8ec3e2f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/n/l/p/m-sw-yuvika-morpich-piludi-original-imahe8ygn9uv8nzb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/n/l/p/m-sw-yuvika-morpich-piludi-original-imahe8ygn9uv8nzb.jpeg?q=100",
+        "local_path": "../../media/images/41b903d605e3fe50a8ec3e2f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/w/n/9/m-sw-yuvika-morpich-piludi-original-imahe8ygcazyn38j.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/w/n/9/m-sw-yuvika-morpich-piludi-original-imahe8ygcazyn38j.jpeg?q=100",
+        "local_path": "../../media/images/41b903d605e3fe50a8ec3e2f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/k/c/k/m-sw-yuvika-morpich-piludi-original-imahe8ygengfgpcz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/k/c/k/m-sw-yuvika-morpich-piludi-original-imahe8ygengfgpcz.jpeg?q=100",
+        "local_path": "../../media/images/41b903d605e3fe50a8ec3e2f/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/c/h/l-hkt-rkpd-hktrend-resized-original-imagh3f8yretzwkb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/c/h/l-hkt-rkpd-hktrend-resized-original-imagh3f8yretzwkb.jpeg?q=100",
+        "local_path": "../../media/images/41b903d605e3fe50a8ec3e2f/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/l/f/y/l-lspf01-leaan-resized-original-imahg2k7uvzs4wz9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/l/f/y/l-lspf01-leaan-resized-original-imahg2k7uvzs4wz9.jpeg?q=100",
+        "local_path": "../../media/images/41b903d605e3fe50a8ec3e2f/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/y/n/xl-001-naazish-trends-original-imahprttbnzb2fzy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/y/n/xl-001-naazish-trends-original-imahprttbnzb2fzy.jpeg?q=100",
+        "local_path": "../../media/images/41b903d605e3fe50a8ec3e2f/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/o/1/h/xl-gb-aa-01-g-bluxe-resized-original-imagktypbgjv5dvn.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/o/1/h/xl-gb-aa-01-g-bluxe-resized-original-imagktypbgjv5dvn.jpeg?q=100",
+        "local_path": "../../media/images/41b903d605e3fe50a8ec3e2f/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-ethnic-set/s/k/z/s-co-ords-somapah-original-imahfvhrh7ahf9gg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-ethnic-set/s/k/z/s-co-ords-somapah-original-imahfvhrh7ahf9gg.jpeg?q=100",
+        "local_path": "../../media/images/41b903d605e3fe50a8ec3e2f/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/z/6/d/4xl-d3066nbmcos-demirner-original-imahyk3y2b3zgvwy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/z/6/d/4xl-d3066nbmcos-demirner-original-imahyk3y2b3zgvwy.jpeg?q=100",
+        "local_path": "../../media/images/41b903d605e3fe50a8ec3e2f/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/q/u/w/l-anarkali-kurti-black-bs-creation-resized-original-imagmk6vtz8h9z8g.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/q/u/w/l-anarkali-kurti-black-bs-creation-resized-original-imagmk6vtz8h9z8g.jpeg?q=100",
+        "local_path": "../../media/images/41b903d605e3fe50a8ec3e2f/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/5/n/x/s-sw-noor-black-s-piludi-original-imahm4482h6gqvyf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/5/n/x/s-sw-noor-black-s-piludi-original-imahm4482h6gqvyf.jpeg?q=100",
+        "local_path": "../../media/images/41b903d605e3fe50a8ec3e2f/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "FabricViscose Rayon": "PatternEmbroidered",
+        "Fabric": "Viscose Rayon",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  }
+}

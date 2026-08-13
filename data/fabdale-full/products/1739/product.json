@@ -1,0 +1,194 @@
+{
+  "product_id": "1739",
+  "sku": "Fab-Salwar-RYEX-029PL-S",
+  "product": {
+    "name": "Rivanta Viscose Rayon Salwar Suit Set",
+    "parent_id": "7174",
+    "notes": "https://www.flipkart.com/womens-ethnic-sets/royal-export~brand/pr?sid=clo,cfv,itg,tys&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "url-c49b338bae13e71a81c8433f",
+    "path": "../../sources/url-c49b338bae13e71a81c8433f/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/womens-ethnic-sets/royal-export~brand/pr?sid=clo,cfv,itg,tys&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T07:14:51.923Z",
+    "final_url": "https://www.flipkart.com/womens-ethnic-sets/royal-export~brand/pr?sid=clo,cfv,itg,tys&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-13T07:15:02.600Z"
+  },
+  "content": {
+    "title": "Royal Export Women's Ethnic Sets",
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "96a56ba49a43161e6bd0541c",
+      "path": "media/images/96a56ba49a43161e6bd0541c/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/a/1/q/s-rx0235-surbhichikuctnwork-royal-export-original-imahkxsah7j3hyhh.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/a/1/q/s-rx0235-surbhichikuctnwork-royal-export-original-imahkxsah7j3hyhh.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/e/g/h/-resized-original-imahff9uszs5dwj9.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/e/g/h/-resized-original-imahff9uszs5dwj9.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/m/r/k/s-rx99-nryncheryskd-royal-export-original-imahb9ykpyyrs2qs.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/m/r/k/s-rx99-nryncheryskd-royal-export-original-imahb9ykpyyrs2qs.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/x/z/f/xxl-rx183-magic-rama-royal-export-original-imah4jfruh2gqtqs.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/x/z/f/xxl-rx183-magic-rama-royal-export-original-imah4jfruh2gqtqs.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/n/b/y/s-rx349-ayk-mhndcdng-kpd-royal-export-original-imahhhgrpygkyffj.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/n/b/y/s-rx349-ayk-mhndcdng-kpd-royal-export-original-imahhhgrpygkyffj.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/o/0/3/-resized-original-imahew757vnezbjy.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/o/0/3/-resized-original-imahew757vnezbjy.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/u/n/i/-resized-original-imahebyxrmw3hpdg.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/u/n/i/-resized-original-imahebyxrmw3hpdg.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/f/w/4/s-rx153-surbhiyelo-skd-royal-export-original-imah57eymfzurzzb.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/f/w/4/s-rx153-surbhiyelo-skd-royal-export-original-imah57eymfzurzzb.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/1/0/u/s-rx101-surbhizmlblkwhite-royal-export-original-imah579g5yqzedav.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/1/0/u/s-rx101-surbhizmlblkwhite-royal-export-original-imah579g5yqzedav.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/b/t/m/s-rx62-white-dadam-royal-export-original-imah3pyhb8yt9azg.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/b/t/m/s-rx62-white-dadam-royal-export-original-imah3pyhb8yt9azg.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/q/0/8/xl-rx327-lavender-cutwrk-royal-export-original-imahjaypz6xdy544.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/q/0/8/xl-rx327-lavender-cutwrk-royal-export-original-imahjaypz6xdy544.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/v/f/u/-original-imahpyxxyrrrewch.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/v/f/u/-original-imahpyxxyrrrewch.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/x/o/h/m-rx93-borar-royal-export-original-imahg78fdectzy5v.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/x/o/h/m-rx93-borar-royal-export-original-imahg78fdectzy5v.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/p/y/k/xl-rx328-chiku-nryncwrk-new-royal-export-original-imahj7nnhhtbbcfh.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/p/y/k/xl-rx328-chiku-nryncwrk-new-royal-export-original-imahj7nnhhtbbcfh.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/salwar-kurta-dupatta/r/l/x/xl-rx323-coffee-skd-hoc-original-imahk58jggrmtnmc.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/salwar-kurta-dupatta/r/l/x/xl-rx323-coffee-skd-hoc-original-imahk58jggrmtnmc.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/j/e/f/m-rx351-ayk-bluethrdwrk-kpd-royal-export-original-imahn9dtutj5ejaa.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/j/e/f/m-rx351-ayk-bluethrdwrk-kpd-royal-export-original-imahn9dtutj5ejaa.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/q/m/g/xxl-div-rx60-black-kpd-divastri-original-imaha8htehuq8zuz.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/q/m/g/xxl-div-rx60-black-kpd-divastri-original-imaha8htehuq8zuz.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-017.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/v/z/g/-resized-original-imahey96qhzbsgpq.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/v/z/g/-resized-original-imahey96qhzbsgpq.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-018.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/t/j/g/xxl-rx327-rosepink-cutwrk-kpd-royal-export-original-imahjqygay4kzavc.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/t/j/g/xxl-rx327-rosepink-cutwrk-kpd-royal-export-original-imahjqygay4kzavc.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-019.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/1/7/8/xl-rx265-gpwhitebotnic-kpd-royal-export-original-imahcd2yjtggbsm4.jpeg?q=70",
+        "download_url": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/1/7/8/xl-rx265-gpwhitebotnic-kpd-royal-export-original-imahcd2yjtggbsm4.jpeg?q=100",
+        "local_path": "../../media/images/96a56ba49a43161e6bd0541c/assets/images/image-020.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

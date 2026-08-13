@@ -1,0 +1,188 @@
+{
+  "product_id": "560",
+  "sku": "Fab-Drsmtl-KRSN-012G",
+  "product": {
+    "name": "Kala Sutra Chanderi Embroidered  Salwar Suit Material",
+    "parent_id": "5328",
+    "notes": "https://www.flipkart.com/krishna-boutique-chanderi-embroidered-salwar-suit-material/p/itm6e8d1e826e91c?pid=FABGTWJBYNRWCUMR&lid=LSTFABGTWJBYNRWCUMRSLX0WE&marketplace=FLIPKART&sattr[]=color&sattr[]=top_length&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-FABGTWJBYNRWCUMR",
+    "path": "../../sources/pid-FABGTWJBYNRWCUMR/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-chanderi-embroidered-salwar-suit-material/p/itm6e8d1e826e91c?pid=FABGTWJBYNRWCUMR&lid=LSTFABGTWJBYNRWCUMRSLX0WE&marketplace=FLIPKART&sattr[]=color&sattr[]=top_length&st=color",
+    "scraped_at": "2026-08-12T10:33:35.784Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-chanderi-embroidered-salwar-suit-material/p/itm6e8d1e826e91c?pid=FABGTWJBYNRWCUMR&lid=LSTFABGTWJBYNRWCUMRSLX0WE&marketplace=FLIPKART&sattr[]=color&sattr[]=top_length&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:33:43.800Z"
+  },
+  "content": {
+    "title": "krishna boutique Chanderi Embroidered Salwar Suit Material",
+    "short_description": "Fabric: Chanderi\nPattern: Embroidered\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupattta\nBottom Length: 2.20m\nTop Length: 2.2 m\nStitching Type: Unstitched",
+    "description": "Exquisite Rajshahi Embroidery\nAdd a touch of elegance to your festive wardrobe with this salwar suit material featuring exquisite …\n\nUnstitched and Versatile\nDesigned as an unstitched top and bottom set, this salwar suit material gives you the freedom to cre…\n\nLuxurious Chanderi Fabric\nCrafted from pure Chanderi fabric, this salwar suit material offers a luxurious and rich feel. The f…\n\nEasy to Care for\nTo maintain the quality and beauty of this fabric, it is recommended to hand wash it. This gentle ca…",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupattta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.2 m",
+      "Fabric": "Chanderi",
+      "Pattern": "Embroidered",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c761ba48414ab43893044d9d",
+      "path": "media/images/c761ba48414ab43893044d9d/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/e/s/6/yes-2-2-m-unstitched-2-2-m-green-jal-krishna-boutique-original-imagtwja5uvmjbyr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/e/s/6/yes-2-2-m-unstitched-2-2-m-green-jal-krishna-boutique-original-imagtwja5uvmjbyr.jpeg?q=100",
+        "local_path": "../../media/images/c761ba48414ab43893044d9d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "krishna boutique Chanderi Embroidered Salwar Suit Material",
+      "description": "Buy krishna boutique Chanderi Embroidered Salwar Suit Material for Rs.2500.0 online. krishna boutique Chanderi Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/e/s/6/yes-2-2-m-unstitched-2-2-m-green-jal-krishna-boutique-original-imagtwja5uvmjbyr.jpeg?q=70"
+      ],
+      "sku": "FABGTWJBYNRWCUMR",
+      "color": "green",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 5,
+        "ratingCount": 106,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "krishna boutique",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 759,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Poushali  Das",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-02",
+          "reviewBody": "Realy loved it.its cotton dress material. Thank u seller .love  u so much  flipkart. Delivery boy also too good  behavior.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-01-18",
+          "reviewBody": "It's a pure cotton i'am satisfied thanq flipcart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Bad quality",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-22",
+          "reviewBody": "Poor quality",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Exquisite Rajshahi Embroidery",
+          "body": "Add a touch of elegance to your festive wardrobe with this salwar suit material featuring exquisite …"
+        },
+        {
+          "heading": "Unstitched and Versatile",
+          "body": "Designed as an unstitched top and bottom set, this salwar suit material gives you the freedom to cre…"
+        },
+        {
+          "heading": "Luxurious Chanderi Fabric",
+          "body": "Crafted from pure Chanderi fabric, this salwar suit material offers a luxurious and rich feel. The f…"
+        },
+        {
+          "heading": "Easy to Care for",
+          "body": "To maintain the quality and beauty of this fabric, it is recommended to hand wash it. This gentle ca…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupattta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.2 m",
+        "Fabric": "Chanderi",
+        "Pattern": "Embroidered",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  }
+}

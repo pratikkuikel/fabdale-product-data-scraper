@@ -1,0 +1,199 @@
+{
+  "product_id": "5309",
+  "sku": null,
+  "product": {
+    "name": "Purvika Flared Lehenga Choli",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/purvaja-digital-print-semi-stitched-lehenga-choli/p/itmb39e38fa600f4?pid=LCHH4JU5DM6YZYWB&lid=LSTLCHH4JU5DM6YZYWBP9M4ZX&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-LCHH4JU5DM6YZYWB",
+    "path": "../../sources/pid-LCHH4JU5DM6YZYWB/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purvaja-digital-print-semi-stitched-lehenga-choli/p/itmb39e38fa600f4?pid=LCHH4JU5DM6YZYWB&lid=LSTLCHH4JU5DM6YZYWBP9M4ZX&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T07:45:17.247Z",
+    "final_url": "https://www.flipkart.com/purvaja-digital-print-semi-stitched-lehenga-choli/p/itmb39e38fa600f4?pid=LCHH4JU5DM6YZYWB&lid=LSTLCHH4JU5DM6YZYWBP9M4ZX&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 2,
+    "completed_at": "2026-08-13T07:45:30.054Z"
+  },
+  "content": {
+    "title": "PURVAJA Digital Print Semi Stitched Lehenga Choli",
+    "short_description": "Color: Pink\nPattern: Digital Print\nType: Lehenga Choli\nLehenga Fabric: Polyester\nCholi Fabric: Sequined Fabric\nDupatta Fabric: Polyester\nStitching Type: Semi Stitched\nSales Package: 1 Lehengha, 1 Blouse, 1 Dupatta",
+    "description": "Dimensions\nBlouse Length1 mDupatta Length2 m - 2.5 m\n\nLehenga Choli Details\nLehenga FabricPolyesterCholi FabricSequined FabricTypeLehenga CholiDupatta FabricPolyesterNeckV-NeckSleeveSleevelessEmbroideredYesLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternDigital PrintSales Package1 Lehengha, 1 Blouse, 1 DupattaBlouse PatternEmbellishedBlouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkSequinsBust Size44 inchColorPinkBrand ColorPinkDupatta PatternSolidDupatta WorkShimmerLehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSizeFree",
+    "specifications": {
+      "Lehenga Fabric": "Polyester",
+      "Choli Fabric": "Sequined Fabric",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Polyester",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Digital Print",
+      "Sales Package": "1 Lehengha, 1 Blouse, 1 Dupatta",
+      "Color": "Pink"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "5390fd9aba993c71e3396712",
+      "path": "media/images/5390fd9aba993c71e3396712/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/g/l/free-sleeveless-eira-purvaja-original-imah4ju5fud5cxfh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/g/l/free-sleeveless-eira-purvaja-original-imah4ju5fud5cxfh.jpeg?q=100",
+        "local_path": "../../media/images/5390fd9aba993c71e3396712/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/z/m/t/free-sleeveless-eira-purvaja-original-imah4ju5jdynbyfr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/z/m/t/free-sleeveless-eira-purvaja-original-imah4ju5jdynbyfr.jpeg?q=100",
+        "local_path": "../../media/images/5390fd9aba993c71e3396712/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/t/n/free-sleeveless-eira-purvaja-original-imah4ju5mhfgshhj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/t/n/free-sleeveless-eira-purvaja-original-imah4ju5mhfgshhj.jpeg?q=100",
+        "local_path": "../../media/images/5390fd9aba993c71e3396712/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/k/6/free-sleeveless-eira-purvaja-original-imah4ju5fhpc6mth.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/k/6/free-sleeveless-eira-purvaja-original-imah4ju5fhpc6mth.jpeg?q=100",
+        "local_path": "../../media/images/5390fd9aba993c71e3396712/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/l/a/free-sleeveless-eira-purvaja-original-imah4ju5utfzac3u.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/l/a/free-sleeveless-eira-purvaja-original-imah4ju5utfzac3u.jpeg?q=100",
+        "local_path": "../../media/images/5390fd9aba993c71e3396712/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURVAJA Digital Print Semi Stitched Lehenga Choli",
+      "description": "PURVAJA Digital Print Semi Stitched Lehenga Choli - Buy PURVAJA Digital Print Semi Stitched Lehenga Choli For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/g/l/free-sleeveless-eira-purvaja-original-imah4ju5fud5cxfh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/z/m/t/free-sleeveless-eira-purvaja-original-imah4ju5jdynbyfr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/t/n/free-sleeveless-eira-purvaja-original-imah4ju5mhfgshhj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/k/6/free-sleeveless-eira-purvaja-original-imah4ju5fhpc6mth.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/l/a/free-sleeveless-eira-purvaja-original-imah4ju5utfzac3u.jpeg?q=70"
+      ],
+      "sku": "LCHH4JU5DM6YZYWB",
+      "color": "Pink",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 2,
+        "ratingCount": 16,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURVAJA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 956,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-01-30",
+          "reviewBody": "Best quality cloth hai thankyou flipkart 😊😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Did not meet expectations",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-28",
+          "reviewBody": "Very poor",
+          "reviewRating": {
+            "ratingValue": 1,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Dimensions",
+          "body": "Blouse Length1 mDupatta Length2 m - 2.5 m"
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricPolyesterCholi FabricSequined FabricTypeLehenga CholiDupatta FabricPolyesterNeckV-NeckSleeveSleevelessEmbroideredYesLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternDigital PrintSales Package1 Lehengha, 1 Blouse, 1 DupattaBlouse PatternEmbellishedBlouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkSequinsBust Size44 inchColorPinkBrand ColorPinkDupatta PatternSolidDupatta WorkShimmerLehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSizeFree"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Polyester",
+        "Choli Fabric": "Sequined Fabric",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Polyester",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Digital Print",
+        "Sales Package": "1 Lehengha, 1 Blouse, 1 Dupatta",
+        "Color": "Pink"
+      },
+      "specifications": {}
+    }
+  }
+}

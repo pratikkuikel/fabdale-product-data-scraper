@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-ETHH32WP7C98N2ER",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "1200"
+  ],
+  "source_path": "sources/pid-ETHH32WP7C98N2ER/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:56:38.013Z",
+  "completed_at": "2026-08-12T11:56:54.321Z"
+}

@@ -1,0 +1,202 @@
+{
+  "product_id": "487",
+  "sku": "Fab-Saree-SMH-010MR",
+  "product": {
+    "name": "Sharini Dyed & Embellished Net Lace Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/samah-dyed-embellished-self-design-bollywood-net-lace-saree/p/itm3697f15f8dbb9?pid=SARH9ZQBTDEPKD46&lid=LSTSARH9ZQBTDEPKD468NWJEN&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SARH9ZQBTDEPKD46",
+    "path": "../../sources/pid-SARH9ZQBTDEPKD46/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/samah-dyed-embellished-self-design-bollywood-net-lace-saree/p/itm3697f15f8dbb9?pid=SARH9ZQBTDEPKD46&lid=LSTSARH9ZQBTDEPKD468NWJEN&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:18:56.176Z",
+    "final_url": "https://www.flipkart.com/samah-dyed-embellished-self-design-bollywood-net-lace-saree/p/itm3697f15f8dbb9?pid=SARH9ZQBTDEPKD46&lid=LSTSARH9ZQBTDEPKD468NWJEN&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:19:13.811Z"
+  },
+  "content": {
+    "title": "Samah Dyed, Embellished, Self Design Bollywood Net, Lace Saree (Maroon)",
+    "short_description": "Fabric: Net, Lace\nPattern: Dyed, Embellished, Self Design\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Construction Type\nShimmer Net Pearl Work & Lace Maroon Color Saree With Blouse\n\nOther Details\nThis saree from the house of Samah is made from Shimmer Net and is Maroon in color. Samah Ethnic Sarees comes With Blouse Piece,Which can be Stitched according to Your Taste and Preference.This Saree is Crafted by Skill Craftsmen without Compromising on its Quality.With This Beautiful Design and Fabric, This Saree will fetch You Oodles of Compliments and Praise. saree fit size is 5.30Mtr saree & 0.80Mtr blouse, Free Size .\n\nDimensions\nSari Length5.3mBlouse Piece Length0.8 mWeight0.367 kg",
+    "specifications": {
+      "Pattern": "Dyed, Embellished, Self Design",
+      "Fabric": "Net, Lace",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1970878aa39e3736408a6a4d",
+      "path": "media/images/1970878aa39e3736408a6a4d/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "814a12649b8a3cc022ffd10f",
+      "path": "media/videos/814a12649b8a3cc022ffd10f/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/y/e/y/free-4216s395-samah-unstitched-original-imahae2qwuuwxfzn.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/y/e/y/free-4216s395-samah-unstitched-original-imahae2qwuuwxfzn.jpeg?q=100",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/z/q/k/free-4216s395-samah-unstitched-original-imah9zqygzybhxde.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/z/q/k/free-4216s395-samah-unstitched-original-imah9zqygzybhxde.jpeg?q=100",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/n/r/j/free-4216s395-samah-unstitched-original-imah9zqyhnrhz52v.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/sari/n/r/j/free-4216s395-samah-unstitched-original-imah9zqyhnrhz52v.jpeg?q=100",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_65d4869e7ac64c90b1d1ca3a6777c4d4.png?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_65d4869e7ac64c90b1d1ca3a6777c4d4.png?q=80",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-004.png",
+        "downloaded": true,
+        "content_type": "image/png"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_744ca987de0c46e69e8e6ab13332ec3a.png?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_744ca987de0c46e69e8e6ab13332ec3a.png?q=80",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-005.png",
+        "downloaded": true,
+        "content_type": "image/png"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_jhpakcj2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_jhpakcj2.jpeg?q=80",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_e02c99c82e734936baf354e606528398.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_e02c99c82e734936baf354e606528398.jpg?q=80",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_5d608aad7f9c4a7691b5707eec0ce69e.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_5d608aad7f9c4a7691b5707eec0ce69e.jpg?q=80",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/i/k/c/free-5186s3682-samah-unstitched-original-imahmqm5jh9qumta.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/i/k/c/free-5186s3682-samah-unstitched-original-imahmqm5jh9qumta.jpeg?q=100",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/q/e/h/free-ideal-if-you-are-looking-for-sarees-for-women-lichi-soft-original-imah8d2ht8sgpjhw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/q/e/h/free-ideal-if-you-are-looking-for-sarees-for-women-lichi-soft-original-imah8d2ht8sgpjhw.jpeg?q=100",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/w/6/t/free-embrodary-net-prishafeb-unstitched-original-imahpqd2bskbhr5f.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/w/6/t/free-embrodary-net-prishafeb-unstitched-original-imahpqd2bskbhr5f.jpeg?q=100",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/s/w/r/free-5048s1422-samah-unstitched-original-imahjzkjzh9gpg9q.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/s/w/r/free-5048s1422-samah-unstitched-original-imahjzkjzh9gpg9q.jpeg?q=100",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/o/u/g/free-5168s131-samah-unstitched-original-imahkmugfukkehzc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/o/u/g/free-5168s131-samah-unstitched-original-imahkmugfukkehzc.jpeg?q=100",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/z/p/x/free-5254s654-samah-unstitched-original-imahmbtyymsaesev.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/z/p/x/free-5254s654-samah-unstitched-original-imahmbtyymsaesev.jpeg?q=100",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/u/c/z/free-5500s1053-samah-unstitched-original-imahnzxrunzh5rhw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/u/c/z/free-5500s1053-samah-unstitched-original-imahnzxrunzh5rhw.jpeg?q=100",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/k/u/v/free-5652s1081-samah-unstitched-original-imahzxghxzzxhckh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sari/k/u/v/free-5652s1081-samah-unstitched-original-imahzxghxzzxhckh.jpeg?q=100",
+        "local_path": "../../media/images/1970878aa39e3736408a6a4d/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN2mJ_GLpHTZeooq6YLRoKzQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Construction Type",
+          "body": "Shimmer Net Pearl Work & Lace Maroon Color Saree With Blouse"
+        },
+        {
+          "heading": "Other Details",
+          "body": "This saree from the house of Samah is made from Shimmer Net and is Maroon in color. Samah Ethnic Sarees comes With Blouse Piece,Which can be Stitched according to Your Taste and Preference.This Saree is Crafted by Skill Craftsmen without Compromising on its Quality.With This Beautiful Design and Fabric, This Saree will fetch You Oodles of Compliments and Praise. saree fit size is 5.30Mtr saree & 0.80Mtr blouse, Free Size ."
+        },
+        {
+          "heading": "Dimensions",
+          "body": "Sari Length5.3mBlouse Piece Length0.8 mWeight0.367 kg"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Dyed, Embellished, Self Design",
+        "Fabric": "Net, Lace",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

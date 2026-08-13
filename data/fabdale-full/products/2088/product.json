@@ -1,0 +1,187 @@
+{
+  "product_id": "2088",
+  "sku": "Fab-Shirt-METR-011PA-XXL",
+  "product": {
+    "name": "Metronex Cotton Blend WesternShirt",
+    "parent_id": "5268",
+    "notes": "https://www.flipkart.com/metronaut-men-solid-casual-green-shirt/p/itm43c788e0bb9b0?pid=SHTHFV939HHRHM8N&marketplace=FLIPKART&lid=LSTSHTHFV939HHRHM8NWII2TG&swatchAttr=size&pageUID=1773313141178"
+  },
+  "source_bundle": {
+    "key": "pid-SHTHFV939HHRHM8N",
+    "path": "../../sources/pid-SHTHFV939HHRHM8N/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-green-shirt/p/itm43c788e0bb9b0?pid=SHTHFV939HHRHM8N&marketplace=FLIPKART&lid=LSTSHTHFV939HHRHM8NWII2TG&swatchAttr=size&pageUID=1773313141178",
+    "scraped_at": "2026-08-13T08:08:43.045Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-green-shirt/p/itm43c788e0bb9b0?pid=SHTHFV939HHRHM8N&marketplace=FLIPKART&lid=LSTSHTHFV939HHRHM8NWII2TG&swatchAttr=size&pageUID=1773313141178"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T08:09:00.738Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Solid Casual Green Shirt",
+    "short_description": "METRONAUT Men Solid Casual Green Shirt - Buy METRONAUT Men Solid Casual Green Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "METRONAUT Men Solid Casual Green Shirt - Buy METRONAUT Men Solid Casual Green Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a645df1f891dfe3f6d26d805",
+      "path": "media/images/a645df1f891dfe3f6d26d805/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/1/v/xl-mn-shirt1682-metronaut-resized-original-imahe6zvc7rgzhwq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/1/v/xl-mn-shirt1682-metronaut-resized-original-imahe6zvc7rgzhwq.jpeg?q=100",
+        "local_path": "../../media/images/a645df1f891dfe3f6d26d805/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/a/v/h/m-rr-shirt1682-blezza-original-imahb5v22eahhcpt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/a/v/h/m-rr-shirt1682-blezza-original-imahb5v22eahhcpt.jpeg?q=100",
+        "local_path": "../../media/images/a645df1f891dfe3f6d26d805/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/h/n/q/m-mn-shirt1682-blezza-original-imahb5vewz4xbyfp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/h/n/q/m-mn-shirt1682-blezza-original-imahb5vewz4xbyfp.jpeg?q=100",
+        "local_path": "../../media/images/a645df1f891dfe3f6d26d805/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/j/f/a/m-rr-shirt1682-blezza-original-imahb5v2jhaaycmp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/j/f/a/m-rr-shirt1682-blezza-original-imahb5v2jhaaycmp.jpeg?q=100",
+        "local_path": "../../media/images/a645df1f891dfe3f6d26d805/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/g/i/p/l-dpblza-shirt1682-blezza-original-imahb5v2ff6zxqfg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/g/i/p/l-dpblza-shirt1682-blezza-original-imahb5v2ff6zxqfg.jpeg?q=100",
+        "local_path": "../../media/images/a645df1f891dfe3f6d26d805/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual Green Shirt",
+      "description": "METRONAUT Men Solid Casual Green Shirt - Buy METRONAUT Men Solid Casual Green Shirt For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/1/v/xl-mn-shirt1682-metronaut-resized-original-imahe6zvc7rgzhwq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/a/v/h/m-rr-shirt1682-blezza-original-imahb5v22eahhcpt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/h/n/q/m-mn-shirt1682-blezza-original-imahb5vewz4xbyfp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/j/f/a/m-rr-shirt1682-blezza-original-imahb5v2jhaaycmp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-shirt/g/i/p/l-dpblza-shirt1682-blezza-original-imahb5v2ff6zxqfg.jpeg?q=70"
+      ],
+      "sku": "SHTHFV939HHRHM8N",
+      "color": "Parrot Green",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 431,
+        "ratingCount": 9916,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 327,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-29",
+          "reviewBody": "Just buy it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Vijay Asawale",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-28",
+          "reviewBody": "It's a very nice shirt. I like it very much.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Slightly disappointed",
+          "author": {
+            "name": "Vinod  Mudhiraj ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-22",
+          "reviewBody": "Cloth is not good and in Flipkart I seen good quality after delivery I seen different quality 🫤",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

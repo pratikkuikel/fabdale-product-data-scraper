@@ -1,0 +1,233 @@
+{
+  "product_id": "313",
+  "sku": "Fab-Dress-ZWRL-010BL-M",
+  "product": {
+    "name": "Zeflora Colour Block Ruffle Midi Dress",
+    "parent_id": "5100",
+    "notes": "https://www.flipkart.com/zwerlon-women-a-line-dark-blue-midi-calf-length-dress/p/itm3b433722ee29a?pid=DREH2QMR7JNYHTBV&marketplace=FLIPKART&lid=LSTDREH2QMR7JNYHTBVIBGHGC&q=zwerlon+dress&fm=search-autosuggest&swatchAttr=size&pageUID=1772361690368"
+  },
+  "source_bundle": {
+    "key": "pid-DREH2QMR7JNYHTBV",
+    "path": "../../sources/pid-DREH2QMR7JNYHTBV/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zwerlon-women-a-line-dark-blue-midi-calf-length-dress/p/itm3b433722ee29a?pid=DREH2QMR7JNYHTBV&marketplace=FLIPKART&lid=LSTDREH2QMR7JNYHTBVIBGHGC&q=zwerlon+dress&fm=search-autosuggest&swatchAttr=size&pageUID=1772361690368",
+    "scraped_at": "2026-08-12T08:32:24.620Z",
+    "final_url": "https://www.flipkart.com/zwerlon-women-a-line-dark-blue-midi-calf-length-dress/p/itm3b433722ee29a?pid=DREH2QMR7JNYHTBV&marketplace=FLIPKART&lid=LSTDREH2QMR7JNYHTBVIBGHGC&q=zwerlon+dress&fm=search-autosuggest&swatchAttr=size&pageUID=1772361690368"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:32:31.399Z"
+  },
+  "content": {
+    "title": "ZWERLON Women A-line Dark Blue Midi/Calf Length Dress",
+    "short_description": "Color: Dark Blue\nPattern: Colorblock\nType: A-line\nSleeve: Half Sleeve\nLength: Midi/Calf Length\nSleeve Length: Half Sleeve",
+    "description": "A-Line Midi Dress\nThis dress is a perfect choice for your casual outings. The A-line silhouette of this midi dress fla…\n\nSquare Neckline\nThe square neckline of this dress adds a trendy and chic element to your attire. It beautifully fram…\n\nAll-Over Printed Design\nThe all-over printed design of this dress makes it visually appealing and eye-catching. The geometri…\n\nEasy Care Fabric\nMade from high-quality crepe fabric, this dress is easy to maintain. It can be machine washed, savin…\n\nVersatile and Stylish\nThis dress is a versatile piece that can be styled for various occasions. Whether it's a brunch with…",
+    "specifications": {
+      "Color": "Dark Blue",
+      "Length": "Midi/Calf Length",
+      "Pattern": "Colorblock",
+      "Type": "A-line",
+      "Sleeve Length": "Half Sleeve",
+      "Sleeve": "Half Sleeve"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "f8554ce459757c6b6a262a40",
+      "path": "media/images/f8554ce459757c6b6a262a40/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "8b6dd8a85c9b452834a81798",
+      "path": "media/videos/8b6dd8a85c9b452834a81798/media.json",
+      "reused": true
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-dress/c/s/r/xl-1001-brush-shopsy-otabu-original-imahduahqccpkgfh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-dress/c/s/r/xl-1001-brush-shopsy-otabu-original-imahduahqccpkgfh.jpeg?q=100",
+        "local_path": "../../media/images/f8554ce459757c6b6a262a40/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/q/i/l-1001-brush-dress-zwerlon-original-imahg4ht2hdfbh4x.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/q/i/l-1001-brush-dress-zwerlon-original-imahg4ht2hdfbh4x.jpeg?q=100",
+        "local_path": "../../media/images/f8554ce459757c6b6a262a40/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/n/6/o/l-1001-brush-dress-zwerlon-original-imahg4htqkghgdn2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/n/6/o/l-1001-brush-dress-zwerlon-original-imahg4htqkghgdn2.jpeg?q=100",
+        "local_path": "../../media/images/f8554ce459757c6b6a262a40/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/v/g/l-1001-brush-dress-zwerlon-original-imahg4htkrzpxaz4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/v/g/l-1001-brush-dress-zwerlon-original-imahg4htkrzpxaz4.jpeg?q=100",
+        "local_path": "../../media/images/f8554ce459757c6b6a262a40/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/h/e/t/l-1001-brush-dress-zwerlon-original-imahg4hth6sa3wfa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/h/e/t/l-1001-brush-dress-zwerlon-original-imahg4hth6sa3wfa.jpeg?q=100",
+        "local_path": "../../media/images/f8554ce459757c6b6a262a40/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/labs/AS/CNRrIBV_NESwuumetycabD8Q/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "ZWERLON Women A-line Dark Blue Midi/Calf Length Dress",
+      "description": "ZWERLON Women A-line Dark Blue Midi/Calf Length Dress - Buy ZWERLON Women A-line Dark Blue Midi/Calf Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-dress/c/s/r/xl-1001-brush-shopsy-otabu-original-imahduahqccpkgfh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/q/i/l-1001-brush-dress-zwerlon-original-imahg4ht2hdfbh4x.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/n/6/o/l-1001-brush-dress-zwerlon-original-imahg4htqkghgdn2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/v/g/l-1001-brush-dress-zwerlon-original-imahg4htkrzpxaz4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/h/e/t/l-1001-brush-dress-zwerlon-original-imahg4hth6sa3wfa.jpeg?q=70"
+      ],
+      "sku": "DREH2QMR7JNYHTBV",
+      "color": "Navy Blue",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 127,
+        "ratingCount": 2561,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "ZWERLON",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 323,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Priya  Kar",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-05",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-04",
+          "reviewBody": "Wow 😍 love this dress ❤",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Chayan Sarkar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-22",
+          "reviewBody": "My height = 5'3/160cm\nMy size for this dress = XS \nThe dress 👗 so beautiful but too long\nI,m 5'3/160cm but this dress up yo my ankles\nthe dress is very useful for 5'5\nmy opinion no-one under 5'3 pls don't buy this",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "A-Line Midi Dress",
+          "body": "This dress is a perfect choice for your casual outings. The A-line silhouette of this midi dress fla…"
+        },
+        {
+          "heading": "Square Neckline",
+          "body": "The square neckline of this dress adds a trendy and chic element to your attire. It beautifully fram…"
+        },
+        {
+          "heading": "All-Over Printed Design",
+          "body": "The all-over printed design of this dress makes it visually appealing and eye-catching. The geometri…"
+        },
+        {
+          "heading": "Easy Care Fabric",
+          "body": "Made from high-quality crepe fabric, this dress is easy to maintain. It can be machine washed, savin…"
+        },
+        {
+          "heading": "Versatile and Stylish",
+          "body": "This dress is a versatile piece that can be styled for various occasions. Whether it's a brunch with…"
+        }
+      ],
+      "product_highlights": {
+        "Color": "Dark Blue",
+        "Length": "Midi/Calf Length",
+        "Pattern": "Colorblock",
+        "Type": "A-line",
+        "Sleeve Length": "Half Sleeve",
+        "Sleeve": "Half Sleeve"
+      },
+      "specifications": {}
+    }
+  }
+}

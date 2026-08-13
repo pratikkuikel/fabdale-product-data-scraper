@@ -1,0 +1,187 @@
+{
+  "product_id": "1873",
+  "sku": "Fab-Lehenga-PRVJ-007G",
+  "product": {
+    "name": "Purvika White Motifs Lehenga Choli",
+    "parent_id": "5311",
+    "notes": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itmabc385504c9dd?pid=LCHH4JU4YEUGTVPK&lid=LSTLCHH4JU4YEUGTVPKYMCJD8&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-LCHH4JU4YEUGTVPK",
+    "path": "../../sources/pid-LCHH4JU4YEUGTVPK/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itmabc385504c9dd?pid=LCHH4JU4YEUGTVPK&lid=LSTLCHH4JU4YEUGTVPKYMCJD8&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T07:45:52.961Z",
+    "final_url": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itmabc385504c9dd?pid=LCHH4JU4YEUGTVPK&lid=LSTLCHH4JU4YEUGTVPKYMCJD8&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:46:01.116Z"
+  },
+  "content": {
+    "title": "PURVAJA Self Design Semi Stitched Lehenga Choli",
+    "short_description": "PURVAJA Self Design Semi Stitched Lehenga Choli - Buy PURVAJA Self Design Semi Stitched Lehenga Choli For Only Rs. 9999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PURVAJA Self Design Semi Stitched Lehenga Choli - Buy PURVAJA Self Design Semi Stitched Lehenga Choli For Only Rs. 9999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4d9a5a248cf4972074e4c13a",
+      "path": "media/images/4d9a5a248cf4972074e4c13a/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/i/d/m/free-short-sleeve-fiza-purvaja-original-imah4ju4jqsuc7vn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/i/d/m/free-short-sleeve-fiza-purvaja-original-imah4ju4jqsuc7vn.jpeg?q=100",
+        "local_path": "../../media/images/4d9a5a248cf4972074e4c13a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/b/h/v/free-short-sleeve-fiza-purvaja-original-imah4ju4rjuwjwvc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/b/h/v/free-short-sleeve-fiza-purvaja-original-imah4ju4rjuwjwvc.jpeg?q=100",
+        "local_path": "../../media/images/4d9a5a248cf4972074e4c13a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/o/l/free-short-sleeve-fiza-purvaja-original-imah4ju4ghvvatzz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/o/l/free-short-sleeve-fiza-purvaja-original-imah4ju4ghvvatzz.jpeg?q=100",
+        "local_path": "../../media/images/4d9a5a248cf4972074e4c13a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/g/n/free-short-sleeve-fiza-purvaja-original-imah4ju4pgjbdzhz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/g/n/free-short-sleeve-fiza-purvaja-original-imah4ju4pgjbdzhz.jpeg?q=100",
+        "local_path": "../../media/images/4d9a5a248cf4972074e4c13a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/y/z/free-short-sleeve-fiza-purvaja-original-imah4ju47yxfbpea.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/y/z/free-short-sleeve-fiza-purvaja-original-imah4ju47yxfbpea.jpeg?q=100",
+        "local_path": "../../media/images/4d9a5a248cf4972074e4c13a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURVAJA Self Design Semi Stitched Lehenga Choli",
+      "description": "PURVAJA Self Design Semi Stitched Lehenga Choli - Buy PURVAJA Self Design Semi Stitched Lehenga Choli For Only Rs. 9999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/i/d/m/free-short-sleeve-fiza-purvaja-original-imah4ju4jqsuc7vn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/b/h/v/free-short-sleeve-fiza-purvaja-original-imah4ju4rjuwjwvc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/o/l/free-short-sleeve-fiza-purvaja-original-imah4ju4ghvvatzz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/g/n/free-short-sleeve-fiza-purvaja-original-imah4ju4pgjbdzhz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/y/z/free-short-sleeve-fiza-purvaja-original-imah4ju47yxfbpea.jpeg?q=70"
+      ],
+      "sku": "LCHH4JU4YEUGTVPK",
+      "color": "Dark Green",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 3,
+        "ratingCount": 25,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURVAJA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 1261,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Anwesha  Nayak",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-17",
+          "reviewBody": "I ordered the blue one but got green , a bit disappointed by the length as well it's too long",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Poonam Mathur",
+            "@type": "Person"
+          },
+          "datePublished": "2026-03-01",
+          "reviewBody": "Superb quality product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": " Tanu  Gupta",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-01",
+          "reviewBody": "Nice fabric",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

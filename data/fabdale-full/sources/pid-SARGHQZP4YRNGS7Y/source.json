@@ -1,0 +1,226 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/yashika-floral-print-daily-wear-georgette-saree/p/itm78cffddc052f8?pid=SARGHQZP4YRNGS7Y&lid=LSTSARGHQZP4YRNGS7YCBYKVP&marketplace=FLIPKART&store=clo%2F8on%2Fzpd%2F9og&srno=b_1_23&otracker=browse&fm=organic&iid=04b0016b-d073-401f-a491-e4e5245da5fd.SARGHQZP4YRNGS7Y.SEARCH&ppt=browse&ppn=browse&ssid=9wj8bqf3bk0000001756706867996",
+    "scraped_at": "2026-08-12T10:22:43.773Z",
+    "final_url": "https://www.flipkart.com/yashika-floral-print-daily-wear-georgette-saree/p/itm78cffddc052f8?pid=SARGHQZP4YRNGS7Y&lid=LSTSARGHQZP4YRNGS7YCBYKVP&marketplace=FLIPKART&store=clo%2F8on%2Fzpd%2F9og&srno=b_1_23&otracker=browse&fm=organic&iid=04b0016b-d073-401f-a491-e4e5245da5fd.SARGHQZP4YRNGS7Y.SEARCH&ppt=browse&ppn=browse&ssid=9wj8bqf3bk0000001756706867996"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:22:50.840Z"
+  },
+  "content": {
+    "title": "YASHIKA Floral Print Daily Wear Georgette Saree",
+    "short_description": "Fabric: Georgette\nPattern: Floral Print\nType: Daily Wear\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Elegant Georgette Fabric\nCrafted with high-quality georgette fabric, this saree offers a luxurious and elegant feel. The ligh…\n\nStunning Floral Print\nFeaturing a mesmerizing floral print, this saree showcases a blend of vibrant colors and intricate d…\n\nVersatile Unstitched Blouse Piece\nIncluded with this saree is an unstitched blouse piece, giving you the freedom to customize your blo…\n\nIdeal for Party & Festive Occasions\nDesigned for party and festive occasions, this saree adds a touch of glamour and elegance to your en…\n\nEasy Fabric Care\nTaking care of this saree is a breeze with its easy fabric care instructions. Simply hand wash or ma…",
+    "specifications": {
+      "Pattern": "Floral Print",
+      "Fabric": "Georgette",
+      "Type": "Daily Wear",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/9/m/free-half-ink-gb-yashika-unstitched-resized-original-imah2kxvc6ykfnfh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/9/m/free-half-ink-gb-yashika-unstitched-resized-original-imah2kxvc6ykfnfh.jpeg?q=100",
+        "local_path": "../../media/images/2e138122c1aed7fb101bcc9a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/y/w/free-half-ink-gb-yashika-unstitched-original-imah2kxvgyhka7ye.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/y/w/free-half-ink-gb-yashika-unstitched-original-imah2kxvgyhka7ye.jpeg?q=100",
+        "local_path": "../../media/images/2e138122c1aed7fb101bcc9a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/6/m/k/free-half-ink-gb-yashika-unstitched-original-imah2kxvy6bfser6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/6/m/k/free-half-ink-gb-yashika-unstitched-original-imah2kxvy6bfser6.jpeg?q=100",
+        "local_path": "../../media/images/2e138122c1aed7fb101bcc9a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/l/2/free-half-ink-gb-yashika-unstitched-original-imah2kxvpt3rwbzn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/l/2/free-half-ink-gb-yashika-unstitched-original-imah2kxvpt3rwbzn.jpeg?q=100",
+        "local_path": "../../media/images/2e138122c1aed7fb101bcc9a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/0/t/free-half-ink-gb-yashika-unstitched-original-imah2kxvzuxutbef.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/0/t/free-half-ink-gb-yashika-unstitched-original-imah2kxvzuxutbef.jpeg?q=100",
+        "local_path": "../../media/images/2e138122c1aed7fb101bcc9a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNJwJtFC8ATNO516gqD25rDw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNolROnmSeTcGEA1vZpIrQUA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "YASHIKA Floral Print Daily Wear Georgette Saree",
+      "description": "YASHIKA Floral Print Daily Wear Georgette Saree - Buy YASHIKA Floral Print Daily Wear Georgette Saree For Only Rs. 1799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/9/m/free-half-ink-gb-yashika-unstitched-resized-original-imah2kxvc6ykfnfh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/y/w/free-half-ink-gb-yashika-unstitched-original-imah2kxvgyhka7ye.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/6/m/k/free-half-ink-gb-yashika-unstitched-original-imah2kxvy6bfser6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/l/2/free-half-ink-gb-yashika-unstitched-original-imah2kxvpt3rwbzn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/0/t/free-half-ink-gb-yashika-unstitched-original-imah2kxvzuxutbef.jpeg?q=70"
+      ],
+      "sku": "SARGHQZP4YRNGS7Y",
+      "color": "Navy Blue 10",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 70,
+        "ratingCount": 2472,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "YASHIKA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 265,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "K.l.sambasiva K.l.sambasiva",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-26",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Akkhim Shiva",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-21",
+          "reviewBody": "Nice super",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Saraswathi  M",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-29",
+          "reviewBody": "Very good liked it must try it all women's 🤍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant Georgette Fabric",
+          "body": "Crafted with high-quality georgette fabric, this saree offers a luxurious and elegant feel. The ligh…"
+        },
+        {
+          "heading": "Stunning Floral Print",
+          "body": "Featuring a mesmerizing floral print, this saree showcases a blend of vibrant colors and intricate d…"
+        },
+        {
+          "heading": "Versatile Unstitched Blouse Piece",
+          "body": "Included with this saree is an unstitched blouse piece, giving you the freedom to customize your blo…"
+        },
+        {
+          "heading": "Ideal for Party & Festive Occasions",
+          "body": "Designed for party and festive occasions, this saree adds a touch of glamour and elegance to your en…"
+        },
+        {
+          "heading": "Easy Fabric Care",
+          "body": "Taking care of this saree is a breeze with its easy fabric care instructions. Simply hand wash or ma…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Floral Print",
+        "Fabric": "Georgette",
+        "Type": "Daily Wear",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "2e138122c1aed7fb101bcc9a",
+      "path": "media/images/2e138122c1aed7fb101bcc9a/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "679fab508c57a68346274848",
+      "path": "media/videos/679fab508c57a68346274848/media.json",
+      "reused": false
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "key": "92f7a3593a5f604c1d90d877",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:59:26.696Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/u/r/xl-new-sr232-metronaut-original-imahbzzryz7grgdp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/u/r/xl-new-sr232-metronaut-original-imahbzzryz7grgdp.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/q/y/xl-new-sr232-metronaut-original-imahbzzrge46jhjr.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/q/y/xl-new-sr232-metronaut-original-imahbzzrge46jhjr.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/5/g/xl-new-sr232-metronaut-original-imahbzzrgq8tygh6.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/5/g/xl-new-sr232-metronaut-original-imahbzzrgq8tygh6.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/b/e/xl-new-sr232-metronaut-original-imahbzzrytg68aqp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/b/e/xl-new-sr232-metronaut-original-imahbzzrytg68aqp.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/8/2/w/xl-new-sr232-metronaut-original-imahbzzrhd2h6fad.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/8/2/w/xl-new-sr232-metronaut-original-imahbzzrhd2h6fad.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

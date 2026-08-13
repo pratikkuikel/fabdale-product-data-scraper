@@ -1,0 +1,72 @@
+{
+  "product_id": "422",
+  "sku": "Fab-Dress-JTUR-001BL-S",
+  "product": {
+    "name": "Joriana Rayon Long Jumpsuit",
+    "parent_id": "5163",
+    "notes": "https://www.flipkart.com/j-turritopsis-printed-women-jumpsuit/p/itm76a6896443956?pid=JUMG57W8GBSXRJTC&marketplace=FLIPKART&lid=LSTJUMG57W8GBSXRJTCN6CCLG&swatchAttr=size&pageUID=1773209906038"
+  },
+  "source_bundle": {
+    "key": "pid-JUMG57W8GBSXRJTC",
+    "path": "../../sources/pid-JUMG57W8GBSXRJTC/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/j-turritopsis-printed-women-jumpsuit/p/itm76a6896443956?pid=JUMG57W8GBSXRJTC&marketplace=FLIPKART&lid=LSTJUMG57W8GBSXRJTCN6CCLG&swatchAttr=size&pageUID=1773209906038",
+    "scraped_at": "2026-08-12T08:46:07.573Z",
+    "final_url": "https://www.flipkart.com/j-turritopsis-printed-women-jumpsuit/p/itm76a6896443956?pid=JUMG57W8GBSXRJTC&marketplace=FLIPKART&lid=LSTJUMG57W8GBSXRJTCN6CCLG&swatchAttr=size&pageUID=1773209906038"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:46:11.034Z"
+  },
+  "content": {
+    "title": "J TURRITOPSIS Printed Women Jumpsuit",
+    "short_description": "Color: Multicolor\nFabric: Rayon\nPattern: Printed\nType: Regular Jumpsuit\nSleeve: Half Sleeve\nLength Type: Long",
+    "description": "Fabric Care\nHand Wash or Machine Wash with Cold Water, Wash Dark Colors Separately, Do Not Bleach, Warm Iron Only.\n\nOther Details\nUnique Rayon jumpsuit with different style",
+    "specifications": {
+      "Color": "Multicolor",
+      "Fabric": "Rayon",
+      "Pattern": "Printed",
+      "Length Type": "Long",
+      "Sleeve": "Half Sleeve",
+      "Type": "Regular Jumpsuit"
+    }
+  },
+  "media_bundle": {
+    "images": null,
+    "videos": null
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Fabric Care",
+          "body": "Hand Wash or Machine Wash with Cold Water, Wash Dark Colors Separately, Do Not Bleach, Warm Iron Only."
+        },
+        {
+          "heading": "Other Details",
+          "body": "Unique Rayon jumpsuit with different style"
+        }
+      ],
+      "product_highlights": {
+        "Color": "Multicolor",
+        "Fabric": "Rayon",
+        "Pattern": "Printed",
+        "Length Type": "Long",
+        "Sleeve": "Half Sleeve",
+        "Type": "Regular Jumpsuit"
+      },
+      "specifications": {}
+    }
+  }
+}

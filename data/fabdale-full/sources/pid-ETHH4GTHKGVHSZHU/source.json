@@ -1,0 +1,212 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm1c12928511a72?pid=ETHH4GTHKGVHSZHU&marketplace=FLIPKART&lid=LSTETHH4GTHKGVHSZHUJ9XYFE&swatchAttr=size&pageUID=1772807964842",
+    "scraped_at": "2026-08-12T15:35:32.954Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm1c12928511a72?pid=ETHH4GTHKGVHSZHU&marketplace=FLIPKART&lid=LSTETHH4GTHKGVHSZHUJ9XYFE&swatchAttr=size&pageUID=1772807964842"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:35:52.610Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Chanderi\nPattern: Embroidered\nFabricChanderi: PatternEmbroidered",
+    "description": "Embroidered Elegance\nAdorned with intricate embroidery, this silk blend kurta and pant set in light green exudes elegance…\n\nLuxurious Silk Blend\nCrafted from luxurious chanderi fabric, this calf-length pant is perfect for women who appreciate co…\n\nMandarin Collar Detail\nFeaturing a mandarin collar neckline, this kurta adds a modern twist to your ethnic wear collection.…\n\nHand Wash Care\nMaintain the beauty of this traditional collection by opting for a gentle hand wash routine. This en…",
+    "specifications": {
+      "FabricChanderi": "PatternEmbroidered",
+      "Fabric": "Chanderi",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/m/p/3xl-div-rx161-surbhilight-grn-skd-divastri-original-imah5fy7bfdnyfvd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/m/p/3xl-div-rx161-surbhilight-grn-skd-divastri-original-imah5fy7bfdnyfvd.jpeg?q=100",
+        "local_path": "../../media/images/c54daf2fb7e6caa336061efd/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/o/4/1/s-rx161-surbhilight-grn-skd-royal-exxport-original-imah5mv3nk8qfhsd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/o/4/1/s-rx161-surbhilight-grn-skd-royal-exxport-original-imah5mv3nk8qfhsd.jpeg?q=100",
+        "local_path": "../../media/images/c54daf2fb7e6caa336061efd/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/j/h/3xl-div-rx161-surbhilight-grn-skd-divastri-original-imah5fy7cragbu8x.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/j/h/3xl-div-rx161-surbhilight-grn-skd-divastri-original-imah5fy7cragbu8x.jpeg?q=100",
+        "local_path": "../../media/images/c54daf2fb7e6caa336061efd/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/m/l/y/s-rx161-surbhilight-grn-skd-royal-exxport-original-imah5mv3z3vkkgst.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/m/l/y/s-rx161-surbhilight-grn-skd-royal-exxport-original-imah5mv3z3vkkgst.jpeg?q=100",
+        "local_path": "../../media/images/c54daf2fb7e6caa336061efd/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/v/n/3xl-div-rx161-surbhilight-grn-skd-divastri-original-imah5fy7nuyynepc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/v/n/3xl-div-rx161-surbhilight-grn-skd-divastri-original-imah5fy7nuyynepc.jpeg?q=100",
+        "local_path": "../../media/images/c54daf2fb7e6caa336061efd/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNZXprdvojR_apvTQcfHEtsw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Dupatta Set",
+      "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 6999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/m/p/3xl-div-rx161-surbhilight-grn-skd-divastri-original-imah5fy7bfdnyfvd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/o/4/1/s-rx161-surbhilight-grn-skd-royal-exxport-original-imah5mv3nk8qfhsd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/j/h/3xl-div-rx161-surbhilight-grn-skd-divastri-original-imah5fy7cragbu8x.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/m/l/y/s-rx161-surbhilight-grn-skd-royal-exxport-original-imah5mv3z3vkkgst.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/v/n/3xl-div-rx161-surbhilight-grn-skd-divastri-original-imah5fy7nuyynepc.jpeg?q=70"
+      ],
+      "sku": "ETHH4GTHKGVHSZHU",
+      "color": "Light Green",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 160,
+        "ratingCount": 1711,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 870,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-30",
+          "reviewBody": "Fabric is a great 👌👌💯💕",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-01",
+          "reviewBody": "Perfect fitting❤ nice colour😍🥰😘",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-30",
+          "reviewBody": "So good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Embroidered Elegance",
+          "body": "Adorned with intricate embroidery, this silk blend kurta and pant set in light green exudes elegance…"
+        },
+        {
+          "heading": "Luxurious Silk Blend",
+          "body": "Crafted from luxurious chanderi fabric, this calf-length pant is perfect for women who appreciate co…"
+        },
+        {
+          "heading": "Mandarin Collar Detail",
+          "body": "Featuring a mandarin collar neckline, this kurta adds a modern twist to your ethnic wear collection.…"
+        },
+        {
+          "heading": "Hand Wash Care",
+          "body": "Maintain the beauty of this traditional collection by opting for a gentle hand wash routine. This en…"
+        }
+      ],
+      "product_highlights": {
+        "FabricChanderi": "PatternEmbroidered",
+        "Fabric": "Chanderi",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c54daf2fb7e6caa336061efd",
+      "path": "media/images/c54daf2fb7e6caa336061efd/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "7d0b30b24c7eaa049091bf93",
+      "path": "media/videos/7d0b30b24c7eaa049091bf93/media.json",
+      "reused": false
+    }
+  }
+}

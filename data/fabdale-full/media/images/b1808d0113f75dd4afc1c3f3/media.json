@@ -1,0 +1,37 @@
+{
+  "key": "b1808d0113f75dd4afc1c3f3",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:51:05.288Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/r/i/free-3-4-sleeve-big-ikkat-trivety-original-imahed5zvsrnuzj6.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/r/i/free-3-4-sleeve-big-ikkat-trivety-original-imahed5zvsrnuzj6.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/2/7/free-3-4-sleeve-big-ikkat-trivety-original-imahed5z8wrkhcga.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/2/7/free-3-4-sleeve-big-ikkat-trivety-original-imahed5z8wrkhcga.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/p/s/g/free-3-4-sleeve-big-ikkat-trivety-original-imahed5ztgdvwknp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/p/s/g/free-3-4-sleeve-big-ikkat-trivety-original-imahed5ztgdvwknp.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/w/h/free-3-4-sleeve-big-ikkat-trivety-original-imahed5zjgus7agk.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/w/h/free-3-4-sleeve-big-ikkat-trivety-original-imahed5zjgus7agk.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

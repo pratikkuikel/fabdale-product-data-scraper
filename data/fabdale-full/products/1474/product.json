@@ -1,0 +1,171 @@
+{
+  "product_id": "1474",
+  "sku": "Fab-Salwar-RYEX-009YL-S",
+  "product": {
+    "name": "Rivanta  Floral Printed V-Neck Salwar Suit Set",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/royal-export-women-kurta-pant-set/p/itm02ba20ae9f6b7?pid=ETHH2GTMUXTZKSFJ&marketplace=FLIPKART&lid=LSTETHH2GTMUXTZKSFJB6QABQ&swatchAttr=size&pageUID=1772808551227"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH2GTMUXTZKSFJ",
+    "path": "../../sources/pid-ETHH2GTMUXTZKSFJ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-set/p/itm02ba20ae9f6b7?pid=ETHH2GTMUXTZKSFJ&marketplace=FLIPKART&lid=LSTETHH2GTMUXTZKSFJB6QABQ&swatchAttr=size&pageUID=1772808551227",
+    "scraped_at": "2026-08-12T15:37:57.167Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-set/p/itm02ba20ae9f6b7?pid=ETHH2GTMUXTZKSFJ&marketplace=FLIPKART&lid=LSTETHH2GTMUXTZKSFJB6QABQ&swatchAttr=size&pageUID=1772808551227"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:38:07.133Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Set",
+    "short_description": "Royal Export Women Kurta Pant Set - Buy Royal Export Women Kurta Pant Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Royal Export Women Kurta Pant Set - Buy Royal Export Women Kurta Pant Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e528368c1f94ec073c42ea4c",
+      "path": "media/images/e528368c1f94ec073c42ea4c/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/9/p/s-rx62-yellow-dadam-royal-export-original-imah3pyypcbgexjx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/9/p/s-rx62-yellow-dadam-royal-export-original-imah3pyypcbgexjx.jpeg?q=100",
+        "local_path": "../../media/images/e528368c1f94ec073c42ea4c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/f/x/s-rx62-yellow-dadam-royal-export-original-imah3pyyngjg5hgh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/f/x/s-rx62-yellow-dadam-royal-export-original-imah3pyyngjg5hgh.jpeg?q=100",
+        "local_path": "../../media/images/e528368c1f94ec073c42ea4c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/3/y/s-rx62-yellow-dadam-royal-export-original-imah3pyynu3skzgj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/3/y/s-rx62-yellow-dadam-royal-export-original-imah3pyynu3skzgj.jpeg?q=100",
+        "local_path": "../../media/images/e528368c1f94ec073c42ea4c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Set",
+      "description": "Royal Export Women Kurta Pant Set - Buy Royal Export Women Kurta Pant Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/9/p/s-rx62-yellow-dadam-royal-export-original-imah3pyypcbgexjx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/f/x/s-rx62-yellow-dadam-royal-export-original-imah3pyyngjg5hgh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/3/y/s-rx62-yellow-dadam-royal-export-original-imah3pyynu3skzgj.jpeg?q=70"
+      ],
+      "sku": "ETHH2GTMUXTZKSFJ",
+      "color": "Yellow",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 289,
+        "ratingCount": 4222,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 2879,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Sheetal  Saxena",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-04",
+          "reviewBody": "Good choice, color is beige, design and size all pretty good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Shruti  Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-01",
+          "reviewBody": "Very nice dress I love this colour \n❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Das Das",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-09",
+          "reviewBody": "I am impressed with the vibrant colors and intricate patterns. Truly a standout piece",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

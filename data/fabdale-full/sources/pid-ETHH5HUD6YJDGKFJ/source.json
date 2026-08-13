@@ -1,0 +1,152 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurta-pant-set/p/itmda83476341b94?pid=ETHH5HUD6YJDGKFJ&lid=LSTETHH5HUD6YJDGKFJZG4LRN&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T12:50:26.354Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurta-pant-set/p/itmda83476341b94?pid=ETHH5HUD6YJDGKFJ&lid=LSTETHH5HUD6YJDGKFJZG4LRN&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T12:50:32.017Z"
+  },
+  "content": {
+    "title": "Divastri Women Cotton Blend Kurta Pant Set",
+    "short_description": "Fabric: Cotton Blend\nPattern: Printed\nFabricCotton Blend: PatternPrinted",
+    "description": "Printed Elegance\nAdorned with a charming printed design, this women's calf-length kurta and pant set exudes elegance …\n\nComfortable Cotton Blend\nCrafted from a soft cotton blend fabric, this set ensures comfort and style, making it a perfect cho…\n\nStylish Pant Ensemble\nThe pant bottoms of this set offer a stylish flair, paired perfectly with the kurta, ideal for women…\n\nCare Instructions\nTo maintain the pristine look of this cotton blend kurta and pant set, a combination of dry cleaning…",
+    "specifications": {
+      "FabricCotton Blend": "PatternPrinted",
+      "Fabric": "Cotton Blend",
+      "Pattern": "Printed"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-ethnic-set/c/u/a/5xl-southz-wine-gs-m-sho-gosriki-original-imah3jgjymfszzvt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-ethnic-set/c/u/a/5xl-southz-wine-gs-m-sho-gosriki-original-imah3jgjymfszzvt.jpeg?q=100",
+        "local_path": "../../media/images/2b7d6ed6258da54dbda1d977/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/s/g/k/m-mei-pink-m-gosriki-original-imahf73bg2bjuags.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/s/g/k/m-mei-pink-m-gosriki-original-imahf73bg2bjuags.jpeg?q=100",
+        "local_path": "../../media/images/2b7d6ed6258da54dbda1d977/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f21f7ea3849647caae941fc688ea9d51.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f21f7ea3849647caae941fc688ea9d51.jpg?q=80",
+        "local_path": "../../media/images/2b7d6ed6258da54dbda1d977/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_c1956f419cd54cf9954538e6ce9e5be5.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_c1956f419cd54cf9954538e6ce9e5be5.jpg?q=80",
+        "local_path": "../../media/images/2b7d6ed6258da54dbda1d977/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-ethnic-set/1/v/i/3xl-ttkkddd-002-krushant-resized-original-imahfhgsmfrwzf4b.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-ethnic-set/1/v/i/3xl-ttkkddd-002-krushant-resized-original-imahfhgsmfrwzf4b.jpeg?q=100",
+        "local_path": "../../media/images/2b7d6ed6258da54dbda1d977/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/n/v/r/xl-women-printed-white-cotton-coord-set-modern-coord-set-for-resized-original-imahkege9ne7jzxk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/n/v/r/xl-women-printed-white-cotton-coord-set-modern-coord-set-for-resized-original-imahkege9ne7jzxk.jpeg?q=100",
+        "local_path": "../../media/images/2b7d6ed6258da54dbda1d977/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/c/b/h/xl-hd-newpink3set-divastri-original-imahprh5zuwewgmf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/c/b/h/xl-hd-newpink3set-divastri-original-imahprh5zuwewgmf.jpeg?q=100",
+        "local_path": "../../media/images/2b7d6ed6258da54dbda1d977/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/4/5/1/xl-fk-lm-og-ks2117-lookmark-resized-original-imah9zkfgffhc6fx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/4/5/1/xl-fk-lm-og-ks2117-lookmark-resized-original-imah9zkfgffhc6fx.jpeg?q=100",
+        "local_path": "../../media/images/2b7d6ed6258da54dbda1d977/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-ethnic-set/z/g/8/l-zz-1108-marron-ai-para-couture-original-imahf9jjyzfnqgfy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-ethnic-set/z/g/8/l-zz-1108-marron-ai-para-couture-original-imahf9jjyzfnqgfy.jpeg?q=100",
+        "local_path": "../../media/images/2b7d6ed6258da54dbda1d977/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/p/r/r/xxl-ab-291-ajmera-fab-resized-original-imahfhwhxakg3j3q.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/p/r/r/xxl-ab-291-ajmera-fab-resized-original-imahfhwhxakg3j3q.jpeg?q=100",
+        "local_path": "../../media/images/2b7d6ed6258da54dbda1d977/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/s/d/xs-yff-d-no-30-vanam-wine-kabutar-kurta-set-divastri-original-imahggtrgwpvkatd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/s/d/xs-yff-d-no-30-vanam-wine-kabutar-kurta-set-divastri-original-imahggtrgwpvkatd.jpeg?q=100",
+        "local_path": "../../media/images/2b7d6ed6258da54dbda1d977/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/7/s/w/xs-gv352ppl-pinfit-original-imahhb72wxxnnrx9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/7/s/w/xs-gv352ppl-pinfit-original-imahhb72wxxnnrx9.jpeg?q=100",
+        "local_path": "../../media/images/2b7d6ed6258da54dbda1d977/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Printed Elegance",
+          "body": "Adorned with a charming printed design, this women's calf-length kurta and pant set exudes elegance …"
+        },
+        {
+          "heading": "Comfortable Cotton Blend",
+          "body": "Crafted from a soft cotton blend fabric, this set ensures comfort and style, making it a perfect cho…"
+        },
+        {
+          "heading": "Stylish Pant Ensemble",
+          "body": "The pant bottoms of this set offer a stylish flair, paired perfectly with the kurta, ideal for women…"
+        },
+        {
+          "heading": "Care Instructions",
+          "body": "To maintain the pristine look of this cotton blend kurta and pant set, a combination of dry cleaning…"
+        }
+      ],
+      "product_highlights": {
+        "FabricCotton Blend": "PatternPrinted",
+        "Fabric": "Cotton Blend",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "2b7d6ed6258da54dbda1d977",
+      "path": "media/images/2b7d6ed6258da54dbda1d977/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

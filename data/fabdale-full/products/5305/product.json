@@ -1,0 +1,225 @@
+{
+  "product_id": "5305",
+  "sku": null,
+  "product": {
+    "name": "Purvika Gloden Motifs Lehenga Choli",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itm0c1b8bba825b1?pid=LCHGHFDKFURNXKHU&lid=LSTLCHGHFDKFURNXKHUW239TG&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-LCHGHFDKFURNXKHU",
+    "path": "../../sources/pid-LCHGHFDKFURNXKHU/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itm0c1b8bba825b1?pid=LCHGHFDKFURNXKHU&lid=LSTLCHGHFDKFURNXKHUW239TG&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:42:43.658Z",
+    "final_url": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itm0c1b8bba825b1?pid=LCHGHFDKFURNXKHU&lid=LSTLCHGHFDKFURNXKHUW239TG&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 2,
+    "completed_at": "2026-08-13T07:42:55.471Z"
+  },
+  "content": {
+    "title": "PURVAJA Self Design Semi Stitched Lehenga Choli",
+    "short_description": "Color: Dark Blue\nPattern: Self Design\nType: Lehenga Choli\nLehenga Fabric: Cotton Blend\nCholi Fabric: Jacquard\nDupatta Fabric: Art Silk\nStitching Type: Semi Stitched\nSales Package: (1, Lehengha 1, Blouse 1, Dupatta)",
+    "description": "Dimensions\nBlouse Length1 mDupatta Length2 m - 2.5 m\n\nLehenga Choli Details\nLehenga FabricCotton BlendCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckSweetheart NeckSleeveHalf SleeveEmbroideredNoLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package(1, Lehengha 1, Blouse 1, Dupatta)Blouse PatternSelf DesignBlouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkNoneBust Size42 inchColorDark BlueBrand ColorNavy BlueDupatta PatternSelf DesignDupatta WorkNALehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSizeFreeTrendHeavy Kali Work",
+    "specifications": {
+      "Lehenga Fabric": "Cotton Blend",
+      "Choli Fabric": "Jacquard",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Art Silk",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Self Design",
+      "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+      "Color": "Dark Blue"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "9eed8e768ea72f4e899b0f1b",
+      "path": "media/images/9eed8e768ea72f4e899b0f1b/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "d1fdc26eed9d7ef50ccdf932",
+      "path": "media/videos/d1fdc26eed9d7ef50ccdf932/media.json",
+      "reused": true
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/w/m/free-half-sleeve-trisha-purvaja-original-imaghfdkbh2pdy2u.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/w/m/free-half-sleeve-trisha-purvaja-original-imaghfdkbh2pdy2u.jpeg?q=100",
+        "local_path": "../../media/images/9eed8e768ea72f4e899b0f1b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/g/b/free-half-sleeve-trisha-purvaja-original-imaghfdkre5czath.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/g/b/free-half-sleeve-trisha-purvaja-original-imaghfdkre5czath.jpeg?q=100",
+        "local_path": "../../media/images/9eed8e768ea72f4e899b0f1b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/z/e/f/free-half-sleeve-trisha-purvaja-original-imaghfdk6y2yrx9k.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/z/e/f/free-half-sleeve-trisha-purvaja-original-imaghfdk6y2yrx9k.jpeg?q=100",
+        "local_path": "../../media/images/9eed8e768ea72f4e899b0f1b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/p/z/t/free-half-sleeve-trisha-purvaja-original-imaghfdkgqcxh58s.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/p/z/t/free-half-sleeve-trisha-purvaja-original-imaghfdkgqcxh58s.jpeg?q=100",
+        "local_path": "../../media/images/9eed8e768ea72f4e899b0f1b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/c/q/free-half-sleeve-trisha-purvaja-original-imaghfdkewtuxqft.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/c/q/free-half-sleeve-trisha-purvaja-original-imaghfdkewtuxqft.jpeg?q=100",
+        "local_path": "../../media/images/9eed8e768ea72f4e899b0f1b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNeMi1ilw-RtO4R86v3f3adw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURVAJA Self Design Semi Stitched Lehenga Choli",
+      "description": "PURVAJA Self Design Semi Stitched Lehenga Choli - Buy PURVAJA Self Design Semi Stitched Lehenga Choli For Only Rs. 6999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/w/m/free-half-sleeve-trisha-purvaja-original-imaghfdkbh2pdy2u.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/6/g/b/free-half-sleeve-trisha-purvaja-original-imaghfdkre5czath.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/z/e/f/free-half-sleeve-trisha-purvaja-original-imaghfdk6y2yrx9k.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/p/z/t/free-half-sleeve-trisha-purvaja-original-imaghfdkgqcxh58s.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/f/c/q/free-half-sleeve-trisha-purvaja-original-imaghfdkewtuxqft.jpeg?q=70"
+      ],
+      "sku": "LCHGHFDKFURNXKHU",
+      "color": "Navy Blue",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 658,
+        "ratingCount": 8236,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURVAJA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 635,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Inderpal Ip",
+            "@type": "Person"
+          },
+          "datePublished": "2022-10-21",
+          "reviewBody": "It's awesome I really like it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "raj laxmi",
+            "@type": "Person"
+          },
+          "datePublished": "2022-09-30",
+          "reviewBody": "Very nice in this price range.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-04",
+          "reviewBody": "Beautiful awesome",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Dimensions",
+          "body": "Blouse Length1 mDupatta Length2 m - 2.5 m"
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricCotton BlendCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckSweetheart NeckSleeveHalf SleeveEmbroideredNoLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package(1, Lehengha 1, Blouse 1, Dupatta)Blouse PatternSelf DesignBlouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkNoneBust Size42 inchColorDark BlueBrand ColorNavy BlueDupatta PatternSelf DesignDupatta WorkNALehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSizeFreeTrendHeavy Kali Work"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Cotton Blend",
+        "Choli Fabric": "Jacquard",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Self Design",
+        "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+        "Color": "Dark Blue"
+      },
+      "specifications": {}
+    }
+  }
+}

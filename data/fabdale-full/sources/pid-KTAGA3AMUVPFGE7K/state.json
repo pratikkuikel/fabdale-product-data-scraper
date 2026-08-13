@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KTAGA3AMUVPFGE7K",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "703"
+  ],
+  "source_path": "sources/pid-KTAGA3AMUVPFGE7K/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T10:50:36.611Z",
+  "completed_at": "2026-08-12T10:50:42.432Z"
+}

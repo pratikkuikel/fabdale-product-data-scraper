@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm8e527aebede17?pid=ETHH4JFRDPV5KHZX&marketplace=FLIPKART&lid=LSTETHH4JFRDPV5KHZXFHLD6R&swatchAttr=size&pageUID=1772816579647",
+    "scraped_at": "2026-08-12T15:55:37.835Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm8e527aebede17?pid=ETHH4JFRDPV5KHZX&marketplace=FLIPKART&lid=LSTETHH4JFRDPV5KHZXFHLD6R&swatchAttr=size&pageUID=1772816579647"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:55:45.477Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Dupatta Set",
+    "short_description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/j/e/3xl-rx203-mgnavy-skd-royal-export-original-imah4jfrnrfvkftt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/j/e/3xl-rx203-mgnavy-skd-royal-export-original-imah4jfrnrfvkftt.jpeg?q=100",
+        "local_path": "../../media/images/9c11a99d38d43adfd1e18c2e/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/z/8/3xl-rx203-mgnavy-skd-royal-export-original-imah4jfrfgmqm3gy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/z/8/3xl-rx203-mgnavy-skd-royal-export-original-imah4jfrfgmqm3gy.jpeg?q=100",
+        "local_path": "../../media/images/9c11a99d38d43adfd1e18c2e/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/a/x/3xl-rx203-mgnavy-skd-royal-export-original-imah4jfr8z5sgpjg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/a/x/3xl-rx203-mgnavy-skd-royal-export-original-imah4jfr8z5sgpjg.jpeg?q=100",
+        "local_path": "../../media/images/9c11a99d38d43adfd1e18c2e/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/k/v/3xl-rx203-mgnavy-skd-royal-export-original-imah4jfrxzpvh5vf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/k/v/3xl-rx203-mgnavy-skd-royal-export-original-imah4jfrxzpvh5vf.jpeg?q=100",
+        "local_path": "../../media/images/9c11a99d38d43adfd1e18c2e/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Dupatta Set",
+      "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/j/e/3xl-rx203-mgnavy-skd-royal-export-original-imah4jfrnrfvkftt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/z/8/3xl-rx203-mgnavy-skd-royal-export-original-imah4jfrfgmqm3gy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/a/x/3xl-rx203-mgnavy-skd-royal-export-original-imah4jfr8z5sgpjg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/k/v/3xl-rx203-mgnavy-skd-royal-export-original-imah4jfrxzpvh5vf.jpeg?q=70"
+      ],
+      "sku": "ETHH4JFRDPV5KHZX",
+      "color": "Navy Blue",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 156,
+        "ratingCount": 670,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 3679,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Nid_Hi  Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-05",
+          "reviewBody": "Just ❤️ it",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-10",
+          "reviewBody": "Nice fabric ❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-13",
+          "reviewBody": "Colour is very nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "9c11a99d38d43adfd1e18c2e",
+      "path": "media/images/9c11a99d38d43adfd1e18c2e/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

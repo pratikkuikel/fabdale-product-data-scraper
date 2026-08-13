@@ -1,0 +1,150 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itme14234a6c676d?pid=FABGW4GEAPFAZ7CX&lid=LSTFABGW4GEAPFAZ7CX23BUB1&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:36:25.140Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itme14234a6c676d?pid=FABGW4GEAPFAZ7CX&lid=LSTFABGW4GEAPFAZ7CX23BUB1&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:36:33.193Z"
+  },
+  "content": {
+    "title": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupatta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Beautiful Rajshahi Fabric\nCrafted from pure cotton with a regional speciality of Rajshahi, this salwar suit material exudes el…\n\nVersatile Unstitched Set\nDesigned as an unstitched top, bottom, and dupatta set, this salwar suit material offers endless pos…\n\nEye-Catching Print and Design\nFeaturing a vibrant multicolor print and a self-designed neckline, this salwar suit material is sure…\n\nEasy to Care for\nTo maintain the fabric's quality and longevity, it is recommended to hand wash this salwar suit mate…",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupatta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/a/a/z/yes-2-5-m-unstitched-2-2-m-streep-ylo90-krishna-boutique-original-imahymzjssphu5tn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/a/a/z/yes-2-5-m-unstitched-2-2-m-streep-ylo90-krishna-boutique-original-imahymzjssphu5tn.jpeg?q=100",
+        "local_path": "../../media/images/1cbdacb163657e7dd46ef520/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+      "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.1360.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/a/a/z/yes-2-5-m-unstitched-2-2-m-streep-ylo90-krishna-boutique-original-imahymzjssphu5tn.jpeg?q=70"
+      ],
+      "sku": "FABGW4GEAPFAZ7CX",
+      "color": "Red",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 3.6,
+        "reviewCount": 2,
+        "ratingCount": 57,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "krishna boutique",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 450,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Bisma Majeed",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-24",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Archana  Sangamnerkar ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-07",
+          "reviewBody": "Cloth looks old",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Beautiful Rajshahi Fabric",
+          "body": "Crafted from pure cotton with a regional speciality of Rajshahi, this salwar suit material exudes el…"
+        },
+        {
+          "heading": "Versatile Unstitched Set",
+          "body": "Designed as an unstitched top, bottom, and dupatta set, this salwar suit material offers endless pos…"
+        },
+        {
+          "heading": "Eye-Catching Print and Design",
+          "body": "Featuring a vibrant multicolor print and a self-designed neckline, this salwar suit material is sure…"
+        },
+        {
+          "heading": "Easy to Care for",
+          "body": "To maintain the fabric's quality and longevity, it is recommended to hand wash this salwar suit mate…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupatta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1cbdacb163657e7dd46ef520",
+      "path": "media/images/1cbdacb163657e7dd46ef520/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

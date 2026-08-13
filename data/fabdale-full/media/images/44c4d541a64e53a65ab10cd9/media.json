@@ -1,0 +1,16 @@
+{
+  "key": "44c4d541a64e53a65ab10cd9",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:32:46.030Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/d/8/5/yes-2-5-m-unstitched-2-2-m-sky-nhrr4-krishna-boutique-original-imahfmsaypew7muz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/d/8/5/yes-2-5-m-unstitched-2-2-m-sky-nhrr4-krishna-boutique-original-imahfmsaypew7muz.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "product_id": "522",
+  "sku": "Fab-Saree-YSHK-022GR",
+  "product": {
+    "name": "Yarie  Bollywood Georgette Lace  Casual Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/yashika-printed-bollywood-georgette-lace-saree/p/itmb499ebacc87c9?pid=SARH8K9GZPMHJSUF&lid=LSTSARH8K9GZPMHJSUF3ZUES1&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SARH8K9GZPMHJSUF",
+    "path": "../../sources/pid-SARH8K9GZPMHJSUF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/yashika-printed-bollywood-georgette-lace-saree/p/itmb499ebacc87c9?pid=SARH8K9GZPMHJSUF&lid=LSTSARH8K9GZPMHJSUF3ZUES1&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:28:19.475Z",
+    "final_url": "https://www.flipkart.com/yashika-printed-bollywood-georgette-lace-saree/p/itmb499ebacc87c9?pid=SARH8K9GZPMHJSUF&lid=LSTSARH8K9GZPMHJSUF3ZUES1&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 7,
+    "completed_at": "2026-08-12T10:28:27.724Z"
+  },
+  "content": {
+    "title": "YASHIKA Printed Bollywood Georgette, Lace Saree",
+    "short_description": "Fabric: Georgette, Lace\nPattern: Printed\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "YASHIKA Printed Bollywood Georgette, Lace Saree - Buy YASHIKA Printed Bollywood Georgette, Lace Saree For Only Rs. 1799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Printed",
+      "Fabric": "Georgette, Lace",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0882f58bddbfd7aea070dac1",
+      "path": "media/images/0882f58bddbfd7aea070dac1/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "66e76ab49aadb8ca25d7b2a8",
+      "path": "media/videos/66e76ab49aadb8ca25d7b2a8/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/v/b/free-fk-ys-p1-sravani-green-yashika-unstitched-resized-original-imah8k9gxhqgzzyc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/v/b/free-fk-ys-p1-sravani-green-yashika-unstitched-resized-original-imah8k9gxhqgzzyc.jpeg?q=100",
+        "local_path": "../../media/images/0882f58bddbfd7aea070dac1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/8/i/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gerxezewy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/8/i/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gerxezewy.jpeg?q=100",
+        "local_path": "../../media/images/0882f58bddbfd7aea070dac1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/u/1/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9g6dyymrxz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/u/1/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9g6dyymrxz.jpeg?q=100",
+        "local_path": "../../media/images/0882f58bddbfd7aea070dac1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/k/h/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gmwrf5arw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/k/h/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gmwrf5arw.jpeg?q=100",
+        "local_path": "../../media/images/0882f58bddbfd7aea070dac1/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/u/e/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gthux39zx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/u/e/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gthux39zx.jpeg?q=100",
+        "local_path": "../../media/images/0882f58bddbfd7aea070dac1/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CN7qqpsU12RAiErQLvBcuCBA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "YASHIKA Printed Bollywood Georgette, Lace Saree",
+      "description": "YASHIKA Printed Bollywood Georgette, Lace Saree - Buy YASHIKA Printed Bollywood Georgette, Lace Saree For Only Rs. 1799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/v/b/free-fk-ys-p1-sravani-green-yashika-unstitched-resized-original-imah8k9gxhqgzzyc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/8/i/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gerxezewy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/u/1/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9g6dyymrxz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/k/h/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gmwrf5arw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/u/e/free-fk-ys-p1-sravani-green-yashika-unstitched-original-imah8k9gthux39zx.jpeg?q=70"
+      ],
+      "sku": "SARH8K9GZPMHJSUF",
+      "color": "FK-YS-P1-SRAVANI GREEN-Green",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 50,
+        "ratingCount": 823,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "YASHIKA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 360,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Salini P",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-03",
+          "reviewBody": "Very beautiful saree",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Sonu Yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-28",
+          "reviewBody": "Best quality 😜",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-01",
+          "reviewBody": "Very nice light weight",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Fabric": "Georgette, Lace",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {
+        "Brand": "YASHIKA",
+        "Style Code": "FK-YS-P1-SRAVANI GREEN",
+        "Pattern": "Printed",
+        "Pack of": "1",
+        "Secondary Color": "Multicolor",
+        "Occasion": "Casual, Wedding",
+        "Fabric Care": "Wash with Like Colors, Hand Wash",
+        "Fabric": "Georgette, Lace",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari",
+        "Net Quantity": "1",
+        "Blouse Pattern": "Solid, Embroidered",
+        "Border Details": "Embroidered, Gold",
+        "Border Length": "Big/Thick",
+        "Color": "Green",
+        "Brand Color": "FK-YS-P1-SRAVANI GREEN-Green",
+        "Ideal For": "Women",
+        "Print Type": "Chevron/Zig Zag, Geometric",
+        "Sari Purity": "Blend",
+        "Dimensions": "Sari Length5.5mBlouse Piece Length0.8 m",
+        "Sari Length5.5m": "Blouse Piece Length0.8 m",
+        "Sari Length": "5.5m",
+        "Blouse Piece Length": "0.8 m"
+      }
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/anand-sarees-embellished-striped-self-design-bollywood-satin-saree/p/itm246f11b04c9d7?pid=SARGXBSXZTHPFC26&lid=LSTSARGXBSXZTHPFC26NKNL6E&marketplace=FLIPKART&q=anand+sarees&store=clo%2F8on%2Fzpd%2F9og&srno=s_2_68&otracker=AS_QueryStore_OrganicAutoSuggest_1_6_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_6_na_na_ps&fm=search-autosuggest&iid=92db146c-3459-4261-a059-7898e3617a07.SARGXBSXZTHPFC26.SEARCH&ppt=sp&ppn=sp&ssid=zg4vthjhmo0000001761238988143&qH=f99c569d55583cbf",
+    "scraped_at": "2026-08-12T10:15:20.575Z",
+    "final_url": "https://www.flipkart.com/anand-sarees-embellished-striped-self-design-bollywood-satin-saree/p/itm246f11b04c9d7?pid=SARGXBSXZTHPFC26&lid=LSTSARGXBSXZTHPFC26NKNL6E&marketplace=FLIPKART&q=anand+sarees&store=clo%2F8on%2Fzpd%2F9og&srno=s_2_68&otracker=AS_QueryStore_OrganicAutoSuggest_1_6_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_6_na_na_ps&fm=search-autosuggest&iid=92db146c-3459-4261-a059-7898e3617a07.SARGXBSXZTHPFC26.SEARCH&ppt=sp&ppn=sp&ssid=zg4vthjhmo0000001761238988143&qH=f99c569d55583cbf"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:15:31.606Z"
+  },
+  "content": {
+    "title": "Anand Sarees Embellished, Striped, Self Design Bollywood Satin Saree",
+    "short_description": "Fabric: Satin\nPattern: Embellished, Striped, Self Design\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Gorgeous Bollywood Saree\nIntroducing a stunning Bollywood saree that exudes glamour and style. This saree is perfect for thos…\n\nLuxurious Satin Fabric\nCrafted from high-quality satin fabric, this saree offers a luxurious and smooth feel against your s…\n\nVersatile and Stylish Patterns\nFeaturing a combination of embellished, striped, and self-design patterns, this saree offers a uniqu…\n\nExquisite Zari Work\nAdorned with beautiful zari and silver thread work, this saree adds a touch of opulence and grandeur…\n\nPerfect for Special Occasions\nWhether it's a wedding, party, or festive celebration, this saree is the perfect choice for any spec…",
+    "specifications": {
+      "Pattern": "Embellished, Striped, Self Design",
+      "Fabric": "Satin",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/1/n/n/free-sp-md-wb-sat6010-2-anand-sarees-no-blouse-resized-original-imah8zxqyujmjmrh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/1/n/n/free-sp-md-wb-sat6010-2-anand-sarees-no-blouse-resized-original-imah8zxqyujmjmrh.jpeg?q=100",
+        "local_path": "../../media/images/708116fbc9ab48f89e023ba7/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/t/f/g/free-sp-md-wb-sat6010-2-anand-sarees-no-blouse-original-imah8zxqbgb6wzjd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/t/f/g/free-sp-md-wb-sat6010-2-anand-sarees-no-blouse-original-imah8zxqbgb6wzjd.jpeg?q=100",
+        "local_path": "../../media/images/708116fbc9ab48f89e023ba7/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/i/a/m/free-md-wb-sat6010-2-anand-sarees-no-blouse-original-imah8zxsjgjmunb4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/i/a/m/free-md-wb-sat6010-2-anand-sarees-no-blouse-original-imah8zxsjgjmunb4.jpeg?q=100",
+        "local_path": "../../media/images/708116fbc9ab48f89e023ba7/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/p/j/u/free-sp-md-wb-sat6010-2-anand-sarees-no-blouse-original-imah8zxquvkxtffd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/p/j/u/free-sp-md-wb-sat6010-2-anand-sarees-no-blouse-original-imah8zxquvkxtffd.jpeg?q=100",
+        "local_path": "../../media/images/708116fbc9ab48f89e023ba7/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/x/s/p/free-sp-md-wb-sat6010-2-anand-sarees-no-blouse-original-imah8zxq7syx38vu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/x/s/p/free-sp-md-wb-sat6010-2-anand-sarees-no-blouse-original-imah8zxq7syx38vu.jpeg?q=100",
+        "local_path": "../../media/images/708116fbc9ab48f89e023ba7/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN5cgqkoDqR1yNBi5LpP89HA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Anand Sarees Embellished, Striped, Self Design Bollywood Satin Saree",
+      "description": "Anand Sarees Embellished, Striped, Self Design Bollywood Satin Saree - Buy Anand Sarees Embellished, Striped, Self Design Bollywood Satin Saree For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/1/n/n/free-sp-md-wb-sat6010-2-anand-sarees-no-blouse-resized-original-imah8zxqyujmjmrh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/t/f/g/free-sp-md-wb-sat6010-2-anand-sarees-no-blouse-original-imah8zxqbgb6wzjd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/i/a/m/free-md-wb-sat6010-2-anand-sarees-no-blouse-original-imah8zxsjgjmunb4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/p/j/u/free-sp-md-wb-sat6010-2-anand-sarees-no-blouse-original-imah8zxquvkxtffd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/x/s/p/free-sp-md-wb-sat6010-2-anand-sarees-no-blouse-original-imah8zxq7syx38vu.jpeg?q=70"
+      ],
+      "sku": "SARGXBSXZTHPFC26",
+      "color": "Red",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 608,
+        "ratingCount": 19777,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Anand Sarees",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 236,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Hena Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-31",
+          "reviewBody": "This saree is my favourite from Anand sarees it is beautiful with bright colour and quality is good too",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Rashmi Bartwal",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-28",
+          "reviewBody": "Beautiful saree and excellent quality, I am really happy with this item. Shipping was super fast and the item was packaged well.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-10",
+          "reviewBody": "I like this Saari colour so much The Red colour looks so beautiful, the fabric quality is very nice and perfect. Value for money and delivery on time.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Gorgeous Bollywood Saree",
+          "body": "Introducing a stunning Bollywood saree that exudes glamour and style. This saree is perfect for thos…"
+        },
+        {
+          "heading": "Luxurious Satin Fabric",
+          "body": "Crafted from high-quality satin fabric, this saree offers a luxurious and smooth feel against your s…"
+        },
+        {
+          "heading": "Versatile and Stylish Patterns",
+          "body": "Featuring a combination of embellished, striped, and self-design patterns, this saree offers a uniqu…"
+        },
+        {
+          "heading": "Exquisite Zari Work",
+          "body": "Adorned with beautiful zari and silver thread work, this saree adds a touch of opulence and grandeur…"
+        },
+        {
+          "heading": "Perfect for Special Occasions",
+          "body": "Whether it's a wedding, party, or festive celebration, this saree is the perfect choice for any spec…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Embellished, Striped, Self Design",
+        "Fabric": "Satin",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "708116fbc9ab48f89e023ba7",
+      "path": "media/images/708116fbc9ab48f89e023ba7/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "95a1cd1b19dbe01ea7044a79",
+      "path": "media/videos/95a1cd1b19dbe01ea7044a79/media.json",
+      "reused": true
+    }
+  }
+}

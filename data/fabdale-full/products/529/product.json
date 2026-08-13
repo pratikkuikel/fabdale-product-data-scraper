@@ -1,0 +1,227 @@
+{
+  "product_id": "529",
+  "sku": "Fab-Saree-K5FSH-001G",
+  "product": {
+    "name": "Kashvi  Daily Wear Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/k-5-fashion-printed-daily-wear-crepe-saree/p/itm030f5a7dd81c3?pid=SARGW5RSSHZMWCWU&lid=LSTSARGW5RSSHZMWCWUNUUXTW&marketplace=FLIPKART&q=K%205%20FASHION%20&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SARGW5RSSHZMWCWU",
+    "path": "../../sources/pid-SARGW5RSSHZMWCWU/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/k-5-fashion-printed-daily-wear-crepe-saree/p/itm030f5a7dd81c3?pid=SARGW5RSSHZMWCWU&lid=LSTSARGW5RSSHZMWCWUNUUXTW&marketplace=FLIPKART&q=K%205%20FASHION%20&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:29:23.010Z",
+    "final_url": "https://www.flipkart.com/k-5-fashion-printed-daily-wear-crepe-saree/p/itm030f5a7dd81c3?pid=SARGW5RSSHZMWCWU&lid=LSTSARGW5RSSHZMWCWUNUUXTW&marketplace=FLIPKART&q=K%205%20FASHION%20&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 7,
+    "completed_at": "2026-08-12T10:29:33.004Z"
+  },
+  "content": {
+    "title": "K 5 FASHION Printed Daily Wear Crepe Saree",
+    "short_description": "Fabric: Crepe\nPattern: Printed\nType: Daily Wear\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Chic Printed Design\nElevate your style with the chic printed design of this saree, adding a touch of sophistication to y…\n\nComfortable Crepe Fabric\nCrafted from pure crepe fabric, this saree ensures a comfortable and luxurious feel against your ski…\n\nVersatile Unstitched Blouse Piece\nComplementing the saree is an unstitched blouse piece, allowing you the freedom to tailor it to your…\n\nEasy Fabric Care\nWith a simple machine wash as per the tag instructions, maintaining the beauty of this saree is effo…",
+    "specifications": {
+      "Pattern": "Printed",
+      "Fabric": "Crepe",
+      "Type": "Daily Wear",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "cc292ed4855354b154980139",
+      "path": "media/images/cc292ed4855354b154980139/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "f6e6b967b92c6222f02b89e8",
+      "path": "media/videos/f6e6b967b92c6222f02b89e8/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/5/u/free-crepe-k-5-fashion-unstitched-resized-original-imahaajgvgdkywwz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/5/u/free-crepe-k-5-fashion-unstitched-resized-original-imahaajgvgdkywwz.jpeg?q=100",
+        "local_path": "../../media/images/cc292ed4855354b154980139/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/o/d/free-crepe-k-5-fashion-unstitched-original-imahaajg9rutgfgz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/o/d/free-crepe-k-5-fashion-unstitched-original-imahaajg9rutgfgz.jpeg?q=100",
+        "local_path": "../../media/images/cc292ed4855354b154980139/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/e/q/3/free-crepe-k-5-fashion-unstitched-original-imahaajgk3gfhrqh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/e/q/3/free-crepe-k-5-fashion-unstitched-original-imahaajgk3gfhrqh.jpeg?q=100",
+        "local_path": "../../media/images/cc292ed4855354b154980139/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/4/5/p/free-crepe-k-5-fashion-unstitched-original-imahaajgpzqafzys.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/4/5/p/free-crepe-k-5-fashion-unstitched-original-imahaajgpzqafzys.jpeg?q=100",
+        "local_path": "../../media/images/cc292ed4855354b154980139/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/v/c/free-crepe-k-5-fashion-unstitched-original-imahaajgpnkeragj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/v/c/free-crepe-k-5-fashion-unstitched-original-imahaajgpnkeragj.jpeg?q=100",
+        "local_path": "../../media/images/cc292ed4855354b154980139/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNBGcsiPlHRqis7hvrVxiYxA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "K 5 FASHION Printed Daily Wear Crepe Saree",
+      "description": "K 5 FASHION Printed Daily Wear Crepe Saree - Buy K 5 FASHION Printed Daily Wear Crepe Saree For Only Rs. 2400.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/m/5/u/free-crepe-k-5-fashion-unstitched-resized-original-imahaajgvgdkywwz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/o/d/free-crepe-k-5-fashion-unstitched-original-imahaajg9rutgfgz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/e/q/3/free-crepe-k-5-fashion-unstitched-original-imahaajgk3gfhrqh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/4/5/p/free-crepe-k-5-fashion-unstitched-original-imahaajgpzqafzys.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/v/c/free-crepe-k-5-fashion-unstitched-original-imahaajgpnkeragj.jpeg?q=70"
+      ],
+      "sku": "SARGW5RSSHZMWCWU",
+      "color": "6018",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 322,
+        "ratingCount": 7492,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "K 5 FASHION",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 504,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Asim Neogi Neogi",
+            "@type": "Person"
+          },
+          "datePublished": "2023-04-06",
+          "reviewBody": "Very good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-12",
+          "reviewBody": "Soft and shinny 🥰🥰🥰",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Sunayana Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-13",
+          "reviewBody": "Nice product...same as shown in picture.. fabric quality is also best ....love this saree🥰",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Chic Printed Design",
+          "body": "Elevate your style with the chic printed design of this saree, adding a touch of sophistication to y…"
+        },
+        {
+          "heading": "Comfortable Crepe Fabric",
+          "body": "Crafted from pure crepe fabric, this saree ensures a comfortable and luxurious feel against your ski…"
+        },
+        {
+          "heading": "Versatile Unstitched Blouse Piece",
+          "body": "Complementing the saree is an unstitched blouse piece, allowing you the freedom to tailor it to your…"
+        },
+        {
+          "heading": "Easy Fabric Care",
+          "body": "With a simple machine wash as per the tag instructions, maintaining the beauty of this saree is effo…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Fabric": "Crepe",
+        "Type": "Daily Wear",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

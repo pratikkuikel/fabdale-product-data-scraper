@@ -1,0 +1,174 @@
+{
+  "product_id": "403",
+  "sku": "Fab-Dress-SHTL-013BK-M",
+  "product": {
+    "name": "Shemora Embossed Polyester Dress",
+    "parent_id": "5114",
+    "notes": "https://www.flipkart.com/sheetal-associates-top-palazzos-co-ords-set/p/itmb0de765a12afd?pid=DREGQGNY8RHWFENT&marketplace=FLIPKART&lid=LSTDREGQGNY8RHWFENT7Q1UP3&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-DREGQGNY8RHWFENT",
+    "path": "../../sources/pid-DREGQGNY8RHWFENT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/sheetal-associates-top-palazzos-co-ords-set/p/itmb0de765a12afd?pid=DREGQGNY8RHWFENT&marketplace=FLIPKART&lid=LSTDREGQGNY8RHWFENT7Q1UP3&swatchAttr=size",
+    "scraped_at": "2026-08-12T08:43:22.351Z",
+    "final_url": "https://www.flipkart.com/sheetal-associates-top-palazzos-co-ords-set/p/itmb0de765a12afd?pid=DREGQGNY8RHWFENT&marketplace=FLIPKART&lid=LSTDREGQGNY8RHWFENT7Q1UP3&swatchAttr=size"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:43:28.804Z"
+  },
+  "content": {
+    "title": "Sheetal Associates Top Palazzos Co-ords Set",
+    "short_description": "Buy Sheetal Associates Top Palazzos Co-ords Set for Rs.1999.0 online. Sheetal Associates Top Palazzos Co-ords Set at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "description": "Buy Sheetal Associates Top Palazzos Co-ords Set for Rs.1999.0 online. Sheetal Associates Top Palazzos Co-ords Set at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3cd5c2654e36c4ce21979bba",
+      "path": "media/images/3cd5c2654e36c4ce21979bba/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/6/z/c/m-20041-sheetal-associates-original-imagqgny7fcuuhte.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/6/z/c/m-20041-sheetal-associates-original-imagqgny7fcuuhte.jpeg?q=100",
+        "local_path": "../../media/images/3cd5c2654e36c4ce21979bba/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/o/n/m-20041-sheetal-associates-original-imagqgnyvedyhg4z.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/o/n/m-20041-sheetal-associates-original-imagqgnyvedyhg4z.jpeg?q=100",
+        "local_path": "../../media/images/3cd5c2654e36c4ce21979bba/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/i/m/4/m-20041-sheetal-associates-original-imagqgnywhagzcpz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/i/m/4/m-20041-sheetal-associates-original-imagqgnywhagzcpz.jpeg?q=100",
+        "local_path": "../../media/images/3cd5c2654e36c4ce21979bba/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/l/d/0/m-20041-sheetal-associates-original-imagqjnyfgskxf8b.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/l/d/0/m-20041-sheetal-associates-original-imagqjnyfgskxf8b.jpeg?q=100",
+        "local_path": "../../media/images/3cd5c2654e36c4ce21979bba/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/5/r/v/m-20041-sheetal-associates-original-imagqjnyxebxtsyf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/5/r/v/m-20041-sheetal-associates-original-imagqjnyxebxtsyf.jpeg?q=100",
+        "local_path": "../../media/images/3cd5c2654e36c4ce21979bba/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Sheetal Associates Top Palazzos Co-ords Set",
+      "description": "Buy Sheetal Associates Top Palazzos Co-ords Set for Rs.1999.0 online. Sheetal Associates Top Palazzos Co-ords Set at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/6/z/c/m-20041-sheetal-associates-original-imagqgny7fcuuhte.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/o/n/m-20041-sheetal-associates-original-imagqgnyvedyhg4z.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/i/m/4/m-20041-sheetal-associates-original-imagqgnywhagzcpz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/l/d/0/m-20041-sheetal-associates-original-imagqjnyfgskxf8b.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/5/r/v/m-20041-sheetal-associates-original-imagqjnyxebxtsyf.jpeg?q=70"
+      ],
+      "sku": "DREGQGNY8RHWFENT",
+      "category": "apparel_set",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 95,
+        "ratingCount": 1526,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Sheetal Associates",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 320,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-08-07",
+          "reviewBody": "Everything is perfect.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "SIMA Roy",
+            "@type": "Person"
+          },
+          "datePublished": "2023-07-17",
+          "reviewBody": "Sooo stylish🥰",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Smaranika Bag",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-05",
+          "reviewBody": "It's just perfect fit for me..",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

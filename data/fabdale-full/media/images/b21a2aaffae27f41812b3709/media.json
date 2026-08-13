@@ -1,0 +1,23 @@
+{
+  "key": "b21a2aaffae27f41812b3709",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:41:40.728Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/v/q/n/yes-2-m-unstitched-2-2-m-inithi-d-1540-inithi-original-imaggvzwbxkhfhdh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/v/q/n/yes-2-m-unstitched-2-2-m-inithi-d-1540-inithi-original-imaggvzwbxkhfhdh.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/6/8/q/yes-2-m-unstitched-2-2-m-inithi-d-1540-inithi-original-imaggvzwheku9738.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/6/8/q/yes-2-m-unstitched-2-2-m-inithi-d-1540-inithi-original-imaggvzwheku9738.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

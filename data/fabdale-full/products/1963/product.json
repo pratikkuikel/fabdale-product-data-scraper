@@ -1,0 +1,187 @@
+{
+  "product_id": "1963",
+  "sku": "Fab-Shirt-METR-005CF-XXL",
+  "product": {
+    "name": "Metronex Viscose Rayon Shirt",
+    "parent_id": "5258",
+    "notes": "https://www.flipkart.com/metronaut-men-printed-casual-multicolor-shirt/p/itm2e7522fff1890?pid=SHTGZ9RTKWDFS6B9&marketplace=FLIPKART&lid=LSTSHTGZ9RTKWDFS6B9HZNVWF&swatchAttr=size&pageUID=1773309153613"
+  },
+  "source_bundle": {
+    "key": "pid-SHTGZ9RTKWDFS6B9",
+    "path": "../../sources/pid-SHTGZ9RTKWDFS6B9/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-printed-casual-multicolor-shirt/p/itm2e7522fff1890?pid=SHTGZ9RTKWDFS6B9&marketplace=FLIPKART&lid=LSTSHTGZ9RTKWDFS6B9HZNVWF&swatchAttr=size&pageUID=1773309153613",
+    "scraped_at": "2026-08-13T07:57:48.088Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-printed-casual-multicolor-shirt/p/itm2e7522fff1890?pid=SHTGZ9RTKWDFS6B9&marketplace=FLIPKART&lid=LSTSHTGZ9RTKWDFS6B9HZNVWF&swatchAttr=size&pageUID=1773309153613"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:57:54.637Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Printed Casual Multicolor Shirt",
+    "short_description": "METRONAUT Men Printed Casual Multicolor Shirt - Buy METRONAUT Men Printed Casual Multicolor Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "METRONAUT Men Printed Casual Multicolor Shirt - Buy METRONAUT Men Printed Casual Multicolor Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b99654d9174c79d6142e6e77",
+      "path": "media/images/b99654d9174c79d6142e6e77/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/l/g/l-mhs-101-cofee-metronaut-original-imahbkchnt49zwbn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/l/g/l-mhs-101-cofee-metronaut-original-imahbkchnt49zwbn.jpeg?q=100",
+        "local_path": "../../media/images/b99654d9174c79d6142e6e77/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/5/6/l-mhs-101-cofee-metronaut-original-imahbkchwa4e29ht.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/5/6/l-mhs-101-cofee-metronaut-original-imahbkchwa4e29ht.jpeg?q=100",
+        "local_path": "../../media/images/b99654d9174c79d6142e6e77/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/1/o/l-mhs-101-cofee-metronaut-original-imahbkchwp2yhymy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/1/o/l-mhs-101-cofee-metronaut-original-imahbkchwp2yhymy.jpeg?q=100",
+        "local_path": "../../media/images/b99654d9174c79d6142e6e77/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/1/q/l-mhs-101-cofee-metronaut-original-imahbkchergdep4x.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/1/q/l-mhs-101-cofee-metronaut-original-imahbkchergdep4x.jpeg?q=100",
+        "local_path": "../../media/images/b99654d9174c79d6142e6e77/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/o/g/xl-mhs-101-cofee-metronaut-original-imahbkcqp65f7puf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/o/g/xl-mhs-101-cofee-metronaut-original-imahbkcqp65f7puf.jpeg?q=100",
+        "local_path": "../../media/images/b99654d9174c79d6142e6e77/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Printed Casual Multicolor Shirt",
+      "description": "METRONAUT Men Printed Casual Multicolor Shirt - Buy METRONAUT Men Printed Casual Multicolor Shirt For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/o/l/g/l-mhs-101-cofee-metronaut-original-imahbkchnt49zwbn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/z/5/6/l-mhs-101-cofee-metronaut-original-imahbkchwa4e29ht.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/b/1/o/l-mhs-101-cofee-metronaut-original-imahbkchwp2yhymy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/v/1/q/l-mhs-101-cofee-metronaut-original-imahbkchergdep4x.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/0/o/g/xl-mhs-101-cofee-metronaut-original-imahbkcqp65f7puf.jpeg?q=70"
+      ],
+      "sku": "SHTGZ9RTKWDFS6B9",
+      "color": "Cofee",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 179,
+        "ratingCount": 4287,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 257,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-04",
+          "reviewBody": "Good product for summer 🌞🌞",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Ranjay Kumar Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-12",
+          "reviewBody": "Super",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Sakaldeep kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-14",
+          "reviewBody": "Very good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

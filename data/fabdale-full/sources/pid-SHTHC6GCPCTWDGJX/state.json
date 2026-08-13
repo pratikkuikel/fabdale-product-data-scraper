@@ -1,0 +1,18 @@
+{
+  "source_key": "pid-SHTHC6GCPCTWDGJX",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "2029",
+    "2030",
+    "2033",
+    "5264"
+  ],
+  "source_path": "sources/pid-SHTHC6GCPCTWDGJX/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T08:03:21.634Z",
+  "completed_at": "2026-08-13T08:03:39.597Z"
+}

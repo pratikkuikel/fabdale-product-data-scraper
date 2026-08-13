@@ -1,0 +1,227 @@
+{
+  "product_id": "484",
+  "sku": "Fab-Saree-SMH-007RD",
+  "product": {
+    "name": "Sharini Chiffon & Georgette Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/samah-dyed-embellished-bollywood-chiffon-georgette-saree/p/itm8edf1a3b7d47b?pid=SARHFDRVRDVSHGNQ&lid=LSTSARHFDRVRDVSHGNQM9S9MG&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SARHFDRVRDVSHGNQ",
+    "path": "../../sources/pid-SARHFDRVRDVSHGNQ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/samah-dyed-embellished-bollywood-chiffon-georgette-saree/p/itm8edf1a3b7d47b?pid=SARHFDRVRDVSHGNQ&lid=LSTSARHFDRVRDVSHGNQM9S9MG&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:18:25.264Z",
+    "final_url": "https://www.flipkart.com/samah-dyed-embellished-bollywood-chiffon-georgette-saree/p/itm8edf1a3b7d47b?pid=SARHFDRVRDVSHGNQ&lid=LSTSARHFDRVRDVSHGNQM9S9MG&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:18:36.014Z"
+  },
+  "content": {
+    "title": "Samah Dyed, Embellished Bollywood Chiffon, Georgette Saree",
+    "short_description": "Fabric: Chiffon, Georgette\nPattern: Dyed, Embellished\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Construction Type\nGeorgette Dyed & Lace & Tassels Dark Red Color Saree With Blouse Piece\n\nOther Details\nThis saree from the house of samah is made from georgette and is dark red in color. Samah ethnic sarees comes with blouse piece,which can be stitched according to your taste and preference.This saree is crafted by skill craftsmen without compromising on its quality.With this beautiful design and fabric, this saree will fetch you oodles of compliments and praise. Saree fit size is 5.30Mtr saree & 0.80Mtr blouse, free size .\n\nTrend\nGeometric Print, Geometrical Pattern, Printed Georgette Sarees, Summer Georgette, Summer Chiffon, Contemporary, Contemporary collection, Day Festive, Everyday Casual, Fancy Border, Festive Look, Heavy Designer Look, Occasional Sari/Party Sari, Office Look, Traditional collection, Urban Designs, Wedding Look\n\nDimensions\nSari Length5.3mBlouse Piece Length0.8 mWeight0.445 kg",
+    "specifications": {
+      "Pattern": "Dyed, Embellished",
+      "Fabric": "Chiffon, Georgette",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "392e9ac8f3cfd73f2b2ff235",
+      "path": "media/images/392e9ac8f3cfd73f2b2ff235/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "71718cebb1fc7f2a49966fbe",
+      "path": "media/videos/71718cebb1fc7f2a49966fbe/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/9/z/free-3736s2631-samah-unstitched-original-imah8cqhscfgybsp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/9/z/free-3736s2631-samah-unstitched-original-imah8cqhscfgybsp.jpeg?q=100",
+        "local_path": "../../media/images/392e9ac8f3cfd73f2b2ff235/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/e/4/i/free-3736s2631-samah-unstitched-original-imah8cqhhsahekvx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/e/4/i/free-3736s2631-samah-unstitched-original-imah8cqhhsahekvx.jpeg?q=100",
+        "local_path": "../../media/images/392e9ac8f3cfd73f2b2ff235/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/o/4/free-3736s2631-samah-unstitched-original-imah8cqh7gjhmrud.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/o/4/free-3736s2631-samah-unstitched-original-imah8cqh7gjhmrud.jpeg?q=100",
+        "local_path": "../../media/images/392e9ac8f3cfd73f2b2ff235/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/y/t/free-3736s2631-samah-unstitched-original-imah8cqhdq8a92he.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/y/t/free-3736s2631-samah-unstitched-original-imah8cqhdq8a92he.jpeg?q=100",
+        "local_path": "../../media/images/392e9ac8f3cfd73f2b2ff235/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/1/z/f/free-rukmani-black-jahal-fashion-unstitched-original-imah2n3fyjk3qqh2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/1/z/f/free-rukmani-black-jahal-fashion-unstitched-original-imah2n3fyjk3qqh2.jpeg?q=100",
+        "local_path": "../../media/images/392e9ac8f3cfd73f2b2ff235/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNR7pNrI1RSaOCmjskHE0zTg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Samah Dyed, Embellished Bollywood Chiffon, Georgette Saree",
+      "description": "Samah Dyed, Embellished Bollywood Chiffon, Georgette Saree - Buy Samah Dyed, Embellished Bollywood Chiffon, Georgette Saree For Only Rs. 2674.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/9/z/free-3736s2631-samah-unstitched-original-imah8cqhscfgybsp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/e/4/i/free-3736s2631-samah-unstitched-original-imah8cqhhsahekvx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/o/4/free-3736s2631-samah-unstitched-original-imah8cqh7gjhmrud.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/y/t/free-3736s2631-samah-unstitched-original-imah8cqhdq8a92he.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/1/z/f/free-rukmani-black-jahal-fashion-unstitched-original-imah2n3fyjk3qqh2.jpeg?q=70"
+      ],
+      "sku": "SARHFDRVRDVSHGNQ",
+      "color": "Dark Red",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 17,
+        "ratingCount": 223,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Samah",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 448,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Ruchisri Panigrahi",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-03",
+          "reviewBody": "The black georgette fabric drapes beautifully, creating a flowing silhouette. The black and golden lace adds a subtle yet striking contrast, elevating the overall design. The combination of textures and colors creates a sophisticated and eye-catching look, perfect for formal occasions or special events.\nValue for money",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Rajesh  Rathore",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-28",
+          "reviewBody": "It's very nice for daily used.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "priyanka mahajan",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-30",
+          "reviewBody": "The sareeee is just wow😍 .....looks really great ....The saree is of good quality material. Length is perfect. The border is minimal and of good quality. Very soft and comfortable and easy to handle.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Construction Type",
+          "body": "Georgette Dyed & Lace & Tassels Dark Red Color Saree With Blouse Piece"
+        },
+        {
+          "heading": "Other Details",
+          "body": "This saree from the house of samah is made from georgette and is dark red in color. Samah ethnic sarees comes with blouse piece,which can be stitched according to your taste and preference.This saree is crafted by skill craftsmen without compromising on its quality.With this beautiful design and fabric, this saree will fetch you oodles of compliments and praise. Saree fit size is 5.30Mtr saree & 0.80Mtr blouse, free size ."
+        },
+        {
+          "heading": "Trend",
+          "body": "Geometric Print, Geometrical Pattern, Printed Georgette Sarees, Summer Georgette, Summer Chiffon, Contemporary, Contemporary collection, Day Festive, Everyday Casual, Fancy Border, Festive Look, Heavy Designer Look, Occasional Sari/Party Sari, Office Look, Traditional collection, Urban Designs, Wedding Look"
+        },
+        {
+          "heading": "Dimensions",
+          "body": "Sari Length5.3mBlouse Piece Length0.8 mWeight0.445 kg"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Dyed, Embellished",
+        "Fabric": "Chiffon, Georgette",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

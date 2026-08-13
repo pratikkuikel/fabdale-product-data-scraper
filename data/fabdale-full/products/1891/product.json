@@ -1,0 +1,209 @@
+{
+  "product_id": "1891",
+  "sku": "Fab-Lehenga-PRVJ-014BL",
+  "product": {
+    "name": "Purvika With Pink Shawl Lehenga Choli",
+    "parent_id": "5317",
+    "notes": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itm2d39c86abb046?pid=LCHGQANUFNDTFXU3&lid=LSTLCHGQANUFNDTFXU3ZFSALC&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-LCHGQANUFNDTFXU3",
+    "path": "../../sources/pid-LCHGQANUFNDTFXU3/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itm2d39c86abb046?pid=LCHGQANUFNDTFXU3&lid=LSTLCHGQANUFNDTFXU3ZFSALC&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:49:30.710Z",
+    "final_url": "https://www.flipkart.com/purvaja-self-design-semi-stitched-lehenga-choli/p/itm2d39c86abb046?pid=LCHGQANUFNDTFXU3&lid=LSTLCHGQANUFNDTFXU3ZFSALC&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:49:45.008Z"
+  },
+  "content": {
+    "title": "PURVAJA Self Design Semi Stitched Lehenga Choli (Dark Blue)",
+    "short_description": "Color: Dark Blue\nPattern: Self Design\nType: Lehenga Choli\nLehenga Fabric: Art Silk\nCholi Fabric: Jacquard\nDupatta Fabric: Art Silk\nStitching Type: Semi Stitched\nSales Package: (1, Lehengha 1, Blouse 1, Dupatta)",
+    "description": "Dimensions\nBlouse Length1 mDupatta Length2 m - 2.5 m\n\nLehenga Choli Details\nLehenga FabricArt SilkCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckV-NeckSleeveSleevelessEmbroideredNoWorkZari WorkLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package(1, Lehengha 1, Blouse 1, Dupatta)Blouse PatternEmbellishedBlouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkZari WorkBust Size42 inchColorDark BlueBrand ColorNavy BlueDupatta PatternEmbellishedDupatta WorkZari WorkLehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSecondary ColorPinkSizeFreeTrendHeavy Kali Work",
+    "specifications": {
+      "Lehenga Fabric": "Art Silk",
+      "Choli Fabric": "Jacquard",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Art Silk",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Self Design",
+      "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+      "Color": "Dark Blue"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bf5a313e00ce86ba4964fb4b",
+      "path": "media/images/bf5a313e00ce86ba4964fb4b/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/u/s/u/free-sleeveless-kasish-purvaja-original-imagqantztfnjbjw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/u/s/u/free-sleeveless-kasish-purvaja-original-imagqantztfnjbjw.jpeg?q=100",
+        "local_path": "../../media/images/bf5a313e00ce86ba4964fb4b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/q/z/h/free-sleeveless-kasish-purvaja-original-imagqantttzygqzb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/q/z/h/free-sleeveless-kasish-purvaja-original-imagqantttzygqzb.jpeg?q=100",
+        "local_path": "../../media/images/bf5a313e00ce86ba4964fb4b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/y/j/d/free-sleeveless-kasish-purvaja-original-imagqantrzaet7zu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/y/j/d/free-sleeveless-kasish-purvaja-original-imagqantrzaet7zu.jpeg?q=100",
+        "local_path": "../../media/images/bf5a313e00ce86ba4964fb4b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/y/7/m/free-sleeveless-kasish-purvaja-original-imagqantgfzdtrcw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/y/7/m/free-sleeveless-kasish-purvaja-original-imagqantgfzdtrcw.jpeg?q=100",
+        "local_path": "../../media/images/bf5a313e00ce86ba4964fb4b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/g/c/4/free-sleeveless-kasish-purvaja-original-imagqantqyadtwj7.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/lehenga-choli/g/c/4/free-sleeveless-kasish-purvaja-original-imagqantqyadtwj7.jpeg?q=100",
+        "local_path": "../../media/images/bf5a313e00ce86ba4964fb4b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/g/t/u/free-short-sleeve-hira-purvaja-original-imahm353fpnpjgaz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/g/t/u/free-short-sleeve-hira-purvaja-original-imahm353fpnpjgaz.jpeg?q=100",
+        "local_path": "../../media/images/bf5a313e00ce86ba4964fb4b/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/e/4/u/free-short-sleeve-hira-purvaja-original-imahftqeg3wxbues.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/e/4/u/free-short-sleeve-hira-purvaja-original-imahftqeg3wxbues.jpeg?q=100",
+        "local_path": "../../media/images/bf5a313e00ce86ba4964fb4b/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/t/c/o/free-short-sleeve-hira-purvaja-original-imahm353dfjhhca2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/t/c/o/free-short-sleeve-hira-purvaja-original-imahm353dfjhhca2.jpeg?q=100",
+        "local_path": "../../media/images/bf5a313e00ce86ba4964fb4b/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/z/d/2/free-3-4-sleeve-nadira-purvaja-original-imahm38uxbhscrru.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/z/d/2/free-3-4-sleeve-nadira-purvaja-original-imahm38uxbhscrru.jpeg?q=100",
+        "local_path": "../../media/images/bf5a313e00ce86ba4964fb4b/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/w/n/l/free-sleeveless-saaya-purvaja-original-imahm48fwshmf27r.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/w/n/l/free-sleeveless-saaya-purvaja-original-imahm48fwshmf27r.jpeg?q=100",
+        "local_path": "../../media/images/bf5a313e00ce86ba4964fb4b/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/h/l/l/free-sleeveless-rifat-purvaja-original-imah4ju3z4rdfhta.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/h/l/l/free-sleeveless-rifat-purvaja-original-imah4ju3z4rdfhta.jpeg?q=100",
+        "local_path": "../../media/images/bf5a313e00ce86ba4964fb4b/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/l/t/a/free-half-sleeve-lehenga-d3-semore-original-imagtkjfshmth5jy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/l/t/a/free-half-sleeve-lehenga-d3-semore-original-imagtkjfshmth5jy.jpeg?q=100",
+        "local_path": "../../media/images/bf5a313e00ce86ba4964fb4b/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/b/i/q/free-sleeveless-chahat-purvaja-original-imagqaqpy9hwymqj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/lehenga-choli/b/i/q/free-sleeveless-chahat-purvaja-original-imagqaqpy9hwymqj.jpeg?q=100",
+        "local_path": "../../media/images/bf5a313e00ce86ba4964fb4b/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Dimensions",
+          "body": "Blouse Length1 mDupatta Length2 m - 2.5 m"
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricArt SilkCholi FabricJacquardTypeLehenga CholiDupatta FabricArt SilkNeckV-NeckSleeveSleevelessEmbroideredNoWorkZari WorkLining TypeSantoonDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package(1, Lehengha 1, Blouse 1, Dupatta)Blouse PatternEmbellishedBlouse Stitch TypeUnstitched BlouseBlouse TypeDesignerBlouse WorkZari WorkBust Size42 inchColorDark BlueBrand ColorNavy BlueDupatta PatternEmbellishedDupatta WorkZari WorkLehenga ClosureSide ZipperLehenga ShapeCircular/FlaredSecondary ColorPinkSizeFreeTrendHeavy Kali Work"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Art Silk",
+        "Choli Fabric": "Jacquard",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Self Design",
+        "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+        "Color": "Dark Blue"
+      },
+      "specifications": {
+        "Dimensions": "Blouse Length1 mDupatta Length2 m - 2.5 m",
+        "Blouse Length1 m": "Dupatta Length2 m - 2.5 m",
+        "Blouse Length": "1 m",
+        "Dupatta Length": "2 m - 2.5 m",
+        "Additional Details": "1 Lehengha 1 Blouse 1 Dupatta",
+        "Fabric Care": "Hand wash cold",
+        "Brand": "PURVAJA",
+        "Ideal For": "Women",
+        "Occasion": "Wedding & Festive",
+        "Lehenga Fabric": "Art Silk",
+        "Choli Fabric": "Jacquard",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Art Silk",
+        "Neck": "V-Neck",
+        "Sleeve": "Sleeveless",
+        "Embroidered": "No",
+        "Work": "Zari Work",
+        "Lining Type": "Santoon",
+        "Dupatta": "Yes",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Self Design",
+        "Sales Package": "(1, Lehengha 1, Blouse 1, Dupatta)",
+        "Blouse Pattern": "Embellished",
+        "Blouse Stitch Type": "Unstitched Blouse",
+        "Blouse Type": "Designer",
+        "Blouse Work": "Zari Work",
+        "Bust Size": "42 inch",
+        "Color": "Dark Blue",
+        "Brand Color": "Navy Blue",
+        "Dupatta Pattern": "Embellished",
+        "Dupatta Work": "Zari Work",
+        "Lehenga Closure": "Side Zipper",
+        "Lehenga Shape": "Circular/Flared",
+        "Secondary Color": "Pink",
+        "Size": "Free",
+        "Trend": "Heavy Kali Work"
+      }
+    }
+  }
+}

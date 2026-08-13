@@ -1,0 +1,212 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/yashika-floral-print-bollywood-tussar-silk-saree/p/itmc7a3ab9c0412e?pid=SARGXVVQ4DGZZPEJ&lid=LSTSARGXVVQ4DGZZPEJRGQQR2&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:27:12.886Z",
+    "final_url": "https://www.flipkart.com/yashika-floral-print-bollywood-tussar-silk-saree/p/itmc7a3ab9c0412e?pid=SARGXVVQ4DGZZPEJ&lid=LSTSARGXVVQ4DGZZPEJRGQQR2&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 7,
+    "completed_at": "2026-08-12T10:27:24.271Z"
+  },
+  "content": {
+    "title": "YASHIKA Floral Print Bollywood Tussar Silk Saree",
+    "short_description": "Fabric: Tussar Silk\nPattern: Floral Print\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Floral Print Design\nAdorned with a stunning floral print design, this saree showcases the beauty of nature in all its gl…\n\nUnstitched Blouse Piece\nWith the inclusion of an unstitched blouse piece, this saree offers you the freedom to create a pers…\n\nLuxurious Tussar Silk Fabric\nCrafted from high-quality tussar silk fabric, this saree offers a luxurious feel and a graceful drap…",
+    "specifications": {
+      "Pattern": "Floral Print",
+      "Fabric": "Tussar Silk",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/p/c/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgrhjrupqkt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/p/c/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgrhjrupqkt.jpeg?q=100",
+        "local_path": "../../media/images/e3fed978e771574890076d9c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/9/4/i/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgrtz56uaqg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/9/4/i/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgrtz56uaqg.jpeg?q=100",
+        "local_path": "../../media/images/e3fed978e771574890076d9c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/m/f/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgracgva7gv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/m/f/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgracgva7gv.jpeg?q=100",
+        "local_path": "../../media/images/e3fed978e771574890076d9c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/y/3/e/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgr5wpyxuvr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/y/3/e/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgr5wpyxuvr.jpeg?q=100",
+        "local_path": "../../media/images/e3fed978e771574890076d9c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/k/a/a/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgrrtqqzh3f.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/k/a/a/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgrrtqqzh3f.jpeg?q=100",
+        "local_path": "../../media/images/e3fed978e771574890076d9c/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNiaKOeHW7QT-XtasHzCt_AA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "YASHIKA Floral Print Bollywood Tussar Silk Saree",
+      "description": "YASHIKA Floral Print Bollywood Tussar Silk Saree - Buy YASHIKA Floral Print Bollywood Tussar Silk Saree For Only Rs. 2599.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/p/c/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgrhjrupqkt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/9/4/i/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgrtz56uaqg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/m/f/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgracgva7gv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/y/3/e/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgr5wpyxuvr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/k/a/a/free-dvs-utisha-pista-divastri-unstitched-original-imahfvgrrtqqzh3f.jpeg?q=70"
+      ],
+      "sku": "SARGXVVQ4DGZZPEJ",
+      "color": "FK-YS-P3-UTISHA PISTA-Green",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 121,
+        "ratingCount": 1710,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "YASHIKA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 367,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Omkar Upadhyay",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-07",
+          "reviewBody": "Astounding quality saree. Very comfortable and lightweight. Perfect for summers. Fabric quality is top notch. Loved it.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Nikunj Dudharejiya",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-16",
+          "reviewBody": "it's a really good saree with quality material.. my wife really loved it so much. The colour is also decent and unique..",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Priya .",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-02",
+          "reviewBody": "Very beatuiful saree ,very light weight easy to cary and comfortable looking so nice .",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Floral Print Design",
+          "body": "Adorned with a stunning floral print design, this saree showcases the beauty of nature in all its gl…"
+        },
+        {
+          "heading": "Unstitched Blouse Piece",
+          "body": "With the inclusion of an unstitched blouse piece, this saree offers you the freedom to create a pers…"
+        },
+        {
+          "heading": "Luxurious Tussar Silk Fabric",
+          "body": "Crafted from high-quality tussar silk fabric, this saree offers a luxurious feel and a graceful drap…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Floral Print",
+        "Fabric": "Tussar Silk",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e3fed978e771574890076d9c",
+      "path": "media/images/e3fed978e771574890076d9c/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "b12738bfeb720e86bdb9456b",
+      "path": "media/videos/b12738bfeb720e86bdb9456b/media.json",
+      "reused": false
+    }
+  }
+}

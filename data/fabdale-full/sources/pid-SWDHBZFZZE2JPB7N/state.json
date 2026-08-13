@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SWDHBZFZZE2JPB7N",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "897"
+  ],
+  "source_path": "sources/pid-SWDHBZFZZE2JPB7N/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:07:19.966Z",
+  "completed_at": "2026-08-12T11:07:26.481Z"
+}

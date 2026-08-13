@@ -1,0 +1,44 @@
+{
+  "key": "a18c49622ca98b7b32344746",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:35:58.458Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/5/k/l/free-half-sleeve-patola-fabcartz-original-imah4qpa2ghxg9kk.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/5/k/l/free-half-sleeve-patola-fabcartz-original-imah4qpa2ghxg9kk.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/q/k/j/free-half-sleeve-patola-fabcartz-original-imah4qpa7tpnj2zc.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/q/k/j/free-half-sleeve-patola-fabcartz-original-imah4qpa7tpnj2zc.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/4/3/free-half-sleeve-patola-myntra-fabcartz-original-imah4qpcmxxzbqtw.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/4/3/free-half-sleeve-patola-myntra-fabcartz-original-imah4qpcmxxzbqtw.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/1/9/w/free-half-sleeve-patola-myntra-fabcartz-original-imah4qpc5eskvbvb.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/1/9/w/free-half-sleeve-patola-myntra-fabcartz-original-imah4qpc5eskvbvb.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/e/2/h/free-half-sleeve-patola-myntra-fabcartz-original-imah4qpcpphrftff.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/e/2/h/free-half-sleeve-patola-myntra-fabcartz-original-imah4qpcpphrftff.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

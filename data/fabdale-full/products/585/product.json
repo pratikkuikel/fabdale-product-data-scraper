@@ -1,0 +1,145 @@
+{
+  "product_id": "585",
+  "sku": "Fab-Drsmtl-KRSN-028WH",
+  "product": {
+    "name": "Kala Sutra Cotton Salwar Suit Material",
+    "parent_id": "5334",
+    "notes": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmfe8a44993d0cf?pid=FABHBTGDGZRT2Z45&lid=LSTFABHBTGDGZRT2Z45ATTKOJ&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-FABHBTGDGZRT2Z45",
+    "path": "../../sources/pid-FABHBTGDGZRT2Z45/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmfe8a44993d0cf?pid=FABHBTGDGZRT2Z45&lid=LSTFABHBTGDGZRT2Z45ATTKOJ&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:36:44.554Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmfe8a44993d0cf?pid=FABHBTGDGZRT2Z45&lid=LSTFABHBTGDGZRT2Z45ATTKOJ&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:36:53.036Z"
+  },
+  "content": {
+    "title": "krishna boutique Unstitched Pure Cotton Salwar Suit Material Printed",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupattta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Model Name\nUnstitched Pure Cotton Salwar Suit Material Printed",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupattta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "991f0afc4ccc6c0a2eb7316e",
+      "path": "media/images/991f0afc4ccc6c0a2eb7316e/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/q/k/v/yes-2-5-m-unstitched-2-2-m-purpal1-krishna-boutique-original-imahfrcz4m5rxtug.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/q/k/v/yes-2-5-m-unstitched-2-2-m-purpal1-krishna-boutique-original-imahfrcz4m5rxtug.jpeg?q=100",
+        "local_path": "../../media/images/991f0afc4ccc6c0a2eb7316e/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7abfd64051934269842597d6f5faa109.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7abfd64051934269842597d6f5faa109.jpg?q=80",
+        "local_path": "../../media/images/991f0afc4ccc6c0a2eb7316e/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/z/u/m/yes-2-5-m-unstitched-2-5-m-d-suit-b254-drashti-creation-resized-original-imahgvnngyfzzqfy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/z/u/m/yes-2-5-m-unstitched-2-5-m-d-suit-b254-drashti-creation-resized-original-imahgvnngyfzzqfy.jpeg?q=100",
+        "local_path": "../../media/images/991f0afc4ccc6c0a2eb7316e/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/h/9/f/yes-2-5-m-unstitched-2-2-m-purpal1-krishna-boutique-original-imahnjavvqncpy9z.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/h/9/f/yes-2-5-m-unstitched-2-2-m-purpal1-krishna-boutique-original-imahnjavvqncpy9z.jpeg?q=100",
+        "local_path": "../../media/images/991f0afc4ccc6c0a2eb7316e/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/u/q/x/no-3-m-unstitched-na-pink-flower-3-meter-iqra-faishon-original-imahprmcmsq8da2n.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/u/q/x/no-3-m-unstitched-na-pink-flower-3-meter-iqra-faishon-original-imahprmcmsq8da2n.jpeg?q=100",
+        "local_path": "../../media/images/991f0afc4ccc6c0a2eb7316e/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/j/r/a/yes-2-10m-unstitched-2-5-m-green-olivia-original-imaghrbyghqa9uau.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/j/r/a/yes-2-10m-unstitched-2-5-m-green-olivia-original-imaghrbyghqa9uau.jpeg?q=100",
+        "local_path": "../../media/images/991f0afc4ccc6c0a2eb7316e/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/l/4/m/yes-2-35-m-unstitched-2-m-2-5-m-45876-reet-mahal-original-imahzykavhkxccgy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/l/4/m/yes-2-35-m-unstitched-2-m-2-5-m-45876-reet-mahal-original-imahzykavhkxccgy.jpeg?q=100",
+        "local_path": "../../media/images/991f0afc4ccc6c0a2eb7316e/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/k/b/i/yes-2-2-m-unstitched-2-2-m-gnx-50132-rudraa-fab-original-imahh8s8fzgp3qxz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/k/b/i/yes-2-2-m-unstitched-2-2-m-gnx-50132-rudraa-fab-original-imahh8s8fzgp3qxz.jpeg?q=100",
+        "local_path": "../../media/images/991f0afc4ccc6c0a2eb7316e/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/0/y/u/yes-2-5-m-unstitched-2-m-2-5-m-rm-eliza-shriradheshyam-original-imahnhf7j3mtagsz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/0/y/u/yes-2-5-m-unstitched-2-m-2-5-m-rm-eliza-shriradheshyam-original-imahnhf7j3mtagsz.jpeg?q=100",
+        "local_path": "../../media/images/991f0afc4ccc6c0a2eb7316e/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/i/a/w/yes-2-5-m-unstitched-2-m-2-5-m-satin-cotton-bandhani-dress-original-imahgvmfz4vyqy7d.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/i/a/w/yes-2-5-m-unstitched-2-m-2-5-m-satin-cotton-bandhani-dress-original-imahgvmfz4vyqy7d.jpeg?q=100",
+        "local_path": "../../media/images/991f0afc4ccc6c0a2eb7316e/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Model Name",
+          "body": "Unstitched Pure Cotton Salwar Suit Material Printed"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupattta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  }
+}

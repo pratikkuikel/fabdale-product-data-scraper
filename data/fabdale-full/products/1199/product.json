@@ -1,0 +1,215 @@
+{
+  "product_id": "1199",
+  "sku": "Fab-Salwar-DVST-008RD-S",
+  "product": {
+    "name": "Divashree Rayon Kurta Salwar Suit Set",
+    "parent_id": "5214",
+    "notes": "https://www.flipkart.com/divastri-women-kurta-dupatta-set/p/itm6abe44ed3aecb?pid=ETHH2SUDEQRJZZYD&marketplace=FLIPKART&lid=LSTETHH2SUDEQRJZZYDSESEHK&swatchAttr=size&pageUID=1772728955081"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH2SUDEQRJZZYD",
+    "path": "../../sources/pid-ETHH2SUDEQRJZZYD/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurta-dupatta-set/p/itm6abe44ed3aecb?pid=ETHH2SUDEQRJZZYD&marketplace=FLIPKART&lid=LSTETHH2SUDEQRJZZYDSESEHK&swatchAttr=size&pageUID=1772728955081",
+    "scraped_at": "2026-08-12T11:56:08.351Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurta-dupatta-set/p/itm6abe44ed3aecb?pid=ETHH2SUDEQRJZZYD&marketplace=FLIPKART&lid=LSTETHH2SUDEQRJZZYDSESEHK&swatchAttr=size&pageUID=1772728955081"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:56:35.531Z"
+  },
+  "content": {
+    "title": "Divastri Women Kurta Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Printed\nFabricViscose Rayon: PatternPrinted",
+    "description": "In the BoxItems Included1 KURTA\nGeneralBrandDivastriFabricViscose RayonAdditional GarmentsDupattaStyle Code D919Top typeKurtaPatternPrintedColor RedBrand ColorREDIdeal ForWomenSizeS RegularSleeve LengthSleeveless",
+    "specifications": {
+      "FabricViscose Rayon": "PatternPrinted",
+      "Fabric": "Viscose Rayon",
+      "Pattern": "Printed"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "29995bf7cbb2e8abf2f1f6b4",
+      "path": "media/images/29995bf7cbb2e8abf2f1f6b4/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/n/x/m-e919-the-style-story-original-imaguqrdsykzddsm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/n/x/m-e919-the-style-story-original-imaguqrdsykzddsm.jpeg?q=100",
+        "local_path": "../../media/images/29995bf7cbb2e8abf2f1f6b4/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/l/w/m-919-the-style-story-original-imagt353ht8kmrbs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/l/w/m-919-the-style-story-original-imagt353ht8kmrbs.jpeg?q=100",
+        "local_path": "../../media/images/29995bf7cbb2e8abf2f1f6b4/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/a/m/m-919-the-style-story-original-imagt3536d8yrgn5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/a/m/m-919-the-style-story-original-imagt3536d8yrgn5.jpeg?q=100",
+        "local_path": "../../media/images/29995bf7cbb2e8abf2f1f6b4/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/s/3/m-919-the-style-story-original-imagt353fewjv7nh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/s/3/m-919-the-style-story-original-imagt353fewjv7nh.jpeg?q=100",
+        "local_path": "../../media/images/29995bf7cbb2e8abf2f1f6b4/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/n/r/m-e919-the-style-story-original-imaguqrdf8qtcntz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/n/r/m-e919-the-style-story-original-imaguqrdf8qtcntz.jpeg?q=100",
+        "local_path": "../../media/images/29995bf7cbb2e8abf2f1f6b4/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Kurta Dupatta Set",
+      "description": "Divastri Women Kurta Dupatta Set - Buy Divastri Women Kurta Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/n/x/m-e919-the-style-story-original-imaguqrdsykzddsm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/l/w/m-919-the-style-story-original-imagt353ht8kmrbs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/a/m/m-919-the-style-story-original-imagt3536d8yrgn5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/s/3/m-919-the-style-story-original-imagt353fewjv7nh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/n/r/m-e919-the-style-story-original-imaguqrdf8qtcntz.jpeg?q=70"
+      ],
+      "sku": "ETHH2SUDEQRJZZYD",
+      "color": "RED",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 36,
+        "ratingCount": 565,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 618,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-11",
+          "reviewBody": "It is same as shown in images 💯 can't find anything odd in this kurta dupatta set. Go for it✨️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "garima agarwal",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-21",
+          "reviewBody": "Beautiful",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-27",
+          "reviewBody": "Amezing 😍😍 I loved it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "In the BoxItems Included1 KURTA",
+          "body": "GeneralBrandDivastriFabricViscose RayonAdditional GarmentsDupattaStyle Code D919Top typeKurtaPatternPrintedColor RedBrand ColorREDIdeal ForWomenSizeS RegularSleeve LengthSleeveless"
+        }
+      ],
+      "product_highlights": {
+        "FabricViscose Rayon": "PatternPrinted",
+        "Fabric": "Viscose Rayon",
+        "Pattern": "Printed"
+      },
+      "specifications": {
+        "In the BoxItems Included1 KURTA": "GeneralBrandDivastriFabricViscose RayonAdditional GarmentsDupattaStyle Code D919Top typeKurtaPatternPrintedColor RedBrand ColorREDIdeal ForWomenSizeS RegularSleeve LengthSleeveless",
+        "In the Box": "Items Included1 KURTA",
+        "Items Included": "1 KURTA",
+        "Brand": "Divastri",
+        "Fabric": "Viscose Rayon",
+        "Additional Garments": "Dupatta",
+        "Style Code": "D919",
+        "Top type": "Kurta",
+        "Pattern": "Printed",
+        "Color": "Red",
+        "Brand Color": "RED",
+        "Ideal For": "Women",
+        "Size": "S Regular",
+        "Sleeve Length": "Sleeveless"
+      }
+    }
+  }
+}

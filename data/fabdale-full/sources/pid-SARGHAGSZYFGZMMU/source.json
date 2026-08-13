@@ -1,0 +1,220 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/lorofy-self-design-bollywood-net-saree/p/itm44276b06cbb2f?pid=SARGHAGSZYFGZMMU&lid=LSTSARGHAGSZYFGZMMU0NMAUZ&marketplace=FLIPKART&store=clo%2F8on%2Fzpd%2F9og&srno=b_1_20&otracker=browse&fm=factBasedRecommendation%2FrecentlyViewed&iid=5e22565f-135b-44ad-a84a-090a48fa0cfb.SARGHAGSZYFGZMMU.SEARCH&ppt=browse&ppn=browse&ssid=2gp6gv3fe80000001768203819716",
+    "scraped_at": "2026-08-12T10:17:08.781Z",
+    "final_url": "https://www.flipkart.com/lorofy-self-design-bollywood-net-saree/p/itm44276b06cbb2f?pid=SARGHAGSZYFGZMMU&lid=LSTSARGHAGSZYFGZMMU0NMAUZ&marketplace=FLIPKART&store=clo%2F8on%2Fzpd%2F9og&srno=b_1_20&otracker=browse&fm=factBasedRecommendation%2FrecentlyViewed&iid=5e22565f-135b-44ad-a84a-090a48fa0cfb.SARGHAGSZYFGZMMU.SEARCH&ppt=browse&ppn=browse&ssid=2gp6gv3fe80000001768203819716"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:17:19.612Z"
+  },
+  "content": {
+    "title": "LOROFY Self Design, Embellished Bollywood Net Saree",
+    "short_description": "Fabric: Net\nPattern: Self Design, Embellished\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Ideal Party Wear\nMake sure you feel like a fashionista in this pretty saree from Lorofy. This saree will be your idea…\n\nQuality Material\nThis saree is made of Brasso net, which is a jacquard weave polyamide fabric. Its semi-opaque featur…\n\nUnstitched Blouse Piece\nThe saree comes with a matching, unstitched blouse piece to complete the look. With an embroidered p…\n\nPremium Care\nChoose dry cleaning the saree to ensure that the beads and the lace stay in place and the colour las…\n\nStyle it Right\nMake a royal addition to your traditional repertoire with this saree. Match this saree with bedazzli…",
+    "specifications": {
+      "Pattern": "Self Design, Embellished",
+      "Fabric": "Net",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/a/9/4/free-brasosari2-0-lorofy-unstitched-original-imahg8zqgfbuxq2k.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/a/9/4/free-brasosari2-0-lorofy-unstitched-original-imahg8zqgfbuxq2k.jpeg?q=100",
+        "local_path": "../../media/images/ebc0eb4e0d187cdf6508366a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/4/p/i/-original-imahjynzxffyz3f4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/4/p/i/-original-imahjynzxffyz3f4.jpeg?q=100",
+        "local_path": "../../media/images/ebc0eb4e0d187cdf6508366a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/k/i/free-brasosari2-0-lorofy-unstitched-original-imahg8zq5dqmmxzq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/k/i/free-brasosari2-0-lorofy-unstitched-original-imahg8zq5dqmmxzq.jpeg?q=100",
+        "local_path": "../../media/images/ebc0eb4e0d187cdf6508366a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/2/q/-original-imahjynztrr4fygp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/2/q/-original-imahjynztrr4fygp.jpeg?q=100",
+        "local_path": "../../media/images/ebc0eb4e0d187cdf6508366a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/a/d/b/-original-imahkycqgfgzyama.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/a/d/b/-original-imahkycqgfgzyama.jpeg?q=100",
+        "local_path": "../../media/images/ebc0eb4e0d187cdf6508366a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNd70xA1M2QmWtaWv5uOaV-w/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "LOROFY Self Design, Embellished Bollywood Net Saree",
+      "description": "LOROFY Self Design, Embellished Bollywood Net Saree - Buy LOROFY Self Design, Embellished Bollywood Net Saree For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/a/9/4/free-brasosari2-0-lorofy-unstitched-original-imahg8zqgfbuxq2k.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/4/p/i/-original-imahjynzxffyz3f4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/k/i/free-brasosari2-0-lorofy-unstitched-original-imahg8zq5dqmmxzq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/2/q/-original-imahjynztrr4fygp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/a/d/b/-original-imahkycqgfgzyama.jpeg?q=70"
+      ],
+      "sku": "SARGHAGSZYFGZMMU",
+      "color": "Yellow",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 74,
+        "ratingCount": 1735,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "LOROFY",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 249,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-07-30",
+          "reviewBody": "Osm saree very comfortable",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-01",
+          "reviewBody": "💛💛This price.... Its too good❤️✨🕊️... Value of money 💛💛💛💛",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Alaguraja ராஜா",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-18",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Ideal Party Wear",
+          "body": "Make sure you feel like a fashionista in this pretty saree from Lorofy. This saree will be your idea…"
+        },
+        {
+          "heading": "Quality Material",
+          "body": "This saree is made of Brasso net, which is a jacquard weave polyamide fabric. Its semi-opaque featur…"
+        },
+        {
+          "heading": "Unstitched Blouse Piece",
+          "body": "The saree comes with a matching, unstitched blouse piece to complete the look. With an embroidered p…"
+        },
+        {
+          "heading": "Premium Care",
+          "body": "Choose dry cleaning the saree to ensure that the beads and the lace stay in place and the colour las…"
+        },
+        {
+          "heading": "Style it Right",
+          "body": "Make a royal addition to your traditional repertoire with this saree. Match this saree with bedazzli…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Self Design, Embellished",
+        "Fabric": "Net",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ebc0eb4e0d187cdf6508366a",
+      "path": "media/images/ebc0eb4e0d187cdf6508366a/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "1399e12c12aaeab4779c162c",
+      "path": "media/videos/1399e12c12aaeab4779c162c/media.json",
+      "reused": false
+    }
+  }
+}

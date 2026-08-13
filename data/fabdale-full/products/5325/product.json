@@ -1,0 +1,202 @@
+{
+  "product_id": "5325",
+  "sku": null,
+  "product": {
+    "name": "Kala Sutra Cotton Botanical Casual Salwar Suit Material",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmc3c95b5e26710?pid=FABGX6GPHXGV3UYF&lid=LSTFABGX6GPHXGV3UYFKRNOQW&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-FABGX6GPHXGV3UYF",
+    "path": "../../sources/pid-FABGX6GPHXGV3UYF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmc3c95b5e26710?pid=FABGX6GPHXGV3UYF&lid=LSTFABGX6GPHXGV3UYFKRNOQW&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:32:55.269Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmc3c95b5e26710?pid=FABGX6GPHXGV3UYF&lid=LSTFABGX6GPHXGV3UYFKRNOQW&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:33:01.362Z"
+  },
+  "content": {
+    "title": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupatta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.1400.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupatta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c97f592d39aa016d102a3086",
+      "path": "media/images/c97f592d39aa016d102a3086/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/n/i/x/yes-2-5-m-unstitched-2-2-m-sky-nhrr4-krishna-boutique-resized-original-imagx6gze4gz7bjg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/n/i/x/yes-2-5-m-unstitched-2-2-m-sky-nhrr4-krishna-boutique-resized-original-imagx6gze4gz7bjg.jpeg?q=100",
+        "local_path": "../../media/images/c97f592d39aa016d102a3086/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/q/a/h/yes-2-5-m-unstitched-2-2-m-sky-nhrr4-krishna-boutique-original-imagx6gz33tmgj77.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/q/a/h/yes-2-5-m-unstitched-2-2-m-sky-nhrr4-krishna-boutique-original-imagx6gz33tmgj77.jpeg?q=100",
+        "local_path": "../../media/images/c97f592d39aa016d102a3086/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+      "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.1400.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/n/i/x/yes-2-5-m-unstitched-2-2-m-sky-nhrr4-krishna-boutique-resized-original-imagx6gze4gz7bjg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/q/a/h/yes-2-5-m-unstitched-2-2-m-sky-nhrr4-krishna-boutique-original-imagx6gz33tmgj77.jpeg?q=70"
+      ],
+      "sku": "FABGX6GPHXGV3UYF",
+      "color": "pink",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 113,
+        "ratingCount": 2133,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "krishna boutique",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 434,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Astha Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-14",
+          "reviewBody": "Vry nice cloth is very soft",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-06",
+          "reviewBody": "The cloth material is so soft",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "sanskruti tiwari",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-13",
+          "reviewBody": "I ordered for my birthday, quality of material is very good. I totally liked it. 😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupatta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {
+        "Brand": "krishna boutique",
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupatta",
+        "Ideal For": "Women",
+        "Occasion": "Casual",
+        "Fabric Care": "Hand wash",
+        "Style Code": "sky nhrr4",
+        "Bottom Length": "2.20m",
+        "Dupatta Length": "2.2 m",
+        "Top Length": "2.5 m",
+        "Color": "Multicolor",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched",
+        "Print Type": "Botanical Prints",
+        "Brand Color": "pink",
+        "Dupatta": "Yes",
+        "Fabric Purity": "Pure",
+        "Model Name": "bhg sky6",
+        "Ornamentation Type": "NA",
+        "Regional Speciality": "Rajshahi",
+        "Trend": "Botanical print"
+      }
+    }
+  }
+}

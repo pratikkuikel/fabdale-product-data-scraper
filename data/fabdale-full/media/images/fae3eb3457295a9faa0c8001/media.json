@@ -1,0 +1,44 @@
+{
+  "key": "fae3eb3457295a9faa0c8001",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T15:40:20.561Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/e/h/xxl-rx27-amr-ktd-royal-export-original-imahfyrcjygpkpbg.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/e/h/xxl-rx27-amr-ktd-royal-export-original-imahfyrcjygpkpbg.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/w/j/s/s-rx027-amr-ktd-royal-export-original-imah23ydwfxnpuez.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/w/j/s/s-rx027-amr-ktd-royal-export-original-imah23ydwfxnpuez.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/l/b/t/s-rx027-amr-ktd-royal-export-original-imah23ydfqfzuqcg.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/l/b/t/s-rx027-amr-ktd-royal-export-original-imah23ydfqfzuqcg.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/7/r/l/s-rx027-amr-ktd-royal-export-original-imah23ydfkqujxth.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/7/r/l/s-rx027-amr-ktd-royal-export-original-imah23ydfkqujxth.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/z/c/s/s-rx027-amr-ktd-royal-export-original-imah23ydgpwgzgfj.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/z/c/s/s-rx027-amr-ktd-royal-export-original-imah23ydgpwgzgfj.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

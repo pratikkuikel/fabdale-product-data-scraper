@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurti-pant-dupatta-set/p/itmda7e6c866c68d?pid=ETHHYH7JEWDXSFWD&marketplace=FLIPKART&lid=LSTETHHYH7JEWDXSFWD6CMEZ6&swatchAttr=size&pageUID=1772869876692",
+    "scraped_at": "2026-08-13T07:21:16.972Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurti-pant-dupatta-set/p/itmda7e6c866c68d?pid=ETHHYH7JEWDXSFWD&marketplace=FLIPKART&lid=LSTETHHYH7JEWDXSFWD6CMEZ6&swatchAttr=size&pageUID=1772869876692"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:21:22.005Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurti Pant Dupatta Set",
+    "short_description": "Royal Export Women Kurti Pant Dupatta Set - Buy Royal Export Women Kurti Pant Dupatta Set For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Royal Export Women Kurti Pant Dupatta Set - Buy Royal Export Women Kurti Pant Dupatta Set For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/u/n/s-rx51-whitework-royal-export-resized-original-imahf28f5khe8dwg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/u/n/s-rx51-whitework-royal-export-resized-original-imahf28f5khe8dwg.jpeg?q=100",
+        "local_path": "../../media/images/20e440302fa936b6aac8f3de/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/q/o/s-rx51-whitework-royal-export-original-imahf28ft9p6xzdz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/q/o/s-rx51-whitework-royal-export-original-imahf28ft9p6xzdz.jpeg?q=100",
+        "local_path": "../../media/images/20e440302fa936b6aac8f3de/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/2/q/s-rx51-whitework-royal-export-original-imahf28fybqfmyfz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/2/q/s-rx51-whitework-royal-export-original-imahf28fybqfmyfz.jpeg?q=100",
+        "local_path": "../../media/images/20e440302fa936b6aac8f3de/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/u/b/s-rx51-whitework-royal-export-original-imahf28f3eyc6ehu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/u/b/s-rx51-whitework-royal-export-original-imahf28f3eyc6ehu.jpeg?q=100",
+        "local_path": "../../media/images/20e440302fa936b6aac8f3de/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurti Pant Dupatta Set",
+      "description": "Royal Export Women Kurti Pant Dupatta Set - Buy Royal Export Women Kurti Pant Dupatta Set For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/u/n/s-rx51-whitework-royal-export-resized-original-imahf28f5khe8dwg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/q/o/s-rx51-whitework-royal-export-original-imahf28ft9p6xzdz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/2/q/s-rx51-whitework-royal-export-original-imahf28fybqfmyfz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/u/b/s-rx51-whitework-royal-export-original-imahf28f3eyc6ehu.jpeg?q=70"
+      ],
+      "sku": "ETHHYH7JEWDXSFWD",
+      "color": "White",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 230,
+        "ratingCount": 2066,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 663,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Hemant Kasera",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-14",
+          "reviewBody": "❤Exactly what I want, I got .. so happy with fitting and fabric. Must have in your wardrobe🥰",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Tanu Patil",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-20",
+          "reviewBody": "Amazing dress quality in very affordable price,",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Karan  Kubadia ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-15",
+          "reviewBody": "Amazing quality,Combination provided is fabulous \nDesign, embroidery all is upto the mark",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "20e440302fa936b6aac8f3de",
+      "path": "media/images/20e440302fa936b6aac8f3de/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

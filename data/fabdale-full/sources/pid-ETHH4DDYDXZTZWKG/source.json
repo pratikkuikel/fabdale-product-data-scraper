@@ -1,0 +1,196 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm3d4df5599a327?pid=ETHH4DDYDXZTZWKG&marketplace=FLIPKART&lid=LSTETHH4DDYDXZTZWKGKVJ8KR&swatchAttr=size&pageUID=1772857626958",
+    "scraped_at": "2026-08-12T16:05:06.129Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm3d4df5599a327?pid=ETHH4DDYDXZTZWKG&marketplace=FLIPKART&lid=LSTETHH4DDYDXZTZWKGKVJ8KR&swatchAttr=size&pageUID=1772857626958"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T16:05:23.947Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Chanderi\nPattern: Embroidered\nFabricChanderi: PatternEmbroidered",
+    "description": "In the Box\nItems Included1 Kurta, 1 Pant, 1 Dupatta\n\nProduct Details\nNeck Round NeckFabric careHand WashOther DetailsKurta Work- Embroidered, Pant Work- Solid, Dupatta Work- Printed Work Type- Yoke Design\n\nOther Details\nKurta Work- Embroidered, Pant Work- Solid, Dupatta Work- Printed Work Type- Yoke Design",
+    "specifications": {
+      "FabricChanderi": "PatternEmbroidered",
+      "Fabric": "Chanderi",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/t/x/l-div-rx134-tamcdngyelo-divastri-original-imah4ddxhzwbkesg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/t/x/l-div-rx134-tamcdngyelo-divastri-original-imah4ddxhzwbkesg.jpeg?q=100",
+        "local_path": "../../media/images/6ff9956468a88519e15a8c7b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/q/x/l-div-rx134-tamcdngyelo-divastri-original-imah4ddxbh7q9qxa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/q/x/l-div-rx134-tamcdngyelo-divastri-original-imah4ddxbh7q9qxa.jpeg?q=100",
+        "local_path": "../../media/images/6ff9956468a88519e15a8c7b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/o/h/l-div-rx134-tamcdngyelo-divastri-original-imah4ddxspqtx9ye.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/o/h/l-div-rx134-tamcdngyelo-divastri-original-imah4ddxspqtx9ye.jpeg?q=100",
+        "local_path": "../../media/images/6ff9956468a88519e15a8c7b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/c/s/l-div-rx134-tamcdngyelo-divastri-original-imah4ddxxgvgnt2a.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/c/s/l-div-rx134-tamcdngyelo-divastri-original-imah4ddxxgvgnt2a.jpeg?q=100",
+        "local_path": "../../media/images/6ff9956468a88519e15a8c7b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/c/i/l-div-rx134-tamcdngyelo-divastri-original-imah4ddx9rnqhtdk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/c/i/l-div-rx134-tamcdngyelo-divastri-original-imah4ddx9rnqhtdk.jpeg?q=100",
+        "local_path": "../../media/images/6ff9956468a88519e15a8c7b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNw5pEsiALSm-41xGTVMdoog/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Dupatta Set",
+      "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/t/x/l-div-rx134-tamcdngyelo-divastri-original-imah4ddxhzwbkesg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/q/x/l-div-rx134-tamcdngyelo-divastri-original-imah4ddxbh7q9qxa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/o/h/l-div-rx134-tamcdngyelo-divastri-original-imah4ddxspqtx9ye.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/c/s/l-div-rx134-tamcdngyelo-divastri-original-imah4ddxxgvgnt2a.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/c/i/l-div-rx134-tamcdngyelo-divastri-original-imah4ddx9rnqhtdk.jpeg?q=70"
+      ],
+      "sku": "ETHH4DDYDXZTZWKG",
+      "color": "Yellow",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 356,
+        "ratingCount": 4009,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 752,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Vikram Saini",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-16",
+          "reviewBody": "Beautiful kurta set. Fits perfectly and looks elegant. Definitely worth it.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Rita",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-25",
+          "reviewBody": "Great product quality very comfortable to wear and also the fitting is really good loved it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Deeptimayee pathi",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-23",
+          "reviewBody": "Good product..same as shown..",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "In the Box",
+          "body": "Items Included1 Kurta, 1 Pant, 1 Dupatta"
+        },
+        {
+          "heading": "Product Details",
+          "body": "Neck Round NeckFabric careHand WashOther DetailsKurta Work- Embroidered, Pant Work- Solid, Dupatta Work- Printed Work Type- Yoke Design"
+        },
+        {
+          "heading": "Other Details",
+          "body": "Kurta Work- Embroidered, Pant Work- Solid, Dupatta Work- Printed Work Type- Yoke Design"
+        }
+      ],
+      "product_highlights": {
+        "FabricChanderi": "PatternEmbroidered",
+        "Fabric": "Chanderi",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "6ff9956468a88519e15a8c7b",
+      "path": "media/images/6ff9956468a88519e15a8c7b/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "4c3100893c69dddfa87a5ba0",
+      "path": "media/videos/4c3100893c69dddfa87a5ba0/media.json",
+      "reused": true
+    }
+  }
+}

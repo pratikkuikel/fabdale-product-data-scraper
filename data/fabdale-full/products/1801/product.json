@@ -1,0 +1,214 @@
+{
+  "product_id": "1801",
+  "sku": "Fab-Lehenga-KDRF-001G",
+  "product": {
+    "name": "Kezel Green Embroidered Lehenga Choli",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/kedar-fab-embroidered-semi-stitched-lehenga-choli/p/itmb66ac1ea465a6?pid=LCHGZPGBVPV9KG7M&marketplace=FLIPKART&lid=LSTLCHGZPGBVPV9KG7MVZBITA&fm=organic&swatchAttr=size&pageUID=1778755910751"
+  },
+  "source_bundle": {
+    "key": "pid-LCHGZPGBVPV9KG7M",
+    "path": "../../sources/pid-LCHGZPGBVPV9KG7M/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kedar-fab-embroidered-semi-stitched-lehenga-choli/p/itmb66ac1ea465a6?pid=LCHGZPGBVPV9KG7M&marketplace=FLIPKART&lid=LSTLCHGZPGBVPV9KG7MVZBITA&fm=organic&swatchAttr=size&pageUID=1778755910751",
+    "scraped_at": "2026-08-13T07:23:28.870Z",
+    "final_url": "https://www.flipkart.com/kedar-fab-embroidered-semi-stitched-lehenga-choli/p/itmb66ac1ea465a6?pid=LCHGZPGBVPV9KG7M&marketplace=FLIPKART&lid=LSTLCHGZPGBVPV9KG7MVZBITA&fm=organic&swatchAttr=size&pageUID=1778755910751"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:23:39.652Z"
+  },
+  "content": {
+    "title": "Kedar Fab Embroidered Semi Stitched Lehenga Choli",
+    "short_description": "Color: Green\nPattern: Embroidered\nType: Lehenga Choli\nLehenga Fabric: Georgette\nCholi Fabric: Georgette\nDupatta Fabric: Georgette\nStitching Type: Semi Stitched\nSales Package: 1 Semi-Stitched Lehenga, 1 Dupatta, 1 Un-Stitched Blouse",
+    "description": "Occasion\nParty & Festive, Wedding, Wedding & Festive\n\nAdditional Details\nLehenga(Semi-Stitched) waist:- Upto 40 (In)\" | Height:- 43 (In)::Blouse(Unstitched) Bust:- Upto 44 (In)\", Dupatta Length: 2.20 (mtr)::Georgette Fabric Lehenga Choli Set::Georgette Fabric Dupatta::Ideal For Festive Gatherings, Weddings, or Functions\n\nLehenga Choli Details\nLehenga FabricGeorgetteCholi FabricGeorgetteTypeLehenga CholiDupatta FabricGeorgetteNeckV-NeckSleeveFull SleeveEmbroideredYesWorkThread WorkLining TypeCrepe SilkDupattaYesStitching TypeSemi StitchedPatternEmbroideredSales Package1 Semi-Stitched Lehenga, 1 Dupatta, 1 Un-Stitched BlouseBlouse PatternEmbroideredBlouse Stitch TypeUnstitched BlouseBlouse TypeNABlouse WorkThread WorkBust Size44 inchColorGreenBrand ColorGreenDupatta PatternEmbroideredDupatta WorkLaceLehenga ClosureDrawstring/DoriLehenga ShapeCircular/FlaredSecondary ColorGreenSizeFree\n\nSales Package\n1 Semi-Stitched Lehenga, 1 Dupatta, 1 Un-Stitched Blouse",
+    "specifications": {
+      "Lehenga Fabric": "Georgette",
+      "Choli Fabric": "Georgette",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Georgette",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Embroidered",
+      "Sales Package": "1 Semi-Stitched Lehenga, 1 Dupatta, 1 Un-Stitched Blouse",
+      "Color": "Green"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "2fad4e81bb698c6a53032ff9",
+      "path": "media/images/2fad4e81bb698c6a53032ff9/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/4/f/free-full-sleeve-nova-kedar-fab-resized-original-imahf76jgj9qdwau.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/4/f/free-full-sleeve-nova-kedar-fab-resized-original-imahf76jgj9qdwau.jpeg?q=100",
+        "local_path": "../../media/images/2fad4e81bb698c6a53032ff9/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/t/t/free-full-sleeve-nova-kedar-fab-original-imahf76jphrcy5be.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/t/t/free-full-sleeve-nova-kedar-fab-original-imahf76jphrcy5be.jpeg?q=100",
+        "local_path": "../../media/images/2fad4e81bb698c6a53032ff9/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/y/v/free-full-sleeve-nova-kedar-fab-original-imahf76jnydx2hdm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/y/v/free-full-sleeve-nova-kedar-fab-original-imahf76jnydx2hdm.jpeg?q=100",
+        "local_path": "../../media/images/2fad4e81bb698c6a53032ff9/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/n/c/free-full-sleeve-nova-kedar-fab-original-imahf76jz4swcj4v.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/n/c/free-full-sleeve-nova-kedar-fab-original-imahf76jz4swcj4v.jpeg?q=100",
+        "local_path": "../../media/images/2fad4e81bb698c6a53032ff9/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Kedar Fab Embroidered Semi Stitched Lehenga Choli",
+      "description": "Kedar Fab Embroidered Semi Stitched Lehenga Choli - Buy Kedar Fab Embroidered Semi Stitched Lehenga Choli For Only Rs. 1549.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/4/f/free-full-sleeve-nova-kedar-fab-resized-original-imahf76jgj9qdwau.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/t/t/free-full-sleeve-nova-kedar-fab-original-imahf76jphrcy5be.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/y/v/free-full-sleeve-nova-kedar-fab-original-imahf76jnydx2hdm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/v/n/c/free-full-sleeve-nova-kedar-fab-original-imahf76jz4swcj4v.jpeg?q=70"
+      ],
+      "sku": "LCHGZPGBVPV9KG7M",
+      "color": "Green",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 89,
+        "ratingCount": 1005,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Kedar Fab",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 837,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Gaju",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-12",
+          "reviewBody": "5 star product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Shweta Uttalwad ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-01",
+          "reviewBody": "Awesome 💝",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Pushpa Yadav ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-16",
+          "reviewBody": "Same as the photo, good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Occasion",
+          "body": "Party & Festive, Wedding, Wedding & Festive"
+        },
+        {
+          "heading": "Additional Details",
+          "body": "Lehenga(Semi-Stitched) waist:- Upto 40 (In)\" | Height:- 43 (In)::Blouse(Unstitched) Bust:- Upto 44 (In)\", Dupatta Length: 2.20 (mtr)::Georgette Fabric Lehenga Choli Set::Georgette Fabric Dupatta::Ideal For Festive Gatherings, Weddings, or Functions"
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricGeorgetteCholi FabricGeorgetteTypeLehenga CholiDupatta FabricGeorgetteNeckV-NeckSleeveFull SleeveEmbroideredYesWorkThread WorkLining TypeCrepe SilkDupattaYesStitching TypeSemi StitchedPatternEmbroideredSales Package1 Semi-Stitched Lehenga, 1 Dupatta, 1 Un-Stitched BlouseBlouse PatternEmbroideredBlouse Stitch TypeUnstitched BlouseBlouse TypeNABlouse WorkThread WorkBust Size44 inchColorGreenBrand ColorGreenDupatta PatternEmbroideredDupatta WorkLaceLehenga ClosureDrawstring/DoriLehenga ShapeCircular/FlaredSecondary ColorGreenSizeFree"
+        },
+        {
+          "heading": "Sales Package",
+          "body": "1 Semi-Stitched Lehenga, 1 Dupatta, 1 Un-Stitched Blouse"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Georgette",
+        "Choli Fabric": "Georgette",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Georgette",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Embroidered",
+        "Sales Package": "1 Semi-Stitched Lehenga, 1 Dupatta, 1 Un-Stitched Blouse",
+        "Color": "Green"
+      },
+      "specifications": {}
+    }
+  }
+}

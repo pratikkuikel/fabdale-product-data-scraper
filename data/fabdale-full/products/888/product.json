@@ -1,0 +1,187 @@
+{
+  "product_id": "888",
+  "sku": "Fab-Salwar-PLDI-021BR-XXL",
+  "product": {
+    "name": "Pilessa  Plain Kurta Salwar Suit Set",
+    "parent_id": "5738",
+    "notes": "https://www.flipkart.com/piludi-house-solid-kurta-salwar-dupatta-set/p/itm5655c2d7eb279?pid=SWDHFCV8NGUBH8RZ&lid=LSTSWDHFCV8NGUBH8RZBCVHIY&marketplace=FLIPKART&fm=productRecommendation%2Fsimilar&iid=R%3As%3Bp%3ASWDHBZFZUMTK6PN5%3Bl%3ALSTSWDHBZFZUMTK6PN58QKHNA%3Bpt%3App%3Buid%3Aec8ef73b-c452-11f0-8b68-373fc463d361%3B.SWDHFCV8NGUBH8RZ&ppt=pp&ppn=pp&ssid=6m0apm9jgg0000001763451944109&otracker=pp_reco_Similar%2BProducts_13_PILUDI%2BHOUSE%2BSolid%2BKurta%252C%2BSalwar%2B%2526%2BDupatta%2BSet_SWDHFCV8NGUBH8RZ_productRecommendation%2Fsimilar_12&otracker1=pp_reco_NA_productRecommendation%2Fsimilar_Similar%2BProducts_DESKTOP_HORIZONTAL_productCard_cc_13_NA_view-all&cid=SWDHFCV8NGUBH8RZ"
+  },
+  "source_bundle": {
+    "key": "pid-SWDHFCV8NGUBH8RZ",
+    "path": "../../sources/pid-SWDHFCV8NGUBH8RZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/piludi-house-solid-kurta-salwar-dupatta-set/p/itm5655c2d7eb279?pid=SWDHFCV8NGUBH8RZ&lid=LSTSWDHFCV8NGUBH8RZBCVHIY&marketplace=FLIPKART&fm=productRecommendation%2Fsimilar&iid=R%3As%3Bp%3ASWDHBZFZUMTK6PN5%3Bl%3ALSTSWDHBZFZUMTK6PN58QKHNA%3Bpt%3App%3Buid%3Aec8ef73b-c452-11f0-8b68-373fc463d361%3B.SWDHFCV8NGUBH8RZ&ppt=pp&ppn=pp&ssid=6m0apm9jgg0000001763451944109&otracker=pp_reco_Similar%2BProducts_13_PILUDI%2BHOUSE%2BSolid%2BKurta%252C%2BSalwar%2B%2526%2BDupatta%2BSet_SWDHFCV8NGUBH8RZ_productRecommendation%2Fsimilar_12&otracker1=pp_reco_NA_productRecommendation%2Fsimilar_Similar%2BProducts_DESKTOP_HORIZONTAL_productCard_cc_13_NA_view-all&cid=SWDHFCV8NGUBH8RZ",
+    "scraped_at": "2026-08-12T11:06:46.377Z",
+    "final_url": "https://www.flipkart.com/piludi-house-solid-kurta-salwar-dupatta-set/p/itm5655c2d7eb279?pid=SWDHFCV8NGUBH8RZ&lid=LSTSWDHFCV8NGUBH8RZBCVHIY&marketplace=FLIPKART&fm=productRecommendation%2Fsimilar&iid=R%3As%3Bp%3ASWDHBZFZUMTK6PN5%3Bl%3ALSTSWDHBZFZUMTK6PN58QKHNA%3Bpt%3App%3Buid%3Aec8ef73b-c452-11f0-8b68-373fc463d361%3B.SWDHFCV8NGUBH8RZ&ppt=pp&ppn=pp&ssid=6m0apm9jgg0000001763451944109&otracker=pp_reco_Similar%2BProducts_13_PILUDI%2BHOUSE%2BSolid%2BKurta%252C%2BSalwar%2B%2526%2BDupatta%2BSet_SWDHFCV8NGUBH8RZ_productRecommendation%2Fsimilar_12&otracker1=pp_reco_NA_productRecommendation%2Fsimilar_Similar%2BProducts_DESKTOP_HORIZONTAL_productCard_cc_13_NA_view-all&cid=SWDHFCV8NGUBH8RZ"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:06:58.223Z"
+  },
+  "content": {
+    "title": "PILUDI HOUSE Solid Kurta, Salwar & Dupatta Set",
+    "short_description": "PILUDI HOUSE Solid Kurta, Salwar & Dupatta Set - Buy PILUDI HOUSE Solid Kurta, Salwar & Dupatta Set For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PILUDI HOUSE Solid Kurta, Salwar & Dupatta Set - Buy PILUDI HOUSE Solid Kurta, Salwar & Dupatta Set For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "46a28d3eb5a3a907f339f8ea",
+      "path": "media/images/46a28d3eb5a3a907f339f8ea/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/6/b/xxl-sw-kalyani-piludi-house-original-imahakq5svqmpnny.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/6/b/xxl-sw-kalyani-piludi-house-original-imahakq5svqmpnny.jpeg?q=100",
+        "local_path": "../../media/images/46a28d3eb5a3a907f339f8ea/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/u/9/xxl-sw-kalyani-piludi-house-original-imahakq564guh8fs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/u/9/xxl-sw-kalyani-piludi-house-original-imahakq564guh8fs.jpeg?q=100",
+        "local_path": "../../media/images/46a28d3eb5a3a907f339f8ea/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/c/s/s-sw-kalyani-piludi-original-imahahrf8ntfxqcy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/c/s/s-sw-kalyani-piludi-original-imahahrf8ntfxqcy.jpeg?q=100",
+        "local_path": "../../media/images/46a28d3eb5a3a907f339f8ea/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/z/b/xxl-sw-kalyani-piludi-house-original-imahakq5mnmsyvqf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/z/b/xxl-sw-kalyani-piludi-house-original-imahakq5mnmsyvqf.jpeg?q=100",
+        "local_path": "../../media/images/46a28d3eb5a3a907f339f8ea/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/1/y/p/xxl-sw-kalyani-piludi-house-original-imahakq58dvgnnh7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/1/y/p/xxl-sw-kalyani-piludi-house-original-imahakq58dvgnnh7.jpeg?q=100",
+        "local_path": "../../media/images/46a28d3eb5a3a907f339f8ea/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PILUDI HOUSE Solid Kurta, Salwar & Dupatta Set",
+      "description": "PILUDI HOUSE Solid Kurta, Salwar & Dupatta Set - Buy PILUDI HOUSE Solid Kurta, Salwar & Dupatta Set For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/6/b/xxl-sw-kalyani-piludi-house-original-imahakq5svqmpnny.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/u/9/xxl-sw-kalyani-piludi-house-original-imahakq564guh8fs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/c/s/s-sw-kalyani-piludi-original-imahahrf8ntfxqcy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/z/b/xxl-sw-kalyani-piludi-house-original-imahakq5mnmsyvqf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/1/y/p/xxl-sw-kalyani-piludi-house-original-imahakq58dvgnnh7.jpeg?q=70"
+      ],
+      "sku": "SWDHFCV8NGUBH8RZ",
+      "color": "Brown.",
+      "category": "salwar_kurta_dupatta",
+      "aggregateRating": {
+        "ratingValue": 3.5,
+        "reviewCount": 12,
+        "ratingCount": 308,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PILUDI HOUSE",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 457,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Neketa Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2026-06-25",
+          "reviewBody": "Nice am so happy",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-08-05",
+          "reviewBody": "Very nice fabric.. very comfortable.. must try..",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Horrible",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-08-03",
+          "reviewBody": "Very bad seriously the stitching is so bad",
+          "reviewRating": {
+            "ratingValue": 1,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

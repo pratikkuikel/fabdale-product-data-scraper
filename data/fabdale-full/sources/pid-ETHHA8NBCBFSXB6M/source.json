@@ -1,0 +1,142 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-ethnic-top-pant-dupatta-set/p/itmb511a55dd4a25?pid=ETHHA8NBCBFSXB6M&marketplace=FLIPKART&lid=LSTETHHA8NBCBFSXB6MJTKLQS&swatchAttr=size&pageUID=1772781777731",
+    "scraped_at": "2026-08-12T12:20:22.298Z",
+    "final_url": "https://www.flipkart.com/divastri-women-ethnic-top-pant-dupatta-set/p/itmb511a55dd4a25?pid=ETHHA8NBCBFSXB6M&marketplace=FLIPKART&lid=LSTETHHA8NBCBFSXB6MJTKLQS&swatchAttr=size&pageUID=1772781777731"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 5,
+    "completed_at": "2026-08-12T12:20:57.239Z"
+  },
+  "content": {
+    "title": "Divastri Women Viscose Rayon Ethnic Top Pant Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Printed\nFabricViscose Rayon: PatternPrinted",
+    "description": null,
+    "specifications": {
+      "FabricViscose Rayon": "PatternPrinted",
+      "Fabric": "Viscose Rayon",
+      "Pattern": "Printed"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/m/l/2/m-vaishali-suit-dv-divastri-original-imahbfhzw8z2szhh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/m/l/2/m-vaishali-suit-dv-divastri-original-imahbfhzw8z2szhh.jpeg?q=100",
+        "local_path": "../../media/images/a457becb4e0d34932da21c5e/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cgt/FPS/CNpPUAqDP8SIGtMVmAhCym1Q/manifest.jpg?q=20",
+        "download_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cgt/FPS/CNpPUAqDP8SIGtMVmAhCym1Q/manifest.jpg?q=20",
+        "local_path": "../../media/images/a457becb4e0d34932da21c5e/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/c/x/x/m-vaishali-suit-dv-divastri-original-imahbfhztvgqshzh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/c/x/x/m-vaishali-suit-dv-divastri-original-imahbfhztvgqshzh.jpeg?q=100",
+        "local_path": "../../media/images/a457becb4e0d34932da21c5e/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/u/l/w/m-vaishali-suit-dv-divastri-original-imahbfhzypnqg27h.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/u/l/w/m-vaishali-suit-dv-divastri-original-imahbfhzypnqg27h.jpeg?q=100",
+        "local_path": "../../media/images/a457becb4e0d34932da21c5e/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/n/d/h/m-vaishali-suit-dv-divastri-original-imahbfhzh4ymgru3.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/n/d/h/m-vaishali-suit-dv-divastri-original-imahbfhzh4ymgru3.jpeg?q=100",
+        "local_path": "../../media/images/a457becb4e0d34932da21c5e/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/l/v/l/l-wgc-hathi-ghoda-red-wgc-resized-original-imah8ftebnyqstfk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/l/v/l/l-wgc-hathi-ghoda-red-wgc-resized-original-imah8ftebnyqstfk.jpeg?q=100",
+        "local_path": "../../media/images/a457becb4e0d34932da21c5e/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/m/5/m-ruba-yellow-klosia-resized-original-imah9pqyqq8gfjme.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/m/5/m-ruba-yellow-klosia-resized-original-imah9pqyqq8gfjme.jpeg?q=100",
+        "local_path": "../../media/images/a457becb4e0d34932da21c5e/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/x/m/k/s-tyle-code-44-jainica-original-imahhrhhyeef67ck.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/x/m/k/s-tyle-code-44-jainica-original-imahhrhhyeef67ck.jpeg?q=100",
+        "local_path": "../../media/images/a457becb4e0d34932da21c5e/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/q/e/5/-resized-original-imahhm2kydhygff8.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/q/e/5/-resized-original-imahhm2kydhygff8.jpeg?q=100",
+        "local_path": "../../media/images/a457becb4e0d34932da21c5e/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/x/m/u/l-vdn1060-vidhani-resized-original-imah72ydc2fhtzwx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/x/m/u/l-vdn1060-vidhani-resized-original-imah72ydc2fhtzwx.jpeg?q=100",
+        "local_path": "../../media/images/a457becb4e0d34932da21c5e/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/t/3/t/xxl-d-krisha-34-1-rust-xxl-divastri-resized-original-imahmangehjh7kdz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/t/3/t/xxl-d-krisha-34-1-rust-xxl-divastri-resized-original-imahmangehjh7kdz.jpeg?q=100",
+        "local_path": "../../media/images/a457becb4e0d34932da21c5e/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/p/d/m-de916-divastri-original-imah337zkeuumdqh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/p/d/m-de916-divastri-original-imah337zkeuumdqh.jpeg?q=100",
+        "local_path": "../../media/images/a457becb4e0d34932da21c5e/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/j/n/4/m-orange-pp-25-bunai-dhaga-original-imahngvwwgtqcd2r.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/j/n/4/m-orange-pp-25-bunai-dhaga-original-imahngvwwgtqcd2r.jpeg?q=100",
+        "local_path": "../../media/images/a457becb4e0d34932da21c5e/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "FabricViscose Rayon": "PatternPrinted",
+        "Fabric": "Viscose Rayon",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a457becb4e0d34932da21c5e",
+      "path": "media/images/a457becb4e0d34932da21c5e/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

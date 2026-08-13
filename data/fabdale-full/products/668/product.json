@@ -1,0 +1,204 @@
+{
+  "product_id": "668",
+  "sku": "Fab-Salwar-AURL-006BL-XXL",
+  "product": {
+    "name": "Auralis Viscose Rayon Trail Salwar Suit Set",
+    "parent_id": "5125",
+    "notes": "https://www.flipkart.com/aurelia-women-printed-trail-cut-kurta/p/itmfffbvbefqhf4h?pid=KTAFFFBVV7FYXN7M&marketplace=FLIPKART&lid=LSTKTAFFFBVV7FYXN7MMNTAN0&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-KTAFFFBVV7FYXN7M",
+    "path": "../../sources/pid-KTAFFFBVV7FYXN7M/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/aurelia-women-printed-trail-cut-kurta/p/itmfffbvbefqhf4h?pid=KTAFFFBVV7FYXN7M&marketplace=FLIPKART&lid=LSTKTAFFFBVV7FYXN7MMNTAN0&swatchAttr=size",
+    "scraped_at": "2026-08-12T10:46:14.098Z",
+    "final_url": "https://www.flipkart.com/aurelia-women-printed-trail-cut-kurta/p/itmfffbvbefqhf4h?pid=KTAFFFBVV7FYXN7M&marketplace=FLIPKART&lid=LSTKTAFFFBVV7FYXN7MMNTAN0&swatchAttr=size"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:46:19.478Z"
+  },
+  "content": {
+    "title": "Aurelia Women Printed Trail Cut Kurta",
+    "short_description": "Color: Multicolor\nFabric: Viscose Rayon\nPattern: Printed\nType: Trail Cut\nFit: Regular",
+    "description": "Stylish Trail Cut Kurta\nIntroducing our stylish trail cut kurta, designed to make a fashion statement wherever you go. The t…\n\nComfortable and Breathable Fabric\nCrafted from high-quality viscose rayon fabric, this kurta offers ultimate comfort and breathability…\n\nChic Mandarin Neck and Sleeveless Design\nDesigned with a chic mandarin/chinese neck, this kurta exudes elegance and sophistication. The sleev…\n\nPerfect for Casual Occasions\nThis kurta is perfect for casual occasions, whether it's a day out with friends or a shopping trip. …",
+    "specifications": {
+      "Pattern": "Printed",
+      "Type": "Trail Cut",
+      "Fabric": "Viscose Rayon",
+      "Fit": "Regular",
+      "Color": "Multicolor"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "fb38b936eba3c77f2b28c330",
+      "path": "media/images/fb38b936eba3c77f2b28c330/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8ycm9japehv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8ycm9japehv.jpeg?q=100",
+        "local_path": "../../media/images/fb38b936eba3c77f2b28c330/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8ychwmd6ddu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8ychwmd6ddu.jpeg?q=100",
+        "local_path": "../../media/images/fb38b936eba3c77f2b28c330/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8yc5fysbjxd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8yc5fysbjxd.jpeg?q=100",
+        "local_path": "../../media/images/fb38b936eba3c77f2b28c330/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8yckhdp5cn3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8yckhdp5cn3.jpeg?q=100",
+        "local_path": "../../media/images/fb38b936eba3c77f2b28c330/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8yczfmd3br7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8yczfmd3br7.jpeg?q=100",
+        "local_path": "../../media/images/fb38b936eba3c77f2b28c330/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Aurelia Women Printed Trail Cut Kurta",
+      "description": "Aurelia Women Printed Trail Cut Kurta - Buy BLUE Aurelia Women Printed Trail Cut Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8ycm9japehv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8ychwmd6ddu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8yc5fysbjxd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8yckhdp5cn3.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/jnnhua80/kurta/p/y/w/s-18fek13472-62997-aurelia-original-imafa8yczfmd3br7.jpeg?q=70"
+      ],
+      "sku": "KTAFFFBVV7FYXN7M",
+      "color": "62997",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 29,
+        "ratingCount": 240,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Aurelia",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 702,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Rinku Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2019-08-17",
+          "reviewBody": "nice fabric",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Rima  Pandit",
+            "@type": "Person"
+          },
+          "datePublished": "2019-08-26",
+          "reviewBody": "fabric is good... nice kurta",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Chaudhary Ankita paresh bhai Paresh Bhai",
+            "@type": "Person"
+          },
+          "datePublished": "2020-12-30",
+          "reviewBody": "Nice quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Stylish Trail Cut Kurta",
+          "body": "Introducing our stylish trail cut kurta, designed to make a fashion statement wherever you go. The t…"
+        },
+        {
+          "heading": "Comfortable and Breathable Fabric",
+          "body": "Crafted from high-quality viscose rayon fabric, this kurta offers ultimate comfort and breathability…"
+        },
+        {
+          "heading": "Chic Mandarin Neck and Sleeveless Design",
+          "body": "Designed with a chic mandarin/chinese neck, this kurta exudes elegance and sophistication. The sleev…"
+        },
+        {
+          "heading": "Perfect for Casual Occasions",
+          "body": "This kurta is perfect for casual occasions, whether it's a day out with friends or a shopping trip. …"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Type": "Trail Cut",
+        "Fabric": "Viscose Rayon",
+        "Fit": "Regular",
+        "Color": "Multicolor"
+      },
+      "specifications": {}
+    }
+  }
+}

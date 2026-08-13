@@ -1,0 +1,44 @@
+{
+  "key": "49a74975e54b791744379495",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T12:32:46.162Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/d/k/l-dupatta-set-d-k-w-resized-original-imah2vvk6cxqpwfe.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/d/k/l-dupatta-set-d-k-w-resized-original-imah2vvk6cxqpwfe.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/6/p/n/l-dupatta-set-d-k-w-original-imah2vvkwwyg8qzx.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/6/p/n/l-dupatta-set-d-k-w-original-imah2vvkwwyg8qzx.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/3/x/2/l-dupatta-set-d-k-w-original-imah2vvkmnuvzgv6.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/3/x/2/l-dupatta-set-d-k-w-original-imah2vvkmnuvzgv6.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/7/i/l-dupatta-set-d-k-w-original-imah2vvkxtpsehxw.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/y/7/i/l-dupatta-set-d-k-w-original-imah2vvkxtpsehxw.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/c/i/l-dupatta-set-d-k-w-original-imah2vvkbmxpfnfd.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/c/i/l-dupatta-set-d-k-w-original-imah2vvkbmxpfnfd.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

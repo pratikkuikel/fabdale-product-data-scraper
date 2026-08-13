@@ -1,0 +1,229 @@
+{
+  "product_id": "531",
+  "sku": "Fab-Saree-K5FSH-003BL",
+  "product": {
+    "name": "Kashvi Chiffon Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/k-5-fashion-self-design-striped-dyed-bollywood-chiffon-saree/p/itm14320085d5857?pid=SARGKSZSZPNZDHC9&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SARGKSZSZPNZDHC9",
+    "path": "../../sources/pid-SARGKSZSZPNZDHC9/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/k-5-fashion-self-design-striped-dyed-bollywood-chiffon-saree/p/itm14320085d5857?pid=SARGKSZSZPNZDHC9&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:29:45.965Z",
+    "final_url": "https://www.flipkart.com/k-5-fashion-self-design-striped-dyed-bollywood-chiffon-saree/p/itm14320085d5857?pid=SARGKSZSZPNZDHC9&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:29:55.342Z"
+  },
+  "content": {
+    "title": "K 5 FASHION Self Design, Striped, Dyed Bollywood Chiffon Saree",
+    "short_description": "Fabric: Chiffon\nPattern: Self Design, Striped, Dyed\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Elegant Bollywood Saree\nThis saree is designed to bring out your inner Bollywood diva with its stunning and glamorous style.…\n\nExquisite Chiffon Fabric\nCrafted from high-quality chiffon fabric, this saree offers a lightweight and flowy drape that adds …\n\nVersatile Unstitched Blouse\nThis saree comes with an unstitched blouse piece, allowing you to customize it according to your pre…",
+    "specifications": {
+      "Pattern": "Self Design, Striped, Dyed",
+      "Fabric": "Chiffon",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b0c0f9e9390b856ce916a995",
+      "path": "media/images/b0c0f9e9390b856ce916a995/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "89f7be63566b792230c72e08",
+      "path": "media/videos/89f7be63566b792230c72e08/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/o/0/free-pankhudi-konicafab-unstitched-resized-original-imahagqqzqthv2bj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/o/0/free-pankhudi-konicafab-unstitched-resized-original-imahagqqzqthv2bj.jpeg?q=100",
+        "local_path": "../../media/images/b0c0f9e9390b856ce916a995/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/z/1/v/free-pankhudi-k-5-fashion-unstitched-original-imahd83zfthfpfwy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/z/1/v/free-pankhudi-k-5-fashion-unstitched-original-imahd83zfthfpfwy.jpeg?q=100",
+        "local_path": "../../media/images/b0c0f9e9390b856ce916a995/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/x/m/e/free-pankhudi-k-5-fashion-unstitched-original-imahd83za8g2dbng.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/x/m/e/free-pankhudi-k-5-fashion-unstitched-original-imahd83za8g2dbng.jpeg?q=100",
+        "local_path": "../../media/images/b0c0f9e9390b856ce916a995/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/n/p/g/free-pankhudi-k-5-fashion-unstitched-original-imahd83zf4vkruqh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/n/p/g/free-pankhudi-k-5-fashion-unstitched-original-imahd83zf4vkruqh.jpeg?q=100",
+        "local_path": "../../media/images/b0c0f9e9390b856ce916a995/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/t/a/free-pankhudi-k-5-fashion-unstitched-original-imahdbcfhd8nzffz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/t/a/free-pankhudi-k-5-fashion-unstitched-original-imahdbcfhd8nzffz.jpeg?q=100",
+        "local_path": "../../media/images/b0c0f9e9390b856ce916a995/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN8CnaeSZTRB21hdq1gdALvQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNHKR5--eRQNSj9nGCsrbAhA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "K 5 FASHION Self Design, Striped, Dyed Bollywood Chiffon Saree",
+      "description": "K 5 FASHION Self Design, Striped, Dyed Bollywood Chiffon Saree - Buy K 5 FASHION Self Design, Striped, Dyed Bollywood Chiffon Saree For Only Rs. 2400.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/o/0/free-pankhudi-konicafab-unstitched-resized-original-imahagqqzqthv2bj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/z/1/v/free-pankhudi-k-5-fashion-unstitched-original-imahd83zfthfpfwy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/x/m/e/free-pankhudi-k-5-fashion-unstitched-original-imahd83za8g2dbng.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/n/p/g/free-pankhudi-k-5-fashion-unstitched-original-imahd83zf4vkruqh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/t/a/free-pankhudi-k-5-fashion-unstitched-original-imahdbcfhd8nzffz.jpeg?q=70"
+      ],
+      "sku": "SARGKSZSZPNZDHC9",
+      "color": "Navy",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 540,
+        "ratingCount": 10051,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "K 5 FASHION",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 350,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "krishnendu pm",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-27",
+          "reviewBody": "Elegant and the color is so pretty.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Simmi Yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-08",
+          "reviewBody": "Saree is good ..nd best for farewell",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "MEERA SINGH",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-14",
+          "reviewBody": "Super saree",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant Bollywood Saree",
+          "body": "This saree is designed to bring out your inner Bollywood diva with its stunning and glamorous style.…"
+        },
+        {
+          "heading": "Exquisite Chiffon Fabric",
+          "body": "Crafted from high-quality chiffon fabric, this saree offers a lightweight and flowy drape that adds …"
+        },
+        {
+          "heading": "Versatile Unstitched Blouse",
+          "body": "This saree comes with an unstitched blouse piece, allowing you to customize it according to your pre…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Self Design, Striped, Dyed",
+        "Fabric": "Chiffon",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

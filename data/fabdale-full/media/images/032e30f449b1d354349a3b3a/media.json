@@ -1,0 +1,44 @@
+{
+  "key": "032e30f449b1d354349a3b3a",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:38:17.467Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/x/l/t/free-half-sleeve-rk4261-varnika-rbluered-unstitch-fabcartz-original-imahdfyyzdd7mrvp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/x/l/t/free-half-sleeve-rk4261-varnika-rbluered-unstitch-fabcartz-original-imahdfyyzdd7mrvp.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/b/i/h/free-half-sleeve-rk4261-varnika-rbluered-unstitch-fabcartz-original-imahdfyy7ckxgpb4.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/b/i/h/free-half-sleeve-rk4261-varnika-rbluered-unstitch-fabcartz-original-imahdfyy7ckxgpb4.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/t/7/z/free-half-sleeve-rk4261-varnika-rbluered-unstitch-fabcartz-original-imahdfyywbhcj5jz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/t/7/z/free-half-sleeve-rk4261-varnika-rbluered-unstitch-fabcartz-original-imahdfyywbhcj5jz.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/n/4/6/free-half-sleeve-rk4261-varnika-rbluered-unstitch-fabcartz-original-imahdfyywtqurrxr.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/n/4/6/free-half-sleeve-rk4261-varnika-rbluered-unstitch-fabcartz-original-imahdfyywtqurrxr.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/g/c/free-half-sleeve-rk4261-varnika-rbluered-unstitch-fabcartz-original-imahdfyyqyehggvh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/g/c/free-half-sleeve-rk4261-varnika-rbluered-unstitch-fabcartz-original-imahdfyyqyehggvh.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

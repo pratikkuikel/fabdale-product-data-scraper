@@ -1,0 +1,192 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/trivety-self-design-semi-stitched-lehenga-choli/p/itm6b9f7f2e6f891?pid=LCHH4HBS9VGABVBT&lid=LSTLCHH4HBS9VGABVBTLZUYWP&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T07:51:32.147Z",
+    "final_url": "https://www.flipkart.com/trivety-self-design-semi-stitched-lehenga-choli/p/itm6b9f7f2e6f891?pid=LCHH4HBS9VGABVBT&lid=LSTLCHH4HBS9VGABVBTLZUYWP&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:51:44.587Z"
+  },
+  "content": {
+    "title": "Trivety Self Design Semi Stitched Lehenga Choli",
+    "short_description": "Color: Black\nPattern: Self Design\nType: Lehenga Choli\nLehenga Fabric: Net\nStitching Type: Semi Stitched\nSales Package: 1",
+    "description": "Lehenga Choli Details\nLehenga FabricNetTypeLehenga CholiNeckV-NeckSleeve3/4 SleeveDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package1ColorBlackBrand ColorBlackSizeFree",
+    "specifications": {
+      "Lehenga Fabric": "Net",
+      "Type": "Lehenga Choli",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Self Design",
+      "Sales Package": "1",
+      "Color": "Black"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/n/1/free-3-4-sleeve-big-squar-yellow-trivety-resized-original-imah4hbsj63wc4cy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/n/1/free-3-4-sleeve-big-squar-yellow-trivety-resized-original-imah4hbsj63wc4cy.jpeg?q=100",
+        "local_path": "../../media/images/202a7b45a62c480d3cfcbf21/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/w/w/f/free-3-4-sleeve-big-squar-yellow-trivety-original-imah4hbs6vztfpan.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/w/w/f/free-3-4-sleeve-big-squar-yellow-trivety-original-imah4hbs6vztfpan.jpeg?q=100",
+        "local_path": "../../media/images/202a7b45a62c480d3cfcbf21/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/1/o/free-3-4-sleeve-big-squar-yellow-trivety-original-imah4hbsbhjyhewr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/1/o/free-3-4-sleeve-big-squar-yellow-trivety-original-imah4hbsbhjyhewr.jpeg?q=100",
+        "local_path": "../../media/images/202a7b45a62c480d3cfcbf21/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/d/g/free-3-4-sleeve-big-squar-yellow-trivety-original-imah4hbstngjhcna.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/d/g/free-3-4-sleeve-big-squar-yellow-trivety-original-imah4hbstngjhcna.jpeg?q=100",
+        "local_path": "../../media/images/202a7b45a62c480d3cfcbf21/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Trivety Self Design Semi Stitched Lehenga Choli",
+      "description": "Trivety Self Design Semi Stitched Lehenga Choli - Buy Trivety Self Design Semi Stitched Lehenga Choli For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/n/1/free-3-4-sleeve-big-squar-yellow-trivety-resized-original-imah4hbsj63wc4cy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/w/w/f/free-3-4-sleeve-big-squar-yellow-trivety-original-imah4hbs6vztfpan.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/1/o/free-3-4-sleeve-big-squar-yellow-trivety-original-imah4hbsbhjyhewr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/d/g/free-3-4-sleeve-big-squar-yellow-trivety-original-imah4hbstngjhcna.jpeg?q=70"
+      ],
+      "sku": "LCHH4HBS9VGABVBT",
+      "color": "Black",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 25,
+        "ratingCount": 115,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Trivety",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 401,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-17",
+          "reviewBody": "Awesome",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Shine Sid",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-23",
+          "reviewBody": "I recently purchased a womens kurti dupatta set, and I couldnt be happier with my choice! The fabric is incredibly soft and breathable, making it perfect for both casual outings and more formal occasions",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Nandini Yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-22",
+          "reviewBody": "Beautiful.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricNetTypeLehenga CholiNeckV-NeckSleeve3/4 SleeveDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package1ColorBlackBrand ColorBlackSizeFree"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Net",
+        "Type": "Lehenga Choli",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Self Design",
+        "Sales Package": "1",
+        "Color": "Black"
+      },
+      "specifications": {
+        "General DetailsBrandTrivetyIdeal ForWomenOccasionWedding & Festive": "Lehenga Choli DetailsLehenga FabricNetTypeLehenga CholiNeckV-NeckSleeve3/4 SleeveDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package1ColorBlackBrand ColorBlackSizeFree",
+        "Brand": "Trivety",
+        "Ideal For": "Women",
+        "Occasion": "Wedding & Festive",
+        "Lehenga Choli Details": "Lehenga FabricNetTypeLehenga CholiNeckV-NeckSleeve3/4 SleeveDupattaYesStitching TypeSemi StitchedPatternSelf DesignSales Package1ColorBlackBrand ColorBlackSizeFree",
+        "Lehenga Fabric": "Net",
+        "Type": "Lehenga Choli",
+        "Neck": "V-Neck",
+        "Sleeve": "3/4 Sleeve",
+        "Dupatta": "Yes",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Self Design",
+        "Sales Package": "1",
+        "Color": "Black",
+        "Brand Color": "Black",
+        "Size": "Free"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "202a7b45a62c480d3cfcbf21",
+      "path": "media/images/202a7b45a62c480d3cfcbf21/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

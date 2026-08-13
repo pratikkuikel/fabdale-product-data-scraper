@@ -1,0 +1,155 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurti-pant-dupatta-set/p/itme0541fc9b734c?pid=ETHHDT8HWHV3PZWG&marketplace=FLIPKART&lid=LSTETHHDT8HWHV3PZWGLVC8BC&swatchAttr=size&pageUID=1772792605719",
+    "scraped_at": "2026-08-12T12:51:02.085Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurti-pant-dupatta-set/p/itme0541fc9b734c?pid=ETHHDT8HWHV3PZWG&marketplace=FLIPKART&lid=LSTETHHDT8HWHV3PZWGLVC8BC&swatchAttr=size&pageUID=1772792605719"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T12:51:07.418Z"
+  },
+  "content": {
+    "title": "Divastri Women Viscose Rayon Kurti Pant Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Embroidered, Striped\nFabricViscose Rayon: PatternEmbroidered, Striped",
+    "description": "In the Box\nItems Included1 Kurti, 1 Pant, 1 Dupatta\n\nOccasion\nFestive & Party, Casual, Wedding, Festive & Party\n\nProduct Details\nNeck Round NeckFabric careRegular Machine Wash",
+    "specifications": {
+      "FabricViscose Rayon": "PatternEmbroidered, Striped",
+      "Fabric": "Viscose Rayon",
+      "Pattern": "Embroidered, Striped"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/0/j/f/s-yoctaethnicset-anushansa-original-imah6hb2ag7qudqs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/0/j/f/s-yoctaethnicset-anushansa-original-imah6hb2ag7qudqs.jpeg?q=100",
+        "local_path": "../../media/images/cb9c9a30551c108c22ca7ff4/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/k/h/y/s-yoctaethnicset-anushansa-original-imah6hb2am2hvdfc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/k/h/y/s-yoctaethnicset-anushansa-original-imah6hb2am2hvdfc.jpeg?q=100",
+        "local_path": "../../media/images/cb9c9a30551c108c22ca7ff4/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/w/w/r/s-yoctaethnicset-anushansa-original-imah6hb28shbpmvr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/w/w/r/s-yoctaethnicset-anushansa-original-imah6hb28shbpmvr.jpeg?q=100",
+        "local_path": "../../media/images/cb9c9a30551c108c22ca7ff4/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/q/j/m/s-yoctaethnicset-anushansa-original-imah6hb2hp3mhkzm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/q/j/m/s-yoctaethnicset-anushansa-original-imah6hb2hp3mhkzm.jpeg?q=100",
+        "local_path": "../../media/images/cb9c9a30551c108c22ca7ff4/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/y/b/s/s-yoctaethnicset-anushansa-original-imah6hb2gbvycdw9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/y/b/s/s-yoctaethnicset-anushansa-original-imah6hb2gbvycdw9.jpeg?q=100",
+        "local_path": "../../media/images/cb9c9a30551c108c22ca7ff4/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/r/u/r/4xl-bluestrip-bncg7834-raseshwari-original-imahgzyuneyqq6du.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/r/u/r/4xl-bluestrip-bncg7834-raseshwari-original-imahgzyuneyqq6du.jpeg?q=100",
+        "local_path": "../../media/images/cb9c9a30551c108c22ca7ff4/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/d/4/xl-emb-blue-aryfab-resized-original-imahjh5kfb34vu48.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/m/d/4/xl-emb-blue-aryfab-resized-original-imahjh5kfb34vu48.jpeg?q=100",
+        "local_path": "../../media/images/cb9c9a30551c108c22ca7ff4/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/t/g/g/m-ab-vrc-5-gulkanya-style-original-imahprd7pbxf6hff.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/t/g/g/m-ab-vrc-5-gulkanya-style-original-imahprd7pbxf6hff.jpeg?q=100",
+        "local_path": "../../media/images/cb9c9a30551c108c22ca7ff4/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-ethnic-set/s/k/z/s-co-ords-somapah-original-imahfvhrh7ahf9gg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-ethnic-set/s/k/z/s-co-ords-somapah-original-imahfvhrh7ahf9gg.jpeg?q=100",
+        "local_path": "../../media/images/cb9c9a30551c108c22ca7ff4/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/z/6/d/4xl-d3066nbmcos-demirner-original-imahyk3y2b3zgvwy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/z/6/d/4xl-d3066nbmcos-demirner-original-imahyk3y2b3zgvwy.jpeg?q=100",
+        "local_path": "../../media/images/cb9c9a30551c108c22ca7ff4/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/d/x/s/l-salwar-kurta-set-d-k-w-original-imahyz3hhuxragsa.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/d/x/s/l-salwar-kurta-set-d-k-w-original-imahyz3hhuxragsa.jpeg?q=100",
+        "local_path": "../../media/images/cb9c9a30551c108c22ca7ff4/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/w/g/p/4xl-anvi-red-gosriki-original-imahcv4frgya2d6f.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/w/g/p/4xl-anvi-red-gosriki-original-imahcv4frgya2d6f.jpeg?q=100",
+        "local_path": "../../media/images/cb9c9a30551c108c22ca7ff4/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/d/x/d/xl-sleeveless-set-divastri-resized-original-imahbtaed6rgfvzb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/d/x/d/xl-sleeveless-set-divastri-resized-original-imahbtaed6rgfvzb.jpeg?q=100",
+        "local_path": "../../media/images/cb9c9a30551c108c22ca7ff4/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "In the Box",
+          "body": "Items Included1 Kurti, 1 Pant, 1 Dupatta"
+        },
+        {
+          "heading": "Occasion",
+          "body": "Festive & Party, Casual, Wedding, Festive & Party"
+        },
+        {
+          "heading": "Product Details",
+          "body": "Neck Round NeckFabric careRegular Machine Wash"
+        }
+      ],
+      "product_highlights": {
+        "FabricViscose Rayon": "PatternEmbroidered, Striped",
+        "Fabric": "Viscose Rayon",
+        "Pattern": "Embroidered, Striped"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "cb9c9a30551c108c22ca7ff4",
+      "path": "media/images/cb9c9a30551c108c22ca7ff4/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

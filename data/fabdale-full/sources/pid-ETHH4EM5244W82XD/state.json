@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-ETHH4EM5244W82XD",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1708"
+  ],
+  "source_path": "sources/pid-ETHH4EM5244W82XD/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T16:19:52.312Z",
+  "completed_at": "2026-08-12T16:20:03.401Z"
+}

@@ -1,0 +1,187 @@
+{
+  "product_id": "795",
+  "sku": "Fab-Salwar-PLDI-009BK-M",
+  "product": {
+    "name": "Pilessa Wedding & Ethnic Salwar Suit Set",
+    "parent_id": "5140",
+    "notes": "https://www.flipkart.com/piludi-embroidered-kurta-salwar-dupatta-set/p/itmb438854d19a66?pid=SWDH8J3U2YEMQSPF&marketplace=FLIPKART&lid=LSTSWDH8J3U2YEMQSPFXLHDMH&swatchAttr=size&pageUID=1772443369817"
+  },
+  "source_bundle": {
+    "key": "pid-SWDH8J3U2YEMQSPF",
+    "path": "../../sources/pid-SWDH8J3U2YEMQSPF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/piludi-embroidered-kurta-salwar-dupatta-set/p/itmb438854d19a66?pid=SWDH8J3U2YEMQSPF&marketplace=FLIPKART&lid=LSTSWDH8J3U2YEMQSPFXLHDMH&swatchAttr=size&pageUID=1772443369817",
+    "scraped_at": "2026-08-12T10:58:30.524Z",
+    "final_url": "https://www.flipkart.com/piludi-embroidered-kurta-salwar-dupatta-set/p/itmb438854d19a66?pid=SWDH8J3U2YEMQSPF&marketplace=FLIPKART&lid=LSTSWDH8J3U2YEMQSPFXLHDMH&swatchAttr=size&pageUID=1772443369817"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:58:41.283Z"
+  },
+  "content": {
+    "title": "PILUDI Embroidered Kurta, Salwar & Dupatta Set",
+    "short_description": "PILUDI Embroidered Kurta, Salwar & Dupatta Set - Buy PILUDI Embroidered Kurta, Salwar & Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PILUDI Embroidered Kurta, Salwar & Dupatta Set - Buy PILUDI Embroidered Kurta, Salwar & Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c66d30d6bb960928fee148a4",
+      "path": "media/images/c66d30d6bb960928fee148a4/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/x/z/s-sw-minakshi-piludi-resized-original-imahczaepndauz6h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/x/z/s-sw-minakshi-piludi-resized-original-imahczaepndauz6h.jpeg?q=100",
+        "local_path": "../../media/images/c66d30d6bb960928fee148a4/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/v/y/a/s-sw-minakshi-piludi-original-imahczaebdhxvyca.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/v/y/a/s-sw-minakshi-piludi-original-imahczaebdhxvyca.jpeg?q=100",
+        "local_path": "../../media/images/c66d30d6bb960928fee148a4/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/u/h/b/s-sw-minakshi-piludi-original-imahczaedvbcpfdu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/u/h/b/s-sw-minakshi-piludi-original-imahczaedvbcpfdu.jpeg?q=100",
+        "local_path": "../../media/images/c66d30d6bb960928fee148a4/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/m/h/v/s-sw-minakshi-piludi-original-imahczae6rn5fgfr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/m/h/v/s-sw-minakshi-piludi-original-imahczae6rn5fgfr.jpeg?q=100",
+        "local_path": "../../media/images/c66d30d6bb960928fee148a4/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/4/x/d/s-sw-minakshi-piludi-original-imahczaejzcexqzq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/4/x/d/s-sw-minakshi-piludi-original-imahczaejzcexqzq.jpeg?q=100",
+        "local_path": "../../media/images/c66d30d6bb960928fee148a4/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PILUDI Embroidered Kurta, Salwar & Dupatta Set",
+      "description": "PILUDI Embroidered Kurta, Salwar & Dupatta Set - Buy PILUDI Embroidered Kurta, Salwar & Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/x/z/s-sw-minakshi-piludi-resized-original-imahczaepndauz6h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/v/y/a/s-sw-minakshi-piludi-original-imahczaebdhxvyca.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/u/h/b/s-sw-minakshi-piludi-original-imahczaedvbcpfdu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/m/h/v/s-sw-minakshi-piludi-original-imahczae6rn5fgfr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/4/x/d/s-sw-minakshi-piludi-original-imahczaejzcexqzq.jpeg?q=70"
+      ],
+      "sku": "SWDH8J3U2YEMQSPF",
+      "color": "Black",
+      "category": "salwar_kurta_dupatta",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 25,
+        "ratingCount": 315,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PILUDI",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 551,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Poonam Balotiya ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-16",
+          "reviewBody": "All ok .. looks good butt the embroidery on duppatta should be white but it is golden so this thing I don't like .. otherwise all good 😊",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Devanshu Bansal",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-25",
+          "reviewBody": "Very beautiful and good quality dress at good price",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-10",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

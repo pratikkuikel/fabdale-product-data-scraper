@@ -1,0 +1,93 @@
+{
+  "key": "8f86be78cfed50f465d39830",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T11:39:21.066Z",
+  "items": [
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/k/e/9/m-xn-subhan-clothing-original-imahbz4hgdnnv6gx.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/k/e/9/m-xn-subhan-clothing-original-imahbz4hgdnnv6gx.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/n/e/g/m-xn-subhan-clothing-original-imahbz4hnpjgfqya.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/n/e/g/m-xn-subhan-clothing-original-imahbz4hnpjgfqya.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/o/s/d/m-xn-subhan-clothing-original-imahbz4hzzkmjuht.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/o/s/d/m-xn-subhan-clothing-original-imahbz4hzzkmjuht.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/1620/910/xif0q/icons/original-KTAHBZ4HYQHZSWYB_1.jpg",
+      "download_url": "https://rukminim2.flixcart.com/image/1620/910/xif0q/icons/original-KTAHBZ4HYQHZSWYB_1.jpg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/3/7/7/xl-combo-01-myvra-original-imahpg2pceynvgza.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/3/7/7/xl-combo-01-myvra-original-imahpg2pceynvgza.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/e/c/q/l-combo-01-myvra-original-imahpg2pzsbmay5z.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/e/c/q/l-combo-01-myvra-original-imahpg2pzsbmay5z.jpeg?q=100",
+      "local_path": "assets/images/image-006.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/z/d/s-kt103all-shaibo-saree-original-imahprh6ygzxbj3k.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/z/d/s-kt103all-shaibo-saree-original-imahprh6ygzxbj3k.jpeg?q=100",
+      "local_path": "assets/images/image-007.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/q/v/v/s-combo-01-myvra-original-imahpg2pkqbxzqym.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/q/v/v/s-combo-01-myvra-original-imahpg2pkqbxzqym.jpeg?q=100",
+      "local_path": "assets/images/image-008.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/5/0/xxs-combo-01-myvra-original-imahpg2pqm6z29ky.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/f/5/0/xxs-combo-01-myvra-original-imahpg2pqm6z29ky.jpeg?q=100",
+      "local_path": "assets/images/image-009.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/p/s/n/m-green-kurti-bd-enterprises-original-imahkzx252tkcxtg.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/p/s/n/m-green-kurti-bd-enterprises-original-imahkzx252tkcxtg.jpeg?q=100",
+      "local_path": "assets/images/image-010.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/5/r/q/xxl-short-kurta-arteyra-original-imahpg5ctzfsbpzw.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/5/r/q/xxl-short-kurta-arteyra-original-imahpg5ctzfsbpzw.jpeg?q=100",
+      "local_path": "assets/images/image-011.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/p/u/4/s-ku-akira-krishna-sakhi-resized-original-imahk57wjqw8abnz.jpeg?q=80",
+      "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/p/u/4/s-ku-akira-krishna-sakhi-resized-original-imahk57wjqw8abnz.jpeg?q=100",
+      "local_path": "assets/images/image-012.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

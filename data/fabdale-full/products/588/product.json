@@ -1,0 +1,89 @@
+{
+  "product_id": "588",
+  "sku": "Fab-Drsmtl-KRSN-028PL",
+  "product": {
+    "name": "Kala Sutra Cotton Salwar Suit Material",
+    "parent_id": "5334",
+    "notes": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmbc8864aed1897?pid=FABHBTGDKGKDG48C&lid=LSTFABHBTGDKGKDG48CWA5GHL&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-FABHBTGDKGKDG48C",
+    "path": "../../sources/pid-FABHBTGDKGKDG48C/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmbc8864aed1897?pid=FABHBTGDKGKDG48C&lid=LSTFABHBTGDKGKDG48CWA5GHL&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:37:13.241Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmbc8864aed1897?pid=FABHBTGDKGKDG48C&lid=LSTFABHBTGDKGKDG48CWA5GHL&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:37:23.196Z"
+  },
+  "content": {
+    "title": "krishna boutique Unstitched Pure Cotton Salwar Suit Material Printed",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupattta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Model Name\nUnstitched Pure Cotton Salwar Suit Material Printed",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupattta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "dd8d9541e624b076762e7cae",
+      "path": "media/images/dd8d9541e624b076762e7cae/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/7/j/a/yes-2-5-m-unstitched-2-2-m-purpal1-krishna-boutique-original-imahfrd8rydbabbt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/7/j/a/yes-2-5-m-unstitched-2-2-m-purpal1-krishna-boutique-original-imahfrd8rydbabbt.jpeg?q=100",
+        "local_path": "../../media/images/dd8d9541e624b076762e7cae/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7abfd64051934269842597d6f5faa109.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7abfd64051934269842597d6f5faa109.jpg?q=80",
+        "local_path": "../../media/images/dd8d9541e624b076762e7cae/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Model Name",
+          "body": "Unstitched Pure Cotton Salwar Suit Material Printed"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupattta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  }
+}

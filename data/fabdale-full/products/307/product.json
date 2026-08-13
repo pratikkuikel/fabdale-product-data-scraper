@@ -1,0 +1,201 @@
+{
+  "product_id": "307",
+  "sku": "Fab-Dress-ZWRL-009PK-S",
+  "product": {
+    "name": "Zeflora Flared Midi Dress",
+    "parent_id": "5099",
+    "notes": "https://www.flipkart.com/zwerlon-women-a-line-pink-orange-midi-calf-length-dress/p/itm223c406e32734?pid=DREH2THFCHKFGQXF&marketplace=FLIPKART&lid=LSTDREH2THFCHKFGQXFZIAH7A&q=zwerlon+dress&swatchAttr=size&pageUID=1772361436198"
+  },
+  "source_bundle": {
+    "key": "pid-DREH2THFCHKFGQXF",
+    "path": "../../sources/pid-DREH2THFCHKFGQXF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zwerlon-women-a-line-pink-orange-midi-calf-length-dress/p/itm223c406e32734?pid=DREH2THFCHKFGQXF&marketplace=FLIPKART&lid=LSTDREH2THFCHKFGQXFZIAH7A&q=zwerlon+dress&swatchAttr=size&pageUID=1772361436198",
+    "scraped_at": "2026-08-12T08:31:35.807Z",
+    "final_url": "https://www.flipkart.com/zwerlon-women-a-line-pink-orange-midi-calf-length-dress/p/itm223c406e32734?pid=DREH2THFCHKFGQXF&marketplace=FLIPKART&lid=LSTDREH2THFCHKFGQXFZIAH7A&q=zwerlon+dress&swatchAttr=size&pageUID=1772361436198"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:31:43.857Z"
+  },
+  "content": {
+    "title": "ZWERLON Women A-line Pink, Orange Midi/Calf Length Dress",
+    "short_description": "Color: Pink, Orange\nPattern: Printed\nType: A-line\nSleeve: Flared Sleeve\nLength: Midi/Calf Length\nSleeve Length: Short Sleeve",
+    "description": "Other Details\nDiscover effortless elegance in our Printed Smoking Midi Dress. Crafted from premium materials, it offers luxurious comfort and durability. With delicate smoking detail and a flattering midi length, it's a timeless wardrobe essential, blending sophistication with versatility.",
+    "specifications": {
+      "Color": "Pink, Orange",
+      "Length": "Midi/Calf Length",
+      "Pattern": "Printed",
+      "Type": "A-line",
+      "Sleeve Length": "Short Sleeve",
+      "Sleeve": "Flared Sleeve"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1d299abaa68a02dd8033d315",
+      "path": "media/images/1d299abaa68a02dd8033d315/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "875f9c3c6d3b043fd6b71848",
+      "path": "media/videos/875f9c3c6d3b043fd6b71848/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/t/j/d/-resized-original-imaheh77bzzggmme.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/t/j/d/-resized-original-imaheh77bzzggmme.jpeg?q=100",
+        "local_path": "../../media/images/1d299abaa68a02dd8033d315/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/i/f/f/-original-imaheh77fgrzn9rq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/i/f/f/-original-imaheh77fgrzn9rq.jpeg?q=100",
+        "local_path": "../../media/images/1d299abaa68a02dd8033d315/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/g/f/v/-original-imaheh776sdcxzxv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/g/f/v/-original-imaheh776sdcxzxv.jpeg?q=100",
+        "local_path": "../../media/images/1d299abaa68a02dd8033d315/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN77mqtprsQZGN4xT14zAD-w/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "ZWERLON Women A-line Pink, Orange Midi/Calf Length Dress",
+      "description": "ZWERLON Women A-line Pink, Orange Midi/Calf Length Dress - Buy ZWERLON Women A-line Pink, Orange Midi/Calf Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/t/j/d/-resized-original-imaheh77bzzggmme.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/i/f/f/-original-imaheh77fgrzn9rq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/g/f/v/-original-imaheh776sdcxzxv.jpeg?q=70"
+      ],
+      "sku": "DREH2THFCHKFGQXF",
+      "color": "Orange-Pink",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 536,
+        "ratingCount": 9540,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "ZWERLON",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 363,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-15",
+          "reviewBody": "Best product,best fabric 😘😘😘😘",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Upama  Mukherjee",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-15",
+          "reviewBody": "So comfortable.. And very nice quality..",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-01",
+          "reviewBody": "This is a very beautiful dress😍\nThe fabric is also very good🥰\n A big thumbs up from me...👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Other Details",
+          "body": "Discover effortless elegance in our Printed Smoking Midi Dress. Crafted from premium materials, it offers luxurious comfort and durability. With delicate smoking detail and a flattering midi length, it's a timeless wardrobe essential, blending sophistication with versatility."
+        }
+      ],
+      "product_highlights": {
+        "Color": "Pink, Orange",
+        "Length": "Midi/Calf Length",
+        "Pattern": "Printed",
+        "Type": "A-line",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve": "Flared Sleeve"
+      },
+      "specifications": {}
+    }
+  }
+}

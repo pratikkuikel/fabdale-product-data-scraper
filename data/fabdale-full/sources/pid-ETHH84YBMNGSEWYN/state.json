@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-ETHH84YBMNGSEWYN",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "724",
+    "725",
+    "726",
+    "727",
+    "728",
+    "5134"
+  ],
+  "source_path": "sources/pid-ETHH84YBMNGSEWYN/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T10:52:13.139Z",
+  "completed_at": "2026-08-12T10:52:20.806Z"
+}

@@ -1,0 +1,44 @@
+{
+  "key": "fbb790c61e831616cb3133c7",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:23:17.660Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/1/b/free-mg-gulzar-rama-magmina-unstitched-original-imahyxs9xy7zfatc.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/1/b/free-mg-gulzar-rama-magmina-unstitched-original-imahyxs9xy7zfatc.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/x/5/free-mg-gulzar-rama-magmina-unstitched-original-imahyxs9r23fzzzn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/x/5/free-mg-gulzar-rama-magmina-unstitched-original-imahyxs9r23fzzzn.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/6/n/n/free-mg-gulzar-rama-magmina-unstitched-original-imahyxs9rmebgwgk.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/6/n/n/free-mg-gulzar-rama-magmina-unstitched-original-imahyxs9rmebgwgk.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/4/h/l/free-mg-gulzar-rama-magmina-unstitched-original-imahyxs9acm7fryp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/4/h/l/free-mg-gulzar-rama-magmina-unstitched-original-imahyxs9acm7fryp.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/w/m/free-fk-ys-p2-gulzar-rama-yashika-unstitched-original-imah3ck65e4yhzah.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/w/m/free-fk-ys-p2-gulzar-rama-yashika-unstitched-original-imah3ck65e4yhzah.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

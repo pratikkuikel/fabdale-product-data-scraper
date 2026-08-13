@@ -1,0 +1,231 @@
+{
+  "product_id": "472",
+  "sku": "Fab-Saree-PATL-001BL",
+  "product": {
+    "name": "Patrini  Embroidered Bollywood Net Saree",
+    "parent_id": "5298",
+    "notes": "https://www.flipkart.com/patlani-style-embroidered-bollywood-net-saree/p/itm0a18021923ef3?pid=SARFSA6VEGCZWG6B&lid=LSTSARFSA6VEGCZWG6BOLTINF&marketplace=FLIPKART&q=patlani%20style&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SARFSA6VEGCZWG6B",
+    "path": "../../sources/pid-SARFSA6VEGCZWG6B/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/patlani-style-embroidered-bollywood-net-saree/p/itm0a18021923ef3?pid=SARFSA6VEGCZWG6B&lid=LSTSARFSA6VEGCZWG6BOLTINF&marketplace=FLIPKART&q=patlani%20style&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:17:38.798Z",
+    "final_url": "https://www.flipkart.com/patlani-style-embroidered-bollywood-net-saree/p/itm0a18021923ef3?pid=SARFSA6VEGCZWG6B&lid=LSTSARFSA6VEGCZWG6BOLTINF&marketplace=FLIPKART&q=patlani%20style&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:17:48.943Z"
+  },
+  "content": {
+    "title": "PATLANI STYLE Embroidered Bollywood Net Saree",
+    "short_description": "Fabric: Net\nPattern: Embroidered\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Soft Net Fabric\nThis Bollywood-style saree has been carefully made from soft net fabric, which gives it a light and …\n\nIntricate Embroidery\nThe intricate blossom embroidery on this saree adds a touch of attractiveness and sophistication to …\n\nUnstitched Blouse Piece\nThis unstitched blouse piece is a sensible addition to the saree that enables you to tailor your blo…\n\nVarious Ways of Styling\nThis saree gives you a variety of styling alternatives that can enhance your daily wardrobe, whether…\n\nLess Upkeep Required\nThe saree takes minimal effort behind its maintenance. You can soak the saree in cold water before c…",
+    "specifications": {
+      "Pattern": "Embroidered",
+      "Fabric": "Net",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c752ed1fef514006d6aa7e2b",
+      "path": "media/images/c752ed1fef514006d6aa7e2b/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "72fb64d9b4af669bc9ae91d0",
+      "path": "media/videos/72fb64d9b4af669bc9ae91d0/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/j/c/free-n-gulzar-grey-patlani-style-unstitched-resized-original-imahhyg4ysgzcuhs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/j/c/free-n-gulzar-grey-patlani-style-unstitched-resized-original-imahhyg4ysgzcuhs.jpeg?q=100",
+        "local_path": "../../media/images/c752ed1fef514006d6aa7e2b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/u/s/free-n-gulzar-grey-patlani-style-unstitched-original-imahhyg4gef5qcma.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/u/s/free-n-gulzar-grey-patlani-style-unstitched-original-imahhyg4gef5qcma.jpeg?q=100",
+        "local_path": "../../media/images/c752ed1fef514006d6aa7e2b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/w/n/free-n-gulzar-grey-patlani-style-unstitched-original-imahhyg4wanv9y2q.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/w/n/free-n-gulzar-grey-patlani-style-unstitched-original-imahhyg4wanv9y2q.jpeg?q=100",
+        "local_path": "../../media/images/c752ed1fef514006d6aa7e2b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/8/c/free-n-gulzar-grey-patlani-style-unstitched-original-imahhyg4aqpu2egg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/8/c/free-n-gulzar-grey-patlani-style-unstitched-original-imahhyg4aqpu2egg.jpeg?q=100",
+        "local_path": "../../media/images/c752ed1fef514006d6aa7e2b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/x/p/free-n-gulzar-grey-patlani-style-unstitched-original-imahhyg4phdyphzn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/x/p/free-n-gulzar-grey-patlani-style-unstitched-original-imahhyg4phdyphzn.jpeg?q=100",
+        "local_path": "../../media/images/c752ed1fef514006d6aa7e2b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN287yLgIGR2ybgp-BP_o27Q/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PATLANI STYLE Embroidered Bollywood Net Saree",
+      "description": "PATLANI STYLE Embroidered Bollywood Net Saree - Buy PATLANI STYLE Embroidered Bollywood Net Saree For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/j/c/free-n-gulzar-grey-patlani-style-unstitched-resized-original-imahhyg4ysgzcuhs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/u/s/free-n-gulzar-grey-patlani-style-unstitched-original-imahhyg4gef5qcma.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/w/n/free-n-gulzar-grey-patlani-style-unstitched-original-imahhyg4wanv9y2q.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/8/c/free-n-gulzar-grey-patlani-style-unstitched-original-imahhyg4aqpu2egg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/x/p/free-n-gulzar-grey-patlani-style-unstitched-original-imahhyg4phdyphzn.jpeg?q=70"
+      ],
+      "sku": "SARFSA6VEGCZWG6B",
+      "color": "GREY",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 4923,
+        "ratingCount": 85206,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PATLANI STYLE",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 343,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-04-23",
+          "reviewBody": "Beautiful saree",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Mahima Verma",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-04",
+          "reviewBody": "Amazing saree!! Best at this price.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Pooja Vk",
+            "@type": "Person"
+          },
+          "datePublished": "2020-11-14",
+          "reviewBody": "Perfect traditional attire😍 and Fast delivery by Flipkart ♥️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Soft Net Fabric",
+          "body": "This Bollywood-style saree has been carefully made from soft net fabric, which gives it a light and …"
+        },
+        {
+          "heading": "Intricate Embroidery",
+          "body": "The intricate blossom embroidery on this saree adds a touch of attractiveness and sophistication to …"
+        },
+        {
+          "heading": "Unstitched Blouse Piece",
+          "body": "This unstitched blouse piece is a sensible addition to the saree that enables you to tailor your blo…"
+        },
+        {
+          "heading": "Various Ways of Styling",
+          "body": "This saree gives you a variety of styling alternatives that can enhance your daily wardrobe, whether…"
+        },
+        {
+          "heading": "Less Upkeep Required",
+          "body": "The saree takes minimal effort behind its maintenance. You can soak the saree in cold water before c…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Embroidered",
+        "Fabric": "Net",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

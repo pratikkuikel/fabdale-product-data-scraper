@@ -1,0 +1,179 @@
+{
+  "product_id": "1808",
+  "sku": "Fab-Lehenga-KDRF-008PL",
+  "product": {
+    "name": "Kezel Embroidered Sequins Lehenga Choli",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/kedar-fab-embroidered-semi-stitched-lehenga-choli/p/itm6e3817d516c0b?pid=LCHHFN6AJBPZZ2R4&otracker=wishlist&lid=LSTLCHHFN6AJBPZZ2R46V6OUN&fm=organic&iid=aa2898d1-b59c-48d1-b40a-c19e36cd7c09.LCHHFN6AJBPZZ2R4.PRODUCTSUMMARY&ppt=None&ppn=None&ssid=3c7e24aeuo0000001757601775710"
+  },
+  "source_bundle": {
+    "key": "pid-LCHHFN6AJBPZZ2R4",
+    "path": "../../sources/pid-LCHHFN6AJBPZZ2R4/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kedar-fab-embroidered-semi-stitched-lehenga-choli/p/itm6e3817d516c0b?pid=LCHHFN6AJBPZZ2R4&otracker=wishlist&lid=LSTLCHHFN6AJBPZZ2R46V6OUN&fm=organic&iid=aa2898d1-b59c-48d1-b40a-c19e36cd7c09.LCHHFN6AJBPZZ2R4.PRODUCTSUMMARY&ppt=None&ppn=None&ssid=3c7e24aeuo0000001757601775710",
+    "scraped_at": "2026-08-13T07:24:25.588Z",
+    "final_url": "https://www.flipkart.com/kedar-fab-embroidered-semi-stitched-lehenga-choli/p/itm6e3817d516c0b?pid=LCHHFN6AJBPZZ2R4&otracker=wishlist&lid=LSTLCHHFN6AJBPZZ2R46V6OUN&fm=organic&iid=aa2898d1-b59c-48d1-b40a-c19e36cd7c09.LCHHFN6AJBPZZ2R4.PRODUCTSUMMARY&ppt=None&ppn=None&ssid=3c7e24aeuo0000001757601775710"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:24:31.503Z"
+  },
+  "content": {
+    "title": "Kedar Fab Embroidered Semi Stitched Lehenga Choli",
+    "short_description": "Kedar Fab Embroidered Semi Stitched Lehenga Choli - Buy Kedar Fab Embroidered Semi Stitched Lehenga Choli For Only Rs. 4299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Kedar Fab Embroidered Semi Stitched Lehenga Choli - Buy Kedar Fab Embroidered Semi Stitched Lehenga Choli For Only Rs. 4299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "cbf948c8cb809bac31d851ea",
+      "path": "media/images/cbf948c8cb809bac31d851ea/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/r/y/e/free-full-sleeve-stitched-44-purple-sanjivani-lehenga-shopsy-original-imahfn6azkjuwzt7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/r/y/e/free-full-sleeve-stitched-44-purple-sanjivani-lehenga-shopsy-original-imahfn6azkjuwzt7.jpeg?q=100",
+        "local_path": "../../media/images/cbf948c8cb809bac31d851ea/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/u/l/3/free-full-sleeve-stitched-44-purple-sanjivani-lehenga-shopsy-original-imahfn6ayzffzf77.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/u/l/3/free-full-sleeve-stitched-44-purple-sanjivani-lehenga-shopsy-original-imahfn6ayzffzf77.jpeg?q=100",
+        "local_path": "../../media/images/cbf948c8cb809bac31d851ea/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/a/9/w/free-full-sleeve-stitched-44-purple-sanjivani-lehenga-shopsy-original-imahfn6abbpanmgy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/a/9/w/free-full-sleeve-stitched-44-purple-sanjivani-lehenga-shopsy-original-imahfn6abbpanmgy.jpeg?q=100",
+        "local_path": "../../media/images/cbf948c8cb809bac31d851ea/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/g/0/f/free-full-sleeve-stitched-44-purple-sanjivani-lehenga-shopsy-original-imahfn6ambzaakee.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/g/0/f/free-full-sleeve-stitched-44-purple-sanjivani-lehenga-shopsy-original-imahfn6ambzaakee.jpeg?q=100",
+        "local_path": "../../media/images/cbf948c8cb809bac31d851ea/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Kedar Fab Embroidered Semi Stitched Lehenga Choli",
+      "description": "Kedar Fab Embroidered Semi Stitched Lehenga Choli - Buy Kedar Fab Embroidered Semi Stitched Lehenga Choli For Only Rs. 4299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/r/y/e/free-full-sleeve-stitched-44-purple-sanjivani-lehenga-shopsy-original-imahfn6azkjuwzt7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/u/l/3/free-full-sleeve-stitched-44-purple-sanjivani-lehenga-shopsy-original-imahfn6ayzffzf77.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/a/9/w/free-full-sleeve-stitched-44-purple-sanjivani-lehenga-shopsy-original-imahfn6abbpanmgy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-lehenga-choli/g/0/f/free-full-sleeve-stitched-44-purple-sanjivani-lehenga-shopsy-original-imahfn6ambzaakee.jpeg?q=70"
+      ],
+      "sku": "LCHHFN6AJBPZZ2R4",
+      "color": "Purple",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 27,
+        "ratingCount": 108,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Kedar Fab",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 902,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Slightly disappointed",
+          "author": {
+            "name": "Kalpeshbhai  Kishori",
+            "@type": "Person"
+          },
+          "datePublished": "2026-01-08",
+          "reviewBody": "Dupatta very Small",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Nidhi  Panwar",
+            "@type": "Person"
+          },
+          "datePublished": "2026-01-12",
+          "reviewBody": "This lehenga is fabulous 😍 its fabric is also too good 👍 but it's blouse is not stitched",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Kalyani  Jain",
+            "@type": "Person"
+          },
+          "datePublished": "2026-06-20",
+          "reviewBody": "Such a good fabric...very beautiful lehenga 💗",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

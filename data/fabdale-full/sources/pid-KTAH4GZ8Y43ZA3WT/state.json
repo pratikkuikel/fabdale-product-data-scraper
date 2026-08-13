@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-KTAH4GZ8Y43ZA3WT",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "1119",
+    "1120",
+    "1121",
+    "1122",
+    "1123",
+    "5524"
+  ],
+  "source_path": "sources/pid-KTAH4GZ8Y43ZA3WT/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T11:37:37.115Z",
+  "completed_at": "2026-08-12T11:37:47.143Z"
+}

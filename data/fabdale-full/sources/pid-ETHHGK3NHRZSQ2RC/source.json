@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/prisca-women-kurta-pant-dupatta-set/p/itmd41f422c73282?pid=ETHHGK3NHRZSQ2RC&marketplace=FLIPKART&lid=LSTETHHGK3NHRZSQ2RC0A1ZWY&swatchAttr=size&pageUID=1772444576776",
+    "scraped_at": "2026-08-12T11:08:41.776Z",
+    "final_url": "https://www.flipkart.com/prisca-women-kurta-pant-dupatta-set/p/itmd41f422c73282?pid=ETHHGK3NHRZSQ2RC&marketplace=FLIPKART&lid=LSTETHHGK3NHRZSQ2RC0A1ZWY&swatchAttr=size&pageUID=1772444576776"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:08:47.797Z"
+  },
+  "content": {
+    "title": "PRISCA Women Kurta Pant Dupatta Set",
+    "short_description": "PRISCA Women Kurta Pant Dupatta Set - Buy PRISCA Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PRISCA Women Kurta Pant Dupatta Set - Buy PRISCA Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/f/6/xxl-25-house-of-common-original-imahem9zd6bkrmtj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/f/6/xxl-25-house-of-common-original-imahem9zd6bkrmtj.jpeg?q=100",
+        "local_path": "../../media/images/ad21dd8f56a0f2c0efed227e/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/d/h/l-258-prisca-original-imahgk3ncxgbfyqf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/d/h/l-258-prisca-original-imahgk3ncxgbfyqf.jpeg?q=100",
+        "local_path": "../../media/images/ad21dd8f56a0f2c0efed227e/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/m/f/xxl-25-house-of-common-original-imahem9zardwknu6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/m/f/xxl-25-house-of-common-original-imahem9zardwknu6.jpeg?q=100",
+        "local_path": "../../media/images/ad21dd8f56a0f2c0efed227e/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/p/9/xxl-25-house-of-common-original-imahem9zrr8mqgkw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/p/9/xxl-25-house-of-common-original-imahem9zrr8mqgkw.jpeg?q=100",
+        "local_path": "../../media/images/ad21dd8f56a0f2c0efed227e/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PRISCA Women Kurta Pant Dupatta Set",
+      "description": "PRISCA Women Kurta Pant Dupatta Set - Buy PRISCA Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/f/6/xxl-25-house-of-common-original-imahem9zd6bkrmtj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/d/h/l-258-prisca-original-imahgk3ncxgbfyqf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/m/f/xxl-25-house-of-common-original-imahem9zardwknu6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/p/9/xxl-25-house-of-common-original-imahem9zrr8mqgkw.jpeg?q=70"
+      ],
+      "sku": "ETHHGK3NHRZSQ2RC",
+      "color": "blackk",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.6,
+        "reviewCount": 2,
+        "ratingCount": 39,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PRISCA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 815,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Expected a better product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-12-28",
+          "reviewBody": "Very high price according to the material material is very thin 😕 very disappointed",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Tabassum Mollah",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-24",
+          "reviewBody": "Material is very good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ad21dd8f56a0f2c0efed227e",
+      "path": "media/images/ad21dd8f56a0f2c0efed227e/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

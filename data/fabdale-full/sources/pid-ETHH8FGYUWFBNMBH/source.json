@@ -1,0 +1,168 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itmc3332325742df?pid=ETHH8FGYUWFBNMBH&marketplace=FLIPKART&lid=LSTETHH8FGYUWFBNMBHQTCBAU&swatchAttr=size&pageUID=1772728592034",
+    "scraped_at": "2026-08-12T11:55:10.724Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itmc3332325742df?pid=ETHH8FGYUWFBNMBH&marketplace=FLIPKART&lid=LSTETHH8FGYUWFBNMBHQTCBAU&swatchAttr=size&pageUID=1772728592034"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:55:21.176Z"
+  },
+  "content": {
+    "title": "Divastri Women Kurta Pant Dupatta Set",
+    "short_description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 1699.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 1699.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/i/v/1/m-skd-d-no-21-levender-dupatta-m-yagnik-fashion-original-imah9ef7hpbhwrqd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/i/v/1/m-skd-d-no-21-levender-dupatta-m-yagnik-fashion-original-imah9ef7hpbhwrqd.jpeg?q=100",
+        "local_path": "../../media/images/2feaf2b439c4227f5181034e/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/x/n/l-dv-d-no-21-lavender-emb-kurta-set-divastri-original-imahccafpux3yrmk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/x/n/l-dv-d-no-21-lavender-emb-kurta-set-divastri-original-imahccafpux3yrmk.jpeg?q=100",
+        "local_path": "../../media/images/2feaf2b439c4227f5181034e/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/1/a/j/l-dv-d-no-21-lavender-emb-kurta-set-divastri-original-imahccafzzpgpsre.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/1/a/j/l-dv-d-no-21-lavender-emb-kurta-set-divastri-original-imahccafzzpgpsre.jpeg?q=100",
+        "local_path": "../../media/images/2feaf2b439c4227f5181034e/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/c/x/l-dv-d-no-21-lavender-emb-kurta-set-divastri-original-imahccafkpbkwyzy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/c/x/l-dv-d-no-21-lavender-emb-kurta-set-divastri-original-imahccafkpbkwyzy.jpeg?q=100",
+        "local_path": "../../media/images/2feaf2b439c4227f5181034e/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Kurta Pant Dupatta Set",
+      "description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 1699.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/i/v/1/m-skd-d-no-21-levender-dupatta-m-yagnik-fashion-original-imah9ef7hpbhwrqd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/x/n/l-dv-d-no-21-lavender-emb-kurta-set-divastri-original-imahccafpux3yrmk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/1/a/j/l-dv-d-no-21-lavender-emb-kurta-set-divastri-original-imahccafzzpgpsre.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/c/x/l-dv-d-no-21-lavender-emb-kurta-set-divastri-original-imahccafkpbkwyzy.jpeg?q=70"
+      ],
+      "sku": "ETHH8FGYUWFBNMBH",
+      "color": "Lavender",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 94,
+        "ratingCount": 1680,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 510,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Aditya Rawat",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-12",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Kanchan Kshirsagar ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-22",
+          "reviewBody": "Kurta pant set is very nice. Very good fabric and same color as shown very good product in this price. embroidery of kurta and duppata design is awesome .",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Slightly disappointed",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-23",
+          "reviewBody": "Cloth quality Is little transperant and material quality is not good.",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "2feaf2b439c4227f5181034e",
+      "path": "media/images/2feaf2b439c4227f5181034e/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

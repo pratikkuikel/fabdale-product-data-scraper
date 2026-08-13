@@ -1,0 +1,44 @@
+{
+  "key": "d545fc16ac8f8c277c90d5f2",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:27:34.318Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/9/p/free-fk-ys-p1-utisha-peach-yashika-unstitched-original-imahympuehp76qcm.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/t/9/p/free-fk-ys-p1-utisha-peach-yashika-unstitched-original-imahympuehp76qcm.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/n/l/free-fk-ys-p1-utisha-peach-yashika-unstitched-original-imahympufmbc4zcx.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/0/n/l/free-fk-ys-p1-utisha-peach-yashika-unstitched-original-imahympufmbc4zcx.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/k/c/w/free-fk-ys-p1-utisha-peach-yashika-unstitched-original-imahympukxeeahhw.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/k/c/w/free-fk-ys-p1-utisha-peach-yashika-unstitched-original-imahympukxeeahhw.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/i/s/free-fk-ys-p1-utisha-peach-yashika-unstitched-original-imahympuag6fhqsa.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/n/i/s/free-fk-ys-p1-utisha-peach-yashika-unstitched-original-imahympuag6fhqsa.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/y/3/v/free-fk-ys-p1-utisha-peach-yashika-unstitched-original-imahympu7n6yssmf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/y/3/v/free-fk-ys-p1-utisha-peach-yashika-unstitched-original-imahympu7n6yssmf.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

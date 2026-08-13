@@ -1,0 +1,199 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/samah-geometric-print-printed-embellished-bollywood-georgette-chiffon-saree/p/itmf30b2b022ad70?pid=SARGAQZGMXH6VE6C&lid=LSTSARGAQZGMXH6VE6C8CW5M9&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:18:47.008Z",
+    "final_url": "https://www.flipkart.com/samah-geometric-print-printed-embellished-bollywood-georgette-chiffon-saree/p/itmf30b2b022ad70?pid=SARGAQZGMXH6VE6C&lid=LSTSARGAQZGMXH6VE6C8CW5M9&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:18:55.141Z"
+  },
+  "content": {
+    "title": "Samah Printed Daily Wear Georgette, Chiffon Saree",
+    "short_description": "Fabric: Georgette, Chiffon\nPattern: Printed\nType: Daily Wear\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Samah Printed Daily Wear Georgette, Chiffon Saree - Buy Samah Printed Daily Wear Georgette, Chiffon Saree For Only Rs. 3330.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Printed",
+      "Fabric": "Georgette, Chiffon",
+      "Type": "Daily Wear",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/2/i/free-2206s934-samah-unstitched-resized-original-imahjyyp6gyxhwx6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/2/i/free-2206s934-samah-unstitched-resized-original-imahjyyp6gyxhwx6.jpeg?q=100",
+        "local_path": "../../media/images/901fd54ea3c0c5d1d95301b9/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/4/5/free-2206s934-samah-unstitched-original-imahjyyp2cnm9hvt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/4/5/free-2206s934-samah-unstitched-original-imahjyyp2cnm9hvt.jpeg?q=100",
+        "local_path": "../../media/images/901fd54ea3c0c5d1d95301b9/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/7/k/t/free-2206s934-samah-unstitched-original-imahjyypzdbzxgxz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/7/k/t/free-2206s934-samah-unstitched-original-imahjyypzdbzxgxz.jpeg?q=100",
+        "local_path": "../../media/images/901fd54ea3c0c5d1d95301b9/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/m/x/free-2206s934-samah-unstitched-original-imahjyypdtrzjfdq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/m/x/free-2206s934-samah-unstitched-original-imahjyypdtrzjfdq.jpeg?q=100",
+        "local_path": "../../media/images/901fd54ea3c0c5d1d95301b9/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/l/d/free-2206s934-samah-unstitched-original-imahjyyp7zjrracc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/l/d/free-2206s934-samah-unstitched-original-imahjyyp7zjrracc.jpeg?q=100",
+        "local_path": "../../media/images/901fd54ea3c0c5d1d95301b9/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNaUWoS_x6TIOIYWHjSeykKw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Samah Printed Daily Wear Georgette, Chiffon Saree",
+      "description": "Samah Printed Daily Wear Georgette, Chiffon Saree - Buy Samah Printed Daily Wear Georgette, Chiffon Saree For Only Rs. 3330.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/r/2/i/free-2206s934-samah-unstitched-resized-original-imahjyyp6gyxhwx6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/o/4/5/free-2206s934-samah-unstitched-original-imahjyyp2cnm9hvt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/7/k/t/free-2206s934-samah-unstitched-original-imahjyypzdbzxgxz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/d/m/x/free-2206s934-samah-unstitched-original-imahjyypdtrzjfdq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/l/d/free-2206s934-samah-unstitched-original-imahjyyp7zjrracc.jpeg?q=70"
+      ],
+      "sku": "SARGAQZGMXH6VE6C",
+      "color": "Blue",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 989,
+        "ratingCount": 18944,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Samah",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 437,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Rahul Raj",
+            "@type": "Person"
+          },
+          "datePublished": "2022-02-22",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Aman  Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2021-10-19",
+          "reviewBody": "Good Quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Surekha  K",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-21",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Fabric": "Georgette, Chiffon",
+        "Type": "Daily Wear",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "901fd54ea3c0c5d1d95301b9",
+      "path": "media/images/901fd54ea3c0c5d1d95301b9/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "b75948a9704052adc4afff82",
+      "path": "media/videos/b75948a9704052adc4afff82/media.json",
+      "reused": false
+    }
+  }
+}

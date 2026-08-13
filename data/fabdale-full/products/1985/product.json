@@ -1,0 +1,175 @@
+{
+  "product_id": "1985",
+  "sku": "Fab-Shirt-METR-006BL-M",
+  "product": {
+    "name": "Metronex Solid Button Down Shirt",
+    "parent_id": "5259",
+    "notes": "https://www.flipkart.com/metronaut-men-solid-casual-light-blue-shirt/p/itm9fec5c55ad340?pid=SHTHBZZRG5UEGMMA&marketplace=FLIPKART&lid=LSTSHTHBZZRG5UEGMMAPMQIZB&swatchAttr=size&pageUID=1773309901527"
+  },
+  "source_bundle": {
+    "key": "pid-SHTHBZZRG5UEGMMA",
+    "path": "../../sources/pid-SHTHBZZRG5UEGMMA/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-light-blue-shirt/p/itm9fec5c55ad340?pid=SHTHBZZRG5UEGMMA&lid=LSTSHTHBZZRG5UEGMMAPMQIZB&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:59:18.515Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-light-blue-shirt/p/itm9fec5c55ad340?pid=SHTHBZZRG5UEGMMA&lid=LSTSHTHBZZRG5UEGMMAPMQIZB&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:59:26.719Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Solid Casual Light Blue Shirt",
+    "short_description": "METRONAUT Men Solid Casual Light Blue Shirt - Buy METRONAUT Men Solid Casual Light Blue Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "METRONAUT Men Solid Casual Light Blue Shirt - Buy METRONAUT Men Solid Casual Light Blue Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "92f7a3593a5f604c1d90d877",
+      "path": "media/images/92f7a3593a5f604c1d90d877/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/u/r/xl-new-sr232-metronaut-original-imahbzzryz7grgdp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/u/r/xl-new-sr232-metronaut-original-imahbzzryz7grgdp.jpeg?q=100",
+        "local_path": "../../media/images/92f7a3593a5f604c1d90d877/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/q/y/xl-new-sr232-metronaut-original-imahbzzrge46jhjr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/q/y/xl-new-sr232-metronaut-original-imahbzzrge46jhjr.jpeg?q=100",
+        "local_path": "../../media/images/92f7a3593a5f604c1d90d877/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/5/g/xl-new-sr232-metronaut-original-imahbzzrgq8tygh6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/5/g/xl-new-sr232-metronaut-original-imahbzzrgq8tygh6.jpeg?q=100",
+        "local_path": "../../media/images/92f7a3593a5f604c1d90d877/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/b/e/xl-new-sr232-metronaut-original-imahbzzrytg68aqp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/b/e/xl-new-sr232-metronaut-original-imahbzzrytg68aqp.jpeg?q=100",
+        "local_path": "../../media/images/92f7a3593a5f604c1d90d877/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/8/2/w/xl-new-sr232-metronaut-original-imahbzzrhd2h6fad.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/8/2/w/xl-new-sr232-metronaut-original-imahbzzrhd2h6fad.jpeg?q=100",
+        "local_path": "../../media/images/92f7a3593a5f604c1d90d877/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Solid Casual Light Blue Shirt",
+      "description": "METRONAUT Men Solid Casual Light Blue Shirt - Buy METRONAUT Men Solid Casual Light Blue Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/t/u/r/xl-new-sr232-metronaut-original-imahbzzryz7grgdp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/c/q/y/xl-new-sr232-metronaut-original-imahbzzrge46jhjr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/5/5/g/xl-new-sr232-metronaut-original-imahbzzrgq8tygh6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/p/b/e/xl-new-sr232-metronaut-original-imahbzzrytg68aqp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/8/2/w/xl-new-sr232-metronaut-original-imahbzzrhd2h6fad.jpeg?q=70"
+      ],
+      "sku": "SHTHBZZRG5UEGMMA",
+      "color": "Light Blue",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 25,
+        "ratingCount": 69,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 484,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-03",
+          "reviewBody": "Dress clothes bad it's not cotton.",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Does the job",
+          "author": {
+            "name": "Pooja Pinjani",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-25",
+          "reviewBody": "Not good quality",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "pinky ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-15",
+          "reviewBody": "Easy to iron and holds up all day",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

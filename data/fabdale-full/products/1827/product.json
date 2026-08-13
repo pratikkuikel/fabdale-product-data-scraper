@@ -1,0 +1,233 @@
+{
+  "product_id": "1827",
+  "sku": "Fab-Lehenga-KDRF-027MR",
+  "product": {
+    "name": "Kezel Velvet Lehenga Choli",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/kedar-fab-embroidered-semi-stitched-lehenga-choli/p/itm6403d40390944?pid=LCHGZG5HZ3EFURWU&otracker=wishlist&lid=LSTLCHGZG5HZ3EFURWUMZBIRW&fm=organic&iid=cc31c842-804e-4b1d-a848-03476a2e7add.LCHGZG5HZ3EFURWU.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=9zx5afsia80000001757690388784"
+  },
+  "source_bundle": {
+    "key": "pid-LCHGZG5HZ3EFURWU",
+    "path": "../../sources/pid-LCHGZG5HZ3EFURWU/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kedar-fab-embroidered-semi-stitched-lehenga-choli/p/itm6403d40390944?pid=LCHGZG5HZ3EFURWU&otracker=wishlist&lid=LSTLCHGZG5HZ3EFURWUMZBIRW&fm=organic&iid=cc31c842-804e-4b1d-a848-03476a2e7add.LCHGZG5HZ3EFURWU.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=9zx5afsia80000001757690388784",
+    "scraped_at": "2026-08-13T07:32:20.373Z",
+    "final_url": "https://www.flipkart.com/kedar-fab-embroidered-semi-stitched-lehenga-choli/p/itm6403d40390944?pid=LCHGZG5HZ3EFURWU&otracker=wishlist&lid=LSTLCHGZG5HZ3EFURWUMZBIRW&fm=organic&iid=cc31c842-804e-4b1d-a848-03476a2e7add.LCHGZG5HZ3EFURWU.PRODUCTSUMMARY&ppt=hp&ppn=homepage&ssid=9zx5afsia80000001757690388784"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-13T07:32:47.125Z"
+  },
+  "content": {
+    "title": "Kedar Fab Embroidered Semi Stitched Lehenga Choli",
+    "short_description": "Color: Purple\nPattern: Embroidered\nType: Lehenga Choli\nLehenga Fabric: Velvet\nCholi Fabric: Velvet\nDupatta Fabric: Net\nStitching Type: Semi Stitched\nSales Package: 1 Semi-Stitched Lehenga, 1 Dupatta, 1 Un-Stitched Blouse",
+    "description": "Exquisite Embellishments\nBoasting intricate placement embroidery and elegant zari work, this lehenga choli set is a masterpie…\n\nConvenient Design\nCourtesy of its semi-stitched design, this set offers flexibility and convenience. Designed with a s…\n\nExcellent Quality\nCrafted from rich materials, this lehenga choli set exudes luxury. Furthermore, its dupatta fabric i…\n\nEthnic Wear\nThis set is suitable for a variety of occasions, including parties, festive celebrations, and weddin…",
+    "specifications": {
+      "Lehenga Fabric": "Velvet",
+      "Choli Fabric": "Velvet",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Net",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Embroidered",
+      "Sales Package": "1 Semi-Stitched Lehenga, 1 Dupatta, 1 Un-Stitched Blouse",
+      "Color": "Purple"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "dd4e6b52a6914d5b2dc8955f",
+      "path": "media/images/dd4e6b52a6914d5b2dc8955f/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "1d3bc56a7e9406e537598deb",
+      "path": "media/videos/1d3bc56a7e9406e537598deb/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/x/c/6/free-short-sleeve-gmrlc-kedar-fab-resized-original-imahf76jdspev6sf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/x/c/6/free-short-sleeve-gmrlc-kedar-fab-resized-original-imahf76jdspev6sf.jpeg?q=100",
+        "local_path": "../../media/images/dd4e6b52a6914d5b2dc8955f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/a/j/e/free-short-sleeve-gmrlc-kedar-fab-original-imahf76jrsfhvxtg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/a/j/e/free-short-sleeve-gmrlc-kedar-fab-original-imahf76jrsfhvxtg.jpeg?q=100",
+        "local_path": "../../media/images/dd4e6b52a6914d5b2dc8955f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/x/f/free-short-sleeve-gmrlc-kedar-fab-original-imahf76jkfftt8tw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/x/f/free-short-sleeve-gmrlc-kedar-fab-original-imahf76jkfftt8tw.jpeg?q=100",
+        "local_path": "../../media/images/dd4e6b52a6914d5b2dc8955f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/r/p/free-short-sleeve-gmrlc-kedar-fab-original-imahf76jcqur75gh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/r/p/free-short-sleeve-gmrlc-kedar-fab-original-imahf76jcqur75gh.jpeg?q=100",
+        "local_path": "../../media/images/dd4e6b52a6914d5b2dc8955f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/s/l/free-short-sleeve-gmrlc-kedar-fab-original-imahf76j2yzfrjvy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/s/l/free-short-sleeve-gmrlc-kedar-fab-original-imahf76j2yzfrjvy.jpeg?q=100",
+        "local_path": "../../media/images/dd4e6b52a6914d5b2dc8955f/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNdKfb3T3JTDelBGXX-f1khA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Kedar Fab Embroidered Semi Stitched Lehenga Choli",
+      "description": "Kedar Fab Embroidered Semi Stitched Lehenga Choli - Buy Kedar Fab Embroidered Semi Stitched Lehenga Choli For Only Rs. 2499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/x/c/6/free-short-sleeve-gmrlc-kedar-fab-resized-original-imahf76jdspev6sf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/a/j/e/free-short-sleeve-gmrlc-kedar-fab-original-imahf76jrsfhvxtg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/x/f/free-short-sleeve-gmrlc-kedar-fab-original-imahf76jkfftt8tw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/r/p/free-short-sleeve-gmrlc-kedar-fab-original-imahf76jcqur75gh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/9/s/l/free-short-sleeve-gmrlc-kedar-fab-original-imahf76j2yzfrjvy.jpeg?q=70"
+      ],
+      "sku": "LCHGZG5HZ3EFURWU",
+      "color": "Purple",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 269,
+        "ratingCount": 5393,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Kedar Fab",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 837,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Vishwajeet Rajbhar ji",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-12",
+          "reviewBody": "Osm product ☺️☺️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Manaswini Manik",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-20",
+          "reviewBody": "Very nice cloth and smooth happy...... 🥰",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Santosh Lodhi",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-20",
+          "reviewBody": "Nice , product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Exquisite Embellishments",
+          "body": "Boasting intricate placement embroidery and elegant zari work, this lehenga choli set is a masterpie…"
+        },
+        {
+          "heading": "Convenient Design",
+          "body": "Courtesy of its semi-stitched design, this set offers flexibility and convenience. Designed with a s…"
+        },
+        {
+          "heading": "Excellent Quality",
+          "body": "Crafted from rich materials, this lehenga choli set exudes luxury. Furthermore, its dupatta fabric i…"
+        },
+        {
+          "heading": "Ethnic Wear",
+          "body": "This set is suitable for a variety of occasions, including parties, festive celebrations, and weddin…"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Velvet",
+        "Choli Fabric": "Velvet",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Net",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Embroidered",
+        "Sales Package": "1 Semi-Stitched Lehenga, 1 Dupatta, 1 Un-Stitched Blouse",
+        "Color": "Purple"
+      },
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "key": "392e9ac8f3cfd73f2b2ff235",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:18:35.798Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/9/z/free-3736s2631-samah-unstitched-original-imah8cqhscfgybsp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/f/9/z/free-3736s2631-samah-unstitched-original-imah8cqhscfgybsp.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/e/4/i/free-3736s2631-samah-unstitched-original-imah8cqhhsahekvx.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/e/4/i/free-3736s2631-samah-unstitched-original-imah8cqhhsahekvx.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/o/4/free-3736s2631-samah-unstitched-original-imah8cqh7gjhmrud.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/o/4/free-3736s2631-samah-unstitched-original-imah8cqh7gjhmrud.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/y/t/free-3736s2631-samah-unstitched-original-imah8cqhdq8a92he.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/5/y/t/free-3736s2631-samah-unstitched-original-imah8cqhdq8a92he.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/1/z/f/free-rukmani-black-jahal-fashion-unstitched-original-imah2n3fyjk3qqh2.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/1/z/f/free-rukmani-black-jahal-fashion-unstitched-original-imah2n3fyjk3qqh2.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

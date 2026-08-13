@@ -1,0 +1,16 @@
+{
+  "key": "8d74e64c8bb476a59539132d",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T10:38:27.917Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/3/w/b/yes-2-m-unstitched-2-m-2-5-m-hum-tum-lavender-m-fashion-resized-original-imaghba4xdztyh77.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/3/w/b/yes-2-m-unstitched-2-m-2-5-m-hum-tum-lavender-m-fashion-resized-original-imaghba4xdztyh77.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

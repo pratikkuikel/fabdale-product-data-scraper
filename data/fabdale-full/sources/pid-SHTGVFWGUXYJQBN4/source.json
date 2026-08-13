@@ -1,0 +1,208 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-floral-print-casual-black-shirt/p/itm3712e66194fec?pid=SHTGVFWGUXYJQBN4&marketplace=FLIPKART&lid=LSTSHTGVFWGUXYJQBN4R5ONWI&swatchAttr=size&pageUID=1773307622073",
+    "scraped_at": "2026-08-13T07:54:27.663Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-floral-print-casual-black-shirt/p/itm3712e66194fec?pid=SHTGVFWGUXYJQBN4&marketplace=FLIPKART&lid=LSTSHTGVFWGUXYJQBN4R5ONWI&swatchAttr=size&pageUID=1773307622073"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:54:42.923Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Floral Print Casual Black Shirt",
+    "short_description": "Color: Black\nFabric: Cotton Blend\nPattern: Floral Print\nSleeve: Half Sleeve\nPack of: 1",
+    "description": "Casual Comfort\nThis men's shirt is perfect for casual occasions, allowing you to look effortlessly stylish while fe…\n\nEye-Catching Print\nFeaturing a bold printed pattern, this shirt adds a touch of personality and flair to your casual ou…\n\nOversized Comfort\nWith its oversized fit, this shirt offers a relaxed and comfortable feel, allowing you to move freel…\n\nQuality Fabric\nCrafted from a comfortable and breathable cotton blend fabric, this shirt ensures a soft and smooth …",
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Half Sleeve",
+      "Pattern": "Floral Print",
+      "Color": "Black"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/z/o/xl-lwt-brown-brothers-resized-original-imagff9ycnz5zjde.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/z/o/xl-lwt-brown-brothers-resized-original-imagff9ycnz5zjde.jpeg?q=100",
+        "local_path": "../../media/images/8766d1c3c1c3b52bd3289c0c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l3ys70w0/shirt/r/5/q/m-loose-fit-brown-brothers-original-imagey7qtzngp4ey.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l3ys70w0/shirt/r/5/q/m-loose-fit-brown-brothers-original-imagey7qtzngp4ey.jpeg?q=100",
+        "local_path": "../../media/images/8766d1c3c1c3b52bd3289c0c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l3ys70w0/shirt/u/9/y/m-loose-fit-brown-brothers-original-imagey7qhyeakwtc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l3ys70w0/shirt/u/9/y/m-loose-fit-brown-brothers-original-imagey7qhyeakwtc.jpeg?q=100",
+        "local_path": "../../media/images/8766d1c3c1c3b52bd3289c0c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l3ys70w0/shirt/z/k/8/m-loose-fit-brown-brothers-original-imagey7qqdnzfqgh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l3ys70w0/shirt/z/k/8/m-loose-fit-brown-brothers-original-imagey7qqdnzfqgh.jpeg?q=100",
+        "local_path": "../../media/images/8766d1c3c1c3b52bd3289c0c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNO9fYiQuYTyCk9ozSiqILxw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "METRONAUT Men Floral Print Casual Black Shirt",
+      "description": "METRONAUT Men Floral Print Casual Black Shirt - Buy METRONAUT Men Floral Print Casual Black Shirt For Only Rs. 1699.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shirt/d/z/o/xl-lwt-brown-brothers-resized-original-imagff9ycnz5zjde.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l3ys70w0/shirt/r/5/q/m-loose-fit-brown-brothers-original-imagey7qtzngp4ey.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l3ys70w0/shirt/u/9/y/m-loose-fit-brown-brothers-original-imagey7qhyeakwtc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l3ys70w0/shirt/z/k/8/m-loose-fit-brown-brothers-original-imagey7qqdnzfqgh.jpeg?q=70"
+      ],
+      "sku": "SHTGVFWGUXYJQBN4",
+      "color": "BLACK3",
+      "category": "shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 21,
+        "ratingCount": 564,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "METRONAUT",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 351,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Yash sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-13",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Shiv Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-02",
+          "reviewBody": "Quality is super",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Kiran madipalli Kiran",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-31",
+          "reviewBody": "Good and nice product thank you Flipkart ❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Casual Comfort",
+          "body": "This men's shirt is perfect for casual occasions, allowing you to look effortlessly stylish while fe…"
+        },
+        {
+          "heading": "Eye-Catching Print",
+          "body": "Featuring a bold printed pattern, this shirt adds a touch of personality and flair to your casual ou…"
+        },
+        {
+          "heading": "Oversized Comfort",
+          "body": "With its oversized fit, this shirt offers a relaxed and comfortable feel, allowing you to move freel…"
+        },
+        {
+          "heading": "Quality Fabric",
+          "body": "Crafted from a comfortable and breathable cotton blend fabric, this shirt ensures a soft and smooth …"
+        }
+      ],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Half Sleeve",
+        "Pattern": "Floral Print",
+        "Color": "Black"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "8766d1c3c1c3b52bd3289c0c",
+      "path": "media/images/8766d1c3c1c3b52bd3289c0c/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "74c1521a42033ee5ce4f6040",
+      "path": "media/videos/74c1521a42033ee5ce4f6040/media.json",
+      "reused": false
+    }
+  }
+}

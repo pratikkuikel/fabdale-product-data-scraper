@@ -1,0 +1,44 @@
+{
+  "key": "8a86a697ee05b96378c900d6",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:26:26.164Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/z/a/free-sleeveless-purple-vardhman-lehenga-kf-kedar-fab-original-imahcn8hgdbpbdgt.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/z/a/free-sleeveless-purple-vardhman-lehenga-kf-kedar-fab-original-imahcn8hgdbpbdgt.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/n/k/free-sleeveless-purple-vardhman-lehenga-kf-kedar-fab-original-imahcn8htypmtyfx.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/n/k/free-sleeveless-purple-vardhman-lehenga-kf-kedar-fab-original-imahcn8htypmtyfx.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/p/0/free-sleeveless-purple-vardhman-lehenga-kf-kedar-fab-original-imahcn8hcqtkzywh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/p/0/free-sleeveless-purple-vardhman-lehenga-kf-kedar-fab-original-imahcn8hcqtkzywh.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/a/y/r/free-sleeveless-purple-vardhman-lehenga-kf-kedar-fab-original-imahcn8hhxfncjnh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/a/y/r/free-sleeveless-purple-vardhman-lehenga-kf-kedar-fab-original-imahcn8hhxfncjnh.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/h/1/free-sleeveless-purple-vardhman-lehenga-kf-kedar-fab-original-imahcn8hvzpvwzxc.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/j/h/1/free-sleeveless-purple-vardhman-lehenga-kf-kedar-fab-original-imahcn8hvzpvwzxc.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm28784ebdc5d88?pid=ETHH4EM5FAWYHJQF&lid=LSTETHH4EM5FAWYHJQFYEMOZJ&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T16:09:30.486Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itm28784ebdc5d88?pid=ETHH4EM5FAWYHJQF&lid=LSTETHH4EM5FAWYHJQFYEMOZJ&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T16:09:39.766Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": null,
+    "videos": null
+  }
+}

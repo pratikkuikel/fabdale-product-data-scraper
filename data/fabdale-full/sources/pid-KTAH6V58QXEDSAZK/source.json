@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm19afe9f97b89a?pid=KTAH6V58QXEDSAZK&marketplace=FLIPKART&lid=LSTKTAH6V58QXEDSAZK5SUMBZ&swatchAttr=size&pageUID=1772645170107",
+    "scraped_at": "2026-08-12T11:29:40.200Z",
+    "final_url": "https://www.flipkart.com/prisca-women-floral-print-straight-kurta/p/itm19afe9f97b89a?pid=KTAH6V58QXEDSAZK&marketplace=FLIPKART&lid=LSTKTAH6V58QXEDSAZK5SUMBZ&swatchAttr=size&pageUID=1772645170107"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:29:46.667Z"
+  },
+  "content": {
+    "title": "PRISCA Women Floral Print Straight Kurta",
+    "short_description": "PRISCA Women Floral Print Straight Kurta - Buy PRISCA Women Floral Print Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PRISCA Women Floral Print Straight Kurta - Buy PRISCA Women Floral Print Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/1/d/v/-resized-original-imahjypkz2ph9fym.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/1/d/v/-resized-original-imahjypkz2ph9fym.jpeg?q=100",
+        "local_path": "../../media/images/ed30470219532c1abd40b2a7/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/m/e/a/-original-imahjxfz7hy67xr4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/m/e/a/-original-imahjxfz7hy67xr4.jpeg?q=100",
+        "local_path": "../../media/images/ed30470219532c1abd40b2a7/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/p/s/-original-imahjypkmxhsfw4h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/p/s/-original-imahjypkmxhsfw4h.jpeg?q=100",
+        "local_path": "../../media/images/ed30470219532c1abd40b2a7/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/o/p/-original-imahjzwaurxtemqa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/o/p/-original-imahjzwaurxtemqa.jpeg?q=100",
+        "local_path": "../../media/images/ed30470219532c1abd40b2a7/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/b/a/-original-imahjzwavnzrzdyk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/b/a/-original-imahjzwavnzrzdyk.jpeg?q=100",
+        "local_path": "../../media/images/ed30470219532c1abd40b2a7/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PRISCA Women Floral Print Straight Kurta",
+      "description": "PRISCA Women Floral Print Straight Kurta - Buy PRISCA Women Floral Print Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/1/d/v/-resized-original-imahjypkz2ph9fym.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/m/e/a/-original-imahjxfz7hy67xr4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/p/s/-original-imahjypkmxhsfw4h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/o/p/-original-imahjzwaurxtemqa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/b/a/-original-imahjzwavnzrzdyk.jpeg?q=70"
+      ],
+      "sku": "KTAH6V58QXEDSAZK",
+      "color": "INDIGO V",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 77,
+        "ratingCount": 1288,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PRISCA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 258,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-29",
+          "reviewBody": "It's sooo pretty 😍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Sapna  Jaiswal ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-18",
+          "reviewBody": "Its not cotton fabric.",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Abiya Joy",
+            "@type": "Person"
+          },
+          "datePublished": "2026-03-05",
+          "reviewBody": "Not pure cotton its blend bt worth the price 👍🏽",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ed30470219532c1abd40b2a7",
+      "path": "media/images/ed30470219532c1abd40b2a7/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

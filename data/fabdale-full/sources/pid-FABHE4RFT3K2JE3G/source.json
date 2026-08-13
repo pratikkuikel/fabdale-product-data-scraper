@@ -1,0 +1,180 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmdf837d6c66c4c?pid=FABHE4RFT3K2JE3G&lid=LSTFABHE4RFT3K2JE3G6BYVOD&marketplace=FLIPKART&sattr[]=color&sattr[]=bottom_length&st=color",
+    "scraped_at": "2026-08-12T10:35:43.958Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmdf837d6c66c4c?pid=FABHE4RFT3K2JE3G&lid=LSTFABHE4RFT3K2JE3G6BYVOD&marketplace=FLIPKART&sattr[]=color&sattr[]=bottom_length&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:35:50.514Z"
+  },
+  "content": {
+    "title": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 top, 1 dupatta, 1 salwar\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.999.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top, 1 dupatta, 1 salwar",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/e/i/o/yes-2-5-m-unstitched-2-2-m-mtmt-white-multicolor-soni-yy-081-original-imahjxf9gwfkjekp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/e/i/o/yes-2-5-m-unstitched-2-2-m-mtmt-white-multicolor-soni-yy-081-original-imahjxf9gwfkjekp.jpeg?q=100",
+        "local_path": "../../media/images/30da2f96186fbe2fb4b3491d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+      "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.999.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/e/i/o/yes-2-5-m-unstitched-2-2-m-mtmt-white-multicolor-soni-yy-081-original-imahjxf9gwfkjekp.jpeg?q=70"
+      ],
+      "sku": "FABHE4RFT3K2JE3G",
+      "color": "multicolour",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 3,
+        "ratingCount": 46,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "krishna boutique",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 523,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Mudit Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-11-25",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "shagun",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-06",
+          "reviewBody": "Beautiful product with nice color and good quality cloth. Does not fade",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrible product",
+          "author": {
+            "name": "Swarup  Dutta ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-04",
+          "reviewBody": "Pure cotton, but very thin,as per quality of the product the price is high..",
+          "reviewRating": {
+            "ratingValue": 1,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top, 1 dupatta, 1 salwar",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {
+        "Brand": "krishna boutique",
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top, 1 dupatta, 1 salwar",
+        "Ideal For": "Women",
+        "Occasion": "Casual",
+        "Fabric Care": "Hand wash",
+        "Style Code": "Vijayki_1",
+        "Bottom Length": "2.20m",
+        "Dupatta Length": "2.2 m",
+        "Top Length": "2.5 m",
+        "Color": "Multicolor",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched",
+        "Brand Color": "multicolour",
+        "Dupatta": "Yes",
+        "Fabric Purity": "Pure",
+        "Ornamentation Type": "NA",
+        "Regional Speciality": "Rajshahi"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "30da2f96186fbe2fb4b3491d",
+      "path": "media/images/30da2f96186fbe2fb4b3491d/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

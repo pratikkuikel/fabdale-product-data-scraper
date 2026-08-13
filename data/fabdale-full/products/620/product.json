@@ -1,0 +1,171 @@
+{
+  "product_id": "620",
+  "sku": "Fab-Drsmtl-TAVS-015LV",
+  "product": {
+    "name": "Tavisha Latest Trendy Salwar Suit Material with Dupatta",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/tavas-chanderi-embroidered-salwar-suit-material/p/itm932cbfd99efd1?pid=FABH929AE6EUTQAE&lid=LSTFABH929AE6EUTQAEFVFVKN&marketplace=FLIPKART&store=clo%2Fqfi%2Fxcx%2Fms4&srno=b_1_5&otracker=browse&fm=organic&iid=en_rZcyTSj7gCGydzIKPCrhIZskSWHiCnYEU4JmfMNUS_pStYw1_G0BUZgZUGMmSC4NgoJ5i8aEsByo2g1l298gZQ%3D%3D&ppt=None&ppn=None&ssid=7p94rb9lts0000001763545708814"
+  },
+  "source_bundle": {
+    "key": "pid-FABH929AE6EUTQAE",
+    "path": "../../sources/pid-FABH929AE6EUTQAE/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tavas-chanderi-embroidered-salwar-suit-material/p/itm932cbfd99efd1?pid=FABH929AE6EUTQAE&lid=LSTFABH929AE6EUTQAEFVFVKN&marketplace=FLIPKART&store=clo%2Fqfi%2Fxcx%2Fms4&srno=b_1_5&otracker=browse&fm=organic&iid=en_rZcyTSj7gCGydzIKPCrhIZskSWHiCnYEU4JmfMNUS_pStYw1_G0BUZgZUGMmSC4NgoJ5i8aEsByo2g1l298gZQ%3D%3D&ppt=None&ppn=None&ssid=7p94rb9lts0000001763545708814",
+    "scraped_at": "2026-08-12T10:41:15.175Z",
+    "final_url": "https://www.flipkart.com/tavas-chanderi-embroidered-salwar-suit-material/p/itm932cbfd99efd1?pid=FABH929AE6EUTQAE&lid=LSTFABH929AE6EUTQAEFVFVKN&marketplace=FLIPKART&store=clo%2Fqfi%2Fxcx%2Fms4&srno=b_1_5&otracker=browse&fm=organic&iid=en_rZcyTSj7gCGydzIKPCrhIZskSWHiCnYEU4JmfMNUS_pStYw1_G0BUZgZUGMmSC4NgoJ5i8aEsByo2g1l298gZQ%3D%3D&ppt=None&ppn=None&ssid=7p94rb9lts0000001763545708814"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:41:20.374Z"
+  },
+  "content": {
+    "title": "Tavas Chanderi Embroidered Salwar Suit Material",
+    "short_description": "Buy Tavas Chanderi Embroidered Salwar Suit Material for Rs.2999.0 online. Tavas Chanderi Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "description": "Buy Tavas Chanderi Embroidered Salwar Suit Material for Rs.2999.0 online. Tavas Chanderi Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "79510fe9801e549c0934b70c",
+      "path": "media/images/79510fe9801e549c0934b70c/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/h/j/yes-2-5-m-unstitched-2-2-m-tavas-101-tavas-resized-original-imahdj7yhxvnbgcs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/h/j/yes-2-5-m-unstitched-2-2-m-tavas-101-tavas-resized-original-imahdj7yhxvnbgcs.jpeg?q=100",
+        "local_path": "../../media/images/79510fe9801e549c0934b70c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/2/f/j/yes-2-5-m-unstitched-2-2-m-tavas-101-tavas-original-imahdj7yqtksgk3b.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/2/f/j/yes-2-5-m-unstitched-2-2-m-tavas-101-tavas-original-imahdj7yqtksgk3b.jpeg?q=100",
+        "local_path": "../../media/images/79510fe9801e549c0934b70c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/o/b/x/yes-2-5-m-unstitched-2-2-m-tavas-101-tavas-original-imahdj7yrnfxkg66.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/o/b/x/yes-2-5-m-unstitched-2-2-m-tavas-101-tavas-original-imahdj7yrnfxkg66.jpeg?q=100",
+        "local_path": "../../media/images/79510fe9801e549c0934b70c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Tavas Chanderi Embroidered Salwar Suit Material",
+      "description": "Buy Tavas Chanderi Embroidered Salwar Suit Material for Rs.2999.0 online. Tavas Chanderi Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/j/h/j/yes-2-5-m-unstitched-2-2-m-tavas-101-tavas-resized-original-imahdj7yhxvnbgcs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/2/f/j/yes-2-5-m-unstitched-2-2-m-tavas-101-tavas-original-imahdj7yqtksgk3b.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/o/b/x/yes-2-5-m-unstitched-2-2-m-tavas-101-tavas-original-imahdj7yrnfxkg66.jpeg?q=70"
+      ],
+      "sku": "FABH929AE6EUTQAE",
+      "color": "Lavendar",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 45,
+        "ratingCount": 809,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tavas",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 629,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-03",
+          "reviewBody": "Super",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-11",
+          "reviewBody": "The colour and work was decent. The material and everything about this suit was true to the specs. Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Flipkart Hemlata ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-16",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

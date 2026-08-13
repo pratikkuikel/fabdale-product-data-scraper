@@ -1,0 +1,205 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/samah-dyed-embellished-daily-wear-chiffon-georgette-saree/p/itm14a798fd1c203?pid=SARGCNRTBTRV8DSA&lid=LSTSARGCNRTBTRV8DSAKNRM61&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:21:28.205Z",
+    "final_url": "https://www.flipkart.com/samah-dyed-embellished-daily-wear-chiffon-georgette-saree/p/itm14a798fd1c203?pid=SARGCNRTBTRV8DSA&lid=LSTSARGCNRTBTRV8DSAKNRM61&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:21:40.777Z"
+  },
+  "content": {
+    "title": "Samah Dyed, Embellished Daily Wear Chiffon, Georgette Saree",
+    "short_description": "Fabric: Chiffon, Georgette\nPattern: Dyed, Embellished\nType: Daily Wear\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Samah Dyed, Embellished Daily Wear Chiffon, Georgette Saree - Buy Samah Dyed, Embellished Daily Wear Chiffon, Georgette Saree For Only Rs. 1997.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Dyed, Embellished",
+      "Fabric": "Chiffon, Georgette",
+      "Type": "Daily Wear",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/q/u/1/free-2394s203-jiprostore-unstitched-original-imah2uvz5zgmzypa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/q/u/1/free-2394s203-jiprostore-unstitched-original-imah2uvz5zgmzypa.jpeg?q=100",
+        "local_path": "../../media/images/350b3fec462512957769e4f5/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/j/g/2/free-2394s203-jiprostore-unstitched-original-imah2uvzfheywpgw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/j/g/2/free-2394s203-jiprostore-unstitched-original-imah2uvzfheywpgw.jpeg?q=100",
+        "local_path": "../../media/images/350b3fec462512957769e4f5/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/k/m/x/free-2394s203-jiprostore-unstitched-original-imah2uvzpkhzxqjw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/k/m/x/free-2394s203-jiprostore-unstitched-original-imah2uvzpkhzxqjw.jpeg?q=100",
+        "local_path": "../../media/images/350b3fec462512957769e4f5/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/h/z/d/free-2394s203-jiprostore-unstitched-original-imah2uvzh5phjtzz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/h/z/d/free-2394s203-jiprostore-unstitched-original-imah2uvzh5phjtzz.jpeg?q=100",
+        "local_path": "../../media/images/350b3fec462512957769e4f5/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/h/v/x/free-2394s203-jiprostore-unstitched-original-imah2uvz6bz6fv5p.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/h/v/x/free-2394s203-jiprostore-unstitched-original-imah2uvz6bz6fv5p.jpeg?q=100",
+        "local_path": "../../media/images/350b3fec462512957769e4f5/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNBgkqKBqTQca0TqZe6C0RFg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNIlAcDbupREqFJbkGoBdZ4g/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Samah Dyed, Embellished Daily Wear Chiffon, Georgette Saree",
+      "description": "Samah Dyed, Embellished Daily Wear Chiffon, Georgette Saree - Buy Samah Dyed, Embellished Daily Wear Chiffon, Georgette Saree For Only Rs. 1997.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/q/u/1/free-2394s203-jiprostore-unstitched-original-imah2uvz5zgmzypa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/j/g/2/free-2394s203-jiprostore-unstitched-original-imah2uvzfheywpgw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/k/m/x/free-2394s203-jiprostore-unstitched-original-imah2uvzpkhzxqjw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/h/z/d/free-2394s203-jiprostore-unstitched-original-imah2uvzh5phjtzz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-sari/h/v/x/free-2394s203-jiprostore-unstitched-original-imah2uvz6bz6fv5p.jpeg?q=70"
+      ],
+      "sku": "SARGCNRTBTRV8DSA",
+      "color": "Black",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 122,
+        "ratingCount": 3136,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Samah",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 350,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-02",
+          "reviewBody": "Same as shown in picture i loved it product thank you flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Piyush  Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-25",
+          "reviewBody": "I like this product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Nisha ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-02",
+          "reviewBody": "Very beautiful saree in this price 😊❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Dyed, Embellished",
+        "Fabric": "Chiffon, Georgette",
+        "Type": "Daily Wear",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "350b3fec462512957769e4f5",
+      "path": "media/images/350b3fec462512957769e4f5/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "763eaa4ae472f36ca8b13193",
+      "path": "media/videos/763eaa4ae472f36ca8b13193/media.json",
+      "reused": false
+    }
+  }
+}

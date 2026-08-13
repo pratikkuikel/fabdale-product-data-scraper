@@ -1,0 +1,216 @@
+{
+  "product_id": "5296",
+  "sku": null,
+  "product": {
+    "name": "Famora Embellished Chiffon Bollywood Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fabmora-embellished-printed-bollywood-chiffon-saree/p/itm5f77fb71e16c8?pid=SARGQGG3PWXRGCWN&lid=LSTSARGQGG3PWXRGCWNU9Y2JW&marketplace=FLIPKART&q=Fabmora&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SARGQGG3PWXRGCWN",
+    "path": "../../sources/pid-SARGQGG3PWXRGCWN/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fabmora-embellished-printed-bollywood-chiffon-saree/p/itm5f77fb71e16c8?pid=SARGQGG3PWXRGCWN&lid=LSTSARGQGG3PWXRGCWNU9Y2JW&marketplace=FLIPKART&q=Fabmora&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T08:51:46.361Z",
+    "final_url": "https://www.flipkart.com/fabmora-embellished-printed-bollywood-chiffon-saree/p/itm5f77fb71e16c8?pid=SARGQGG3PWXRGCWN&lid=LSTSARGQGG3PWXRGCWNU9Y2JW&marketplace=FLIPKART&q=Fabmora&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T08:51:54.255Z"
+  },
+  "content": {
+    "title": "FABMORA Embellished, Printed Bollywood Chiffon Saree",
+    "short_description": "Fabric: Chiffon\nPattern: Embellished, Printed\nType: Bollywood\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Unstitched Blouse Piece\nOwing to its inclusion of an unstitched blouse piece, this saree offers the flexibility to customise…\n\nExquisite Embellishments\nFeaturing a combination of embellished and printed patterns, this saree exudes a sense of elegance a…\n\nLightweight and Comfortable\nCrafted with high-quality chiffon fabric, this saree offers a lightweight and comfortable wearing ex…\n\nVersatile Style\nThis Bollywood-inspired saree is perfect for a variety of occasions, including parties, weddings, an…",
+    "specifications": {
+      "Pattern": "Embellished, Printed",
+      "Fabric": "Chiffon",
+      "Type": "Bollywood",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "6f3c44573c70fbf71392a3d3",
+      "path": "media/images/6f3c44573c70fbf71392a3d3/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/y/h/free-tarr-pilo-blackk-satin-houseofcommon-unstitched-original-imahc5bzkxghwbrt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/y/h/free-tarr-pilo-blackk-satin-houseofcommon-unstitched-original-imahc5bzkxghwbrt.jpeg?q=100",
+        "local_path": "../../media/images/6f3c44573c70fbf71392a3d3/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/5/l/free-c-ahaat-dot-r-blackk-houseofcommon-unstitched-original-imahc5dhh93arhjy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/5/l/free-c-ahaat-dot-r-blackk-houseofcommon-unstitched-original-imahc5dhh93arhjy.jpeg?q=100",
+        "local_path": "../../media/images/6f3c44573c70fbf71392a3d3/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/g/2/u/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imaheh2jtvmhqjwv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/g/2/u/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imaheh2jtvmhqjwv.jpeg?q=100",
+        "local_path": "../../media/images/6f3c44573c70fbf71392a3d3/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/4/g/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imaheh2jsmnfskyp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/4/g/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imaheh2jsmnfskyp.jpeg?q=100",
+        "local_path": "../../media/images/6f3c44573c70fbf71392a3d3/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/p/a/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imaheh2j3c5zykej.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/p/a/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imaheh2j3c5zykej.jpeg?q=100",
+        "local_path": "../../media/images/6f3c44573c70fbf71392a3d3/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FABMORA Embellished, Printed Bollywood Chiffon Saree",
+      "description": "FABMORA Embellished, Printed Bollywood Chiffon Saree - Buy FABMORA Embellished, Printed Bollywood Chiffon Saree For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/c/y/h/free-tarr-pilo-blackk-satin-houseofcommon-unstitched-original-imahc5bzkxghwbrt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/j/5/l/free-c-ahaat-dot-r-blackk-houseofcommon-unstitched-original-imahc5dhh93arhjy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/g/2/u/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imaheh2jtvmhqjwv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/w/4/g/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imaheh2jsmnfskyp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/p/p/a/free-sarees-new2023-partywear-wedding-chiffon-saree-design-2023-original-imaheh2j3c5zykej.jpeg?q=70"
+      ],
+      "sku": "SARGQGG3PWXRGCWN",
+      "color": "GOLD",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 584,
+        "ratingCount": 16880,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FABMORA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 333,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-29",
+          "reviewBody": "Great 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Sudhir Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-27",
+          "reviewBody": "Good looking saree ❤",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Prashansa Kumari",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-27",
+          "reviewBody": "Pretty saree I like it fabric",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Unstitched Blouse Piece",
+          "body": "Owing to its inclusion of an unstitched blouse piece, this saree offers the flexibility to customise…"
+        },
+        {
+          "heading": "Exquisite Embellishments",
+          "body": "Featuring a combination of embellished and printed patterns, this saree exudes a sense of elegance a…"
+        },
+        {
+          "heading": "Lightweight and Comfortable",
+          "body": "Crafted with high-quality chiffon fabric, this saree offers a lightweight and comfortable wearing ex…"
+        },
+        {
+          "heading": "Versatile Style",
+          "body": "This Bollywood-inspired saree is perfect for a variety of occasions, including parties, weddings, an…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Embellished, Printed",
+        "Fabric": "Chiffon",
+        "Type": "Bollywood",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

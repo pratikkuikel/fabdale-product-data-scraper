@@ -1,0 +1,139 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itma7c26b7942eee?pid=FABGTXTGJ3VUCKDF&lid=LSTFABGTXTGJ3VUCKDFWERLUB&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:35:51.640Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itma7c26b7942eee?pid=FABGTXTGJ3VUCKDF&lid=LSTFABGTXTGJ3VUCKDFWERLUB&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:35:58.881Z"
+  },
+  "content": {
+    "title": "krishna boutique Unstitched Pure Cotton Salwar Suit Material Printed",
+    "short_description": "Fabric: Pure Cotton\nPattern: Printed\nType: Salwar Suit Material\nSales Package: 1 top , 1 bottom , 1 dupattta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Beautiful Maheshwari Print\nAdd a touch of elegance to your wardrobe with this stunning salwar suit material featuring a beautif…\n\nUnstitched and Versatile\nDesigned as an unstitched top and bottom set, this salwar suit material offers endless possibilities…\n\nPremium Pure Cotton Fabric\nCrafted from pure cotton fabric, this salwar suit material ensures maximum comfort and breathability…\n\nEasy to Care for\nTo maintain the quality and longevity of this fabric, it is recommended to hand wash it with care. A…",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 top , 1 bottom , 1 dupattta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Printed",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/b/f/x/yes-2-5-m-unstitched-2-2-m-ranma7-krishna-boutique-original-imagtxtfdwf72bzu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/fabric/b/f/x/yes-2-5-m-unstitched-2-2-m-ranma7-krishna-boutique-original-imagtxtfdwf72bzu.jpeg?q=100",
+        "local_path": "../../media/images/ebfb92e3ad72fbbce7aa8630/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/o/l/p/yes-2-35-m-unstitched-2-m-2-5-m-45876-reet-mahal-original-imahzykaykh3jxdf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/o/l/p/yes-2-35-m-unstitched-2-m-2-5-m-45876-reet-mahal-original-imahzykaykh3jxdf.jpeg?q=100",
+        "local_path": "../../media/images/ebfb92e3ad72fbbce7aa8630/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/d/l/b/yes-2-5-m-unstitched-2-36-m-009kl-krishna-boutique-original-imahzyggskqd8c6b.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/d/l/b/yes-2-5-m-unstitched-2-36-m-009kl-krishna-boutique-original-imahzyggskqd8c6b.jpeg?q=100",
+        "local_path": "../../media/images/ebfb92e3ad72fbbce7aa8630/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/u/q/x/no-3-m-unstitched-na-pink-flower-3-meter-iqra-faishon-original-imahprmcmsq8da2n.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/u/q/x/no-3-m-unstitched-na-pink-flower-3-meter-iqra-faishon-original-imahprmcmsq8da2n.jpeg?q=100",
+        "local_path": "../../media/images/ebfb92e3ad72fbbce7aa8630/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/p/k/d/yes-2-35-m-unstitched-2-36-m-new-6047-03-yankita-original-imahmgnxzx9v7p8w.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/p/k/d/yes-2-35-m-unstitched-2-36-m-new-6047-03-yankita-original-imahmgnxzx9v7p8w.jpeg?q=100",
+        "local_path": "../../media/images/ebfb92e3ad72fbbce7aa8630/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/y/k/f/yes-2-2-m-unstitched-2-m-2-5-m-ikkat-2-dark-pink-sun-fashion-and-resized-original-imaggpmzrypgfvef.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/y/k/f/yes-2-2-m-unstitched-2-m-2-5-m-ikkat-2-dark-pink-sun-fashion-and-resized-original-imaggpmzrypgfvef.jpeg?q=100",
+        "local_path": "../../media/images/ebfb92e3ad72fbbce7aa8630/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/l/d/f/yes-2-5-m-unstitched-2-2-m-new-cotton-gc-80-by-gauri-collection-original-imahkyzngnpqug8f.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/l/d/f/yes-2-5-m-unstitched-2-2-m-new-cotton-gc-80-by-gauri-collection-original-imahkyzngnpqug8f.jpeg?q=100",
+        "local_path": "../../media/images/ebfb92e3ad72fbbce7aa8630/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/w/6/r/yes-2-2-m-semi-stitched-2-36-m-new-pure-gc-80-by-gauri-original-imahzy86nhuznqyz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/fabric/w/6/r/yes-2-2-m-semi-stitched-2-36-m-new-pure-gc-80-by-gauri-original-imahzy86nhuznqyz.jpeg?q=100",
+        "local_path": "../../media/images/ebfb92e3ad72fbbce7aa8630/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-fabric/f/p/m/2-35-m-unstitched-sugandha-2-35-m-salwar-suit-material-fab-original-imahgwhu3zpyz2w5.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-fabric/f/p/m/2-35-m-unstitched-sugandha-2-35-m-salwar-suit-material-fab-original-imahgwhu3zpyz2w5.jpeg?q=100",
+        "local_path": "../../media/images/ebfb92e3ad72fbbce7aa8630/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Beautiful Maheshwari Print",
+          "body": "Add a touch of elegance to your wardrobe with this stunning salwar suit material featuring a beautif…"
+        },
+        {
+          "heading": "Unstitched and Versatile",
+          "body": "Designed as an unstitched top and bottom set, this salwar suit material offers endless possibilities…"
+        },
+        {
+          "heading": "Premium Pure Cotton Fabric",
+          "body": "Crafted from pure cotton fabric, this salwar suit material ensures maximum comfort and breathability…"
+        },
+        {
+          "heading": "Easy to Care for",
+          "body": "To maintain the quality and longevity of this fabric, it is recommended to hand wash it with care. A…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 top , 1 bottom , 1 dupattta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Printed",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ebfb92e3ad72fbbce7aa8630",
+      "path": "media/images/ebfb92e3ad72fbbce7aa8630/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

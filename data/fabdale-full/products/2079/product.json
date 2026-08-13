@@ -1,0 +1,159 @@
+{
+  "product_id": "2079",
+  "sku": "Fab-Shirt-METR-010BU-S",
+  "product": {
+    "name": "Metronex Plain Burgundy Shirt",
+    "parent_id": "5267",
+    "notes": "https://www.flipkart.com/metronaut-men-solid-casual-purple-shirt/p/itm7c2fccd2c96a7?pid=SHTHCYADH9BZWVVD&lid=LSTSHTHCYADH9BZWVVDCY8QRX&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SHTHCYADH9BZWVVD",
+    "path": "../../sources/pid-SHTHCYADH9BZWVVD/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-purple-shirt/p/itm7c2fccd2c96a7?pid=SHTHCYADH9BZWVVD&lid=LSTSHTHCYADH9BZWVVDCY8QRX&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T08:07:43.630Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-purple-shirt/p/itm7c2fccd2c96a7?pid=SHTHCYADH9BZWVVD&lid=LSTSHTHCYADH9BZWVVDCY8QRX&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T08:07:54.449Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Regular Fit Solid Spread Collar Casual Shirt",
+    "short_description": "Color: Purple\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": null,
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Purple"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "f9b970f8daee8e8349aa2e85",
+      "path": "media/images/f9b970f8daee8e8349aa2e85/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/z/w/9/l-mens-pain-shirt-casual-metronaut-original-imahe7nx3kywhrej.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/z/w/9/l-mens-pain-shirt-casual-metronaut-original-imahe7nx3kywhrej.jpeg?q=100",
+        "local_path": "../../media/images/f9b970f8daee8e8349aa2e85/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cse-genai/AS/CNlICD094OQnyZVGKCGKz0TQ/manifest.jpg?q=20",
+        "download_url": "https://rukminim2.flixcart.com/fk-p-thumbnail/315/560/images/cse-genai/AS/CNlICD094OQnyZVGKCGKz0TQ/manifest.jpg?q=20",
+        "local_path": "../../media/images/f9b970f8daee8e8349aa2e85/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/c/h/n/l-mens-pain-shirt-casual-metronaut-original-imahe7nxvsryxkxt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/c/h/n/l-mens-pain-shirt-casual-metronaut-original-imahe7nxvsryxkxt.jpeg?q=100",
+        "local_path": "../../media/images/f9b970f8daee8e8349aa2e85/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/q/7/h/l-mens-pain-shirt-casual-metronaut-original-imahe7nxguh3yzzm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/q/7/h/l-mens-pain-shirt-casual-metronaut-original-imahe7nxguh3yzzm.jpeg?q=100",
+        "local_path": "../../media/images/f9b970f8daee8e8349aa2e85/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/w/w/d/l-mens-pain-shirt-casual-metronaut-original-imahe7nx2tcdz3pt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/w/w/d/l-mens-pain-shirt-casual-metronaut-original-imahe7nx2tcdz3pt.jpeg?q=100",
+        "local_path": "../../media/images/f9b970f8daee8e8349aa2e85/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/v/2/m/l-um0016-metronaut-original-imah92fcbbgka4tj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/v/2/m/l-um0016-metronaut-original-imah92fcbbgka4tj.jpeg?q=100",
+        "local_path": "../../media/images/f9b970f8daee8e8349aa2e85/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/h/a/e/l-shirt1242-metronaut-resized-original-imahj6yfxsvyprje.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/h/a/e/l-shirt1242-metronaut-resized-original-imahj6yfxsvyprje.jpeg?q=100",
+        "local_path": "../../media/images/f9b970f8daee8e8349aa2e85/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/j/q/l/m-dap-shirt1335-darkage-original-imahfhzecjztz8z6.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/j/q/l/m-dap-shirt1335-darkage-original-imahfhzecjztz8z6.jpeg?q=100",
+        "local_path": "../../media/images/f9b970f8daee8e8349aa2e85/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/a/j/b/xl-mpf-x11b-metronaut-original-imah29uejmadm7nc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/a/j/b/xl-mpf-x11b-metronaut-original-imah29uejmadm7nc.jpeg?q=100",
+        "local_path": "../../media/images/f9b970f8daee8e8349aa2e85/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/h/k/9/l-f-me-popcorn-d-cream-skyblue-metronaut-original-imahh7hjmyuezrvb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/h/k/9/l-f-me-popcorn-d-cream-skyblue-metronaut-original-imahh7hjmyuezrvb.jpeg?q=100",
+        "local_path": "../../media/images/f9b970f8daee8e8349aa2e85/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/o/c/n/xl-24mfs-jt27-metronaut-original-imah46hqry6h4xwb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/o/c/n/xl-24mfs-jt27-metronaut-original-imah46hqry6h4xwb.jpeg?q=100",
+        "local_path": "../../media/images/f9b970f8daee8e8349aa2e85/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/r/w/z/l-dap-shirt1334-darkage-original-imahfm39qndhnmsb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/r/w/z/l-dap-shirt1334-darkage-original-imahfm39qndhnmsb.jpeg?q=100",
+        "local_path": "../../media/images/f9b970f8daee8e8349aa2e85/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/8/3/o/m-satin-lipi-teal-metronaut-resized-original-imahftnjpvetqfrf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/8/3/o/m-satin-lipi-teal-metronaut-resized-original-imahftnjpvetqfrf.jpeg?q=100",
+        "local_path": "../../media/images/f9b970f8daee8e8349aa2e85/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Purple"
+      },
+      "specifications": {}
+    }
+  }
+}

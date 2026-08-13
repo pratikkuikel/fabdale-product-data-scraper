@@ -1,0 +1,49 @@
+{
+  "product_id": "826",
+  "sku": "Fab-Salwar-PLDI-012PK-L",
+  "product": {
+    "name": "Pilessa Embellished Chanderi Salwar Suit Set",
+    "parent_id": "5142",
+    "notes": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itme71c920d664cd?pid=ETHH9FF7RQQGPHCC&marketplace=FLIPKART&lid=LSTETHH9FF7RQQGPHCCDEYQGL&swatchAttr=size&pageUID=1772637710708"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH9FF7RQQGPHCC",
+    "path": "../../sources/pid-ETHH9FF7RQQGPHCC/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itme71c920d664cd?pid=ETHH9FF7RQQGPHCC&marketplace=FLIPKART&lid=LSTETHH9FF7RQQGPHCCDEYQGL&swatchAttr=size&pageUID=1772637710708",
+    "scraped_at": "2026-08-12T11:00:41.367Z",
+    "final_url": "https://www.flipkart.com/piludi-women-kurti-pant-dupatta-set/p/itme71c920d664cd?pid=ETHH9FF7RQQGPHCC&marketplace=FLIPKART&lid=LSTETHH9FF7RQQGPHCCDEYQGL&swatchAttr=size&pageUID=1772637710708"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:00:49.910Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": null,
+    "videos": null
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "product_id": "1588",
+  "sku": "Fab-Salwar-RYEX-019BK-XXL",
+  "product": {
+    "name": "Rivanta Embroidered Yoke Salwar Suit Set",
+    "parent_id": "5260",
+    "notes": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itmc845a76254fce?pid=ETHH4V9GQZZQZT34&marketplace=FLIPKART&lid=LSTETHH4V9GQZZQZT343BIZYA&swatchAttr=size&pageUID=1772815057347"
+  },
+  "source_bundle": {
+    "key": "pid-ETHH4V9GQZZQZT34",
+    "path": "../../sources/pid-ETHH4V9GQZZQZT34/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itmc845a76254fce?pid=ETHH4V9GQZZQZT34&marketplace=FLIPKART&lid=LSTETHH4V9GQZZQZT343BIZYA&swatchAttr=size&pageUID=1772815057347",
+    "scraped_at": "2026-08-12T15:50:44.612Z",
+    "final_url": "https://www.flipkart.com/royal-export-women-kurta-pant-dupatta-set/p/itmc845a76254fce?pid=ETHH4V9GQZZQZT34&marketplace=FLIPKART&lid=LSTETHH4V9GQZZQZT343BIZYA&swatchAttr=size&pageUID=1772815057347"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-12T15:50:54.772Z"
+  },
+  "content": {
+    "title": "Royal Export Women Kurta Pant Dupatta Set",
+    "short_description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "004b01e17c4825a472e8548d",
+      "path": "media/images/004b01e17c4825a472e8548d/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/6/0/-original-imahg2rybwa52zgz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/6/0/-original-imahg2rybwa52zgz.jpeg?q=100",
+        "local_path": "../../media/images/004b01e17c4825a472e8548d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/f/r/-original-imahg2ryggh8qrve.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/f/r/-original-imahg2ryggh8qrve.jpeg?q=100",
+        "local_path": "../../media/images/004b01e17c4825a472e8548d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/f/f/-original-imahg2ryfwajtcua.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/f/f/-original-imahg2ryfwajtcua.jpeg?q=100",
+        "local_path": "../../media/images/004b01e17c4825a472e8548d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/t/a/-original-imahg2ryj6kzk8h4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/t/a/-original-imahg2ryj6kzk8h4.jpeg?q=100",
+        "local_path": "../../media/images/004b01e17c4825a472e8548d/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Royal Export Women Kurta Pant Dupatta Set",
+      "description": "Royal Export Women Kurta Pant Dupatta Set - Buy Royal Export Women Kurta Pant Dupatta Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/6/0/-original-imahg2rybwa52zgz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/f/r/-original-imahg2ryggh8qrve.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/f/f/-original-imahg2ryfwajtcua.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/t/a/-original-imahg2ryj6kzk8h4.jpeg?q=70"
+      ],
+      "sku": "ETHH4V9GQZZQZT34",
+      "color": "Black",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 156,
+        "ratingCount": 670,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Royal Export",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 498,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Nid_Hi  Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-05",
+          "reviewBody": "Just ❤️ it",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-10",
+          "reviewBody": "Nice fabric ❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-13",
+          "reviewBody": "Colour is very nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

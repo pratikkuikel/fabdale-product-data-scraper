@@ -1,0 +1,195 @@
+{
+  "product_id": "5141",
+  "sku": null,
+  "product": {
+    "name": "Pilessa Embroidered Viscose RayonSalwar Suit Set",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/piludi-women-kurta-palazzo-dupatta-set/p/itmdab717f19853a?pid=ETHGGJRZFTHF3AGT&lid=LSTETHGGJRZFTHF3AGT88B6HR&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-ETHGGJRZFTHF3AGT",
+    "path": "../../sources/pid-ETHGGJRZFTHF3AGT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/piludi-women-kurta-palazzo-dupatta-set/p/itmdab717f19853a?pid=ETHGGJRZFTHF3AGT&lid=LSTETHGGJRZFTHF3AGT88B6HR&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:59:59.192Z",
+    "final_url": "https://www.flipkart.com/piludi-women-kurta-palazzo-dupatta-set/p/itmdab717f19853a?pid=ETHGGJRZFTHF3AGT&lid=LSTETHGGJRZFTHF3AGT88B6HR&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T11:00:10.295Z"
+  },
+  "content": {
+    "title": "PILUDI Women Viscose Rayon Kurta Palazzo Dupatta Set",
+    "short_description": "Fabric: Viscose Rayon\nPattern: Embroidered\nType: Kurta and Palazzo Set",
+    "description": "Exquisite Embroidery Ensemble\nWith its exquisite embroidered pattern, this women's kurta, pants, and dupatta set showcases intrica…\n\nCarefully Crafted Design\nCourtesy of its round neck, three-quarter sleeves, calf-length kurta, and side slits, this set is th…\n\nExcellent Fabric\nCreated from top-quality viscose rayon, this set offers a luxurious and comfortable experience again…\n\nAdaptable for Any Occasion\nThanks to its versatile design, this embroidered kurta, pant, and dupatta set is a beautiful choice …\n\nStyle it Right\nPick this ethereal ethnic set to wear to a much-awaited festive occasion. Club it with triangle-shap…",
+    "specifications": {
+      "Fabric": "Viscose Rayon",
+      "Type": "Kurta and Palazzo Set",
+      "Pattern": "Embroidered"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e45c4a6b237d3c93794b8ee1",
+      "path": "media/images/e45c4a6b237d3c93794b8ee1/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/b/w/z/s-sw-rajmoti-pink-piludi-original-imahcz2smv2wytwj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/b/w/z/s-sw-rajmoti-pink-piludi-original-imahcz2smv2wytwj.jpeg?q=100",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/2/4/a/s-sw-rajmoti-pink-piludi-original-imahcz2s3jx5yqsz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/2/4/a/s-sw-rajmoti-pink-piludi-original-imahcz2s3jx5yqsz.jpeg?q=100",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/v/t/f/s-sw-rajmoti-pink-piludi-original-imahcz2shh4tyz7a.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/v/t/f/s-sw-rajmoti-pink-piludi-original-imahcz2shh4tyz7a.jpeg?q=100",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/k/s/c/s-sw-rajmoti-pink-piludi-original-imahcz2s2dpfshgd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/k/s/c/s-sw-rajmoti-pink-piludi-original-imahcz2s2dpfshgd.jpeg?q=100",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/e/z/z/s-sw-rajmoti-piludi-original-imagzhb3r8ddjta6.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/e/z/z/s-sw-rajmoti-piludi-original-imagzhb3r8ddjta6.jpeg?q=100",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_ede40a6060c5455ca4661e110f64fb42.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_ede40a6060c5455ca4661e110f64fb42.jpg?q=80",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_5fc8db7ceec744988212f794eee1d256.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_5fc8db7ceec744988212f794eee1d256.jpg?q=80",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_3a1ac6cd97f54d499b9b50962393baeb.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_3a1ac6cd97f54d499b9b50962393baeb.jpg?q=80",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/l/v/0/l-sangari-sunart-fab-original-imahhf9zjgb8hnzy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/l/v/0/l-sangari-sunart-fab-original-imahhf9zjgb8hnzy.jpeg?q=100",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/t/b/xl-satii001-anokh-pink-dress21-resized-original-imagj3mfp9h83tzg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/t/b/xl-satii001-anokh-pink-dress21-resized-original-imagj3mfp9h83tzg.jpeg?q=100",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/a/t/p/m-ab-vrc-8-indianrani-original-imahpr8k5ygtxucj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/a/t/p/m-ab-vrc-8-indianrani-original-imahpr8k5ygtxucj.jpeg?q=100",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/a/z/b/xl-sw-mahek-piludi-house-original-imahn6fhc9fpkcfy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/a/z/b/xl-sw-mahek-piludi-house-original-imahn6fhc9fpkcfy.jpeg?q=100",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/c/z/w/s-0110-glimy-original-imahgfa6sxzj3bdd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/c/z/w/s-0110-glimy-original-imahgfa6sxzj3bdd.jpeg?q=100",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/c/p/t/xxl-sw-kashvi-yellow-piludi-original-imahm4487cwfe8ya.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/c/p/t/xxl-sw-kashvi-yellow-piludi-original-imahm4487cwfe8ya.jpeg?q=100",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/5/n/x/s-sw-noor-black-s-piludi-original-imahm4482h6gqvyf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/5/n/x/s-sw-noor-black-s-piludi-original-imahm4482h6gqvyf.jpeg?q=100",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/n/g/v/s-sw-siya-lavender-piludi-resized-original-imahm469genk6svz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/n/g/v/s-sw-siya-lavender-piludi-resized-original-imahm469genk6svz.jpeg?q=100",
+        "local_path": "../../media/images/e45c4a6b237d3c93794b8ee1/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Exquisite Embroidery Ensemble",
+          "body": "With its exquisite embroidered pattern, this women's kurta, pants, and dupatta set showcases intrica…"
+        },
+        {
+          "heading": "Carefully Crafted Design",
+          "body": "Courtesy of its round neck, three-quarter sleeves, calf-length kurta, and side slits, this set is th…"
+        },
+        {
+          "heading": "Excellent Fabric",
+          "body": "Created from top-quality viscose rayon, this set offers a luxurious and comfortable experience again…"
+        },
+        {
+          "heading": "Adaptable for Any Occasion",
+          "body": "Thanks to its versatile design, this embroidered kurta, pant, and dupatta set is a beautiful choice …"
+        },
+        {
+          "heading": "Style it Right",
+          "body": "Pick this ethereal ethnic set to wear to a much-awaited festive occasion. Club it with triangle-shap…"
+        }
+      ],
+      "product_highlights": {
+        "Fabric": "Viscose Rayon",
+        "Type": "Kurta and Palazzo Set",
+        "Pattern": "Embroidered"
+      },
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SARHBNT2VZCGBMRT",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
+  "product_keys": [
+    "536"
+  ],
+  "source_path": "sources/pid-SARHBNT2VZCGBMRT/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T10:30:39.349Z",
+  "completed_at": "2026-08-12T10:30:46.640Z"
+}

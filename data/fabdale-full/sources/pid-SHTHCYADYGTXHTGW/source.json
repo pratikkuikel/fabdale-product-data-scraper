@@ -1,0 +1,187 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/metronaut-men-solid-casual-purple-shirt/p/itmb31bbdca66bc8?pid=SHTHCYADYGTXHTGW&lid=LSTSHTHCYADYGTXHTGWQQXBDJ&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T08:06:38.918Z",
+    "final_url": "https://www.flipkart.com/metronaut-men-solid-casual-purple-shirt/p/itmb31bbdca66bc8?pid=SHTHCYADYGTXHTGW&lid=LSTSHTHCYADYGTXHTGWQQXBDJ&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T08:06:57.626Z"
+  },
+  "content": {
+    "title": "METRONAUT Men Regular Fit Solid Spread Collar Casual Shirt",
+    "short_description": "Color: Purple\nFabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nPack of: 1\nCollar: Spread",
+    "description": null,
+    "specifications": {
+      "Pack of": "1",
+      "Fabric": "Cotton Blend",
+      "Sleeve": "Full Sleeve",
+      "Pattern": "Solid",
+      "Collar": "Spread",
+      "Color": "Purple"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/w/a/d/xl-mens-pain-shirt-casual-metronaut-original-imahdyggcjeee95f.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/w/a/d/xl-mens-pain-shirt-casual-metronaut-original-imahdyggcjeee95f.jpeg?q=100",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/v/z/b/xl-mens-pain-shirt-casual-metronaut-original-imahdyggxwvvujrk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/v/z/b/xl-mens-pain-shirt-casual-metronaut-original-imahdyggxwvvujrk.jpeg?q=100",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/u/w/n/l-mens-pain-shirt-casual-metronaut-original-imahdygg92syd7qf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/u/w/n/l-mens-pain-shirt-casual-metronaut-original-imahdygg92syd7qf.jpeg?q=100",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/w/0/f/xl-mens-pain-shirt-casual-metronaut-original-imahdygfv2xzhptr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shirt/w/0/f/xl-mens-pain-shirt-casual-metronaut-original-imahdygfv2xzhptr.jpeg?q=100",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_747624e831504fd0836ad2e0486fe9f9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_747624e831504fd0836ad2e0486fe9f9.jpeg?q=80",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_155b52c0c86d40dcae33a5e7ad74e475.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_155b52c0c86d40dcae33a5e7ad74e475.jpg?q=80",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_540ec2d7cf8742c9b0c9462574b28c38.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_540ec2d7cf8742c9b0c9462574b28c38.jpg?q=80",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_057eeb85194440fab8fc3a3c3fca8c62.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_057eeb85194440fab8fc3a3c3fca8c62.jpg?q=80",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_3a612ad29162497499abe20c170d885a.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_3a612ad29162497499abe20c170d885a.jpg?q=80",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/e/3/v/xl-02-formal-shirts-metronaut-original-imahhv7mb5wugdgy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/e/3/v/xl-02-formal-shirts-metronaut-original-imahhv7mb5wugdgy.jpeg?q=100",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/o/i/s/44-39489804-mast-harbour-original-imahkgh9yfhgnahu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/o/i/s/44-39489804-mast-harbour-original-imahkgh9yfhgnahu.jpeg?q=100",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/f/f/w/xxl-01-formal-shirts-metronaut-original-imahhy3geg7gunrf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/f/f/w/xxl-01-formal-shirts-metronaut-original-imahhy3geg7gunrf.jpeg?q=100",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/t/7/p/xxl-metro-jio02-casual-shirt-metronaut-original-imahjzmjnpyyp747.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/t/7/p/xxl-metro-jio02-casual-shirt-metronaut-original-imahjzmjnpyyp747.jpeg?q=100",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/h/l/p/xl-wb-jio01-casual-shirt-webric-original-imahg7yrmzrmeeg5.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/h/l/p/xl-wb-jio01-casual-shirt-webric-original-imahg7yrmzrmeeg5.jpeg?q=100",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/i/g/0/s-pmst-094-hoc-original-imahhqg5r77hzftt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/i/g/0/s-pmst-094-hoc-original-imahhqg5r77hzftt.jpeg?q=100",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/j/c/d/l-wb-jio01-casual-shirt-webric-original-imahg7yrvwsdt8y7.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/j/c/d/l-wb-jio01-casual-shirt-webric-original-imahg7yrvwsdt8y7.jpeg?q=100",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/h/a/e/l-shirt1242-metronaut-resized-original-imahj6yfxsvyprje.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/h/a/e/l-shirt1242-metronaut-resized-original-imahj6yfxsvyprje.jpeg?q=100",
+        "local_path": "../../media/images/a213cc38bccca3ba1a3997cf/assets/images/image-017.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CN3oiuu41aTnWgy3wf3hXPpg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pack of": "1",
+        "Fabric": "Cotton Blend",
+        "Sleeve": "Full Sleeve",
+        "Pattern": "Solid",
+        "Collar": "Spread",
+        "Color": "Purple"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a213cc38bccca3ba1a3997cf",
+      "path": "media/images/a213cc38bccca3ba1a3997cf/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "eea33bec4d313355540d25b8",
+      "path": "media/videos/eea33bec4d313355540d25b8/media.json",
+      "reused": false
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "product_id": "5340",
+  "sku": null,
+  "product": {
+    "name": "Tavisha Embroidered Chanderi Salwar Suit  Material",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/tavas-chanderi-embroidered-salwar-suit-material/p/itm094b524841799?pid=FABGSC4X4H6Y3VZB&lid=LSTFABGSC4X4H6Y3VZBY3VCDU&marketplace=FLIPKART&q=Tavas&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-FABGSC4X4H6Y3VZB",
+    "path": "../../sources/pid-FABGSC4X4H6Y3VZB/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tavas-chanderi-embroidered-salwar-suit-material/p/itm094b524841799?pid=FABGSC4X4H6Y3VZB&lid=LSTFABGSC4X4H6Y3VZBY3VCDU&marketplace=FLIPKART&q=Tavas&sattr[]=color&st=color",
+    "scraped_at": "2026-08-12T10:40:51.233Z",
+    "final_url": "https://www.flipkart.com/tavas-chanderi-embroidered-salwar-suit-material/p/itm094b524841799?pid=FABGSC4X4H6Y3VZB&lid=LSTFABGSC4X4H6Y3VZBY3VCDU&marketplace=FLIPKART&q=Tavas&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:40:57.952Z"
+  },
+  "content": {
+    "title": "Tavas Chanderi Embroidered Salwar Suit Material",
+    "short_description": "Fabric: Chanderi\nPattern: Embroidered\nType: Salwar Suit Material\nSales Package: 1 Top, 1 Bottom, 1 Dupatta\nBottom Length: 3 m\nTop Length: 2 m\nStitching Type: Unstitched",
+    "description": "Exquisite Embroidered Design\nThis salwar suit material features a stunning embroidered design that adds a touch of elegance to yo…\n\nUnstitched for Customization\nDesigned as an unstitched set, this salwar suit material allows you to customize the fit and style a…\n\nPremium Chanderi Fabric\nCrafted from high-quality chanderi fabric, this salwar suit material offers a luxurious feel and a b…\n\nPerfect for Party and Festive Occasions\nWhether you're attending a party or celebrating a festive occasion, this salwar suit material is the…\n\nEasy Fabric Care\nYou can easily maintain the quality of this fabric by following the machine wash instructions on the…",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 Top, 1 Bottom, 1 Dupatta",
+      "Bottom Length": "3 m",
+      "Top Length": "2 m",
+      "Fabric": "Chanderi",
+      "Pattern": "Embroidered",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0672d9faa974204f55a2c47d",
+      "path": "media/images/0672d9faa974204f55a2c47d/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/h/i/f/yes-2-m-unstitched-2-m-2-5-m-tvs-51-06-firozi-fs-tavas-original-imahcnbmzmtbrqmw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/h/i/f/yes-2-m-unstitched-2-m-2-5-m-tvs-51-06-firozi-fs-tavas-original-imahcnbmzmtbrqmw.jpeg?q=100",
+        "local_path": "../../media/images/0672d9faa974204f55a2c47d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Tavas Chanderi Embroidered Salwar Suit Material",
+      "description": "Buy Tavas Chanderi Embroidered Salwar Suit Material for Rs.5499.0 online. Tavas Chanderi Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/h/i/f/yes-2-m-unstitched-2-m-2-5-m-tvs-51-06-firozi-fs-tavas-original-imahcnbmzmtbrqmw.jpeg?q=70"
+      ],
+      "sku": "FABGSC4X4H6Y3VZB",
+      "color": "Light Blue",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "ratingCount": 44,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tavas",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 707,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Exquisite Embroidered Design",
+          "body": "This salwar suit material features a stunning embroidered design that adds a touch of elegance to yo…"
+        },
+        {
+          "heading": "Unstitched for Customization",
+          "body": "Designed as an unstitched set, this salwar suit material allows you to customize the fit and style a…"
+        },
+        {
+          "heading": "Premium Chanderi Fabric",
+          "body": "Crafted from high-quality chanderi fabric, this salwar suit material offers a luxurious feel and a b…"
+        },
+        {
+          "heading": "Perfect for Party and Festive Occasions",
+          "body": "Whether you're attending a party or celebrating a festive occasion, this salwar suit material is the…"
+        },
+        {
+          "heading": "Easy Fabric Care",
+          "body": "You can easily maintain the quality of this fabric by following the machine wash instructions on the…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 Top, 1 Bottom, 1 Dupatta",
+        "Bottom Length": "3 m",
+        "Top Length": "2 m",
+        "Fabric": "Chanderi",
+        "Pattern": "Embroidered",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  }
+}

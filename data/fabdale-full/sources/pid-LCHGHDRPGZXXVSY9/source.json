@@ -1,0 +1,195 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/fabcartz-embellished-self-design-semi-stitched-lehenga-choli/p/itmae619f586ed93?pid=LCHGHDRPGZXXVSY9&lid=LSTLCHGHDRPGZXXVSY9I7SMOY&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:40:21.236Z",
+    "final_url": "https://www.flipkart.com/fabcartz-embellished-self-design-semi-stitched-lehenga-choli/p/itmae619f586ed93?pid=LCHGHDRPGZXXVSY9&lid=LSTLCHGHDRPGZXXVSY9I7SMOY&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-13T07:40:33.426Z"
+  },
+  "content": {
+    "title": "Fabcartz Embellished, Self Design Semi Stitched Lehenga Choli",
+    "short_description": "Color: Purple\nPattern: Embellished, Self Design\nType: Lehenga Choli\nLehenga Fabric: Art Silk, Cotton Blend\nCholi Fabric: Jacquard\nDupatta Fabric: Net\nStitching Type: Semi Stitched\nSales Package: 1 Lehenga,1Choli Fabric,1 Banarasi Dupatta",
+    "description": "Additional Details\ncholi is unstitched and 0.8 meter fabric is there for choli.\n\nOccasion\nParty & Festive, Wedding, Wedding & Festive\n\nLehenga Choli Details\nLehenga FabricArt Silk, Cotton BlendCholi FabricJacquardTypeLehenga CholiDupatta FabricNetNeckRound NeckSleeveFull SleeveEmbroideredYesWorkBeads WorkLining TypeCottonDupattaYesStitching TypeSemi StitchedPatternEmbellished, Self DesignSales Package1 Lehenga,1Choli Fabric,1 Banarasi DupattaBlouse Stitch TypeUnstitched BlouseColorPurpleBrand ColorWineDupatta PatternEmbroideredDupatta WorkSequins, Thread WorkLehenga ClosureDrawstring/DoriSecondary ColorGoldSizeFree\n\nSales Package\n1 Lehenga,1Choli Fabric,1 Banarasi Dupatta",
+    "specifications": {
+      "Lehenga Fabric": "Art Silk, Cotton Blend",
+      "Choli Fabric": "Jacquard",
+      "Type": "Lehenga Choli",
+      "Dupatta Fabric": "Net",
+      "Stitching Type": "Semi Stitched",
+      "Pattern": "Embellished, Self Design",
+      "Sales Package": "1 Lehenga,1Choli Fabric,1 Banarasi Dupatta",
+      "Color": "Purple"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/n/s/free-full-sleeve-vikrant-fabcartz-resized-original-imahgpr5gsnntske.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/n/s/free-full-sleeve-vikrant-fabcartz-resized-original-imahgpr5gsnntske.jpeg?q=100",
+        "local_path": "../../media/images/56d80a475daf0ed5bbc7f067/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/k/k/free-full-sleeve-vikrant-fabcartz-original-imahgpr56adykgjg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/k/k/free-full-sleeve-vikrant-fabcartz-original-imahgpr56adykgjg.jpeg?q=100",
+        "local_path": "../../media/images/56d80a475daf0ed5bbc7f067/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/k/s/free-full-sleeve-vikrant-fabcartz-original-imahgpr5jtbdskjv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/k/s/free-full-sleeve-vikrant-fabcartz-original-imahgpr5jtbdskjv.jpeg?q=100",
+        "local_path": "../../media/images/56d80a475daf0ed5bbc7f067/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Fabcartz Embellished, Self Design Semi Stitched Lehenga Choli",
+      "description": "Fabcartz Embellished, Self Design Semi Stitched Lehenga Choli - Buy Fabcartz Embellished, Self Design Semi Stitched Lehenga Choli For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/u/n/s/free-full-sleeve-vikrant-fabcartz-resized-original-imahgpr5gsnntske.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/k/k/k/free-full-sleeve-vikrant-fabcartz-original-imahgpr56adykgjg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/y/k/s/free-full-sleeve-vikrant-fabcartz-original-imahgpr5jtbdskjv.jpeg?q=70"
+      ],
+      "sku": "LCHGHDRPGZXXVSY9",
+      "color": "Wine",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 83,
+        "ratingCount": 950,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Fabcartz",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 747,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-12-26",
+          "reviewBody": "Fab.. pls go for it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-15",
+          "reviewBody": "I like it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Paras Arora",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-22",
+          "reviewBody": "Its beautiful!! ❤️ same as shown in picture 10/10! Go for it. Decent from all.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Additional Details",
+          "body": "choli is unstitched and 0.8 meter fabric is there for choli."
+        },
+        {
+          "heading": "Occasion",
+          "body": "Party & Festive, Wedding, Wedding & Festive"
+        },
+        {
+          "heading": "Lehenga Choli Details",
+          "body": "Lehenga FabricArt Silk, Cotton BlendCholi FabricJacquardTypeLehenga CholiDupatta FabricNetNeckRound NeckSleeveFull SleeveEmbroideredYesWorkBeads WorkLining TypeCottonDupattaYesStitching TypeSemi StitchedPatternEmbellished, Self DesignSales Package1 Lehenga,1Choli Fabric,1 Banarasi DupattaBlouse Stitch TypeUnstitched BlouseColorPurpleBrand ColorWineDupatta PatternEmbroideredDupatta WorkSequins, Thread WorkLehenga ClosureDrawstring/DoriSecondary ColorGoldSizeFree"
+        },
+        {
+          "heading": "Sales Package",
+          "body": "1 Lehenga,1Choli Fabric,1 Banarasi Dupatta"
+        }
+      ],
+      "product_highlights": {
+        "Lehenga Fabric": "Art Silk, Cotton Blend",
+        "Choli Fabric": "Jacquard",
+        "Type": "Lehenga Choli",
+        "Dupatta Fabric": "Net",
+        "Stitching Type": "Semi Stitched",
+        "Pattern": "Embellished, Self Design",
+        "Sales Package": "1 Lehenga,1Choli Fabric,1 Banarasi Dupatta",
+        "Color": "Purple"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "56d80a475daf0ed5bbc7f067",
+      "path": "media/images/56d80a475daf0ed5bbc7f067/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

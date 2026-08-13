@@ -1,0 +1,216 @@
+{
+  "product_id": "500",
+  "sku": "Fab-Saree-SMH-024OR",
+  "product": {
+    "name": "Sharini Red & Beige Printed Banarasi Blend Saree",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/samah-printed-banarasi-silk-blend-saree/p/itmbd51a82746dd0?pid=SARGNSUBWUYC6NRY&lid=LSTSARGNSUBWUYC6NRYLXVXE6&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-SARGNSUBWUYC6NRY",
+    "path": "../../sources/pid-SARGNSUBWUYC6NRY/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/samah-printed-banarasi-silk-blend-saree/p/itmbd51a82746dd0?pid=SARGNSUBWUYC6NRY&lid=LSTSARGNSUBWUYC6NRYLXVXE6&marketplace=FLIPKART",
+    "scraped_at": "2026-08-12T10:21:41.830Z",
+    "final_url": "https://www.flipkart.com/samah-printed-banarasi-silk-blend-saree/p/itmbd51a82746dd0?pid=SARGNSUBWUYC6NRY&lid=LSTSARGNSUBWUYC6NRYLXVXE6&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:21:49.357Z"
+  },
+  "content": {
+    "title": "Samah Printed Banarasi Silk Blend Saree",
+    "short_description": "Fabric: Silk Blend\nPattern: Printed\nType: Banarasi\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Versatile Unstitched Blouse Piece\nThis saree comes with an unstitched blouse piece, allowing you to customize it according to your pre…\n\nElegant Printed Patterns\nAdorned with captivating printed patterns, this saree exudes elegance and grace. The beautiful combi…\n\nComfortable Cotton Silk Fabric\nCrafted from high-quality cotton silk fabric, this saree offers a comfortable and luxurious feel. Th…\n\nIdeal for Various Occasions\nThis saree is suitable for a wide range of occasions, making it a versatile addition to your wardrob…",
+    "specifications": {
+      "Pattern": "Printed",
+      "Fabric": "Silk Blend",
+      "Type": "Banarasi",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4718203ff59e7b86033f9710",
+      "path": "media/images/4718203ff59e7b86033f9710/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/y/w/free-2535s935a-samah-unstitched-resized-original-imah8cqh8nz6afgz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/y/w/free-2535s935a-samah-unstitched-resized-original-imah8cqh8nz6afgz.jpeg?q=100",
+        "local_path": "../../media/images/4718203ff59e7b86033f9710/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/1/b/free-2535s935a-samah-unstitched-original-imah8cqhxb3ckdhk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/1/b/free-2535s935a-samah-unstitched-original-imah8cqhxb3ckdhk.jpeg?q=100",
+        "local_path": "../../media/images/4718203ff59e7b86033f9710/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/2/p/free-2535s935a-samah-unstitched-original-imah8cqhg3vtzdbf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/2/p/free-2535s935a-samah-unstitched-original-imah8cqhg3vtzdbf.jpeg?q=100",
+        "local_path": "../../media/images/4718203ff59e7b86033f9710/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/z/n/h/free-2535s935a-samah-unstitched-original-imah8cqhyg4hsdvk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/z/n/h/free-2535s935a-samah-unstitched-original-imah8cqhyg4hsdvk.jpeg?q=100",
+        "local_path": "../../media/images/4718203ff59e7b86033f9710/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/2/q/1/free-2535s935a-samah-unstitched-original-imah8cqhxwkmpbny.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/2/q/1/free-2535s935a-samah-unstitched-original-imah8cqhxwkmpbny.jpeg?q=100",
+        "local_path": "../../media/images/4718203ff59e7b86033f9710/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Samah Printed Banarasi Silk Blend Saree",
+      "description": "Samah Printed Banarasi Silk Blend Saree - Buy Samah Printed Banarasi Silk Blend Saree For Only Rs. 1563.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/u/y/w/free-2535s935a-samah-unstitched-resized-original-imah8cqh8nz6afgz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/1/b/free-2535s935a-samah-unstitched-original-imah8cqhxb3ckdhk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/b/2/p/free-2535s935a-samah-unstitched-original-imah8cqhg3vtzdbf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/z/n/h/free-2535s935a-samah-unstitched-original-imah8cqhyg4hsdvk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/2/q/1/free-2535s935a-samah-unstitched-original-imah8cqhxwkmpbny.jpeg?q=70"
+      ],
+      "sku": "SARGNSUBWUYC6NRY",
+      "color": "Beige, Black, Red",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 3308,
+        "ratingCount": 47284,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Samah",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 236,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Neetu Tirkey",
+            "@type": "Person"
+          },
+          "datePublished": "2021-03-22",
+          "reviewBody": "Just ok",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Paridhi singhai",
+            "@type": "Person"
+          },
+          "datePublished": "2018-11-12",
+          "reviewBody": "awesome",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Flipkart Anand",
+            "@type": "Person"
+          },
+          "datePublished": "2018-12-02",
+          "reviewBody": "very nice saree, super 👌👌",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Versatile Unstitched Blouse Piece",
+          "body": "This saree comes with an unstitched blouse piece, allowing you to customize it according to your pre…"
+        },
+        {
+          "heading": "Elegant Printed Patterns",
+          "body": "Adorned with captivating printed patterns, this saree exudes elegance and grace. The beautiful combi…"
+        },
+        {
+          "heading": "Comfortable Cotton Silk Fabric",
+          "body": "Crafted from high-quality cotton silk fabric, this saree offers a comfortable and luxurious feel. Th…"
+        },
+        {
+          "heading": "Ideal for Various Occasions",
+          "body": "This saree is suitable for a wide range of occasions, making it a versatile addition to your wardrob…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Fabric": "Silk Blend",
+        "Type": "Banarasi",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

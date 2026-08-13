@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-DREH242WJK6TYCDF",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "306",
+    "5098"
+  ],
+  "source_path": "sources/pid-DREH242WJK6TYCDF/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T08:31:29.091Z",
+  "completed_at": "2026-08-12T08:31:34.773Z"
+}

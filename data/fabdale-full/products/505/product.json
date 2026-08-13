@@ -1,0 +1,215 @@
+{
+  "product_id": "505",
+  "sku": "Fab-Saree-YSHK-005BL",
+  "product": {
+    "name": "Yarie Art Silk Saree with Blouse",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/yashika-printed-daily-wear-art-silk-saree/p/itme24f4bfa54b27?pid=SARHFU4TAEN3H8MX&lid=LSTSARHFU4TAEN3H8MXGPQAST&marketplace=FLIPKART&store=clo%2F8on%2Fzpd%2F9og&srno=b_1_26&otracker=browse&fm=organic&iid=04b0016b-d073-401f-a491-e4e5245da5fd.SARHFU4TAEN3H8MX.SEARCH&ppt=None&ppn=None&ssid=9wj8bqf3bk0000001756706867996"
+  },
+  "source_bundle": {
+    "key": "pid-SARHFU4TAEN3H8MX",
+    "path": "../../sources/pid-SARHFU4TAEN3H8MX/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/yashika-printed-daily-wear-art-silk-saree/p/itme24f4bfa54b27?pid=SARHFU4TAEN3H8MX&lid=LSTSARHFU4TAEN3H8MXGPQAST&marketplace=FLIPKART&store=clo%2F8on%2Fzpd%2F9og&srno=b_1_26&otracker=browse&fm=organic&iid=04b0016b-d073-401f-a491-e4e5245da5fd.SARHFU4TAEN3H8MX.SEARCH&ppt=None&ppn=None&ssid=9wj8bqf3bk0000001756706867996",
+    "scraped_at": "2026-08-12T10:22:26.879Z",
+    "final_url": "https://www.flipkart.com/yashika-printed-daily-wear-art-silk-saree/p/itme24f4bfa54b27?pid=SARHFU4TAEN3H8MX&lid=LSTSARHFU4TAEN3H8MXGPQAST&marketplace=FLIPKART&store=clo%2F8on%2Fzpd%2F9og&srno=b_1_26&otracker=browse&fm=organic&iid=04b0016b-d073-401f-a491-e4e5245da5fd.SARHFU4TAEN3H8MX.SEARCH&ppt=None&ppn=None&ssid=9wj8bqf3bk0000001756706867996"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:22:34.119Z"
+  },
+  "content": {
+    "title": "YASHIKA Printed Daily Wear Art Silk Saree",
+    "short_description": "Fabric: Art Silk\nPattern: Printed\nType: Daily Wear\nBlouse Piece: Unstitched\nSari Style: Regular Sari",
+    "description": "Stunning Printed Design\nThis saree showcases a stunning printed design that is sure to catch everyone's attention. The intri…\n\nComfortable and Easy to Maintain\nCrafted with high-quality art silk fabric, this saree offers a comfortable wearing experience. The f…\n\nVersatile Occasion Wear\nWhether you're attending a casual gathering or going out for a day of shopping, this saree is perfec…\n\nUnstitched Blouse Piece Included\nThis saree comes with an unstitched blouse piece, giving you the freedom to customize it according t…",
+    "specifications": {
+      "Pattern": "Printed",
+      "Fabric": "Art Silk",
+      "Type": "Daily Wear",
+      "Blouse Piece": "Unstitched",
+      "Sari Style": "Regular Sari"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "2060f538bb27b8404ab5b851",
+      "path": "media/images/2060f538bb27b8404ab5b851/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "accf004dcd44fa1b41b4b33c",
+      "path": "media/videos/accf004dcd44fa1b41b4b33c/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/8/t/p/free-fk-ys-p3-yashoda-navy-yashika-unstitched-resized-original-imah38d2zggswqgb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/8/t/p/free-fk-ys-p3-yashoda-navy-yashika-unstitched-resized-original-imah38d2zggswqgb.jpeg?q=100",
+        "local_path": "../../media/images/2060f538bb27b8404ab5b851/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/p/l/free-fk-ys-p2-yashoda-navy-yashika-unstitched-original-imah38c8hchc6hzz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/p/l/free-fk-ys-p2-yashoda-navy-yashika-unstitched-original-imah38c8hchc6hzz.jpeg?q=100",
+        "local_path": "../../media/images/2060f538bb27b8404ab5b851/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/j/s/free-fk-ys-p2-yashoda-navy-yashika-unstitched-original-imah38c8ffa2sjxu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/j/s/free-fk-ys-p2-yashoda-navy-yashika-unstitched-original-imah38c8ffa2sjxu.jpeg?q=100",
+        "local_path": "../../media/images/2060f538bb27b8404ab5b851/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/j/a/free-fk-ys-p2-yashoda-navy-yashika-unstitched-original-imah38c8hn7pevww.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/j/a/free-fk-ys-p2-yashoda-navy-yashika-unstitched-original-imah38c8hn7pevww.jpeg?q=100",
+        "local_path": "../../media/images/2060f538bb27b8404ab5b851/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/l/2/x/free-fk-ys-p2-yashoda-navy-yashika-unstitched-original-imah38c8hugh6zuh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/l/2/x/free-fk-ys-p2-yashoda-navy-yashika-unstitched-original-imah38c8hugh6zuh.jpeg?q=100",
+        "local_path": "../../media/images/2060f538bb27b8404ab5b851/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN8FfLk3o9QTqW63cgjHDqOQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "YASHIKA Printed Daily Wear Art Silk Saree",
+      "description": "YASHIKA Printed Daily Wear Art Silk Saree - Buy YASHIKA Printed Daily Wear Art Silk Saree For Only Rs. 1799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/8/t/p/free-fk-ys-p3-yashoda-navy-yashika-unstitched-resized-original-imah38d2zggswqgb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/p/l/free-fk-ys-p2-yashoda-navy-yashika-unstitched-original-imah38c8hchc6hzz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/q/j/s/free-fk-ys-p2-yashoda-navy-yashika-unstitched-original-imah38c8ffa2sjxu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/x/j/a/free-fk-ys-p2-yashoda-navy-yashika-unstitched-original-imah38c8hn7pevww.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sari/l/2/x/free-fk-ys-p2-yashoda-navy-yashika-unstitched-original-imah38c8hugh6zuh.jpeg?q=70"
+      ],
+      "sku": "SARHFU4TAEN3H8MX",
+      "color": "FK-YS-P3-YASHODA NAVY-Blue",
+      "category": "sari",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 1044,
+        "ratingCount": 19660,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "YASHIKA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 223,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-08-25",
+          "reviewBody": "It is superb 👌👌",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-11",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Flipkart Nirupama maharana ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-23",
+          "reviewBody": "Light weight, beautiful saree in a reasonable price... go for it....",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Stunning Printed Design",
+          "body": "This saree showcases a stunning printed design that is sure to catch everyone's attention. The intri…"
+        },
+        {
+          "heading": "Comfortable and Easy to Maintain",
+          "body": "Crafted with high-quality art silk fabric, this saree offers a comfortable wearing experience. The f…"
+        },
+        {
+          "heading": "Versatile Occasion Wear",
+          "body": "Whether you're attending a casual gathering or going out for a day of shopping, this saree is perfec…"
+        },
+        {
+          "heading": "Unstitched Blouse Piece Included",
+          "body": "This saree comes with an unstitched blouse piece, giving you the freedom to customize it according t…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Fabric": "Art Silk",
+        "Type": "Daily Wear",
+        "Blouse Piece": "Unstitched",
+        "Sari Style": "Regular Sari"
+      },
+      "specifications": {}
+    }
+  }
+}

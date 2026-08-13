@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-ETHHCSW5X797GZTJ",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "1754",
+    "1755",
+    "1756",
+    "1757",
+    "1758"
+  ],
+  "source_path": "sources/pid-ETHHCSW5X797GZTJ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-13T07:16:34.924Z",
+  "completed_at": "2026-08-13T07:16:47.363Z"
+}

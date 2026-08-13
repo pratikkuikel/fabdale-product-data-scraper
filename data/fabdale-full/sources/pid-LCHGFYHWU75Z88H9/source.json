@@ -1,0 +1,160 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/zaalima-fashion-embroidered-semi-stitched-lehenga-choli/p/itmfb253d6b03358?pid=LCHGFYHWU75Z88H9&lid=LSTLCHGFYHWU75Z88H9MQ91LI&marketplace=FLIPKART",
+    "scraped_at": "2026-08-13T07:52:47.082Z",
+    "final_url": "https://www.flipkart.com/zaalima-fashion-embroidered-semi-stitched-lehenga-choli/p/itmfb253d6b03358?pid=LCHGFYHWU75Z88H9&lid=LSTLCHGFYHWU75Z88H9MQ91LI&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:52:53.495Z"
+  },
+  "content": {
+    "title": "ZAALIMA FASHION Embroidered Semi Stitched Lehenga Choli",
+    "short_description": "ZAALIMA FASHION Embroidered Semi Stitched Lehenga Choli - Buy ZAALIMA FASHION Embroidered Semi Stitched Lehenga Choli For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "ZAALIMA FASHION Embroidered Semi Stitched Lehenga Choli - Buy ZAALIMA FASHION Embroidered Semi Stitched Lehenga Choli For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/n/y/free-half-sleeve-new-designer-lehengas-embroidred-lehenga-legha-resized-original-imahejzcxgyzj6ms.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/n/y/free-half-sleeve-new-designer-lehengas-embroidred-lehenga-legha-resized-original-imahejzcxgyzj6ms.jpeg?q=100",
+        "local_path": "../../media/images/bdf20dc999648a436eb70c65/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/w/d/t/free-3-4-sleeve-new-designer-lehenga-for-indian-queens-2021-original-imahew7uufwfqwsp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/w/d/t/free-3-4-sleeve-new-designer-lehenga-for-indian-queens-2021-original-imahew7uufwfqwsp.jpeg?q=100",
+        "local_path": "../../media/images/bdf20dc999648a436eb70c65/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/z/8/free-full-sleeve-engagement-lehenga-embroidery-lehenga-for-original-imahdukmefsbufsz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/z/8/free-full-sleeve-engagement-lehenga-embroidery-lehenga-for-original-imahdukmefsbufsz.jpeg?q=100",
+        "local_path": "../../media/images/bdf20dc999648a436eb70c65/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "ZAALIMA FASHION Embroidered Semi Stitched Lehenga Choli",
+      "description": "ZAALIMA FASHION Embroidered Semi Stitched Lehenga Choli - Buy ZAALIMA FASHION Embroidered Semi Stitched Lehenga Choli For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/n/y/free-half-sleeve-new-designer-lehengas-embroidred-lehenga-legha-resized-original-imahejzcxgyzj6ms.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/w/d/t/free-3-4-sleeve-new-designer-lehenga-for-indian-queens-2021-original-imahew7uufwfqwsp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/z/8/free-full-sleeve-engagement-lehenga-embroidery-lehenga-for-original-imahdukmefsbufsz.jpeg?q=70"
+      ],
+      "sku": "LCHGFYHWU75Z88H9",
+      "color": "Maroon",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 3.6,
+        "reviewCount": 17,
+        "ratingCount": 474,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "ZAALIMA FASHION",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 466,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good",
+          "author": {
+            "name": "Shatrughan Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-31",
+          "reviewBody": "Good \nBut not much",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Devendr Ojha",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-17",
+          "reviewBody": "Damage item",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrible product",
+          "author": {
+            "name": "Balasaheb  Survase",
+            "@type": "Person"
+          },
+          "datePublished": "2025-12-01",
+          "reviewBody": "Poor quality",
+          "reviewRating": {
+            "ratingValue": 1,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bdf20dc999648a436eb70c65",
+      "path": "media/images/bdf20dc999648a436eb70c65/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/purvaja-embellished-semi-stitched-lehenga-choli/p/itm000a89b7f9474?pid=LCHGQANCVTXPK3H6&lid=LSTLCHGQANCVTXPK3H6LRGVTT&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-13T07:48:23.988Z",
+    "final_url": "https://www.flipkart.com/purvaja-embellished-semi-stitched-lehenga-choli/p/itm000a89b7f9474?pid=LCHGQANCVTXPK3H6&lid=LSTLCHGQANCVTXPK3H6LRGVTT&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-13T07:48:31.272Z"
+  },
+  "content": {
+    "title": "PURVAJA Embellished Semi Stitched Lehenga Choli",
+    "short_description": "PURVAJA Embellished Semi Stitched Lehenga Choli - Buy PURVAJA Embellished Semi Stitched Lehenga Choli For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PURVAJA Embellished Semi Stitched Lehenga Choli - Buy PURVAJA Embellished Semi Stitched Lehenga Choli For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/2/g/9/free-sleeveless-chahat-purvaja-original-imagqancnhpwnc4h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/2/g/9/free-sleeveless-chahat-purvaja-original-imagqancnhpwnc4h.jpeg?q=100",
+        "local_path": "../../media/images/0a6dc1cd65385abebccd1606/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/q/a/y/free-sleeveless-chahat-purvaja-original-imagqanch3qtzuzd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/q/a/y/free-sleeveless-chahat-purvaja-original-imagqanch3qtzuzd.jpeg?q=100",
+        "local_path": "../../media/images/0a6dc1cd65385abebccd1606/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/a/z/d/free-sleeveless-chahat-purvaja-original-imagqancqxyygmq3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/a/z/d/free-sleeveless-chahat-purvaja-original-imagqancqxyygmq3.jpeg?q=100",
+        "local_path": "../../media/images/0a6dc1cd65385abebccd1606/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/0/4/free-sleeveless-chahat-purvaja-original-imagqanczmagq7u3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/0/4/free-sleeveless-chahat-purvaja-original-imagqanczmagq7u3.jpeg?q=100",
+        "local_path": "../../media/images/0a6dc1cd65385abebccd1606/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/q/g/v/free-sleeveless-chahat-purvaja-original-imagqanc5rsh9pk2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/q/g/v/free-sleeveless-chahat-purvaja-original-imagqanc5rsh9pk2.jpeg?q=100",
+        "local_path": "../../media/images/0a6dc1cd65385abebccd1606/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURVAJA Embellished Semi Stitched Lehenga Choli",
+      "description": "PURVAJA Embellished Semi Stitched Lehenga Choli - Buy PURVAJA Embellished Semi Stitched Lehenga Choli For Only Rs. 5999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/2/g/9/free-sleeveless-chahat-purvaja-original-imagqancnhpwnc4h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/q/a/y/free-sleeveless-chahat-purvaja-original-imagqanch3qtzuzd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/a/z/d/free-sleeveless-chahat-purvaja-original-imagqancqxyygmq3.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/c/0/4/free-sleeveless-chahat-purvaja-original-imagqanczmagq7u3.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/q/g/v/free-sleeveless-chahat-purvaja-original-imagqanc5rsh9pk2.jpeg?q=70"
+      ],
+      "sku": "LCHGQANCVTXPK3H6",
+      "color": "Dark Green",
+      "category": "lehenga_choli",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 12,
+        "ratingCount": 168,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURVAJA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 738,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-07",
+          "reviewBody": "The product is so pretty .. also looks exactly like in the given picture , fabric is too good too",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Richa Verma",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-04",
+          "reviewBody": "More beautiful than expected.. very beautiful color fabric ..every thing is just wow",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Puspita Mohapatra",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-12",
+          "reviewBody": "So good, just like the picture, looking gorgeous for party wear, fabric is good too",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0a6dc1cd65385abebccd1606",
+      "path": "media/images/0a6dc1cd65385abebccd1606/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

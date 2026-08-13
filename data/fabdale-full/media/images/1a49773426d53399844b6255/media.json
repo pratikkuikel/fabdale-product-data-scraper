@@ -1,0 +1,44 @@
+{
+  "key": "1a49773426d53399844b6255",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-13T07:52:35.866Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/d/g/free-half-sleeve-lehenga-choli-crop-top-lehenga-choli-women-original-imahem9vgftjyays.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/g/d/g/free-half-sleeve-lehenga-choli-crop-top-lehenga-choli-women-original-imahem9vgftjyays.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/r/a/o/free-half-sleeve-lehenga-choli-crop-top-lehenga-choli-women-original-imahem9vhkjynzvq.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/r/a/o/free-half-sleeve-lehenga-choli-crop-top-lehenga-choli-women-original-imahem9vhkjynzvq.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/s/o/x/free-half-sleeve-lehenga-choli-crop-top-lehenga-choli-women-original-imahem9vthuzhsah.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/s/o/x/free-half-sleeve-lehenga-choli-crop-top-lehenga-choli-women-original-imahem9vthuzhsah.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/z/r/free-half-sleeve-lehenga-choli-crop-top-lehenga-choli-women-original-imahem9v3m9szg7u.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/h/z/r/free-half-sleeve-lehenga-choli-crop-top-lehenga-choli-women-original-imahem9v3m9szg7u.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/6/z/free-half-sleeve-lehenga-choli-crop-top-lehenga-choli-women-original-imahem9vfyjzhfth.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/lehenga-choli/3/6/z/free-half-sleeve-lehenga-choli-crop-top-lehenga-choli-women-original-imahem9vfyjzhfth.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

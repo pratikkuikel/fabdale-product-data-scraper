@@ -1,0 +1,21 @@
+{
+  "source_key": "pid-DREH5HATWBEX8TPR",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "332",
+    "336",
+    "338",
+    "339",
+    "340",
+    "341",
+    "5176"
+  ],
+  "source_path": "sources/pid-DREH5HATWBEX8TPR/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-12T08:34:38.516Z",
+  "completed_at": "2026-08-12T08:34:48.101Z"
+}

@@ -1,0 +1,44 @@
+{
+  "key": "c470d3662f0850e9941d0482",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T16:06:29.895Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/6/5/s/l-rx135-tamcdngseagrn-hoc-original-imahk59chtvqgfek.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/6/5/s/l-rx135-tamcdngseagrn-hoc-original-imahk59chtvqgfek.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/r/g/h/m-rx135-tamcdngseagrn-hoc-original-imahk59cdgtqangb.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/r/g/h/m-rx135-tamcdngseagrn-hoc-original-imahk59cdgtqangb.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/5/i/r/m-rx135-tamcdngseagrn-hoc-original-imahk59cznvdyps5.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/5/i/r/m-rx135-tamcdngseagrn-hoc-original-imahk59cznvdyps5.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/9/x/m-rx135-tamcdngseagrn-hoc-original-imahk59cjq5xfyyf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/9/x/m-rx135-tamcdngseagrn-hoc-original-imahk59cjq5xfyyf.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/y/6/s-fk135-tamcdngseagrn-hoc-original-imahk59cftxggw5q.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/salwar-kurta-dupatta/k/y/6/s-fk135-tamcdngseagrn-hoc-original-imahk59cftxggw5q.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm43c7ab6030eef?pid=FABHJRUEMXDAGZRU&lid=LSTFABHJRUEMXDAGZRUKE12IQ&marketplace=FLIPKART&store=clo%2Fqfi%2Fxcx%2Fms4&srno=b_8_299&otracker=browse&fm=organic&iid=0bbb7938-0482-49a5-a3f2-3ec8eddd068c.FABHJRUEMXDAGZRU.SEARCH&ppt=browse&ppn=browse&ssid=qr8tzx22ds0000001780647762043&ov_redirect=true",
+    "scraped_at": "2026-08-12T10:32:21.638Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itm43c7ab6030eef?pid=FABHJRUEMXDAGZRU&lid=LSTFABHJRUEMXDAGZRUKE12IQ&marketplace=FLIPKART&store=clo%2Fqfi%2Fxcx%2Fms4&srno=b_8_299&otracker=browse&fm=organic&iid=0bbb7938-0482-49a5-a3f2-3ec8eddd068c.FABHJRUEMXDAGZRU.SEARCH&ppt=browse&ppn=browse&ssid=qr8tzx22ds0000001780647762043&ov_redirect=true"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-12T10:32:29.297Z"
+  },
+  "content": {
+    "title": "krishna boutique Pure Cotton Embroidered Salwar Suit Material",
+    "short_description": "Fabric: Pure Cotton\nPattern: Embroidered\nType: Salwar Suit Material\nSales Package: 1 Top , 1 Bottom, 1 Dupatta\nBottom Length: 2.20m\nTop Length: 2.5 m\nStitching Type: Unstitched",
+    "description": "Fabric Care\nHand wash, Cold water wash only, Gentle Machine Wash, Reverse and dry\n\nOther Details\nPant Fabric : 2.35 M, Dress Fabric : 2.20 M, Duppata Fabric : 2.10 M\n\nModel Name\nUnstitched Cotton Blend Kurta & Churidar Material Printed",
+    "specifications": {
+      "Type": "Salwar Suit Material",
+      "Sales Package": "1 Top , 1 Bottom, 1 Dupatta",
+      "Bottom Length": "2.20m",
+      "Top Length": "2.5 m",
+      "Fabric": "Pure Cotton",
+      "Pattern": "Embroidered",
+      "Stitching Type": "Unstitched"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/s/1/9/yes-2-5-m-unstitched-2-m-2-5-m-v-neak002-krishna-boutique-resized-original-imahjruedkzr6eaj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/s/1/9/yes-2-5-m-unstitched-2-m-2-5-m-v-neak002-krishna-boutique-resized-original-imahjruedkzr6eaj.jpeg?q=100",
+        "local_path": "../../media/images/ef7f453e7fb651ff686e47e3/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "krishna boutique Pure Cotton Embroidered Salwar Suit Material",
+      "description": "Buy krishna boutique Pure Cotton Embroidered Salwar Suit Material for Rs.2999.0 online. krishna boutique Pure Cotton Embroidered Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/s/1/9/yes-2-5-m-unstitched-2-m-2-5-m-v-neak002-krishna-boutique-resized-original-imahjruedkzr6eaj.jpeg?q=70"
+      ],
+      "sku": "FABHJRUEMXDAGZRU",
+      "color": "multicolor8",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 127,
+        "ratingCount": 1926,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "krishna boutique",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 438,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "siddiquee nesa",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-23",
+          "reviewBody": "Too good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-16",
+          "reviewBody": "The suit material is good, colour is same as shown in the picture",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-08",
+          "reviewBody": "Beautiful suit with fabric",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Fabric Care",
+          "body": "Hand wash, Cold water wash only, Gentle Machine Wash, Reverse and dry"
+        },
+        {
+          "heading": "Other Details",
+          "body": "Pant Fabric : 2.35 M, Dress Fabric : 2.20 M, Duppata Fabric : 2.10 M"
+        },
+        {
+          "heading": "Model Name",
+          "body": "Unstitched Cotton Blend Kurta & Churidar Material Printed"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Salwar Suit Material",
+        "Sales Package": "1 Top , 1 Bottom, 1 Dupatta",
+        "Bottom Length": "2.20m",
+        "Top Length": "2.5 m",
+        "Fabric": "Pure Cotton",
+        "Pattern": "Embroidered",
+        "Stitching Type": "Unstitched"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ef7f453e7fb651ff686e47e3",
+      "path": "media/images/ef7f453e7fb651ff686e47e3/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

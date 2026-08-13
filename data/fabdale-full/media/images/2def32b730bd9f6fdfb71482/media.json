@@ -1,0 +1,44 @@
+{
+  "key": "2def32b730bd9f6fdfb71482",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-12T12:13:26.630Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/b/6/4xl-roka-rani-dis-divastri-original-imahftcxme4pr482.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/b/6/4xl-roka-rani-dis-divastri-original-imahftcxme4pr482.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/i/0/l-roka-rani-dis-divastri-original-imahftcxd8fzqazf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/i/0/l-roka-rani-dis-divastri-original-imahftcxd8fzqazf.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/2/w/m/m-roka-rani-dis-divastri-original-imahftcxkhzgyd4t.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/2/w/m/m-roka-rani-dis-divastri-original-imahftcxkhzgyd4t.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/b/i/s-roka-rani-dis-divastri-original-imahftcxcy5gfajp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/l/b/i/s-roka-rani-dis-divastri-original-imahftcxcy5gfajp.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/f/k/m-roka-rani-dis-divastri-original-imahftcxfpggvhge.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/f/k/m-roka-rani-dis-divastri-original-imahftcxfpggvhge.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}
