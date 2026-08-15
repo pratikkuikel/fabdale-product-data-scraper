@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-TSHH8UHR2ZHQC7RX",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3717",
+    "3718",
+    "3719",
+    "3720",
+    "3721",
+    "5250"
+  ],
+  "source_path": "sources/pid-TSHH8UHR2ZHQC7RX/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T10:01:51.639Z",
+  "completed_at": "2026-08-15T10:02:02.404Z"
+}

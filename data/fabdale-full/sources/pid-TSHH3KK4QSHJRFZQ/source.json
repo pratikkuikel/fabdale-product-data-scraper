@@ -1,0 +1,168 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-solid-men-polo-neck-maroon-t-shirt/p/itm6f34cca6d911d?pid=TSHH3KK4QSHJRFZQ&lid=LSTTSHH3KK4QSHJRFZQTVVFTF&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:26:09.054Z",
+    "final_url": "https://www.flipkart.com/kajaru-solid-men-polo-neck-maroon-t-shirt/p/itm6f34cca6d911d?pid=TSHH3KK4QSHJRFZQ&lid=LSTTSHH3KK4QSHJRFZQTVVFTF&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:26:14.675Z"
+  },
+  "content": {
+    "title": "KAJARU Solid Men Polo Neck Maroon T-Shirt",
+    "short_description": "KAJARU Solid Men Polo Neck Maroon T-Shirt - Buy KAJARU Solid Men Polo Neck Maroon T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "KAJARU Solid Men Polo Neck Maroon T-Shirt - Buy KAJARU Solid Men Polo Neck Maroon T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/z/n/l-polo-8004-kajaru-resized-original-imah3kk4huhe6gma.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/z/n/l-polo-8004-kajaru-resized-original-imah3kk4huhe6gma.jpeg?q=100",
+        "local_path": "../../media/images/db7e34a46654946a833d1b1a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/f/z/l-polo-8004-kajaru-original-imah3kk4bzxcvxmc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/f/z/l-polo-8004-kajaru-original-imah3kk4bzxcvxmc.jpeg?q=100",
+        "local_path": "../../media/images/db7e34a46654946a833d1b1a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/x/t/l-polo-8004-kajaru-original-imah3kk4s9sxfpgy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/x/t/l-polo-8004-kajaru-original-imah3kk4s9sxfpgy.jpeg?q=100",
+        "local_path": "../../media/images/db7e34a46654946a833d1b1a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/f/4/l-polo-8004-kajaru-original-imah3kk4uu3zqedc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/f/4/l-polo-8004-kajaru-original-imah3kk4uu3zqedc.jpeg?q=100",
+        "local_path": "../../media/images/db7e34a46654946a833d1b1a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Solid Men Polo Neck Maroon T-Shirt",
+      "description": "KAJARU Solid Men Polo Neck Maroon T-Shirt - Buy KAJARU Solid Men Polo Neck Maroon T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/z/n/l-polo-8004-kajaru-resized-original-imah3kk4huhe6gma.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/f/z/l-polo-8004-kajaru-original-imah3kk4bzxcvxmc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/x/t/l-polo-8004-kajaru-original-imah3kk4s9sxfpgy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/f/4/l-polo-8004-kajaru-original-imah3kk4uu3zqedc.jpeg?q=70"
+      ],
+      "sku": "TSHH3KK4QSHJRFZQ",
+      "color": "MAROON",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 333,
+        "ratingCount": 8744,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 244,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Pintu Sen",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-08",
+          "reviewBody": "good 😊",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Lalchand Meena ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-03",
+          "reviewBody": "Tooo good hai 😊😊😊😊😊 really good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Deepak  Das ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-04",
+          "reviewBody": "I like it 👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "db7e34a46654946a833d1b1a",
+      "path": "media/images/db7e34a46654946a833d1b1a/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

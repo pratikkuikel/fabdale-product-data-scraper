@@ -1,0 +1,185 @@
+{
+  "product_id": "3573",
+  "sku": "Fab-Tshirt-VEBN-004WH-XL",
+  "product": {
+    "name": "Verve Long-sleeved polo t-shirt",
+    "parent_id": "5188",
+    "notes": "https://www.flipkart.com/vebnor-solid-men-polo-neck-white-t-shirt/p/itmbe4d03757941b?pid=TSHHFH7KH5HZJKGJ&lid=LSTTSHHFH7KH5HZJKGJVMGPXM&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHHFH7KH5HZJKGJ",
+    "path": "../../sources/pid-TSHHFH7KH5HZJKGJ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-solid-men-polo-neck-white-t-shirt/p/itmbe4d03757941b?pid=TSHHFH7KH5HZJKGJ&lid=LSTTSHHFH7KH5HZJKGJVMGPXM&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:42:49.141Z",
+    "final_url": "https://www.flipkart.com/vebnor-solid-men-polo-neck-white-t-shirt/p/itmbe4d03757941b?pid=TSHHFH7KH5HZJKGJ&lid=LSTTSHHFH7KH5HZJKGJVMGPXM&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:43:07.118Z"
+  },
+  "content": {
+    "title": "VeBNoR Printed Men Polo Neck White T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Printed\nSleeve: Full Sleeve\nNeck Type: Polo Neck",
+    "description": "VeBNoR Printed Men Polo Neck White T-Shirt - Buy VeBNoR Printed Men Polo Neck White T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Polo Neck",
+      "Pattern": "Printed"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "df5ebdd041e194d927670438",
+      "path": "media/images/df5ebdd041e194d927670438/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/1/n/xxl-ts135-vebnor-original-imahq5q8dwdmkbch.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/1/n/xxl-ts135-vebnor-original-imahq5q8dwdmkbch.jpeg?q=100",
+        "local_path": "../../media/images/df5ebdd041e194d927670438/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/w/v/xxl-ts135-vebnor-original-imahq5q8yhj7eccq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/w/v/xxl-ts135-vebnor-original-imahq5q8yhj7eccq.jpeg?q=100",
+        "local_path": "../../media/images/df5ebdd041e194d927670438/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/g/g/xxl-ts135-vebnor-original-imahq5q8wfyam4ph.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/g/g/xxl-ts135-vebnor-original-imahq5q8wfyam4ph.jpeg?q=100",
+        "local_path": "../../media/images/df5ebdd041e194d927670438/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/i/m/xxl-ts135-vebnor-original-imahq5q82c9pcgdc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/i/m/xxl-ts135-vebnor-original-imahq5q82c9pcgdc.jpeg?q=100",
+        "local_path": "../../media/images/df5ebdd041e194d927670438/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/j/z/xxl-ts135-vebnor-original-imahq5q84sfzsm6k.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/j/z/xxl-ts135-vebnor-original-imahq5q84sfzsm6k.jpeg?q=100",
+        "local_path": "../../media/images/df5ebdd041e194d927670438/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Printed Men Polo Neck White T-Shirt",
+      "description": "VeBNoR Printed Men Polo Neck White T-Shirt - Buy VeBNoR Printed Men Polo Neck White T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/1/n/xxl-ts135-vebnor-original-imahq5q8dwdmkbch.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/w/v/xxl-ts135-vebnor-original-imahq5q8yhj7eccq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/g/g/xxl-ts135-vebnor-original-imahq5q8wfyam4ph.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/i/m/xxl-ts135-vebnor-original-imahq5q82c9pcgdc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/j/z/xxl-ts135-vebnor-original-imahq5q84sfzsm6k.jpeg?q=70"
+      ],
+      "sku": "TSHHFH7KH5HZJKGJ",
+      "color": "White",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 825,
+        "ratingCount": 15435,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 268,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "HARI PRAKASH  RANA ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-10",
+          "reviewBody": "It is very good this price range in the market",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Chandrakant Dewangan",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-17",
+          "reviewBody": "Superb",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Shafiullah",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-03",
+          "reviewBody": "The product has received shown as picture fitting is nice buy it perfect size . Soft and breathable, worthy for the price",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Polo Neck",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  }
+}

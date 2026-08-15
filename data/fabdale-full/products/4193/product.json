@@ -1,0 +1,204 @@
+{
+  "product_id": "4193",
+  "sku": "Fab-KurtaSet-FUBR-004 PK-M",
+  "product": {
+    "name": "Festivo   Ceremony Kurta Set",
+    "parent_id": "5367",
+    "notes": "https://www.flipkart.com/fubar-men-chikan-embroidery-straight-kurta/p/itm34cff94a9c0ad?pid=KTAGYG47JY9HZAW4&marketplace=FLIPKART&lid=LSTKTAGYG47JY9HZAW4KPL5JD&swatchAttr=size&pageUID=1773940406508"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGYG47JY9HZAW4",
+    "path": "../../sources/pid-KTAGYG47JY9HZAW4/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-men-chikan-embroidery-straight-kurta/p/itm34cff94a9c0ad?pid=KTAGYG47JY9HZAW4&marketplace=FLIPKART&lid=LSTKTAGYG47JY9HZAW4KPL5JD&swatchAttr=size&pageUID=1773940406508",
+    "scraped_at": "2026-08-15T13:06:56.362Z",
+    "final_url": "https://www.flipkart.com/fubar-men-chikan-embroidery-straight-kurta/p/itm34cff94a9c0ad?pid=KTAGYG47JY9HZAW4&marketplace=FLIPKART&lid=LSTKTAGYG47JY9HZAW4KPL5JD&swatchAttr=size&pageUID=1773940406508"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T13:07:08.679Z"
+  },
+  "content": {
+    "title": "FUBAR Men Chikan Embroidery Straight Kurta",
+    "short_description": "Color: Pink\nFabric: Cotton Blend\nPattern: Chikan Embroidery\nType: Straight\nFit: Slim",
+    "description": "Stylish Embellished Pattern\nThis men's kurta features a stunning embellished pattern that adds a touch of elegance and sophistic…\n\nComfortable Cotton Blend Fabric\nCrafted from a high-quality cotton blend fabric, this kurta offers both comfort and durability. The …\n\nMandarin Neck and Full Sleeves\nFeaturing a classic Mandarin collar and full sleeves, this kurta exudes a sense of traditional charm…",
+    "specifications": {
+      "Pattern": "Chikan Embroidery",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Fit": "Slim",
+      "Color": "Pink"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ac839aa7d9c918104db851e6",
+      "path": "media/images/ac839aa7d9c918104db851e6/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/c/f/b/xl-kcku-prm-single-star-pink-fubar-resized-original-imah7mz844txgthq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/c/f/b/xl-kcku-prm-single-star-pink-fubar-resized-original-imah7mz844txgthq.jpeg?q=100",
+        "local_path": "../../media/images/ac839aa7d9c918104db851e6/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/c/e/x/xl-kcku-prm-single-star-pink-fubar-original-imah7mz8qfz2h5rm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/c/e/x/xl-kcku-prm-single-star-pink-fubar-original-imah7mz8qfz2h5rm.jpeg?q=100",
+        "local_path": "../../media/images/ac839aa7d9c918104db851e6/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/e/d/xl-kcku-prm-single-star-pink-fubar-original-imah7mz8bzwtf8kj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/e/d/xl-kcku-prm-single-star-pink-fubar-original-imah7mz8bzwtf8kj.jpeg?q=100",
+        "local_path": "../../media/images/ac839aa7d9c918104db851e6/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/w/x/xl-kcku-prm-single-star-pink-fubar-original-imah7mz8qxzjbegd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/w/x/xl-kcku-prm-single-star-pink-fubar-original-imah7mz8qxzjbegd.jpeg?q=100",
+        "local_path": "../../media/images/ac839aa7d9c918104db851e6/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Men Chikan Embroidery Straight Kurta",
+      "description": "FUBAR Men Chikan Embroidery Straight Kurta - Buy FUBAR Men Chikan Embroidery Straight Kurta For Only Rs. 3499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/c/f/b/xl-kcku-prm-single-star-pink-fubar-resized-original-imah7mz844txgthq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/c/e/x/xl-kcku-prm-single-star-pink-fubar-original-imah7mz8qfz2h5rm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/e/d/xl-kcku-prm-single-star-pink-fubar-original-imah7mz8bzwtf8kj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/w/x/xl-kcku-prm-single-star-pink-fubar-original-imah7mz8qxzjbegd.jpeg?q=70"
+      ],
+      "sku": "KTAGYG47JY9HZAW4",
+      "color": "Pink",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 195,
+        "ratingCount": 4708,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 345,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Aryan Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-11",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Noorul",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-11",
+          "reviewBody": "Nice fitting",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Partho Roy",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-21",
+          "reviewBody": "Nice kurta 💗",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Stylish Embellished Pattern",
+          "body": "This men's kurta features a stunning embellished pattern that adds a touch of elegance and sophistic…"
+        },
+        {
+          "heading": "Comfortable Cotton Blend Fabric",
+          "body": "Crafted from a high-quality cotton blend fabric, this kurta offers both comfort and durability. The …"
+        },
+        {
+          "heading": "Mandarin Neck and Full Sleeves",
+          "body": "Featuring a classic Mandarin collar and full sleeves, this kurta exudes a sense of traditional charm…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Chikan Embroidery",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Fit": "Slim",
+        "Color": "Pink"
+      },
+      "specifications": {}
+    }
+  }
+}

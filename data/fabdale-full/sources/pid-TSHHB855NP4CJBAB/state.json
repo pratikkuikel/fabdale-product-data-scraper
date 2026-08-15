@@ -1,0 +1,18 @@
+{
+  "source_key": "pid-TSHHB855NP4CJBAB",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3495",
+    "3496",
+    "3497",
+    "3499"
+  ],
+  "source_path": "sources/pid-TSHHB855NP4CJBAB/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T09:33:00.265Z",
+  "completed_at": "2026-08-15T09:33:22.803Z"
+}

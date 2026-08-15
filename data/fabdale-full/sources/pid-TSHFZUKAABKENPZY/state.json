@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-TSHFZUKAABKENPZY",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3640",
+    "3641",
+    "3642",
+    "3643",
+    "3644",
+    "5434"
+  ],
+  "source_path": "sources/pid-TSHFZUKAABKENPZY/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T09:48:54.891Z",
+  "completed_at": "2026-08-15T09:49:11.782Z"
+}

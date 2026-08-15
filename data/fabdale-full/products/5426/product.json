@@ -1,0 +1,218 @@
+{
+  "product_id": "5426",
+  "sku": null,
+  "product": {
+    "name": "Verve Cotton-blend jersey",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/vebnor-solid-men-round-neck-white-t-shirt/p/itm143dd0e9cafeb?pid=TSHH3H8KHGMAGFKJ&lid=LSTTSHH3H8KHGMAGFKJ4XNS3F&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH3H8KHGMAGFKJ",
+    "path": "../../sources/pid-TSHH3H8KHGMAGFKJ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-solid-men-round-neck-white-t-shirt/p/itm143dd0e9cafeb?pid=TSHH3H8KHGMAGFKJ&lid=LSTTSHH3H8KHGMAGFKJ4XNS3F&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:39:26.853Z",
+    "final_url": "https://www.flipkart.com/vebnor-solid-men-round-neck-white-t-shirt/p/itm143dd0e9cafeb?pid=TSHH3H8KHGMAGFKJ&lid=LSTTSHH3H8KHGMAGFKJ4XNS3F&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:39:44.362Z"
+  },
+  "content": {
+    "title": "VeBNoR Solid Men Round Neck White T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Solid\nSleeve: Full Sleeve\nNeck Type: Round Neck",
+    "description": "Classic Round Neck\nThanks to its round neck design, this men's T-shirt offers a relaxed and versatile look suited for c…\n\nFull-length Sleeves\nBoasting extended sleeves, this T-shirt provides ample coverage while maintaining a refined appearan…\n\nRefined Regular Fit\nMade with a regular fit, this T-shirt strikes a balance between comfort and style, ensuring a polish…\n\nEasy-care Fabric\nFeaturing low-maintenance polyester fabric, this T-shirt is easy to clean and retain in top conditio…\n\nFlexible and Breathable\nOwing to its stretchable fabric, this T-shirt conforms to the body's natural movements, allowing enh…",
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Solid"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4fc20701e9d238701b0395c3",
+      "path": "media/images/4fc20701e9d238701b0395c3/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/z/h/s-ts85-vebnor-original-imahns82qauetpkr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/z/h/s-ts85-vebnor-original-imahns82qauetpkr.jpeg?q=100",
+        "local_path": "../../media/images/4fc20701e9d238701b0395c3/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/z/i/s-ts85-vebnor-original-imahns8269eyw2p2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/z/i/s-ts85-vebnor-original-imahns8269eyw2p2.jpeg?q=100",
+        "local_path": "../../media/images/4fc20701e9d238701b0395c3/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/q/s/s-ts85-vebnor-original-imahns82adsbpukq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/q/s/s-ts85-vebnor-original-imahns82adsbpukq.jpeg?q=100",
+        "local_path": "../../media/images/4fc20701e9d238701b0395c3/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/x/8/s-ts85-vebnor-original-imahns82wmmvqf7p.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/x/8/s-ts85-vebnor-original-imahns82wmmvqf7p.jpeg?q=100",
+        "local_path": "../../media/images/4fc20701e9d238701b0395c3/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/i/z/s-ts85-vebnor-original-imahns82kjutjhct.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/i/z/s-ts85-vebnor-original-imahns82kjutjhct.jpeg?q=100",
+        "local_path": "../../media/images/4fc20701e9d238701b0395c3/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Solid Men Round Neck White T-Shirt",
+      "description": "VeBNoR Solid Men Round Neck White T-Shirt - Buy VeBNoR Solid Men Round Neck White T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/z/h/s-ts85-vebnor-original-imahns82qauetpkr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/z/i/s-ts85-vebnor-original-imahns8269eyw2p2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/q/s/s-ts85-vebnor-original-imahns82adsbpukq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/x/8/s-ts85-vebnor-original-imahns82wmmvqf7p.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/i/z/s-ts85-vebnor-original-imahns82kjutjhct.jpeg?q=70"
+      ],
+      "sku": "TSHH3H8KHGMAGFKJ",
+      "color": "White1",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 4462,
+        "ratingCount": 89074,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 254,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Akhilesh Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-29",
+          "reviewBody": "Nice t shirt I m happy 😊😊\nI am an engineer, I had ordered this t-shirt for site work, but after seeing it I did not wear it, it feels fun to wear it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Rumana  Mukadam ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-30",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-09",
+          "reviewBody": "Amazing product 😉\nStitching is very perfect 🤩 \nMateriale is very soft and good 😊 \nQuality also awesome 😍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Round Neck",
+          "body": "Thanks to its round neck design, this men's T-shirt offers a relaxed and versatile look suited for c…"
+        },
+        {
+          "heading": "Full-length Sleeves",
+          "body": "Boasting extended sleeves, this T-shirt provides ample coverage while maintaining a refined appearan…"
+        },
+        {
+          "heading": "Refined Regular Fit",
+          "body": "Made with a regular fit, this T-shirt strikes a balance between comfort and style, ensuring a polish…"
+        },
+        {
+          "heading": "Easy-care Fabric",
+          "body": "Featuring low-maintenance polyester fabric, this T-shirt is easy to clean and retain in top conditio…"
+        },
+        {
+          "heading": "Flexible and Breathable",
+          "body": "Owing to its stretchable fabric, this T-shirt conforms to the body's natural movements, allowing enh…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Solid"
+      },
+      "specifications": {}
+    }
+  }
+}

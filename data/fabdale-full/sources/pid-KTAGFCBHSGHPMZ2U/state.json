@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-KTAGFCBHSGHPMZ2U",
+  "status": "success",
+  "attempt_count": 3,
+  "error": null,
+  "product_keys": [
+    "4347",
+    "4348",
+    "4349",
+    "4350",
+    "4351"
+  ],
+  "source_path": "sources/pid-KTAGFCBHSGHPMZ2U/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T14:03:07.010Z",
+  "completed_at": "2026-08-15T14:04:22.405Z"
+}

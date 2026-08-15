@@ -1,0 +1,125 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/dhasu-trendz-men-embellished-straight-kurta/p/itm8be5b445eea86?pid=KTAHGHPUPRR8B6DN&marketplace=FLIPKART&lid=LSTKTAHGHPUPRR8B6DN5KNUEY&swatchAttr=size&pageUID=1773918027457",
+    "scraped_at": "2026-08-15T13:00:17.585Z",
+    "final_url": "https://www.flipkart.com/dhasu-trendz-men-embellished-straight-kurta/p/itm8be5b445eea86?pid=KTAHGHPUPRR8B6DN&marketplace=FLIPKART&lid=LSTKTAHGHPUPRR8B6DN5KNUEY&swatchAttr=size&pageUID=1773918027457"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T13:00:40.376Z"
+  },
+  "content": {
+    "title": "DHASU TRENDZ Men Embellished Straight Kurta",
+    "short_description": "Color: Purple\nFabric: Viscose Rayon\nPattern: Embellished\nType: Straight\nFit: Regular Fit",
+    "description": "DHASU TRENDZ Men Embellished Straight Kurta - Buy DHASU TRENDZ Men Embellished Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Embellished",
+      "Type": "Straight",
+      "Fabric": "Viscose Rayon",
+      "Fit": "Regular Fit",
+      "Color": "Purple"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/d/r/xxl-emb-kv-wine5-dhasu-trendz-original-imahghpuhekn99zc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/d/r/xxl-emb-kv-wine5-dhasu-trendz-original-imahghpuhekn99zc.jpeg?q=100",
+        "local_path": "../../media/images/3459a94858b2e289784b4381/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/p/h/w/xxl-emb-kv-wine5-dhasu-trendz-original-imahghpujhbhzzf2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/p/h/w/xxl-emb-kv-wine5-dhasu-trendz-original-imahghpujhbhzzf2.jpeg?q=100",
+        "local_path": "../../media/images/3459a94858b2e289784b4381/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/j/0/s-emb-kv-wine5-dhasu-trendz-original-imahghpuqzbdvmfm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/j/0/s-emb-kv-wine5-dhasu-trendz-original-imahghpuqzbdvmfm.jpeg?q=100",
+        "local_path": "../../media/images/3459a94858b2e289784b4381/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "DHASU TRENDZ Men Embellished Straight Kurta",
+      "description": "DHASU TRENDZ Men Embellished Straight Kurta - Buy DHASU TRENDZ Men Embellished Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/d/r/xxl-emb-kv-wine5-dhasu-trendz-original-imahghpuhekn99zc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/p/h/w/xxl-emb-kv-wine5-dhasu-trendz-original-imahghpujhbhzzf2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/j/0/s-emb-kv-wine5-dhasu-trendz-original-imahghpuqzbdvmfm.jpeg?q=70"
+      ],
+      "sku": "KTAHGHPUPRR8B6DN",
+      "color": "Wine",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.5,
+        "ratingCount": 13,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "DHASU TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 432,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Embellished",
+        "Type": "Straight",
+        "Fabric": "Viscose Rayon",
+        "Fit": "Regular Fit",
+        "Color": "Purple"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3459a94858b2e289784b4381",
+      "path": "media/images/3459a94858b2e289784b4381/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

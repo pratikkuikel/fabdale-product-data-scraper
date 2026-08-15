@@ -1,8 +1,8 @@
 {
   "source_key": "pid-TSHH8QYHDG2DKSRG",
-  "status": "failed",
-  "attempt_count": 3,
-  "error": "page.goto: net::ERR_ABORTED at https://www.flipkart.com/kajaru-self-design-men-zip-neck-pink-t-shirt/p/itm0e28deecca2bc?pid=TSHH8QYHDG2DKSRG&marketplace=FLIPKART&lid=LSTTSHH8QYHDG2DKSRG0BNWCH&swatchAttr=size&pageUID=1773049751682\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/kajaru-self-design-men-zip-neck-pink-t-shirt/p/itm0e28deecca2bc?pid=TSHH8QYHDG2DKSRG&marketplace=FLIPKART&lid=LSTTSHH8QYHDG2DKSRG0BNWCH&swatchAttr=size&pageUID=1773049751682\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
   "product_keys": [
     "3246"
   ],
@@ -10,6 +10,6 @@
   "image_quality": 100,
   "download_media": true,
   "extractor_version": 2,
-  "started_at": "2026-08-13T16:00:10.781Z",
-  "completed_at": "2026-08-13T16:00:38.732Z"
+  "started_at": "2026-08-15T09:09:05.960Z",
+  "completed_at": "2026-08-15T09:09:16.072Z"
 }

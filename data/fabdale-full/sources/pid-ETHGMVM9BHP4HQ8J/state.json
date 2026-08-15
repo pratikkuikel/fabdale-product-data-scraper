@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-ETHGMVM9BHP4HQ8J",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4440"
+  ],
+  "source_path": "sources/pid-ETHGMVM9BHP4HQ8J/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T14:52:23.050Z",
+  "completed_at": "2026-08-15T14:52:47.675Z"
+}

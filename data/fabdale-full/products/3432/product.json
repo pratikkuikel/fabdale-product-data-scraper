@@ -1,0 +1,223 @@
+{
+  "product_id": "3432",
+  "sku": "Fab-TShirt-KAJR-022MR-L",
+  "product": {
+    "name": "Kavish Ribbed collar",
+    "parent_id": "5424",
+    "notes": "https://www.flipkart.com/kajaru-solid-men-polo-neck-maroon-t-shirt/p/itm6f34cca6d911d?pid=TSHH3KK4JXZXZHDS&marketplace=FLIPKART&lid=LSTTSHH3KK4JXZXZHDSW1JBIS&swatchAttr=size&pageUID=1773074326185"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH3KK4JXZXZHDS",
+    "path": "../../sources/pid-TSHH3KK4JXZXZHDS/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-solid-men-polo-neck-maroon-t-shirt/p/itm6f34cca6d911d?pid=TSHH3KK4JXZXZHDS&marketplace=FLIPKART&lid=LSTTSHH3KK4JXZXZHDSW1JBIS&swatchAttr=size&pageUID=1773074326185",
+    "scraped_at": "2026-08-15T09:26:21.093Z",
+    "final_url": "https://www.flipkart.com/kajaru-solid-men-polo-neck-maroon-t-shirt/p/itm6f34cca6d911d?pid=TSHH3KK4JXZXZHDS&marketplace=FLIPKART&lid=LSTTSHH3KK4JXZXZHDSW1JBIS&swatchAttr=size&pageUID=1773074326185"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:26:27.889Z"
+  },
+  "content": {
+    "title": "KAJARU Solid Men Polo Neck Maroon T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Solid\nSleeve: Half Sleeve\nNeck Type: Polo Neck",
+    "description": "Classic Polo Neck Design\nFeaturing a timeless polo neck design, this men's T-shirt exudes classic appeal. The polo neck adds …\n\nVersatile Solid Pattern\nWith its solid maroon color, this T-shirt offers a versatile and stylish look. The solid pattern all…\n\nComfortable Fit\nDesigned with a regular fit and short sleeves, this T-shirt offers a comfortable and relaxed fit. Th…\n\nEasy to Maintain\nCrafted from high-quality polyester fabric, this T-shirt is easy to maintain. Simply put it in the w…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Polo Neck",
+      "Pattern": "Solid"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "db7e34a46654946a833d1b1a",
+      "path": "media/images/db7e34a46654946a833d1b1a/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "a7e36133a40201b57fed40f7",
+      "path": "media/videos/a7e36133a40201b57fed40f7/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/z/n/l-polo-8004-kajaru-resized-original-imah3kk4huhe6gma.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/z/n/l-polo-8004-kajaru-resized-original-imah3kk4huhe6gma.jpeg?q=100",
+        "local_path": "../../media/images/db7e34a46654946a833d1b1a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/f/z/l-polo-8004-kajaru-original-imah3kk4bzxcvxmc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/f/z/l-polo-8004-kajaru-original-imah3kk4bzxcvxmc.jpeg?q=100",
+        "local_path": "../../media/images/db7e34a46654946a833d1b1a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/x/t/l-polo-8004-kajaru-original-imah3kk4s9sxfpgy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/x/t/l-polo-8004-kajaru-original-imah3kk4s9sxfpgy.jpeg?q=100",
+        "local_path": "../../media/images/db7e34a46654946a833d1b1a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/f/4/l-polo-8004-kajaru-original-imah3kk4uu3zqedc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/f/4/l-polo-8004-kajaru-original-imah3kk4uu3zqedc.jpeg?q=100",
+        "local_path": "../../media/images/db7e34a46654946a833d1b1a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/labs/AS/CNkLh_9QOLSKmMIL7blxu0Ng/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNOWOB6mMER_OnTjtDykzjuQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Solid Men Polo Neck Maroon T-Shirt",
+      "description": "KAJARU Solid Men Polo Neck Maroon T-Shirt - Buy KAJARU Solid Men Polo Neck Maroon T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/z/n/l-polo-8004-kajaru-resized-original-imah3kk4huhe6gma.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/f/z/l-polo-8004-kajaru-original-imah3kk4bzxcvxmc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/x/t/l-polo-8004-kajaru-original-imah3kk4s9sxfpgy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/f/4/l-polo-8004-kajaru-original-imah3kk4uu3zqedc.jpeg?q=70"
+      ],
+      "sku": "TSHH3KK4JXZXZHDS",
+      "color": "MAROON",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 333,
+        "ratingCount": 8744,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 246,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Pintu Sen",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-08",
+          "reviewBody": "good 😊",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Lalchand Meena ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-03",
+          "reviewBody": "Tooo good hai 😊😊😊😊😊 really good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Deepak  Das ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-04",
+          "reviewBody": "I like it 👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Polo Neck Design",
+          "body": "Featuring a timeless polo neck design, this men's T-shirt exudes classic appeal. The polo neck adds …"
+        },
+        {
+          "heading": "Versatile Solid Pattern",
+          "body": "With its solid maroon color, this T-shirt offers a versatile and stylish look. The solid pattern all…"
+        },
+        {
+          "heading": "Comfortable Fit",
+          "body": "Designed with a regular fit and short sleeves, this T-shirt offers a comfortable and relaxed fit. Th…"
+        },
+        {
+          "heading": "Easy to Maintain",
+          "body": "Crafted from high-quality polyester fabric, this T-shirt is easy to maintain. Simply put it in the w…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Polo Neck",
+        "Pattern": "Solid"
+      },
+      "specifications": {}
+    }
+  }
+}

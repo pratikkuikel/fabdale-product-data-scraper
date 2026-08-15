@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-KTAGQ464FVPJWFTE",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4257",
+    "4258",
+    "4259",
+    "4260",
+    "4261"
+  ],
+  "source_path": "sources/pid-KTAGQ464FVPJWFTE/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T13:21:52.612Z",
+  "completed_at": "2026-08-15T13:23:21.634Z"
+}

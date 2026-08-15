@@ -1,0 +1,37 @@
+{
+  "key": "a49349348b65971ac44acb53",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T12:20:46.066Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/g/b/l-only-plain-seawind-resized-original-imagczwsuju94maz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/g/b/l-only-plain-seawind-resized-original-imagczwsuju94maz.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/z/w/7/l-only-plain-seawind-original-imagczwsrqf2ngsy.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/z/w/7/l-only-plain-seawind-original-imagczwsrqf2ngsy.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/j/t/1/l-only-plain-seawind-original-imagczwshjtzgduc.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/j/t/1/l-only-plain-seawind-original-imagczwshjtzgduc.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/t/a/0/l-only-plain-seawind-original-imagczws4h5awht3.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/t/a/0/l-only-plain-seawind-original-imagczws4h5awht3.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

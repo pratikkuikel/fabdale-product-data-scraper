@@ -1,0 +1,145 @@
+{
+  "product_id": "3910",
+  "sku": "Fab-TShirt-TRPR-023WH-XL",
+  "product": {
+    "name": "TeeCulture Quarter-zip knitted polo T-Shirt",
+    "parent_id": "5203",
+    "notes": "https://www.flipkart.com/tripr-printed-men-polo-neck-white-green-t-shirt/p/itm0b1c90edb8859?pid=TSHHGTBHMBDF8W8W&lid=LSTTSHHGTBHMBDF8W8W7IHSJK&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHHGTBHMBDF8W8W",
+    "path": "../../sources/pid-TSHHGTBHMBDF8W8W/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tripr-printed-men-polo-neck-white-green-t-shirt/p/itm0b1c90edb8859?pid=TSHHGTBHMBDF8W8W&lid=LSTTSHHGTBHMBDF8W8W7IHSJK&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T10:40:12.824Z",
+    "final_url": "https://www.flipkart.com/tripr-printed-men-polo-neck-white-green-t-shirt/p/itm0b1c90edb8859?pid=TSHHGTBHMBDF8W8W&lid=LSTTSHHGTBHMBDF8W8W7IHSJK&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:40:32.178Z"
+  },
+  "content": {
+    "title": "TRIPR Men Printed Polo Neck Cotton Blend White, Green T-Shirt",
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3c0c10923fe7bf7aecd1d926",
+      "path": "media/images/3c0c10923fe7bf7aecd1d926/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/i/v/4/s-twtgrpoloful-p61-tripr-resized-original-imahgzv9ddzfjzev.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/i/v/4/s-twtgrpoloful-p61-tripr-resized-original-imahgzv9ddzfjzev.jpeg?q=100",
+        "local_path": "../../media/images/3c0c10923fe7bf7aecd1d926/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/l/h/g/s-twtgrpoloful-p61-tripr-original-imahgzv9ghgrgbmt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/l/h/g/s-twtgrpoloful-p61-tripr-original-imahgzv9ghgrgbmt.jpeg?q=100",
+        "local_path": "../../media/images/3c0c10923fe7bf7aecd1d926/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/v/x/i/s-twtgrpoloful-p61-tripr-original-imahgzv9krehkgxs.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/v/x/i/s-twtgrpoloful-p61-tripr-original-imahgzv9krehkgxs.jpeg?q=100",
+        "local_path": "../../media/images/3c0c10923fe7bf7aecd1d926/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/s/b/e/s-twtgrpoloful-p61-tripr-original-imahgzv98c5utfay.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/s/b/e/s-twtgrpoloful-p61-tripr-original-imahgzv98c5utfay.jpeg?q=100",
+        "local_path": "../../media/images/3c0c10923fe7bf7aecd1d926/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/5/4/r/xxl-twtgrpoloful-p61-tripr-original-imahgzv9ayzdtzbx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/5/4/r/xxl-twtgrpoloful-p61-tripr-original-imahgzv9ayzdtzbx.jpeg?q=100",
+        "local_path": "../../media/images/3c0c10923fe7bf7aecd1d926/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/s/9/q/s-tblrnos-nop-d211-tripr-original-imahn3rnxgxeryww.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/s/9/q/s-tblrnos-nop-d211-tripr-original-imahn3rnxgxeryww.jpeg?q=100",
+        "local_path": "../../media/images/3c0c10923fe7bf7aecd1d926/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/x/i/1/-resized-original-imahjzpxhg7gum9z.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/x/i/1/-resized-original-imahjzpxhg7gum9z.jpeg?q=100",
+        "local_path": "../../media/images/3c0c10923fe7bf7aecd1d926/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/5/h/i/s-ts135-vebnor-original-imahpgh2zecchgfz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/5/h/i/s-ts135-vebnor-original-imahpgh2zecchgfz.jpeg?q=100",
+        "local_path": "../../media/images/3c0c10923fe7bf7aecd1d926/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/y/g/q/l-tblrnos-nop-d247-tripr-original-imahnzyfwbhg9hhv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/y/g/q/l-tblrnos-nop-d247-tripr-original-imahnzyfwbhg9hhv.jpeg?q=100",
+        "local_path": "../../media/images/3c0c10923fe7bf7aecd1d926/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/v/p/xxl-tblrn-dp-d173-tripr-original-imahg2fsujjyggj8.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/v/p/xxl-tblrn-dp-d173-tripr-original-imahg2fsujjyggj8.jpeg?q=100",
+        "local_path": "../../media/images/3c0c10923fe7bf7aecd1d926/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/w/y/8/xl-tnvrnos-d210-tripr-resized-original-imahgxzcbx2humyg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/w/y/8/xl-tnvrnos-d210-tripr-resized-original-imahgxzcbx2humyg.jpeg?q=100",
+        "local_path": "../../media/images/3c0c10923fe7bf7aecd1d926/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/o/h/y/3xl-twt-bl-gyrn-nop-plaind164-tripr-original-imahmtyvtwyzwkvd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/o/h/y/3xl-twt-bl-gyrn-nop-plaind164-tripr-original-imahmtyvtwyzwkvd.jpeg?q=100",
+        "local_path": "../../media/images/3c0c10923fe7bf7aecd1d926/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/d/l/u/xl-twthnful-nop-d144-tripr-original-imahhytm6h92nrjh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/d/l/u/xl-twthnful-nop-d144-tripr-original-imahhytm6h92nrjh.jpeg?q=100",
+        "local_path": "../../media/images/3c0c10923fe7bf7aecd1d926/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

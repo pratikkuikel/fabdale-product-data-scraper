@@ -1,0 +1,37 @@
+{
+  "key": "e6e202e632f5d01ec20939c5",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T13:42:16.876Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/n/2/l-krtpj-print-set-mgoor-fubar-resized-original-imagzue88dyf4hmf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/n/2/l-krtpj-print-set-mgoor-fubar-resized-original-imagzue88dyf4hmf.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/k/h/xl-krtpj-print-set-mgoor-fubar-original-imaguyz4agf9gu4u.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/k/h/xl-krtpj-print-set-mgoor-fubar-original-imaguyz4agf9gu4u.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxw5tow0/ethnic-set/p/n/i/s-krtpj-print-set-mgoor-fubar-original-imaga8y4rd9z49xh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxw5tow0/ethnic-set/p/n/i/s-krtpj-print-set-mgoor-fubar-original-imaga8y4rd9z49xh.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxw5tow0/ethnic-set/o/2/p/s-krtpj-print-set-mgoor-fubar-original-imaga8y46mhcgfzy.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxw5tow0/ethnic-set/o/2/p/s-krtpj-print-set-mgoor-fubar-original-imaga8y46mhcgfzy.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

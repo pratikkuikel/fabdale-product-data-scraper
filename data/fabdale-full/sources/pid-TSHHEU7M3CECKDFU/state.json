@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-TSHHEU7M3CECKDFU",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3284",
+    "5417"
+  ],
+  "source_path": "sources/pid-TSHHEU7M3CECKDFU/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T09:12:55.751Z",
+  "completed_at": "2026-08-15T09:13:01.298Z"
+}

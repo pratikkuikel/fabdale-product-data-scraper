@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-self-design-men-round-neck-dark-blue-t-shirt/p/itme2ef8c32df9b6?pid=TSHH63MZGMJPGNQU&lid=LSTTSHH63MZGMJPGNQUPLG5TD&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:22:42.955Z",
+    "final_url": "https://www.flipkart.com/kajaru-self-design-men-round-neck-dark-blue-t-shirt/p/itme2ef8c32df9b6?pid=TSHH63MZGMJPGNQU&lid=LSTTSHH63MZGMJPGNQUPLG5TD&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:22:55.613Z"
+  },
+  "content": {
+    "title": "KAJARU Self Design Men Round Neck Dark Blue T-Shirt",
+    "short_description": "KAJARU Self Design Men Round Neck Dark Blue T-Shirt - Buy KAJARU Self Design Men Round Neck Dark Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "KAJARU Self Design Men Round Neck Dark Blue T-Shirt - Buy KAJARU Self Design Men Round Neck Dark Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/m/u/r/xl-tsrt-22-makemode-resized-original-imah4ufygcnkyyhh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/m/u/r/xl-tsrt-22-makemode-resized-original-imah4ufygcnkyyhh.jpeg?q=100",
+        "local_path": "../../media/images/d7f64256f157a12395cfe4ce/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/b/d/xl-tsrt-22-makemode-original-imah4ufydhfngsj6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/b/d/xl-tsrt-22-makemode-original-imah4ufydhfngsj6.jpeg?q=100",
+        "local_path": "../../media/images/d7f64256f157a12395cfe4ce/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/m/r/xl-tsrt-22-makemode-original-imah4ufypqxhunkf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/m/r/xl-tsrt-22-makemode-original-imah4ufypqxhunkf.jpeg?q=100",
+        "local_path": "../../media/images/d7f64256f157a12395cfe4ce/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/b/a/xl-tsrt-22-makemode-original-imah4ufycdzt6pzt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/b/a/xl-tsrt-22-makemode-original-imah4ufycdzt6pzt.jpeg?q=100",
+        "local_path": "../../media/images/d7f64256f157a12395cfe4ce/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/c/1/m-dot-design-kajaru-original-imah7uzhzh7tvpp3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/c/1/m-dot-design-kajaru-original-imah7uzhzh7tvpp3.jpeg?q=100",
+        "local_path": "../../media/images/d7f64256f157a12395cfe4ce/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Self Design Men Round Neck Dark Blue T-Shirt",
+      "description": "KAJARU Self Design Men Round Neck Dark Blue T-Shirt - Buy KAJARU Self Design Men Round Neck Dark Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/m/u/r/xl-tsrt-22-makemode-resized-original-imah4ufygcnkyyhh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/b/d/xl-tsrt-22-makemode-original-imah4ufydhfngsj6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/m/r/xl-tsrt-22-makemode-original-imah4ufypqxhunkf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/b/a/xl-tsrt-22-makemode-original-imah4ufycdzt6pzt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/c/1/m-dot-design-kajaru-original-imah7uzhzh7tvpp3.jpeg?q=70"
+      ],
+      "sku": "TSHH63MZGMJPGNQU",
+      "color": "DARKBLUE.",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 283,
+        "ratingCount": 6774,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 237,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "KhiLesh Sahu",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-21",
+          "reviewBody": "This ProDuct Is NiCe AnD ComfortabLe 🙂",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Nikhil Kashyap",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-10",
+          "reviewBody": "Very good 👍👍👍 product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Prasda Sahoo",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-20",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "d7f64256f157a12395cfe4ce",
+      "path": "media/images/d7f64256f157a12395cfe4ce/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

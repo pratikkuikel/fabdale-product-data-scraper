@@ -1,0 +1,215 @@
+{
+  "product_id": "4234",
+  "sku": "Fab-KurtaSet-FUBR-008WH-L",
+  "product": {
+    "name": "Festivo multicolored leaf-inspired Print Kurtha",
+    "parent_id": "5371",
+    "notes": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itmc1a5ac925b741?pid=KTAGGTQWQBC78E6D&marketplace=FLIPKART&lid=LSTKTAGGTQWQBC78E6DZH0YUX&swatchAttr=size&pageUID=1774086727454"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGGTQWQBC78E6D",
+    "path": "../../sources/pid-KTAGGTQWQBC78E6D/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itmc1a5ac925b741?pid=KTAGGTQWQBC78E6D&marketplace=FLIPKART&lid=LSTKTAGGTQWQBC78E6DZH0YUX&swatchAttr=size&pageUID=1774086727454",
+    "scraped_at": "2026-08-15T13:15:27.505Z",
+    "final_url": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itmc1a5ac925b741?pid=KTAGGTQWQBC78E6D&marketplace=FLIPKART&lid=LSTKTAGGTQWQBC78E6DZH0YUX&swatchAttr=size&pageUID=1774086727454"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T13:15:49.070Z"
+  },
+  "content": {
+    "title": "FUBAR Men Printed Straight Kurta",
+    "short_description": "Color: Beige\nFabric: Cotton Blend\nPattern: Printed\nType: Straight\nFit: Regular",
+    "description": "About the Brand\nFUBAR is India’s first home-grown brand that introduced apparel at an affordable price. We provide best-in-class design and quality control techniques…",
+    "specifications": {
+      "Pattern": "Printed",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Fit": "Regular",
+      "Color": "Beige"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "33c55080eeef94dec15e9131",
+      "path": "media/images/33c55080eeef94dec15e9131/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "4f5b63de08f32174a14ea651",
+      "path": "media/videos/4f5b63de08f32174a14ea651/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/s/k/m-kcku-only-kurta-print-leaf-fubar-resized-original-imaggtqwz8dravzm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/s/k/m-kcku-only-kurta-print-leaf-fubar-resized-original-imaggtqwz8dravzm.jpeg?q=100",
+        "local_path": "../../media/images/33c55080eeef94dec15e9131/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/l/v/m-kcku-only-kurta-print-leaf-fubar-original-imaggtqwkjep69cu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/l/v/m-kcku-only-kurta-print-leaf-fubar-original-imaggtqwkjep69cu.jpeg?q=100",
+        "local_path": "../../media/images/33c55080eeef94dec15e9131/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/q/h/m-kcku-only-kurta-print-leaf-fubar-original-imaggtqwj8j3ht9b.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/q/h/m-kcku-only-kurta-print-leaf-fubar-original-imaggtqwj8j3ht9b.jpeg?q=100",
+        "local_path": "../../media/images/33c55080eeef94dec15e9131/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/t/b/m-kcku-only-kurta-print-leaf-fubar-original-imaggtqwhmgbr8pz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/t/b/m-kcku-only-kurta-print-leaf-fubar-original-imaggtqwhmgbr8pz.jpeg?q=100",
+        "local_path": "../../media/images/33c55080eeef94dec15e9131/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxw5tow0/ethnic-set/w/2/4/m-krtpj-print-set-leaf-fubar-original-imaga8y4abktgrsu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxw5tow0/ethnic-set/w/2/4/m-krtpj-print-set-leaf-fubar-original-imaga8y4abktgrsu.jpeg?q=100",
+        "local_path": "../../media/images/33c55080eeef94dec15e9131/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNvqUUDDiRQFy5sxcOORtKfA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Men Printed Straight Kurta",
+      "description": "FUBAR Men Printed Straight Kurta - Buy FUBAR Men Printed Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/s/k/m-kcku-only-kurta-print-leaf-fubar-resized-original-imaggtqwz8dravzm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/l/v/m-kcku-only-kurta-print-leaf-fubar-original-imaggtqwkjep69cu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/q/h/m-kcku-only-kurta-print-leaf-fubar-original-imaggtqwj8j3ht9b.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/t/b/m-kcku-only-kurta-print-leaf-fubar-original-imaggtqwhmgbr8pz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kxw5tow0/ethnic-set/w/2/4/m-krtpj-print-set-leaf-fubar-original-imaga8y4abktgrsu.jpeg?q=70"
+      ],
+      "sku": "KTAGGTQWQBC78E6D",
+      "color": "Leaf",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 2213,
+        "ratingCount": 33694,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 249,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Dipraj Sarkar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-04",
+          "reviewBody": "Nice colour combination, \nPerfect size \nGood quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Nihudi Salunke",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-15",
+          "reviewBody": "Worth for money 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Nilesh Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2022-10-23",
+          "reviewBody": "Nice design and fabric. You might face fitting issue but could be fixed by alteration.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "About the Brand",
+          "body": "FUBAR is India’s first home-grown brand that introduced apparel at an affordable price. We provide best-in-class design and quality control techniques…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Fit": "Regular",
+        "Color": "Beige"
+      },
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "key": "36f372dabb68bde7e1649b28",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T13:07:33.022Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/f/d/l-kcku-only-kurta-print-ye-fubar-original-imahy329s95ukd6w.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/f/d/l-kcku-only-kurta-print-ye-fubar-original-imahy329s95ukd6w.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/e/u/l-kcku-only-kurta-print-ye-fubar-original-imahy329cqacv4jt.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/e/u/l-kcku-only-kurta-print-ye-fubar-original-imahy329cqacv4jt.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/u/p/l-kcku-only-kurta-print-ye-fubar-original-imahy329yhggy6zy.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/u/p/l-kcku-only-kurta-print-ye-fubar-original-imahy329yhggy6zy.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/y/b/l-kcku-only-kurta-print-ye-fubar-original-imahy329xkxwszhb.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/y/b/l-kcku-only-kurta-print-ye-fubar-original-imahy329xkxwszhb.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

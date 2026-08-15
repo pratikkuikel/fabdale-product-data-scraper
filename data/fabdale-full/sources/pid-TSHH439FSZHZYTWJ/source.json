@@ -1,0 +1,212 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/tripr-solid-men-mandarin-collar-brown-black-t-shirt/p/itm6378de309d7fc?pid=TSHH439FSZHZYTWJ&marketplace=FLIPKART&lid=LSTTSHH439FSZHZYTWJ8CRRVQ&swatchAttr=size&pageUID=1773226582730",
+    "scraped_at": "2026-08-15T10:18:29.024Z",
+    "final_url": "https://www.flipkart.com/tripr-solid-men-mandarin-collar-brown-black-t-shirt/p/itm6378de309d7fc?pid=TSHH439FSZHZYTWJ&marketplace=FLIPKART&lid=LSTTSHH439FSZHZYTWJ8CRRVQ&swatchAttr=size&pageUID=1773226582730"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:18:54.448Z"
+  },
+  "content": {
+    "title": "TRIPR Solid Men Mandarin Collar Brown, Black T-Shirt",
+    "short_description": "Fabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nNeck Type: Mandarin Collar",
+    "description": "Classic Solid Pattern\nThis men's T-shirt features a classic solid pattern in brown and black, offering a versatile and tim…\n\nMandarin Collar Design\nWith a stylish mandarin collar design, this T-shirt exudes a unique charm that sets it apart from tr…\n\nFull Sleeve Comfort\nDesigned with full sleeves, this T-shirt provides both style and coverage, making it suitable for ca…\n\nSoft Cotton Blend Fabric\nCrafted from a high-quality cotton blend fabric, this T-shirt offers a soft and comfortable feel aga…\n\nEasy Fabric Care\nFor convenient maintenance, this T-shirt can be easily machine washed with regular care, allowing yo…",
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Cotton Blend",
+      "Neck Type": "Mandarin Collar",
+      "Pattern": "Solid"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/w/e/m-tbrblhnful-d145-tripr-original-imahcjp7rzmzdgtz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/w/e/m-tbrblhnful-d145-tripr-original-imahcjp7rzmzdgtz.jpeg?q=100",
+        "local_path": "../../media/images/a5c681f2c7f4184669f17eb6/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/i/g/y/m-tbrblhnful-spy-d145-tripr-original-imahbyz9c2kersc8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/i/g/y/m-tbrblhnful-spy-d145-tripr-original-imahbyz9c2kersc8.jpeg?q=100",
+        "local_path": "../../media/images/a5c681f2c7f4184669f17eb6/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/u/a/m-tbrblhnful-d145-tripr-original-imahcjp77n9pbkmk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/u/a/m-tbrblhnful-d145-tripr-original-imahcjp77n9pbkmk.jpeg?q=100",
+        "local_path": "../../media/images/a5c681f2c7f4184669f17eb6/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/p/7/m-tbrblhnful-d145-tripr-original-imahcjp7jbycp8rp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/p/7/m-tbrblhnful-d145-tripr-original-imahcjp7jbycp8rp.jpeg?q=100",
+        "local_path": "../../media/images/a5c681f2c7f4184669f17eb6/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/1/f/c/m-tbrblhnful-d145-tripr-original-imahcjp74vfczpbm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/1/f/c/m-tbrblhnful-d145-tripr-original-imahcjp74vfczpbm.jpeg?q=100",
+        "local_path": "../../media/images/a5c681f2c7f4184669f17eb6/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNa06VRg-jRqqajtccBmqSFw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      },
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNE-LtHTmKS3WUEZC4Z7fgXw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "TRIPR Solid Men Mandarin Collar Brown, Black T-Shirt",
+      "description": "TRIPR Solid Men Mandarin Collar Brown, Black T-Shirt - Buy TRIPR Solid Men Mandarin Collar Brown, Black T-Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/w/e/m-tbrblhnful-d145-tripr-original-imahcjp7rzmzdgtz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/i/g/y/m-tbrblhnful-spy-d145-tripr-original-imahbyz9c2kersc8.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/u/a/m-tbrblhnful-d145-tripr-original-imahcjp77n9pbkmk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/p/7/m-tbrblhnful-d145-tripr-original-imahcjp7jbycp8rp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/1/f/c/m-tbrblhnful-d145-tripr-original-imahcjp74vfczpbm.jpeg?q=70"
+      ],
+      "sku": "TSHH439FSZHZYTWJ",
+      "color": "Brown2",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 1250,
+        "ratingCount": 23399,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "TRIPR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 294,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-02",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Juhi Kumari",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-05",
+          "reviewBody": "Nice 🙂",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-14",
+          "reviewBody": "Good quality 👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Solid Pattern",
+          "body": "This men's T-shirt features a classic solid pattern in brown and black, offering a versatile and tim…"
+        },
+        {
+          "heading": "Mandarin Collar Design",
+          "body": "With a stylish mandarin collar design, this T-shirt exudes a unique charm that sets it apart from tr…"
+        },
+        {
+          "heading": "Full Sleeve Comfort",
+          "body": "Designed with full sleeves, this T-shirt provides both style and coverage, making it suitable for ca…"
+        },
+        {
+          "heading": "Soft Cotton Blend Fabric",
+          "body": "Crafted from a high-quality cotton blend fabric, this T-shirt offers a soft and comfortable feel aga…"
+        },
+        {
+          "heading": "Easy Fabric Care",
+          "body": "For convenient maintenance, this T-shirt can be easily machine washed with regular care, allowing yo…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Cotton Blend",
+        "Neck Type": "Mandarin Collar",
+        "Pattern": "Solid"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a5c681f2c7f4184669f17eb6",
+      "path": "media/images/a5c681f2c7f4184669f17eb6/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "1dee6a956ee3bfecef596a43",
+      "path": "media/videos/1dee6a956ee3bfecef596a43/media.json",
+      "reused": false
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "product_id": "3590",
+  "sku": "Fab-Sweatshirt-DRST-004ML-S",
+  "product": {
+    "name": "Dapper.Co Dead Smile logo T-Shirt",
+    "parent_id": "5430",
+    "notes": "https://www.flipkart.com/dry-state-full-sleeve-printed-men-sweatshirt/p/itm799bcd719eb29?pid=SWSGJS8NZQM8NZVJ&lid=LSTSWSGJS8NZQM8NZVJ5YKYXJ&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-SWSGJS8NZQM8NZVJ",
+    "path": "../../sources/pid-SWSGJS8NZQM8NZVJ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/dry-state-full-sleeve-printed-men-sweatshirt/p/itm799bcd719eb29?pid=SWSGJS8NZQM8NZVJ&lid=LSTSWSGJS8NZQM8NZVJ5YKYXJ&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:45:07.342Z",
+    "final_url": "https://www.flipkart.com/dry-state-full-sleeve-printed-men-sweatshirt/p/itm799bcd719eb29?pid=SWSGJS8NZQM8NZVJ&lid=LSTSWSGJS8NZQM8NZVJ5YKYXJ&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:45:23.938Z"
+  },
+  "content": {
+    "title": "THE DRY STATE Full Sleeve Printed Men Sweatshirt",
+    "short_description": "Color: Multicolor\nFabric: Fleece\nPattern: Printed\nSleeve: Full Sleeve\nNeck: Hooded Neck",
+    "description": "THE DRY STATE Full Sleeve Printed Men Sweatshirt - Buy THE DRY STATE Full Sleeve Printed Men Sweatshirt For Only Rs. 2799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Color": "Multicolor",
+      "Fabric": "Fleece",
+      "Pattern": "Printed",
+      "Neck": "Hooded Neck",
+      "Sleeve": "Full Sleeve"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "16e6272241319be33b61cd90",
+      "path": "media/images/16e6272241319be33b61cd90/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/b/m/4/m-7164-the-dry-state-original-imagjs8mhnhfzhpa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/b/m/4/m-7164-the-dry-state-original-imagjs8mhnhfzhpa.jpeg?q=100",
+        "local_path": "../../media/images/16e6272241319be33b61cd90/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/6/a/7/m-7164-the-dry-state-original-imagjs8mps9peaby.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/6/a/7/m-7164-the-dry-state-original-imagjs8mps9peaby.jpeg?q=100",
+        "local_path": "../../media/images/16e6272241319be33b61cd90/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/i/5/f/xxl-7164-the-dry-state-original-imagjsa2sdufygr9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/i/5/f/xxl-7164-the-dry-state-original-imagjsa2sdufygr9.jpeg?q=100",
+        "local_path": "../../media/images/16e6272241319be33b61cd90/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/x/u/0/m-7164-the-dry-state-original-imagjs8m8xc4hqwy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/x/u/0/m-7164-the-dry-state-original-imagjs8m8xc4hqwy.jpeg?q=100",
+        "local_path": "../../media/images/16e6272241319be33b61cd90/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/a/j/r/m-7164-the-dry-state-original-imagjs8mgyugg6fh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/a/j/r/m-7164-the-dry-state-original-imagjs8mgyugg6fh.jpeg?q=100",
+        "local_path": "../../media/images/16e6272241319be33b61cd90/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "THE DRY STATE Full Sleeve Printed Men Sweatshirt",
+      "description": "THE DRY STATE Full Sleeve Printed Men Sweatshirt - Buy THE DRY STATE Full Sleeve Printed Men Sweatshirt For Only Rs. 2799.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/b/m/4/m-7164-the-dry-state-original-imagjs8mhnhfzhpa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/6/a/7/m-7164-the-dry-state-original-imagjs8mps9peaby.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/i/5/f/xxl-7164-the-dry-state-original-imagjsa2sdufygr9.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/x/u/0/m-7164-the-dry-state-original-imagjs8m8xc4hqwy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/a/j/r/m-7164-the-dry-state-original-imagjs8mgyugg6fh.jpeg?q=70"
+      ],
+      "sku": "SWSGJS8NZQM8NZVJ",
+      "color": "MULTICOLOR 2",
+      "category": "sweatshirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 31,
+        "ratingCount": 298,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "THE DRY STATE",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 535,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 7,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Sharvani kashyap",
+            "@type": "Person"
+          },
+          "datePublished": "2022-12-16",
+          "reviewBody": "Look wise so cool 😎",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Abhi  Jithu",
+            "@type": "Person"
+          },
+          "datePublished": "2022-05-11",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Ishrat  Jahan",
+            "@type": "Person"
+          },
+          "datePublished": "2022-12-15",
+          "reviewBody": "Good product..... Fabric is thick and very comfortable. Its warm. Suitable for light winter. Print is good. Its not rubber print, permanent kind of print. Price is slightly high. Overall I am happy with it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Color": "Multicolor",
+        "Fabric": "Fleece",
+        "Pattern": "Printed",
+        "Neck": "Hooded Neck",
+        "Sleeve": "Full Sleeve"
+      },
+      "specifications": {}
+    }
+  }
+}

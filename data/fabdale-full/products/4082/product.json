@@ -1,0 +1,38 @@
+{
+  "product_id": "4082",
+  "sku": "Fab-Kurta-CELLX-019WH-S",
+  "product": {
+    "name": "Civanth Simple straight kurtha",
+    "parent_id": "5401",
+    "notes": "https://www.flipkart.com/cellux-men-solid-straight-kurta/p/itmd79ecb1416870?pid=KTAGCQXV8FQRWCYG&marketplace=FLIPKART&lid=LSTKTAGCQXV8FQRWCYGAAXDVL&swatchAttr=size&pageUID=1773829293398"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGCQXV8FQRWCYG",
+    "path": "../../sources/pid-KTAGCQXV8FQRWCYG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/cellux-men-solid-straight-kurta/p/itmd79ecb1416870?pid=KTAGCQXV8FQRWCYG&marketplace=FLIPKART&lid=LSTKTAGCQXV8FQRWCYGAAXDVL&swatchAttr=size&pageUID=1773829293398",
+    "scraped_at": "2026-08-15T12:35:17.264Z",
+    "final_url": "https://www.flipkart.com/cellux-men-solid-straight-kurta/p/itmd79ecb1416870?pid=KTAGCQXV8FQRWCYG&marketplace=FLIPKART&lid=LSTKTAGCQXV8FQRWCYGAAXDVL&swatchAttr=size&pageUID=1773829293398"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/cellux-men-solid-straight-kurta/p/itmd79ecb1416870?pid=KTAGCQXV8FQRWCYG&marketplace=FLIPKART&lid=LSTKTAGCQXV8FQRWCYGAAXDVL&swatchAttr=size&pageUID=1773829293398\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T12:36:35.327Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

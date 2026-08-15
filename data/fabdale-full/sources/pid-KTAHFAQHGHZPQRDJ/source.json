@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/lemonx-men-embellished-straight-kurta/p/itm90f40e6c5b138?pid=KTAHFAQHGHZPQRDJ&marketplace=FLIPKART&lid=LSTKTAHFAQHGHZPQRDJ3MGCEK&swatchAttr=size&pageUID=1773917991467",
+    "scraped_at": "2026-08-15T13:01:00.065Z",
+    "final_url": "https://www.flipkart.com/lemonx-men-embellished-straight-kurta/p/itm90f40e6c5b138?pid=KTAHFAQHGHZPQRDJ&marketplace=FLIPKART&lid=LSTKTAHFAQHGHZPQRDJ3MGCEK&swatchAttr=size&pageUID=1773917991467"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T13:01:11.476Z"
+  },
+  "content": {
+    "title": "LEMONX Men Embellished Straight Kurta",
+    "short_description": "LEMONX Men Embellished Straight Kurta - Buy LEMONX Men Embellished Straight Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "LEMONX Men Embellished Straight Kurta - Buy LEMONX Men Embellished Straight Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/p/5/m-silffi08-tb-mania-resized-original-imahg6nszwzzg7jj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/p/5/m-silffi08-tb-mania-resized-original-imahg6nszwzzg7jj.jpeg?q=100",
+        "local_path": "../../media/images/2898adbf1e580072c63c61ec/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/z/o/m-silffi08-tb-mania-original-imahg6nszf7syt4f.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/z/o/m-silffi08-tb-mania-original-imahg6nszf7syt4f.jpeg?q=100",
+        "local_path": "../../media/images/2898adbf1e580072c63c61ec/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/j/5/m-silffi08-tb-mania-original-imahg6nshkpwdhce.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/j/5/m-silffi08-tb-mania-original-imahg6nshkpwdhce.jpeg?q=100",
+        "local_path": "../../media/images/2898adbf1e580072c63c61ec/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/g/m/m-silffi08-tb-mania-original-imahg6nstph7yq6u.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/g/m/m-silffi08-tb-mania-original-imahg6nstph7yq6u.jpeg?q=100",
+        "local_path": "../../media/images/2898adbf1e580072c63c61ec/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/9/s/m-silffi08-tb-mania-original-imahg6nswjsg7gxa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/9/s/m-silffi08-tb-mania-original-imahg6nswjsg7gxa.jpeg?q=100",
+        "local_path": "../../media/images/2898adbf1e580072c63c61ec/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "LEMONX Men Embellished Straight Kurta",
+      "description": "LEMONX Men Embellished Straight Kurta - Buy LEMONX Men Embellished Straight Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/p/5/m-silffi08-tb-mania-resized-original-imahg6nszwzzg7jj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/z/o/m-silffi08-tb-mania-original-imahg6nszf7syt4f.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/e/j/5/m-silffi08-tb-mania-original-imahg6nshkpwdhce.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/t/g/m/m-silffi08-tb-mania-original-imahg6nstph7yq6u.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/9/s/m-silffi08-tb-mania-original-imahg6nswjsg7gxa.jpeg?q=70"
+      ],
+      "sku": "KTAHFAQHGHZPQRDJ",
+      "color": "Wine",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 30,
+        "ratingCount": 524,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "LEMONX",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 420,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Tamizur Rahman Khan",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-05",
+          "reviewBody": "Nice product 🥰",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Mhod Shameem",
+            "@type": "Person"
+          },
+          "datePublished": "2026-03-20",
+          "reviewBody": "Nice product emergency ❤️",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Monika Rajawat ",
+            "@type": "Person"
+          },
+          "datePublished": "2026-01-19",
+          "reviewBody": "Best best best 👍 quality",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "2898adbf1e580072c63c61ec",
+      "path": "media/images/2898adbf1e580072c63c61ec/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

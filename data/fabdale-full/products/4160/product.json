@@ -1,0 +1,200 @@
+{
+  "product_id": "4160",
+  "sku": "Fab-KurtaSet-FUBR-001BK-XL",
+  "product": {
+    "name": "Festivo Chikankari Kurta Pyjama Set",
+    "parent_id": "5365",
+    "notes": "https://www.flipkart.com/almora-men-kurta-pyjama-set/p/itm2bca5d2b385c1?pid=ETHHC9W6CNAZJ4SQ&marketplace=FLIPKART&lid=LSTETHHC9W6CNAZJ4SQNUNRTB&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL2FzcGVjdFNpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773917799607"
+  },
+  "source_bundle": {
+    "key": "pid-ETHHC9W6CNAZJ4SQ",
+    "path": "../../sources/pid-ETHHC9W6CNAZJ4SQ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/almora-men-kurta-pyjama-set/p/itm2bca5d2b385c1?pid=ETHHC9W6CNAZJ4SQ&marketplace=FLIPKART&lid=LSTETHHC9W6CNAZJ4SQNUNRTB&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL2FzcGVjdFNpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773917799607",
+    "scraped_at": "2026-08-15T12:59:28.002Z",
+    "final_url": "https://www.flipkart.com/almora-men-kurta-pyjama-set/p/itm2bca5d2b385c1?pid=ETHHC9W6CNAZJ4SQ&marketplace=FLIPKART&lid=LSTETHHC9W6CNAZJ4SQNUNRTB&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL2FzcGVjdFNpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773917799607"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T12:59:53.990Z"
+  },
+  "content": {
+    "title": "Almora Men Kurta Pyjama Set",
+    "short_description": "Fabric: Cotton Rayon\nPattern: Embellished\nFabricCotton Rayon: PatternEmbellished",
+    "description": "Product Details\nFabric careAs per TagOther DetailsMaterial &care : Hand wash and machine wash only with luke water warm. Suitable for: Weddings, Engagement, Gift for Families, Friends and Boyfriend 2 Pockets Sequins Work, Chikankari Work\n\nFabric careAs per Tag\nOther DetailsMaterial &care : Hand wash and machine wash only with luke water warm. Suitable for: Weddings, Engagement, Gift for Families, Friends and Boyfriend 2 Pockets Sequins Work, Chikankari Work\n\nOther Details\nMaterial &care : Hand wash and machine wash only with luke water warm. Suitable for: Weddings, Engagement, Gift for Families, Friends and Boyfriend 2 Pockets Sequins Work, Chikankari Work",
+    "specifications": {
+      "FabricCotton Rayon": "PatternEmbellished",
+      "Fabric": "Cotton Rayon",
+      "Pattern": "Embellished"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3eac02e0f90dacfac471835f",
+      "path": "media/images/3eac02e0f90dacfac471835f/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/2/b/d/l-01kurta-set-almora-original-imahc9w5aggrfdtg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/2/b/d/l-01kurta-set-almora-original-imahc9w5aggrfdtg.jpeg?q=100",
+        "local_path": "../../media/images/3eac02e0f90dacfac471835f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/t/h/l-01kurta-set-almora-original-imahc9w5qyphvbgs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/t/h/l-01kurta-set-almora-original-imahc9w5qyphvbgs.jpeg?q=100",
+        "local_path": "../../media/images/3eac02e0f90dacfac471835f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/s/w/l-01kurta-set-almora-original-imahc9w5hekymkau.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/s/w/l-01kurta-set-almora-original-imahc9w5hekymkau.jpeg?q=100",
+        "local_path": "../../media/images/3eac02e0f90dacfac471835f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/u/6/l-01kurta-set-almora-original-imahc9w58yhfnnsb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/u/6/l-01kurta-set-almora-original-imahc9w58yhfnnsb.jpeg?q=100",
+        "local_path": "../../media/images/3eac02e0f90dacfac471835f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Almora Men Kurta Pyjama Set",
+      "description": "Almora Men Kurta Pyjama Set - Buy Almora Men Kurta Pyjama Set For Only Rs. 2399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/2/b/d/l-01kurta-set-almora-original-imahc9w5aggrfdtg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/t/h/l-01kurta-set-almora-original-imahc9w5qyphvbgs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/s/w/l-01kurta-set-almora-original-imahc9w5hekymkau.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/u/6/l-01kurta-set-almora-original-imahc9w58yhfnnsb.jpeg?q=70"
+      ],
+      "sku": "ETHHC9W6CNAZJ4SQ",
+      "color": "Black",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 66,
+        "ratingCount": 1413,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Almora",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 505,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "SNEHA BHARTI",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-15",
+          "reviewBody": "Best",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-11",
+          "reviewBody": "Beautiful. I like this product.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Pratap Malla",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-17",
+          "reviewBody": "I am working in ethnic brand These are very nice products",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Product Details",
+          "body": "Fabric careAs per TagOther DetailsMaterial &care : Hand wash and machine wash only with luke water warm. Suitable for: Weddings, Engagement, Gift for Families, Friends and Boyfriend 2 Pockets Sequins Work, Chikankari Work"
+        },
+        {
+          "heading": "Fabric careAs per Tag",
+          "body": "Other DetailsMaterial &care : Hand wash and machine wash only with luke water warm. Suitable for: Weddings, Engagement, Gift for Families, Friends and Boyfriend 2 Pockets Sequins Work, Chikankari Work"
+        },
+        {
+          "heading": "Other Details",
+          "body": "Material &care : Hand wash and machine wash only with luke water warm. Suitable for: Weddings, Engagement, Gift for Families, Friends and Boyfriend 2 Pockets Sequins Work, Chikankari Work"
+        }
+      ],
+      "product_highlights": {
+        "FabricCotton Rayon": "PatternEmbellished",
+        "Fabric": "Cotton Rayon",
+        "Pattern": "Embellished"
+      },
+      "specifications": {}
+    }
+  }
+}

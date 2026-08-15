@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-TSHHFKF5TUCCNVHR",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3906",
+    "5220"
+  ],
+  "source_path": "sources/pid-TSHHFKF5TUCCNVHR/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T10:39:55.195Z",
+  "completed_at": "2026-08-15T10:40:10.372Z"
+}

@@ -1,0 +1,44 @@
+{
+  "key": "cb26dcfedeb808cfc2a8f399",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T13:29:07.686Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/6/n/l-svtku-svt-kurta-print-gold-svatantra-original-imahgfsmpdvyyzds.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/6/n/l-svtku-svt-kurta-print-gold-svatantra-original-imahgfsmpdvyyzds.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/f/z/m-svtku-svt-kurta-print-gold-svatantra-original-imahgfsmwycfph3t.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/f/z/m-svtku-svt-kurta-print-gold-svatantra-original-imahgfsmwycfph3t.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/b/o/l-svtku-svt-kurta-print-gold-svatantra-original-imahgfsmdnk8tegv.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/b/o/l-svtku-svt-kurta-print-gold-svatantra-original-imahgfsmdnk8tegv.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/f/e/l-svtku-svt-kurta-print-gold-svatantra-original-imahgfsmpfxzdpec.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/f/e/l-svtku-svt-kurta-print-gold-svatantra-original-imahgfsmpfxzdpec.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/f/x/l-svtku-svt-kurta-print-gold-svatantra-original-imahgfsmtxcwj2fe.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/f/x/l-svtku-svt-kurta-print-gold-svatantra-original-imahgfsmtxcwj2fe.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

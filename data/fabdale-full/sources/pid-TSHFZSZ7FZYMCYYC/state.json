@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-TSHFZSZ7FZYMCYYC",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3620",
+    "3621",
+    "3622",
+    "3623",
+    "3624"
+  ],
+  "source_path": "sources/pid-TSHFZSZ7FZYMCYYC/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T09:47:24.819Z",
+  "completed_at": "2026-08-15T09:47:38.751Z"
+}

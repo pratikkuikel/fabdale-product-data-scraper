@@ -1,0 +1,197 @@
+{
+  "product_id": "3322",
+  "sku": "Fab-TShirt-KAJR-015BK-L",
+  "product": {
+    "name": "Kavish Quarter-zip polo T-Shirt",
+    "parent_id": "5418",
+    "notes": "https://www.flipkart.com/kajaru-self-design-men-polo-neck-black-t-shirt/p/itm2f923da980967?pid=TSHH6CMVYHTGUXCF&marketplace=FLIPKART&lid=LSTTSHH6CMVYHTGUXCF9LGUJ1&swatchAttr=size&pageUID=1773052516346"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH6CMVYHTGUXCF",
+    "path": "../../sources/pid-TSHH6CMVYHTGUXCF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-self-design-men-polo-neck-black-t-shirt/p/itm2f923da980967?pid=TSHH6CMVYHTGUXCF&lid=LSTTSHH6CMVYHTGUXCFINOCKZ&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:16:43.440Z",
+    "final_url": "https://www.flipkart.com/kajaru-self-design-men-polo-neck-black-t-shirt/p/itm2f923da980967?pid=TSHH6CMVYHTGUXCF&lid=LSTTSHH6CMVYHTGUXCFINOCKZ&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:16:49.754Z"
+  },
+  "content": {
+    "title": "KAJARU Men Self Design Zip Neck Polyester Black T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Self Design\nSleeve: Half Sleeve\nNeck Type: Zip Neck",
+    "description": "Unique Self Design Pattern\nFeaturing an all-over self-design pattern, this men's polo neck T-shirt stands out with its unique a…\n\nComfortable Polyester Fabric\nCrafted from high-quality polyester fabric, this T-shirt ensures comfort and durability throughout t…\n\nClassic Polo Neck Design\nWith a classic polo neck design and short sleeves, this T-shirt offers a timeless look suitable for …\n\nEasy Fabric Care\nDesigned for convenience, this T-shirt can be easily maintained with regular machine wash. The self-…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Zip Neck",
+      "Pattern": "Self Design"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "87aff465ae5b1bca1f9c3f94",
+      "path": "media/images/87aff465ae5b1bca1f9c3f94/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "210a8f131a876f8671ff76a4",
+      "path": "media/videos/210a8f131a876f8671ff76a4/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-t-shirt/u/p/v/s-fmts-06-006-flyenza-resized-original-imahdh4ywggxgyuj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-t-shirt/u/p/v/s-fmts-06-006-flyenza-resized-original-imahdh4ywggxgyuj.jpeg?q=100",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/i/1/1/-original-imahkyg77djhq3h3.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/i/1/1/-original-imahkyg77djhq3h3.jpeg?q=100",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/t/2/p/-original-imahkyg7adbxft7y.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/t/2/p/-original-imahkyg7adbxft7y.jpeg?q=100",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f9a8ce8a5d29461c885a294e27435bf7.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f9a8ce8a5d29461c885a294e27435bf7.jpg?q=80",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_36254850e2f94cb5b35e4f3e959b997b.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_36254850e2f94cb5b35e4f3e959b997b.jpg?q=80",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_aefa8cf17d1f4d7592d5c252f980ed4e.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_aefa8cf17d1f4d7592d5c252f980ed4e.jpeg?q=80",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7ec1277c3b104a8b97cc091feee4c8ce.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7ec1277c3b104a8b97cc091feee4c8ce.jpeg?q=80",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/g/p/-enriched-transparent-original-imah4g3tkb3dcayt.png?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/g/p/-enriched-transparent-original-imah4g3tkb3dcayt.png?q=100",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-008.png",
+        "downloaded": true,
+        "content_type": "image/png"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/n/0/m/l-polo-8015-kajaru-resized-original-imaherkhrkpnzzjw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/n/0/m/l-polo-8015-kajaru-resized-original-imaherkhrkpnzzjw.jpeg?q=100",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/g/w/g/l-jouoc2ry05-try-this-original-imahzbjqmmrgfzd3.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/g/w/g/l-jouoc2ry05-try-this-original-imahzbjqmmrgfzd3.jpeg?q=100",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/g/k/7/-original-imahpszpv93zegdj.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/g/k/7/-original-imahpszpv93zegdj.jpeg?q=100",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/q/t/s/m-polo-8015-kajaru-original-imahgwdks4wmfr9k.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/q/t/s/m-polo-8015-kajaru-original-imahgwdks4wmfr9k.jpeg?q=100",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/g/1/f/xl-polo-8015-kajaru-resized-original-imahew9zpbguzfmg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/g/1/f/xl-polo-8015-kajaru-resized-original-imahew9zpbguzfmg.jpeg?q=100",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/j/b/5/m-polo-8014-whisq-original-imahhqaqrdzgt45q.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/j/b/5/m-polo-8014-whisq-original-imahhqaqrdzgt45q.jpeg?q=100",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/k/d/e/-resized-original-imahjzpxchn2hvhq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/k/d/e/-resized-original-imahjzpxchn2hvhq.jpeg?q=100",
+        "local_path": "../../media/images/87aff465ae5b1bca1f9c3f94/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNUz2LkhnZSTKNp3KKgBqH9w/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Unique Self Design Pattern",
+          "body": "Featuring an all-over self-design pattern, this men's polo neck T-shirt stands out with its unique a…"
+        },
+        {
+          "heading": "Comfortable Polyester Fabric",
+          "body": "Crafted from high-quality polyester fabric, this T-shirt ensures comfort and durability throughout t…"
+        },
+        {
+          "heading": "Classic Polo Neck Design",
+          "body": "With a classic polo neck design and short sleeves, this T-shirt offers a timeless look suitable for …"
+        },
+        {
+          "heading": "Easy Fabric Care",
+          "body": "Designed for convenience, this T-shirt can be easily maintained with regular machine wash. The self-…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Zip Neck",
+        "Pattern": "Self Design"
+      },
+      "specifications": {}
+    }
+  }
+}

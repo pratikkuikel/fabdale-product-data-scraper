@@ -1,0 +1,215 @@
+{
+  "product_id": "4226",
+  "sku": "Fab-KurtaSet-FUBR-007PK-XXL",
+  "product": {
+    "name": "Festivo Mid-thigh length kurta",
+    "parent_id": "5370",
+    "notes": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itm0e66748db316c?pid=KTAHHSSCHGFUBFPE&lid=LSTKTAHHSSCHGFUBFPEPO7EHX&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KTAHHSSCHGFUBFPE",
+    "path": "../../sources/pid-KTAHHSSCHGFUBFPE/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itm0e66748db316c?pid=KTAHHSSCHGFUBFPE&lid=LSTKTAHHSSCHGFUBFPEPO7EHX&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T13:11:07.787Z",
+    "final_url": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itm0e66748db316c?pid=KTAHHSSCHGFUBFPE&lid=LSTKTAHHSSCHGFUBFPEPO7EHX&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T13:11:34.608Z"
+  },
+  "content": {
+    "title": "FUBAR Men Printed Straight Kurta",
+    "short_description": "Color: White\nFabric: Cotton Blend\nPattern: Printed\nType: Straight",
+    "description": "FUBAR Men Printed Straight Kurta - Buy FUBAR Men Printed Straight Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Printed",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Color": "White"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "04917f2c04d9ef235c893fd9",
+      "path": "media/images/04917f2c04d9ef235c893fd9/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/4/h/z/l-krtpj-print-set-whpk-fubar-original-imahhshs2jf2yacy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/4/h/z/l-krtpj-print-set-whpk-fubar-original-imahhshs2jf2yacy.jpeg?q=100",
+        "local_path": "../../media/images/04917f2c04d9ef235c893fd9/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/c/a/l-krtpj-print-set-whpk-fubar-original-imahhshtfagxqmzz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/c/a/l-krtpj-print-set-whpk-fubar-original-imahhshtfagxqmzz.jpeg?q=100",
+        "local_path": "../../media/images/04917f2c04d9ef235c893fd9/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/t/p/xl-krtpj-print-set-whpk-fubar-original-imahhshsq8zg2zdg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/t/p/xl-krtpj-print-set-whpk-fubar-original-imahhshsq8zg2zdg.jpeg?q=100",
+        "local_path": "../../media/images/04917f2c04d9ef235c893fd9/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/v/z/l-krtpj-print-set-whpk-fubar-original-imahhshsw9bjea6n.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/v/z/l-krtpj-print-set-whpk-fubar-original-imahhshsw9bjea6n.jpeg?q=100",
+        "local_path": "../../media/images/04917f2c04d9ef235c893fd9/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/g/x/xl-krtpj-print-set-whpk-fubar-original-imahhshsmvfz6ssc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/g/x/xl-krtpj-print-set-whpk-fubar-original-imahhshsmvfz6ssc.jpeg?q=100",
+        "local_path": "../../media/images/04917f2c04d9ef235c893fd9/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Men Printed Straight Kurta",
+      "description": "FUBAR Men Printed Straight Kurta - Buy FUBAR Men Printed Straight Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/4/h/z/l-krtpj-print-set-whpk-fubar-original-imahhshs2jf2yacy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/k/c/a/l-krtpj-print-set-whpk-fubar-original-imahhshtfagxqmzz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/t/p/xl-krtpj-print-set-whpk-fubar-original-imahhshsq8zg2zdg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/v/z/l-krtpj-print-set-whpk-fubar-original-imahhshsw9bjea6n.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/g/x/xl-krtpj-print-set-whpk-fubar-original-imahhshsmvfz6ssc.jpeg?q=70"
+      ],
+      "sku": "KTAHHSSCHGFUBFPE",
+      "color": "White Pink",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 2213,
+        "ratingCount": 33694,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 249,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Dipraj Sarkar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-04",
+          "reviewBody": "Nice colour combination, \nPerfect size \nGood quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Nihudi Salunke",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-15",
+          "reviewBody": "Worth for money 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Nilesh Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2022-10-23",
+          "reviewBody": "Nice design and fabric. You might face fitting issue but could be fixed by alteration.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Color": "White"
+      },
+      "specifications": {
+        "Brand": "FUBAR",
+        "Ideal For": "Men",
+        "Length Type": "Knee Length",
+        "Brand Color": "White Pink",
+        "Occasion": "Casual",
+        "Pattern": "Printed",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Neck": "Mandarin/Chinese Neck",
+        "Sleeve": "Full Sleeve",
+        "Color": "White",
+        "Number of Contents in Sales Package": "Pack of 1",
+        "Style Code": "KCKU-ONLY KURTA PRINT-WHPK",
+        "Net Quantity": "1",
+        "Size": "M",
+        "Sleeve Style": "Regular Sleeves",
+        "Suitable For": "Ethnic Wear"
+      }
+    }
+  }
+}

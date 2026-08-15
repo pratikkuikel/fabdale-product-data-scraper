@@ -1,0 +1,145 @@
+{
+  "product_id": "4176",
+  "sku": "Fab-KurtaSet-FUBR-003PL-XXL",
+  "product": {
+    "name": "Festivo Vertical self-stripes Kurta Set",
+    "parent_id": "5366",
+    "notes": "https://www.flipkart.com/fubar-men-self-design-straight-kurta/p/itmf8717e7db3180?pid=KTAHFWWMSZ3SYFZB&lid=LSTKTAHFWWMSZ3SYFZBADJDMD&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KTAHFWWMSZ3SYFZB",
+    "path": "../../sources/pid-KTAHFWWMSZ3SYFZB/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-men-self-design-straight-kurta/p/itmf8717e7db3180?pid=KTAHFWWMSZ3SYFZB&lid=LSTKTAHFWWMSZ3SYFZBADJDMD&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T13:01:56.156Z",
+    "final_url": "https://www.flipkart.com/fubar-men-self-design-straight-kurta/p/itmf8717e7db3180?pid=KTAHFWWMSZ3SYFZB&lid=LSTKTAHFWWMSZ3SYFZBADJDMD&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T13:02:08.821Z"
+  },
+  "content": {
+    "title": "FUBAR Men Self Design Straight Kurta",
+    "short_description": "FUBAR Men Self Design Straight Kurta - Buy FUBAR Men Self Design Straight Kurta For Only Rs. 2499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "FUBAR Men Self Design Straight Kurta - Buy FUBAR Men Self Design Straight Kurta For Only Rs. 2499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "7f756980ef7ce90e1537561e",
+      "path": "media/images/7f756980ef7ce90e1537561e/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/9/l/l-kcku-only-kurta-stick-lvndr-fubar-resized-original-imahfwwhytagedsy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/9/l/l-kcku-only-kurta-stick-lvndr-fubar-resized-original-imahfwwhytagedsy.jpeg?q=100",
+        "local_path": "../../media/images/7f756980ef7ce90e1537561e/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/5/5/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhkfpyjpbu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/5/5/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhkfpyjpbu.jpeg?q=100",
+        "local_path": "../../media/images/7f756980ef7ce90e1537561e/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/a/b/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwh6whcewfh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/a/b/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwh6whcewfh.jpeg?q=100",
+        "local_path": "../../media/images/7f756980ef7ce90e1537561e/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/p/1/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhywhsjcyf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/p/1/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhywhsjcyf.jpeg?q=100",
+        "local_path": "../../media/images/7f756980ef7ce90e1537561e/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/a/0/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhdurwycve.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/a/0/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhdurwycve.jpeg?q=100",
+        "local_path": "../../media/images/7f756980ef7ce90e1537561e/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Men Self Design Straight Kurta",
+      "description": "FUBAR Men Self Design Straight Kurta - Buy FUBAR Men Self Design Straight Kurta For Only Rs. 2499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/9/l/l-kcku-only-kurta-stick-lvndr-fubar-resized-original-imahfwwhytagedsy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/5/5/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhkfpyjpbu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/a/b/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwh6whcewfh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/p/1/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhywhsjcyf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/a/0/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhdurwycve.jpeg?q=70"
+      ],
+      "sku": "KTAHFWWMSZ3SYFZB",
+      "color": "Lavender",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 1,
+        "ratingCount": 14,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 495,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-05-24",
+          "reviewBody": "Outstanding product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

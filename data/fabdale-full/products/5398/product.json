@@ -1,0 +1,38 @@
+{
+  "product_id": "5398",
+  "sku": null,
+  "product": {
+    "name": "Civanth Ajkrakh-Inspired Motifs Printed Kurta",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm245fd4a4db959?pid=KTAGNB3TNHQC5D3F&marketplace=FLIPKART&lid=LSTKTAGNB3TNHQC5D3FWA33UM&swatchAttr=size&pageUID=1773823105537"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGNB3TNHQC5D3F",
+    "path": "../../sources/pid-KTAGNB3TNHQC5D3F/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm245fd4a4db959?pid=KTAGNB3TNHQC5D3F&marketplace=FLIPKART&lid=LSTKTAGNB3TNHQC5D3FWA33UM&swatchAttr=size&pageUID=1773823105537",
+    "scraped_at": "2026-08-15T12:05:14.622Z",
+    "final_url": "https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm245fd4a4db959?pid=KTAGNB3TNHQC5D3F&marketplace=FLIPKART&lid=LSTKTAGNB3TNHQC5D3FWA33UM&swatchAttr=size&pageUID=1773823105537"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm245fd4a4db959?pid=KTAGNB3TNHQC5D3F&marketplace=FLIPKART&lid=LSTKTAGNB3TNHQC5D3FWA33UM&swatchAttr=size&pageUID=1773823105537\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T12:06:18.511Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

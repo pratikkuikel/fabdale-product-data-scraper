@@ -1,0 +1,206 @@
+{
+  "product_id": "3367",
+  "sku": "Fab-TShirt-KAJR-019BK-L",
+  "product": {
+    "name": "Kavish Short-sleeve crew-neck t-shirt",
+    "parent_id": "7176",
+    "notes": "https://www.flipkart.com/kajaru-self-design-men-round-neck-black-t-shirt/p/itm92ffded776678?pid=TSHH2PGYJGUQQZH7&marketplace=FLIPKART&lid=LSTTSHH2PGYJGUQQZH7FBCHVL&swatchAttr=size&pageUID=1773054952632"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH2PGYJGUQQZH7",
+    "path": "../../sources/pid-TSHH2PGYJGUQQZH7/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-self-design-men-round-neck-black-t-shirt/p/itm92ffded776678?pid=TSHH2PGYJGUQQZH7&marketplace=FLIPKART&lid=LSTTSHH2PGYJGUQQZH7FBCHVL&swatchAttr=size&pageUID=1773054952632",
+    "scraped_at": "2026-08-15T09:21:14.682Z",
+    "final_url": "https://www.flipkart.com/kajaru-self-design-men-round-neck-black-t-shirt/p/itm92ffded776678?pid=TSHH2PGYJGUQQZH7&marketplace=FLIPKART&lid=LSTTSHH2PGYJGUQQZH7FBCHVL&swatchAttr=size&pageUID=1773054952632"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:21:21.702Z"
+  },
+  "content": {
+    "title": "KAJARU Self Design Men Round Neck Black T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Self Design\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "Unique Self Design\nFeaturing a unique self-designed pattern, this black T-shirt adds a touch of individuality and style…\n\nComfortable Fit\nDesigned with a regular fit and round neck, this T-shirt provides a comfortable and relaxed fit that…\n\nVersatile for Any Occasion\nThis T-shirt is suitable for a variety of casual occasions. Its versatile design allows you to effor…\n\nEasy to Maintain\nCrafted from polyester, this T-shirt is easy to care for. Simply machine wash it regularly to keep i…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Self Design"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a31bdb6752967141b8df3836",
+      "path": "media/images/a31bdb6752967141b8df3836/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/q/o/m-tsrt-22-kajaru-resized-original-imahfb8bqggbczyj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/q/o/m-tsrt-22-kajaru-resized-original-imahfb8bqggbczyj.jpeg?q=100",
+        "local_path": "../../media/images/a31bdb6752967141b8df3836/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/d/f/m-tsrt-22-kajaru-original-imahfb8btbb99fec.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/d/f/m-tsrt-22-kajaru-original-imahfb8btbb99fec.jpeg?q=100",
+        "local_path": "../../media/images/a31bdb6752967141b8df3836/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/y/j/m-tsrt-22-kajaru-original-imahfb8bnh3zrrrw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/y/j/m-tsrt-22-kajaru-original-imahfb8bnh3zrrrw.jpeg?q=100",
+        "local_path": "../../media/images/a31bdb6752967141b8df3836/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/h/u/l-hfo3-plain-popcorn-b-teewink-original-imahyq3jbqz8pen8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/h/u/l-hfo3-plain-popcorn-b-teewink-original-imahyq3jbqz8pen8.jpeg?q=100",
+        "local_path": "../../media/images/a31bdb6752967141b8df3836/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Self Design Men Round Neck Black T-Shirt",
+      "description": "KAJARU Self Design Men Round Neck Black T-Shirt - Buy KAJARU Self Design Men Round Neck Black T-Shirt For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/q/o/m-tsrt-22-kajaru-resized-original-imahfb8bqggbczyj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/d/f/m-tsrt-22-kajaru-original-imahfb8btbb99fec.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/y/j/m-tsrt-22-kajaru-original-imahfb8bnh3zrrrw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/h/u/l-hfo3-plain-popcorn-b-teewink-original-imahyq3jbqz8pen8.jpeg?q=70"
+      ],
+      "sku": "TSHH2PGYJGUQQZH7",
+      "color": "BLACK",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 283,
+        "ratingCount": 6774,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 237,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "KhiLesh Sahu",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-21",
+          "reviewBody": "This ProDuct Is NiCe AnD ComfortabLe 🙂",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Nikhil Kashyap",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-10",
+          "reviewBody": "Very good 👍👍👍 product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Prasda Sahoo",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-20",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Unique Self Design",
+          "body": "Featuring a unique self-designed pattern, this black T-shirt adds a touch of individuality and style…"
+        },
+        {
+          "heading": "Comfortable Fit",
+          "body": "Designed with a regular fit and round neck, this T-shirt provides a comfortable and relaxed fit that…"
+        },
+        {
+          "heading": "Versatile for Any Occasion",
+          "body": "This T-shirt is suitable for a variety of casual occasions. Its versatile design allows you to effor…"
+        },
+        {
+          "heading": "Easy to Maintain",
+          "body": "Crafted from polyester, this T-shirt is easy to care for. Simply machine wash it regularly to keep i…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Self Design"
+      },
+      "specifications": {}
+    }
+  }
+}

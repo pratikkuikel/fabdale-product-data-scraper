@@ -1,0 +1,187 @@
+{
+  "product_id": "3895",
+  "sku": "Fab-TShirt-TRPR-022BL-XL",
+  "product": {
+    "name": "TeeCulture T R I P R printed  T-Shirt",
+    "parent_id": "5220",
+    "notes": "https://www.flipkart.com/tripr-solid-men-henley-neck-navy-blue-t-shirt/p/itm5054899140668?pid=TSHH4MCAZKNHAR8W&marketplace=FLIPKART&lid=LSTTSHH4MCAZKNHAR8WQXFDXH&swatchAttr=size&pageUID=1773250382770"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH4MCAZKNHAR8W",
+    "path": "../../sources/pid-TSHH4MCAZKNHAR8W/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tripr-solid-men-henley-neck-navy-blue-t-shirt/p/itm5054899140668?pid=TSHH4MCAZKNHAR8W&marketplace=FLIPKART&lid=LSTTSHH4MCAZKNHAR8WQXFDXH&swatchAttr=size&pageUID=1773250382770",
+    "scraped_at": "2026-08-15T10:35:38.867Z",
+    "final_url": "https://www.flipkart.com/tripr-solid-men-henley-neck-navy-blue-t-shirt/p/itm5054899140668?pid=TSHH4MCAZKNHAR8W&marketplace=FLIPKART&lid=LSTTSHH4MCAZKNHAR8WQXFDXH&swatchAttr=size&pageUID=1773250382770"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:36:00.102Z"
+  },
+  "content": {
+    "title": "TRIPR Solid Men Henley Neck Navy Blue T-Shirt",
+    "short_description": "TRIPR Solid Men Henley Neck Navy Blue T-Shirt - Buy TRIPR Solid Men Henley Neck Navy Blue T-Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "TRIPR Solid Men Henley Neck Navy Blue T-Shirt - Buy TRIPR Solid Men Henley Neck Navy Blue T-Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "9c5421b4d0de65b1cf34cc9e",
+      "path": "media/images/9c5421b4d0de65b1cf34cc9e/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/u/q/xxl-tnvhnful-d144-tripr-original-imahcjs2fxpg5cgs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/u/q/xxl-tnvhnful-d144-tripr-original-imahcjs2fxpg5cgs.jpeg?q=100",
+        "local_path": "../../media/images/9c5421b4d0de65b1cf34cc9e/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/3/v/xxl-tnvhnful-d144-tripr-original-imahcjs3nt6rggmn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/3/v/xxl-tnvhnful-d144-tripr-original-imahcjs3nt6rggmn.jpeg?q=100",
+        "local_path": "../../media/images/9c5421b4d0de65b1cf34cc9e/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/m/8/g/xxl-tnvhnful-d144-tripr-original-imahcjs38kads9gb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/m/8/g/xxl-tnvhnful-d144-tripr-original-imahcjs38kads9gb.jpeg?q=100",
+        "local_path": "../../media/images/9c5421b4d0de65b1cf34cc9e/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/b/k/xxl-tnvhnful-d144-tripr-original-imahcjs3dgsgfydz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/b/k/xxl-tnvhnful-d144-tripr-original-imahcjs3dgsgfydz.jpeg?q=100",
+        "local_path": "../../media/images/9c5421b4d0de65b1cf34cc9e/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/l/v/xxl-tnvhnful-d144-tripr-original-imahcjs3ydqdjrfh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/l/v/xxl-tnvhnful-d144-tripr-original-imahcjs3ydqdjrfh.jpeg?q=100",
+        "local_path": "../../media/images/9c5421b4d0de65b1cf34cc9e/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "TRIPR Solid Men Henley Neck Navy Blue T-Shirt",
+      "description": "TRIPR Solid Men Henley Neck Navy Blue T-Shirt - Buy TRIPR Solid Men Henley Neck Navy Blue T-Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/u/q/xxl-tnvhnful-d144-tripr-original-imahcjs2fxpg5cgs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/a/3/v/xxl-tnvhnful-d144-tripr-original-imahcjs3nt6rggmn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/m/8/g/xxl-tnvhnful-d144-tripr-original-imahcjs38kads9gb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/b/k/xxl-tnvhnful-d144-tripr-original-imahcjs3dgsgfydz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/l/v/xxl-tnvhnful-d144-tripr-original-imahcjs3ydqdjrfh.jpeg?q=70"
+      ],
+      "sku": "TSHH4MCAZKNHAR8W",
+      "color": "Navy Blue",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 6532,
+        "ratingCount": 70049,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "TRIPR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 276,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2020-10-25",
+          "reviewBody": "This product is really awesome",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Raju Sara",
+            "@type": "Person"
+          },
+          "datePublished": "2018-02-23",
+          "reviewBody": "Good looking nice....",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Irfan Diwan",
+            "@type": "Person"
+          },
+          "datePublished": "2019-12-07",
+          "reviewBody": "Supar he",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

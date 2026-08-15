@@ -1,0 +1,215 @@
+{
+  "product_id": "4145",
+  "sku": "Fab-Kurta-CELLX-026RD-XL",
+  "product": {
+    "name": "Civanth Mandarin collar Kurta",
+    "parent_id": "5408",
+    "notes": "https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm5fe84565c4fbf?pid=KTAGNB3TZZEN7M4P&marketplace=FLIPKART&lid=LSTKTAGNB3TZZEN7M4PP2EAEP&swatchAttr=size&pageUID=1773916200425"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGNB3TZZEN7M4P",
+    "path": "../../sources/pid-KTAGNB3TZZEN7M4P/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm5fe84565c4fbf?pid=KTAGNB3TZZEN7M4P&marketplace=FLIPKART&lid=LSTKTAGNB3TZZEN7M4PP2EAEP&swatchAttr=size&pageUID=1773916200425",
+    "scraped_at": "2026-08-15T12:55:57.832Z",
+    "final_url": "https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm5fe84565c4fbf?pid=KTAGNB3TZZEN7M4P&marketplace=FLIPKART&lid=LSTKTAGNB3TZZEN7M4PP2EAEP&swatchAttr=size&pageUID=1773916200425"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T12:56:16.108Z"
+  },
+  "content": {
+    "title": "CELLUX Men Printed Straight Kurta",
+    "short_description": "Color: Multicolor\nFabric: Cotton Blend\nPattern: Printed\nType: Straight\nFit: Regular",
+    "description": "Classic Mandarin Neck\nFeaturing a classic mandarin neck, this kurta adds a touch of sophistication to your ethnic wear col…\n\nVersatile and Stylish Straight Fit\nDesigned in a versatile straight fit, this kurta suits all body types and provides a modern and styl…\n\nPure Cotton Blend Fabric\nCrafted from a pure cotton blend fabric, this kurta offers a soft and comfortable feel against the s…",
+    "specifications": {
+      "Pattern": "Printed",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Fit": "Regular",
+      "Color": "Multicolor"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ee1726ac7c3de40245f0eb5a",
+      "path": "media/images/ee1726ac7c3de40245f0eb5a/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "4e6b0d78fa1bb2f0f1523ffd",
+      "path": "media/videos/4e6b0d78fa1bb2f0f1523ffd/media.json",
+      "reused": true
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/m/f/m/xxl-foil-printed-kurta-cellux-resized-original-imagnbf2ueb68r3v.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/m/f/m/xxl-foil-printed-kurta-cellux-resized-original-imagnbf2ueb68r3v.jpeg?q=100",
+        "local_path": "../../media/images/ee1726ac7c3de40245f0eb5a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/u/k/xxl-foil-printed-kurta-cellux-original-imagnbf2zejfusf8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/u/k/xxl-foil-printed-kurta-cellux-original-imagnbf2zejfusf8.jpeg?q=100",
+        "local_path": "../../media/images/ee1726ac7c3de40245f0eb5a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/b/o/xxl-foil-printed-kurta-cellux-original-imagnbf2m6hrnd5r.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/b/o/xxl-foil-printed-kurta-cellux-original-imagnbf2m6hrnd5r.jpeg?q=100",
+        "local_path": "../../media/images/ee1726ac7c3de40245f0eb5a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/9/7/xxl-foil-printed-kurta-cellux-original-imagnbf2epghgyrb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/9/7/xxl-foil-printed-kurta-cellux-original-imagnbf2epghgyrb.jpeg?q=100",
+        "local_path": "../../media/images/ee1726ac7c3de40245f0eb5a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNqzMxcZ89TQ2vmRzMvdfrbw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "CELLUX Men Printed Straight Kurta",
+      "description": "CELLUX Men Printed Straight Kurta - Buy CELLUX Men Printed Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/m/f/m/xxl-foil-printed-kurta-cellux-resized-original-imagnbf2ueb68r3v.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/u/k/xxl-foil-printed-kurta-cellux-original-imagnbf2zejfusf8.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/b/o/xxl-foil-printed-kurta-cellux-original-imagnbf2m6hrnd5r.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/9/7/xxl-foil-printed-kurta-cellux-original-imagnbf2epghgyrb.jpeg?q=70"
+      ],
+      "sku": "KTAGNB3TZZEN7M4P",
+      "color": "Multicolor 14",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 1164,
+        "ratingCount": 21627,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "CELLUX",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 311,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-01",
+          "reviewBody": "I am surprised with kurta coz I am genuinely not expecting such good quality in this price....\nI wanted to buy kurta which is not so heavy not so simple and yes thanxx to Cellux I got perfect\nGuys if you are searching for kurta within affordable then it's a great choice\n\nNote : I am not doing any paid promotion I loved it because I haven't expected such nice quality at this price.\nLike u all I also read reviews to get real quality of clothes\nSo I thought my review can help u to make your decision easier\n⚠️I repeat it's not paid review..",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Dev Pratap Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-23",
+          "reviewBody": "Perfect Fitting and Excellent Quality in This Price Range..🤩 Recommended For Everyone..",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Zamid Alam",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-18",
+          "reviewBody": "Nice product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Mandarin Neck",
+          "body": "Featuring a classic mandarin neck, this kurta adds a touch of sophistication to your ethnic wear col…"
+        },
+        {
+          "heading": "Versatile and Stylish Straight Fit",
+          "body": "Designed in a versatile straight fit, this kurta suits all body types and provides a modern and styl…"
+        },
+        {
+          "heading": "Pure Cotton Blend Fabric",
+          "body": "Crafted from a pure cotton blend fabric, this kurta offers a soft and comfortable feel against the s…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Fit": "Regular",
+        "Color": "Multicolor"
+      },
+      "specifications": {}
+    }
+  }
+}

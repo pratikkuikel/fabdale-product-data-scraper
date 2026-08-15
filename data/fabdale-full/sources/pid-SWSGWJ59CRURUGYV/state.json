@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-SWSGWJ59CRURUGYV",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3584",
+    "5428"
+  ],
+  "source_path": "sources/pid-SWSGWJ59CRURUGYV/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T09:44:03.971Z",
+  "completed_at": "2026-08-15T09:44:12.322Z"
+}

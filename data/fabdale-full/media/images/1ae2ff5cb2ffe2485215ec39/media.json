@@ -1,0 +1,44 @@
+{
+  "key": "1ae2ff5cb2ffe2485215ec39",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T09:19:55.613Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/8/g/k/m-polo-8014-kajaru-original-imahet2ypdpbkgun.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/8/g/k/m-polo-8014-kajaru-original-imahet2ypdpbkgun.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/y/i/xxl-polo-8043-kajaru-original-imahehg9zuwwhwfe.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/y/i/xxl-polo-8043-kajaru-original-imahehg9zuwwhwfe.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/n/j/m-polo-8043-kajaru-original-imahehg95uszmmbh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/n/j/m-polo-8043-kajaru-original-imahehg95uszmmbh.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/f/q/m-polo-8043-kajaru-original-imahehg9qynywwvt.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/f/q/m-polo-8043-kajaru-original-imahehg9qynywwvt.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/x/c/m-polo-8043-kajaru-original-imahehg9ptcntuyk.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/x/c/m-polo-8043-kajaru-original-imahehg9ptcntuyk.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

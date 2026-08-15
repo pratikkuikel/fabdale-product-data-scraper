@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/tibra-collection-men-embroidered-straight-kurta/p/itmd07e27d2ecea9?pid=KTAGFCBHMXZQVGQF&marketplace=FLIPKART&lid=LSTKTAGFCBHMXZQVGQF9UHITH&swatchAttr=size&pageUID=1774108279630",
+    "scraped_at": "2026-08-15T14:10:47.689Z",
+    "final_url": "https://www.flipkart.com/tibra-collection-men-embroidered-straight-kurta/p/itmd07e27d2ecea9?pid=KTAGFCBHMXZQVGQF&marketplace=FLIPKART&lid=LSTKTAGFCBHMXZQVGQF9UHITH&swatchAttr=size&pageUID=1774108279630"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T14:11:08.102Z"
+  },
+  "content": {
+    "title": "Tibra Collection Men Embroidered Straight Kurta",
+    "short_description": "Tibra Collection Men Embroidered Straight Kurta - Buy Tibra Collection Men Embroidered Straight Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Tibra Collection Men Embroidered Straight Kurta - Buy Tibra Collection Men Embroidered Straight Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/x/0/s-patti-11-tibra-collection-original-imahktfrhdesnjvc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/x/0/s-patti-11-tibra-collection-original-imahktfrhdesnjvc.jpeg?q=100",
+        "local_path": "../../media/images/7604d5c9e9687d12bf571786/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/h/7/s-patti-11-tibra-collection-original-imahktfryhnjprnw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/h/7/s-patti-11-tibra-collection-original-imahktfryhnjprnw.jpeg?q=100",
+        "local_path": "../../media/images/7604d5c9e9687d12bf571786/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/e/w/s-patti-11-tibra-collection-original-imahktfrjvngybmr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/e/w/s-patti-11-tibra-collection-original-imahktfrjvngybmr.jpeg?q=100",
+        "local_path": "../../media/images/7604d5c9e9687d12bf571786/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/z/t/s-05-tibra-collection-original-imahksz3qy7zx2bd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/z/t/s-05-tibra-collection-original-imahksz3qy7zx2bd.jpeg?q=100",
+        "local_path": "../../media/images/7604d5c9e9687d12bf571786/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/1/h/s-05-tibra-collection-original-imahksz3gjh9uyhy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/1/h/s-05-tibra-collection-original-imahksz3gjh9uyhy.jpeg?q=100",
+        "local_path": "../../media/images/7604d5c9e9687d12bf571786/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Tibra Collection Men Embroidered Straight Kurta",
+      "description": "Tibra Collection Men Embroidered Straight Kurta - Buy Tibra Collection Men Embroidered Straight Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/x/0/s-patti-11-tibra-collection-original-imahktfrhdesnjvc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/h/7/s-patti-11-tibra-collection-original-imahktfryhnjprnw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/e/w/s-patti-11-tibra-collection-original-imahktfrjvngybmr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/z/t/s-05-tibra-collection-original-imahksz3qy7zx2bd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/1/h/s-05-tibra-collection-original-imahksz3gjh9uyhy.jpeg?q=70"
+      ],
+      "sku": "KTAGFCBHMXZQVGQF",
+      "color": "YELLOW",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 1515,
+        "ratingCount": 25996,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tibra Collection",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 347,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Pradipta Sau",
+            "@type": "Person"
+          },
+          "datePublished": "2022-09-25",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Shruty Raut",
+            "@type": "Person"
+          },
+          "datePublished": "2022-11-05",
+          "reviewBody": "Best ever kurta... 😍😍😍😍in this price gooo for it as shown as picture",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Rahul Sharma ",
+            "@type": "Person"
+          },
+          "datePublished": "2022-10-27",
+          "reviewBody": "Very very good product i am soo happy 😊😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "7604d5c9e9687d12bf571786",
+      "path": "media/images/7604d5c9e9687d12bf571786/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

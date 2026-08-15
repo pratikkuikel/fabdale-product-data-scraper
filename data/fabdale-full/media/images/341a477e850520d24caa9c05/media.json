@@ -1,0 +1,44 @@
+{
+  "key": "341a477e850520d24caa9c05",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T14:16:19.592Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/h/c/x/s-356-tibra-collection-original-imahmpzh59djjctz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/h/c/x/s-356-tibra-collection-original-imahmpzh59djjctz.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/d/d/s-356-tibra-collection-original-imahmpzhep8f8hzs.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/d/d/s-356-tibra-collection-original-imahmpzhep8f8hzs.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/h/y/f/s-356-tibra-collection-original-imahmpzhfcxaay6s.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/h/y/f/s-356-tibra-collection-original-imahmpzhfcxaay6s.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/d/g/s-356-tibra-collection-original-imahmpzh2nxgqwdz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/d/g/s-356-tibra-collection-original-imahmpzh2nxgqwdz.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/j/d/s-356-tibra-collection-original-imahmpzhgrjwgmhz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/j/d/s-356-tibra-collection-original-imahmpzhgrjwgmhz.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

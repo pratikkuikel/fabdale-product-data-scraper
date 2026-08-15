@@ -1,0 +1,148 @@
+{
+  "product_id": "3840",
+  "sku": "Fab-TShirt-TRPR-020G-XL",
+  "product": {
+    "name": "TeeCulture Double Chest Pockets  T-Shirt",
+    "parent_id": "5205",
+    "notes": "https://www.flipkart.com/tripr-solid-men-polo-neck-green-t-shirt/p/itm61a0ab494a89a?pid=TSHHBYH7USQ2ZTMZ&lid=LSTTSHHBYH7USQ2ZTMZQXSHTR&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHHBYH7USQ2ZTMZ",
+    "path": "../../sources/pid-TSHHBYH7USQ2ZTMZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tripr-solid-men-polo-neck-green-t-shirt/p/itm61a0ab494a89a?pid=TSHHBYH7USQ2ZTMZ&lid=LSTTSHHBYH7USQ2ZTMZQXSHTR&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T10:26:59.751Z",
+    "final_url": "https://www.flipkart.com/tripr-solid-men-polo-neck-green-t-shirt/p/itm61a0ab494a89a?pid=TSHHBYH7USQ2ZTMZ&lid=LSTTSHHBYH7USQ2ZTMZQXSHTR&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:27:18.006Z"
+  },
+  "content": {
+    "title": "TRIPR Men Self Design Polo Neck Polyester Green T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Self Design\nSleeve: Full Sleeve\nNeck Type: Polo Neck",
+    "description": null,
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Polo Neck",
+      "Pattern": "Self Design"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b64b57542ea8a3763f5f8376",
+      "path": "media/images/b64b57542ea8a3763f5f8376/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/8/l/l/s-togrpoloful-p39-tripr-original-imahmsgwhkquvday.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/8/l/l/s-togrpoloful-p39-tripr-original-imahmsgwhkquvday.jpeg?q=100",
+        "local_path": "../../media/images/b64b57542ea8a3763f5f8376/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/q/9/e/xl-togrpoloful-p39-tripr-original-imahmsgwzpxhj5yz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/q/9/e/xl-togrpoloful-p39-tripr-original-imahmsgwzpxhj5yz.jpeg?q=100",
+        "local_path": "../../media/images/b64b57542ea8a3763f5f8376/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/k/a/k/xl-togrpoloful-p39-tripr-original-imahmsgwstgj7eew.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/k/a/k/xl-togrpoloful-p39-tripr-original-imahmsgwstgj7eew.jpeg?q=100",
+        "local_path": "../../media/images/b64b57542ea8a3763f5f8376/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/t/m/w/xl-togrpoloful-p39-tripr-original-imahmsgw2tw82ftp.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/t/m/w/xl-togrpoloful-p39-tripr-original-imahmsgw2tw82ftp.jpeg?q=100",
+        "local_path": "../../media/images/b64b57542ea8a3763f5f8376/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/z/1/f/m-fmt427-rolex-beige-force-original-imahbu39gmavhxgq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/z/1/f/m-fmt427-rolex-beige-force-original-imahbu39gmavhxgq.jpeg?q=100",
+        "local_path": "../../media/images/b64b57542ea8a3763f5f8376/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/0/i/l/s-tgy-chblrnplaind164-tripr-resized-original-imah7usgxgwzg2hm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/0/i/l/s-tgy-chblrnplaind164-tripr-resized-original-imah7usgxgwzg2hm.jpeg?q=100",
+        "local_path": "../../media/images/b64b57542ea8a3763f5f8376/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/k/v/s-ts135-vebnor-original-imahpghyhh5fetdh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/k/v/s-ts135-vebnor-original-imahpghyhh5fetdh.jpeg?q=100",
+        "local_path": "../../media/images/b64b57542ea8a3763f5f8376/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/a/l/s-tgy-chbl-nvrn-dp-plaind164-tripr-original-imahfdxbqqmzht2q.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/a/l/s-tgy-chbl-nvrn-dp-plaind164-tripr-original-imahfdxbqqmzht2q.jpeg?q=100",
+        "local_path": "../../media/images/b64b57542ea8a3763f5f8376/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/q/c/s-tblrn-d185-tripr-resized-original-imahbfkazfhrh5kg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/q/c/s-tblrn-d185-tripr-resized-original-imahbfkazfhrh5kg.jpeg?q=100",
+        "local_path": "../../media/images/b64b57542ea8a3763f5f8376/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/s/9/q/s-tblrnos-nop-d211-tripr-original-imahn3rnxgxeryww.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/s/9/q/s-tblrnos-nop-d211-tripr-original-imahn3rnxgxeryww.jpeg?q=100",
+        "local_path": "../../media/images/b64b57542ea8a3763f5f8376/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/f/y/1/l-aa87-grey-nook-original-imahj2cjbmzxydkg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/f/y/1/l-aa87-grey-nook-original-imahj2cjbmzxydkg.jpeg?q=100",
+        "local_path": "../../media/images/b64b57542ea8a3763f5f8376/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/w/f/l/4xl-tbl-ogr-nvrn-nop-plaind164-tripr-original-imahn83dbp8c2czm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/w/f/l/4xl-tbl-ogr-nvrn-nop-plaind164-tripr-original-imahn83dbp8c2czm.jpeg?q=100",
+        "local_path": "../../media/images/b64b57542ea8a3763f5f8376/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Polo Neck",
+        "Pattern": "Self Design"
+      },
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "product_id": "3850",
+  "sku": "Fab-TShirt-TRPR-021BG-XL",
+  "product": {
+    "name": "TeeCulture Quarter-Zip T-Shirt",
+    "parent_id": "5179",
+    "notes": "https://www.flipkart.com/tripr-solid-men-polo-neck-beige-t-shirt/p/itm6bc1c153c1207?pid=TSHH9F6YSZJMVQPT&lid=LSTTSHH9F6YSZJMVQPTEUIQWL&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH9F6YSZJMVQPT",
+    "path": "../../sources/pid-TSHH9F6YSZJMVQPT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tripr-solid-men-polo-neck-beige-t-shirt/p/itm6bc1c153c1207?pid=TSHH9F6YSZJMVQPT&lid=LSTTSHH9F6YSZJMVQPTEUIQWL&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T10:27:37.680Z",
+    "final_url": "https://www.flipkart.com/tripr-solid-men-polo-neck-beige-t-shirt/p/itm6bc1c153c1207?pid=TSHH9F6YSZJMVQPT&lid=LSTTSHH9F6YSZJMVQPTEUIQWL&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:27:54.868Z"
+  },
+  "content": {
+    "title": "TRIPR Men Solid Polo Neck Cotton Blend Beige T-Shirt",
+    "short_description": "Fabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nNeck Type: Polo Neck",
+    "description": "Classic Solid Pattern\nThis men's T-shirt features a classic solid pattern, making it a versatile wardrobe essential for va…\n\nPolo Neck Design\nDesigned with a sophisticated polo neck, this T-shirt adds a touch of elegance to your casual ensemb…\n\nComfortable Cotton Blend Fabric\nCrafted from a soft and durable cotton blend fabric, this T-shirt ensures all-day comfort and breath…\n\nFull Sleeve Styling\nWith full sleeves for added coverage and warmth, this T-shirt is ideal for casual occasions during c…\n\nEasy Fabric Care\nMaintaining this T-shirt is hassle-free with regular machine wash care instructions. Simply follow t…",
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Cotton Blend",
+      "Neck Type": "Polo Neck",
+      "Pattern": "Solid"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "9182e39455781a4013c4d2c2",
+      "path": "media/images/9182e39455781a4013c4d2c2/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/k/2/s/xxl-tbgpoloful-p36-tripr-original-imah9vcag3uzhuma.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/k/2/s/xxl-tbgpoloful-p36-tripr-original-imah9vcag3uzhuma.jpeg?q=100",
+        "local_path": "../../media/images/9182e39455781a4013c4d2c2/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/a/a/f/xxl-tbgpoloful-p36-tripr-original-imah9vcaqgz8hv2v.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/a/a/f/xxl-tbgpoloful-p36-tripr-original-imah9vcaqgz8hv2v.jpeg?q=100",
+        "local_path": "../../media/images/9182e39455781a4013c4d2c2/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/u/x/i/xxl-tbgpoloful-p36-tripr-original-imah9vcah2kesnk9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/u/x/i/xxl-tbgpoloful-p36-tripr-original-imah9vcah2kesnk9.jpeg?q=100",
+        "local_path": "../../media/images/9182e39455781a4013c4d2c2/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/o/j/i/xxl-tbgpolo-p36-tripr-original-imah9vc5dzgnpnvk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/o/j/i/xxl-tbgpolo-p36-tripr-original-imah9vc5dzgnpnvk.jpeg?q=100",
+        "local_path": "../../media/images/9182e39455781a4013c4d2c2/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/e/l/6/xxl-tbgpolo-p36-tripr-original-imah9vc5vxzkas8d.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/e/l/6/xxl-tbgpolo-p36-tripr-original-imah9vc5vxzkas8d.jpeg?q=100",
+        "local_path": "../../media/images/9182e39455781a4013c4d2c2/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/o/q/9/xxl-tbl-ogr-nvrnplaind164-tripr-resized-original-imah7ush8cnbzwne.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/o/q/9/xxl-tbl-ogr-nvrnplaind164-tripr-resized-original-imah7ush8cnbzwne.jpeg?q=100",
+        "local_path": "../../media/images/9182e39455781a4013c4d2c2/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/b/9/h/s-tnv-mrrnplaind164-tripr-resized-original-imah7usgayvndjub.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/b/9/h/s-tnv-mrrnplaind164-tripr-resized-original-imah7usgayvndjub.jpeg?q=100",
+        "local_path": "../../media/images/9182e39455781a4013c4d2c2/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/n/o/l/xl-tbl-gyrnplaind164-tripr-resized-original-imahgy2mngmevjsg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/n/o/l/xl-tbl-gyrnplaind164-tripr-resized-original-imahgy2mngmevjsg.jpeg?q=100",
+        "local_path": "../../media/images/9182e39455781a4013c4d2c2/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/m/t/d/xxl-tgy-bl-br-chblrn-dp-plaind164-tripr-resized-original-imahfjzszdfpz9uf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/m/t/d/xxl-tgy-bl-br-chblrn-dp-plaind164-tripr-resized-original-imahfjzszdfpz9uf.jpeg?q=100",
+        "local_path": "../../media/images/9182e39455781a4013c4d2c2/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/m/n/g/s-tgy-bl-br-chblrn-nop-plaind164-tripr-original-imahmfrhkjj46kby.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/m/n/g/s-tgy-bl-br-chblrn-nop-plaind164-tripr-original-imahmfrhkjj46kby.jpeg?q=100",
+        "local_path": "../../media/images/9182e39455781a4013c4d2c2/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/d/m/l/l-tnv-wt-blrnplaind164-tripr-resized-original-imah7usham56phfp.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/d/m/l/l-tnv-wt-blrnplaind164-tripr-resized-original-imah7usham56phfp.jpeg?q=100",
+        "local_path": "../../media/images/9182e39455781a4013c4d2c2/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/8/b/a/l-tdgy-wtrnplaind164-tripr-resized-original-imah7usghntxzxr9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/8/b/a/l-tdgy-wtrnplaind164-tripr-resized-original-imah7usghntxzxr9.jpeg?q=100",
+        "local_path": "../../media/images/9182e39455781a4013c4d2c2/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/m/x/f/xxl-tbl-chbl-gy-dgyrnplaind164-tripr-resized-original-imah8cnzugzzj6gp.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/m/x/f/xxl-tbl-chbl-gy-dgyrnplaind164-tripr-resized-original-imah8cnzugzzj6gp.jpeg?q=100",
+        "local_path": "../../media/images/9182e39455781a4013c4d2c2/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Solid Pattern",
+          "body": "This men's T-shirt features a classic solid pattern, making it a versatile wardrobe essential for va…"
+        },
+        {
+          "heading": "Polo Neck Design",
+          "body": "Designed with a sophisticated polo neck, this T-shirt adds a touch of elegance to your casual ensemb…"
+        },
+        {
+          "heading": "Comfortable Cotton Blend Fabric",
+          "body": "Crafted from a soft and durable cotton blend fabric, this T-shirt ensures all-day comfort and breath…"
+        },
+        {
+          "heading": "Full Sleeve Styling",
+          "body": "With full sleeves for added coverage and warmth, this T-shirt is ideal for casual occasions during c…"
+        },
+        {
+          "heading": "Easy Fabric Care",
+          "body": "Maintaining this T-shirt is hassle-free with regular machine wash care instructions. Simply follow t…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Cotton Blend",
+        "Neck Type": "Polo Neck",
+        "Pattern": "Solid"
+      },
+      "specifications": {}
+    }
+  }
+}

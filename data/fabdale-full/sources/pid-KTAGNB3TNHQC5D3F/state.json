@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-KTAGNB3TNHQC5D3F",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm245fd4a4db959?pid=KTAGNB3TNHQC5D3F&marketplace=FLIPKART&lid=LSTKTAGNB3TNHQC5D3FWA33UM&swatchAttr=size&pageUID=1773823105537\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "4046",
+    "5398"
+  ],
+  "source_path": "sources/pid-KTAGNB3TNHQC5D3F/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T12:05:01.517Z",
+  "completed_at": "2026-08-15T12:06:18.511Z"
+}

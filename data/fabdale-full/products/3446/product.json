@@ -1,0 +1,187 @@
+{
+  "product_id": "3446",
+  "sku": "Fab-Tshirt-VEBN-001BK-M",
+  "product": {
+    "name": "Verve  Polyester Round Neck T-Shirt",
+    "parent_id": "5425",
+    "notes": "https://www.flipkart.com/vebnor-solid-men-round-neck-black-t-shirt/p/itm982fc4215f01a?pid=TSHHG2J4JH7WQPYS&marketplace=FLIPKART&lid=LSTTSHHG2J4JH7WQPYSBUIJP2&swatchAttr=size&pageUID=1773074740786"
+  },
+  "source_bundle": {
+    "key": "pid-TSHHG2J4JH7WQPYS",
+    "path": "../../sources/pid-TSHHG2J4JH7WQPYS/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-solid-men-round-neck-black-t-shirt/p/itm982fc4215f01a?pid=TSHHG2J4JH7WQPYS&marketplace=FLIPKART&lid=LSTTSHHG2J4JH7WQPYSBUIJP2&swatchAttr=size&pageUID=1773074740786",
+    "scraped_at": "2026-08-15T09:27:20.181Z",
+    "final_url": "https://www.flipkart.com/vebnor-solid-men-round-neck-black-t-shirt/p/itm982fc4215f01a?pid=TSHHG2J4JH7WQPYS&marketplace=FLIPKART&lid=LSTTSHHG2J4JH7WQPYSBUIJP2&swatchAttr=size&pageUID=1773074740786"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:27:24.260Z"
+  },
+  "content": {
+    "title": "VeBNoR Printed Men Round Neck Black T-Shirt",
+    "short_description": "VeBNoR Printed Men Round Neck Black T-Shirt - Buy VeBNoR Printed Men Round Neck Black T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "VeBNoR Printed Men Round Neck Black T-Shirt - Buy VeBNoR Printed Men Round Neck Black T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1ff3e1f249fd34c80d84b5ca",
+      "path": "media/images/1ff3e1f249fd34c80d84b5ca/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/g/p/s-ts143-vebnor-original-imahnj4hytycfd9w.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/g/p/s-ts143-vebnor-original-imahnj4hytycfd9w.jpeg?q=100",
+        "local_path": "../../media/images/1ff3e1f249fd34c80d84b5ca/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/w/b/s-ts143-vebnor-original-imahnj4htgrqfzuc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/w/b/s-ts143-vebnor-original-imahnj4htgrqfzuc.jpeg?q=100",
+        "local_path": "../../media/images/1ff3e1f249fd34c80d84b5ca/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/7/q/s-ts143-vebnor-original-imahnj4hfw5jwmpf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/7/q/s-ts143-vebnor-original-imahnj4hfw5jwmpf.jpeg?q=100",
+        "local_path": "../../media/images/1ff3e1f249fd34c80d84b5ca/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/5/4/s-ts143-vebnor-original-imahnj4hnywsfdv5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/5/4/s-ts143-vebnor-original-imahnj4hnywsfdv5.jpeg?q=100",
+        "local_path": "../../media/images/1ff3e1f249fd34c80d84b5ca/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/r/y/s-ts143-vebnor-original-imahnj4hd9c2ajku.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/r/y/s-ts143-vebnor-original-imahnj4hd9c2ajku.jpeg?q=100",
+        "local_path": "../../media/images/1ff3e1f249fd34c80d84b5ca/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Printed Men Round Neck Black T-Shirt",
+      "description": "VeBNoR Printed Men Round Neck Black T-Shirt - Buy VeBNoR Printed Men Round Neck Black T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/g/p/s-ts143-vebnor-original-imahnj4hytycfd9w.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/w/b/s-ts143-vebnor-original-imahnj4htgrqfzuc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/7/q/s-ts143-vebnor-original-imahnj4hfw5jwmpf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/5/4/s-ts143-vebnor-original-imahnj4hnywsfdv5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/r/y/s-ts143-vebnor-original-imahnj4hd9c2ajku.jpeg?q=70"
+      ],
+      "sku": "TSHHG2J4JH7WQPYS",
+      "color": "Black",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 121,
+        "ratingCount": 2611,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 252,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "prasad darwatkar",
+            "@type": "Person"
+          },
+          "datePublished": "2026-01-01",
+          "reviewBody": "Good quality material.good for outdoor activities",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Nosibul Mullick",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-08",
+          "reviewBody": "Perfect not a bad",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Poldas Anand  Anand ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-10",
+          "reviewBody": "Super excellent stylish colour t shirt i am satisfy",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "key": "3035466266ec33cce6f72e14",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T09:47:23.718Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/7/n/i/xxl-2134-the-dry-state-original-imagmxgbxrzxa95e.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/7/n/i/xxl-2134-the-dry-state-original-imagmxgbxrzxa95e.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/l/3/xxl-2134-the-dry-state-original-imagmxgbtmjqywyh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/l/3/xxl-2134-the-dry-state-original-imagmxgbtmjqywyh.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/t/t/xxl-2134-the-dry-state-original-imagmxgbphcw5udd.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/t/t/xxl-2134-the-dry-state-original-imagmxgbphcw5udd.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/y/z/xxl-2134-the-dry-state-original-imagmxgbpa8hhmjb.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/y/z/xxl-2134-the-dry-state-original-imagmxgbpa8hhmjb.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/h/h/xxl-2134-the-dry-state-original-imagmxgb9szzghgh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/h/h/xxl-2134-the-dry-state-original-imagmxgb9szzghgh.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

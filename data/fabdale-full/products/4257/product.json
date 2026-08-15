@@ -1,0 +1,187 @@
+{
+  "product_id": "4257",
+  "sku": "Fab-KurtaSet-FUBR-012G-S",
+  "product": {
+    "name": "Festivo Knee-length straight kurta,",
+    "parent_id": "5375",
+    "notes": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itm3383aed9dcb3f?pid=KTAGQ464FVPJWFTE&lid=LSTKTAGQ464FVPJWFTELSACIZ&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGQ464FVPJWFTE",
+    "path": "../../sources/pid-KTAGQ464FVPJWFTE/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itm3383aed9dcb3f?pid=KTAGQ464FVPJWFTE&lid=LSTKTAGQ464FVPJWFTELSACIZ&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T13:21:56.719Z",
+    "final_url": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itm3383aed9dcb3f?pid=KTAGQ464FVPJWFTE&lid=LSTKTAGQ464FVPJWFTELSACIZ&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T13:23:21.634Z"
+  },
+  "content": {
+    "title": "FUBAR Men Printed Straight Kurta",
+    "short_description": "FUBAR Men Printed Straight Kurta - Buy FUBAR Men Printed Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "FUBAR Men Printed Straight Kurta - Buy FUBAR Men Printed Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4262ebeef6da937337bd45e0",
+      "path": "media/images/4262ebeef6da937337bd45e0/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/p/p/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9snt7nhjgjfe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/p/p/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9snt7nhjgjfe.jpeg?q=100",
+        "local_path": "../../media/images/4262ebeef6da937337bd45e0/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/6/r/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9sntcrwzqwvf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/6/r/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9sntcrwzqwvf.jpeg?q=100",
+        "local_path": "../../media/images/4262ebeef6da937337bd45e0/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/j/w/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9snt4gwxpst8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/j/w/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9snt4gwxpst8.jpeg?q=100",
+        "local_path": "../../media/images/4262ebeef6da937337bd45e0/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/z/z/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9sntexjy5rhg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/z/z/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9sntexjy5rhg.jpeg?q=100",
+        "local_path": "../../media/images/4262ebeef6da937337bd45e0/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/a/l/0/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9snttzfvg7eg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/a/l/0/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9snttzfvg7eg.jpeg?q=100",
+        "local_path": "../../media/images/4262ebeef6da937337bd45e0/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Men Printed Straight Kurta",
+      "description": "FUBAR Men Printed Straight Kurta - Buy FUBAR Men Printed Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/p/p/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9snt7nhjgjfe.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/6/r/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9sntcrwzqwvf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/j/w/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9snt4gwxpst8.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/z/z/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9sntexjy5rhg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/a/l/0/xl-kcku-only-kurta-print-ltsg-fubar-original-imah9snttzfvg7eg.jpeg?q=70"
+      ],
+      "sku": "KTAGQ464FVPJWFTE",
+      "color": "Light Sea Green",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 2213,
+        "ratingCount": 33694,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 249,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Dipraj Sarkar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-04",
+          "reviewBody": "Nice colour combination, \nPerfect size \nGood quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Nihudi Salunke",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-15",
+          "reviewBody": "Worth for money 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Nilesh Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2022-10-23",
+          "reviewBody": "Nice design and fabric. You might face fitting issue but could be fixed by alteration.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

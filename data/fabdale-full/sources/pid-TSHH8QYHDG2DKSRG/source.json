@@ -1,26 +1,186 @@
 {
   "source": {
     "url": "https://www.flipkart.com/kajaru-self-design-men-zip-neck-pink-t-shirt/p/itm0e28deecca2bc?pid=TSHH8QYHDG2DKSRG&marketplace=FLIPKART&lid=LSTTSHH8QYHDG2DKSRG0BNWCH&swatchAttr=size&pageUID=1773049751682",
-    "scraped_at": "2026-08-13T16:00:12.651Z",
-    "final_url": "about:blank"
+    "scraped_at": "2026-08-15T09:09:06.550Z",
+    "final_url": "https://www.flipkart.com/kajaru-self-design-men-zip-neck-pink-t-shirt/p/itm0e28deecca2bc?pid=TSHH8QYHDG2DKSRG&marketplace=FLIPKART&lid=LSTTSHH8QYHDG2DKSRG0BNWCH&swatchAttr=size&pageUID=1773049751682"
   },
   "crawl": {
-    "status": "failed",
-    "error": "page.goto: net::ERR_ABORTED at https://www.flipkart.com/kajaru-self-design-men-zip-neck-pink-t-shirt/p/itm0e28deecca2bc?pid=TSHH8QYHDG2DKSRG&marketplace=FLIPKART&lid=LSTTSHH8QYHDG2DKSRG0BNWCH&swatchAttr=size&pageUID=1773049751682\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/kajaru-self-design-men-zip-neck-pink-t-shirt/p/itm0e28deecca2bc?pid=TSHH8QYHDG2DKSRG&marketplace=FLIPKART&lid=LSTTSHH8QYHDG2DKSRG0BNWCH&swatchAttr=size&pageUID=1773049751682\", waiting until \"domcontentloaded\"\u001b[22m\n",
-    "attempt_count": 3,
-    "completed_at": "2026-08-13T16:00:38.732Z"
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-15T09:09:16.072Z"
   },
   "content": {
-    "title": null,
-    "short_description": null,
-    "description": null,
-    "specifications": {}
+    "title": "KAJARU Self Design Men Zip Neck Pink T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Self Design\nSleeve: Half Sleeve\nNeck Type: Zip Neck",
+    "description": "KAJARU Self Design Men Zip Neck Pink T-Shirt - Buy KAJARU Self Design Men Zip Neck Pink T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Zip Neck",
+      "Pattern": "Self Design"
+    }
   },
   "media": {
-    "images": [],
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/v/f/m-polo-8016-whisq-original-imahhkrw4wg3yasx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/v/f/m-polo-8016-whisq-original-imahhkrw4wg3yasx.jpeg?q=100",
+        "local_path": "../../media/images/0dba2ec740515bdc6375eeed/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/q/o/m-polo-8016-whisq-original-imahhkrwbabyc5tz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/q/o/m-polo-8016-whisq-original-imahhkrwbabyc5tz.jpeg?q=100",
+        "local_path": "../../media/images/0dba2ec740515bdc6375eeed/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/k/t/xl-polo-8016-kajaru-original-imahkbng7zhrwumm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/k/t/xl-polo-8016-kajaru-original-imahkbng7zhrwumm.jpeg?q=100",
+        "local_path": "../../media/images/0dba2ec740515bdc6375eeed/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/o/m/xl-polo-8016-kajaru-original-imahkbngjewmthyq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/o/m/xl-polo-8016-kajaru-original-imahkbngjewmthyq.jpeg?q=100",
+        "local_path": "../../media/images/0dba2ec740515bdc6375eeed/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/9/y/m-polo-8016-whisq-original-imahhkrwdragmbx4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/9/y/m-polo-8016-whisq-original-imahhkrwdragmbx4.jpeg?q=100",
+        "local_path": "../../media/images/0dba2ec740515bdc6375eeed/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
     "videos": []
   },
   "raw": {
-    "json_ld": null
+    "json_ld": {
+      "name": "KAJARU Self Design Men Zip Neck Pink T-Shirt",
+      "description": "KAJARU Self Design Men Zip Neck Pink T-Shirt - Buy KAJARU Self Design Men Zip Neck Pink T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/v/f/m-polo-8016-whisq-original-imahhkrw4wg3yasx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/q/o/m-polo-8016-whisq-original-imahhkrwbabyc5tz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/k/t/xl-polo-8016-kajaru-original-imahkbng7zhrwumm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/o/m/xl-polo-8016-kajaru-original-imahkbngjewmthyq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/9/y/m-polo-8016-whisq-original-imahhkrwdragmbx4.jpeg?q=70"
+      ],
+      "sku": "TSHH8QYHDG2DKSRG",
+      "color": "ONIONPINK",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 2345,
+        "ratingCount": 65011,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 286,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-16",
+          "reviewBody": "just awesome ❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Ikbal Hossen shah ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-15",
+          "reviewBody": "Nice product ❤️",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Raashid  Khan",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-06",
+          "reviewBody": "Hi everyone nd team Flipkart..I m from Kashmir Srinagar first all of I m so thankful to flipkart because this is a good and valuable product I m so happy with flipkart...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Zip Neck",
+        "Pattern": "Self Design"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0dba2ec740515bdc6375eeed",
+      "path": "media/images/0dba2ec740515bdc6375eeed/media.json",
+      "reused": true
+    },
+    "videos": null
   }
 }

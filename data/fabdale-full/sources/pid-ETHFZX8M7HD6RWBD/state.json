@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-ETHFZX8M7HD6RWBD",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4317",
+    "4318",
+    "4319",
+    "4320",
+    "4321"
+  ],
+  "source_path": "sources/pid-ETHFZX8M7HD6RWBD/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T13:46:10.954Z",
+  "completed_at": "2026-08-15T13:46:29.984Z"
+}

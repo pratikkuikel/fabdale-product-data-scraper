@@ -1,0 +1,190 @@
+{
+  "product_id": "3778",
+  "sku": "Fab-TShirt-TRPR-017BK-M",
+  "product": {
+    "name": "TeeCulture Ornate Graphics  T-Shirt",
+    "parent_id": "5225",
+    "notes": "https://www.flipkart.com/tripr-printed-men-round-neck-black-t-shirt/p/itm60a066c73ae57?pid=TSHH9YAYUYDUYAXW&marketplace=FLIPKART&lid=LSTTSHH9YAYUYDUYAXW2RKAWK&swatchAttr=size&pageUID=1773225223876"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH9YAYUYDUYAXW",
+    "path": "../../sources/pid-TSHH9YAYUYDUYAXW/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tripr-printed-men-round-neck-black-t-shirt/p/itm60a066c73ae57?pid=TSHH9YAYUYDUYAXW&marketplace=FLIPKART&lid=LSTTSHH9YAYUYDUYAXW2RKAWK&swatchAttr=size&pageUID=1773225223876",
+    "scraped_at": "2026-08-15T10:09:32.607Z",
+    "final_url": "https://www.flipkart.com/tripr-printed-men-round-neck-black-t-shirt/p/itm60a066c73ae57?pid=TSHH9YAYUYDUYAXW&marketplace=FLIPKART&lid=LSTTSHH9YAYUYDUYAXW2RKAWK&swatchAttr=size&pageUID=1773225223876"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:09:46.902Z"
+  },
+  "content": {
+    "title": "TRIPR Men Printed Round Neck Cotton Blend Black T-Shirt",
+    "short_description": "Fabric: Cotton Blend\nPattern: Printed\nSleeve: Full Sleeve\nNeck Type: Round Neck",
+    "description": "Vibrant Printed Design\nThis men's T-shirt features a vibrant printed design in black and orange, adding a pop of color to y…\n\nComfortable Cotton Blend Fabric\nCrafted from a soft cotton blend fabric, this T-shirt offers comfort and breathability throughout th…\n\nVersatile Full Sleeve Style\nWith full sleeves, this T-shirt provides added coverage and warmth, perfect for transitioning betwee…\n\nClassic Round Neck Cut\nFeaturing a classic round neck cut, this T-shirt offers a timeless look that suits various casual oc…\n\nEasy Maintenance\nMaintaining this T-shirt is a breeze with regular machine wash care instructions. This ensures that …",
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Cotton Blend",
+      "Neck Type": "Round Neck",
+      "Pattern": "Printed"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "54a3d00fe6d3f1db7507500e",
+      "path": "media/images/54a3d00fe6d3f1db7507500e/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/3/y/e/l-tblrnful-d179-tripr-resized-original-imah9d4upzmexa3w.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/3/y/e/l-tblrnful-d179-tripr-resized-original-imah9d4upzmexa3w.jpeg?q=100",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/1/c/g/l-tblrnful-d179-tripr-original-imah9d4unk843ytp.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/1/c/g/l-tblrnful-d179-tripr-original-imah9d4unk843ytp.jpeg?q=100",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/o/p/7/l-tblrnful-d179-tripr-original-imah9d4ufqhzm3ha.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/o/p/7/l-tblrnful-d179-tripr-original-imah9d4ufqhzm3ha.jpeg?q=100",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/8/b/q/l-tblrnful-d179-tripr-original-imah9d4up4eds3ge.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/8/b/q/l-tblrnful-d179-tripr-original-imah9d4up4eds3ge.jpeg?q=100",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/i/o/h/l-tblrnful-d179-tripr-original-imah9d4ucghme2fu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/i/o/h/l-tblrnful-d179-tripr-original-imah9d4ucghme2fu.jpeg?q=100",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_9d1a920105e94049a2abe05873ae8c74.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_9d1a920105e94049a2abe05873ae8c74.jpg?q=80",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_cb8d7fab4a5345039a9efa4401e3c660.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_cb8d7fab4a5345039a9efa4401e3c660.jpg?q=80",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/o/l/4xl-tchbl-chbl-chbl-chblrn-dp-plaind164-tripr-resized-original-imahhtaagc9dpqud.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/o/l/4xl-tchbl-chbl-chbl-chblrn-dp-plaind164-tripr-resized-original-imahhtaagc9dpqud.jpeg?q=100",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-t-shirt/n/a/b/xl-tbld209-spy-bwtrnos-z141-tripr-resized-original-imahkf63yhjr9kzg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-t-shirt/n/a/b/xl-tbld209-spy-bwtrnos-z141-tripr-resized-original-imahkf63yhjr9kzg.jpeg?q=100",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/j/j/s-ts131-vebnor-original-imahprfvpr5dwhb2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/j/j/s-ts131-vebnor-original-imahprfvpr5dwhb2.jpeg?q=100",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/b/w/1/xl-tblwt-wtblhn-nop-d145-tripr-original-imahmy4vzazgzs3y.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/b/w/1/xl-tblwt-wtblhn-nop-d145-tripr-original-imahmy4vzazgzs3y.jpeg?q=100",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/s/9/q/s-tblrnos-nop-d211-tripr-original-imahn3rnxgxeryww.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/s/9/q/s-tblrnos-nop-d211-tripr-original-imahn3rnxgxeryww.jpeg?q=100",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/0/i/xxl-tblburnos-nop-d219-tripr-original-imahmvuedsyf8wmr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/0/i/xxl-tblburnos-nop-d219-tripr-original-imahmvuedsyf8wmr.jpeg?q=100",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/v/p/xxl-tblrn-dp-d173-tripr-original-imahg2fsujjyggj8.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/v/p/xxl-tblrn-dp-d173-tripr-original-imahg2fsujjyggj8.jpeg?q=100",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/x/5/r/-resized-original-imahjzpvfpgfwsd7.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/x/5/r/-resized-original-imahjzpvfpgfwsd7.jpeg?q=100",
+        "local_path": "../../media/images/54a3d00fe6d3f1db7507500e/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Vibrant Printed Design",
+          "body": "This men's T-shirt features a vibrant printed design in black and orange, adding a pop of color to y…"
+        },
+        {
+          "heading": "Comfortable Cotton Blend Fabric",
+          "body": "Crafted from a soft cotton blend fabric, this T-shirt offers comfort and breathability throughout th…"
+        },
+        {
+          "heading": "Versatile Full Sleeve Style",
+          "body": "With full sleeves, this T-shirt provides added coverage and warmth, perfect for transitioning betwee…"
+        },
+        {
+          "heading": "Classic Round Neck Cut",
+          "body": "Featuring a classic round neck cut, this T-shirt offers a timeless look that suits various casual oc…"
+        },
+        {
+          "heading": "Easy Maintenance",
+          "body": "Maintaining this T-shirt is a breeze with regular machine wash care instructions. This ensures that …"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Cotton Blend",
+        "Neck Type": "Round Neck",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  }
+}

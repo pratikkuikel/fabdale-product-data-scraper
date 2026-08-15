@@ -1,0 +1,208 @@
+{
+  "product_id": "3272",
+  "sku": "Fab-TShirt-KAJR-013G-L",
+  "product": {
+    "name": "Kavish  Zip Neck T-Shirt",
+    "parent_id": "5416",
+    "notes": "https://www.flipkart.com/kajaru-self-design-men-zip-neck-dark-green-t-shirt/p/itmff0d18fe7f4bf?pid=TSHHG82SGF9XDJAJ&marketplace=FLIPKART&lid=LSTTSHHG82SGF9XDJAJ7YQ9LK&swatchAttr=size&pageUID=1773050517273"
+  },
+  "source_bundle": {
+    "key": "pid-TSHHG82SGF9XDJAJ",
+    "path": "../../sources/pid-TSHHG82SGF9XDJAJ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-self-design-men-zip-neck-dark-green-t-shirt/p/itmff0d18fe7f4bf?pid=TSHHG82SGF9XDJAJ&lid=LSTTSHHG82SGF9XDJAJ7YQ9LK&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:11:33.651Z",
+    "final_url": "https://www.flipkart.com/kajaru-self-design-men-zip-neck-dark-green-t-shirt/p/itmff0d18fe7f4bf?pid=TSHHG82SGF9XDJAJ&lid=LSTTSHHG82SGF9XDJAJ7YQ9LK&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:11:43.624Z"
+  },
+  "content": {
+    "title": "KAJARU Self Design Men Zip Neck Dark Green T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Self Design\nSleeve: Half Sleeve\nNeck Type: Zip Neck",
+    "description": "KAJARU Self Design Men Zip Neck Dark Green T-Shirt - Buy KAJARU Self Design Men Zip Neck Dark Green T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Zip Neck",
+      "Pattern": "Self Design"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "eb99a48f64ffea425f029e43",
+      "path": "media/images/eb99a48f64ffea425f029e43/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "e4df9ee3ab312ab470130301",
+      "path": "media/videos/e4df9ee3ab312ab470130301/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/c/0/xxl-polo-8016-kajaru-original-imahg82sfhmgjtvx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/c/0/xxl-polo-8016-kajaru-original-imahg82sfhmgjtvx.jpeg?q=100",
+        "local_path": "../../media/images/eb99a48f64ffea425f029e43/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/w/k/xxl-polo-8016-kajaru-original-imahg82s6qb2gzue.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/w/k/xxl-polo-8016-kajaru-original-imahg82s6qb2gzue.jpeg?q=100",
+        "local_path": "../../media/images/eb99a48f64ffea425f029e43/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/2/6/xxl-polo-8016-kajaru-original-imahg82skz5pfrty.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/2/6/xxl-polo-8016-kajaru-original-imahg82skz5pfrty.jpeg?q=100",
+        "local_path": "../../media/images/eb99a48f64ffea425f029e43/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/z/v/m-polo-8016-kajaru-original-imahg82sxqmtegf6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/z/v/m-polo-8016-kajaru-original-imahg82sxqmtegf6.jpeg?q=100",
+        "local_path": "../../media/images/eb99a48f64ffea425f029e43/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/g/p/xxl-polo-8016-kajaru-original-imahg82sjzgwdwu5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/g/p/xxl-polo-8016-kajaru-original-imahg82sjzgwdwu5.jpeg?q=100",
+        "local_path": "../../media/images/eb99a48f64ffea425f029e43/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNFGyLMzR7SH-kGb9mIJNlGw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Self Design Men Zip Neck Dark Green T-Shirt",
+      "description": "KAJARU Self Design Men Zip Neck Dark Green T-Shirt - Buy KAJARU Self Design Men Zip Neck Dark Green T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/c/0/xxl-polo-8016-kajaru-original-imahg82sfhmgjtvx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/w/k/xxl-polo-8016-kajaru-original-imahg82s6qb2gzue.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/2/6/xxl-polo-8016-kajaru-original-imahg82skz5pfrty.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/z/v/m-polo-8016-kajaru-original-imahg82sxqmtegf6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/g/p/xxl-polo-8016-kajaru-original-imahg82sjzgwdwu5.jpeg?q=70"
+      ],
+      "sku": "TSHHG82SGF9XDJAJ",
+      "color": "MORPINCH",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 2345,
+        "ratingCount": 65011,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 264,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-16",
+          "reviewBody": "just awesome ❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Ikbal Hossen shah ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-15",
+          "reviewBody": "Nice product ❤️",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Raashid  Khan",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-06",
+          "reviewBody": "Hi everyone nd team Flipkart..I m from Kashmir Srinagar first all of I m so thankful to flipkart because this is a good and valuable product I m so happy with flipkart...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Zip Neck",
+        "Pattern": "Self Design"
+      },
+      "specifications": {}
+    }
+  }
+}

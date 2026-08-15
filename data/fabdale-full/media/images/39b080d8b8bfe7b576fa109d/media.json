@@ -1,0 +1,37 @@
+{
+  "key": "39b080d8b8bfe7b576fa109d",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T09:21:34.289Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/a/v/l-dot-design-kajaru-resized-original-imah7uzhgnu3hwat.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/a/v/l-dot-design-kajaru-resized-original-imah7uzhgnu3hwat.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/c/k/l-dot-design-kajaru-original-imah7uzh2yzvhu5w.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/c/k/l-dot-design-kajaru-original-imah7uzh2yzvhu5w.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/r/n/l-dot-design-kajaru-original-imah7uzhc6bbe7jm.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/r/n/l-dot-design-kajaru-original-imah7uzhc6bbe7jm.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/f/7/l-dot-design-kajaru-original-imah7uzhvydhvbzw.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/f/7/l-dot-design-kajaru-original-imah7uzhvydhvbzw.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

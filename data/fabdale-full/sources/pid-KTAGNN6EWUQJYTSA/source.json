@@ -1,0 +1,156 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itm2ab34e3dbd8ec?pid=KTAGNN6EWUQJYTSA&marketplace=FLIPKART&lid=LSTKTAGNN6EWUQJYTSA7ZSQE8&swatchAttr=size&pageUID=1774087271745",
+    "scraped_at": "2026-08-15T13:18:15.365Z",
+    "final_url": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itm2ab34e3dbd8ec?pid=KTAGNN6EWUQJYTSA&marketplace=FLIPKART&lid=LSTKTAGNN6EWUQJYTSA7ZSQE8&swatchAttr=size&pageUID=1774087271745"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T13:19:01.647Z"
+  },
+  "content": {
+    "title": "FUBAR Men Printed Straight Kurta",
+    "short_description": "FUBAR Men Printed Straight Kurta - Buy FUBAR Men Printed Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "FUBAR Men Printed Straight Kurta - Buy FUBAR Men Printed Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/x/e/m-kcku-only-kurta-print-yebk-fubar-resized-original-imagnn69rksbj8qs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/x/e/m-kcku-only-kurta-print-yebk-fubar-resized-original-imagnn69rksbj8qs.jpeg?q=100",
+        "local_path": "../../media/images/bfa0de094fdfbbe083029eec/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/5/h/m-kcku-only-kurta-print-yebk-fubar-original-imagnn69wfysdwjk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/5/h/m-kcku-only-kurta-print-yebk-fubar-original-imagnn69wfysdwjk.jpeg?q=100",
+        "local_path": "../../media/images/bfa0de094fdfbbe083029eec/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/r/2/d/m-kcku-only-kurta-print-yebk-fubar-original-imagnn69zkfqhthx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/r/2/d/m-kcku-only-kurta-print-yebk-fubar-original-imagnn69zkfqhthx.jpeg?q=100",
+        "local_path": "../../media/images/bfa0de094fdfbbe083029eec/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/n/x/m-kcku-only-kurta-print-yebk-fubar-original-imagnn69gxr2yzpg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/n/x/m-kcku-only-kurta-print-yebk-fubar-original-imagnn69gxr2yzpg.jpeg?q=100",
+        "local_path": "../../media/images/bfa0de094fdfbbe083029eec/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Men Printed Straight Kurta",
+      "description": "FUBAR Men Printed Straight Kurta - Buy FUBAR Men Printed Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/x/e/m-kcku-only-kurta-print-yebk-fubar-resized-original-imagnn69rksbj8qs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/5/h/m-kcku-only-kurta-print-yebk-fubar-original-imagnn69wfysdwjk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/r/2/d/m-kcku-only-kurta-print-yebk-fubar-original-imagnn69zkfqhthx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/n/x/m-kcku-only-kurta-print-yebk-fubar-original-imagnn69gxr2yzpg.jpeg?q=70"
+      ],
+      "sku": "KTAGNN6EWUQJYTSA",
+      "color": "Bright Yellow",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 2213,
+        "ratingCount": 33694,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 249,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Dipraj Sarkar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-04",
+          "reviewBody": "Nice colour combination, \nPerfect size \nGood quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Nihudi Salunke",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-15",
+          "reviewBody": "Worth for money 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Nilesh Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2022-10-23",
+          "reviewBody": "Nice design and fabric. You might face fitting issue but could be fixed by alteration.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bfa0de094fdfbbe083029eec",
+      "path": "media/images/bfa0de094fdfbbe083029eec/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

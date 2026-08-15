@@ -1,0 +1,191 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/cellux-men-solid-straight-kurta/p/itm0c51448c1e2bd?pid=KTAGCQXVVRZCWMTG&marketplace=FLIPKART&lid=LSTKTAGCQXVVRZCWMTGTE9DKA&swatchAttr=size&pageUID=1773832542276",
+    "scraped_at": "2026-08-15T12:39:59.082Z",
+    "final_url": "https://www.flipkart.com/cellux-men-solid-straight-kurta/p/itm0c51448c1e2bd?pid=KTAGCQXVVRZCWMTG&marketplace=FLIPKART&lid=LSTKTAGCQXVVRZCWMTGTE9DKA&swatchAttr=size&pageUID=1773832542276"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T12:40:17.998Z"
+  },
+  "content": {
+    "title": "CELLUX Men Solid Straight Kurta",
+    "short_description": "Color: Light Green\nFabric: Cotton Blend\nPattern: Solid\nType: Straight",
+    "description": "Versatile and Comfortable\nThis men's kurta is made from a high-quality cotton blend fabric, ensuring both comfort and durabili…\n\nClassic and Stylish Design\nFeaturing a solid pattern, this kurta offers a timeless and versatile look. The solid design allows …\n\nMandarin Neck and Full Sleeves\nThe kurta is designed with a Mandarin/Chinese neck, adding a traditional and sophisticated touch to …",
+    "specifications": {
+      "Pattern": "Solid",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Color": "Light Green"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/r/t/xl-only-plain-seawind-resized-original-imagczwqbdkztzk2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/r/t/xl-only-plain-seawind-resized-original-imagczwqbdkztzk2.jpeg?q=100",
+        "local_path": "../../media/images/83b1e00d87e578790cd39c22/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/5/b/a/xl-only-plain-seawind-original-imagczwqkhafz974.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/5/b/a/xl-only-plain-seawind-original-imagczwqkhafz974.jpeg?q=100",
+        "local_path": "../../media/images/83b1e00d87e578790cd39c22/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/z/m/q/xl-only-plain-seawind-original-imagczwqqjvkkstg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/z/m/q/xl-only-plain-seawind-original-imagczwqqjvkkstg.jpeg?q=100",
+        "local_path": "../../media/images/83b1e00d87e578790cd39c22/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/o/4/a/xl-only-plain-seawind-original-imagczwqchmyq9gf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/o/4/a/xl-only-plain-seawind-original-imagczwqchmyq9gf.jpeg?q=100",
+        "local_path": "../../media/images/83b1e00d87e578790cd39c22/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "CELLUX Men Solid Straight Kurta",
+      "description": "CELLUX Men Solid Straight Kurta - Buy CELLUX Men Solid Straight Kurta For Only Rs. 899.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/r/t/xl-only-plain-seawind-resized-original-imagczwqbdkztzk2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/5/b/a/xl-only-plain-seawind-original-imagczwqkhafz974.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/z/m/q/xl-only-plain-seawind-original-imagczwqqjvkkstg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/o/4/a/xl-only-plain-seawind-original-imagczwqchmyq9gf.jpeg?q=70"
+      ],
+      "sku": "KTAGCQXVVRZCWMTG",
+      "color": "PISTA",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 1732,
+        "ratingCount": 31740,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "CELLUX",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 262,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Sahidul Haque",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-07",
+          "reviewBody": "Very good kurta quality no 1 value for money",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-11",
+          "reviewBody": "Lovely product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Sanjib Sahu",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-21",
+          "reviewBody": "Great",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Versatile and Comfortable",
+          "body": "This men's kurta is made from a high-quality cotton blend fabric, ensuring both comfort and durabili…"
+        },
+        {
+          "heading": "Classic and Stylish Design",
+          "body": "Featuring a solid pattern, this kurta offers a timeless and versatile look. The solid design allows …"
+        },
+        {
+          "heading": "Mandarin Neck and Full Sleeves",
+          "body": "The kurta is designed with a Mandarin/Chinese neck, adding a traditional and sophisticated touch to …"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Solid",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Color": "Light Green"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "83b1e00d87e578790cd39c22",
+      "path": "media/images/83b1e00d87e578790cd39c22/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

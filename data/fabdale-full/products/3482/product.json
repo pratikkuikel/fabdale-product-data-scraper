@@ -1,0 +1,175 @@
+{
+  "product_id": "3482",
+  "sku": "Fab-Tshirt-VEBN-002SB-L",
+  "product": {
+    "name": "Verve Polo Neck T-Shirt",
+    "parent_id": "5190",
+    "notes": "https://www.flipkart.com/vebnor-solid-men-polo-neck-light-blue-t-shirt/p/itm1908664b002c0?pid=TSHH9YW5BF9WFNSP&lid=LSTTSHH9YW5BF9WFNSPNMRSEI&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH9YW5BF9WFNSP",
+    "path": "../../sources/pid-TSHH9YW5BF9WFNSP/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-solid-men-polo-neck-light-blue-t-shirt/p/itm1908664b002c0?pid=TSHH9YW5BF9WFNSP&lid=LSTTSHH9YW5BF9WFNSPNMRSEI&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:31:17.595Z",
+    "final_url": "https://www.flipkart.com/vebnor-solid-men-polo-neck-light-blue-t-shirt/p/itm1908664b002c0?pid=TSHH9YW5BF9WFNSP&lid=LSTTSHH9YW5BF9WFNSPNMRSEI&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:31:22.194Z"
+  },
+  "content": {
+    "title": "VeBNoR Solid Men Polo Neck Light Blue T-Shirt",
+    "short_description": "VeBNoR Solid Men Polo Neck Light Blue T-Shirt - Buy VeBNoR Solid Men Polo Neck Light Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "VeBNoR Solid Men Polo Neck Light Blue T-Shirt - Buy VeBNoR Solid Men Polo Neck Light Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ac72008c5d3790c9fa1d11fb",
+      "path": "media/images/ac72008c5d3790c9fa1d11fb/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/s/m/s-ts115-vebnor-original-imahnh6sanvpnbth.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/s/m/s-ts115-vebnor-original-imahnh6sanvpnbth.jpeg?q=100",
+        "local_path": "../../media/images/ac72008c5d3790c9fa1d11fb/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/v/a/s-ts115-vebnor-original-imahnh6sm7wjxzqz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/v/a/s-ts115-vebnor-original-imahnh6sm7wjxzqz.jpeg?q=100",
+        "local_path": "../../media/images/ac72008c5d3790c9fa1d11fb/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/k/q/s-ts115-vebnor-original-imahnh6shsftup34.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/k/q/s-ts115-vebnor-original-imahnh6shsftup34.jpeg?q=100",
+        "local_path": "../../media/images/ac72008c5d3790c9fa1d11fb/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/m/z/s-ts115-vebnor-original-imahnh6svn9qztem.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/m/z/s-ts115-vebnor-original-imahnh6svn9qztem.jpeg?q=100",
+        "local_path": "../../media/images/ac72008c5d3790c9fa1d11fb/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/f/f/s-ts115-vebnor-original-imahnh6sgaprt4yh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/f/f/s-ts115-vebnor-original-imahnh6sgaprt4yh.jpeg?q=100",
+        "local_path": "../../media/images/ac72008c5d3790c9fa1d11fb/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Solid Men Polo Neck Light Blue T-Shirt",
+      "description": "VeBNoR Solid Men Polo Neck Light Blue T-Shirt - Buy VeBNoR Solid Men Polo Neck Light Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/s/m/s-ts115-vebnor-original-imahnh6sanvpnbth.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/v/a/s-ts115-vebnor-original-imahnh6sm7wjxzqz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/k/q/s-ts115-vebnor-original-imahnh6shsftup34.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/m/z/s-ts115-vebnor-original-imahnh6svn9qztem.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/f/f/s-ts115-vebnor-original-imahnh6sgaprt4yh.jpeg?q=70"
+      ],
+      "sku": "TSHH9YW5BF9WFNSP",
+      "color": "Sky Blue",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 319,
+        "ratingCount": 6246,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 256,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Chand Raza",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-23",
+          "reviewBody": "Very very nice t shirt in this price range iam so happy Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Prajin Prakash",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-18",
+          "reviewBody": "Cloth good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Advocate Jitendra Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-28",
+          "reviewBody": "According to price t-shirt very nice ...",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

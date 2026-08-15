@@ -1,0 +1,22 @@
+{
+  "source_key": "pid-KTAGNVZE7KGYUVUM",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4207",
+    "4208",
+    "4211",
+    "6320",
+    "6321",
+    "6322",
+    "6323",
+    "6324"
+  ],
+  "source_path": "sources/pid-KTAGNVZE7KGYUVUM/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T13:08:53.369Z",
+  "completed_at": "2026-08-15T13:09:15.777Z"
+}

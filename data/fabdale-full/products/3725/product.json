@@ -1,0 +1,197 @@
+{
+  "product_id": "3725",
+  "sku": "Fab-TShirt-TRPR-012BL-XL",
+  "product": {
+    "name": "TeeCulture Solid Stars Print T-Shirt",
+    "parent_id": "5182",
+    "notes": "https://www.flipkart.com/tripr-printed-men-round-neck-navy-blue-white-t-shirt/p/itmf3e6b32eff32b?pid=TSHHCW5HWKEJFNWG&marketplace=FLIPKART&lid=LSTTSHHCW5HWKEJFNWGNB38EK&swatchAttr=size&pageUID=1773223645441"
+  },
+  "source_bundle": {
+    "key": "pid-TSHHCW5HWKEJFNWG",
+    "path": "../../sources/pid-TSHHCW5HWKEJFNWG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tripr-printed-men-round-neck-navy-blue-white-t-shirt/p/itmf3e6b32eff32b?pid=TSHHCW5HWKEJFNWG&marketplace=FLIPKART&lid=LSTTSHHCW5HWKEJFNWGNB38EK&swatchAttr=size&pageUID=1773223645441",
+    "scraped_at": "2026-08-15T10:02:34.104Z",
+    "final_url": "https://www.flipkart.com/tripr-printed-men-round-neck-navy-blue-white-t-shirt/p/itmf3e6b32eff32b?pid=TSHHCW5HWKEJFNWG&marketplace=FLIPKART&lid=LSTTSHHCW5HWKEJFNWGNB38EK&swatchAttr=size&pageUID=1773223645441"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:02:45.950Z"
+  },
+  "content": {
+    "title": "TRIPR Printed Men Round Neck Navy Blue, White T-Shirt",
+    "short_description": "Fabric: Cotton Blend\nPattern: Printed\nSleeve: Full Sleeve\nNeck Type: Round Neck",
+    "description": "TRIPR Printed Men Round Neck Navy Blue, White T-Shirt - Buy TRIPR Printed Men Round Neck Navy Blue, White T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Cotton Blend",
+      "Neck Type": "Round Neck",
+      "Pattern": "Printed"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "53007ab0fbb82c19a9a10de3",
+      "path": "media/images/53007ab0fbb82c19a9a10de3/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/8/z/k/s-tnvwtrnful-d194-tripr-resized-original-imahdhqakfrbuvgp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/8/z/k/s-tnvwtrnful-d194-tripr-resized-original-imahdhqakfrbuvgp.jpeg?q=100",
+        "local_path": "../../media/images/53007ab0fbb82c19a9a10de3/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/z/j/s-tnvwtrnful-d194-tripr-original-imahdhqajddknveb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/z/j/s-tnvwtrnful-d194-tripr-original-imahdhqajddknveb.jpeg?q=100",
+        "local_path": "../../media/images/53007ab0fbb82c19a9a10de3/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/6/a/i/s-tnvwtrnful-d194-tripr-original-imahdhqafchhxngg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/6/a/i/s-tnvwtrnful-d194-tripr-original-imahdhqafchhxngg.jpeg?q=100",
+        "local_path": "../../media/images/53007ab0fbb82c19a9a10de3/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/r/c/s-tnvwtrnful-d194-tripr-original-imahdhqa5gshhbrw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/r/c/s-tnvwtrnful-d194-tripr-original-imahdhqa5gshhbrw.jpeg?q=100",
+        "local_path": "../../media/images/53007ab0fbb82c19a9a10de3/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/e/s/s-tnvwtrnful-d194-tripr-original-imahdhqaejrrk8pc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/e/s/s-tnvwtrnful-d194-tripr-original-imahdhqaejrrk8pc.jpeg?q=100",
+        "local_path": "../../media/images/53007ab0fbb82c19a9a10de3/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "TRIPR Printed Men Round Neck Navy Blue, White T-Shirt",
+      "description": "TRIPR Printed Men Round Neck Navy Blue, White T-Shirt - Buy TRIPR Printed Men Round Neck Navy Blue, White T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/8/z/k/s-tnvwtrnful-d194-tripr-resized-original-imahdhqakfrbuvgp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/z/j/s-tnvwtrnful-d194-tripr-original-imahdhqajddknveb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/6/a/i/s-tnvwtrnful-d194-tripr-original-imahdhqafchhxngg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/v/r/c/s-tnvwtrnful-d194-tripr-original-imahdhqa5gshhbrw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/e/s/s-tnvwtrnful-d194-tripr-original-imahdhqaejrrk8pc.jpeg?q=70"
+      ],
+      "sku": "TSHHCW5HWKEJFNWG",
+      "color": "Navy Blue, White0043",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 216,
+        "ratingCount": 1776,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "TRIPR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 273,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Vinod Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2020-10-10",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Kishore Jangam",
+            "@type": "Person"
+          },
+          "datePublished": "2022-04-17",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Nagaraj Nagu",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-25",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Cotton Blend",
+        "Neck Type": "Round Neck",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  }
+}

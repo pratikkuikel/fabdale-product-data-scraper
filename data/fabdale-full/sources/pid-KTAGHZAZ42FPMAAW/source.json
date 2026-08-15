@@ -1,0 +1,201 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/tibra-collection-men-striped-straight-kurta/p/itmf5dc2c2721443?pid=KTAGHZAZ42FPMAAW&marketplace=FLIPKART&lid=LSTKTAGHZAZ42FPMAAWNFFGRN&swatchAttr=size&pageUID=1774109777456",
+    "scraped_at": "2026-08-15T14:35:58.334Z",
+    "final_url": "https://www.flipkart.com/tibra-collection-men-striped-straight-kurta/p/itmf5dc2c2721443?pid=KTAGHZAZ42FPMAAW&marketplace=FLIPKART&lid=LSTKTAGHZAZ42FPMAAWNFFGRN&swatchAttr=size&pageUID=1774109777456"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T14:36:24.573Z"
+  },
+  "content": {
+    "title": "Tibra Collection Men Striped Straight Kurta",
+    "short_description": "Color: Yellow\nFabric: Cotton Blend\nPattern: Striped\nType: Straight\nFit: Regular Fit",
+    "description": "Classic Mandarin Neck\nThis men's kurta features a classic mandarin/chinese neck design that adds a touch of traditional el…\n\nDurable Cotton Blend Fabric\nCrafted from a high-quality cotton blend fabric, this kurta is both soft and durable. The cotton ble…\n\nElegant Striped Pattern\nFeaturing a stylish striped pattern, this kurta adds a touch of sophistication to your ethnic wear c…",
+    "specifications": {
+      "Pattern": "Striped",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Fit": "Regular Fit",
+      "Color": "Yellow"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/v/o/xl-only-lining-01-tibra-collection-resized-original-imagywcambmukwjg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/v/o/xl-only-lining-01-tibra-collection-resized-original-imagywcambmukwjg.jpeg?q=100",
+        "local_path": "../../media/images/bcba11c7c7a11f339a8b9986/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/q/b/xl-only-lining-01-tibra-collection-original-imagywcaagyqch9s.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/q/b/xl-only-lining-01-tibra-collection-original-imagywcaagyqch9s.jpeg?q=100",
+        "local_path": "../../media/images/bcba11c7c7a11f339a8b9986/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/w/b/xl-only-lining-01-tibra-collection-original-imagywcawjqywhg7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/w/b/xl-only-lining-01-tibra-collection-original-imagywcawjqywhg7.jpeg?q=100",
+        "local_path": "../../media/images/bcba11c7c7a11f339a8b9986/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/v/i/3xl-lining-01-tibra-collection-original-imagywc8x8qfgccn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/v/i/3xl-lining-01-tibra-collection-original-imagywc8x8qfgccn.jpeg?q=100",
+        "local_path": "../../media/images/bcba11c7c7a11f339a8b9986/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/i/6/xl-only-lining-01-tibra-collection-original-imagywcaphwhfrn2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/i/6/xl-only-lining-01-tibra-collection-original-imagywcaphwhfrn2.jpeg?q=100",
+        "local_path": "../../media/images/bcba11c7c7a11f339a8b9986/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Tibra Collection Men Striped Straight Kurta",
+      "description": "Tibra Collection Men Striped Straight Kurta - Buy Tibra Collection Men Striped Straight Kurta For Only Rs. 1599.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/v/o/xl-only-lining-01-tibra-collection-resized-original-imagywcambmukwjg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/q/b/xl-only-lining-01-tibra-collection-original-imagywcaagyqch9s.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/w/b/xl-only-lining-01-tibra-collection-original-imagywcawjqywhg7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/v/i/3xl-lining-01-tibra-collection-original-imagywc8x8qfgccn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/i/6/xl-only-lining-01-tibra-collection-original-imagywcaphwhfrn2.jpeg?q=70"
+      ],
+      "sku": "KTAGHZAZ42FPMAAW",
+      "color": "Yellow",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 40,
+        "ratingCount": 547,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tibra Collection",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 292,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Debraj Chakraborty",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-02",
+          "reviewBody": "Loved it. 💙🤍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Abdul Javeed",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-18",
+          "reviewBody": "Like",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Abdul Javeed",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-19",
+          "reviewBody": "Average good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Mandarin Neck",
+          "body": "This men's kurta features a classic mandarin/chinese neck design that adds a touch of traditional el…"
+        },
+        {
+          "heading": "Durable Cotton Blend Fabric",
+          "body": "Crafted from a high-quality cotton blend fabric, this kurta is both soft and durable. The cotton ble…"
+        },
+        {
+          "heading": "Elegant Striped Pattern",
+          "body": "Featuring a stylish striped pattern, this kurta adds a touch of sophistication to your ethnic wear c…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Striped",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Fit": "Regular Fit",
+        "Color": "Yellow"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bcba11c7c7a11f339a8b9986",
+      "path": "media/images/bcba11c7c7a11f339a8b9986/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-ETHG8A8HBJ8HHQGA",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4422",
+    "4423",
+    "4424",
+    "4425",
+    "4426",
+    "5362"
+  ],
+  "source_path": "sources/pid-ETHG8A8HBJ8HHQGA/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T14:45:55.275Z",
+  "completed_at": "2026-08-15T14:46:18.686Z"
+}

@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/tripr-solid-men-mandarin-collar-black-white-t-shirt/p/itm27199659a695a?pid=TSHHFHE5WX9CFVYK&marketplace=FLIPKART&lid=LSTTSHHFHE5WX9CFVYK6LLVBS&swatchAttr=size&pageUID=1773226177201",
+    "scraped_at": "2026-08-15T10:14:39.524Z",
+    "final_url": "https://www.flipkart.com/tripr-solid-men-mandarin-collar-black-white-t-shirt/p/itm27199659a695a?pid=TSHHFHE5WX9CFVYK&marketplace=FLIPKART&lid=LSTTSHHFHE5WX9CFVYK6LLVBS&swatchAttr=size&pageUID=1773226177201"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:14:51.837Z"
+  },
+  "content": {
+    "title": "TRIPR Solid Men Mandarin Collar Black, White T-Shirt",
+    "short_description": "TRIPR Solid Men Mandarin Collar Black, White T-Shirt - Buy TRIPR Solid Men Mandarin Collar Black, White T-Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "TRIPR Solid Men Mandarin Collar Black, White T-Shirt - Buy TRIPR Solid Men Mandarin Collar Black, White T-Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/e/t/xxl-tblwthnful-d145-tripr-resized-original-imahckrcxkc6wgdm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/e/t/xxl-tblwthnful-d145-tripr-resized-original-imahckrcxkc6wgdm.jpeg?q=100",
+        "local_path": "../../media/images/7b1eff61b436aa284b568689/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/b/f/xxl-tblwthnful-d145-tripr-original-imahckrcckvsjzgz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/b/f/xxl-tblwthnful-d145-tripr-original-imahckrcckvsjzgz.jpeg?q=100",
+        "local_path": "../../media/images/7b1eff61b436aa284b568689/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/4/8/k/xxl-tblwthnful-d145-tripr-original-imahckrcwf3z8sxv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/4/8/k/xxl-tblwthnful-d145-tripr-original-imahckrcwf3z8sxv.jpeg?q=100",
+        "local_path": "../../media/images/7b1eff61b436aa284b568689/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/6/b/d/xxl-tblwthnful-d145-tripr-original-imahckrcnhstacfb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/6/b/d/xxl-tblwthnful-d145-tripr-original-imahckrcnhstacfb.jpeg?q=100",
+        "local_path": "../../media/images/7b1eff61b436aa284b568689/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/f/r/xxl-tblwthnful-d145-tripr-original-imahckrcm54hk4jg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/f/r/xxl-tblwthnful-d145-tripr-original-imahckrcm54hk4jg.jpeg?q=100",
+        "local_path": "../../media/images/7b1eff61b436aa284b568689/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "TRIPR Solid Men Mandarin Collar Black, White T-Shirt",
+      "description": "TRIPR Solid Men Mandarin Collar Black, White T-Shirt - Buy TRIPR Solid Men Mandarin Collar Black, White T-Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/e/t/xxl-tblwthnful-d145-tripr-resized-original-imahckrcxkc6wgdm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/b/f/xxl-tblwthnful-d145-tripr-original-imahckrcckvsjzgz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/4/8/k/xxl-tblwthnful-d145-tripr-original-imahckrcwf3z8sxv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/6/b/d/xxl-tblwthnful-d145-tripr-original-imahckrcnhstacfb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/f/r/xxl-tblwthnful-d145-tripr-original-imahckrcm54hk4jg.jpeg?q=70"
+      ],
+      "sku": "TSHHFHE5WX9CFVYK",
+      "color": "Black2",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 1250,
+        "ratingCount": 23399,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "TRIPR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 282,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-02",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Juhi Kumari",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-05",
+          "reviewBody": "Nice 🙂",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-14",
+          "reviewBody": "Good quality 👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "7b1eff61b436aa284b568689",
+      "path": "media/images/7b1eff61b436aa284b568689/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

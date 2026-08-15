@@ -1,0 +1,175 @@
+{
+  "product_id": "3545",
+  "sku": "Fab-Tshirt-VEBN-004BR-S",
+  "product": {
+    "name": "Verve Long-sleeved polo t-shirt",
+    "parent_id": "5187",
+    "notes": "https://www.flipkart.com/vebnor-solid-men-polo-neck-brown-t-shirt/p/itmf6946ff266a6b?pid=TSHHFH6ZVUZBNZST&lid=LSTTSHHFH6ZVUZBNZSTDCLCIY&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHHFH6ZVUZBNZST",
+    "path": "../../sources/pid-TSHHFH6ZVUZBNZST/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-solid-men-polo-neck-brown-t-shirt/p/itmf6946ff266a6b?pid=TSHHFH6ZVUZBNZST&lid=LSTTSHHFH6ZVUZBNZSTDCLCIY&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:40:00.093Z",
+    "final_url": "https://www.flipkart.com/vebnor-solid-men-polo-neck-brown-t-shirt/p/itmf6946ff266a6b?pid=TSHHFH6ZVUZBNZST&lid=LSTTSHHFH6ZVUZBNZSTDCLCIY&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:40:09.629Z"
+  },
+  "content": {
+    "title": "VeBNoR Printed Men Polo Neck Brown T-Shirt",
+    "short_description": "VeBNoR Printed Men Polo Neck Brown T-Shirt - Buy VeBNoR Printed Men Polo Neck Brown T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "VeBNoR Printed Men Polo Neck Brown T-Shirt - Buy VeBNoR Printed Men Polo Neck Brown T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "2330f8a3a3ed803d4de6db03",
+      "path": "media/images/2330f8a3a3ed803d4de6db03/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/b/v/s-ts135-vebnor-original-imahq5prugjfsghp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/b/v/s-ts135-vebnor-original-imahq5prugjfsghp.jpeg?q=100",
+        "local_path": "../../media/images/2330f8a3a3ed803d4de6db03/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/s/q/s-ts135-vebnor-original-imahq5prppd67w5j.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/s/q/s-ts135-vebnor-original-imahq5prppd67w5j.jpeg?q=100",
+        "local_path": "../../media/images/2330f8a3a3ed803d4de6db03/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/p/w/s-ts135-vebnor-original-imahq5prdqgcgs4s.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/p/w/s-ts135-vebnor-original-imahq5prdqgcgs4s.jpeg?q=100",
+        "local_path": "../../media/images/2330f8a3a3ed803d4de6db03/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/k/2/s-ts135-vebnor-original-imahq5prenfhzh4t.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/k/2/s-ts135-vebnor-original-imahq5prenfhzh4t.jpeg?q=100",
+        "local_path": "../../media/images/2330f8a3a3ed803d4de6db03/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/k/z/s-ts135-vebnor-original-imahq5prvuhzvkgh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/k/z/s-ts135-vebnor-original-imahq5prvuhzvkgh.jpeg?q=100",
+        "local_path": "../../media/images/2330f8a3a3ed803d4de6db03/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Printed Men Polo Neck Brown T-Shirt",
+      "description": "VeBNoR Printed Men Polo Neck Brown T-Shirt - Buy VeBNoR Printed Men Polo Neck Brown T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/b/v/s-ts135-vebnor-original-imahq5prugjfsghp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/s/q/s-ts135-vebnor-original-imahq5prppd67w5j.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/p/w/s-ts135-vebnor-original-imahq5prdqgcgs4s.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/k/2/s-ts135-vebnor-original-imahq5prenfhzh4t.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/k/z/s-ts135-vebnor-original-imahq5prvuhzvkgh.jpeg?q=70"
+      ],
+      "sku": "TSHHFH6ZVUZBNZST",
+      "color": "Brown",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 825,
+        "ratingCount": 15435,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 281,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "HARI PRAKASH  RANA ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-10",
+          "reviewBody": "It is very good this price range in the market",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Chandrakant Dewangan",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-17",
+          "reviewBody": "Superb",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Shafiullah",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-03",
+          "reviewBody": "The product has received shown as picture fitting is nice buy it perfect size . Soft and breathable, worthy for the price",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

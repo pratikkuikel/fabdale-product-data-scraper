@@ -1,0 +1,172 @@
+{
+  "product_id": "3649",
+  "sku": "Fab-Sweatshirt-DRST-009BL-XXL",
+  "product": {
+    "name": "Dapper.Co Wide horizontal stripes  T-Shirt",
+    "parent_id": "5435",
+    "notes": "https://www.flipkart.com/dry-state-striped-men-polo-neck-blue-pink-t-shirt/p/itm62cf1152cdab3?pid=TSHGUF5FZ8NWJBYY&marketplace=FLIPKART&lid=LSTTSHGUF5FZ8NWJBYYTJPXON&swatchAttr=size&pageUID=1773160494151"
+  },
+  "source_bundle": {
+    "key": "pid-TSHGUF5FZ8NWJBYY",
+    "path": "../../sources/pid-TSHGUF5FZ8NWJBYY/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/dry-state-striped-men-polo-neck-blue-pink-t-shirt/p/itm62cf1152cdab3?pid=TSHGUF5FZ8NWJBYY&lid=LSTTSHGUF5FZ8NWJBYYTJPXON&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:49:13.034Z",
+    "final_url": "https://www.flipkart.com/dry-state-striped-men-polo-neck-blue-pink-t-shirt/p/itm62cf1152cdab3?pid=TSHGUF5FZ8NWJBYY&lid=LSTTSHGUF5FZ8NWJBYYTJPXON&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:49:25.176Z"
+  },
+  "content": {
+    "title": "THE DRY STATE Men Striped Polo Neck Pure Cotton Blue, Pink T-Shir...more",
+    "short_description": "Fabric: Pure Cotton\nPattern: Striped\nSleeve: Full Sleeve\nNeck Type: Polo Neck",
+    "description": "Stylish Striped Pattern\nIntroducing a men's polo neck T-shirt with a stylish striped pattern. The combination of blue and pi…\n\nComfortable and Breathable Fabric\nCrafted from pure cotton, this T-shirt offers a soft and comfortable feel against the skin. The brea…\n\nVersatile for Any Casual Occasion\nDesigned for casual occasions, this T-shirt is a versatile addition to your wardrobe. Pair it with y…\n\nSlim Fit Design\nWith its slim fit design, this T-shirt offers a sleek and modern silhouette. The slim fit contours t…",
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Pure Cotton",
+      "Neck Type": "Polo Neck",
+      "Pattern": "Striped"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "d93c4383110b13e1f9e44149",
+      "path": "media/images/d93c4383110b13e1f9e44149/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/7/m/p/m-2022-the-dry-state-original-imaguf58npdgnzgf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/7/m/p/m-2022-the-dry-state-original-imaguf58npdgnzgf.jpeg?q=100",
+        "local_path": "../../media/images/d93c4383110b13e1f9e44149/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/r/v/f/m-2022-the-dry-state-original-imaguf58hsysgnzq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/r/v/f/m-2022-the-dry-state-original-imaguf58hsysgnzq.jpeg?q=100",
+        "local_path": "../../media/images/d93c4383110b13e1f9e44149/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/b/j/l/m-2022-the-dry-state-original-imaguf58ek8hwhhd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/b/j/l/m-2022-the-dry-state-original-imaguf58ek8hwhhd.jpeg?q=100",
+        "local_path": "../../media/images/d93c4383110b13e1f9e44149/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/y/f/3/xxl-2022-the-dry-state-original-imaguf5fuecbpgez.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/y/f/3/xxl-2022-the-dry-state-original-imaguf5fuecbpgez.jpeg?q=100",
+        "local_path": "../../media/images/d93c4383110b13e1f9e44149/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_50639e5c798449ce8230cc63c180fa84.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_50639e5c798449ce8230cc63c180fa84.jpg?q=80",
+        "local_path": "../../media/images/d93c4383110b13e1f9e44149/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/8/u/l/l-866-2-866-3-ftx-original-imahacrztzpqzvct.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/8/u/l/l-866-2-866-3-ftx-original-imahacrztzpqzvct.jpeg?q=100",
+        "local_path": "../../media/images/d93c4383110b13e1f9e44149/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/0/p/8/l-723-2-4-6-8-ftx-resized-original-imah9mfwgnbdc6gr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/0/p/8/l-723-2-4-6-8-ftx-resized-original-imah9mfwgnbdc6gr.jpeg?q=100",
+        "local_path": "../../media/images/d93c4383110b13e1f9e44149/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/4/i/c/xl-359170-the-dry-state-original-imahpkttzgfm7zfg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/4/i/c/xl-359170-the-dry-state-original-imahpkttzgfm7zfg.jpeg?q=100",
+        "local_path": "../../media/images/d93c4383110b13e1f9e44149/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/1/d/b/s-35953-the-dry-state-original-imahpq9ez9vpyufh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/1/d/b/s-35953-the-dry-state-original-imahpq9ez9vpyufh.jpeg?q=100",
+        "local_path": "../../media/images/d93c4383110b13e1f9e44149/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/w/0/o/xxl-35911-the-dry-state-original-imahpjpdzhzheugh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/w/0/o/xxl-35911-the-dry-state-original-imahpjpdzhzheugh.jpeg?q=100",
+        "local_path": "../../media/images/d93c4383110b13e1f9e44149/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/7/k/g/xxl-t20-wafflehangershoot-maroon-xxl-starvy-resized-original-imahhh7fyxpyfrr6.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/7/k/g/xxl-t20-wafflehangershoot-maroon-xxl-starvy-resized-original-imahhh7fyxpyfrr6.jpeg?q=100",
+        "local_path": "../../media/images/d93c4383110b13e1f9e44149/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/j/q/l-75510-the-dry-state-original-imahpmp7f2w7ew9t.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/j/q/l-75510-the-dry-state-original-imahpmp7f2w7ew9t.jpeg?q=100",
+        "local_path": "../../media/images/d93c4383110b13e1f9e44149/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/j/q/m-polo-neck-t-shirt-for-men-metronaut-original-imahmusfqhwh8uqy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/j/q/m-polo-neck-t-shirt-for-men-metronaut-original-imahmusfqhwh8uqy.jpeg?q=100",
+        "local_path": "../../media/images/d93c4383110b13e1f9e44149/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Stylish Striped Pattern",
+          "body": "Introducing a men's polo neck T-shirt with a stylish striped pattern. The combination of blue and pi…"
+        },
+        {
+          "heading": "Comfortable and Breathable Fabric",
+          "body": "Crafted from pure cotton, this T-shirt offers a soft and comfortable feel against the skin. The brea…"
+        },
+        {
+          "heading": "Versatile for Any Casual Occasion",
+          "body": "Designed for casual occasions, this T-shirt is a versatile addition to your wardrobe. Pair it with y…"
+        },
+        {
+          "heading": "Slim Fit Design",
+          "body": "With its slim fit design, this T-shirt offers a sleek and modern silhouette. The slim fit contours t…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Pure Cotton",
+        "Neck Type": "Polo Neck",
+        "Pattern": "Striped"
+      },
+      "specifications": {}
+    }
+  }
+}

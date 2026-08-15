@@ -1,0 +1,187 @@
+{
+  "product_id": "3877",
+  "sku": "Fab-TShirt-TRPR-022BK-S",
+  "product": {
+    "name": "TeeCulture T R I P R printed  T-Shirt",
+    "parent_id": "5220",
+    "notes": "https://www.flipkart.com/tripr-solid-men-henley-neck-black-t-shirt/p/itm6fc7432990bfc?pid=TSHHFKF52TGPDGS5&lid=LSTTSHHFKF52TGPDGS56JMQAG&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHHFKF52TGPDGS5",
+    "path": "../../sources/pid-TSHHFKF52TGPDGS5/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tripr-solid-men-henley-neck-black-t-shirt/p/itm6fc7432990bfc?pid=TSHHFKF52TGPDGS5&lid=LSTTSHHFKF52TGPDGS56JMQAG&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T10:29:38.350Z",
+    "final_url": "https://www.flipkart.com/tripr-solid-men-henley-neck-black-t-shirt/p/itm6fc7432990bfc?pid=TSHHFKF52TGPDGS5&lid=LSTTSHHFKF52TGPDGS56JMQAG&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:30:01.335Z"
+  },
+  "content": {
+    "title": "TRIPR Solid Men Henley Neck Black T-Shirt",
+    "short_description": "TRIPR Solid Men Henley Neck Black T-Shirt - Buy TRIPR Solid Men Henley Neck Black T-Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "TRIPR Solid Men Henley Neck Black T-Shirt - Buy TRIPR Solid Men Henley Neck Black T-Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0ba5941be48e543d53e13723",
+      "path": "media/images/0ba5941be48e543d53e13723/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/5/r/-resized-original-imahjzpvfpgfwsd7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/5/r/-resized-original-imahjzpvfpgfwsd7.jpeg?q=100",
+        "local_path": "../../media/images/0ba5941be48e543d53e13723/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/i/z/-original-imahjzbh47mdhck4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/i/z/-original-imahjzbh47mdhck4.jpeg?q=100",
+        "local_path": "../../media/images/0ba5941be48e543d53e13723/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/5/v/-original-imahjzbh56fte5qc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/5/v/-original-imahjzbh56fte5qc.jpeg?q=100",
+        "local_path": "../../media/images/0ba5941be48e543d53e13723/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/b/c/-original-imahjzpvn3frbxww.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/b/c/-original-imahjzpvn3frbxww.jpeg?q=100",
+        "local_path": "../../media/images/0ba5941be48e543d53e13723/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/s/m/-original-imahjzpvgpyeyxtf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/s/m/-original-imahjzpvgpyeyxtf.jpeg?q=100",
+        "local_path": "../../media/images/0ba5941be48e543d53e13723/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "TRIPR Solid Men Henley Neck Black T-Shirt",
+      "description": "TRIPR Solid Men Henley Neck Black T-Shirt - Buy TRIPR Solid Men Henley Neck Black T-Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/5/r/-resized-original-imahjzpvfpgfwsd7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/i/z/-original-imahjzbh47mdhck4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/5/v/-original-imahjzbh56fte5qc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/n/b/c/-original-imahjzpvn3frbxww.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/s/m/-original-imahjzpvgpyeyxtf.jpeg?q=70"
+      ],
+      "sku": "TSHHFKF52TGPDGS5",
+      "color": "Black",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 6532,
+        "ratingCount": 70049,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "TRIPR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 278,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2020-10-25",
+          "reviewBody": "This product is really awesome",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Raju Sara",
+            "@type": "Person"
+          },
+          "datePublished": "2018-02-23",
+          "reviewBody": "Good looking nice....",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Irfan Diwan",
+            "@type": "Person"
+          },
+          "datePublished": "2019-12-07",
+          "reviewBody": "Supar he",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

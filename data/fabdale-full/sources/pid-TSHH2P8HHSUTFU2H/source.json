@@ -1,0 +1,195 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-self-design-men-round-neck-blue-t-shirt/p/itmd3912e3383045?pid=TSHH2P8HHSUTFU2H&lid=LSTTSHH2P8HHSUTFU2HK4OICW&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:21:56.848Z",
+    "final_url": "https://www.flipkart.com/kajaru-self-design-men-round-neck-blue-t-shirt/p/itmd3912e3383045?pid=TSHH2P8HHSUTFU2H&lid=LSTTSHH2P8HHSUTFU2HK4OICW&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:22:13.202Z"
+  },
+  "content": {
+    "title": "KAJARU Self Design Men Round Neck Blue T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Self Design\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "Unique Self Design\nFeaturing a distinctive self design pattern, this men's T-shirt adds a touch of individuality to you…\n\nComfortable and Versatile\nCrafted from high-quality polyester fabric, this T-shirt offers a comfortable and lightweight feel. …\n\nEasy Maintenance\nTo keep this T-shirt looking its best, simply follow the regular machine wash instructions. This mak…\n\nPerfect for Casual Occasions\nWhether you're meeting friends for a coffee or going for a casual outing, this T-shirt is the perfec…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Self Design"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/b/x/-resized-original-imahfbxredex6ugg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/b/x/-resized-original-imahfbxredex6ugg.jpeg?q=100",
+        "local_path": "../../media/images/bc029e3f70b6ac4035579d8c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/e/j/b/m-tsrt-22-kajaru-original-imahc35aufn9ztbg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/e/j/b/m-tsrt-22-kajaru-original-imahc35aufn9ztbg.jpeg?q=100",
+        "local_path": "../../media/images/bc029e3f70b6ac4035579d8c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/h/8/-original-imahfbxqrnhmwv2b.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/h/8/-original-imahfbxqrnhmwv2b.jpeg?q=100",
+        "local_path": "../../media/images/bc029e3f70b6ac4035579d8c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/e/p/-original-imahfbxqfkxkzfmt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/e/p/-original-imahfbxqfkxkzfmt.jpeg?q=100",
+        "local_path": "../../media/images/bc029e3f70b6ac4035579d8c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Self Design Men Round Neck Blue T-Shirt",
+      "description": "KAJARU Self Design Men Round Neck Blue T-Shirt - Buy KAJARU Self Design Men Round Neck Blue T-Shirt For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/b/x/-resized-original-imahfbxredex6ugg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/e/j/b/m-tsrt-22-kajaru-original-imahc35aufn9ztbg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/h/8/-original-imahfbxqrnhmwv2b.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/e/p/-original-imahfbxqfkxkzfmt.jpeg?q=70"
+      ],
+      "sku": "TSHH2P8HHSUTFU2H",
+      "color": "SKY BLUE",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 283,
+        "ratingCount": 6774,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 237,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "KhiLesh Sahu",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-21",
+          "reviewBody": "This ProDuct Is NiCe AnD ComfortabLe 🙂",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Nikhil Kashyap",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-10",
+          "reviewBody": "Very good 👍👍👍 product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Prasda Sahoo",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-20",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Unique Self Design",
+          "body": "Featuring a distinctive self design pattern, this men's T-shirt adds a touch of individuality to you…"
+        },
+        {
+          "heading": "Comfortable and Versatile",
+          "body": "Crafted from high-quality polyester fabric, this T-shirt offers a comfortable and lightweight feel. …"
+        },
+        {
+          "heading": "Easy Maintenance",
+          "body": "To keep this T-shirt looking its best, simply follow the regular machine wash instructions. This mak…"
+        },
+        {
+          "heading": "Perfect for Casual Occasions",
+          "body": "Whether you're meeting friends for a coffee or going for a casual outing, this T-shirt is the perfec…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Self Design"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bc029e3f70b6ac4035579d8c",
+      "path": "media/images/bc029e3f70b6ac4035579d8c/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

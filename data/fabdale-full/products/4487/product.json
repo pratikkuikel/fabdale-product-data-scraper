@@ -1,0 +1,39 @@
+{
+  "product_id": "4487",
+  "sku": "Fab-Kurta-VBNR-001PK-S",
+  "product": {
+    "name": "Verve  Art Silk Solid Straight Kurta",
+    "parent_id": "5281",
+    "notes": "https://www.flipkart.com/vebnor-men-solid-straight-kurta/p/itmc3534cb580811?pid=KTAH5XQJ4ASHKA7Y&marketplace=FLIPKART&lid=LSTKTAH5XQJ4ASHKA7YWXFVVR&swatchAttr=size&pageUID=1774199244411"
+  },
+  "source_bundle": {
+    "key": "pid-KTAH5XQJ4ASHKA7Y",
+    "path": "../../sources/pid-KTAH5XQJ4ASHKA7Y/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-men-solid-straight-kurta/p/itmc3534cb580811?pid=KTAH5XQJ4ASHKA7Y&marketplace=FLIPKART&lid=LSTKTAH5XQJ4ASHKA7YWXFVVR&swatchAttr=size&pageUID=1774199244411",
+    "final_url": "https://www.flipkart.com/vebnor-men-solid-straight-kurta/p/itmc3534cb580811?pid=KTAH5XQJ4ASHKA7Y&marketplace=FLIPKART&lid=LSTKTAH5XQJ4ASHKA7YWXFVVR&swatchAttr=size&pageUID=1774199244411",
+    "scraped_at": "2026-08-15T15:18:11.675Z"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "browserContext.newPage: Target page, context or browser has been closed",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T15:18:11.675Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": null
+  }
+}

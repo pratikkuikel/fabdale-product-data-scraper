@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-TSHHFTCNAHGP7SGT",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3660",
+    "3661",
+    "3662",
+    "3663",
+    "3664",
+    "5245"
+  ],
+  "source_path": "sources/pid-TSHHFTCNAHGP7SGT/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T09:52:09.212Z",
+  "completed_at": "2026-08-15T09:52:33.604Z"
+}

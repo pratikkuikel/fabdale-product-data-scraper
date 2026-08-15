@@ -1,0 +1,44 @@
+{
+  "key": "d69888a1f23c2e9aa0c5dafc",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T13:01:39.813Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/e/t/xl-schiffli-maroon-kurta-lyplo-original-imahcc43uvcrgnj4.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/e/t/xl-schiffli-maroon-kurta-lyplo-original-imahcc43uvcrgnj4.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/c/i/b/xl-schiffli-maroon-kurta-lyplo-original-imahcc4333fhszgm.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/c/i/b/xl-schiffli-maroon-kurta-lyplo-original-imahcc4333fhszgm.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/w/q/xl-schiffli-maroon-kurta-lyplo-original-imahcc43s55z5npq.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/w/q/xl-schiffli-maroon-kurta-lyplo-original-imahcc43s55z5npq.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/p/t/xl-schiffli-maroon-kurta-lyplo-original-imahcc43fhfzz7ah.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/p/t/xl-schiffli-maroon-kurta-lyplo-original-imahcc43fhfzz7ah.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/a/w/xl-schiffli-maroon-kurta-lyplo-original-imahcc43jbuym4hn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/a/w/xl-schiffli-maroon-kurta-lyplo-original-imahcc43jbuym4hn.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

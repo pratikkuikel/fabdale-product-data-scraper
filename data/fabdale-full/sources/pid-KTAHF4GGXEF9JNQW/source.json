@@ -1,0 +1,193 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm6873832d9ed9d?pid=KTAHF4GGXEF9JNQW&marketplace=FLIPKART&lid=LSTKTAHF4GGXEF9JNQWX8K5V9&swatchAttr=size&pageUID=1773818354483",
+    "scraped_at": "2026-08-15T10:46:36.150Z",
+    "final_url": "https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm6873832d9ed9d?pid=KTAHF4GGXEF9JNQW&marketplace=FLIPKART&lid=LSTKTAHF4GGXEF9JNQWX8K5V9&swatchAttr=size&pageUID=1773818354483"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:47:29.853Z"
+  },
+  "content": {
+    "title": "CELLUX Men Printed Straight Kurta",
+    "short_description": "Color: Multicolor\nFabric: Cotton Blend\nPattern: Printed\nType: Straight\nFit: Regular",
+    "description": "All-Over Printed Design\nFeaturing an all-over printed design, this kurta showcases intricate patterns and motifs that cover …\n\nTraditional Mandarin Neck\nThe mandarin/chinese neck adds a touch of traditional elegance to this kurta. It features a stand-up…\n\nHigh-Quality Cotton Blend Fabric\nCrafted from a high-quality cotton blend fabric, this kurta offers a perfect balance between comfort…",
+    "specifications": {
+      "Pattern": "Printed",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Fit": "Regular",
+      "Color": "Multicolor"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/j/d/s-printed-kurta-cellux-resized-original-imahf4gg2rgkhggh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/j/d/s-printed-kurta-cellux-resized-original-imahf4gg2rgkhggh.jpeg?q=100",
+        "local_path": "../../media/images/c87a571e1e87832ea70a99d1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/l/b/s-printed-kurta-cellux-original-imahf4ggqfcyykrj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/l/b/s-printed-kurta-cellux-original-imahf4ggqfcyykrj.jpeg?q=100",
+        "local_path": "../../media/images/c87a571e1e87832ea70a99d1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/p/3/s-printed-kurta-cellux-original-imahf4ggadrjps9x.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/p/3/s-printed-kurta-cellux-original-imahf4ggadrjps9x.jpeg?q=100",
+        "local_path": "../../media/images/c87a571e1e87832ea70a99d1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/8/i/e/s-printed-kurta-cellux-original-imahf4ggyyfmhkre.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/8/i/e/s-printed-kurta-cellux-original-imahf4ggyyfmhkre.jpeg?q=100",
+        "local_path": "../../media/images/c87a571e1e87832ea70a99d1/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "CELLUX Men Printed Straight Kurta",
+      "description": "CELLUX Men Printed Straight Kurta - Buy CELLUX Men Printed Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/j/d/s-printed-kurta-cellux-resized-original-imahf4gg2rgkhggh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/l/b/s-printed-kurta-cellux-original-imahf4ggqfcyykrj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/p/3/s-printed-kurta-cellux-original-imahf4ggadrjps9x.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/8/i/e/s-printed-kurta-cellux-original-imahf4ggyyfmhkre.jpeg?q=70"
+      ],
+      "sku": "KTAHF4GGXEF9JNQW",
+      "color": "Multicolor 6",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 46,
+        "ratingCount": 806,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "CELLUX",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 301,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-01",
+          "reviewBody": "Good 😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Arpit Pandey",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-02",
+          "reviewBody": "Nice Product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-28",
+          "reviewBody": "Best for photography 😀",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "All-Over Printed Design",
+          "body": "Featuring an all-over printed design, this kurta showcases intricate patterns and motifs that cover …"
+        },
+        {
+          "heading": "Traditional Mandarin Neck",
+          "body": "The mandarin/chinese neck adds a touch of traditional elegance to this kurta. It features a stand-up…"
+        },
+        {
+          "heading": "High-Quality Cotton Blend Fabric",
+          "body": "Crafted from a high-quality cotton blend fabric, this kurta offers a perfect balance between comfort…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Fit": "Regular",
+        "Color": "Multicolor"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c87a571e1e87832ea70a99d1",
+      "path": "media/images/c87a571e1e87832ea70a99d1/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

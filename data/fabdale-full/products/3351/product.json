@@ -1,0 +1,197 @@
+{
+  "product_id": "3351",
+  "sku": "Fab-TShirt-KAJR-018MR-M",
+  "product": {
+    "name": "Kavish Vertical Striping T-Shirt",
+    "parent_id": "5421",
+    "notes": "https://www.flipkart.com/kajaru-striped-men-zip-neck-black-maroon-t-shirt/p/itma3e69351d0f15?pid=TSHHET2YZHHXMCYS&marketplace=FLIPKART&lid=LSTTSHHET2YZHHXMCYSUBIVE0&swatchAttr=size&pageUID=1773054352882"
+  },
+  "source_bundle": {
+    "key": "pid-TSHHET2YZHHXMCYS",
+    "path": "../../sources/pid-TSHHET2YZHHXMCYS/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-zip-neck-black-maroon-t-shirt/p/itma3e69351d0f15?pid=TSHHET2YZHHXMCYS&marketplace=FLIPKART&lid=LSTTSHHET2YZHHXMCYSUBIVE0&swatchAttr=size&pageUID=1773054352882",
+    "scraped_at": "2026-08-15T09:19:57.219Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-zip-neck-black-maroon-t-shirt/p/itma3e69351d0f15?pid=TSHHET2YZHHXMCYS&marketplace=FLIPKART&lid=LSTTSHHET2YZHHXMCYSUBIVE0&swatchAttr=size&pageUID=1773054352882"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:20:02.955Z"
+  },
+  "content": {
+    "title": "KAJARU Self Design Men Zip Neck Black, Maroon T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Self Design\nSleeve: Half Sleeve\nNeck Type: Zip Neck",
+    "description": "KAJARU Self Design Men Zip Neck Black, Maroon T-Shirt - Buy KAJARU Self Design Men Zip Neck Black, Maroon T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Zip Neck",
+      "Pattern": "Self Design"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1ae2ff5cb2ffe2485215ec39",
+      "path": "media/images/1ae2ff5cb2ffe2485215ec39/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/8/g/k/m-polo-8014-kajaru-original-imahet2ypdpbkgun.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/8/g/k/m-polo-8014-kajaru-original-imahet2ypdpbkgun.jpeg?q=100",
+        "local_path": "../../media/images/1ae2ff5cb2ffe2485215ec39/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/y/i/xxl-polo-8043-kajaru-original-imahehg9zuwwhwfe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/y/i/xxl-polo-8043-kajaru-original-imahehg9zuwwhwfe.jpeg?q=100",
+        "local_path": "../../media/images/1ae2ff5cb2ffe2485215ec39/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/n/j/m-polo-8043-kajaru-original-imahehg95uszmmbh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/n/j/m-polo-8043-kajaru-original-imahehg95uszmmbh.jpeg?q=100",
+        "local_path": "../../media/images/1ae2ff5cb2ffe2485215ec39/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/f/q/m-polo-8043-kajaru-original-imahehg9qynywwvt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/f/q/m-polo-8043-kajaru-original-imahehg9qynywwvt.jpeg?q=100",
+        "local_path": "../../media/images/1ae2ff5cb2ffe2485215ec39/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/x/c/m-polo-8043-kajaru-original-imahehg9ptcntuyk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/x/c/m-polo-8043-kajaru-original-imahehg9ptcntuyk.jpeg?q=100",
+        "local_path": "../../media/images/1ae2ff5cb2ffe2485215ec39/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Self Design Men Zip Neck Black, Maroon T-Shirt",
+      "description": "KAJARU Self Design Men Zip Neck Black, Maroon T-Shirt - Buy KAJARU Self Design Men Zip Neck Black, Maroon T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/8/g/k/m-polo-8014-kajaru-original-imahet2ypdpbkgun.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/y/i/xxl-polo-8043-kajaru-original-imahehg9zuwwhwfe.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/n/j/m-polo-8043-kajaru-original-imahehg95uszmmbh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/f/q/m-polo-8043-kajaru-original-imahehg9qynywwvt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/x/c/m-polo-8043-kajaru-original-imahehg9ptcntuyk.jpeg?q=70"
+      ],
+      "sku": "TSHHET2YZHHXMCYS",
+      "color": "BLACK, MAROON",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 4580,
+        "ratingCount": 87320,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 281,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "DEEPAK  GOSWAMI ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-24",
+          "reviewBody": "Febric like premium quality, Colour, Style, Comfort, Stitching Quality is so fabulous.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-26",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Mohammed",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-14",
+          "reviewBody": "It is awesome",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Zip Neck",
+        "Pattern": "Self Design"
+      },
+      "specifications": {}
+    }
+  }
+}

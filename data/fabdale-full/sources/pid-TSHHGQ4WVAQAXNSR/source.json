@@ -1,0 +1,179 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/tripr-printed-men-polo-neck-black-grey-t-shirt/p/itm5df3d0568f5d8?pid=TSHHGQ4WVAQAXNSR&lid=LSTTSHHGQ4WVAQAXNSRNENBES&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T10:40:33.439Z",
+    "final_url": "https://www.flipkart.com/tripr-printed-men-polo-neck-black-grey-t-shirt/p/itm5df3d0568f5d8?pid=TSHHGQ4WVAQAXNSR&lid=LSTTSHHGQ4WVAQAXNSRNENBES&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:40:51.361Z"
+  },
+  "content": {
+    "title": "TRIPR Men Printed Polo Neck Cotton Blend Black, Grey T-Shirt",
+    "short_description": "Fabric: Cotton Blend\nPattern: Printed\nSleeve: Full Sleeve\nNeck Type: Polo Neck",
+    "description": null,
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Cotton Blend",
+      "Neck Type": "Polo Neck",
+      "Pattern": "Printed"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-t-shirt/e/j/r/xl-tblgypoloful-spy-p59-tripr-original-imahgs8qeqmvptdw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-t-shirt/e/j/r/xl-tblgypoloful-spy-p59-tripr-original-imahgs8qeqmvptdw.jpeg?q=100",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-t-shirt/j/k/l/xxl-tblgypoloful-spy-p59-tripr-original-imahgs8qmqte5drh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-t-shirt/j/k/l/xxl-tblgypoloful-spy-p59-tripr-original-imahgs8qmqte5drh.jpeg?q=100",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-t-shirt/g/x/e/xl-tblgypoloful-spy-p59-tripr-original-imahgs8qqrs6gdf5.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-t-shirt/g/x/e/xl-tblgypoloful-spy-p59-tripr-original-imahgs8qqrs6gdf5.jpeg?q=100",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-t-shirt/t/d/u/xl-tblgypoloful-spy-p59-tripr-original-imahgs8qf5n83xt3.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-t-shirt/t/d/u/xl-tblgypoloful-spy-p59-tripr-original-imahgs8qf5n83xt3.jpeg?q=100",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-t-shirt/u/u/l/s-tblgypoloful-spy-p59-tripr-original-imahgs8qrvhhbczf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/shopsy-t-shirt/u/u/l/s-tblgypoloful-spy-p59-tripr-original-imahgs8qrvhhbczf.jpeg?q=100",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_46dd56c62cf04b99877304d41b6fe438.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_46dd56c62cf04b99877304d41b6fe438.jpg?q=80",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_0b81103860f0425cb38534369fe94dcc.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_0b81103860f0425cb38534369fe94dcc.jpg?q=80",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7d100236701b472d9e5d1aa5f15c03cf.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7d100236701b472d9e5d1aa5f15c03cf.jpg?q=80",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a5fe9618f1d64d0fae7e03fdbfa8e964.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a5fe9618f1d64d0fae7e03fdbfa8e964.jpg?q=80",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_2c7acef9b70c4d0bbb25d02d1bdf88c9.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_2c7acef9b70c4d0bbb25d02d1bdf88c9.jpg?q=80",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/u/l/3xl-tdgy-bl-gy-nvrnplaind164-tripr-resized-original-imahkmzgjrxpy5z9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/u/l/3xl-tdgy-bl-gy-nvrnplaind164-tripr-resized-original-imahkmzgjrxpy5z9.jpeg?q=100",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/z/8/l-tnv-wt-bl-gyrn-nop-plaind164-tripr-original-imahmfsk9zfvrwys.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/z/8/l-tnv-wt-bl-gyrn-nop-plaind164-tripr-original-imahmfsk9zfvrwys.jpeg?q=100",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/5/h/i/s-ts135-vebnor-original-imahpgh2zecchgfz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/5/h/i/s-ts135-vebnor-original-imahpgh2zecchgfz.jpeg?q=100",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/x/0/i/xxl-tnv-gy-mr-blrn-dp-plaind164-tripr-resized-original-imahgfg27ct99bpd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/x/0/i/xxl-tnv-gy-mr-blrn-dp-plaind164-tripr-resized-original-imahgfg27ct99bpd.jpeg?q=100",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/f/h/xxl-tbl-dgy-nvrnplaind164-tripr-resized-original-imah7ush28jczsgf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/f/h/xxl-tbl-dgy-nvrnplaind164-tripr-resized-original-imah7ush28jczsgf.jpeg?q=100",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/5/s/l/s-togr-blrnplaind164-tripr-original-imahgdj59utzhhhv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/5/s/l/s-togr-blrnplaind164-tripr-original-imahgdj59utzhhhv.jpeg?q=100",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/5/m/s-ts00200080-impakto-original-imahhpjazrfgzvds.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/r/5/m/s-ts00200080-impakto-original-imahhpjazrfgzvds.jpeg?q=100",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-017.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sweatshirt/5/f/x/xxl-y08yk6oi6b-try-this-resized-original-imahg99qus6rtffx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/sweatshirt/5/f/x/xxl-y08yk6oi6b-try-this-resized-original-imahg99qus6rtffx.jpeg?q=100",
+        "local_path": "../../media/images/944a5961b697ac9958b49f57/assets/images/image-018.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Cotton Blend",
+        "Neck Type": "Polo Neck",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "944a5961b697ac9958b49f57",
+      "path": "media/images/944a5961b697ac9958b49f57/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

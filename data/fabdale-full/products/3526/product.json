@@ -1,0 +1,187 @@
+{
+  "product_id": "3526",
+  "sku": "Fab-Tshirt-VEBN-003PL-M",
+  "product": {
+    "name": "Verve Cotton-blend jersey",
+    "parent_id": "5426",
+    "notes": "https://www.flipkart.com/vebnor-solid-men-round-neck-purple-t-shirt/p/itm6b13678bddefe?pid=TSHHBWEE4AFZFWVF&marketplace=FLIPKART&lid=LSTTSHHBWEE4AFZFWVF63Z9TJ&swatchAttr=size&pageUID=1773139107109"
+  },
+  "source_bundle": {
+    "key": "pid-TSHHBWEE4AFZFWVF",
+    "path": "../../sources/pid-TSHHBWEE4AFZFWVF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-solid-men-round-neck-purple-t-shirt/p/itm6b13678bddefe?pid=TSHHBWEE4AFZFWVF&marketplace=FLIPKART&lid=LSTTSHHBWEE4AFZFWVF63Z9TJ&swatchAttr=size&pageUID=1773139107109",
+    "scraped_at": "2026-08-15T09:37:36.826Z",
+    "final_url": "https://www.flipkart.com/vebnor-solid-men-round-neck-purple-t-shirt/p/itm6b13678bddefe?pid=TSHHBWEE4AFZFWVF&marketplace=FLIPKART&lid=LSTTSHHBWEE4AFZFWVF63Z9TJ&swatchAttr=size&pageUID=1773139107109"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:37:43.085Z"
+  },
+  "content": {
+    "title": "VeBNoR Self Design Men Round Neck Purple T-Shirt",
+    "short_description": "VeBNoR Self Design Men Round Neck Purple T-Shirt - Buy VeBNoR Self Design Men Round Neck Purple T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "VeBNoR Self Design Men Round Neck Purple T-Shirt - Buy VeBNoR Self Design Men Round Neck Purple T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "d8ab16179b61241070cc6030",
+      "path": "media/images/d8ab16179b61241070cc6030/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/h/a/s-ts85-vebnor-original-imahns47ew2vzuqj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/h/a/s-ts85-vebnor-original-imahns47ew2vzuqj.jpeg?q=100",
+        "local_path": "../../media/images/d8ab16179b61241070cc6030/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/p/6/s-ts85-vebnor-original-imahns4fj3gvwh9r.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/p/6/s-ts85-vebnor-original-imahns4fj3gvwh9r.jpeg?q=100",
+        "local_path": "../../media/images/d8ab16179b61241070cc6030/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/d/f/s-ts85-vebnor-original-imahns4fs5vsmygf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/d/f/s-ts85-vebnor-original-imahns4fs5vsmygf.jpeg?q=100",
+        "local_path": "../../media/images/d8ab16179b61241070cc6030/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/c/i/s-ts85-vebnor-original-imahns4fx2nwukf7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/c/i/s-ts85-vebnor-original-imahns4fx2nwukf7.jpeg?q=100",
+        "local_path": "../../media/images/d8ab16179b61241070cc6030/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/b/r/s-ts85-vebnor-original-imahns4g72ruanrn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/b/r/s-ts85-vebnor-original-imahns4g72ruanrn.jpeg?q=100",
+        "local_path": "../../media/images/d8ab16179b61241070cc6030/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Self Design Men Round Neck Purple T-Shirt",
+      "description": "VeBNoR Self Design Men Round Neck Purple T-Shirt - Buy VeBNoR Self Design Men Round Neck Purple T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/h/a/s-ts85-vebnor-original-imahns47ew2vzuqj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/p/6/s-ts85-vebnor-original-imahns4fj3gvwh9r.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/d/f/s-ts85-vebnor-original-imahns4fs5vsmygf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/g/c/i/s-ts85-vebnor-original-imahns4fx2nwukf7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/b/r/s-ts85-vebnor-original-imahns4g72ruanrn.jpeg?q=70"
+      ],
+      "sku": "TSHHBWEE4AFZFWVF",
+      "color": "Dusty Purple",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 4462,
+        "ratingCount": 89074,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 256,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Akhilesh Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-29",
+          "reviewBody": "Nice t shirt I m happy 😊😊\nI am an engineer, I had ordered this t-shirt for site work, but after seeing it I did not wear it, it feels fun to wear it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Rumana  Mukadam ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-30",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-09",
+          "reviewBody": "Amazing product 😉\nStitching is very perfect 🤩 \nMateriale is very soft and good 😊 \nQuality also awesome 😍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

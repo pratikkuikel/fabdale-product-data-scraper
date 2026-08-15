@@ -1,0 +1,187 @@
+{
+  "product_id": "4255",
+  "sku": "Fab-KurtaSet-FUBR-012YL-XL",
+  "product": {
+    "name": "Festivo Knee-length straight kurta,",
+    "parent_id": "5375",
+    "notes": "https://www.flipkart.com/fubar-men-kurta-pyjama-set/p/itm1b90d46adf396?pid=ETHHF3SHZZ8PFSYZ&marketplace=FLIPKART&lid=LSTETHHF3SHZZ8PFSYZ9RI45M&swatchAttr=size&pageUID=1774617606442"
+  },
+  "source_bundle": {
+    "key": "pid-ETHHF3SHZZ8PFSYZ",
+    "path": "../../sources/pid-ETHHF3SHZZ8PFSYZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-men-kurta-pyjama-set/p/itm1b90d46adf396?pid=ETHHF3SHZZ8PFSYZ&marketplace=FLIPKART&lid=LSTETHHF3SHZZ8PFSYZ9RI45M&swatchAttr=size&pageUID=1774617606442",
+    "scraped_at": "2026-08-15T13:20:55.870Z",
+    "final_url": "https://www.flipkart.com/fubar-men-kurta-pyjama-set/p/itm1b90d46adf396?pid=ETHHF3SHZZ8PFSYZ&marketplace=FLIPKART&lid=LSTETHHF3SHZZ8PFSYZ9RI45M&swatchAttr=size&pageUID=1774617606442"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T13:21:51.176Z"
+  },
+  "content": {
+    "title": "FUBAR Men Kurta Pyjama Set",
+    "short_description": "FUBAR Men Kurta Pyjama Set - Buy FUBAR Men Kurta Pyjama Set For Only Rs. 2968.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "FUBAR Men Kurta Pyjama Set - Buy FUBAR Men Kurta Pyjama Set For Only Rs. 2968.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "d068de42750bbe8b3d8fab2c",
+      "path": "media/images/d068de42750bbe8b3d8fab2c/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/o/e/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3shavdm6fvg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/o/e/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3shavdm6fvg.jpeg?q=100",
+        "local_path": "../../media/images/d068de42750bbe8b3d8fab2c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/u/c/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3shjfw7an79.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/u/c/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3shjfw7an79.jpeg?q=100",
+        "local_path": "../../media/images/d068de42750bbe8b3d8fab2c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/i/g/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3shu2zt7zwf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/i/g/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3shu2zt7zwf.jpeg?q=100",
+        "local_path": "../../media/images/d068de42750bbe8b3d8fab2c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/m/q/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3shzgvm2c9z.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/m/q/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3shzgvm2c9z.jpeg?q=100",
+        "local_path": "../../media/images/d068de42750bbe8b3d8fab2c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/r/l/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3sh3bawjrf2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/r/l/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3sh3bawjrf2.jpeg?q=100",
+        "local_path": "../../media/images/d068de42750bbe8b3d8fab2c/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Men Kurta Pyjama Set",
+      "description": "FUBAR Men Kurta Pyjama Set - Buy FUBAR Men Kurta Pyjama Set For Only Rs. 2968.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/o/e/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3shavdm6fvg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/5/u/c/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3shjfw7an79.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/i/g/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3shu2zt7zwf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/m/q/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3shzgvm2c9z.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/q/r/l/xl-krtpj-magic-print-set-lmn-fubar-original-imahf3sh3bawjrf2.jpeg?q=70"
+      ],
+      "sku": "ETHHF3SHZZ8PFSYZ",
+      "color": "Haldi",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 3,
+        "ratingCount": 19,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 363,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Rubi Das",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-13",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Ankit Solanki",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-29",
+          "reviewBody": "Fubar always give best that's why ordered second time. Price quality fitting all is perfect. Loved this.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Gaurav Tiwari",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-13",
+          "reviewBody": "The quality is good as per the price.",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

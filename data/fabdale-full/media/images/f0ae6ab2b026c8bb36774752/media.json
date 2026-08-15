@@ -1,0 +1,37 @@
+{
+  "key": "f0ae6ab2b026c8bb36774752",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T12:41:53.349Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/0/h/m-men-printed-kurta-cellux-original-imagtfsmdgxybgfu.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/0/h/m-men-printed-kurta-cellux-original-imagtfsmdgxybgfu.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/1/t/m-men-printed-kurta-cellux-original-imagtfsmz9yyavxz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/1/t/m-men-printed-kurta-cellux-original-imagtfsmz9yyavxz.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/q/c/m-men-printed-kurta-cellux-original-imagtfsm2g6jf2hc.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/q/c/m-men-printed-kurta-cellux-original-imagtfsm2g6jf2hc.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/g/e/s-men-printed-kurta-and-pyjama-set-cotton-cellux-original-imagrepqhypmyuzz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/f/g/e/s-men-printed-kurta-and-pyjama-set-cotton-cellux-original-imagrepqhypmyuzz.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-self-design-men-polo-neck-green-t-shirt/p/itmdc2bf7cc38447?pid=TSHHEFG9WDTFQ5RM&marketplace=FLIPKART&lid=LSTTSHHEFG9WDTFQ5RM3KFTOV&swatchAttr=size&pageUID=1773051515411",
+    "scraped_at": "2026-08-15T09:13:55.200Z",
+    "final_url": "https://www.flipkart.com/kajaru-self-design-men-polo-neck-green-t-shirt/p/itmdc2bf7cc38447?pid=TSHHEFG9WDTFQ5RM&marketplace=FLIPKART&lid=LSTTSHHEFG9WDTFQ5RM3KFTOV&swatchAttr=size&pageUID=1773051515411"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:14:00.555Z"
+  },
+  "content": {
+    "title": "KAJARU Self Design Men Zip Neck Green T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Self Design\nSleeve: Half Sleeve\nNeck Type: Zip Neck",
+    "description": "KAJARU Self Design Men Zip Neck Green T-Shirt - Buy KAJARU Self Design Men Zip Neck Green T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Zip Neck",
+      "Pattern": "Self Design"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/w/c/l-polo-8015-kajaru-original-imaherkhzjgunuhy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/w/c/l-polo-8015-kajaru-original-imaherkhzjgunuhy.jpeg?q=100",
+        "local_path": "../../media/images/54fffaed5d57ed0914fca310/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/f/o/xl-polo-8014-kajaru-original-imahegeungggcw9c.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/f/o/xl-polo-8014-kajaru-original-imahegeungggcw9c.jpeg?q=100",
+        "local_path": "../../media/images/54fffaed5d57ed0914fca310/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/4/3/xl-polo-8014-kajaru-original-imahegeugrteuzhp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/4/3/xl-polo-8014-kajaru-original-imahegeugrteuzhp.jpeg?q=100",
+        "local_path": "../../media/images/54fffaed5d57ed0914fca310/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/j/v/l/xl-polo-8014-kajaru-original-imahegeuz4ekkdgu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/j/v/l/xl-polo-8014-kajaru-original-imahegeuz4ekkdgu.jpeg?q=100",
+        "local_path": "../../media/images/54fffaed5d57ed0914fca310/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/4/h/o/l-polo-8015-kajaru-original-imaherkhnr3b3hgh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/4/h/o/l-polo-8015-kajaru-original-imaherkhnr3b3hgh.jpeg?q=100",
+        "local_path": "../../media/images/54fffaed5d57ed0914fca310/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Self Design Men Zip Neck Green T-Shirt",
+      "description": "KAJARU Self Design Men Zip Neck Green T-Shirt - Buy KAJARU Self Design Men Zip Neck Green T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/w/c/l-polo-8015-kajaru-original-imaherkhzjgunuhy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/f/o/xl-polo-8014-kajaru-original-imahegeungggcw9c.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/4/3/xl-polo-8014-kajaru-original-imahegeugrteuzhp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/j/v/l/xl-polo-8014-kajaru-original-imahegeuz4ekkdgu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/4/h/o/l-polo-8015-kajaru-original-imaherkhnr3b3hgh.jpeg?q=70"
+      ],
+      "sku": "TSHHEFG9WDTFQ5RM",
+      "color": "MINT",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 228,
+        "ratingCount": 4418,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 264,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Ramnivash  yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-18",
+          "reviewBody": "Superb",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Amit Sahu",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-19",
+          "reviewBody": "Wonderful product 😁",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "SHIVAM Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-23",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Zip Neck",
+        "Pattern": "Self Design"
+      },
+      "specifications": {
+        "Brand": "KAJARU",
+        "Type": "Zip Neck",
+        "Sleeve": "Half Sleeve",
+        "Fit": "Regular",
+        "Fabric": "Polyester",
+        "Sales Package": "1 Tshirt",
+        "Pack of": "1",
+        "Style Code": "POLO-8015",
+        "Neck Type": "Zip Neck",
+        "Ideal For": "Men",
+        "Size": "XXL",
+        "Pattern": "Self Design",
+        "Suitable For": "Western Wear",
+        "Reversible": "No",
+        "Secondary Color": "Green",
+        "Fabric Care": "Regular Machine Wash",
+        "Net Quantity": "1",
+        "Color": "Green",
+        "Brand Color": "MINT",
+        "Detail Placement": "All Over",
+        "Occasion": "Formal",
+        "Print Coverage": "All Over",
+        "Pattern/Print Type": "Self Design",
+        "Sleeve Details": "No Details",
+        "Sport Type": "NA",
+        "Surface Styling": "None",
+        "Tee Length": "Medium",
+        "Trend": "Printed Polo"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "54fffaed5d57ed0914fca310",
+      "path": "media/images/54fffaed5d57ed0914fca310/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

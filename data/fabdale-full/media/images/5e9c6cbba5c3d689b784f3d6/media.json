@@ -1,0 +1,44 @@
+{
+  "key": "5e9c6cbba5c3d689b784f3d6",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T14:04:21.713Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/5/s/9/s-patti-11-tibra-collection-original-imahktmjehwbqvtj.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/5/s/9/s-patti-11-tibra-collection-original-imahktmjehwbqvtj.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/s/z/s-patti-11-tibra-collection-original-imahktmjncf6ptws.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/s/z/s-patti-11-tibra-collection-original-imahktmjncf6ptws.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/0/j/s-patti-11-tibra-collection-original-imahktmjeg8fqbat.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/0/j/s-patti-11-tibra-collection-original-imahktmjeg8fqbat.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/8/y/r/s-patti-11-tibra-collection-original-imahktmjyuatuhmf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/8/y/r/s-patti-11-tibra-collection-original-imahktmjyuatuhmf.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/y/e/s-patti-11-tibra-collection-original-imahktmj8qymbxtv.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/y/e/s-patti-11-tibra-collection-original-imahktmj8qymbxtv.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

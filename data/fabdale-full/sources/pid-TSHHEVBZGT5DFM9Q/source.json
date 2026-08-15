@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-self-design-men-polo-neck-brown-white-t-shirt/p/itm9810174759768?pid=TSHHEVBZGT5DFM9Q&lid=LSTTSHHEVBZGT5DFM9QQB5RXI&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:18:24.115Z",
+    "final_url": "https://www.flipkart.com/kajaru-self-design-men-polo-neck-brown-white-t-shirt/p/itm9810174759768?pid=TSHHEVBZGT5DFM9Q&lid=LSTTSHHEVBZGT5DFM9QQB5RXI&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:18:32.510Z"
+  },
+  "content": {
+    "title": "KAJARU Self Design Men Zip Neck Brown, White T-Shirt",
+    "short_description": "KAJARU Self Design Men Zip Neck Brown, White T-Shirt - Buy KAJARU Self Design Men Zip Neck Brown, White T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "KAJARU Self Design Men Zip Neck Brown, White T-Shirt - Buy KAJARU Self Design Men Zip Neck Brown, White T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/q/b/xl-polo-8015-kajaru-original-imahev2es9hzfkkg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/q/b/xl-polo-8015-kajaru-original-imahev2es9hzfkkg.jpeg?q=100",
+        "local_path": "../../media/images/c2dffae03504506ee0a919f6/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/j/0/xxl-polo-8034-kajaru-original-imahdzzfszgsxrgr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/j/0/xxl-polo-8034-kajaru-original-imahdzzfszgsxrgr.jpeg?q=100",
+        "local_path": "../../media/images/c2dffae03504506ee0a919f6/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/m/9/l-polo-8034-kajaru-original-imahdzzftt7ebztz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/m/9/l-polo-8034-kajaru-original-imahdzzftt7ebztz.jpeg?q=100",
+        "local_path": "../../media/images/c2dffae03504506ee0a919f6/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/k/y/l-polo-8034-kajaru-original-imahdzzf75g2gxjy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/k/y/l-polo-8034-kajaru-original-imahdzzf75g2gxjy.jpeg?q=100",
+        "local_path": "../../media/images/c2dffae03504506ee0a919f6/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/8/j/xxl-polo-8034-kajaru-original-imahdzzffffcshwg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/8/j/xxl-polo-8034-kajaru-original-imahdzzffffcshwg.jpeg?q=100",
+        "local_path": "../../media/images/c2dffae03504506ee0a919f6/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Self Design Men Zip Neck Brown, White T-Shirt",
+      "description": "KAJARU Self Design Men Zip Neck Brown, White T-Shirt - Buy KAJARU Self Design Men Zip Neck Brown, White T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/q/b/xl-polo-8015-kajaru-original-imahev2es9hzfkkg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/j/0/xxl-polo-8034-kajaru-original-imahdzzfszgsxrgr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/m/9/l-polo-8034-kajaru-original-imahdzzftt7ebztz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/k/y/l-polo-8034-kajaru-original-imahdzzf75g2gxjy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/8/j/xxl-polo-8034-kajaru-original-imahdzzffffcshwg.jpeg?q=70"
+      ],
+      "sku": "TSHHEVBZGT5DFM9Q",
+      "color": "BROWN, WHITE",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 3024,
+        "ratingCount": 56566,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 300,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Gaurav  Chauhan",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-01",
+          "reviewBody": "Fitting , style, fabric and quality is worth every penny it's even better than image shown in product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Sandeep  Saroj ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-20",
+          "reviewBody": "Very good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Krishna Adate",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-16",
+          "reviewBody": "Nice 🥰🥰🥰",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c2dffae03504506ee0a919f6",
+      "path": "media/images/c2dffae03504506ee0a919f6/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

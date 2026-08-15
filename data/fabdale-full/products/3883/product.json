@@ -1,0 +1,206 @@
+{
+  "product_id": "3883",
+  "sku": "Fab-TShirt-TRPR-022GR-M",
+  "product": {
+    "name": "TeeCulture T R I P R printed  T-Shirt",
+    "parent_id": "5220",
+    "notes": "https://www.flipkart.com/tripr-solid-men-henley-neck-grey-t-shirt/p/itm7f77fb1901ed9?pid=TSHH439FYTFGRY4S&marketplace=FLIPKART&lid=LSTTSHH439FYTFGRY4S7SV4R6&swatchAttr=size&pageUID=1773249997673"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH439FYTFGRY4S",
+    "path": "../../sources/pid-TSHH439FYTFGRY4S/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tripr-solid-men-henley-neck-grey-t-shirt/p/itm7f77fb1901ed9?pid=TSHH439FYTFGRY4S&marketplace=FLIPKART&lid=LSTTSHH439FYTFGRY4S7SV4R6&swatchAttr=size&pageUID=1773249997673",
+    "scraped_at": "2026-08-15T10:31:25.999Z",
+    "final_url": "https://www.flipkart.com/tripr-solid-men-henley-neck-grey-t-shirt/p/itm7f77fb1901ed9?pid=TSHH439FYTFGRY4S&marketplace=FLIPKART&lid=LSTTSHH439FYTFGRY4S7SV4R6&swatchAttr=size&pageUID=1773249997673"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:31:55.313Z"
+  },
+  "content": {
+    "title": "TRIPR Solid Men Henley Neck Grey T-Shirt",
+    "short_description": "Fabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nNeck Type: Henley Neck",
+    "description": "Classic Solid Design\nThis men's T-shirt features a timeless solid pattern in a versatile grey hue, making it a wardrobe s…\n\nComfortable Cotton Blend Fabric\nCrafted from a soft cotton blend fabric, this T-shirt ensures all-day comfort and breathability. The…\n\nStylish Henley Neck\nFeaturing a sophisticated Henley neck, this T-shirt adds a touch of style to your casual ensemble. T…\n\nVersatile Full Sleeve Design\nWith full sleeves for added coverage, this T-shirt is ideal for cooler days or layering during trans…\n\nEasy Fabric Care\nMaintaining this T-shirt is hassle-free with regular machine wash care instructions. Enjoy the conve…",
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Cotton Blend",
+      "Neck Type": "Henley Neck",
+      "Pattern": "Solid"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4a4c4ae76d5d4b968ee75505",
+      "path": "media/images/4a4c4ae76d5d4b968ee75505/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/y/h/q/m-tdgyhnful-spy-d144-tripr-resized-original-imahcju6h7fwzpnx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/y/h/q/m-tdgyhnful-spy-d144-tripr-resized-original-imahcju6h7fwzpnx.jpeg?q=100",
+        "local_path": "../../media/images/4a4c4ae76d5d4b968ee75505/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/t/0/xxl-tdgyhnful-d144-tripr-original-imahcjucwpxzd7kv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/t/0/xxl-tdgyhnful-d144-tripr-original-imahcjucwpxzd7kv.jpeg?q=100",
+        "local_path": "../../media/images/4a4c4ae76d5d4b968ee75505/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/t/e/o/m-tdgyhnful-spy-d144-tripr-original-imahcju6yezmngdx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/t/e/o/m-tdgyhnful-spy-d144-tripr-original-imahcju6yezmngdx.jpeg?q=100",
+        "local_path": "../../media/images/4a4c4ae76d5d4b968ee75505/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/3/o/c/m-tdgyhnful-spy-d144-tripr-original-imahcju63nzagytz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/3/o/c/m-tdgyhnful-spy-d144-tripr-original-imahcju63nzagytz.jpeg?q=100",
+        "local_path": "../../media/images/4a4c4ae76d5d4b968ee75505/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/b/1/x/m-tdgyhnful-spy-d144-tripr-original-imahcju6vmjkw7j4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/b/1/x/m-tdgyhnful-spy-d144-tripr-original-imahcju6vmjkw7j4.jpeg?q=100",
+        "local_path": "../../media/images/4a4c4ae76d5d4b968ee75505/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "TRIPR Solid Men Henley Neck Grey T-Shirt",
+      "description": "TRIPR Solid Men Henley Neck Grey T-Shirt - Buy TRIPR Solid Men Henley Neck Grey T-Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/y/h/q/m-tdgyhnful-spy-d144-tripr-resized-original-imahcju6h7fwzpnx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/t/0/xxl-tdgyhnful-d144-tripr-original-imahcjucwpxzd7kv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/t/e/o/m-tdgyhnful-spy-d144-tripr-original-imahcju6yezmngdx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/3/o/c/m-tdgyhnful-spy-d144-tripr-original-imahcju63nzagytz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/b/1/x/m-tdgyhnful-spy-d144-tripr-original-imahcju6vmjkw7j4.jpeg?q=70"
+      ],
+      "sku": "TSHH439FYTFGRY4S",
+      "color": "Dark Grey",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 6532,
+        "ratingCount": 70049,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "TRIPR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 274,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2020-10-25",
+          "reviewBody": "This product is really awesome",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Raju Sara",
+            "@type": "Person"
+          },
+          "datePublished": "2018-02-23",
+          "reviewBody": "Good looking nice....",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Irfan Diwan",
+            "@type": "Person"
+          },
+          "datePublished": "2019-12-07",
+          "reviewBody": "Supar he",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Solid Design",
+          "body": "This men's T-shirt features a timeless solid pattern in a versatile grey hue, making it a wardrobe s…"
+        },
+        {
+          "heading": "Comfortable Cotton Blend Fabric",
+          "body": "Crafted from a soft cotton blend fabric, this T-shirt ensures all-day comfort and breathability. The…"
+        },
+        {
+          "heading": "Stylish Henley Neck",
+          "body": "Featuring a sophisticated Henley neck, this T-shirt adds a touch of style to your casual ensemble. T…"
+        },
+        {
+          "heading": "Versatile Full Sleeve Design",
+          "body": "With full sleeves for added coverage, this T-shirt is ideal for cooler days or layering during trans…"
+        },
+        {
+          "heading": "Easy Fabric Care",
+          "body": "Maintaining this T-shirt is hassle-free with regular machine wash care instructions. Enjoy the conve…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Cotton Blend",
+        "Neck Type": "Henley Neck",
+        "Pattern": "Solid"
+      },
+      "specifications": {}
+    }
+  }
+}

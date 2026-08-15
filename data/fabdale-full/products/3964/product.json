@@ -1,0 +1,187 @@
+{
+  "product_id": "3964",
+  "sku": "Fab-Kurta-CELLX-006ML-L",
+  "product": {
+    "name": "Civanth Geometric mosaic print",
+    "parent_id": "5389",
+    "notes": "https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm943b165f8dcfe?pid=KTAHF4GGR9KMFEJH&marketplace=FLIPKART&lid=LSTKTAHF4GGR9KMFEJHYMLWNQ&swatchAttr=size&pageUID=1773818936566"
+  },
+  "source_bundle": {
+    "key": "pid-KTAHF4GGR9KMFEJH",
+    "path": "../../sources/pid-KTAHF4GGR9KMFEJH/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm943b165f8dcfe?pid=KTAHF4GGR9KMFEJH&marketplace=FLIPKART&lid=LSTKTAHF4GGR9KMFEJHYMLWNQ&swatchAttr=size&pageUID=1773818936566",
+    "scraped_at": "2026-08-15T10:54:11.763Z",
+    "final_url": "https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm943b165f8dcfe?pid=KTAHF4GGR9KMFEJH&marketplace=FLIPKART&lid=LSTKTAHF4GGR9KMFEJHYMLWNQ&swatchAttr=size&pageUID=1773818936566"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:54:27.073Z"
+  },
+  "content": {
+    "title": "CELLUX Men Printed Straight Kurta",
+    "short_description": "CELLUX Men Printed Straight Kurta - Buy CELLUX Men Printed Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "CELLUX Men Printed Straight Kurta - Buy CELLUX Men Printed Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "5605450d1b617005ae671e28",
+      "path": "media/images/5605450d1b617005ae671e28/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/a/f/l-printed-kurta-cellux-original-imahf4gg4uyyyp8m.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/a/f/l-printed-kurta-cellux-original-imahf4gg4uyyyp8m.jpeg?q=100",
+        "local_path": "../../media/images/5605450d1b617005ae671e28/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/2/z/l-printed-kurta-cellux-original-imahf4ggbekpqspd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/2/z/l-printed-kurta-cellux-original-imahf4ggbekpqspd.jpeg?q=100",
+        "local_path": "../../media/images/5605450d1b617005ae671e28/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/g/b/l-printed-kurta-cellux-original-imahf4ggyhsve4uf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/g/b/l-printed-kurta-cellux-original-imahf4ggyhsve4uf.jpeg?q=100",
+        "local_path": "../../media/images/5605450d1b617005ae671e28/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/c/m/2/l-printed-kurta-cellux-original-imahf4ggshggcghh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/c/m/2/l-printed-kurta-cellux-original-imahf4ggshggcghh.jpeg?q=100",
+        "local_path": "../../media/images/5605450d1b617005ae671e28/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/v/l/m-foil-printed-kurta-cellux-original-imahytk4nytnbuhy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/v/l/m-foil-printed-kurta-cellux-original-imahytk4nytnbuhy.jpeg?q=100",
+        "local_path": "../../media/images/5605450d1b617005ae671e28/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "CELLUX Men Printed Straight Kurta",
+      "description": "CELLUX Men Printed Straight Kurta - Buy CELLUX Men Printed Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/a/f/l-printed-kurta-cellux-original-imahf4gg4uyyyp8m.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/2/z/l-printed-kurta-cellux-original-imahf4ggbekpqspd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/g/b/l-printed-kurta-cellux-original-imahf4ggyhsve4uf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/c/m/2/l-printed-kurta-cellux-original-imahf4ggshggcghh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/v/l/m-foil-printed-kurta-cellux-original-imahytk4nytnbuhy.jpeg?q=70"
+      ],
+      "sku": "KTAHF4GGR9KMFEJH",
+      "color": "Multicolor 3",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 46,
+        "ratingCount": 806,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "CELLUX",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 301,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-01",
+          "reviewBody": "Good 😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Arpit Pandey",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-02",
+          "reviewBody": "Nice Product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-28",
+          "reviewBody": "Best for photography 😀",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

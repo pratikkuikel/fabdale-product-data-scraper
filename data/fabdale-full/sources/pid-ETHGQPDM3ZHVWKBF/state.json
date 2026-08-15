@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-ETHGQPDM3ZHVWKBF",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://www.flipkart.com/cellux-men-kurta-pyjama-set/p/itmab1f02411edc2?pid=ETHGQPDM3ZHVWKBF&marketplace=FLIPKART&lid=LSTETHGQPDM3ZHVWKBFUZOJUK&swatchAttr=size&pageUID=1773820004462\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/cellux-men-kurta-pyjama-set/p/itmab1f02411edc2?pid=ETHGQPDM3ZHVWKBF&marketplace=FLIPKART&lid=LSTETHGQPDM3ZHVWKBFUZOJUK&swatchAttr=size&pageUID=1773820004462\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "3982"
+  ],
+  "source_path": "sources/pid-ETHGQPDM3ZHVWKBF/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T11:13:55.777Z",
+  "completed_at": "2026-08-15T11:14:24.736Z"
+}

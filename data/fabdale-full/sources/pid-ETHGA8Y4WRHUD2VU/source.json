@@ -1,0 +1,168 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/fubar-men-kurta-pyjama-set/p/itmec6ce7d373190?pid=ETHGA8Y4WRHUD2VU&marketplace=FLIPKART&lid=LSTETHGA8Y4WRHUD2VUM8NMCY&swatchAttr=size&pageUID=1774105095875",
+    "scraped_at": "2026-08-15T13:42:24.955Z",
+    "final_url": "https://www.flipkart.com/fubar-men-kurta-pyjama-set/p/itmec6ce7d373190?pid=ETHGA8Y4WRHUD2VU&marketplace=FLIPKART&lid=LSTETHGA8Y4WRHUD2VUM8NMCY&swatchAttr=size&pageUID=1774105095875"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T13:42:46.699Z"
+  },
+  "content": {
+    "title": "FUBAR Men Kurta Pyjama Set",
+    "short_description": "FUBAR Men Kurta Pyjama Set - Buy FUBAR Men Kurta Pyjama Set For Only Rs. 2968.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "FUBAR Men Kurta Pyjama Set - Buy FUBAR Men Kurta Pyjama Set For Only Rs. 2968.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/n/2/l-krtpj-print-set-mgoor-fubar-resized-original-imagzue88dyf4hmf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/n/2/l-krtpj-print-set-mgoor-fubar-resized-original-imagzue88dyf4hmf.jpeg?q=100",
+        "local_path": "../../media/images/e6e202e632f5d01ec20939c5/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/k/h/xl-krtpj-print-set-mgoor-fubar-original-imaguyz4agf9gu4u.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/k/h/xl-krtpj-print-set-mgoor-fubar-original-imaguyz4agf9gu4u.jpeg?q=100",
+        "local_path": "../../media/images/e6e202e632f5d01ec20939c5/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxw5tow0/ethnic-set/p/n/i/s-krtpj-print-set-mgoor-fubar-original-imaga8y4rd9z49xh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxw5tow0/ethnic-set/p/n/i/s-krtpj-print-set-mgoor-fubar-original-imaga8y4rd9z49xh.jpeg?q=100",
+        "local_path": "../../media/images/e6e202e632f5d01ec20939c5/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/kxw5tow0/ethnic-set/o/2/p/s-krtpj-print-set-mgoor-fubar-original-imaga8y46mhcgfzy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/kxw5tow0/ethnic-set/o/2/p/s-krtpj-print-set-mgoor-fubar-original-imaga8y46mhcgfzy.jpeg?q=100",
+        "local_path": "../../media/images/e6e202e632f5d01ec20939c5/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Men Kurta Pyjama Set",
+      "description": "FUBAR Men Kurta Pyjama Set - Buy FUBAR Men Kurta Pyjama Set For Only Rs. 2968.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/n/2/l-krtpj-print-set-mgoor-fubar-resized-original-imagzue88dyf4hmf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/k/h/xl-krtpj-print-set-mgoor-fubar-original-imaguyz4agf9gu4u.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kxw5tow0/ethnic-set/p/n/i/s-krtpj-print-set-mgoor-fubar-original-imaga8y4rd9z49xh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/kxw5tow0/ethnic-set/o/2/p/s-krtpj-print-set-mgoor-fubar-original-imaga8y46mhcgfzy.jpeg?q=70"
+      ],
+      "sku": "ETHGA8Y4WRHUD2VU",
+      "color": "Mango Orange",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 1877,
+        "ratingCount": 26925,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 372,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Sumant Rajput",
+            "@type": "Person"
+          },
+          "datePublished": "2022-11-05",
+          "reviewBody": "Nice and cool 😎🥰🥰",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Prashant Chaudhari ",
+            "@type": "Person"
+          },
+          "datePublished": "2022-09-29",
+          "reviewBody": "Worth",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Neeraj Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-19",
+          "reviewBody": "Good one",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e6e202e632f5d01ec20939c5",
+      "path": "media/images/e6e202e632f5d01ec20939c5/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

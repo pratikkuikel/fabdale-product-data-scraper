@@ -1,0 +1,169 @@
+{
+  "product_id": "3772",
+  "sku": "Fab-TShirt-TRPR-016BK-S",
+  "product": {
+    "name": "TeeCulture Windowpane grid pattern  T-Shirt",
+    "parent_id": "5228",
+    "notes": "https://www.flipkart.com/tripr-printed-men-round-neck-black-t-shirt/p/itm32659d8f64131?pid=TSHH9Y6PMXF2HMJX&lid=LSTTSHH9Y6PMXF2HMJXTM7EQF&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH9Y6PMXF2HMJX",
+    "path": "../../sources/pid-TSHH9Y6PMXF2HMJX/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tripr-printed-men-round-neck-black-t-shirt/p/itm32659d8f64131?pid=TSHH9Y6PMXF2HMJX&lid=LSTTSHH9Y6PMXF2HMJXTM7EQF&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T10:08:51.117Z",
+    "final_url": "https://www.flipkart.com/tripr-printed-men-round-neck-black-t-shirt/p/itm32659d8f64131?pid=TSHH9Y6PMXF2HMJX&lid=LSTTSHH9Y6PMXF2HMJXTM7EQF&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:09:06.950Z"
+  },
+  "content": {
+    "title": "TRIPR Men Printed Round Neck Cotton Blend Black T-Shirt",
+    "short_description": "Fabric: Cotton Blend\nPattern: Printed\nSleeve: Full Sleeve\nNeck Type: Round Neck",
+    "description": null,
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Cotton Blend",
+      "Neck Type": "Round Neck",
+      "Pattern": "Printed"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3c76b66108533875164bbdd2",
+      "path": "media/images/3c76b66108533875164bbdd2/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/l/g/i/s-tblrnful-d178-tripr-original-imah9y6pndt6dscy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/l/g/i/s-tblrnful-d178-tripr-original-imah9y6pndt6dscy.jpeg?q=100",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/o/l/r/s-tblrnful-d178-tripr-original-imah9y6pamrdn9dh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/o/l/r/s-tblrnful-d178-tripr-original-imah9y6pamrdn9dh.jpeg?q=100",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/j/g/n/s-tblrnful-d178-tripr-original-imah9y6ptfhnkan8.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/j/g/n/s-tblrnful-d178-tripr-original-imah9y6ptfhnkan8.jpeg?q=100",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/m/g/f/s-tblrnful-d178-tripr-original-imah9y6pgvjzzrzz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/m/g/f/s-tblrnful-d178-tripr-original-imah9y6pgvjzzrzz.jpeg?q=100",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/e/p/b/s-tblrnful-d178-tripr-original-imah9y6phde2vf6f.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/e/p/b/s-tblrnful-d178-tripr-original-imah9y6phde2vf6f.jpeg?q=100",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_9d1a920105e94049a2abe05873ae8c74.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_9d1a920105e94049a2abe05873ae8c74.jpg?q=80",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_cb8d7fab4a5345039a9efa4401e3c660.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_cb8d7fab4a5345039a9efa4401e3c660.jpg?q=80",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/w/y/x/m-black-peace-pigeon-annnackel-original-imahn3nughttuhxd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/w/y/x/m-black-peace-pigeon-annnackel-original-imahn3nughttuhxd.jpeg?q=100",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/s/9/q/s-tblrnos-nop-d211-tripr-original-imahn3rnxgxeryww.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/s/9/q/s-tblrnos-nop-d211-tripr-original-imahn3rnxgxeryww.jpeg?q=100",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/0/i/xxl-tblburnos-nop-d219-tripr-original-imahmvuedsyf8wmr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/0/i/xxl-tblburnos-nop-d219-tripr-original-imahmvuedsyf8wmr.jpeg?q=100",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/o/l/4xl-tchbl-chbl-chbl-chblrn-dp-plaind164-tripr-resized-original-imahhtaagc9dpqud.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/u/o/l/4xl-tchbl-chbl-chbl-chblrn-dp-plaind164-tripr-resized-original-imahhtaagc9dpqud.jpeg?q=100",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/v/p/xxl-tblrn-dp-d173-tripr-original-imahg2fsujjyggj8.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/v/p/xxl-tblrn-dp-d173-tripr-original-imahg2fsujjyggj8.jpeg?q=100",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/m/f/u/s-tnvd210-nop-blrnos-d208-tripr-original-imahn9exerksw2ur.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/m/f/u/s-tnvd210-nop-blrnos-d208-tripr-original-imahn9exerksw2ur.jpeg?q=100",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/i/8/m-togrblhn-d145-tripr-resized-original-imahc7d642hmgczg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/i/8/m-togrblhn-d145-tripr-resized-original-imahc7d642hmgczg.jpeg?q=100",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/z/t/m/s-tmrblhn-dp-d145-tripr-resized-original-imahcjkfn8nehepm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/z/t/m/s-tmrblhn-dp-d145-tripr-resized-original-imahcjkfn8nehepm.jpeg?q=100",
+        "local_path": "../../media/images/3c76b66108533875164bbdd2/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Cotton Blend",
+        "Neck Type": "Round Neck",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  }
+}

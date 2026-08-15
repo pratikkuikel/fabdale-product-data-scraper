@@ -1,0 +1,37 @@
+{
+  "key": "ee1726ac7c3de40245f0eb5a",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T12:55:15.527Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/m/f/m/xxl-foil-printed-kurta-cellux-resized-original-imagnbf2ueb68r3v.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/m/f/m/xxl-foil-printed-kurta-cellux-resized-original-imagnbf2ueb68r3v.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/u/k/xxl-foil-printed-kurta-cellux-original-imagnbf2zejfusf8.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/u/k/xxl-foil-printed-kurta-cellux-original-imagnbf2zejfusf8.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/b/o/xxl-foil-printed-kurta-cellux-original-imagnbf2m6hrnd5r.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/b/o/xxl-foil-printed-kurta-cellux-original-imagnbf2m6hrnd5r.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/9/7/xxl-foil-printed-kurta-cellux-original-imagnbf2epghgyrb.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/9/7/xxl-foil-printed-kurta-cellux-original-imagnbf2epghgyrb.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

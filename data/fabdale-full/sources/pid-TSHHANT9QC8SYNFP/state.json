@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-TSHHANT9QC8SYNFP",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3762",
+    "3763",
+    "3764",
+    "3765",
+    "3766",
+    "5231"
+  ],
+  "source_path": "sources/pid-TSHHANT9QC8SYNFP/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T10:08:22.233Z",
+  "completed_at": "2026-08-15T10:08:34.390Z"
+}

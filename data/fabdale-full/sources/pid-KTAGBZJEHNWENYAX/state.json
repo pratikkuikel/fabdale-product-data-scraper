@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KTAGBZJEHNWENYAX",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4464"
+  ],
+  "source_path": "sources/pid-KTAGBZJEHNWENYAX/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T15:03:26.886Z",
+  "completed_at": "2026-08-15T15:03:49.808Z"
+}

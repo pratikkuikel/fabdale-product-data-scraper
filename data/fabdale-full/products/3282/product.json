@@ -1,0 +1,236 @@
+{
+  "product_id": "3282",
+  "sku": "Fab-TShirt-KAJR-014CR-L",
+  "product": {
+    "name": "Kavish Quarter-Zip Polo T-Shirt",
+    "parent_id": "5417",
+    "notes": "https://www.flipkart.com/kajaru-self-design-men-zip-neck-black-beige-t-shirt/p/itm6932272bbf2d7?pid=TSHHEU7M2KCAXK3Q&marketplace=FLIPKART&lid=LSTTSHHEU7M2KCAXK3QPCOHMU&swatchAttr=size&pageUID=1773051177851"
+  },
+  "source_bundle": {
+    "key": "pid-TSHHEU7M2KCAXK3Q",
+    "path": "../../sources/pid-TSHHEU7M2KCAXK3Q/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-self-design-men-zip-neck-black-beige-t-shirt/p/itm6932272bbf2d7?pid=TSHHEU7M2KCAXK3Q&lid=LSTTSHHEU7M2KCAXK3QPCOHMU&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:12:32.576Z",
+    "final_url": "https://www.flipkart.com/kajaru-self-design-men-zip-neck-black-beige-t-shirt/p/itm6932272bbf2d7?pid=TSHHEU7M2KCAXK3Q&lid=LSTTSHHEU7M2KCAXK3QPCOHMU&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:12:41.743Z"
+  },
+  "content": {
+    "title": "KAJARU Self Design Men Zip Neck Black, Beige T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Self Design\nSleeve: Half Sleeve\nNeck Type: Zip Neck",
+    "description": "KAJARU Self Design Men Zip Neck Black, Beige T-Shirt - Buy KAJARU Self Design Men Zip Neck Black, Beige T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Zip Neck",
+      "Pattern": "Self Design"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "271b90f59a513f0d9abe1739",
+      "path": "media/images/271b90f59a513f0d9abe1739/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "3f9161e3102ab48788c1d5bc",
+      "path": "media/videos/3f9161e3102ab48788c1d5bc/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/t/b/m-polo-8016-kajaru-resized-original-imaheu7m2k6bxmhw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/t/b/m-polo-8016-kajaru-resized-original-imaheu7m2k6bxmhw.jpeg?q=100",
+        "local_path": "../../media/images/271b90f59a513f0d9abe1739/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/i/v/xl-polo-8043-kajaru-original-imahez9h2fpkwj57.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/i/v/xl-polo-8043-kajaru-original-imahez9h2fpkwj57.jpeg?q=100",
+        "local_path": "../../media/images/271b90f59a513f0d9abe1739/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/8/4/xl-polo-8043-kajaru-original-imahez9hzkzzazpa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/8/4/xl-polo-8043-kajaru-original-imahez9hzkzzazpa.jpeg?q=100",
+        "local_path": "../../media/images/271b90f59a513f0d9abe1739/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/m/z/xl-polo-8043-kajaru-original-imahez9h2d9zjgqj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/m/z/xl-polo-8043-kajaru-original-imahez9h2d9zjgqj.jpeg?q=100",
+        "local_path": "../../media/images/271b90f59a513f0d9abe1739/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/h/r/xl-polo-8043-kajaru-original-imahez9hwyjgzhtd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/h/r/xl-polo-8043-kajaru-original-imahez9hwyjgzhtd.jpeg?q=100",
+        "local_path": "../../media/images/271b90f59a513f0d9abe1739/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNshiDgOOVQXiyOOBx-eiuHQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Self Design Men Zip Neck Black, Beige T-Shirt",
+      "description": "KAJARU Self Design Men Zip Neck Black, Beige T-Shirt - Buy KAJARU Self Design Men Zip Neck Black, Beige T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/t/b/m-polo-8016-kajaru-resized-original-imaheu7m2k6bxmhw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/i/v/xl-polo-8043-kajaru-original-imahez9h2fpkwj57.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/8/4/xl-polo-8043-kajaru-original-imahez9hzkzzazpa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/r/m/z/xl-polo-8043-kajaru-original-imahez9h2d9zjgqj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/h/r/xl-polo-8043-kajaru-original-imahez9hwyjgzhtd.jpeg?q=70"
+      ],
+      "sku": "TSHHEU7M2KCAXK3Q",
+      "color": "BLACK, CREAM",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 2345,
+        "ratingCount": 65011,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 283,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-16",
+          "reviewBody": "just awesome ❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Ikbal Hossen shah ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-15",
+          "reviewBody": "Nice product ❤️",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Raashid  Khan",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-06",
+          "reviewBody": "Hi everyone nd team Flipkart..I m from Kashmir Srinagar first all of I m so thankful to flipkart because this is a good and valuable product I m so happy with flipkart...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Zip Neck",
+        "Pattern": "Self Design"
+      },
+      "specifications": {
+        "Brand": "KAJARU",
+        "Type": "Zip Neck",
+        "Sleeve": "Half Sleeve",
+        "Fit": "Regular",
+        "Fabric": "Polyester",
+        "Pack of": "1",
+        "Style Code": "POLO-8016",
+        "Neck Type": "Zip Neck",
+        "Ideal For": "Men",
+        "Size": "L",
+        "Pattern": "Self Design",
+        "Suitable For": "Western Wear",
+        "Reversible": "No",
+        "Secondary Color": "Beige, Black",
+        "Fabric Care": "Regular Machine Wash",
+        "Net Quantity": "1",
+        "Color": "Black, Beige",
+        "Brand Color": "BLACK, CREAM",
+        "Detail Placement": "All Over",
+        "Occasion": "Casual",
+        "Print Coverage": "None",
+        "Pattern/Print Type": "Self Design",
+        "Sleeve Details": "No Details",
+        "Sport Type": "NA",
+        "Surface Styling": "None",
+        "Tee Length": "Medium",
+        "Trend": "Printed Polo"
+      }
+    }
+  }
+}

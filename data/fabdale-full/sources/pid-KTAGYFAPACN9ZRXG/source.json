@@ -1,0 +1,160 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/parallel-times-men-solid-straight-kurta/p/itm23c0a6d65660c?pid=KTAGYFAPACN9ZRXG&marketplace=FLIPKART&lid=LSTKTAGYFAPACN9ZRXGPRQVCQ&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL2FzcGVjdFNpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773854982384",
+    "scraped_at": "2026-08-15T12:48:07.586Z",
+    "final_url": "https://www.flipkart.com/parallel-times-men-solid-straight-kurta/p/itm23c0a6d65660c?pid=KTAGYFAPACN9ZRXG&marketplace=FLIPKART&lid=LSTKTAGYFAPACN9ZRXGPRQVCQ&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL2FzcGVjdFNpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773854982384"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T12:48:22.189Z"
+  },
+  "content": {
+    "title": "PARALLEL TIMES Men Solid Straight Kurta",
+    "short_description": "PARALLEL TIMES Men Solid Straight Kurta - Buy PARALLEL TIMES Men Solid Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "PARALLEL TIMES Men Solid Straight Kurta - Buy PARALLEL TIMES Men Solid Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/1/j/o/l-plain-skyblue-parallel-times-original-imah3xytazgsaxkg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/1/j/o/l-plain-skyblue-parallel-times-original-imah3xytazgsaxkg.jpeg?q=100",
+        "local_path": "../../media/images/5cdb017f9c28036bab131a98/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/w/c/s-cross-sky-blue-kurta-pajama-parallel-times-original-imagxfhhhpj464ek.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/w/c/s-cross-sky-blue-kurta-pajama-parallel-times-original-imagxfhhhpj464ek.jpeg?q=100",
+        "local_path": "../../media/images/5cdb017f9c28036bab131a98/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/2/r/3/s-cross-sky-blue-kurta-pajama-parallel-times-original-imagxfhhfkvqhwts.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/2/r/3/s-cross-sky-blue-kurta-pajama-parallel-times-original-imagxfhhfkvqhwts.jpeg?q=100",
+        "local_path": "../../media/images/5cdb017f9c28036bab131a98/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PARALLEL TIMES Men Solid Straight Kurta",
+      "description": "PARALLEL TIMES Men Solid Straight Kurta - Buy PARALLEL TIMES Men Solid Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/1/j/o/l-plain-skyblue-parallel-times-original-imah3xytazgsaxkg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/w/c/s-cross-sky-blue-kurta-pajama-parallel-times-original-imagxfhhhpj464ek.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/2/r/3/s-cross-sky-blue-kurta-pajama-parallel-times-original-imagxfhhfkvqhwts.jpeg?q=70"
+      ],
+      "sku": "KTAGYFAPACN9ZRXG",
+      "color": "Sky Blue",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 281,
+        "ratingCount": 4366,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PARALLEL TIMES",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 298,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Artisahu  Sahu",
+            "@type": "Person"
+          },
+          "datePublished": "2022-10-26",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-03-29",
+          "reviewBody": "Quality best and lovely",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Sandeep Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2022-01-17",
+          "reviewBody": "Nice product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "5cdb017f9c28036bab131a98",
+      "path": "media/images/5cdb017f9c28036bab131a98/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

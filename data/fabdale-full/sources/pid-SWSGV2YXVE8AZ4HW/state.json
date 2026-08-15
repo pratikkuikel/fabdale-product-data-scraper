@@ -1,0 +1,18 @@
+{
+  "source_key": "pid-SWSGV2YXVE8AZ4HW",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3575",
+    "3576",
+    "3579",
+    "5427"
+  ],
+  "source_path": "sources/pid-SWSGV2YXVE8AZ4HW/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T09:43:08.170Z",
+  "completed_at": "2026-08-15T09:43:22.575Z"
+}

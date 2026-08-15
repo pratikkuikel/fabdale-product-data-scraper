@@ -1,0 +1,44 @@
+{
+  "key": "41db0afd68081752d0f998ce",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T10:19:07.477Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/w/e/m-tbrblhnful-d145-tripr-resized-original-imahcjp7rzmzdgtz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/w/e/m-tbrblhnful-d145-tripr-resized-original-imahcjp7rzmzdgtz.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/i/g/y/m-tbrblhnful-spy-d145-tripr-original-imahbyz9c2kersc8.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-t-shirt/i/g/y/m-tbrblhnful-spy-d145-tripr-original-imahbyz9c2kersc8.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/u/a/m-tbrblhnful-d145-tripr-original-imahcjp77n9pbkmk.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/2/u/a/m-tbrblhnful-d145-tripr-original-imahcjp77n9pbkmk.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/p/7/m-tbrblhnful-d145-tripr-original-imahcjp7jbycp8rp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/p/7/m-tbrblhnful-d145-tripr-original-imahcjp7jbycp8rp.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/1/f/c/m-tbrblhnful-d145-tripr-original-imahcjp74vfczpbm.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/1/f/c/m-tbrblhnful-d145-tripr-original-imahcjp74vfczpbm.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

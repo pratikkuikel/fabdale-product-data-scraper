@@ -1,0 +1,44 @@
+{
+  "key": "8caa3b90c8155d71381c9720",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T13:01:54.927Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/4/j/8/m-kcku-only-kurta-stick-lsb-fubar-original-imahfwwmvzvfnnpt.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/4/j/8/m-kcku-only-kurta-stick-lsb-fubar-original-imahfwwmvzvfnnpt.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/l/s/m-kcku-only-kurta-stick-lsb-fubar-original-imahfwwmygucdmz7.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/l/s/m-kcku-only-kurta-stick-lsb-fubar-original-imahfwwmygucdmz7.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/t/9/m-kcku-only-kurta-stick-lsb-fubar-original-imahfwwmunxyf9ea.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/t/9/m-kcku-only-kurta-stick-lsb-fubar-original-imahfwwmunxyf9ea.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/c/v/2/m-kcku-only-kurta-stick-lsb-fubar-original-imahfwwmdv7qxdrf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/c/v/2/m-kcku-only-kurta-stick-lsb-fubar-original-imahfwwmdv7qxdrf.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/i/f/m-kcku-only-kurta-stick-lsb-fubar-original-imahfwwmx2fhychf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/i/f/m-kcku-only-kurta-stick-lsb-fubar-original-imahfwwmx2fhychf.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

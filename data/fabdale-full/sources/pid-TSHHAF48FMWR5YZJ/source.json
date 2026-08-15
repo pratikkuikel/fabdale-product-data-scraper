@@ -1,0 +1,174 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/dry-state-striped-men-polo-neck-green-white-t-shirt/p/itmf16e95eb8ab5c?pid=TSHHAF48FMWR5YZJ&lid=LSTTSHHAF48FMWR5YZJGWKWNN&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:47:10.140Z",
+    "final_url": "https://www.flipkart.com/dry-state-striped-men-polo-neck-green-white-t-shirt/p/itmf16e95eb8ab5c?pid=TSHHAF48FMWR5YZJ&lid=LSTTSHHAF48FMWR5YZJGWKWNN&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:47:23.762Z"
+  },
+  "content": {
+    "title": "THE DRY STATE Striped Men Polo Neck Green, White T-Shirt",
+    "short_description": "Fabric: Pure Cotton\nPattern: Striped\nSleeve: Full Sleeve\nNeck Type: Polo Neck",
+    "description": "THE DRY STATE Striped Men Polo Neck Green, White T-Shirt - Buy THE DRY STATE Striped Men Polo Neck Green, White T-Shirt For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Pure Cotton",
+      "Neck Type": "Polo Neck",
+      "Pattern": "Striped"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/7/n/i/xxl-2134-the-dry-state-original-imagmxgbxrzxa95e.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/7/n/i/xxl-2134-the-dry-state-original-imagmxgbxrzxa95e.jpeg?q=100",
+        "local_path": "../../media/images/3035466266ec33cce6f72e14/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/l/3/xxl-2134-the-dry-state-original-imagmxgbtmjqywyh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/l/3/xxl-2134-the-dry-state-original-imagmxgbtmjqywyh.jpeg?q=100",
+        "local_path": "../../media/images/3035466266ec33cce6f72e14/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/t/t/xxl-2134-the-dry-state-original-imagmxgbphcw5udd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/t/t/xxl-2134-the-dry-state-original-imagmxgbphcw5udd.jpeg?q=100",
+        "local_path": "../../media/images/3035466266ec33cce6f72e14/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/y/z/xxl-2134-the-dry-state-original-imagmxgbpa8hhmjb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/y/z/xxl-2134-the-dry-state-original-imagmxgbpa8hhmjb.jpeg?q=100",
+        "local_path": "../../media/images/3035466266ec33cce6f72e14/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/h/h/xxl-2134-the-dry-state-original-imagmxgb9szzghgh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/h/h/xxl-2134-the-dry-state-original-imagmxgb9szzghgh.jpeg?q=100",
+        "local_path": "../../media/images/3035466266ec33cce6f72e14/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "THE DRY STATE Striped Men Polo Neck Green, White T-Shirt",
+      "description": "THE DRY STATE Striped Men Polo Neck Green, White T-Shirt - Buy THE DRY STATE Striped Men Polo Neck Green, White T-Shirt For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/7/n/i/xxl-2134-the-dry-state-original-imagmxgbxrzxa95e.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/l/3/xxl-2134-the-dry-state-original-imagmxgbtmjqywyh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/t/t/xxl-2134-the-dry-state-original-imagmxgbphcw5udd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/y/z/xxl-2134-the-dry-state-original-imagmxgbpa8hhmjb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/h/h/xxl-2134-the-dry-state-original-imagmxgb9szzghgh.jpeg?q=70"
+      ],
+      "sku": "TSHHAF48FMWR5YZJ",
+      "color": "MILITARY GREEN & WHITE 1",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 6,
+        "ratingCount": 98,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "THE DRY STATE",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 349,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worst experience ever!",
+          "author": {
+            "name": "venkatesh gangisetty",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-20",
+          "reviewBody": "Worst",
+          "reviewRating": {
+            "ratingValue": 1,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrible product",
+          "author": {
+            "name": "malli karjun",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-30",
+          "reviewBody": "Dont by this product worst quality and stitching quality also bad",
+          "reviewRating": {
+            "ratingValue": 1,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Charan  Charan",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-25",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Pure Cotton",
+        "Neck Type": "Polo Neck",
+        "Pattern": "Striped"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3035466266ec33cce6f72e14",
+      "path": "media/images/3035466266ec33cce6f72e14/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

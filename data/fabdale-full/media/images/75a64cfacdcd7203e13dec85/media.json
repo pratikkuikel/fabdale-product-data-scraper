@@ -1,0 +1,44 @@
+{
+  "key": "75a64cfacdcd7203e13dec85",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T09:23:22.602Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/m/h/xxl-oversizetsrt-114-kajaru-original-imah93gn5j7kntgc.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/m/h/xxl-oversizetsrt-114-kajaru-original-imah93gn5j7kntgc.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/x/e/xl-oversizetsrt-114-kajaru-original-imah93gmr5y2y6hg.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/x/e/xl-oversizetsrt-114-kajaru-original-imah93gmr5y2y6hg.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/m/7/xl-oversizetsrt-114-kajaru-original-imah93gmeny4khen.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/m/7/xl-oversizetsrt-114-kajaru-original-imah93gmeny4khen.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/8/u/xxl-oversizetsrt-114-kajaru-original-imah93gn3swrade2.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/8/u/xxl-oversizetsrt-114-kajaru-original-imah93gn3swrade2.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/d/5/xl-oversizetsrt-114-kajaru-original-imah93gmahzfsuwm.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/d/5/xl-oversizetsrt-114-kajaru-original-imah93gmahzfsuwm.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

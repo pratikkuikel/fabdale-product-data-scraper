@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-TSHHGQ4WQH5GVQ2A",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3927",
+    "3928",
+    "3929",
+    "3930",
+    "3931",
+    "5199"
+  ],
+  "source_path": "sources/pid-TSHHGQ4WQH5GVQ2A/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T10:41:53.325Z",
+  "completed_at": "2026-08-15T10:42:18.197Z"
+}

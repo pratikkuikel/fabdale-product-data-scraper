@@ -1,0 +1,187 @@
+{
+  "product_id": "4397",
+  "sku": "Fab-KurtaSet-TIBR-004YL-S",
+  "product": {
+    "name": "Tirthan  vertical stripes kurta set",
+    "parent_id": "5361",
+    "notes": "https://www.flipkart.com/tibra-collection-men-striped-straight-kurta/p/itmf5dc2c2721443?pid=KTAGHZAZNFTPBBZX&marketplace=FLIPKART&lid=LSTKTAGHZAZNFTPBBZXMOVEE9&swatchAttr=size&pageUID=1774109777456"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGHZAZNFTPBBZX",
+    "path": "../../sources/pid-KTAGHZAZNFTPBBZX/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tibra-collection-men-striped-straight-kurta/p/itmf5dc2c2721443?pid=KTAGHZAZNFTPBBZX&marketplace=FLIPKART&lid=LSTKTAGHZAZNFTPBBZXMOVEE9&swatchAttr=size&pageUID=1774109777456",
+    "scraped_at": "2026-08-15T14:34:59.710Z",
+    "final_url": "https://www.flipkart.com/tibra-collection-men-striped-straight-kurta/p/itmf5dc2c2721443?pid=KTAGHZAZNFTPBBZX&marketplace=FLIPKART&lid=LSTKTAGHZAZNFTPBBZXMOVEE9&swatchAttr=size&pageUID=1774109777456"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T14:35:24.969Z"
+  },
+  "content": {
+    "title": "Tibra Collection Men Striped Straight Kurta",
+    "short_description": "Tibra Collection Men Striped Straight Kurta - Buy Tibra Collection Men Striped Straight Kurta For Only Rs. 1599.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Tibra Collection Men Striped Straight Kurta - Buy Tibra Collection Men Striped Straight Kurta For Only Rs. 1599.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bcba11c7c7a11f339a8b9986",
+      "path": "media/images/bcba11c7c7a11f339a8b9986/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/v/o/xl-only-lining-01-tibra-collection-resized-original-imagywcambmukwjg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/v/o/xl-only-lining-01-tibra-collection-resized-original-imagywcambmukwjg.jpeg?q=100",
+        "local_path": "../../media/images/bcba11c7c7a11f339a8b9986/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/q/b/xl-only-lining-01-tibra-collection-original-imagywcaagyqch9s.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/q/b/xl-only-lining-01-tibra-collection-original-imagywcaagyqch9s.jpeg?q=100",
+        "local_path": "../../media/images/bcba11c7c7a11f339a8b9986/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/w/b/xl-only-lining-01-tibra-collection-original-imagywcawjqywhg7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/w/b/xl-only-lining-01-tibra-collection-original-imagywcawjqywhg7.jpeg?q=100",
+        "local_path": "../../media/images/bcba11c7c7a11f339a8b9986/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/v/i/3xl-lining-01-tibra-collection-original-imagywc8x8qfgccn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/v/i/3xl-lining-01-tibra-collection-original-imagywc8x8qfgccn.jpeg?q=100",
+        "local_path": "../../media/images/bcba11c7c7a11f339a8b9986/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/i/6/xl-only-lining-01-tibra-collection-original-imagywcaphwhfrn2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/i/6/xl-only-lining-01-tibra-collection-original-imagywcaphwhfrn2.jpeg?q=100",
+        "local_path": "../../media/images/bcba11c7c7a11f339a8b9986/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Tibra Collection Men Striped Straight Kurta",
+      "description": "Tibra Collection Men Striped Straight Kurta - Buy Tibra Collection Men Striped Straight Kurta For Only Rs. 1599.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/v/o/xl-only-lining-01-tibra-collection-resized-original-imagywcambmukwjg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/q/b/xl-only-lining-01-tibra-collection-original-imagywcaagyqch9s.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/w/b/xl-only-lining-01-tibra-collection-original-imagywcawjqywhg7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/v/i/3xl-lining-01-tibra-collection-original-imagywc8x8qfgccn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/i/6/xl-only-lining-01-tibra-collection-original-imagywcaphwhfrn2.jpeg?q=70"
+      ],
+      "sku": "KTAGHZAZNFTPBBZX",
+      "color": "Yellow",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 40,
+        "ratingCount": 547,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tibra Collection",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 292,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Debraj Chakraborty",
+            "@type": "Person"
+          },
+          "datePublished": "2024-06-02",
+          "reviewBody": "Loved it. 💙🤍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Abdul Javeed",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-18",
+          "reviewBody": "Like",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Abdul Javeed",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-19",
+          "reviewBody": "Average good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

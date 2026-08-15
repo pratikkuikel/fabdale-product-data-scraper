@@ -1,0 +1,187 @@
+{
+  "product_id": "4153",
+  "sku": "Fab-KurtaSet-FUBR-001YL-M",
+  "product": {
+    "name": "Festivo Chikankari Kurta Pyjama Set",
+    "parent_id": "5365",
+    "notes": "https://www.flipkart.com/fubar-men-kurta-pyjama-set/p/itm2fc6c15cf60d6?pid=ETHGY2WERWHAZRXZ&marketplace=FLIPKART&lid=LSTETHGY2WERWHAZRXZHZWNQN&swatchAttr=size&pageUID=1773917661690"
+  },
+  "source_bundle": {
+    "key": "pid-ETHGY2WERWHAZRXZ",
+    "path": "../../sources/pid-ETHGY2WERWHAZRXZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-men-kurta-pyjama-set/p/itm2fc6c15cf60d6?pid=ETHGY2WERWHAZRXZ&marketplace=FLIPKART&lid=LSTETHGY2WERWHAZRXZHZWNQN&swatchAttr=size&pageUID=1773917661690",
+    "scraped_at": "2026-08-15T12:57:46.564Z",
+    "final_url": "https://www.flipkart.com/fubar-men-kurta-pyjama-set/p/itm2fc6c15cf60d6?pid=ETHGY2WERWHAZRXZ&marketplace=FLIPKART&lid=LSTETHGY2WERWHAZRXZHZWNQN&swatchAttr=size&pageUID=1773917661690"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T12:58:00.269Z"
+  },
+  "content": {
+    "title": "FUBAR Men Kurta Pyjama Set",
+    "short_description": "FUBAR Men Kurta Pyjama Set - Buy FUBAR Men Kurta Pyjama Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "FUBAR Men Kurta Pyjama Set - Buy FUBAR Men Kurta Pyjama Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "7b7c7cdf0bffc124078d96ca",
+      "path": "media/images/7b7c7cdf0bffc124078d96ca/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/m/i/m-krtpj-mirror-set-ye-fubar-original-imah7mzf6r9nxfue.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/m/i/m-krtpj-mirror-set-ye-fubar-original-imah7mzf6r9nxfue.jpeg?q=100",
+        "local_path": "../../media/images/7b7c7cdf0bffc124078d96ca/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/7/v/m-krtpj-mirror-set-ye-fubar-original-imah7mzfbxyggwj2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/7/v/m-krtpj-mirror-set-ye-fubar-original-imah7mzfbxyggwj2.jpeg?q=100",
+        "local_path": "../../media/images/7b7c7cdf0bffc124078d96ca/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/s/2/m-krtpj-mirror-set-ye-fubar-original-imah7mzfxk9euhtd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/s/2/m-krtpj-mirror-set-ye-fubar-original-imah7mzfxk9euhtd.jpeg?q=100",
+        "local_path": "../../media/images/7b7c7cdf0bffc124078d96ca/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/n/t/m-krtpj-mirror-set-ye-fubar-original-imah7mzf423qekmw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/n/t/m-krtpj-mirror-set-ye-fubar-original-imah7mzf423qekmw.jpeg?q=100",
+        "local_path": "../../media/images/7b7c7cdf0bffc124078d96ca/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/t/o/m-krtpj-mirror-set-ye-fubar-original-imah7mzfmrzh4djn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/t/o/m-krtpj-mirror-set-ye-fubar-original-imah7mzfmrzh4djn.jpeg?q=100",
+        "local_path": "../../media/images/7b7c7cdf0bffc124078d96ca/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Men Kurta Pyjama Set",
+      "description": "FUBAR Men Kurta Pyjama Set - Buy FUBAR Men Kurta Pyjama Set For Only Rs. 4999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/m/i/m-krtpj-mirror-set-ye-fubar-original-imah7mzf6r9nxfue.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/w/7/v/m-krtpj-mirror-set-ye-fubar-original-imah7mzfbxyggwj2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/s/2/m-krtpj-mirror-set-ye-fubar-original-imah7mzfxk9euhtd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/u/n/t/m-krtpj-mirror-set-ye-fubar-original-imah7mzf423qekmw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/t/o/m-krtpj-mirror-set-ye-fubar-original-imah7mzfmrzh4djn.jpeg?q=70"
+      ],
+      "sku": "ETHGY2WERWHAZRXZ",
+      "color": "Yellow",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 38,
+        "ratingCount": 843,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 491,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-25",
+          "reviewBody": "Great experience",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Pawan  Sharma ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-01",
+          "reviewBody": "Kurta and pyjama design is a very good quality",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Vini Kumari",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-25",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

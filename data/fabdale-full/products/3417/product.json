@@ -1,0 +1,225 @@
+{
+  "product_id": "3417",
+  "sku": "Fab-TShirt-KAJR-022BK-L",
+  "product": {
+    "name": "Kavish Ribbed collar",
+    "parent_id": "5424",
+    "notes": "https://www.flipkart.com/kajaru-solid-men-polo-neck-black-t-shirt/p/itm3b67992e7d9d8?pid=TSHH3KGWUDVKWMFD&marketplace=FLIPKART&lid=LSTTSHH3KGWUDVKWMFDFPWRVQ&swatchAttr=size&pageUID=1773073974032"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH3KGWUDVKWMFD",
+    "path": "../../sources/pid-TSHH3KGWUDVKWMFD/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-solid-men-polo-neck-black-t-shirt/p/itm3b67992e7d9d8?pid=TSHH3KGWUDVKWMFD&lid=LSTTSHH3KGWUDVKWMFDFPWRVQ&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:25:08.661Z",
+    "final_url": "https://www.flipkart.com/kajaru-solid-men-polo-neck-black-t-shirt/p/itm3b67992e7d9d8?pid=TSHH3KGWUDVKWMFD&lid=LSTTSHH3KGWUDVKWMFDFPWRVQ&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:25:17.806Z"
+  },
+  "content": {
+    "title": "KAJARU Solid Men Polo Neck Black T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Solid\nSleeve: Half Sleeve\nNeck Type: Polo Neck",
+    "description": "Classic Style\nThis men's polo neck T-shirt showcases a classic style that never goes out of fashion. With its soli…\n\nComfortable Fit\nCrafted with a regular fit, this T-shirt provides a comfortable and relaxed silhouette. The medium t…\n\nDurable Fabric\nMade from high-quality polyester fabric, this T-shirt is both durable and easy to care for. It can w…\n\nVersatile and Stylish\nWhether you're going for a casual outing or a relaxed day at work, this T-shirt is the perfect choic…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Polo Neck",
+      "Pattern": "Solid"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "9499ddff95ca0dfbdacd1e5a",
+      "path": "media/images/9499ddff95ca0dfbdacd1e5a/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "afcdff02950258e74bed83fc",
+      "path": "media/videos/afcdff02950258e74bed83fc/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/p/m/s-polo-8004-makemode-resized-original-imah4u74fh9f6geg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/p/m/s-polo-8004-makemode-resized-original-imah4u74fh9f6geg.jpeg?q=100",
+        "local_path": "../../media/images/9499ddff95ca0dfbdacd1e5a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/r/m/-original-imahkyg72jzrzsuu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/r/m/-original-imahkyg72jzrzsuu.jpeg?q=100",
+        "local_path": "../../media/images/9499ddff95ca0dfbdacd1e5a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/j/d/-original-imahkyg7mynqfvjb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/j/d/-original-imahkyg7mynqfvjb.jpeg?q=100",
+        "local_path": "../../media/images/9499ddff95ca0dfbdacd1e5a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/p/p/s-polo-8004-makemode-original-imah4u74pyhk4vwu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/p/p/s-polo-8004-makemode-original-imah4u74pyhk4vwu.jpeg?q=100",
+        "local_path": "../../media/images/9499ddff95ca0dfbdacd1e5a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/0/x/s-polo-8004-makemode-original-imah4u74q3fhxzhf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/0/x/s-polo-8004-makemode-original-imah4u74q3fhxzhf.jpeg?q=100",
+        "local_path": "../../media/images/9499ddff95ca0dfbdacd1e5a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CN8LLmcsX2Rm2o_w-dRdJypA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Solid Men Polo Neck Black T-Shirt",
+      "description": "KAJARU Solid Men Polo Neck Black T-Shirt - Buy KAJARU Solid Men Polo Neck Black T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/p/m/s-polo-8004-makemode-resized-original-imah4u74fh9f6geg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/r/m/-original-imahkyg72jzrzsuu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/j/d/-original-imahkyg7mynqfvjb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/p/p/s-polo-8004-makemode-original-imah4u74pyhk4vwu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/0/x/s-polo-8004-makemode-original-imah4u74q3fhxzhf.jpeg?q=70"
+      ],
+      "sku": "TSHH3KGWUDVKWMFD",
+      "color": "BLACK",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 333,
+        "ratingCount": 8744,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 240,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Pintu Sen",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-08",
+          "reviewBody": "good 😊",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Lalchand Meena ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-03",
+          "reviewBody": "Tooo good hai 😊😊😊😊😊 really good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Deepak  Das ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-04",
+          "reviewBody": "I like it 👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Style",
+          "body": "This men's polo neck T-shirt showcases a classic style that never goes out of fashion. With its soli…"
+        },
+        {
+          "heading": "Comfortable Fit",
+          "body": "Crafted with a regular fit, this T-shirt provides a comfortable and relaxed silhouette. The medium t…"
+        },
+        {
+          "heading": "Durable Fabric",
+          "body": "Made from high-quality polyester fabric, this T-shirt is both durable and easy to care for. It can w…"
+        },
+        {
+          "heading": "Versatile and Stylish",
+          "body": "Whether you're going for a casual outing or a relaxed day at work, this T-shirt is the perfect choic…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Polo Neck",
+        "Pattern": "Solid"
+      },
+      "specifications": {}
+    }
+  }
+}

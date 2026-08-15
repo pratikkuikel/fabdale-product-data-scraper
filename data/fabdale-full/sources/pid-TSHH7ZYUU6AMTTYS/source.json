@@ -1,0 +1,207 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-self-design-men-zip-neck-black-t-shirt/p/itm2d2d93926ba65?pid=TSHH7ZYUU6AMTTYS&lid=LSTTSHH7ZYUU6AMTTYSOWO1QH&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:10:34.604Z",
+    "final_url": "https://www.flipkart.com/kajaru-self-design-men-zip-neck-black-t-shirt/p/itm2d2d93926ba65?pid=TSHH7ZYUU6AMTTYS&lid=LSTTSHH7ZYUU6AMTTYSOWO1QH&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:10:44.459Z"
+  },
+  "content": {
+    "title": "KAJARU Self Design Men Zip Neck Black T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Self Design\nSleeve: Half Sleeve\nNeck Type: Zip Neck",
+    "description": "Unique Self Design Pattern\nFeaturing a distinctive self-design pattern all over, this men's T-shirt in black with a medium polo…\n\nComfortable Polyester Fabric\nCrafted from high-quality polyester fabric, this T-shirt offers comfort and durability. The fabric i…\n\nStylish Half Sleeves\nDesigned with trendy half sleeves, this T-shirt provides a modern and casual look. The sleeves offer…\n\nVersatile Polo Neck Design\nThe medium polo neck design of this T-shirt adds a smart and sophisticated touch to your casual outf…\n\nAll-Over Detail Placement\nWith an all-over detail placement, this T-shirt ensures a cohesive and eye-catching look. The self-d…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Zip Neck",
+      "Pattern": "Self Design"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/6/m/4/l-polo-8016-kajaru-original-imah7urtqh8tehfz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/6/m/4/l-polo-8016-kajaru-original-imah7urtqh8tehfz.jpeg?q=100",
+        "local_path": "../../media/images/48ef9f7a1494b668f2ac477f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/j/v/l-polo-8016-kajaru-original-imah7urtreakjrgn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/j/v/l-polo-8016-kajaru-original-imah7urtreakjrgn.jpeg?q=100",
+        "local_path": "../../media/images/48ef9f7a1494b668f2ac477f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/m/f/l-polo-8016-kajaru-original-imah7urtzycdhdmy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/m/f/l-polo-8016-kajaru-original-imah7urtzycdhdmy.jpeg?q=100",
+        "local_path": "../../media/images/48ef9f7a1494b668f2ac477f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/d/h/l-polo-8016-kajaru-original-imah7urtymzvzar9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/d/h/l-polo-8016-kajaru-original-imah7urtymzvzar9.jpeg?q=100",
+        "local_path": "../../media/images/48ef9f7a1494b668f2ac477f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/4/d/v/l-polo-8016-kajaru-original-imah7urtjwfnv3fp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/4/d/v/l-polo-8016-kajaru-original-imah7urtjwfnv3fp.jpeg?q=100",
+        "local_path": "../../media/images/48ef9f7a1494b668f2ac477f/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Self Design Men Zip Neck Black T-Shirt",
+      "description": "KAJARU Self Design Men Zip Neck Black T-Shirt - Buy KAJARU Self Design Men Zip Neck Black T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/6/m/4/l-polo-8016-kajaru-original-imah7urtqh8tehfz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/j/v/l-polo-8016-kajaru-original-imah7urtreakjrgn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/m/f/l-polo-8016-kajaru-original-imah7urtzycdhdmy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/d/h/l-polo-8016-kajaru-original-imah7urtymzvzar9.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/4/d/v/l-polo-8016-kajaru-original-imah7urtjwfnv3fp.jpeg?q=70"
+      ],
+      "sku": "TSHH7ZYUU6AMTTYS",
+      "color": "BLACK",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 2345,
+        "ratingCount": 65011,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 274,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-16",
+          "reviewBody": "just awesome ❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Ikbal Hossen shah ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-15",
+          "reviewBody": "Nice product ❤️",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Raashid  Khan",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-06",
+          "reviewBody": "Hi everyone nd team Flipkart..I m from Kashmir Srinagar first all of I m so thankful to flipkart because this is a good and valuable product I m so happy with flipkart...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Unique Self Design Pattern",
+          "body": "Featuring a distinctive self-design pattern all over, this men's T-shirt in black with a medium polo…"
+        },
+        {
+          "heading": "Comfortable Polyester Fabric",
+          "body": "Crafted from high-quality polyester fabric, this T-shirt offers comfort and durability. The fabric i…"
+        },
+        {
+          "heading": "Stylish Half Sleeves",
+          "body": "Designed with trendy half sleeves, this T-shirt provides a modern and casual look. The sleeves offer…"
+        },
+        {
+          "heading": "Versatile Polo Neck Design",
+          "body": "The medium polo neck design of this T-shirt adds a smart and sophisticated touch to your casual outf…"
+        },
+        {
+          "heading": "All-Over Detail Placement",
+          "body": "With an all-over detail placement, this T-shirt ensures a cohesive and eye-catching look. The self-d…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Zip Neck",
+        "Pattern": "Self Design"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "48ef9f7a1494b668f2ac477f",
+      "path": "media/images/48ef9f7a1494b668f2ac477f/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

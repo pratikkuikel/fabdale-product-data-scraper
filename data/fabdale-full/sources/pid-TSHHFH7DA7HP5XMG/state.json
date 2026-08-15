@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-TSHHFH7DA7HP5XMG",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3560",
+    "3561",
+    "3562",
+    "3563",
+    "3564"
+  ],
+  "source_path": "sources/pid-TSHHFH7DA7HP5XMG/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T09:42:01.452Z",
+  "completed_at": "2026-08-15T09:42:12.340Z"
+}

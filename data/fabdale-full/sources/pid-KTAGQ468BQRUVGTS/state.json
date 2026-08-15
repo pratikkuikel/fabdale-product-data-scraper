@@ -1,0 +1,18 @@
+{
+  "source_key": "pid-KTAGQ468BQRUVGTS",
+  "status": "success",
+  "attempt_count": 2,
+  "error": null,
+  "product_keys": [
+    "4262",
+    "4265",
+    "4266",
+    "5375"
+  ],
+  "source_path": "sources/pid-KTAGQ468BQRUVGTS/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T13:24:33.608Z",
+  "completed_at": "2026-08-15T13:25:29.664Z"
+}

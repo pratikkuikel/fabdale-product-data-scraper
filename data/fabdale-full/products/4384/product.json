@@ -1,0 +1,187 @@
+{
+  "product_id": "4384",
+  "sku": "Fab-KurtaSet-TIBR-003PK-L",
+  "product": {
+    "name": "Tirthan Geometric weave  kurta set",
+    "parent_id": "5360",
+    "notes": "https://www.flipkart.com/tibra-collection-men-solid-straight-kurta/p/itm638db5ac6de56?pid=KTAGBRWHCHEV8P3E&marketplace=FLIPKART&lid=LSTKTAGBRWHCHEV8P3EJZO60O&swatchAttr=size&pageUID=1774108986240"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGBRWHCHEV8P3E",
+    "path": "../../sources/pid-KTAGBRWHCHEV8P3E/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tibra-collection-men-solid-straight-kurta/p/itm638db5ac6de56?pid=KTAGBRWHCHEV8P3E&marketplace=FLIPKART&lid=LSTKTAGBRWHCHEV8P3EJZO60O&swatchAttr=size&pageUID=1774108986240",
+    "scraped_at": "2026-08-15T14:24:42.885Z",
+    "final_url": "https://www.flipkart.com/tibra-collection-men-solid-straight-kurta/p/itm638db5ac6de56?pid=KTAGBRWHCHEV8P3E&marketplace=FLIPKART&lid=LSTKTAGBRWHCHEV8P3EJZO60O&swatchAttr=size&pageUID=1774108986240"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T14:25:10.826Z"
+  },
+  "content": {
+    "title": "Tibra Collection Men Solid Straight Kurta",
+    "short_description": "Tibra Collection Men Solid Straight Kurta - Buy Tibra Collection Men Solid Straight Kurta For Only Rs. 1599.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Tibra Collection Men Solid Straight Kurta - Buy Tibra Collection Men Solid Straight Kurta For Only Rs. 1599.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "fa1a8ab76ecda6bb48ac0632",
+      "path": "media/images/fa1a8ab76ecda6bb48ac0632/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kurta/9/e/e/xl-onlydobby001-tibra-collection-resized-original-imahjgruzetcmwty.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kurta/9/e/e/xl-onlydobby001-tibra-collection-resized-original-imahjgruzetcmwty.jpeg?q=100",
+        "local_path": "../../media/images/fa1a8ab76ecda6bb48ac0632/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/m/x/s-356-tibra-collection-original-imahmpzqy3mmzmzj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/m/x/s-356-tibra-collection-original-imahmpzqy3mmzmzj.jpeg?q=100",
+        "local_path": "../../media/images/fa1a8ab76ecda6bb48ac0632/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/3/l/s-356-tibra-collection-original-imahmpzqgzc8v88h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/3/l/s-356-tibra-collection-original-imahmpzqgzc8v88h.jpeg?q=100",
+        "local_path": "../../media/images/fa1a8ab76ecda6bb48ac0632/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/p/a/s-356-tibra-collection-original-imahmpzqggjjrjgg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/p/a/s-356-tibra-collection-original-imahmpzqggjjrjgg.jpeg?q=100",
+        "local_path": "../../media/images/fa1a8ab76ecda6bb48ac0632/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/g/l/s-356-tibra-collection-original-imahmpzquqmzkh2a.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/g/l/s-356-tibra-collection-original-imahmpzquqmzkh2a.jpeg?q=100",
+        "local_path": "../../media/images/fa1a8ab76ecda6bb48ac0632/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Tibra Collection Men Solid Straight Kurta",
+      "description": "Tibra Collection Men Solid Straight Kurta - Buy Tibra Collection Men Solid Straight Kurta For Only Rs. 1599.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kurta/9/e/e/xl-onlydobby001-tibra-collection-resized-original-imahjgruzetcmwty.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/m/x/s-356-tibra-collection-original-imahmpzqy3mmzmzj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/3/l/s-356-tibra-collection-original-imahmpzqgzc8v88h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/p/a/s-356-tibra-collection-original-imahmpzqggjjrjgg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/g/l/s-356-tibra-collection-original-imahmpzquqmzkh2a.jpeg?q=70"
+      ],
+      "sku": "KTAGBRWHCHEV8P3E",
+      "color": "Light Pink",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 2329,
+        "ratingCount": 40507,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tibra Collection",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 317,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "shubham Tripathi",
+            "@type": "Person"
+          },
+          "datePublished": "2022-12-15",
+          "reviewBody": "At this price range... It's awesome ❣️🍷",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-06-21",
+          "reviewBody": "Good 👍 quality",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Mohit kafle Kafle",
+            "@type": "Person"
+          },
+          "datePublished": "2022-08-03",
+          "reviewBody": "This product is too good !!",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

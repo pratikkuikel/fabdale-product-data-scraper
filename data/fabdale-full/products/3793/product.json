@@ -1,0 +1,183 @@
+{
+  "product_id": "3793",
+  "sku": "Fab-TShirt-TRPR-018MR-M",
+  "product": {
+    "name": "TeeCulture Solid Mandarin Colla T-Shirt",
+    "parent_id": "5218",
+    "notes": "https://www.flipkart.com/tripr-solid-men-mandarin-collar-maroon-black-t-shirt/p/itm948e6529b8260?pid=TSHH34XUJVFTZRCB&marketplace=FLIPKART&lid=LSTTSHH34XUJVFTZRCBBKR0NI&swatchAttr=size&pageUID=1773225795174"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH34XUJVFTZRCB",
+    "path": "../../sources/pid-TSHH34XUJVFTZRCB/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tripr-solid-men-mandarin-collar-maroon-black-t-shirt/p/itm948e6529b8260?pid=TSHH34XUJVFTZRCB&marketplace=FLIPKART&lid=LSTTSHH34XUJVFTZRCBBKR0NI&swatchAttr=size&pageUID=1773225795174",
+    "scraped_at": "2026-08-15T10:13:38.776Z",
+    "final_url": "https://www.flipkart.com/tripr-solid-men-mandarin-collar-maroon-black-t-shirt/p/itm948e6529b8260?pid=TSHH34XUJVFTZRCB&marketplace=FLIPKART&lid=LSTTSHH34XUJVFTZRCBBKR0NI&swatchAttr=size&pageUID=1773225795174"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:13:55.981Z"
+  },
+  "content": {
+    "title": "TRIPR Men Solid Mandarin Collar Cotton Blend Maroon, Black T-Shir...more",
+    "short_description": "Fabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nNeck Type: Mandarin Collar",
+    "description": "Versatile Casual Wear\nDesigned for casual occasions, this T-shirt is perfect for a wide range of activities. Whether you'r…\n\nFull Sleeve Design\nFeaturing full sleeves, this T-shirt offers added coverage and warmth, making it suitable for cooler…\n\nRegular Fit and Mandarin Collar\nDesigned with a regular fit and a mandarin collar, this T-shirt offers a comfortable and stylish loo…\n\nSolid Color and Cotton Blend Fabric\nCrafted with a solid color pattern, this T-shirt offers a timeless and versatile look. The multicolo…\n\nEasy Maintenance\nTo keep this T-shirt looking its best, simply wash it in a regular machine wash. This ensures hassle…",
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Cotton Blend",
+      "Neck Type": "Mandarin Collar",
+      "Pattern": "Solid"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ab3a02ae02e01eaac35b6f7b",
+      "path": "media/images/ab3a02ae02e01eaac35b6f7b/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/j/l/e/l-tmrblhnful-dp-d145-tripr-resized-original-imahcz2ygb6kfq4v.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/j/l/e/l-tmrblhnful-dp-d145-tripr-resized-original-imahcz2ygb6kfq4v.jpeg?q=100",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/x/a/e/l-tmrblhnful-dp-d145-tripr-original-imahcz2yjygbfkbf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/x/a/e/l-tmrblhnful-dp-d145-tripr-original-imahcz2yjygbfkbf.jpeg?q=100",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/5/k/f/l-tmrblhnful-dp-d145-tripr-original-imahcz2yjyzmxzey.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/5/k/f/l-tmrblhnful-dp-d145-tripr-original-imahcz2yjyzmxzey.jpeg?q=100",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/5/x/k/l-tmrblhnful-dp-d145-tripr-original-imahcz2y92nhfmvb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/5/x/k/l-tmrblhnful-dp-d145-tripr-original-imahcz2y92nhfmvb.jpeg?q=100",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_211badf958c04b12bf54ac41ab66549e.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_211badf958c04b12bf54ac41ab66549e.jpg?q=80",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7f03ff53543448838230715303587dd9.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7f03ff53543448838230715303587dd9.jpg?q=80",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/2/l/6/xl-togrbl-blwthnful-d145-tripr-resized-original-imahdhckyvymxzzm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/2/l/6/xl-togrbl-blwthnful-d145-tripr-resized-original-imahdhckyvymxzzm.jpeg?q=100",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/6/0/6/xl-tgy-bl-br-chblrnplaind164-tripr-resized-original-imah8cnzxsppe5hw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/6/0/6/xl-tgy-bl-br-chblrnplaind164-tripr-resized-original-imah8cnzxsppe5hw.jpeg?q=100",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/j/j/s-ts131-vebnor-original-imahprfvpr5dwhb2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/j/j/s-ts131-vebnor-original-imahprfvpr5dwhb2.jpeg?q=100",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/q/o/y/s-m-fsf-015-rae-zone-original-imahgxvjurz2jqnh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/q/o/y/s-m-fsf-015-rae-zone-original-imahgxvjurz2jqnh.jpeg?q=100",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/b/9/h/s-tnv-mrrnplaind164-tripr-resized-original-imah7usgayvndjub.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/b/9/h/s-tnv-mrrnplaind164-tripr-resized-original-imah7usgayvndjub.jpeg?q=100",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/u/l/3xl-tdgy-bl-gy-nvrnplaind164-tripr-resized-original-imahkmzgjrxpy5z9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/t/u/l/3xl-tdgy-bl-gy-nvrnplaind164-tripr-resized-original-imahkmzgjrxpy5z9.jpeg?q=100",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/9/y/z/xxl-tbr-bl-gyrnplaind164-tripr-resized-original-imah7ushguqkqrqu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/9/y/z/xxl-tbr-bl-gyrnplaind164-tripr-resized-original-imah7ushguqkqrqu.jpeg?q=100",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/f/h/xxl-tbl-dgy-nvrnplaind164-tripr-resized-original-imah7ush28jczsgf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/f/h/xxl-tbl-dgy-nvrnplaind164-tripr-resized-original-imah7ush28jczsgf.jpeg?q=100",
+        "local_path": "../../media/images/ab3a02ae02e01eaac35b6f7b/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Versatile Casual Wear",
+          "body": "Designed for casual occasions, this T-shirt is perfect for a wide range of activities. Whether you'r…"
+        },
+        {
+          "heading": "Full Sleeve Design",
+          "body": "Featuring full sleeves, this T-shirt offers added coverage and warmth, making it suitable for cooler…"
+        },
+        {
+          "heading": "Regular Fit and Mandarin Collar",
+          "body": "Designed with a regular fit and a mandarin collar, this T-shirt offers a comfortable and stylish loo…"
+        },
+        {
+          "heading": "Solid Color and Cotton Blend Fabric",
+          "body": "Crafted with a solid color pattern, this T-shirt offers a timeless and versatile look. The multicolo…"
+        },
+        {
+          "heading": "Easy Maintenance",
+          "body": "To keep this T-shirt looking its best, simply wash it in a regular machine wash. This ensures hassle…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Cotton Blend",
+        "Neck Type": "Mandarin Collar",
+        "Pattern": "Solid"
+      },
+      "specifications": {}
+    }
+  }
+}

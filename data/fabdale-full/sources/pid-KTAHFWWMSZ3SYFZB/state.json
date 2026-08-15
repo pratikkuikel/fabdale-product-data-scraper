@@ -1,0 +1,23 @@
+{
+  "source_key": "pid-KTAHFWWMSZ3SYFZB",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4172",
+    "4175",
+    "4176",
+    "5366",
+    "6314",
+    "6315",
+    "6316",
+    "6317",
+    "6318"
+  ],
+  "source_path": "sources/pid-KTAHFWWMSZ3SYFZB/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T13:01:56.059Z",
+  "completed_at": "2026-08-15T13:02:08.821Z"
+}

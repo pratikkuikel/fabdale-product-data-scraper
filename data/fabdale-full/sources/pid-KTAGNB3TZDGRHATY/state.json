@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-KTAGNB3TZDGRHATY",
+  "status": "success",
+  "attempt_count": 2,
+  "error": null,
+  "product_keys": [
+    "4031",
+    "5396"
+  ],
+  "source_path": "sources/pid-KTAGNB3TZDGRHATY/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T11:51:18.178Z",
+  "completed_at": "2026-08-15T11:51:43.817Z"
+}

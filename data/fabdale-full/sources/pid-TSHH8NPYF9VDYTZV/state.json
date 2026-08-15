@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-TSHH8NPYF9VDYTZV",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3702",
+    "3703",
+    "3704",
+    "3705",
+    "3706"
+  ],
+  "source_path": "sources/pid-TSHH8NPYF9VDYTZV/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T10:00:14.490Z",
+  "completed_at": "2026-08-15T10:00:26.236Z"
+}

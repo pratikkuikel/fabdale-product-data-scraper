@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-TSHHGQ4WHCADSGE6",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3917",
+    "3918",
+    "3919",
+    "3920",
+    "3921",
+    "5201"
+  ],
+  "source_path": "sources/pid-TSHHGQ4WHCADSGE6/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T10:40:52.415Z",
+  "completed_at": "2026-08-15T10:41:28.786Z"
+}

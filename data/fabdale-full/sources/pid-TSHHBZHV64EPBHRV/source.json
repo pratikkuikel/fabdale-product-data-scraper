@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-solid-men-polo-neck-brown-t-shirt/p/itm148b85e3e63a3?pid=TSHHBZHV64EPBHRV&marketplace=FLIPKART&lid=LSTTSHHBZHV64EPBHRVYKKJL6&swatchAttr=size&pageUID=1773076358823",
+    "scraped_at": "2026-08-15T09:30:55.529Z",
+    "final_url": "https://www.flipkart.com/vebnor-solid-men-polo-neck-brown-t-shirt/p/itm148b85e3e63a3?pid=TSHHBZHV64EPBHRV&marketplace=FLIPKART&lid=LSTTSHHBZHV64EPBHRVYKKJL6&swatchAttr=size&pageUID=1773076358823"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:31:00.748Z"
+  },
+  "content": {
+    "title": "VeBNoR Solid Men Polo Neck Brown T-Shirt",
+    "short_description": "VeBNoR Solid Men Polo Neck Brown T-Shirt - Buy VeBNoR Solid Men Polo Neck Brown T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "VeBNoR Solid Men Polo Neck Brown T-Shirt - Buy VeBNoR Solid Men Polo Neck Brown T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/2/3/s-ts115-vebnor-original-imahnh649accfzf8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/2/3/s-ts115-vebnor-original-imahnh649accfzf8.jpeg?q=100",
+        "local_path": "../../media/images/0d3940a6002f49dd206d1929/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/p/s/s-ts115-vebnor-original-imahnh642schgvrb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/p/s/s-ts115-vebnor-original-imahnh642schgvrb.jpeg?q=100",
+        "local_path": "../../media/images/0d3940a6002f49dd206d1929/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/j/l/s-ts115-vebnor-original-imahnh64bbjbgnvb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/j/l/s-ts115-vebnor-original-imahnh64bbjbgnvb.jpeg?q=100",
+        "local_path": "../../media/images/0d3940a6002f49dd206d1929/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/y/p/s-ts115-vebnor-original-imahnh648ktashjn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/y/p/s-ts115-vebnor-original-imahnh648ktashjn.jpeg?q=100",
+        "local_path": "../../media/images/0d3940a6002f49dd206d1929/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/2/e/s-ts115-vebnor-original-imahnh64qzysgexa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/2/e/s-ts115-vebnor-original-imahnh64qzysgexa.jpeg?q=100",
+        "local_path": "../../media/images/0d3940a6002f49dd206d1929/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Solid Men Polo Neck Brown T-Shirt",
+      "description": "VeBNoR Solid Men Polo Neck Brown T-Shirt - Buy VeBNoR Solid Men Polo Neck Brown T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/2/3/s-ts115-vebnor-original-imahnh649accfzf8.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/x/p/s/s-ts115-vebnor-original-imahnh642schgvrb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/3/j/l/s-ts115-vebnor-original-imahnh64bbjbgnvb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/y/p/s-ts115-vebnor-original-imahnh648ktashjn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/2/e/s-ts115-vebnor-original-imahnh64qzysgexa.jpeg?q=70"
+      ],
+      "sku": "TSHHBZHV64EPBHRV",
+      "color": "Brown",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 319,
+        "ratingCount": 6246,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 264,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Chand Raza",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-23",
+          "reviewBody": "Very very nice t shirt in this price range iam so happy Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Prajin Prakash",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-18",
+          "reviewBody": "Cloth good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Advocate Jitendra Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-28",
+          "reviewBody": "According to price t-shirt very nice ...",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0d3940a6002f49dd206d1929",
+      "path": "media/images/0d3940a6002f49dd206d1929/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

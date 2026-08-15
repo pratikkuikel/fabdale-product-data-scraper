@@ -1,0 +1,168 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm7830b71bbeec6?pid=KTAGNB3TADJWGC6N&marketplace=FLIPKART&lid=LSTKTAGNB3TADJWGC6N4WGU0J&swatchAttr=size&pageUID=1773822087171",
+    "scraped_at": "2026-08-15T11:50:11.971Z",
+    "final_url": "https://www.flipkart.com/cellux-men-printed-straight-kurta/p/itm7830b71bbeec6?pid=KTAGNB3TADJWGC6N&marketplace=FLIPKART&lid=LSTKTAGNB3TADJWGC6N4WGU0J&swatchAttr=size&pageUID=1773822087171"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T11:50:38.849Z"
+  },
+  "content": {
+    "title": "CELLUX Men Printed Straight Kurta",
+    "short_description": "CELLUX Men Printed Straight Kurta - Buy CELLUX Men Printed Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "CELLUX Men Printed Straight Kurta - Buy CELLUX Men Printed Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/4/w/m-foil-printed-kurta-cellux-resized-original-imagnbf2vvetsr8u.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/4/w/m-foil-printed-kurta-cellux-resized-original-imagnbf2vvetsr8u.jpeg?q=100",
+        "local_path": "../../media/images/077d20b4b5d0b81297c27574/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/b/u/m-foil-printed-kurta-cellux-original-imagnbf2zfdg6xhs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/b/u/m-foil-printed-kurta-cellux-original-imagnbf2zfdg6xhs.jpeg?q=100",
+        "local_path": "../../media/images/077d20b4b5d0b81297c27574/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/t/a/m-foil-printed-kurta-cellux-original-imagnbf2shnxh5gq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/t/a/m-foil-printed-kurta-cellux-original-imagnbf2shnxh5gq.jpeg?q=100",
+        "local_path": "../../media/images/077d20b4b5d0b81297c27574/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/n/a/m-foil-printed-kurta-cellux-original-imagnbf2fsdyxfga.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/n/a/m-foil-printed-kurta-cellux-original-imagnbf2fsdyxfga.jpeg?q=100",
+        "local_path": "../../media/images/077d20b4b5d0b81297c27574/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "CELLUX Men Printed Straight Kurta",
+      "description": "CELLUX Men Printed Straight Kurta - Buy CELLUX Men Printed Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/4/w/m-foil-printed-kurta-cellux-resized-original-imagnbf2vvetsr8u.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/b/u/m-foil-printed-kurta-cellux-original-imagnbf2zfdg6xhs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/t/a/m-foil-printed-kurta-cellux-original-imagnbf2shnxh5gq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/n/a/m-foil-printed-kurta-cellux-original-imagnbf2fsdyxfga.jpeg?q=70"
+      ],
+      "sku": "KTAGNB3TADJWGC6N",
+      "color": "Multicolor 6",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 1164,
+        "ratingCount": 21627,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "CELLUX",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 311,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-01",
+          "reviewBody": "I am surprised with kurta coz I am genuinely not expecting such good quality in this price....\nI wanted to buy kurta which is not so heavy not so simple and yes thanxx to Cellux I got perfect\nGuys if you are searching for kurta within affordable then it's a great choice\n\nNote : I am not doing any paid promotion I loved it because I haven't expected such nice quality at this price.\nLike u all I also read reviews to get real quality of clothes\nSo I thought my review can help u to make your decision easier\n⚠️I repeat it's not paid review..",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Dev Pratap Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-23",
+          "reviewBody": "Perfect Fitting and Excellent Quality in This Price Range..🤩 Recommended For Everyone..",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Zamid Alam",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-18",
+          "reviewBody": "Nice product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "077d20b4b5d0b81297c27574",
+      "path": "media/images/077d20b4b5d0b81297c27574/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

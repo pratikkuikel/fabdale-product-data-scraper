@@ -1,0 +1,175 @@
+{
+  "product_id": "3440",
+  "sku": "Fab-Tshirt-VEBN-001BL-S",
+  "product": {
+    "name": "Verve  Polyester Round Neck T-Shirt",
+    "parent_id": "5425",
+    "notes": "https://www.flipkart.com/vebnor-solid-men-round-neck-blue-t-shirt/p/itmf832c4a61e0e5?pid=TSHHFBWWHJ7XAEFS&lid=LSTTSHHFBWWHJ7XAEFSCDPY08&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHHFBWWHJ7XAEFS",
+    "path": "../../sources/pid-TSHHFBWWHJ7XAEFS/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-solid-men-round-neck-blue-t-shirt/p/itmf832c4a61e0e5?pid=TSHHFBWWHJ7XAEFS&lid=LSTTSHHFBWWHJ7XAEFSCDPY08&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T09:26:48.238Z",
+    "final_url": "https://www.flipkart.com/vebnor-solid-men-round-neck-blue-t-shirt/p/itmf832c4a61e0e5?pid=TSHHFBWWHJ7XAEFS&lid=LSTTSHHFBWWHJ7XAEFSCDPY08&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:26:54.653Z"
+  },
+  "content": {
+    "title": "VeBNoR Printed Men Round Neck Blue T-Shirt",
+    "short_description": "VeBNoR Printed Men Round Neck Blue T-Shirt - Buy VeBNoR Printed Men Round Neck Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "VeBNoR Printed Men Round Neck Blue T-Shirt - Buy VeBNoR Printed Men Round Neck Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "83b21e367b8e46f379794f7a",
+      "path": "media/images/83b21e367b8e46f379794f7a/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/t/r/s-ts143-vebnor-original-imahnj5cduwxzwdq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/t/r/s-ts143-vebnor-original-imahnj5cduwxzwdq.jpeg?q=100",
+        "local_path": "../../media/images/83b21e367b8e46f379794f7a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/t/k/s-ts143-vebnor-original-imahnj5cxzgg4bmf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/t/k/s-ts143-vebnor-original-imahnj5cxzgg4bmf.jpeg?q=100",
+        "local_path": "../../media/images/83b21e367b8e46f379794f7a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/v/u/s-ts143-vebnor-original-imahnj5cpytsfbj5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/v/u/s-ts143-vebnor-original-imahnj5cpytsfbj5.jpeg?q=100",
+        "local_path": "../../media/images/83b21e367b8e46f379794f7a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/d/b/s-ts143-vebnor-original-imahnj5cx8a6tts7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/d/b/s-ts143-vebnor-original-imahnj5cx8a6tts7.jpeg?q=100",
+        "local_path": "../../media/images/83b21e367b8e46f379794f7a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/a/b/s-ts143-vebnor-original-imahnj5cyhz3dwgg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/a/b/s-ts143-vebnor-original-imahnj5cyhz3dwgg.jpeg?q=100",
+        "local_path": "../../media/images/83b21e367b8e46f379794f7a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Printed Men Round Neck Blue T-Shirt",
+      "description": "VeBNoR Printed Men Round Neck Blue T-Shirt - Buy VeBNoR Printed Men Round Neck Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/q/t/r/s-ts143-vebnor-original-imahnj5cduwxzwdq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/t/k/s-ts143-vebnor-original-imahnj5cxzgg4bmf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/v/u/s-ts143-vebnor-original-imahnj5cpytsfbj5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/z/d/b/s-ts143-vebnor-original-imahnj5cx8a6tts7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/a/b/s-ts143-vebnor-original-imahnj5cyhz3dwgg.jpeg?q=70"
+      ],
+      "sku": "TSHHFBWWHJ7XAEFS",
+      "color": "Denim Blue",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 121,
+        "ratingCount": 2611,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 250,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "prasad darwatkar",
+            "@type": "Person"
+          },
+          "datePublished": "2026-01-01",
+          "reviewBody": "Good quality material.good for outdoor activities",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Nosibul Mullick",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-08",
+          "reviewBody": "Perfect not a bad",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Poldas Anand  Anand ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-10",
+          "reviewBody": "Super excellent stylish colour t shirt i am satisfy",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

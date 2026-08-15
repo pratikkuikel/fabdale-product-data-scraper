@@ -1,0 +1,191 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/seawind-men-solid-straight-kurta/p/itme8fe8b3b7d732?pid=KTAGCQCYUPRHZYSX&marketplace=FLIPKART&lid=LSTKTAGCQCYUPRHZYSXEYOJ0Q&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL2FzcGVjdFNpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773828822650",
+    "scraped_at": "2026-08-15T12:21:54.061Z",
+    "final_url": "https://www.flipkart.com/seawind-men-solid-straight-kurta/p/itme8fe8b3b7d732?pid=KTAGCQCYUPRHZYSX&marketplace=FLIPKART&lid=LSTKTAGCQCYUPRHZYSXEYOJ0Q&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL2FzcGVjdFNpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1773828822650"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T12:22:38.984Z"
+  },
+  "content": {
+    "title": "seawind Men Solid Straight Kurta",
+    "short_description": "Color: Maroon\nFabric: Cotton Blend\nPattern: Solid\nType: Straight",
+    "description": "Classic and Comfortable\nIntroducing a men's cotton blend kurta, a perfect blend of style and comfort. Crafted with a soft an…\n\nSophisticated Mandarin Neck\nThis kurta features a stylish Mandarin collar that adds a touch of sophistication to your overall lo…\n\nVersatile Knee Length\nDesigned with a knee-length style, this kurta offers a versatile and flattering fit. Whether you pai…\n\nElegant Solid Pattern\nFeaturing a classic solid pattern, this kurta exudes elegance and simplicity. The solid color allows…\n\nFull Sleeves for Added Style\nDesigned with full sleeves and regular sleeve style, this kurta not only provides coverage but also …",
+    "specifications": {
+      "Pattern": "Solid",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Color": "Maroon"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/n/i/w/3xl-only-plain-seawind-original-imagczwqjzqktgjd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/n/i/w/3xl-only-plain-seawind-original-imagczwqjzqktgjd.jpeg?q=100",
+        "local_path": "../../media/images/8f75bff92a6808a5433d0664/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/e/6/o/3xl-only-plain-seawind-original-imagczwq9kbfcsaa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/e/6/o/3xl-only-plain-seawind-original-imagczwq9kbfcsaa.jpeg?q=100",
+        "local_path": "../../media/images/8f75bff92a6808a5433d0664/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/q/a/h/3xl-only-plain-seawind-original-imagczwq46zguyjt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/q/a/h/3xl-only-plain-seawind-original-imagczwq46zguyjt.jpeg?q=100",
+        "local_path": "../../media/images/8f75bff92a6808a5433d0664/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "seawind Men Solid Straight Kurta",
+      "description": "seawind Men Solid Straight Kurta - Buy seawind Men Solid Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/n/i/w/3xl-only-plain-seawind-original-imagczwqjzqktgjd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/e/6/o/3xl-only-plain-seawind-original-imagczwq9kbfcsaa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/q/a/h/3xl-only-plain-seawind-original-imagczwq46zguyjt.jpeg?q=70"
+      ],
+      "sku": "KTAGCQCYUPRHZYSX",
+      "color": "MAROON",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 637,
+        "ratingCount": 12787,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "seawind",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 280,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Madan Sarkar",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-11",
+          "reviewBody": "Colour full perfact and Good quality today I received",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-03",
+          "reviewBody": "Wow awesome",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Urmila  Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-10",
+          "reviewBody": "I love this kurta",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic and Comfortable",
+          "body": "Introducing a men's cotton blend kurta, a perfect blend of style and comfort. Crafted with a soft an…"
+        },
+        {
+          "heading": "Sophisticated Mandarin Neck",
+          "body": "This kurta features a stylish Mandarin collar that adds a touch of sophistication to your overall lo…"
+        },
+        {
+          "heading": "Versatile Knee Length",
+          "body": "Designed with a knee-length style, this kurta offers a versatile and flattering fit. Whether you pai…"
+        },
+        {
+          "heading": "Elegant Solid Pattern",
+          "body": "Featuring a classic solid pattern, this kurta exudes elegance and simplicity. The solid color allows…"
+        },
+        {
+          "heading": "Full Sleeves for Added Style",
+          "body": "Designed with full sleeves and regular sleeve style, this kurta not only provides coverage but also …"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Solid",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Color": "Maroon"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "8f75bff92a6808a5433d0664",
+      "path": "media/images/8f75bff92a6808a5433d0664/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

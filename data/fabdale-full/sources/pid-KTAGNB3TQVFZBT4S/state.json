@@ -1,0 +1,21 @@
+{
+  "source_key": "pid-KTAGNB3TQVFZBT4S",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4026",
+    "5395",
+    "6307",
+    "6308",
+    "6309",
+    "6310",
+    "6311"
+  ],
+  "source_path": "sources/pid-KTAGNB3TQVFZBT4S/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T11:48:04.415Z",
+  "completed_at": "2026-08-15T11:48:53.572Z"
+}

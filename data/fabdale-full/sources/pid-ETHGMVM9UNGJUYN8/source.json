@@ -1,0 +1,164 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/tibra-collection-men-kurta-pyjama-set/p/itmcd5a27b3eb07e?pid=ETHGMVM9UNGJUYN8&marketplace=FLIPKART&lid=LSTETHGMVM9UNGJUYN8PFQFEF&swatchAttr=size&pageUID=1774111437916",
+    "scraped_at": "2026-08-15T14:52:50.593Z",
+    "final_url": "https://www.flipkart.com/tibra-collection-men-kurta-pyjama-set/p/itmcd5a27b3eb07e?pid=ETHGMVM9UNGJUYN8&marketplace=FLIPKART&lid=LSTETHGMVM9UNGJUYN8PFQFEF&swatchAttr=size&pageUID=1774111437916"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T14:53:11.007Z"
+  },
+  "content": {
+    "title": "Tibra Collection Men Kurta Pyjama Set",
+    "short_description": "Tibra Collection Men Kurta Pyjama Set - Buy Tibra Collection Men Kurta Pyjama Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Tibra Collection Men Kurta Pyjama Set - Buy Tibra Collection Men Kurta Pyjama Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/a/h/xxl-boota-1-tibra-collection-original-imahkyf4hvzqhhst.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/a/h/xxl-boota-1-tibra-collection-original-imahkyf4hvzqhhst.jpeg?q=100",
+        "local_path": "../../media/images/e3e9e14b501f3455b80559f9/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/1/4/e/xxl-boota-1-tibra-collection-original-imahkyf4eq2jvc9w.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/1/4/e/xxl-boota-1-tibra-collection-original-imahkyf4eq2jvc9w.jpeg?q=100",
+        "local_path": "../../media/images/e3e9e14b501f3455b80559f9/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/1/o/xl-boota-1-tibra-collection-original-imahkyf4zkdztssf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/1/o/xl-boota-1-tibra-collection-original-imahkyf4zkdztssf.jpeg?q=100",
+        "local_path": "../../media/images/e3e9e14b501f3455b80559f9/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/e/g/xxl-boota-1-tibra-collection-original-imahkyf4hsjcshjc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/e/g/xxl-boota-1-tibra-collection-original-imahkyf4hsjcshjc.jpeg?q=100",
+        "local_path": "../../media/images/e3e9e14b501f3455b80559f9/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/1/o/4/xxl-boota-1-tibra-collection-original-imahkyf4exksvxfs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/1/o/4/xxl-boota-1-tibra-collection-original-imahkyf4exksvxfs.jpeg?q=100",
+        "local_path": "../../media/images/e3e9e14b501f3455b80559f9/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Tibra Collection Men Kurta Pyjama Set",
+      "description": "Tibra Collection Men Kurta Pyjama Set - Buy Tibra Collection Men Kurta Pyjama Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/a/h/xxl-boota-1-tibra-collection-original-imahkyf4hvzqhhst.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/1/4/e/xxl-boota-1-tibra-collection-original-imahkyf4eq2jvc9w.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/d/1/o/xl-boota-1-tibra-collection-original-imahkyf4zkdztssf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/e/g/xxl-boota-1-tibra-collection-original-imahkyf4hsjcshjc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/1/o/4/xxl-boota-1-tibra-collection-original-imahkyf4exksvxfs.jpeg?q=70"
+      ],
+      "sku": "ETHGMVM9UNGJUYN8",
+      "color": "Blue",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 199,
+        "ratingCount": 3910,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tibra Collection",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 348,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Rajib ali",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-15",
+          "reviewBody": "very good quality",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fair",
+          "author": {
+            "name": "hara__prasad__ Mohanty",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-12",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Hemangini Dash",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-19",
+          "reviewBody": "Nice product... Must buy",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e3e9e14b501f3455b80559f9",
+      "path": "media/images/e3e9e14b501f3455b80559f9/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

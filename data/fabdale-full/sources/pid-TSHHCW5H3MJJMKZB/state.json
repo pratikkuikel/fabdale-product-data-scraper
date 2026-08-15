@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-TSHHCW5H3MJJMKZB",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3732",
+    "3733",
+    "3734",
+    "3735",
+    "3736"
+  ],
+  "source_path": "sources/pid-TSHHCW5H3MJJMKZB/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T10:03:12.580Z",
+  "completed_at": "2026-08-15T10:03:32.264Z"
+}

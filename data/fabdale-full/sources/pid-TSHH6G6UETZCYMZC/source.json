@@ -1,0 +1,210 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-self-design-men-polo-neck-blue-t-shirt/p/itmfefe9d4a49854?pid=TSHH6G6UETZCYMZC&marketplace=FLIPKART&lid=LSTTSHH6G6UETZCYMZCIIBJRV&swatchAttr=size&pageUID=1773051752311",
+    "scraped_at": "2026-08-15T09:14:58.102Z",
+    "final_url": "https://www.flipkart.com/kajaru-self-design-men-polo-neck-blue-t-shirt/p/itmfefe9d4a49854?pid=TSHH6G6UETZCYMZC&marketplace=FLIPKART&lid=LSTTSHH6G6UETZCYMZCIIBJRV&swatchAttr=size&pageUID=1773051752311"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:15:04.014Z"
+  },
+  "content": {
+    "title": "KAJARU Self Design Men Zip Neck Blue T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Self Design\nSleeve: Half Sleeve\nNeck Type: Zip Neck",
+    "description": "Unique Self Design Pattern\nThis men's T-shirt features a distinctive self-design pattern all over, adding a touch of individual…\n\nComfortable Polyester Fabric\nCrafted from high-quality polyester fabric, this T-shirt offers a comfortable feel against the skin,…\n\nVersatile Polo Neck Design\nDesigned with a classic polo neck, this T-shirt exudes a timeless charm that is perfect for formal o…\n\nAll Over Print Coverage\nWith an all-over print coverage strategically placed on the fabric, this T-shirt showcases a cohesiv…\n\nIdeal for Formal Occasions\nWhether it's a business meeting or a formal event, this T-shirt is the perfect choice. The blue colo…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Zip Neck",
+      "Pattern": "Self Design"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/o/l/m-polo-8015-whisq-resized-original-imahhqaqkrpm63zn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/o/l/m-polo-8015-whisq-resized-original-imahhqaqkrpm63zn.jpeg?q=100",
+        "local_path": "../../media/images/0d4d66d5526a79e3fbe6f5e1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/y/1/m-polo-8015-whisq-original-imahhqaqsgvtzwba.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/y/1/m-polo-8015-whisq-original-imahhqaqsgvtzwba.jpeg?q=100",
+        "local_path": "../../media/images/0d4d66d5526a79e3fbe6f5e1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/j/z/d/xl-polo-8015-whisq-original-imahhqaqqzg9ukdh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/j/z/d/xl-polo-8015-whisq-original-imahhqaqqzg9ukdh.jpeg?q=100",
+        "local_path": "../../media/images/0d4d66d5526a79e3fbe6f5e1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/y/o/m-polo-8015-whisq-original-imahhqaqhnrwyfdy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/y/o/m-polo-8015-whisq-original-imahhqaqhnrwyfdy.jpeg?q=100",
+        "local_path": "../../media/images/0d4d66d5526a79e3fbe6f5e1/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CN3hnnqhbrSICuUvSw9miTKg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Self Design Men Zip Neck Blue T-Shirt",
+      "description": "KAJARU Self Design Men Zip Neck Blue T-Shirt - Buy KAJARU Self Design Men Zip Neck Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/o/l/m-polo-8015-whisq-resized-original-imahhqaqkrpm63zn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/y/1/m-polo-8015-whisq-original-imahhqaqsgvtzwba.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/j/z/d/xl-polo-8015-whisq-original-imahhqaqqzg9ukdh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/y/o/m-polo-8015-whisq-original-imahhqaqhnrwyfdy.jpeg?q=70"
+      ],
+      "sku": "TSHH6G6UETZCYMZC",
+      "color": "BLUE",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 228,
+        "ratingCount": 4418,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 249,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Ramnivash  yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-18",
+          "reviewBody": "Superb",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Amit Sahu",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-19",
+          "reviewBody": "Wonderful product 😁",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "SHIVAM Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-23",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Unique Self Design Pattern",
+          "body": "This men's T-shirt features a distinctive self-design pattern all over, adding a touch of individual…"
+        },
+        {
+          "heading": "Comfortable Polyester Fabric",
+          "body": "Crafted from high-quality polyester fabric, this T-shirt offers a comfortable feel against the skin,…"
+        },
+        {
+          "heading": "Versatile Polo Neck Design",
+          "body": "Designed with a classic polo neck, this T-shirt exudes a timeless charm that is perfect for formal o…"
+        },
+        {
+          "heading": "All Over Print Coverage",
+          "body": "With an all-over print coverage strategically placed on the fabric, this T-shirt showcases a cohesiv…"
+        },
+        {
+          "heading": "Ideal for Formal Occasions",
+          "body": "Whether it's a business meeting or a formal event, this T-shirt is the perfect choice. The blue colo…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Zip Neck",
+        "Pattern": "Self Design"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0d4d66d5526a79e3fbe6f5e1",
+      "path": "media/images/0d4d66d5526a79e3fbe6f5e1/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "d489c74f17cf0fae737e405b",
+      "path": "media/videos/d489c74f17cf0fae737e405b/media.json",
+      "reused": true
+    }
+  }
+}

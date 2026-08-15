@@ -1,0 +1,186 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-solid-men-polo-neck-grey-t-shirt/p/itm98dda03c96dfa?pid=TSHH3UE9Z7FS8NUR&marketplace=FLIPKART&lid=LSTTSHH3UE9Z7FS8NURMDM36R&swatchAttr=size&pageUID=1773074109167",
+    "scraped_at": "2026-08-15T09:25:34.827Z",
+    "final_url": "https://www.flipkart.com/kajaru-solid-men-polo-neck-grey-t-shirt/p/itm98dda03c96dfa?pid=TSHH3UE9Z7FS8NUR&marketplace=FLIPKART&lid=LSTTSHH3UE9Z7FS8NURMDM36R&swatchAttr=size&pageUID=1773074109167"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:25:43.774Z"
+  },
+  "content": {
+    "title": "KAJARU Men Solid Polo Neck Polyester Grey T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Solid\nSleeve: Half Sleeve\nNeck Type: Polo Neck",
+    "description": "Classic Solid Design\nThis men's T-shirt features a classic solid pattern that adds a touch of sophistication to your casu…\n\nComfortable and Stylish\nCrafted with high-quality polyester fabric, this T-shirt offers both comfort and style. The soft and…\n\nPerfect for Casual Occasions\nIdeal for casual wear, this T-shirt is perfect for various occasions. Pair it with jeans or chinos f…\n\nEasy Maintenance\nThis T-shirt requires regular machine wash, making it easy to maintain. Simply toss it in the washin…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Polo Neck",
+      "Pattern": "Solid"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/t/a/f/l-polo-8004-kajaru-original-imah3ue9qezfzqhk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/t/a/f/l-polo-8004-kajaru-original-imah3ue9qezfzqhk.jpeg?q=100",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/t/u/2/l-polo-8004-kajaru-original-imah3ue9hvtzdwzh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/t-shirt/t/u/2/l-polo-8004-kajaru-original-imah3ue9hvtzdwzh.jpeg?q=100",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_4084bacfb6084c4c91288760b1d0dd30.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_4084bacfb6084c4c91288760b1d0dd30.jpg?q=80",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_40c986dd54764f1b93a11239ecf35011.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_40c986dd54764f1b93a11239ecf35011.jpg?q=80",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d1b6faf1260745efb7312890229008a8.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d1b6faf1260745efb7312890229008a8.jpg?q=80",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_2831574228c145fd9e939916dbc6a65d.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_2831574228c145fd9e939916dbc6a65d.jpg?q=80",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_278530bb828a471eb8f49bad98714a5d.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_278530bb828a471eb8f49bad98714a5d.jpg?q=80",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-t-shirt/z/b/4/xl-hs-shopsy-batman-black-1164-kaspy-resized-original-imagvfmf7sp4skzg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-t-shirt/z/b/4/xl-hs-shopsy-batman-black-1164-kaspy-resized-original-imagvfmf7sp4skzg.jpeg?q=100",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/h/h/s-wow4cosxk1-try-this-resized-original-imahjxdcbgphgqxd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/i/h/h/s-wow4cosxk1-try-this-resized-original-imahjxdcbgphgqxd.jpeg?q=100",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/v/r/t/xl-textured-fabric-zipper-men-tshirt-metronaut-original-imahhedvdetgh7fn.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/v/r/t/xl-textured-fabric-zipper-men-tshirt-metronaut-original-imahhedvdetgh7fn.jpeg?q=100",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/0/n/j/l-ojc24-polo-fs-white-navy-brklyn-41-jump-cuts-original-imahgyz8ppf7yya2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/0/n/j/l-ojc24-polo-fs-white-navy-brklyn-41-jump-cuts-original-imahgyz8ppf7yya2.jpeg?q=100",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/z/1/f/m-fmt427-rolex-beige-force-original-imahbu39gmavhxgq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/z/1/f/m-fmt427-rolex-beige-force-original-imahbu39gmavhxgq.jpeg?q=100",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/k/p/m/s-polo-8004-makemode-resized-original-imah4u74fh9f6geg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/k/p/m/s-polo-8004-makemode-resized-original-imah4u74fh9f6geg.jpeg?q=100",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/g/b/s/s-74516815-try-this-resized-original-imahjhtzdbfzazj8.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/g/b/s/s-74516815-try-this-resized-original-imahjhtzdbfzazj8.jpeg?q=100",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/a/z/n/l-polo-8004-kajaru-resized-original-imah3kk4huhe6gma.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/t-shirt/a/z/n/l-polo-8004-kajaru-resized-original-imah3kk4huhe6gma.jpeg?q=100",
+        "local_path": "../../media/images/8474c4fc80addf4a198f8d0e/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/labs/AS/CNaFQWByYLTY2FNlzZBN3T1A/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Solid Design",
+          "body": "This men's T-shirt features a classic solid pattern that adds a touch of sophistication to your casu…"
+        },
+        {
+          "heading": "Comfortable and Stylish",
+          "body": "Crafted with high-quality polyester fabric, this T-shirt offers both comfort and style. The soft and…"
+        },
+        {
+          "heading": "Perfect for Casual Occasions",
+          "body": "Ideal for casual wear, this T-shirt is perfect for various occasions. Pair it with jeans or chinos f…"
+        },
+        {
+          "heading": "Easy Maintenance",
+          "body": "This T-shirt requires regular machine wash, making it easy to maintain. Simply toss it in the washin…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Polo Neck",
+        "Pattern": "Solid"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "8474c4fc80addf4a198f8d0e",
+      "path": "media/images/8474c4fc80addf4a198f8d0e/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "74198956447b5272884dbbd9",
+      "path": "media/videos/74198956447b5272884dbbd9/media.json",
+      "reused": false
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "product_id": "4327",
+  "sku": "Fab-KurtaSet-TIBR-001OR-S",
+  "product": {
+    "name": "Tirthan Men’s Panjabi  kurta set",
+    "parent_id": "5358",
+    "notes": "https://www.flipkart.com/tibra-collection-men-kurta-pyjama-set/p/itma20d9161d6e84?pid=ETHFZRNZ7SPUHZB9&lid=LSTETHFZRNZ7SPUHZB98SH8DY&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-ETHFZRNZ7SPUHZB9",
+    "path": "../../sources/pid-ETHFZRNZ7SPUHZB9/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tibra-collection-men-kurta-pyjama-set/p/itma20d9161d6e84?pid=ETHFZRNZ7SPUHZB9&lid=LSTETHFZRNZ7SPUHZB98SH8DY&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T13:46:53.863Z",
+    "final_url": "https://www.flipkart.com/tibra-collection-men-kurta-pyjama-set/p/itma20d9161d6e84?pid=ETHFZRNZ7SPUHZB9&lid=LSTETHFZRNZ7SPUHZB98SH8DY&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T13:47:22.157Z"
+  },
+  "content": {
+    "title": "Tibra Collection Men Kurta Pyjama Set",
+    "short_description": "Tibra Collection Men Kurta Pyjama Set - Buy Tibra Collection Men Kurta Pyjama Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Tibra Collection Men Kurta Pyjama Set - Buy Tibra Collection Men Kurta Pyjama Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4cef119cf750c4018b3bbd55",
+      "path": "media/images/4cef119cf750c4018b3bbd55/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/r/t/44-110-tibra-collection-original-imahkz5dkqcrejdd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/r/t/44-110-tibra-collection-original-imahkz5dkqcrejdd.jpeg?q=100",
+        "local_path": "../../media/images/4cef119cf750c4018b3bbd55/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/a/d/40-110-tibra-collection-original-imahkz5d4xqqpvq8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/a/d/40-110-tibra-collection-original-imahkz5d4xqqpvq8.jpeg?q=100",
+        "local_path": "../../media/images/4cef119cf750c4018b3bbd55/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/v/a/40-110-tibra-collection-original-imahkz5dsjzhfvmj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/v/a/40-110-tibra-collection-original-imahkz5dsjzhfvmj.jpeg?q=100",
+        "local_path": "../../media/images/4cef119cf750c4018b3bbd55/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/p/i/40-110-tibra-collection-original-imahkz5dkdgfvw7h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/p/i/40-110-tibra-collection-original-imahkz5dkdgfvw7h.jpeg?q=100",
+        "local_path": "../../media/images/4cef119cf750c4018b3bbd55/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/r/p/42-110-tibra-collection-original-imahkz5dwhm88py6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/r/p/42-110-tibra-collection-original-imahkz5dwhm88py6.jpeg?q=100",
+        "local_path": "../../media/images/4cef119cf750c4018b3bbd55/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Tibra Collection Men Kurta Pyjama Set",
+      "description": "Tibra Collection Men Kurta Pyjama Set - Buy Tibra Collection Men Kurta Pyjama Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/s/r/t/44-110-tibra-collection-original-imahkz5dkqcrejdd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/a/d/40-110-tibra-collection-original-imahkz5d4xqqpvq8.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/v/a/40-110-tibra-collection-original-imahkz5dsjzhfvmj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/p/i/40-110-tibra-collection-original-imahkz5dkdgfvw7h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/r/p/42-110-tibra-collection-original-imahkz5dwhm88py6.jpeg?q=70"
+      ],
+      "sku": "ETHFZRNZ7SPUHZB9",
+      "color": "Orange",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 1811,
+        "ratingCount": 25539,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tibra Collection",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 418,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-03-21",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-31",
+          "reviewBody": "This product is superb, must buy it.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "NIHAL IFHAN",
+            "@type": "Person"
+          },
+          "datePublished": "2022-05-04",
+          "reviewBody": "Perfect Fiting and i love the design on it.. Must buy 😉",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "product_id": "3438",
+  "sku": "Fab-TShirt-KAJR-022SB-XL",
+  "product": {
+    "name": "Kavish Ribbed collar",
+    "parent_id": "5424",
+    "notes": "https://www.flipkart.com/kajaru-solid-men-polo-neck-light-blue-t-shirt/p/itm66313b31e97ba?pid=TSHH3UEF33GPSWHF&lid=LSTTSHH3UEF33GPSWHFC9QXQG&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH3UEF33GPSWHF",
+    "path": "../../sources/pid-TSHH3UEF33GPSWHF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-solid-men-polo-neck-light-blue-t-shirt/p/itm66313b31e97ba?pid=TSHH3UEF33GPSWHF&marketplace=FLIPKART&lid=LSTTSHH3UEF33GPSWHFC9QXQG&swatchAttr=size&pageUID=1773074460983",
+    "scraped_at": "2026-08-15T09:26:33.319Z",
+    "final_url": "https://www.flipkart.com/kajaru-solid-men-polo-neck-light-blue-t-shirt/p/itm66313b31e97ba?pid=TSHH3UEF33GPSWHF&marketplace=FLIPKART&lid=LSTTSHH3UEF33GPSWHFC9QXQG&swatchAttr=size&pageUID=1773074460983"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:26:47.169Z"
+  },
+  "content": {
+    "title": "KAJARU Solid Men Polo Neck Light Blue T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Solid\nSleeve: Half Sleeve\nNeck Type: Polo Neck",
+    "description": "Versatile Design\nIntroducing a men's polo neck T-shirt, designed with a versatile and stylish design that suits any o…\n\nComfortable Fit\nCrafted with a regular fit and short sleeves, this T-shirt offers a comfortable and relaxed fit. It …\n\nPremium Quality Fabric\nMade from high-quality polyester fabric, this T-shirt offers a soft and lightweight feel against you…\n\nTimeless Solid Pattern\nFeaturing a classic solid pattern in a trendy light blue color, this T-shirt exudes timeless appeal.…\n\nEasy Maintenance\nThis T-shirt is designed for convenience and easy maintenance. Simply toss it in the washing machine…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Polo Neck",
+      "Pattern": "Solid"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "493b061e45e6d134aece41fa",
+      "path": "media/images/493b061e45e6d134aece41fa/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "02800ee39f85a782b3572a55",
+      "path": "media/videos/02800ee39f85a782b3572a55/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/x/n/l-polo-8004-kajaru-original-imah3uef8h5zczye.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/x/n/l-polo-8004-kajaru-original-imah3uef8h5zczye.jpeg?q=100",
+        "local_path": "../../media/images/493b061e45e6d134aece41fa/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/y/g/l-polo-8004-kajaru-original-imah3uefjdygengw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/y/g/l-polo-8004-kajaru-original-imah3uefjdygengw.jpeg?q=100",
+        "local_path": "../../media/images/493b061e45e6d134aece41fa/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/2/k/l-polo-8004-kajaru-original-imah3uefhhfyzzfs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/2/k/l-polo-8004-kajaru-original-imah3uefhhfyzzfs.jpeg?q=100",
+        "local_path": "../../media/images/493b061e45e6d134aece41fa/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNtdhurakhTHamrVhYlN8aGA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Solid Men Polo Neck Light Blue T-Shirt",
+      "description": "KAJARU Solid Men Polo Neck Light Blue T-Shirt - Buy KAJARU Solid Men Polo Neck Light Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/f/x/n/l-polo-8004-kajaru-original-imah3uef8h5zczye.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/y/g/l-polo-8004-kajaru-original-imah3uefjdygengw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/2/k/l-polo-8004-kajaru-original-imah3uefhhfyzzfs.jpeg?q=70"
+      ],
+      "sku": "TSHH3UEF33GPSWHF",
+      "color": "SKY BLUE",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 333,
+        "ratingCount": 8748,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 212,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Pretty good",
+          "author": {
+            "name": "Pintu Sen",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-08",
+          "reviewBody": "good 😊",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Lalchand Meena ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-03",
+          "reviewBody": "Tooo good hai 😊😊😊😊😊 really good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Deepak  Das ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-04",
+          "reviewBody": "I like it 👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Versatile Design",
+          "body": "Introducing a men's polo neck T-shirt, designed with a versatile and stylish design that suits any o…"
+        },
+        {
+          "heading": "Comfortable Fit",
+          "body": "Crafted with a regular fit and short sleeves, this T-shirt offers a comfortable and relaxed fit. It …"
+        },
+        {
+          "heading": "Premium Quality Fabric",
+          "body": "Made from high-quality polyester fabric, this T-shirt offers a soft and lightweight feel against you…"
+        },
+        {
+          "heading": "Timeless Solid Pattern",
+          "body": "Featuring a classic solid pattern in a trendy light blue color, this T-shirt exudes timeless appeal.…"
+        },
+        {
+          "heading": "Easy Maintenance",
+          "body": "This T-shirt is designed for convenience and easy maintenance. Simply toss it in the washing machine…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Polo Neck",
+        "Pattern": "Solid"
+      },
+      "specifications": {}
+    }
+  }
+}

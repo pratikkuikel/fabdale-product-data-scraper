@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-ETHGUAGSZBSCHAD7",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4330"
+  ],
+  "source_path": "sources/pid-ETHGUAGSZBSCHAD7/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T13:48:05.488Z",
+  "completed_at": "2026-08-15T13:48:20.331Z"
+}

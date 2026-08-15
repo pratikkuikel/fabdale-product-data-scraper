@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-SWSGWJ57WBPWFSKW",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3582"
+  ],
+  "source_path": "sources/pid-SWSGWJ57WBPWFSKW/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T09:43:55.674Z",
+  "completed_at": "2026-08-15T09:44:02.925Z"
+}

@@ -1,0 +1,163 @@
+{
+  "product_id": "3987",
+  "sku": "Fab-Kurta-CELLX-008G-S",
+  "product": {
+    "name": "Civanth  Cotton Blend Pyjama Set",
+    "parent_id": "5391",
+    "notes": "https://www.flipkart.com/cellux-men-kurta-pyjama-set/p/itm084ac3763512d?pid=ETHHFYGXYYGEXWGB&marketplace=FLIPKART&lid=LSTETHHFYGXYYGEXWGBSBT0NP&swatchAttr=size&pageUID=1773820126475"
+  },
+  "source_bundle": {
+    "key": "pid-ETHHFYGXYYGEXWGB",
+    "path": "../../sources/pid-ETHHFYGXYYGEXWGB/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/cellux-men-kurta-pyjama-set/p/itm084ac3763512d?pid=ETHHFYGXYYGEXWGB&marketplace=FLIPKART&lid=LSTETHHFYGXYYGEXWGBSBT0NP&swatchAttr=size&pageUID=1773820126475",
+    "scraped_at": "2026-08-15T11:18:36.310Z",
+    "final_url": "https://www.flipkart.com/cellux-men-kurta-pyjama-set/p/itm084ac3763512d?pid=ETHHFYGXYYGEXWGB&marketplace=FLIPKART&lid=LSTETHHFYGXYYGEXWGBSBT0NP&swatchAttr=size&pageUID=1773820126475"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 2,
+    "completed_at": "2026-08-15T11:20:02.424Z"
+  },
+  "content": {
+    "title": "CELLUX Men Kurta Pyjama Set",
+    "short_description": "CELLUX Men Kurta Pyjama Set - Buy CELLUX Men Kurta Pyjama Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "CELLUX Men Kurta Pyjama Set - Buy CELLUX Men Kurta Pyjama Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a5900c8cf7b5d9420bc5f241",
+      "path": "media/images/a5900c8cf7b5d9420bc5f241/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/n/c/m-only-linig-hiknock-original-imahfj9tmfprrchx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/n/c/m-only-linig-hiknock-original-imahfj9tmfprrchx.jpeg?q=100",
+        "local_path": "../../media/images/a5900c8cf7b5d9420bc5f241/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/9/5/y/m-men-striped-pure-cotton-straight-kurta-cellux-original-imagryrreycznesg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/9/5/y/m-men-striped-pure-cotton-straight-kurta-cellux-original-imagryrreycznesg.jpeg?q=100",
+        "local_path": "../../media/images/a5900c8cf7b5d9420bc5f241/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "CELLUX Men Kurta Pyjama Set",
+      "description": "CELLUX Men Kurta Pyjama Set - Buy CELLUX Men Kurta Pyjama Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/n/c/m-only-linig-hiknock-original-imahfj9tmfprrchx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/9/5/y/m-men-striped-pure-cotton-straight-kurta-cellux-original-imagryrreycznesg.jpeg?q=70"
+      ],
+      "sku": "ETHHFYGXYYGEXWGB",
+      "color": "Green",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 95,
+        "ratingCount": 2221,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "CELLUX",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 378,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Roop Basant",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-17",
+          "reviewBody": "Very good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-24",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Abdul Barik",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-11",
+          "reviewBody": "Very good product, quality was up to the mark thank you fk",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

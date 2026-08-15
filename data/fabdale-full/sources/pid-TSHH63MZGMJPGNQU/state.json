@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-TSHH63MZGMJPGNQU",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3380",
+    "3381",
+    "3382",
+    "3383",
+    "3384",
+    "7176"
+  ],
+  "source_path": "sources/pid-TSHH63MZGMJPGNQU/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T09:22:42.897Z",
+  "completed_at": "2026-08-15T09:22:55.613Z"
+}

@@ -1,0 +1,44 @@
+{
+  "key": "52d43fec5aea665484b92b9e",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T13:28:33.102Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/d/f/xl-kcku-only-kurta-print-gold-fubar-resized-original-imagq45zvmtyz79v.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/d/f/xl-kcku-only-kurta-print-gold-fubar-resized-original-imagq45zvmtyz79v.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/v/k/m-krtpj-print-set-gold-fubar-original-imagpsp7uvzcaefv.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/o/v/k/m-krtpj-print-set-gold-fubar-original-imagpsp7uvzcaefv.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/t/x/m-krtpj-print-set-gold-fubar-original-imagpsp7yrv9n9zr.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/t/x/m-krtpj-print-set-gold-fubar-original-imagpsp7yrv9n9zr.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/s/a/m-krtpj-print-set-gold-fubar-original-imagpsp7m3y763s8.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/h/s/a/m-krtpj-print-set-gold-fubar-original-imagpsp7m3y763s8.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/a/p/m-krtpj-print-set-gold-fubar-original-imagpsp7vfqrczgb.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/a/a/p/m-krtpj-print-set-gold-fubar-original-imagpsp7vfqrczgb.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

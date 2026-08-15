@@ -1,0 +1,186 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-solid-men-round-neck-brown-t-shirt/p/itm661bb94251320?pid=TSHHFBWPYYT6JC45&marketplace=FLIPKART&lid=LSTTSHHFBWPYYT6JC45RLOY5E&swatchAttr=size&pageUID=1773074854579",
+    "scraped_at": "2026-08-15T09:27:55.774Z",
+    "final_url": "https://www.flipkart.com/vebnor-solid-men-round-neck-brown-t-shirt/p/itm661bb94251320?pid=TSHHFBWPYYT6JC45&marketplace=FLIPKART&lid=LSTTSHHFBWPYYT6JC45RLOY5E&swatchAttr=size&pageUID=1773074854579"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:28:04.736Z"
+  },
+  "content": {
+    "title": "VeBNoR Printed Men Round Neck Brown T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Printed\nSleeve: Full Sleeve\nNeck Type: Round Neck",
+    "description": "VeBNoR Printed Men Round Neck Brown T-Shirt - Buy VeBNoR Printed Men Round Neck Brown T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Printed"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/n/r/s-ts143-vebnor-original-imahnj4z2uyedx8z.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/n/r/s-ts143-vebnor-original-imahnj4z2uyedx8z.jpeg?q=100",
+        "local_path": "../../media/images/c4d2e450b941a92adbe146a4/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/h/p/s-ts143-vebnor-original-imahnj4zhdfj7dss.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/h/p/s-ts143-vebnor-original-imahnj4zhdfj7dss.jpeg?q=100",
+        "local_path": "../../media/images/c4d2e450b941a92adbe146a4/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/h/m/s-ts143-vebnor-original-imahnj4zfdee8jzx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/h/m/s-ts143-vebnor-original-imahnj4zfdee8jzx.jpeg?q=100",
+        "local_path": "../../media/images/c4d2e450b941a92adbe146a4/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/l/r/s-ts143-vebnor-original-imahnj4zu7q6pt7h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/l/r/s-ts143-vebnor-original-imahnj4zu7q6pt7h.jpeg?q=100",
+        "local_path": "../../media/images/c4d2e450b941a92adbe146a4/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/1/8/e/s-ts143-vebnor-original-imahnj4zr5amhdnh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/1/8/e/s-ts143-vebnor-original-imahnj4zr5amhdnh.jpeg?q=100",
+        "local_path": "../../media/images/c4d2e450b941a92adbe146a4/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Printed Men Round Neck Brown T-Shirt",
+      "description": "VeBNoR Printed Men Round Neck Brown T-Shirt - Buy VeBNoR Printed Men Round Neck Brown T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/0/n/r/s-ts143-vebnor-original-imahnj4z2uyedx8z.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/h/p/s-ts143-vebnor-original-imahnj4zhdfj7dss.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/h/m/s-ts143-vebnor-original-imahnj4zfdee8jzx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/l/r/s-ts143-vebnor-original-imahnj4zu7q6pt7h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/1/8/e/s-ts143-vebnor-original-imahnj4zr5amhdnh.jpeg?q=70"
+      ],
+      "sku": "TSHHFBWPYYT6JC45",
+      "color": "Camel",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 121,
+        "ratingCount": 2611,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 250,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "prasad darwatkar",
+            "@type": "Person"
+          },
+          "datePublished": "2026-01-01",
+          "reviewBody": "Good quality material.good for outdoor activities",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Nosibul Mullick",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-08",
+          "reviewBody": "Perfect not a bad",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Poldas Anand  Anand ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-10",
+          "reviewBody": "Super excellent stylish colour t shirt i am satisfy",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Printed"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c4d2e450b941a92adbe146a4",
+      "path": "media/images/c4d2e450b941a92adbe146a4/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

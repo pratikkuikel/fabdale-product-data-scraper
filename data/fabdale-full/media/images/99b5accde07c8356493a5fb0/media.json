@@ -1,0 +1,44 @@
+{
+  "key": "99b5accde07c8356493a5fb0",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T13:14:10.144Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/k/z/m-krtpj-magic-print-set-pcbl-fubar-original-imahf3shzp8qnfsg.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/i/k/z/m-krtpj-magic-print-set-pcbl-fubar-original-imahf3shzp8qnfsg.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/f/r/xl-krtpj-magic-print-set-pcbl-fubar-original-imahf3shs8tybgky.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/b/f/r/xl-krtpj-magic-print-set-pcbl-fubar-original-imahf3shs8tybgky.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/k/x/m-krtpj-magic-print-set-pcbl-fubar-original-imahf3shegjrkjmn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/n/k/x/m-krtpj-magic-print-set-pcbl-fubar-original-imahf3shegjrkjmn.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/i/c/l-krtpj-magic-print-set-pcbl-fubar-original-imahf3shfgjzhrnt.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/r/i/c/l-krtpj-magic-print-set-pcbl-fubar-original-imahf3shfgjzhrnt.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/q/6/xl-krtpj-magic-print-set-pcbl-fubar-original-imahf3sh2vzvwthr.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/c/q/6/xl-krtpj-magic-print-set-pcbl-fubar-original-imahf3sh2vzvwthr.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

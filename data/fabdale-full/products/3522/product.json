@@ -1,0 +1,229 @@
+{
+  "product_id": "3522",
+  "sku": "Fab-Tshirt-VEBN-003GR-L",
+  "product": {
+    "name": "Verve Cotton-blend jersey",
+    "parent_id": "5426",
+    "notes": "https://www.flipkart.com/vebnor-solid-men-round-neck-grey-t-shirt/p/itm50b2bacc5bfff?pid=TSHH7M3J59YAZFP2&marketplace=FLIPKART&lid=LSTTSHH7M3J59YAZFP26KVD9F&swatchAttr=size&pageUID=1773138748722"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH7M3J59YAZFP2",
+    "path": "../../sources/pid-TSHH7M3J59YAZFP2/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-solid-men-round-neck-grey-t-shirt/p/itm50b2bacc5bfff?pid=TSHH7M3J59YAZFP2&marketplace=FLIPKART&lid=LSTTSHH7M3J59YAZFP26KVD9F&swatchAttr=size&pageUID=1773138748722",
+    "scraped_at": "2026-08-15T09:36:52.601Z",
+    "final_url": "https://www.flipkart.com/vebnor-solid-men-round-neck-grey-t-shirt/p/itm50b2bacc5bfff?pid=TSHH7M3J59YAZFP2&marketplace=FLIPKART&lid=LSTTSHH7M3J59YAZFP26KVD9F&swatchAttr=size&pageUID=1773138748722"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:37:07.053Z"
+  },
+  "content": {
+    "title": "VeBNoR Self Design Men Round Neck Grey T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Self Design\nSleeve: Full Sleeve\nNeck Type: Round Neck",
+    "description": "Classic Round Neck\nThanks to its round neck design, this men's T-shirt offers a relaxed and versatile look suited for c…\n\nFull-length Sleeves\nBoasting extended sleeves, this T-shirt provides ample coverage while maintaining a refined appearan…\n\nRefined Regular Fit\nMade with a regular fit, this T-shirt strikes a balance between comfort and style, ensuring a polish…\n\nEasy-care Fabric\nFeaturing low-maintenance polyester fabric, this T-shirt is easy to clean and retain in top conditio…\n\nFlexible and Breathable\nOwing to its stretchable fabric, this T-shirt conforms to the body's natural movements, allowing enh…",
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Round Neck",
+      "Pattern": "Self Design"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "f200859399b54211fb17b0d6",
+      "path": "media/images/f200859399b54211fb17b0d6/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "c2b2afadb1f4c80f1177a768",
+      "path": "media/videos/c2b2afadb1f4c80f1177a768/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/s/h/s-ts85-vebnor-original-imahns3dvytmtzzu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/s/h/s-ts85-vebnor-original-imahns3dvytmtzzu.jpeg?q=100",
+        "local_path": "../../media/images/f200859399b54211fb17b0d6/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/j/q/s-ts85-vebnor-original-imahns3xcnbqnmjt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/j/q/s-ts85-vebnor-original-imahns3xcnbqnmjt.jpeg?q=100",
+        "local_path": "../../media/images/f200859399b54211fb17b0d6/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/6/f/c/s-ts85-vebnor-original-imahns3xtgjpzy4y.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/6/f/c/s-ts85-vebnor-original-imahns3xtgjpzy4y.jpeg?q=100",
+        "local_path": "../../media/images/f200859399b54211fb17b0d6/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/c/c/s-ts85-vebnor-original-imahns3daahzuhss.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/c/c/s-ts85-vebnor-original-imahns3daahzuhss.jpeg?q=100",
+        "local_path": "../../media/images/f200859399b54211fb17b0d6/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/b/0/s-ts85-vebnor-original-imahns3dfkgazp33.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/b/0/s-ts85-vebnor-original-imahns3dfkgazp33.jpeg?q=100",
+        "local_path": "../../media/images/f200859399b54211fb17b0d6/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNsbgdf5UXSHK56_-dx3QMgA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Self Design Men Round Neck Grey T-Shirt",
+      "description": "VeBNoR Self Design Men Round Neck Grey T-Shirt - Buy VeBNoR Self Design Men Round Neck Grey T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/l/s/h/s-ts85-vebnor-original-imahns3dvytmtzzu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/j/q/s-ts85-vebnor-original-imahns3xcnbqnmjt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/6/f/c/s-ts85-vebnor-original-imahns3xtgjpzy4y.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/c/c/s-ts85-vebnor-original-imahns3daahzuhss.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/b/0/s-ts85-vebnor-original-imahns3dfkgazp33.jpeg?q=70"
+      ],
+      "sku": "TSHH7M3J59YAZFP2",
+      "color": "Dark Grey",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 4462,
+        "ratingCount": 89074,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 256,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Akhilesh Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-29",
+          "reviewBody": "Nice t shirt I m happy 😊😊\nI am an engineer, I had ordered this t-shirt for site work, but after seeing it I did not wear it, it feels fun to wear it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Rumana  Mukadam ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-30",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-09",
+          "reviewBody": "Amazing product 😉\nStitching is very perfect 🤩 \nMateriale is very soft and good 😊 \nQuality also awesome 😍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Round Neck",
+          "body": "Thanks to its round neck design, this men's T-shirt offers a relaxed and versatile look suited for c…"
+        },
+        {
+          "heading": "Full-length Sleeves",
+          "body": "Boasting extended sleeves, this T-shirt provides ample coverage while maintaining a refined appearan…"
+        },
+        {
+          "heading": "Refined Regular Fit",
+          "body": "Made with a regular fit, this T-shirt strikes a balance between comfort and style, ensuring a polish…"
+        },
+        {
+          "heading": "Easy-care Fabric",
+          "body": "Featuring low-maintenance polyester fabric, this T-shirt is easy to clean and retain in top conditio…"
+        },
+        {
+          "heading": "Flexible and Breathable",
+          "body": "Owing to its stretchable fabric, this T-shirt conforms to the body's natural movements, allowing enh…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Round Neck",
+        "Pattern": "Self Design"
+      },
+      "specifications": {}
+    }
+  }
+}

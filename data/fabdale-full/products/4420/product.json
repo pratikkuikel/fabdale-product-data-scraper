@@ -1,0 +1,145 @@
+{
+  "product_id": "4420",
+  "sku": "Fab-KurtaSet-TIBR-005MR-XL",
+  "product": {
+    "name": "Tirthan Repeating geometric print",
+    "parent_id": "5362",
+    "notes": "https://www.flipkart.com/tibra-collection-men-kurta-pyjama-set/p/itm17329c0d349d0?pid=ETHG8968D6VK5YGT&marketplace=FLIPKART&lid=LSTETHG8968D6VK5YGTC78HYL&swatchAttr=size&pageUID=1774110303986"
+  },
+  "source_bundle": {
+    "key": "pid-ETHG8968D6VK5YGT",
+    "path": "../../sources/pid-ETHG8968D6VK5YGT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tibra-collection-men-kurta-pyjama-set/p/itm17329c0d349d0?pid=ETHG8968D6VK5YGT&marketplace=FLIPKART&lid=LSTETHG8968D6VK5YGTC78HYL&swatchAttr=size&pageUID=1774110303986",
+    "scraped_at": "2026-08-15T14:45:09.216Z",
+    "final_url": "https://www.flipkart.com/tibra-collection-men-kurta-pyjama-set/p/itm17329c0d349d0?pid=ETHG8968D6VK5YGT&marketplace=FLIPKART&lid=LSTETHG8968D6VK5YGTC78HYL&swatchAttr=size&pageUID=1774110303986"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T14:45:53.681Z"
+  },
+  "content": {
+    "title": "Tibra Collection Men Cotton Blend Kurta Pyjama Set",
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1f63a5ad3f2064f4a0fc30b1",
+      "path": "media/images/1f63a5ad3f2064f4a0fc30b1/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/a/j/j/m-010-tibra-collection-resized-original-imagyv3kjqxtv6gx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/a/j/j/m-010-tibra-collection-resized-original-imagyv3kjqxtv6gx.jpeg?q=100",
+        "local_path": "../../media/images/1f63a5ad3f2064f4a0fc30b1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/f/k/k/m-010-tibra-collection-original-imagyv3k9jggcvky.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/f/k/k/m-010-tibra-collection-original-imagyv3k9jggcvky.jpeg?q=100",
+        "local_path": "../../media/images/1f63a5ad3f2064f4a0fc30b1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/p/i/2/m-010-tibra-collection-original-imagyv3k7zzzk8ez.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/p/i/2/m-010-tibra-collection-original-imagyv3k7zzzk8ez.jpeg?q=100",
+        "local_path": "../../media/images/1f63a5ad3f2064f4a0fc30b1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/o/2/w/m-010-tibra-collection-original-imagyv3kne8czdwc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/o/2/w/m-010-tibra-collection-original-imagyv3kne8czdwc.jpeg?q=100",
+        "local_path": "../../media/images/1f63a5ad3f2064f4a0fc30b1/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/z/m/h/m-010-tibra-collection-original-imagyv3krv4qw9bu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/ethnic-set/z/m/h/m-010-tibra-collection-original-imagyv3krv4qw9bu.jpeg?q=100",
+        "local_path": "../../media/images/1f63a5ad3f2064f4a0fc30b1/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/y/o/y/m-dobby-kurta-set-sypher-boutique-resized-original-imahgfga22fvkmnm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/y/o/y/m-dobby-kurta-set-sypher-boutique-resized-original-imahgfga22fvkmnm.jpeg?q=100",
+        "local_path": "../../media/images/1f63a5ad3f2064f4a0fc30b1/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/3/x/f/m-cotton-dobby-002-c-purple-koshin-resized-original-imahmashm5dxvm9j.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/3/x/f/m-cotton-dobby-002-c-purple-koshin-resized-original-imahmashm5dxvm9j.jpeg?q=100",
+        "local_path": "../../media/images/1f63a5ad3f2064f4a0fc30b1/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/i/g/m-multicolor-m-kurta-kiyoo-original-imahpq45hwtjr9zh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/v/i/g/m-multicolor-m-kurta-kiyoo-original-imahpq45hwtjr9zh.jpeg?q=100",
+        "local_path": "../../media/images/1f63a5ad3f2064f4a0fc30b1/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/e/m/v/l-booti-01-tibra-collection-original-imahhyzdvry3mxbe.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/e/m/v/l-booti-01-tibra-collection-original-imahhyzdvry3mxbe.jpeg?q=100",
+        "local_path": "../../media/images/1f63a5ad3f2064f4a0fc30b1/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/e/s/l/m-khadi-cotton-sypher-boutique-resized-original-imahev7szvyny3nt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/e/s/l/m-khadi-cotton-sypher-boutique-resized-original-imahev7szvyny3nt.jpeg?q=100",
+        "local_path": "../../media/images/1f63a5ad3f2064f4a0fc30b1/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/q/1/6/42-ng-k-maron-next-levels-original-imagzuce4dqj5bvr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/q/1/6/42-ng-k-maron-next-levels-original-imagzuce4dqj5bvr.jpeg?q=100",
+        "local_path": "../../media/images/1f63a5ad3f2064f4a0fc30b1/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/d/n/xl-dobby-kurta-set-sypher-boutique-original-imahgfgfrmbyhyyv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/k/d/n/xl-dobby-kurta-set-sypher-boutique-original-imahgfgfrmbyhyyv.jpeg?q=100",
+        "local_path": "../../media/images/1f63a5ad3f2064f4a0fc30b1/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/u/u/j/s-boota-1-tibra-collection-original-imahhftpbfhh45xh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/ethnic-set/u/u/j/s-boota-1-tibra-collection-original-imahhftpbfhh45xh.jpeg?q=100",
+        "local_path": "../../media/images/1f63a5ad3f2064f4a0fc30b1/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

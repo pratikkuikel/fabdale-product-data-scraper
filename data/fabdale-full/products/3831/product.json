@@ -1,0 +1,187 @@
+{
+  "product_id": "3831",
+  "sku": "Fab-TShirt-TRPR-019BL-XXL",
+  "product": {
+    "name": "TeeCulture Hooded Neck Cotton Blend Black T-Shirt",
+    "parent_id": "5209",
+    "notes": "https://www.flipkart.com/tripr-printed-men-hooded-neck-navy-blue-t-shirt/p/itm5d1d2baa57e39?pid=TSHH8ZCB5Z4HNUUC&marketplace=FLIPKART&lid=LSTTSHH8ZCB5Z4HNUUCMUBTIX&swatchAttr=size&pageUID=1773249273764"
+  },
+  "source_bundle": {
+    "key": "pid-TSHH8ZCB5Z4HNUUC",
+    "path": "../../sources/pid-TSHH8ZCB5Z4HNUUC/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/tripr-printed-men-hooded-neck-navy-blue-t-shirt/p/itm5d1d2baa57e39?pid=TSHH8ZCB5Z4HNUUC&marketplace=FLIPKART&lid=LSTTSHH8ZCB5Z4HNUUCMUBTIX&swatchAttr=size&pageUID=1773249273764",
+    "scraped_at": "2026-08-15T10:24:57.273Z",
+    "final_url": "https://www.flipkart.com/tripr-printed-men-hooded-neck-navy-blue-t-shirt/p/itm5d1d2baa57e39?pid=TSHH8ZCB5Z4HNUUC&marketplace=FLIPKART&lid=LSTTSHH8ZCB5Z4HNUUCMUBTIX&swatchAttr=size&pageUID=1773249273764"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:25:23.797Z"
+  },
+  "content": {
+    "title": "TRIPR Printed Men Hooded Neck Navy Blue T-Shirt",
+    "short_description": "TRIPR Printed Men Hooded Neck Navy Blue T-Shirt - Buy TRIPR Printed Men Hooded Neck Navy Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "TRIPR Printed Men Hooded Neck Navy Blue T-Shirt - Buy TRIPR Printed Men Hooded Neck Navy Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1ded0910c51adf2fb2ff617b",
+      "path": "media/images/1ded0910c51adf2fb2ff617b/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/q/g/l-tnvhdful-d177-tripr-resized-original-imahgkc7pfnrkgzt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/q/g/l-tnvhdful-d177-tripr-resized-original-imahgkc7pfnrkgzt.jpeg?q=100",
+        "local_path": "../../media/images/1ded0910c51adf2fb2ff617b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/t/a/l-tnvhdful-d177-tripr-original-imahgkc7tw2zpxvb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/t/a/l-tnvhdful-d177-tripr-original-imahgkc7tw2zpxvb.jpeg?q=100",
+        "local_path": "../../media/images/1ded0910c51adf2fb2ff617b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/h/e/l-tnvhdful-d177-tripr-original-imahgkc7jgzyetgs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/h/e/l-tnvhdful-d177-tripr-original-imahgkc7jgzyetgs.jpeg?q=100",
+        "local_path": "../../media/images/1ded0910c51adf2fb2ff617b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/r/3/l-tnvhdful-d177-tripr-original-imahgkc7vdrmdgpz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/r/3/l-tnvhdful-d177-tripr-original-imahgkc7vdrmdgpz.jpeg?q=100",
+        "local_path": "../../media/images/1ded0910c51adf2fb2ff617b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/l/z/l-tnvhdful-d177-tripr-original-imahgkc7ahbggyzb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/l/z/l-tnvhdful-d177-tripr-original-imahgkc7ahbggyzb.jpeg?q=100",
+        "local_path": "../../media/images/1ded0910c51adf2fb2ff617b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "TRIPR Printed Men Hooded Neck Navy Blue T-Shirt",
+      "description": "TRIPR Printed Men Hooded Neck Navy Blue T-Shirt - Buy TRIPR Printed Men Hooded Neck Navy Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/q/g/l-tnvhdful-d177-tripr-resized-original-imahgkc7pfnrkgzt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/t/a/l-tnvhdful-d177-tripr-original-imahgkc7tw2zpxvb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/h/e/l-tnvhdful-d177-tripr-original-imahgkc7jgzyetgs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/r/3/l-tnvhdful-d177-tripr-original-imahgkc7vdrmdgpz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/e/l/z/l-tnvhdful-d177-tripr-original-imahgkc7ahbggyzb.jpeg?q=70"
+      ],
+      "sku": "TSHH8ZCB5Z4HNUUC",
+      "color": "Navy Blue009",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 320,
+        "ratingCount": 4738,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "TRIPR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 262,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Imdadulla Barbhuiya",
+            "@type": "Person"
+          },
+          "datePublished": "2022-04-12",
+          "reviewBody": "Supper naic",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Santhosh  Kumar ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-08-29",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-08-14",
+          "reviewBody": "good product. comfortable and good colour combination.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

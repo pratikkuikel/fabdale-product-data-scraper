@@ -1,0 +1,179 @@
+{
+  "product_id": "4057",
+  "sku": "Fab-Kurta-CELLX-019 BK-S",
+  "product": {
+    "name": "Civanth Simple straight kurtha",
+    "parent_id": "5401",
+    "notes": "https://www.flipkart.com/cellux-men-solid-straight-kurta/p/itm1d012bfbfe906?pid=KTAGCQXVYAHXVGXF&marketplace=FLIPKART&lid=LSTKTAGCQXVYAHXVGXFKCGHWT&swatchAttr=size&pageUID=1773828487278"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGCQXVYAHXVGXF",
+    "path": "../../sources/pid-KTAGCQXVYAHXVGXF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/cellux-men-solid-straight-kurta/p/itm1d012bfbfe906?pid=KTAGCQXVYAHXVGXF&marketplace=FLIPKART&lid=LSTKTAGCQXVYAHXVGXFKCGHWT&swatchAttr=size&pageUID=1773828487278",
+    "scraped_at": "2026-08-15T12:15:47.146Z",
+    "final_url": "https://www.flipkart.com/cellux-men-solid-straight-kurta/p/itm1d012bfbfe906?pid=KTAGCQXVYAHXVGXF&marketplace=FLIPKART&lid=LSTKTAGCQXVYAHXVGXFKCGHWT&swatchAttr=size&pageUID=1773828487278"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T12:16:57.891Z"
+  },
+  "content": {
+    "title": "CELLUX Men Solid Straight Kurta",
+    "short_description": "CELLUX Men Solid Straight Kurta - Buy CELLUX Men Solid Straight Kurta For Only Rs. 899.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "CELLUX Men Solid Straight Kurta - Buy CELLUX Men Solid Straight Kurta For Only Rs. 899.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "08bb9ddeffe809aef2ed6a26",
+      "path": "media/images/08bb9ddeffe809aef2ed6a26/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/a/n/xl-only-plain-seawind-resized-original-imagczwqyayyquut.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/a/n/xl-only-plain-seawind-resized-original-imagczwqyayyquut.jpeg?q=100",
+        "local_path": "../../media/images/08bb9ddeffe809aef2ed6a26/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/l/j/m/xl-only-plain-seawind-original-imagczwqn22tdnmq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/l/j/m/xl-only-plain-seawind-original-imagczwqn22tdnmq.jpeg?q=100",
+        "local_path": "../../media/images/08bb9ddeffe809aef2ed6a26/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/s/r/v/xl-only-plain-seawind-original-imagczwqhq8uyghn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/s/r/v/xl-only-plain-seawind-original-imagczwqhq8uyghn.jpeg?q=100",
+        "local_path": "../../media/images/08bb9ddeffe809aef2ed6a26/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/9/g/9/xl-only-plain-seawind-original-imagczwqpswpfshv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/9/g/9/xl-only-plain-seawind-original-imagczwqpswpfshv.jpeg?q=100",
+        "local_path": "../../media/images/08bb9ddeffe809aef2ed6a26/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "CELLUX Men Solid Straight Kurta",
+      "description": "CELLUX Men Solid Straight Kurta - Buy CELLUX Men Solid Straight Kurta For Only Rs. 899.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/0/a/n/xl-only-plain-seawind-resized-original-imagczwqyayyquut.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/l/j/m/xl-only-plain-seawind-original-imagczwqn22tdnmq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/s/r/v/xl-only-plain-seawind-original-imagczwqhq8uyghn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l111lzk0/ethnic-set/9/g/9/xl-only-plain-seawind-original-imagczwqpswpfshv.jpeg?q=70"
+      ],
+      "sku": "KTAGCQXVYAHXVGXF",
+      "color": "BLACK",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 1732,
+        "ratingCount": 31740,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "CELLUX",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 265,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Sahidul Haque",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-07",
+          "reviewBody": "Very good kurta quality no 1 value for money",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-07-11",
+          "reviewBody": "Lovely product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Sanjib Sahu",
+            "@type": "Person"
+          },
+          "datePublished": "2023-03-21",
+          "reviewBody": "Great",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

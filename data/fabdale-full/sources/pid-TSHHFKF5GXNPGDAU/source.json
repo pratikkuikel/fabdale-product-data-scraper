@@ -1,0 +1,222 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/tripr-solid-men-henley-neck-dark-green-t-shirt/p/itm4d29ff3954630?pid=TSHHFKF5GXNPGDAU&marketplace=FLIPKART&lid=LSTTSHHFKF5GXNPGDAUVTXUHX&swatchAttr=size&pageUID=1773250941499",
+    "scraped_at": "2026-08-15T10:38:00.185Z",
+    "final_url": "https://www.flipkart.com/tripr-solid-men-henley-neck-dark-green-t-shirt/p/itm4d29ff3954630?pid=TSHHFKF5GXNPGDAU&marketplace=FLIPKART&lid=LSTTSHHFKF5GXNPGDAUVTXUHX&swatchAttr=size&pageUID=1773250941499"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:38:40.596Z"
+  },
+  "content": {
+    "title": "TRIPR Solid Men Henley Neck Dark Green T-Shirt",
+    "short_description": "Fabric: Cotton Blend\nPattern: Solid\nSleeve: Full Sleeve\nNeck Type: Henley Neck",
+    "description": "Classic Style\nThis men's T-shirt features a solid pattern in a vibrant green color, adding a touch of classic styl…\n\nComfortable Fabric\nCrafted from a high-quality cotton blend fabric, this T-shirt offers a soft and comfortable feel aga…\n\nStylish Henley Neck\nWith its henley neck design, this T-shirt adds a stylish twist to your casual look. The buttoned nec…\n\nFull Sleeve Comfort\nFeaturing full sleeves, this T-shirt provides added coverage and warmth during cooler weather. The c…\n\nRegular Fit\nDesigned with a regular fit, this T-shirt provides a flattering silhouette that suits all body types…\n\nIdeal for Casual Occasions\nThis T-shirt is ideal for casual occasions. Pair it with jeans or shorts for a relaxed day out, or d…",
+    "specifications": {
+      "Sleeve": "Full Sleeve",
+      "Fabric": "Cotton Blend",
+      "Neck Type": "Henley Neck",
+      "Pattern": "Solid"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/3/v/-resized-original-imahjzpvcyhsmgxe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/3/v/-resized-original-imahjzpvcyhsmgxe.jpeg?q=100",
+        "local_path": "../../media/images/b6ca29214df0c3d92ed59d51/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/r/i/-original-imahjzbhxp5f6v7s.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/r/i/-original-imahjzbhxp5f6v7s.jpeg?q=100",
+        "local_path": "../../media/images/b6ca29214df0c3d92ed59d51/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/r/8/-original-imahjzpvxsh3e6qj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/r/8/-original-imahjzpvxsh3e6qj.jpeg?q=100",
+        "local_path": "../../media/images/b6ca29214df0c3d92ed59d51/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/t/t/-original-imahjzbhvnedjafp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/t/t/-original-imahjzbhvnedjafp.jpeg?q=100",
+        "local_path": "../../media/images/b6ca29214df0c3d92ed59d51/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/m/l/-original-imahjzbhgtd7tygm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/m/l/-original-imahjzbhgtd7tygm.jpeg?q=100",
+        "local_path": "../../media/images/b6ca29214df0c3d92ed59d51/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNhbhHrwj-QruC_1R24bfQwQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "TRIPR Solid Men Henley Neck Dark Green T-Shirt",
+      "description": "TRIPR Solid Men Henley Neck Dark Green T-Shirt - Buy TRIPR Solid Men Henley Neck Dark Green T-Shirt For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/3/v/-resized-original-imahjzpvcyhsmgxe.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/r/i/-original-imahjzbhxp5f6v7s.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/r/8/-original-imahjzpvxsh3e6qj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/w/t/t/-original-imahjzbhvnedjafp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/m/l/-original-imahjzbhgtd7tygm.jpeg?q=70"
+      ],
+      "sku": "TSHHFKF5GXNPGDAU",
+      "color": "Olive Green",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 6532,
+        "ratingCount": 70049,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "TRIPR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 348,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2020-10-25",
+          "reviewBody": "This product is really awesome",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Raju Sara",
+            "@type": "Person"
+          },
+          "datePublished": "2018-02-23",
+          "reviewBody": "Good looking nice....",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Irfan Diwan",
+            "@type": "Person"
+          },
+          "datePublished": "2019-12-07",
+          "reviewBody": "Supar he",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Style",
+          "body": "This men's T-shirt features a solid pattern in a vibrant green color, adding a touch of classic styl…"
+        },
+        {
+          "heading": "Comfortable Fabric",
+          "body": "Crafted from a high-quality cotton blend fabric, this T-shirt offers a soft and comfortable feel aga…"
+        },
+        {
+          "heading": "Stylish Henley Neck",
+          "body": "With its henley neck design, this T-shirt adds a stylish twist to your casual look. The buttoned nec…"
+        },
+        {
+          "heading": "Full Sleeve Comfort",
+          "body": "Featuring full sleeves, this T-shirt provides added coverage and warmth during cooler weather. The c…"
+        },
+        {
+          "heading": "Regular Fit",
+          "body": "Designed with a regular fit, this T-shirt provides a flattering silhouette that suits all body types…"
+        },
+        {
+          "heading": "Ideal for Casual Occasions",
+          "body": "This T-shirt is ideal for casual occasions. Pair it with jeans or shorts for a relaxed day out, or d…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Full Sleeve",
+        "Fabric": "Cotton Blend",
+        "Neck Type": "Henley Neck",
+        "Pattern": "Solid"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b6ca29214df0c3d92ed59d51",
+      "path": "media/images/b6ca29214df0c3d92ed59d51/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "2448a1adcaa6e3d83a5ee484",
+      "path": "media/videos/2448a1adcaa6e3d83a5ee484/media.json",
+      "reused": true
+    }
+  }
+}

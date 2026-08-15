@@ -1,0 +1,214 @@
+{
+  "product_id": "5373",
+  "sku": null,
+  "product": {
+    "name": "Festivo cream-colored triangular print Kurta",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itm400bd09a5410f?pid=KTAGQ46ACAF2HGTK&lid=LSTKTAGQ46ACAF2HGTKOIP44E&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGQ46ACAF2HGTK",
+    "path": "../../sources/pid-KTAGQ46ACAF2HGTK/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itm400bd09a5410f?pid=KTAGQ46ACAF2HGTK&lid=LSTKTAGQ46ACAF2HGTKOIP44E&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T13:16:34.729Z",
+    "final_url": "https://www.flipkart.com/fubar-men-printed-straight-kurta/p/itm400bd09a5410f?pid=KTAGQ46ACAF2HGTK&lid=LSTKTAGQ46ACAF2HGTKOIP44E&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T13:17:27.095Z"
+  },
+  "content": {
+    "title": "FUBAR Men Printed Straight Kurta",
+    "short_description": "Color: Maroon, White\nFabric: Cotton Blend\nPattern: Printed\nType: Straight",
+    "description": "Classic and Stylish Design\nIntroducing a men's kurta with a classic and stylish printed pattern. The all-over print in maroon a…\n\nComfortable and Versatile\nCrafted from a soft and breathable cotton blend fabric, this kurta offers superior comfort throughou…\n\nElegant Mandarin Neck\nFeaturing a trendy mandarin collar, this kurta adds a touch of traditional charm to your outfit. The…\n\nKnee Length for a Modern Look\nDesigned with a knee-length silhouette, this kurta offers a modern and fashionable look. The length …",
+    "specifications": {
+      "Pattern": "Printed",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Color": "Maroon, White"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "64fed1df12b17fbeeb00fe3e",
+      "path": "media/images/64fed1df12b17fbeeb00fe3e/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/n/s/m-kcku-only-kurta-print-brick-fubar-original-imah3nu5qeh74jdp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/n/s/m-kcku-only-kurta-print-brick-fubar-original-imah3nu5qeh74jdp.jpeg?q=100",
+        "local_path": "../../media/images/64fed1df12b17fbeeb00fe3e/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/v/c/xl-krtpj-print-set-brick-fubar-original-imagpspjhvy55hzk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/v/c/xl-krtpj-print-set-brick-fubar-original-imagpspjhvy55hzk.jpeg?q=100",
+        "local_path": "../../media/images/64fed1df12b17fbeeb00fe3e/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/q/e/m-kcku-only-kurta-print-brick-fubar-original-imah3nu5h8khuhnh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/q/e/m-kcku-only-kurta-print-brick-fubar-original-imah3nu5h8khuhnh.jpeg?q=100",
+        "local_path": "../../media/images/64fed1df12b17fbeeb00fe3e/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/w/d/m-kcku-only-kurta-print-brick-fubar-original-imah3nu5qxgzht4h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/w/d/m-kcku-only-kurta-print-brick-fubar-original-imah3nu5qxgzht4h.jpeg?q=100",
+        "local_path": "../../media/images/64fed1df12b17fbeeb00fe3e/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/m/t/m-kcku-only-kurta-print-brick-fubar-original-imah3nu588nwgwew.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/m/t/m-kcku-only-kurta-print-brick-fubar-original-imah3nu588nwgwew.jpeg?q=100",
+        "local_path": "../../media/images/64fed1df12b17fbeeb00fe3e/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Men Printed Straight Kurta",
+      "description": "FUBAR Men Printed Straight Kurta - Buy FUBAR Men Printed Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/n/s/m-kcku-only-kurta-print-brick-fubar-original-imah3nu5qeh74jdp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/m/v/c/xl-krtpj-print-set-brick-fubar-original-imagpspjhvy55hzk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/q/e/m-kcku-only-kurta-print-brick-fubar-original-imah3nu5h8khuhnh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/w/d/m-kcku-only-kurta-print-brick-fubar-original-imah3nu5qxgzht4h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/m/t/m-kcku-only-kurta-print-brick-fubar-original-imah3nu588nwgwew.jpeg?q=70"
+      ],
+      "sku": "KTAGQ46ACAF2HGTK",
+      "color": "Brick",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 2213,
+        "ratingCount": 33694,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 249,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Dipraj Sarkar",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-04",
+          "reviewBody": "Nice colour combination, \nPerfect size \nGood quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Nihudi Salunke",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-15",
+          "reviewBody": "Worth for money 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Nilesh Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2022-10-23",
+          "reviewBody": "Nice design and fabric. You might face fitting issue but could be fixed by alteration.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic and Stylish Design",
+          "body": "Introducing a men's kurta with a classic and stylish printed pattern. The all-over print in maroon a…"
+        },
+        {
+          "heading": "Comfortable and Versatile",
+          "body": "Crafted from a soft and breathable cotton blend fabric, this kurta offers superior comfort throughou…"
+        },
+        {
+          "heading": "Elegant Mandarin Neck",
+          "body": "Featuring a trendy mandarin collar, this kurta adds a touch of traditional charm to your outfit. The…"
+        },
+        {
+          "heading": "Knee Length for a Modern Look",
+          "body": "Designed with a knee-length silhouette, this kurta offers a modern and fashionable look. The length …"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Color": "Maroon, White"
+      },
+      "specifications": {}
+    }
+  }
+}

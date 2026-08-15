@@ -1,0 +1,21 @@
+{
+  "source_key": "pid-KTAGQ46ACAF2HGTK",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4242",
+    "4243",
+    "4244",
+    "4245",
+    "4246",
+    "5373",
+    "6325"
+  ],
+  "source_path": "sources/pid-KTAGQ46ACAF2HGTK/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T13:16:34.461Z",
+  "completed_at": "2026-08-15T13:17:27.095Z"
+}

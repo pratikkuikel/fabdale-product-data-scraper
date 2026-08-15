@@ -1,0 +1,18 @@
+{
+  "source_key": "pid-KTAHHSSBKQKDXDVR",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4267",
+    "4270",
+    "4271",
+    "5376"
+  ],
+  "source_path": "sources/pid-KTAHHSSBKQKDXDVR/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T13:26:52.285Z",
+  "completed_at": "2026-08-15T13:27:23.808Z"
+}

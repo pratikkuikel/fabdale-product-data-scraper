@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/dry-state-full-sleeve-printed-men-sweatshirt/p/itmfe933474d8ca2?pid=SWSGV2ZYZEDJ5Y7M&marketplace=FLIPKART&lid=LSTSWSGV2ZYZEDJ5Y7MIBTPQE&swatchAttr=size&pageUID=1773158973362",
+    "scraped_at": "2026-08-15T09:43:33.741Z",
+    "final_url": "https://www.flipkart.com/dry-state-full-sleeve-printed-men-sweatshirt/p/itmfe933474d8ca2?pid=SWSGV2ZYZEDJ5Y7M&marketplace=FLIPKART&lid=LSTSWSGV2ZYZEDJ5Y7MIBTPQE&swatchAttr=size&pageUID=1773158973362"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:43:42.145Z"
+  },
+  "content": {
+    "title": "THE DRY STATE Full Sleeve Printed Men Sweatshirt",
+    "short_description": "THE DRY STATE Full Sleeve Printed Men Sweatshirt - Buy THE DRY STATE Full Sleeve Printed Men Sweatshirt For Only Rs. 2299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "THE DRY STATE Full Sleeve Printed Men Sweatshirt - Buy THE DRY STATE Full Sleeve Printed Men Sweatshirt For Only Rs. 2299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/g/p/s/xxl-2126-the-dry-state-original-imagvbpagdhgbzyk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/g/p/s/xxl-2126-the-dry-state-original-imagvbpagdhgbzyk.jpeg?q=100",
+        "local_path": "../../media/images/33c7d2fc387241a3e2d71770/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/d/p/l/xxl-2126-the-dry-state-original-imagvbpagmb3zzmk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/d/p/l/xxl-2126-the-dry-state-original-imagvbpagmb3zzmk.jpeg?q=100",
+        "local_path": "../../media/images/33c7d2fc387241a3e2d71770/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/j/1/o/xxl-2126-the-dry-state-original-imagvbpaghxcghwv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/j/1/o/xxl-2126-the-dry-state-original-imagvbpaghxcghwv.jpeg?q=100",
+        "local_path": "../../media/images/33c7d2fc387241a3e2d71770/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/g/i/a/xxl-2126-the-dry-state-original-imagvbpagwwpxfdr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/g/i/a/xxl-2126-the-dry-state-original-imagvbpagwwpxfdr.jpeg?q=100",
+        "local_path": "../../media/images/33c7d2fc387241a3e2d71770/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/r/9/n/xxl-2126-the-dry-state-original-imagvbpa3gcnmyhv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/r/9/n/xxl-2126-the-dry-state-original-imagvbpa3gcnmyhv.jpeg?q=100",
+        "local_path": "../../media/images/33c7d2fc387241a3e2d71770/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "THE DRY STATE Full Sleeve Printed Men Sweatshirt",
+      "description": "THE DRY STATE Full Sleeve Printed Men Sweatshirt - Buy THE DRY STATE Full Sleeve Printed Men Sweatshirt For Only Rs. 2299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/g/p/s/xxl-2126-the-dry-state-original-imagvbpagdhgbzyk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/d/p/l/xxl-2126-the-dry-state-original-imagvbpagmb3zzmk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/j/1/o/xxl-2126-the-dry-state-original-imagvbpaghxcghwv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/g/i/a/xxl-2126-the-dry-state-original-imagvbpagwwpxfdr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/sweatshirt/r/9/n/xxl-2126-the-dry-state-original-imagvbpa3gcnmyhv.jpeg?q=70"
+      ],
+      "sku": "SWSGV2ZYZEDJ5Y7M",
+      "color": "Blue & Lavender",
+      "category": "sweatshirt",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 31,
+        "ratingCount": 298,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "THE DRY STATE",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 564,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 7,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Sharvani kashyap",
+            "@type": "Person"
+          },
+          "datePublished": "2022-12-16",
+          "reviewBody": "Look wise so cool 😎",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Abhi  Jithu",
+            "@type": "Person"
+          },
+          "datePublished": "2022-05-11",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Ishrat  Jahan",
+            "@type": "Person"
+          },
+          "datePublished": "2022-12-15",
+          "reviewBody": "Good product..... Fabric is thick and very comfortable. Its warm. Suitable for light winter. Print is good. Its not rubber print, permanent kind of print. Price is slightly high. Overall I am happy with it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "33c7d2fc387241a3e2d71770",
+      "path": "media/images/33c7d2fc387241a3e2d71770/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-zip-neck-black-grey-t-shirt/p/itm07b34f0a2565c?pid=TSHHET3FRZTAEB8A&marketplace=FLIPKART&lid=LSTTSHHET3FRZTAEB8AC4GOW8&swatchAttr=size&pageUID=1773054491762",
+    "scraped_at": "2026-08-15T09:20:25.101Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-zip-neck-black-grey-t-shirt/p/itm07b34f0a2565c?pid=TSHHET3FRZTAEB8A&marketplace=FLIPKART&lid=LSTTSHHET3FRZTAEB8AC4GOW8&swatchAttr=size&pageUID=1773054491762"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:20:30.941Z"
+  },
+  "content": {
+    "title": "KAJARU Self Design Men Zip Neck Black, Grey T-Shirt",
+    "short_description": "Fabric: Polyester\nPattern: Self Design\nSleeve: Half Sleeve\nNeck Type: Zip Neck",
+    "description": "KAJARU Self Design Men Zip Neck Black, Grey T-Shirt - Buy KAJARU Self Design Men Zip Neck Black, Grey T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polyester",
+      "Neck Type": "Zip Neck",
+      "Pattern": "Self Design"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/e/d/l-polo-8014-kajaru-resized-original-imahetfycmgbj4vx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/e/d/l-polo-8014-kajaru-resized-original-imahetfycmgbj4vx.jpeg?q=100",
+        "local_path": "../../media/images/707e72ad311fc0102fb65fe4/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/b/y/xl-polo-8043-kajaru-original-imahehgffvwxfn5g.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/b/y/xl-polo-8043-kajaru-original-imahehgffvwxfn5g.jpeg?q=100",
+        "local_path": "../../media/images/707e72ad311fc0102fb65fe4/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/p/h/xl-polo-8043-kajaru-original-imahehgfjpaxv4fp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/p/h/xl-polo-8043-kajaru-original-imahehgfjpaxv4fp.jpeg?q=100",
+        "local_path": "../../media/images/707e72ad311fc0102fb65fe4/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/1/0/xl-polo-8043-kajaru-original-imahehgfhkgzqsyt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/1/0/xl-polo-8043-kajaru-original-imahehgfhkgzqsyt.jpeg?q=100",
+        "local_path": "../../media/images/707e72ad311fc0102fb65fe4/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/u/2/l-polo-8043-kajaru-original-imahehgfbffj3gbk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/u/2/l-polo-8043-kajaru-original-imahehgfbffj3gbk.jpeg?q=100",
+        "local_path": "../../media/images/707e72ad311fc0102fb65fe4/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNDltNHMOJTzejsXmR7g6UPw/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Self Design Men Zip Neck Black, Grey T-Shirt",
+      "description": "KAJARU Self Design Men Zip Neck Black, Grey T-Shirt - Buy KAJARU Self Design Men Zip Neck Black, Grey T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/s/e/d/l-polo-8014-kajaru-resized-original-imahetfycmgbj4vx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/b/y/xl-polo-8043-kajaru-original-imahehgffvwxfn5g.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/b/p/h/xl-polo-8043-kajaru-original-imahehgfjpaxv4fp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/1/0/xl-polo-8043-kajaru-original-imahehgfhkgzqsyt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/p/u/2/l-polo-8043-kajaru-original-imahehgfbffj3gbk.jpeg?q=70"
+      ],
+      "sku": "TSHHET3FRZTAEB8A",
+      "color": "BLACK-GREY.",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 4580,
+        "ratingCount": 87320,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 283,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "DEEPAK  GOSWAMI ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-24",
+          "reviewBody": "Febric like premium quality, Colour, Style, Comfort, Stitching Quality is so fabulous.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-26",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Mohammed",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-14",
+          "reviewBody": "It is awesome",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polyester",
+        "Neck Type": "Zip Neck",
+        "Pattern": "Self Design"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "707e72ad311fc0102fb65fe4",
+      "path": "media/images/707e72ad311fc0102fb65fe4/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "2935964d6ec30c9b8ce5d275",
+      "path": "media/videos/2935964d6ec30c9b8ce5d275/media.json",
+      "reused": false
+    }
+  }
+}

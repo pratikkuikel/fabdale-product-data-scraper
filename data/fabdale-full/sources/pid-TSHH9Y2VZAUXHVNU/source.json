@@ -1,0 +1,214 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-round-neck-grey-t-shirt/p/itmce638a4c92a01?pid=TSHH9Y2VZAUXHVNU&marketplace=FLIPKART&lid=LSTTSHH9Y2VZAUXHVNUYU2K4Q&swatchAttr=size&pageUID=1773073265117",
+    "scraped_at": "2026-08-15T09:23:23.706Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-round-neck-grey-t-shirt/p/itmce638a4c92a01?pid=TSHH9Y2VZAUXHVNU&marketplace=FLIPKART&lid=LSTTSHH9Y2VZAUXHVNUYU2K4Q&swatchAttr=size&pageUID=1773073265117"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T09:23:30.757Z"
+  },
+  "content": {
+    "title": "KAJARU Striped Men Round Neck Grey T-Shirt",
+    "short_description": "Fabric: Polycotton\nPattern: Striped\nSleeve: Half Sleeve\nNeck Type: Round Neck",
+    "description": "Classic Striped Design\nFeaturing a timeless striped pattern all over, this men's T-shirt exudes a classic charm that never …\n\nComfortable Round Neck and Half Sleeves\nDesigned with a comfortable round neck and half sleeves, this T-shirt offers a relaxed fit that is p…\n\nSoft Polycotton Fabric\nCrafted from a blend of polyester and cotton, this T-shirt combines the softness of cotton with the …\n\nVersatile Casual Wear\nIdeal for casual outings, this T-shirt with its all-over striped design and grey color can be effort…",
+    "specifications": {
+      "Sleeve": "Half Sleeve",
+      "Fabric": "Polycotton",
+      "Neck Type": "Round Neck",
+      "Pattern": "Striped"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/m/h/xxl-oversizetsrt-114-kajaru-original-imah93gn5j7kntgc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/m/h/xxl-oversizetsrt-114-kajaru-original-imah93gn5j7kntgc.jpeg?q=100",
+        "local_path": "../../media/images/75a64cfacdcd7203e13dec85/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/x/e/xl-oversizetsrt-114-kajaru-original-imah93gmr5y2y6hg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/x/e/xl-oversizetsrt-114-kajaru-original-imah93gmr5y2y6hg.jpeg?q=100",
+        "local_path": "../../media/images/75a64cfacdcd7203e13dec85/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/m/7/xl-oversizetsrt-114-kajaru-original-imah93gmeny4khen.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/m/7/xl-oversizetsrt-114-kajaru-original-imah93gmeny4khen.jpeg?q=100",
+        "local_path": "../../media/images/75a64cfacdcd7203e13dec85/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/8/u/xxl-oversizetsrt-114-kajaru-original-imah93gn3swrade2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/8/u/xxl-oversizetsrt-114-kajaru-original-imah93gn3swrade2.jpeg?q=100",
+        "local_path": "../../media/images/75a64cfacdcd7203e13dec85/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/d/5/xl-oversizetsrt-114-kajaru-original-imah93gmahzfsuwm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/d/5/xl-oversizetsrt-114-kajaru-original-imah93gmahzfsuwm.jpeg?q=100",
+        "local_path": "../../media/images/75a64cfacdcd7203e13dec85/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNjbTLZnxqQDOvSKyzH1_5DA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Striped Men Round Neck Grey T-Shirt",
+      "description": "KAJARU Striped Men Round Neck Grey T-Shirt - Buy KAJARU Striped Men Round Neck Grey T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/5/m/h/xxl-oversizetsrt-114-kajaru-original-imah93gn5j7kntgc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/x/e/xl-oversizetsrt-114-kajaru-original-imah93gmr5y2y6hg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/m/7/xl-oversizetsrt-114-kajaru-original-imah93gmeny4khen.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/o/8/u/xxl-oversizetsrt-114-kajaru-original-imah93gn3swrade2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/d/5/xl-oversizetsrt-114-kajaru-original-imah93gmahzfsuwm.jpeg?q=70"
+      ],
+      "sku": "TSHH9Y2VZAUXHVNU",
+      "color": "Grey black",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 366,
+        "ratingCount": 9109,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 262,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Rajesh Dakua",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-25",
+          "reviewBody": "Good Quality 👍 \nAnd value of money 💰 \nNice 👍 i like it thanks 🙏🏻 kajaru",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Sk sameer Samee",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-24",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Sahil Khan",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-04",
+          "reviewBody": "Very good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Striped Design",
+          "body": "Featuring a timeless striped pattern all over, this men's T-shirt exudes a classic charm that never …"
+        },
+        {
+          "heading": "Comfortable Round Neck and Half Sleeves",
+          "body": "Designed with a comfortable round neck and half sleeves, this T-shirt offers a relaxed fit that is p…"
+        },
+        {
+          "heading": "Soft Polycotton Fabric",
+          "body": "Crafted from a blend of polyester and cotton, this T-shirt combines the softness of cotton with the …"
+        },
+        {
+          "heading": "Versatile Casual Wear",
+          "body": "Ideal for casual outings, this T-shirt with its all-over striped design and grey color can be effort…"
+        }
+      ],
+      "product_highlights": {
+        "Sleeve": "Half Sleeve",
+        "Fabric": "Polycotton",
+        "Neck Type": "Round Neck",
+        "Pattern": "Striped"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "75a64cfacdcd7203e13dec85",
+      "path": "media/images/75a64cfacdcd7203e13dec85/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "909306dfc48f28a0831d81f6",
+      "path": "media/videos/909306dfc48f28a0831d81f6/media.json",
+      "reused": false
+    }
+  }
+}

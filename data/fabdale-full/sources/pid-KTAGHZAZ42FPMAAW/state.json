@@ -1,0 +1,17 @@
+{
+  "source_key": "pid-KTAGHZAZ42FPMAAW",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4399",
+    "4400",
+    "4401"
+  ],
+  "source_path": "sources/pid-KTAGHZAZ42FPMAAW/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T14:35:56.261Z",
+  "completed_at": "2026-08-15T14:36:24.573Z"
+}

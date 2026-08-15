@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-TSHHEW4U9Z32RWR9",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "3325",
+    "3327"
+  ],
+  "source_path": "sources/pid-TSHHEW4U9Z32RWR9/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T09:17:21.125Z",
+  "completed_at": "2026-08-15T09:17:35.969Z"
+}

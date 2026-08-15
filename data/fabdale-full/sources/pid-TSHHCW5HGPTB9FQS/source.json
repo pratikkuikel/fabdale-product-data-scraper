@@ -1,0 +1,164 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/tripr-printed-men-round-neck-maroon-white-t-shirt/p/itm89daf28232ed4?pid=TSHHCW5HGPTB9FQS&marketplace=FLIPKART&lid=LSTTSHHCW5HGPTB9FQSTUY49X&swatchAttr=size&pageUID=1773224221565",
+    "scraped_at": "2026-08-15T10:03:55.265Z",
+    "final_url": "https://www.flipkart.com/tripr-printed-men-round-neck-maroon-white-t-shirt/p/itm89daf28232ed4?pid=TSHHCW5HGPTB9FQS&marketplace=FLIPKART&lid=LSTTSHHCW5HGPTB9FQSTUY49X&swatchAttr=size&pageUID=1773224221565"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T10:04:04.400Z"
+  },
+  "content": {
+    "title": "TRIPR Printed Men Round Neck Maroon, White T-Shirt",
+    "short_description": "TRIPR Printed Men Round Neck Maroon, White T-Shirt - Buy TRIPR Printed Men Round Neck Maroon, White T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "TRIPR Printed Men Round Neck Maroon, White T-Shirt - Buy TRIPR Printed Men Round Neck Maroon, White T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/d/g/l-tmrwtrnful-d194-tripr-resized-original-imahcw5hnvxhdsut.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/d/g/l-tmrwtrnful-d194-tripr-resized-original-imahcw5hnvxhdsut.jpeg?q=100",
+        "local_path": "../../media/images/fbba5765feee0132c8ca2698/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/5/1/l-tmrwtrnful-d194-tripr-original-imahcw5h7wfwzvf3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/5/1/l-tmrwtrnful-d194-tripr-original-imahcw5h7wfwzvf3.jpeg?q=100",
+        "local_path": "../../media/images/fbba5765feee0132c8ca2698/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/5/r/l-tmrwtrnful-d194-tripr-original-imahcw5hgvczf4sx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/5/r/l-tmrwtrnful-d194-tripr-original-imahcw5hgvczf4sx.jpeg?q=100",
+        "local_path": "../../media/images/fbba5765feee0132c8ca2698/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/l/g/l-tmrwtrnful-d194-tripr-original-imahcw5hrrc6rejr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/l/g/l-tmrwtrnful-d194-tripr-original-imahcw5hrrc6rejr.jpeg?q=100",
+        "local_path": "../../media/images/fbba5765feee0132c8ca2698/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/i/v/l-tmrwtrnful-d194-tripr-original-imahcw5hcpzgdgwg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/i/v/l-tmrwtrnful-d194-tripr-original-imahcw5hcpzgdgwg.jpeg?q=100",
+        "local_path": "../../media/images/fbba5765feee0132c8ca2698/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "TRIPR Printed Men Round Neck Maroon, White T-Shirt",
+      "description": "TRIPR Printed Men Round Neck Maroon, White T-Shirt - Buy TRIPR Printed Men Round Neck Maroon, White T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/c/d/g/l-tmrwtrnful-d194-tripr-resized-original-imahcw5hnvxhdsut.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/5/1/l-tmrwtrnful-d194-tripr-original-imahcw5h7wfwzvf3.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/5/r/l-tmrwtrnful-d194-tripr-original-imahcw5hgvczf4sx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/l/g/l-tmrwtrnful-d194-tripr-original-imahcw5hrrc6rejr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/i/v/l-tmrwtrnful-d194-tripr-original-imahcw5hcpzgdgwg.jpeg?q=70"
+      ],
+      "sku": "TSHHCW5HGPTB9FQS",
+      "color": "Maroon, White0042",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 216,
+        "ratingCount": 1776,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "TRIPR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 246,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Vinod Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2020-10-10",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Kishore Jangam",
+            "@type": "Person"
+          },
+          "datePublished": "2022-04-17",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Nagaraj Nagu",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-25",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "fbba5765feee0132c8ca2698",
+      "path": "media/images/fbba5765feee0132c8ca2698/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

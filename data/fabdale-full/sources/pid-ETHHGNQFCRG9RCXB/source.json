@@ -1,0 +1,149 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/fubar-men-kurta-pyjama-set/p/itm5d9d25d0aeeb6?pid=ETHHGNQFCRG9RCXB&marketplace=FLIPKART&lid=LSTETHHGNQFCRG9RCXBHCKMKH&swatchAttr=size&pageUID=1773919101113",
+    "scraped_at": "2026-08-15T13:02:10.051Z",
+    "final_url": "https://www.flipkart.com/fubar-men-kurta-pyjama-set/p/itm5d9d25d0aeeb6?pid=ETHHGNQFCRG9RCXB&marketplace=FLIPKART&lid=LSTETHHGNQFCRG9RCXBHCKMKH&swatchAttr=size&pageUID=1773919101113"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T13:02:22.279Z"
+  },
+  "content": {
+    "title": "FUBAR Men Kurta Pyjama Set",
+    "short_description": "FUBAR Men Kurta Pyjama Set - Buy FUBAR Men Kurta Pyjama Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "FUBAR Men Kurta Pyjama Set - Buy FUBAR Men Kurta Pyjama Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/a/b/l-kcku-only-kurta-stick-lvndr-fubar-resized-original-imahfwwh6whcewfh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/a/b/l-kcku-only-kurta-stick-lvndr-fubar-resized-original-imahfwwh6whcewfh.jpeg?q=100",
+        "local_path": "../../media/images/422451f9188566471b5f6746/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/9/l/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhytagedsy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/9/l/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhytagedsy.jpeg?q=100",
+        "local_path": "../../media/images/422451f9188566471b5f6746/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/5/5/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhkfpyjpbu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/5/5/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhkfpyjpbu.jpeg?q=100",
+        "local_path": "../../media/images/422451f9188566471b5f6746/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/p/1/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhywhsjcyf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/p/1/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhywhsjcyf.jpeg?q=100",
+        "local_path": "../../media/images/422451f9188566471b5f6746/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/r/k/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhadhsppxf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/r/k/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhadhsppxf.jpeg?q=100",
+        "local_path": "../../media/images/422451f9188566471b5f6746/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Men Kurta Pyjama Set",
+      "description": "FUBAR Men Kurta Pyjama Set - Buy FUBAR Men Kurta Pyjama Set For Only Rs. 3999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/a/b/l-kcku-only-kurta-stick-lvndr-fubar-resized-original-imahfwwh6whcewfh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/9/l/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhytagedsy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/5/5/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhkfpyjpbu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/y/p/1/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhywhsjcyf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/r/k/l-kcku-only-kurta-stick-lvndr-fubar-original-imahfwwhadhsppxf.jpeg?q=70"
+      ],
+      "sku": "ETHHGNQFCRG9RCXB",
+      "color": "Lavender",
+      "category": "ethnic_set",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 2,
+        "ratingCount": 18,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 539,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Nidhi Kumari",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-08",
+          "reviewBody": "Good quality fabric and look according to price",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-01-25",
+          "reviewBody": "Very nice😘 worth it",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "422451f9188566471b5f6746",
+      "path": "media/images/422451f9188566471b5f6746/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}
