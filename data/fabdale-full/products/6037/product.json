@@ -1,0 +1,38 @@
+{
+  "product_id": "6037",
+  "sku": "Fab-Dress-AARY-001WH-XXL",
+  "product": {
+    "name": "Aamira Foral high-low maxi dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm2b63ca1a4b3a7?pid=KDEH9EHMNNCQGNHE&lid=LSTKDEH9EHMNNCQGNHELEKM9H&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KDEH9EHMNNCQGNHE",
+    "path": "../../sources/pid-KDEH9EHMNNCQGNHE/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm2b63ca1a4b3a7?pid=KDEH9EHMNNCQGNHE&lid=LSTKDEH9EHMNNCQGNHELEKM9H&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T22:43:37.464Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm2b63ca1a4b3a7?pid=KDEH9EHMNNCQGNHE&lid=LSTKDEH9EHMNNCQGNHELEKM9H&marketplace=FLIPKART&sattr[]=color&st=color\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm2b63ca1a4b3a7?pid=KDEH9EHMNNCQGNHE&lid=LSTKDEH9EHMNNCQGNHELEKM9H&marketplace=FLIPKART&sattr[]=color&st=color\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:43:37.513Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

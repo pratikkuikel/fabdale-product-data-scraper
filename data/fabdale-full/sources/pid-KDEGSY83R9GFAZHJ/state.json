@@ -1,0 +1,17 @@
+{
+  "source_key": "pid-KDEGSY83R9GFAZHJ",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/zenat-girls-calf-length-party-dress/p/itmcaadd2328284c?pid=KDEGSY83R9GFAZHJ&marketplace=FLIPKART&lid=LSTKDEGSY83R9GFAZHJOSZWCL&swatchAttr=size&pageUID=1776076391227\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/zenat-girls-calf-length-party-dress/p/itmcaadd2328284c?pid=KDEGSY83R9GFAZHJ&marketplace=FLIPKART&lid=LSTKDEGSY83R9GFAZHJOSZWCL&swatchAttr=size&pageUID=1776076391227\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "6299",
+    "6300",
+    "6301"
+  ],
+  "source_path": "sources/pid-KDEGSY83R9GFAZHJ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T23:11:18.264Z",
+  "completed_at": "2026-08-15T23:11:18.503Z"
+}

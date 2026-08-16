@@ -1,0 +1,168 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/dimmy-men-solid-a-line-kurta/p/itm2266c44e263e0?pid=KTAHGW9DSWFR7UGW&marketplace=FLIPKART&lid=LSTKTAHGW9DSWFR7UGWIISWC5&swatchAttr=size&pageUID=1774177382249",
+    "scraped_at": "2026-08-15T20:30:15.361Z",
+    "final_url": "https://www.flipkart.com/dimmy-men-solid-a-line-kurta/p/itm2266c44e263e0?pid=KTAHGW9DSWFR7UGW&marketplace=FLIPKART&lid=LSTKTAHGW9DSWFR7UGWIISWC5&swatchAttr=size&pageUID=1774177382249"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:30:23.431Z"
+  },
+  "content": {
+    "title": "DIMMY Men Solid A-line Kurta",
+    "short_description": "DIMMY Men Solid A-line Kurta - Buy DIMMY Men Solid A-line Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "DIMMY Men Solid A-line Kurta - Buy DIMMY Men Solid A-line Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/i/m/l-liop03-dimmy-resized-original-imahgw9dxyfqs8zd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/i/m/l-liop03-dimmy-resized-original-imahgw9dxyfqs8zd.jpeg?q=100",
+        "local_path": "../../media/images/739c6245dc6ddd2165c3e092/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/5/n/l-liop03-dimmy-original-imahgw9dhzzjgb5t.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/5/n/l-liop03-dimmy-original-imahgw9dhzzjgb5t.jpeg?q=100",
+        "local_path": "../../media/images/739c6245dc6ddd2165c3e092/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/z/w/l-liop03-dimmy-original-imahgw9dzxkgy6ee.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/z/w/l-liop03-dimmy-original-imahgw9dzxkgy6ee.jpeg?q=100",
+        "local_path": "../../media/images/739c6245dc6ddd2165c3e092/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/r/b/t/l-liop03-dimmy-original-imahgw9dshvgcphh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/r/b/t/l-liop03-dimmy-original-imahgw9dshvgcphh.jpeg?q=100",
+        "local_path": "../../media/images/739c6245dc6ddd2165c3e092/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "DIMMY Men Solid A-line Kurta",
+      "description": "DIMMY Men Solid A-line Kurta - Buy DIMMY Men Solid A-line Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/i/m/l-liop03-dimmy-resized-original-imahgw9dxyfqs8zd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/5/n/l-liop03-dimmy-original-imahgw9dhzzjgb5t.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/z/w/l-liop03-dimmy-original-imahgw9dzxkgy6ee.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/r/b/t/l-liop03-dimmy-original-imahgw9dshvgcphh.jpeg?q=70"
+      ],
+      "sku": "KTAHGW9DSWFR7UGW",
+      "color": "BLACK",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 41,
+        "ratingCount": 701,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "DIMMY",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 359,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Vishnu  Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-11-28",
+          "reviewBody": "Wonderful glossy",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Rajib Aslam",
+            "@type": "Person"
+          },
+          "datePublished": "2026-01-13",
+          "reviewBody": "Very nice your product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Akash Dandge ",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-23",
+          "reviewBody": "Nice 👍🙂",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "739c6245dc6ddd2165c3e092",
+      "path": "media/images/739c6245dc6ddd2165c3e092/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

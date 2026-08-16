@@ -1,0 +1,197 @@
+{
+  "product_id": "4892",
+  "sku": "Fab-Jewel-BRAD-006WH",
+  "product": {
+    "name": "Bradox Pearl Beads  Jewellery",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-gold-green-maroon-set/p/itm0af4a71936fc3?pid=JWSGYVDYYYC8VUZ8&lid=LSTJWSGYVDYYYC8VUZ8EHXC74&marketplace=FLIPKART&q=artificial+jewellery+for+women&store=mcr%2F96v%2Fyx2&srno=s_1_21&otracker=AS_QueryStore_OrganicAutoSuggest_1_19_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_19_na_na_na&fm=organic&iid=en_e6rcCDAfJzCOZ3FD2c3tlN264vrU7bUCctAWBkXSxfSz4WSyyG3Y2fIlXas4Fp7tPBebLjG0RA24S8PxNE7eMQ%3D%3D&ppt=pp&ppn=pp&ssid=kycp5zwruo0000001766295054706&qH=db5ba3edd1478aed"
+  },
+  "source_bundle": {
+    "key": "pid-JWSGYVDYYYC8VUZ8",
+    "path": "../../sources/pid-JWSGYVDYYYC8VUZ8/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-gold-green-maroon-set/p/itm0af4a71936fc3?pid=JWSGYVDYYYC8VUZ8&lid=LSTJWSGYVDYYYC8VUZ8EHXC74&marketplace=FLIPKART&q=artificial+jewellery+for+women&store=mcr%2F96v%2Fyx2&srno=s_1_21&otracker=AS_QueryStore_OrganicAutoSuggest_1_19_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_19_na_na_na&fm=organic&iid=en_e6rcCDAfJzCOZ3FD2c3tlN264vrU7bUCctAWBkXSxfSz4WSyyG3Y2fIlXas4Fp7tPBebLjG0RA24S8PxNE7eMQ%3D%3D&ppt=pp&ppn=pp&ssid=kycp5zwruo0000001766295054706&qH=db5ba3edd1478aed",
+    "scraped_at": "2026-08-15T20:47:40.636Z",
+    "final_url": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-gold-green-maroon-set/p/itm0af4a71936fc3?pid=JWSGYVDYYYC8VUZ8&lid=LSTJWSGYVDYYYC8VUZ8EHXC74&marketplace=FLIPKART&q=artificial+jewellery+for+women&store=mcr%2F96v%2Fyx2&srno=s_1_21&otracker=AS_QueryStore_OrganicAutoSuggest_1_19_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_19_na_na_na&fm=organic&iid=en_e6rcCDAfJzCOZ3FD2c3tlN264vrU7bUCctAWBkXSxfSz4WSyyG3Y2fIlXas4Fp7tPBebLjG0RA24S8PxNE7eMQ%3D%3D&ppt=pp&ppn=pp&ssid=kycp5zwruo0000001766295054706&qH=db5ba3edd1478aed"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:47:54.134Z"
+  },
+  "content": {
+    "title": "brado jewellery Brass Gold-plated Gold, Green, Maroon Jewellery Set",
+    "short_description": "Color: Gold, Green, Maroon\nOccasion: Wedding & Engagement, Religious, Love\nBase Material: Brass\nPlating: Gold-plated",
+    "description": "brado jewellery Brass Gold-plated Gold, Green, Maroon Jewellery Set - Buy brado jewellery Brass Gold-plated Gold, Green, Maroon Jewellery Set only for Rs. 999.0 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+    "specifications": {
+      "Base Material": "Brass",
+      "Color": "Gold, Green, Maroon",
+      "Plating": "Gold-plated",
+      "Occasion": "Wedding & Engagement, Religious, Love"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3bae0b2ea7f2703e0dc20d5b",
+      "path": "media/images/3bae0b2ea7f2703e0dc20d5b/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/i/j/n/-original-imahhbvdhmmdgh72.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/i/j/n/-original-imahhbvdhmmdgh72.jpeg?q=100",
+        "local_path": "../../media/images/3bae0b2ea7f2703e0dc20d5b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/0/i/h/-original-imahhbvdf8vkhwre.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/0/i/h/-original-imahhbvdf8vkhwre.jpeg?q=100",
+        "local_path": "../../media/images/3bae0b2ea7f2703e0dc20d5b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/p/f/5/-original-imahhbvdteyszuyj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/p/f/5/-original-imahhbvdteyszuyj.jpeg?q=100",
+        "local_path": "../../media/images/3bae0b2ea7f2703e0dc20d5b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/8/v/v/-original-imahhbvd28hgskbv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/8/v/v/-original-imahhbvd28hgskbv.jpeg?q=100",
+        "local_path": "../../media/images/3bae0b2ea7f2703e0dc20d5b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/f/d/n/-original-imahhbvdbtnnwfms.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/f/d/n/-original-imahhbvdbtnnwfms.jpeg?q=100",
+        "local_path": "../../media/images/3bae0b2ea7f2703e0dc20d5b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "brado jewellery Brass Gold-plated Gold, Green, Maroon Jewellery Set",
+      "description": "brado jewellery Brass Gold-plated Gold, Green, Maroon Jewellery Set - Buy brado jewellery Brass Gold-plated Gold, Green, Maroon Jewellery Set only for Rs. 999.0 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/i/j/n/-original-imahhbvdhmmdgh72.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/0/i/h/-original-imahhbvdf8vkhwre.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/p/f/5/-original-imahhbvdteyszuyj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/8/v/v/-original-imahhbvd28hgskbv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/f/d/n/-original-imahhbvdbtnnwfms.jpeg?q=70"
+      ],
+      "sku": "JWSGYVDYYYC8VUZ8",
+      "color": "SPS - Kesha",
+      "category": "jewellery_set",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 308,
+        "ratingCount": 6881,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "brado jewellery",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 141,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-10",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Tanmay Chikhale",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-22",
+          "reviewBody": "Good product. Bought for my mother and she liked it so much. So glad ❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Anshu Singh",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-07",
+          "reviewBody": "Nice 🙂",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Base Material": "Brass",
+        "Color": "Gold, Green, Maroon",
+        "Plating": "Gold-plated",
+        "Occasion": "Wedding & Engagement, Religious, Love"
+      },
+      "specifications": {}
+    }
+  }
+}

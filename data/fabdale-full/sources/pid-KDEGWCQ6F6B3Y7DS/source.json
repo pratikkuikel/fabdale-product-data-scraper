@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/pondar-girls-midi-knee-length-casual-dress/p/itm6341c93c5421d?pid=KDEGWCQ6F6B3Y7DS&marketplace=FLIPKART&lid=LSTKDEGWCQ6F6B3Y7DSLPPOFZ&swatchAttr=size&pageUID=1775062585328",
+    "scraped_at": "2026-08-15T21:07:00.092Z",
+    "final_url": "https://www.flipkart.com/pondar-girls-midi-knee-length-casual-dress/p/itm6341c93c5421d?pid=KDEGWCQ6F6B3Y7DS&marketplace=FLIPKART&lid=LSTKDEGWCQ6F6B3Y7DSLPPOFZ&swatchAttr=size&pageUID=1775062585328"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:07:13.969Z"
+  },
+  "content": {
+    "title": "PONDAR Girls Midi/Knee Length Casual Dress",
+    "short_description": "Fabric: Lycra Blend, Net\nPattern: Printed\nType: Fit and Flare Dress\nOccasion: Casual\nPrimary Color: Blue",
+    "description": "Style Code\nGOPI_Your little one will be delighted with this clothing set. The two piece set can be mixed and matched with other items in your girl’s wardrobe for extra versatility. The two piece cloth set for your girls take care of fabric quality, both are stylish yet comfortable to wear. It’s perfect choice for your girl summer suits and ideal for party, every day and on the beach. Emphasize your bellowing appearance by adorning this solid Georgette Top and Digital floral printed accordion pleated skirt clothing set. This Modern top comes with solid pattern, V neckline, butter Crepe Inner and Shirt Style full balloon sleeves. The Pink digital floral printed accordion pleated skirt comes with a partial elasticated waistline and butter crepe inner. The accordion pleated midi skirt is made by nice georgette fabric that flows so fatuously with the creases with features pleated design, this skirt is not transparent, and stretchy waistline for a comfortable fit. Style this look with frock and stylish\n\nFabric Care\nHand wash, Machine wash as per tag, First wash dry clean thereafter handwash, Regular Machine Wash, Do not bleach, Do not wring",
+    "specifications": {
+      "Type": "Fit and Flare Dress",
+      "Occasion": "Casual",
+      "Pattern": "Printed",
+      "Primary Color": "Blue",
+      "Fabric": "Lycra Blend, Net"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/v/q/q/3-4-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgzu4mzeva.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/v/q/q/3-4-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgzu4mzeva.jpeg?q=100",
+        "local_path": "../../media/images/420afbb05b322ffa121fca63/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/g/s/3-4-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfggck37sns.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/g/s/3-4-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfggck37sns.jpeg?q=100",
+        "local_path": "../../media/images/420afbb05b322ffa121fca63/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PONDAR Girls Midi/Knee Length Casual Dress",
+      "description": "Buy PONDAR Girls Midi/Knee Length Casual Dress for Rs.1599.0 online. PONDAR Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/v/q/q/3-4-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgzu4mzeva.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/g/s/3-4-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfggck37sns.jpeg?q=70"
+      ],
+      "sku": "KDEGWCQ6F6B3Y7DS",
+      "color": "BLUE",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "ratingCount": 35,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PONDAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 321,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Style Code",
+          "body": "GOPI_Your little one will be delighted with this clothing set. The two piece set can be mixed and matched with other items in your girl’s wardrobe for extra versatility. The two piece cloth set for your girls take care of fabric quality, both are stylish yet comfortable to wear. It’s perfect choice for your girl summer suits and ideal for party, every day and on the beach. Emphasize your bellowing appearance by adorning this solid Georgette Top and Digital floral printed accordion pleated skirt clothing set. This Modern top comes with solid pattern, V neckline, butter Crepe Inner and Shirt Style full balloon sleeves. The Pink digital floral printed accordion pleated skirt comes with a partial elasticated waistline and butter crepe inner. The accordion pleated midi skirt is made by nice georgette fabric that flows so fatuously with the creases with features pleated design, this skirt is not transparent, and stretchy waistline for a comfortable fit. Style this look with frock and stylish"
+        },
+        {
+          "heading": "Fabric Care",
+          "body": "Hand wash, Machine wash as per tag, First wash dry clean thereafter handwash, Regular Machine Wash, Do not bleach, Do not wring"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Fit and Flare Dress",
+        "Occasion": "Casual",
+        "Pattern": "Printed",
+        "Primary Color": "Blue",
+        "Fabric": "Lycra Blend, Net"
+      },
+      "specifications": {
+        "Brand": "PONDAR",
+        "Brand Color": "BLUE",
+        "Size": "4 - 5 Years",
+        "Type": "Fit and Flare Dress",
+        "Occasion": "Casual",
+        "Ideal For": "Girls",
+        "Pattern": "Printed",
+        "Primary Color": "Blue",
+        "Fabric": "Lycra Blend, Net",
+        "Sleeve Type": "Full Sleeve",
+        "Suitable For": "Western Wear",
+        "Fabric Details": "Lycra Blend + Net",
+        "Net Quantity": "1 Dress",
+        "Belt Included": "No",
+        "Character": "Barbie",
+        "Closure": "Pullover",
+        "Detail Placement": "Sleeve",
+        "Fabric Care": "Hand wash, Machine wash as per tag, First wash dry clean thereafter handwash, Regular Machine Wash, Do not bleach, Do not wring",
+        "Label Size": "26",
+        "Length": "Midi/Knee Length",
+        "Lining Material": "Cotton",
+        "Neck Type": "Round",
+        "Print Type": "Digital Prints",
+        "Secondary Color": "White",
+        "Sleeve Style": "Full Sleeve",
+        "Surface Styling": "Bow"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "420afbb05b322ffa121fca63",
+      "path": "media/images/420afbb05b322ffa121fca63/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

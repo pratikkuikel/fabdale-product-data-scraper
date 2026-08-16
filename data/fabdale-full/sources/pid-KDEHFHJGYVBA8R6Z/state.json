@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-KDEHFHJGYVBA8R6Z",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/njushxa-indi-girls-midi-knee-length-casual-dress/p/itmf92b3788d0e34?pid=KDEHFHJGYVBA8R6Z&marketplace=FLIPKART&lid=LSTKDEHFHJGYVBA8R6Z6WGISN&swatchAttr=size&pageUID=1775580316725\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/njushxa-indi-girls-midi-knee-length-casual-dress/p/itmf92b3788d0e34?pid=KDEHFHJGYVBA8R6Z&marketplace=FLIPKART&lid=LSTKDEHFHJGYVBA8R6Z6WGISN&swatchAttr=size&pageUID=1775580316725\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "5916",
+    "5917"
+  ],
+  "source_path": "sources/pid-KDEHFHJGYVBA8R6Z/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T22:32:18.734Z",
+  "completed_at": "2026-08-15T22:32:19.082Z"
+}

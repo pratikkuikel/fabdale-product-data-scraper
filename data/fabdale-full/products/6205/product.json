@@ -1,0 +1,38 @@
+{
+  "product_id": "6205",
+  "sku": "Fab-Dress-ZENT-001SB-XXL",
+  "product": {
+    "name": "Zestelle Tulle fabric Party Dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/zenat-girls-below-knee-party-dress/p/itmc4767733c6869?pid=KDEGZTAPMHMPWF24&marketplace=FLIPKART&lid=LSTKDEGZTAPMHMPWF24OADVKK&swatchAttr=size&pageUID=1776071028053"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGZTAPMHMPWF24",
+    "path": "../../sources/pid-KDEGZTAPMHMPWF24/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zenat-girls-below-knee-party-dress/p/itmc4767733c6869?pid=KDEGZTAPMHMPWF24&marketplace=FLIPKART&lid=LSTKDEGZTAPMHMPWF24OADVKK&swatchAttr=size&pageUID=1776071028053",
+    "scraped_at": "2026-08-15T23:04:08.968Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/zenat-girls-below-knee-party-dress/p/itmc4767733c6869?pid=KDEGZTAPMHMPWF24&marketplace=FLIPKART&lid=LSTKDEGZTAPMHMPWF24OADVKK&swatchAttr=size&pageUID=1776071028053\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/zenat-girls-below-knee-party-dress/p/itmc4767733c6869?pid=KDEGZTAPMHMPWF24&marketplace=FLIPKART&lid=LSTKDEGZTAPMHMPWF24OADVKK&swatchAttr=size&pageUID=1776071028053\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T23:04:09.070Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

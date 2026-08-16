@@ -1,0 +1,124 @@
+{
+  "product_id": "4719",
+  "sku": "Fab-Kurta-ZAR-001PK-L",
+  "product": {
+    "name": "Zorvan Modern Kurta-style shirt",
+    "parent_id": "5352",
+    "notes": "https://www.flipkart.com/bellstone-men-solid-a-line-kurta/p/itm334d97a8c0416?pid=KTAH89BA4UEMKMVF&marketplace=FLIPKART&lid=LSTKTAH89BA4UEMKMVF62IPST&swatchAttr=size&pageUID=1774175559765"
+  },
+  "source_bundle": {
+    "key": "pid-KTAH89BA4UEMKMVF",
+    "path": "../../sources/pid-KTAH89BA4UEMKMVF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/bellstone-men-solid-a-line-kurta/p/itm334d97a8c0416?pid=KTAH89BA4UEMKMVF&marketplace=FLIPKART&lid=LSTKTAH89BA4UEMKMVF62IPST&swatchAttr=size&pageUID=1774175559765",
+    "scraped_at": "2026-08-15T20:22:33.367Z",
+    "final_url": "https://www.flipkart.com/bellstone-men-solid-a-line-kurta/p/itm334d97a8c0416?pid=KTAH89BA4UEMKMVF&marketplace=FLIPKART&lid=LSTKTAH89BA4UEMKMVF62IPST&swatchAttr=size&pageUID=1774175559765"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:22:38.057Z"
+  },
+  "content": {
+    "title": "bellstone Men Solid A-line Kurta",
+    "short_description": "bellstone Men Solid A-line Kurta - Buy bellstone Men Solid A-line Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "bellstone Men Solid A-line Kurta - Buy bellstone Men Solid A-line Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "130e667866c418c29df4b308",
+      "path": "media/images/130e667866c418c29df4b308/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/h/9/m-kurta1506-zartha-original-imagsuzdhndvnzcq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/h/9/m-kurta1506-zartha-original-imagsuzdhndvnzcq.jpeg?q=100",
+        "local_path": "../../media/images/130e667866c418c29df4b308/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/n/m/m-kurta1506-zartha-original-imagsuzdwbd7jvzs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/n/m/m-kurta1506-zartha-original-imagsuzdwbd7jvzs.jpeg?q=100",
+        "local_path": "../../media/images/130e667866c418c29df4b308/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/d/k/m-kurta1506-zartha-original-imagsuzdrzjedyh5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/d/k/m-kurta1506-zartha-original-imagsuzdrzjedyh5.jpeg?q=100",
+        "local_path": "../../media/images/130e667866c418c29df4b308/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "bellstone Men Solid A-line Kurta",
+      "description": "bellstone Men Solid A-line Kurta - Buy bellstone Men Solid A-line Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/h/9/m-kurta1506-zartha-original-imagsuzdhndvnzcq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/n/m/m-kurta1506-zartha-original-imagsuzdwbd7jvzs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/d/k/m-kurta1506-zartha-original-imagsuzdrzjedyh5.jpeg?q=70"
+      ],
+      "sku": "KTAH89BA4UEMKMVF",
+      "color": "LIGHTPINK",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "ratingCount": 8,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "bellstone",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 332,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

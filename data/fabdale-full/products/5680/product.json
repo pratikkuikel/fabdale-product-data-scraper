@@ -1,0 +1,188 @@
+{
+  "product_id": "5680",
+  "sku": "Fab-Dress-PURNB-022BL-S",
+  "product": {
+    "name": "Parnika Chhota Bheem Above Knee Party Dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-above-knee-party-dress/p/itm20abffffcc5cd?pid=KDEGFDGSGKG3ZGRN&marketplace=FLIPKART&lid=LSTKDEGFDGSGKG3ZGRNHN977P&swatchAttr=size&pageUID=1775146487208"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGFDGSGKG3ZGRN",
+    "path": "../../sources/pid-KDEGFDGSGKG3ZGRN/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-above-knee-party-dress/p/itm20abffffcc5cd?pid=KDEGFDGSGKG3ZGRN&marketplace=FLIPKART&lid=LSTKDEGFDGSGKG3ZGRNHN977P&swatchAttr=size&pageUID=1775146487208",
+    "scraped_at": "2026-08-15T21:55:08.718Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-above-knee-party-dress/p/itm20abffffcc5cd?pid=KDEGFDGSGKG3ZGRN&marketplace=FLIPKART&lid=LSTKDEGFDGSGKG3ZGRNHN977P&swatchAttr=size&pageUID=1775146487208"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:55:25.619Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Baby Girls Above Knee Party Dress",
+    "short_description": "Fabric: Satin\nPattern: Solid\nType: Maxi Dress\nOccasion: Party\nPrimary Color: Multicolor",
+    "description": "Style Code\nJISHA_FROCK_This Elegant Dress is at the top of the wish list for the new season From Fashion Dream on Flipkart. Pair it with trendy Handbag and lovely accessories to get her ready for a Birthday, Christmas, Photo shoots or parties and other festive occasions. This self-design open front crop shrug styled dress is made up of satin fabric with floral digital print pattern. This frock features a round neckline, cap sleeve crop shrug with brooches. Frock has a hidden zipper at the back side and a fixed self-fabric belt at waist. Give your little one's look like a princess with this charming and royal design Midi Frock. Keep your baby girl’s look classy with this super-cute shrug styled dress.",
+    "specifications": {
+      "Type": "Maxi Dress",
+      "Occasion": "Party",
+      "Pattern": "Solid",
+      "Primary Color": "Multicolor",
+      "Fabric": "Satin"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "34d6d423cf38ee70818f1213",
+      "path": "media/images/34d6d423cf38ee70818f1213/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/4/1/j/3-4-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-resized-original-imagfyygezjd4bnm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/4/1/j/3-4-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-resized-original-imagfyygezjd4bnm.jpeg?q=100",
+        "local_path": "../../media/images/34d6d423cf38ee70818f1213/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/u/t/3-4-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygdkrnytm3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/u/t/3-4-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygdkrnytm3.jpeg?q=100",
+        "local_path": "../../media/images/34d6d423cf38ee70818f1213/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/9/p/4-5-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygnnaf2cmq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/9/p/4-5-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygnnaf2cmq.jpeg?q=100",
+        "local_path": "../../media/images/34d6d423cf38ee70818f1213/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Baby Girls Above Knee Party Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Baby Girls Above Knee Party Dress for Rs.1299.0 online. PURNKAMAAY TRENDZ Baby Girls Above Knee Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/4/1/j/3-4-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-resized-original-imagfyygezjd4bnm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/u/t/3-4-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygdkrnytm3.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/9/p/4-5-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygnnaf2cmq.jpeg?q=70"
+      ],
+      "sku": "KDEGFDGSGKG3ZGRN",
+      "color": "BLUE",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 35,
+        "ratingCount": 599,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 346,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-09-18",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Gurpreet Kaur",
+            "@type": "Person"
+          },
+          "datePublished": "2022-09-17",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-23",
+          "reviewBody": "She is just 2 years old and 5 years dress looking perfect. Awesome 😎 n pretty 😍 look.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Style Code",
+          "body": "JISHA_FROCK_This Elegant Dress is at the top of the wish list for the new season From Fashion Dream on Flipkart. Pair it with trendy Handbag and lovely accessories to get her ready for a Birthday, Christmas, Photo shoots or parties and other festive occasions. This self-design open front crop shrug styled dress is made up of satin fabric with floral digital print pattern. This frock features a round neckline, cap sleeve crop shrug with brooches. Frock has a hidden zipper at the back side and a fixed self-fabric belt at waist. Give your little one's look like a princess with this charming and royal design Midi Frock. Keep your baby girl’s look classy with this super-cute shrug styled dress."
+        }
+      ],
+      "product_highlights": {
+        "Type": "Maxi Dress",
+        "Occasion": "Party",
+        "Pattern": "Solid",
+        "Primary Color": "Multicolor",
+        "Fabric": "Satin"
+      },
+      "specifications": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "product_id": "6065",
+  "sku": "Fab-Dress-AARY-005BR-L",
+  "product": {
+    "name": "Aamira Floral maxi dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-casual-dress/p/itme50f17ad261ae?pid=KDEHBK8JXHWGTYHT&marketplace=FLIPKART&lid=LSTKDEHBK8JXHWGTYHTHELFRF&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHBK8JXHWGTYHT",
+    "path": "../../sources/pid-KDEHBK8JXHWGTYHT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-casual-dress/p/itme50f17ad261ae?pid=KDEHBK8JXHWGTYHT&marketplace=FLIPKART&lid=LSTKDEHBK8JXHWGTYHTHELFRF&swatchAttr=size",
+    "scraped_at": "2026-08-15T22:47:23.516Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/aarya-designer-girls-maxi-full-length-casual-dress/p/itme50f17ad261ae?pid=KDEHBK8JXHWGTYHT&marketplace=FLIPKART&lid=LSTKDEHBK8JXHWGTYHTHELFRF&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/aarya-designer-girls-maxi-full-length-casual-dress/p/itme50f17ad261ae?pid=KDEHBK8JXHWGTYHT&marketplace=FLIPKART&lid=LSTKDEHBK8JXHWGTYHTHELFRF&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:47:23.556Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-JEAFC7GFBD4G4JQM",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/urbano-fashion-slim-men-light-blue-jeans/p/itmfc8pwem5uvghh?pid=JEAFC7GFBD4G4JQM&marketplace=FLIPKART&lid=LSTJEAFC7GFBD4G4JQMQMR22M&swatchAttr=size&pageUID=1778148139718\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/urbano-fashion-slim-men-light-blue-jeans/p/itmfc8pwem5uvghh?pid=JEAFC7GFBD4G4JQM&marketplace=FLIPKART&lid=LSTJEAFC7GFBD4G4JQMQMR22M&swatchAttr=size&pageUID=1778148139718\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "6452"
+  ],
+  "source_path": "sources/pid-JEAFC7GFBD4G4JQM/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T23:12:05.927Z",
+  "completed_at": "2026-08-15T23:12:06.120Z"
+}

@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-TSHH9YK4AVNX9GPA",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/vebnor-solid-men-polo-neck-blue-t-shirt/p/itm1908664b002c0?pid=TSHH9YK4AVNX9GPA&marketplace=FLIPKART&lid=LSTTSHH9YK4AVNX9GPABN8QJ0&swatchAttr=size&pageUID=1773076655189\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/vebnor-solid-men-polo-neck-blue-t-shirt/p/itm1908664b002c0?pid=TSHH9YK4AVNX9GPA&marketplace=FLIPKART&lid=LSTTSHH9YK4AVNX9GPABN8QJ0&swatchAttr=size&pageUID=1773076655189\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "4993",
+    "5190"
+  ],
+  "source_path": "sources/pid-TSHH9YK4AVNX9GPA/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T21:01:02.276Z",
+  "completed_at": "2026-08-15T21:01:02.576Z"
+}

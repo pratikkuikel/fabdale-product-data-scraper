@@ -1,0 +1,180 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/miss-chief-baby-girls-above-knee-party-dress/p/itmcfaf1bf657a0b?pid=KDEH2YYJHAM5GCZF&marketplace=FLIPKART&lid=LSTKDEH2YYJHAM5GCZFXHOW0G&swatchAttr=size&pageUID=1775148040353",
+    "scraped_at": "2026-08-15T21:57:48.452Z",
+    "final_url": "https://www.flipkart.com/miss-chief-baby-girls-above-knee-party-dress/p/itmcfaf1bf657a0b?pid=KDEH2YYJHAM5GCZF&marketplace=FLIPKART&lid=LSTKDEH2YYJHAM5GCZFXHOW0G&swatchAttr=size&pageUID=1775148040353"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:58:17.046Z"
+  },
+  "content": {
+    "title": "Miss & Chief Baby Girls Above Knee Party Dress",
+    "short_description": "Fabric: Cotton Blend\nPattern: Floral Print\nType: A- Line Dress\nOccasion: Party\nPrimary Color: Multicolor",
+    "description": "Buy Miss & Chief Baby Girls Above Knee Party Dress for Rs.1299.0 online. Miss & Chief Baby Girls Above Knee Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {
+      "Type": "A- Line Dress",
+      "Occasion": "Party",
+      "Pattern": "Floral Print",
+      "Primary Color": "Multicolor",
+      "Fabric": "Cotton Blend"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/u/3/6-12-months-kdm-red-chx-miss-chief-resized-original-imah2yygzk4xnghg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/u/3/6-12-months-kdm-red-chx-miss-chief-resized-original-imah2yygzk4xnghg.jpeg?q=100",
+        "local_path": "../../media/images/0457b473a055ac44ba7648c5/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/x/9/6-12-months-kdm-red-chx-miss-chief-original-imah2yyggpwcpq5z.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/x/9/6-12-months-kdm-red-chx-miss-chief-original-imah2yyggpwcpq5z.jpeg?q=100",
+        "local_path": "../../media/images/0457b473a055ac44ba7648c5/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/r/c/6-12-months-kdm-red-chx-miss-chief-original-imah2yyguxpmbxrg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/r/c/6-12-months-kdm-red-chx-miss-chief-original-imah2yyguxpmbxrg.jpeg?q=100",
+        "local_path": "../../media/images/0457b473a055ac44ba7648c5/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/g/0/6-12-months-kdm-red-chx-miss-chief-original-imah2yygqzb2byhg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/g/0/6-12-months-kdm-red-chx-miss-chief-original-imah2yygqzb2byhg.jpeg?q=100",
+        "local_path": "../../media/images/0457b473a055ac44ba7648c5/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Miss & Chief Baby Girls Above Knee Party Dress",
+      "description": "Buy Miss & Chief Baby Girls Above Knee Party Dress for Rs.1299.0 online. Miss & Chief Baby Girls Above Knee Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/u/3/6-12-months-kdm-red-chx-miss-chief-resized-original-imah2yygzk4xnghg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/x/9/6-12-months-kdm-red-chx-miss-chief-original-imah2yyggpwcpq5z.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/r/c/6-12-months-kdm-red-chx-miss-chief-original-imah2yyguxpmbxrg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/g/0/6-12-months-kdm-red-chx-miss-chief-original-imah2yygqzb2byhg.jpeg?q=70"
+      ],
+      "sku": "KDEH2YYJHAM5GCZF",
+      "color": "RED",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 104,
+        "ratingCount": 2672,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Miss & Chief",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 301,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "TUNi LATA MAHALI",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-02",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-21",
+          "reviewBody": "So pretty 😍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Anu Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-29",
+          "reviewBody": "Such a nice dress 😍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "A- Line Dress",
+        "Occasion": "Party",
+        "Pattern": "Floral Print",
+        "Primary Color": "Multicolor",
+        "Fabric": "Cotton Blend"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0457b473a055ac44ba7648c5",
+      "path": "media/images/0457b473a055ac44ba7648c5/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

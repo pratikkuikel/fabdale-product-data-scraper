@@ -1,0 +1,137 @@
+{
+  "product_id": "5615",
+  "sku": "Fab-Dress-PURNB-009MR-XL",
+  "product": {
+    "name": "Parnika Butterfly Print  Midi",
+    "parent_id": "5626",
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm88afabd0ff9ca?pid=KDEHFE2K7D5TYRYM&marketplace=FLIPKART&lid=LSTKDEHFE2K7D5TYRYMB9K5UB&swatchAttr=size&pageUID=1775060047515"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHFE2K7D5TYRYM",
+    "path": "../../sources/pid-KDEHFE2K7D5TYRYM/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm88afabd0ff9ca?pid=KDEHFE2K7D5TYRYM&marketplace=FLIPKART&lid=LSTKDEHFE2K7D5TYRYMB9K5UB&swatchAttr=size&pageUID=1775060047515",
+    "scraped_at": "2026-08-15T21:38:43.260Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm88afabd0ff9ca?pid=KDEHFE2K7D5TYRYM&marketplace=FLIPKART&lid=LSTKDEHFE2K7D5TYRYMB9K5UB&swatchAttr=size&pageUID=1775060047515"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:39:04.890Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress",
+    "short_description": "Fabric: Cotton Lycra\nType: A- Line Dress\nOccasion: Casual\nPrimary Color: Multicolor",
+    "description": "Buy PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress for Rs.1299.0 online. PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {
+      "Type": "A- Line Dress",
+      "Occasion": "Casual",
+      "Primary Color": "Multicolor",
+      "Fabric": "Cotton Lycra"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ee20ee549f0b2acbd045181a",
+      "path": "media/images/ee20ee549f0b2acbd045181a/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/v/x/2-3-years-hoc-titali-maroon-2-purnkamaay-trendz-original-imahfefj4gwjpads.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/v/x/2-3-years-hoc-titali-maroon-2-purnkamaay-trendz-original-imahfefj4gwjpads.jpeg?q=100",
+        "local_path": "../../media/images/ee20ee549f0b2acbd045181a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/r/4/0/2-3-years-group-26-radhe-radhe-tex-original-imahcsv2frefn4hd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/r/4/0/2-3-years-group-26-radhe-radhe-tex-original-imahcsv2frefn4hd.jpeg?q=100",
+        "local_path": "../../media/images/ee20ee549f0b2acbd045181a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/r/c/w/2-3-years-hoc-titali-maroon-2-purnkamaay-trendz-original-imahfefj7ayzgery.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/r/c/w/2-3-years-hoc-titali-maroon-2-purnkamaay-trendz-original-imahfefj7ayzgery.jpeg?q=100",
+        "local_path": "../../media/images/ee20ee549f0b2acbd045181a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/u/o/2-3-years-hoc-titali-maroon-2-purnkamaay-trendz-original-imahfefjzc3eeazh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/u/o/2-3-years-hoc-titali-maroon-2-purnkamaay-trendz-original-imahfefjzc3eeazh.jpeg?q=100",
+        "local_path": "../../media/images/ee20ee549f0b2acbd045181a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress for Rs.1299.0 online. PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/v/x/2-3-years-hoc-titali-maroon-2-purnkamaay-trendz-original-imahfefj4gwjpads.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/r/4/0/2-3-years-group-26-radhe-radhe-tex-original-imahcsv2frefn4hd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/r/c/w/2-3-years-hoc-titali-maroon-2-purnkamaay-trendz-original-imahfefj7ayzgery.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/u/o/2-3-years-hoc-titali-maroon-2-purnkamaay-trendz-original-imahfefjzc3eeazh.jpeg?q=70"
+      ],
+      "sku": "KDEHFE2K7D5TYRYM",
+      "color": "MAROON",
+      "category": "kids_dress",
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 317,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "A- Line Dress",
+        "Occasion": "Casual",
+        "Primary Color": "Multicolor",
+        "Fabric": "Cotton Lycra"
+      },
+      "specifications": {}
+    }
+  }
+}

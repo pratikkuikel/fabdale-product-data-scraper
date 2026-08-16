@@ -1,0 +1,185 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-maxi-full-length-festive-wedding-dress/p/itm76cc3ad6c4c3b?pid=KDEHDZM3SFFJHT9R&marketplace=FLIPKART&lid=LSTKDEHDZM3SFFJHT9RBNTNOD&swatchAttr=size&pageUID=1774975182229",
+    "scraped_at": "2026-08-15T21:21:59.673Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-maxi-full-length-festive-wedding-dress/p/itm76cc3ad6c4c3b?pid=KDEHDZM3SFFJHT9R&marketplace=FLIPKART&lid=LSTKDEHDZM3SFFJHT9RBNTNOD&swatchAttr=size&pageUID=1774975182229"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:22:19.845Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress",
+    "short_description": "Fabric: Georgette\nPattern: Printed\nType: Maxi Dress\nOccasion: Festive/Wedding\nPrimary Color: Multicolor",
+    "description": "Style Code\nHEEL_Make your little princess shine on her special day with this adorable birthday party dress! Designed with love and care, this dress blends elegance and comfort to give your child a memorable birthday look.",
+    "specifications": {
+      "Type": "Maxi Dress",
+      "Occasion": "Festive/Wedding",
+      "Pattern": "Printed",
+      "Primary Color": "Multicolor",
+      "Fabric": "Georgette"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/2/f/s/3-4-years-heel-make-your-little-princess-shine-on-her-special-resized-original-imahgt5qrc9dycug.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/2/f/s/3-4-years-heel-make-your-little-princess-shine-on-her-special-resized-original-imahgt5qrc9dycug.jpeg?q=100",
+        "local_path": "../../media/images/078f9bef6fb3e45d0bb829af/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/p/y/1-2-years-sneaker-and-trendy-handbag-to-get-her-ready-for-a-original-imahcffumzshngqp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/p/y/1-2-years-sneaker-and-trendy-handbag-to-get-her-ready-for-a-original-imahcffumzshngqp.jpeg?q=100",
+        "local_path": "../../media/images/078f9bef6fb3e45d0bb829af/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/a/3/j/1-2-years-heel-make-your-little-princess-shine-on-her-special-original-imahfrbzavtxw99z.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/a/3/j/1-2-years-heel-make-your-little-princess-shine-on-her-special-original-imahfrbzavtxw99z.jpeg?q=100",
+        "local_path": "../../media/images/078f9bef6fb3e45d0bb829af/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/3/y/o/1-2-years-heel-make-your-little-princess-shine-on-her-special-original-imahfrbzathj7cdp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/3/y/o/1-2-years-heel-make-your-little-princess-shine-on-her-special-original-imahfrbzathj7cdp.jpeg?q=100",
+        "local_path": "../../media/images/078f9bef6fb3e45d0bb829af/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress for Rs.1299.0 online. PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/2/f/s/3-4-years-heel-make-your-little-princess-shine-on-her-special-resized-original-imahgt5qrc9dycug.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/p/y/1-2-years-sneaker-and-trendy-handbag-to-get-her-ready-for-a-original-imahcffumzshngqp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/a/3/j/1-2-years-heel-make-your-little-princess-shine-on-her-special-original-imahfrbzavtxw99z.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/3/y/o/1-2-years-heel-make-your-little-princess-shine-on-her-special-original-imahfrbzathj7cdp.jpeg?q=70"
+      ],
+      "sku": "KDEHDZM3SFFJHT9R",
+      "color": "PURPLE",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 24,
+        "ratingCount": 512,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 260,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-04",
+          "reviewBody": "Very nice frock worth for money.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Trijit Sarkar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-01",
+          "reviewBody": "Wow 😲😲",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Sachin Tiwari",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-11",
+          "reviewBody": "Best quality product thanks Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Style Code",
+          "body": "HEEL_Make your little princess shine on her special day with this adorable birthday party dress! Designed with love and care, this dress blends elegance and comfort to give your child a memorable birthday look."
+        }
+      ],
+      "product_highlights": {
+        "Type": "Maxi Dress",
+        "Occasion": "Festive/Wedding",
+        "Pattern": "Printed",
+        "Primary Color": "Multicolor",
+        "Fabric": "Georgette"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "078f9bef6fb3e45d0bb829af",
+      "path": "media/images/078f9bef6fb3e45d0bb829af/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

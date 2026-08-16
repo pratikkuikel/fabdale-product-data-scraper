@@ -1,0 +1,217 @@
+{
+  "product_id": "5096",
+  "sku": null,
+  "product": {
+    "name": "Zeflora Smocked A-Line Midi Dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/zwerlon-women-a-line-multicolor-midi-calf-length-dress/p/itm521a8394dec3e?pid=DREHF4PEXYM9PFNE&lid=LSTDREHF4PEXYM9PFNEICQFWT&marketplace=FLIPKART&q=zwerlon%20dress&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-DREHF4PEXYM9PFNE",
+    "path": "../../sources/pid-DREHF4PEXYM9PFNE/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zwerlon-women-a-line-multicolor-midi-calf-length-dress/p/itm521a8394dec3e?pid=DREHF4PEXYM9PFNE&lid=LSTDREHF4PEXYM9PFNEICQFWT&marketplace=FLIPKART&q=zwerlon%20dress&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T21:13:01.351Z",
+    "final_url": "https://www.flipkart.com/zwerlon-women-a-line-multicolor-midi-calf-length-dress/p/itm521a8394dec3e?pid=DREHF4PEXYM9PFNE&lid=LSTDREHF4PEXYM9PFNEICQFWT&marketplace=FLIPKART&q=zwerlon%20dress&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:13:31.244Z"
+  },
+  "content": {
+    "title": "ZWERLON Women A-line Multicolor Midi/Calf Length Dress",
+    "short_description": "Color: Multicolor\nPattern: Printed\nType: A-line\nSleeve: Flared Sleeve\nLength: Midi/Calf Length\nSleeve Length: Short Sleeve",
+    "description": "V-Neck Design with Flared Sleeves\nThis dress features a flattering V-neck design paired with flared sleeves, adding a touch of eleganc…\n\nEye-catching A-Line Silhouette\nThe A-line silhouette of this midi dress complements various body shapes, providing a comfortable an…\n\nVibrant Digital Prints\nAdorned with multicolored digital prints all over, this dress exudes a modern and trendy vibe. The v…\n\nEasy-care Crepe Fabric\nCrafted from crepe fabric, this dress offers a luxurious feel and effortless drape. The easy-care na…",
+    "specifications": {
+      "Color": "Multicolor",
+      "Length": "Midi/Calf Length",
+      "Pattern": "Printed",
+      "Type": "A-line",
+      "Sleeve Length": "Short Sleeve",
+      "Sleeve": "Flared Sleeve"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "096ad1af34e18bbb6d441e1a",
+      "path": "media/images/096ad1af34e18bbb6d441e1a/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "63c0447ca783137614213210",
+      "path": "media/videos/63c0447ca783137614213210/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/o/q/x/m-6001-old-new-zwerlon-resized-original-imahg4htbgd6zhy2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/o/q/x/m-6001-old-new-zwerlon-resized-original-imahg4htbgd6zhy2.jpeg?q=100",
+        "local_path": "../../media/images/096ad1af34e18bbb6d441e1a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/n/a/m/m-6001-old-new-zwerlon-original-imahg4httka3zhw5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/n/a/m/m-6001-old-new-zwerlon-original-imahg4httka3zhw5.jpeg?q=100",
+        "local_path": "../../media/images/096ad1af34e18bbb6d441e1a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/f/0/m-6001-old-new-zwerlon-original-imahg4htd8jhsfge.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/f/0/m-6001-old-new-zwerlon-original-imahg4htd8jhsfge.jpeg?q=100",
+        "local_path": "../../media/images/096ad1af34e18bbb6d441e1a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/p/u/1/m-6001-old-new-zwerlon-original-imahg4ht3egg9jts.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/p/u/1/m-6001-old-new-zwerlon-original-imahg4ht3egg9jts.jpeg?q=100",
+        "local_path": "../../media/images/096ad1af34e18bbb6d441e1a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/1/o/m-6001-old-new-zwerlon-original-imahg4htewuquvgx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/1/o/m-6001-old-new-zwerlon-original-imahg4htewuquvgx.jpeg?q=100",
+        "local_path": "../../media/images/096ad1af34e18bbb6d441e1a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNxZ7Xskz7QHKm-jQW6F77gQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "ZWERLON Women A-line Multicolor Midi/Calf Length Dress",
+      "description": "ZWERLON Women A-line Multicolor Midi/Calf Length Dress - Buy ZWERLON Women A-line Multicolor Midi/Calf Length Dress For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/o/q/x/m-6001-old-new-zwerlon-resized-original-imahg4htbgd6zhy2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/n/a/m/m-6001-old-new-zwerlon-original-imahg4httka3zhw5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/f/0/m-6001-old-new-zwerlon-original-imahg4htd8jhsfge.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/p/u/1/m-6001-old-new-zwerlon-original-imahg4ht3egg9jts.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/q/1/o/m-6001-old-new-zwerlon-original-imahg4htewuquvgx.jpeg?q=70"
+      ],
+      "sku": "DREHF4PEXYM9PFNE",
+      "color": "Pista-Blue",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 537,
+        "ratingCount": 9550,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "ZWERLON",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 215,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-15",
+          "reviewBody": "Best product,best fabric 😘😘😘😘",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Upama  Mukherjee",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-15",
+          "reviewBody": "So comfortable.. And very nice quality..",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-01",
+          "reviewBody": "This is a very beautiful dress😍\nThe fabric is also very good🥰\n A big thumbs up from me...👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "V-Neck Design with Flared Sleeves",
+          "body": "This dress features a flattering V-neck design paired with flared sleeves, adding a touch of eleganc…"
+        },
+        {
+          "heading": "Eye-catching A-Line Silhouette",
+          "body": "The A-line silhouette of this midi dress complements various body shapes, providing a comfortable an…"
+        },
+        {
+          "heading": "Vibrant Digital Prints",
+          "body": "Adorned with multicolored digital prints all over, this dress exudes a modern and trendy vibe. The v…"
+        },
+        {
+          "heading": "Easy-care Crepe Fabric",
+          "body": "Crafted from crepe fabric, this dress offers a luxurious feel and effortless drape. The easy-care na…"
+        }
+      ],
+      "product_highlights": {
+        "Color": "Multicolor",
+        "Length": "Midi/Calf Length",
+        "Pattern": "Printed",
+        "Type": "A-line",
+        "Sleeve Length": "Short Sleeve",
+        "Sleeve": "Flared Sleeve"
+      },
+      "specifications": {}
+    }
+  }
+}

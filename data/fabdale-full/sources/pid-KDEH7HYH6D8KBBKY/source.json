@@ -1,0 +1,149 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/zenat-girls-midi-knee-length-casual-dress/p/itm55b618ad5a1e7?pid=KDEH7HYH6D8KBBKY&lid=LSTKDEH7HYH6D8KBBKYIY7YWB&marketplace=FLIPKART&sattr[]=color&sattr[]=size&st=color",
+    "scraped_at": "2026-08-15T20:57:54.651Z",
+    "final_url": "https://www.flipkart.com/zenat-girls-midi-knee-length-casual-dress/p/itm55b618ad5a1e7?pid=KDEH7HYH6D8KBBKY&lid=LSTKDEH7HYH6D8KBBKYIY7YWB&marketplace=FLIPKART&sattr[]=color&sattr[]=size&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:58:08.734Z"
+  },
+  "content": {
+    "title": "Zenat Girls Midi/Knee Length Casual Dress (Red, 3/4 Sleeve)",
+    "short_description": "Fabric: Cotton Blend\nType: A- Line Dress\nOccasion: Casual\nPrimary Color: Red",
+    "description": null,
+    "specifications": {
+      "Type": "A- Line Dress",
+      "Occasion": "Casual",
+      "Primary Color": "Red",
+      "Fabric": "Cotton Blend"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/k/8/t/9-10-years-mf8-zenat-original-imah7hyhr56khzyv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/k/8/t/9-10-years-mf8-zenat-original-imah7hyhr56khzyv.jpeg?q=100",
+        "local_path": "../../media/images/63e75ab92a807c9f92adfe45/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/e/h/4/9-10-years-mf8-zenat-original-imah7hyhvpzcm5kd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/e/h/4/9-10-years-mf8-zenat-original-imah7hyhvpzcm5kd.jpeg?q=100",
+        "local_path": "../../media/images/63e75ab92a807c9f92adfe45/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/f/g/l/9-10-years-mf8-zenat-original-imah7hyhdg5cz3sa.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/f/g/l/9-10-years-mf8-zenat-original-imah7hyhdg5cz3sa.jpeg?q=100",
+        "local_path": "../../media/images/63e75ab92a807c9f92adfe45/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/o/m/g/3-4-years-kids-dress-jeans-ar-creation-resized-original-imahkgfyhk2ttc2r.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/o/m/g/3-4-years-kids-dress-jeans-ar-creation-resized-original-imahkgfyhk2ttc2r.jpeg?q=100",
+        "local_path": "../../media/images/63e75ab92a807c9f92adfe45/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/z/d/a/6-7-years-ak0088-ikonicfashion-original-imahkz2gztntrcs5.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/z/d/a/6-7-years-ak0088-ikonicfashion-original-imahkz2gztntrcs5.jpeg?q=100",
+        "local_path": "../../media/images/63e75ab92a807c9f92adfe45/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/s/p/b/1-2-years-frock-flag-a-f-galaxxy-original-imahpfxsqh9bqgbf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/s/p/b/1-2-years-frock-flag-a-f-galaxxy-original-imahpfxsqh9bqgbf.jpeg?q=100",
+        "local_path": "../../media/images/63e75ab92a807c9f92adfe45/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/m/y/p/4-5-years-frock-0000043-adaana-original-imahzwh4dsnxzh2t.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/m/y/p/4-5-years-frock-0000043-adaana-original-imahzwh4dsnxzh2t.jpeg?q=100",
+        "local_path": "../../media/images/63e75ab92a807c9f92adfe45/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/o/v/q/2-3-years-d3-ikonic-fashion-resized-original-imagsx2ub7cjwpyf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/o/v/q/2-3-years-d3-ikonic-fashion-resized-original-imagsx2ub7cjwpyf.jpeg?q=100",
+        "local_path": "../../media/images/63e75ab92a807c9f92adfe45/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/y/y/c/1-2-years-girls-bilow-knee-white-dress-jhilikgarments-resized-original-imagjmkkwnyjfyca.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/y/y/c/1-2-years-girls-bilow-knee-white-dress-jhilikgarments-resized-original-imagjmkkwnyjfyca.jpeg?q=100",
+        "local_path": "../../media/images/63e75ab92a807c9f92adfe45/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/h/1/6/13-14-years-d300a-drss-deklook-original-imahc8huhpehtghg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/h/1/6/13-14-years-d300a-drss-deklook-original-imahc8huhpehtghg.jpeg?q=100",
+        "local_path": "../../media/images/63e75ab92a807c9f92adfe45/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/o/k/z/7-8-years-blue-white-sky-3-lucyx99-original-imahmkzcvgj635eq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/o/k/z/7-8-years-blue-white-sky-3-lucyx99-original-imahmkzcvgj635eq.jpeg?q=100",
+        "local_path": "../../media/images/63e75ab92a807c9f92adfe45/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "A- Line Dress",
+        "Occasion": "Casual",
+        "Primary Color": "Red",
+        "Fabric": "Cotton Blend"
+      },
+      "specifications": {
+        "Brand": "Zenat",
+        "Style Code": "MF8",
+        "Brand Color": "RED",
+        "Size": "10 - 11 Years",
+        "Type": "A- Line Dress",
+        "Occasion": "Casual",
+        "Ideal For": "Girls",
+        "Primary Color": "Red",
+        "Fabric": "Cotton Blend",
+        "Sleeve Type": "3/4 Sleeve",
+        "Suitable For": "Western Wear",
+        "Fabric Details": "MIX COTTON FEBRIC",
+        "Net Quantity": "1 Dress",
+        "Character": "No Character",
+        "Fabric Care": "Cold water wash only",
+        "Label Size": "34",
+        "Length": "Midi/Knee Length",
+        "Neck Type": "Collar Neck"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "63e75ab92a807c9f92adfe45",
+      "path": "media/images/63e75ab92a807c9f92adfe45/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

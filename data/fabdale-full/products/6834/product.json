@@ -1,0 +1,206 @@
+{
+  "product_id": "6834",
+  "sku": "Fab-Trousers-FUBR-003NB-L",
+  "product": {
+    "name": "Urbex Washed Ice Blue Loose Jeans",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fubar-slim-fit-men-dark-blue-trousers/p/itm7cf3e047509ee?pid=TROHFK56GZVX4GCV&marketplace=FLIPKART&lid=LSTTROHFK56GZVX4GCVNFQHJL&swatchAttr=size&pageUID=1778063284654"
+  },
+  "source_bundle": {
+    "key": "pid-TROHFK56GZVX4GCV",
+    "path": "../../sources/pid-TROHFK56GZVX4GCV/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-slim-fit-men-dark-blue-trousers/p/itm7cf3e047509ee?pid=TROHFK56GZVX4GCV&marketplace=FLIPKART&lid=LSTTROHFK56GZVX4GCVNFQHJL&swatchAttr=size&pageUID=1778063284654",
+    "scraped_at": "2026-08-15T23:49:07.677Z",
+    "final_url": "https://www.flipkart.com/fubar-slim-fit-men-dark-blue-trousers/p/itm7cf3e047509ee?pid=TROHFK56GZVX4GCV&marketplace=FLIPKART&lid=LSTTROHFK56GZVX4GCVNFQHJL&swatchAttr=size&pageUID=1778063284654"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T23:49:34.480Z"
+  },
+  "content": {
+    "title": "FUBAR Slim Fit Men Dark Blue Trousers",
+    "short_description": "Color: Dark Blue\nType: Formal Trouser\nFit: Slim Fit\nRise: Mid",
+    "description": "Classic Formal Look\nThese formal trousers are perfect for any formal occasion. With their solid pattern and sleek design…\n\nComfortable and Stylish\nCrafted from a lycra blend fabric, these trousers offer a comfortable and flexible fit that moves wi…\n\nSecure Closure\nFeaturing a button closure and zipper fly, these trousers provide a secure and convenient fit. The b…\n\nEasy Care\nWith their gentle machine wash fabric care instructions, these trousers are easy to maintain. Simply…",
+    "specifications": {
+      "Fit": "Slim Fit",
+      "Color": "Dark Blue",
+      "Type": "Formal Trouser",
+      "Rise": "Mid"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "a0e6a97499547e977123ff95",
+      "path": "media/images/a0e6a97499547e977123ff95/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/v/m/y/28-kctr-re-9009-prm-nb-fubar-original-imah3zxvbzpye3cx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/v/m/y/28-kctr-re-9009-prm-nb-fubar-original-imah3zxvbzpye3cx.jpeg?q=100",
+        "local_path": "../../media/images/a0e6a97499547e977123ff95/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/0/0/c/28-kctr-re-9009-prm-nb-fubar-original-imah3zxvattqf7mh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/0/0/c/28-kctr-re-9009-prm-nb-fubar-original-imah3zxvattqf7mh.jpeg?q=100",
+        "local_path": "../../media/images/a0e6a97499547e977123ff95/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/d/d/4/28-kctr-re-9009-prm-nb-fubar-original-imah3zxvjyjdgyzg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/d/d/4/28-kctr-re-9009-prm-nb-fubar-original-imah3zxvjyjdgyzg.jpeg?q=100",
+        "local_path": "../../media/images/a0e6a97499547e977123ff95/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/n/l/k/28-kctr-re-9009-prm-nb-fubar-original-imah3zxvtxhq5n8e.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/n/l/k/28-kctr-re-9009-prm-nb-fubar-original-imah3zxvtxhq5n8e.jpeg?q=100",
+        "local_path": "../../media/images/a0e6a97499547e977123ff95/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Slim Fit Men Dark Blue Trousers",
+      "description": "FUBAR Slim Fit Men Dark Blue Trousers - Buy FUBAR Slim Fit Men Dark Blue Trousers For Only Rs. 2499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/v/m/y/28-kctr-re-9009-prm-nb-fubar-original-imah3zxvbzpye3cx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/0/0/c/28-kctr-re-9009-prm-nb-fubar-original-imah3zxvattqf7mh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/d/d/4/28-kctr-re-9009-prm-nb-fubar-original-imah3zxvjyjdgyzg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/n/l/k/28-kctr-re-9009-prm-nb-fubar-original-imah3zxvtxhq5n8e.jpeg?q=70"
+      ],
+      "sku": "TROHFK56GZVX4GCV",
+      "color": "Navy Blue",
+      "category": "trouser",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 28,
+        "ratingCount": 355,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 320,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Ganesh bitla",
+            "@type": "Person"
+          },
+          "datePublished": "2025-12-05",
+          "reviewBody": "Awesome 👍👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Subham Tiwari ",
+            "@type": "Person"
+          },
+          "datePublished": "2026-08-02",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Angel Das",
+            "@type": "Person"
+          },
+          "datePublished": "2026-07-12",
+          "reviewBody": "It's very good product 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Formal Look",
+          "body": "These formal trousers are perfect for any formal occasion. With their solid pattern and sleek design…"
+        },
+        {
+          "heading": "Comfortable and Stylish",
+          "body": "Crafted from a lycra blend fabric, these trousers offer a comfortable and flexible fit that moves wi…"
+        },
+        {
+          "heading": "Secure Closure",
+          "body": "Featuring a button closure and zipper fly, these trousers provide a secure and convenient fit. The b…"
+        },
+        {
+          "heading": "Easy Care",
+          "body": "With their gentle machine wash fabric care instructions, these trousers are easy to maintain. Simply…"
+        }
+      ],
+      "product_highlights": {
+        "Fit": "Slim Fit",
+        "Color": "Dark Blue",
+        "Type": "Formal Trouser",
+        "Rise": "Mid"
+      },
+      "specifications": {}
+    }
+  }
+}

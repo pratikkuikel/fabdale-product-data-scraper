@@ -1,0 +1,212 @@
+{
+  "product_id": "5599",
+  "sku": "Fab-Dress-PURNB-007ML-XXL",
+  "product": {
+    "name": "Parnika Denim & Net Fit Flare Maxi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/dharmikaay-trendz-indi-girls-midi-knee-length-casual-dress/p/itmf809ae88409f0?pid=KDEGZ5Z7R5VMKSZY&marketplace=FLIPKART&lid=LSTKDEGZ5Z7R5VMKSZYOZUYCC&swatchAttr=size&pageUID=1775040997403"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGZ5Z7R5VMKSZY",
+    "path": "../../sources/pid-KDEGZ5Z7R5VMKSZY/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/dharmikaay-trendz-indi-girls-midi-knee-length-casual-dress/p/itmf809ae88409f0?pid=KDEGZ5Z7R5VMKSZY&marketplace=FLIPKART&lid=LSTKDEGZ5Z7R5VMKSZYOZUYCC&swatchAttr=size&pageUID=1775040997403",
+    "scraped_at": "2026-08-15T21:36:19.479Z",
+    "final_url": "https://www.flipkart.com/dharmikaay-trendz-indi-girls-midi-knee-length-casual-dress/p/itmf809ae88409f0?pid=KDEGZ5Z7R5VMKSZY&marketplace=FLIPKART&lid=LSTKDEGZ5Z7R5VMKSZYOZUYCC&swatchAttr=size&pageUID=1775040997403"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:36:37.392Z"
+  },
+  "content": {
+    "title": "DHARMIKAAY TRENDZ Indi Girls Midi/Knee Length Casual Dress",
+    "short_description": "Fabric: Lycra Blend, Net\nPattern: Animal Print\nType: Fit and Flare Dress\nOccasion: Casual\nPrimary Color: Multicolor",
+    "description": "Stylish Animal Print Design\nThis kid's dress features a trendy animal print pattern, adding a touch of style and playfulness to …\n\nComfortable Fit and Flare Style\nDesigned in a fit and flare style, this dress offers a comfortable and flattering fit for your baby …\n\nVersatile Casual Wear\nPerfect for casual occasions, this midi/knee length dress is suitable for everyday wear, playdates, …\n\nSoft and Easy to Care Fabric\nCrafted from a lycra blend and net fabric, this dress ensures a soft and gentle feel against your ch…\n\nCharming Detail Placement\nWith its all-over detail placement, this dress showcases a delightful and eye-catching design that y…",
+    "specifications": {
+      "Type": "Fit and Flare Dress",
+      "Occasion": "Casual",
+      "Pattern": "Animal Print",
+      "Primary Color": "Multicolor",
+      "Fabric": "Lycra Blend, Net"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "31a79801209eb65d30a2f62a",
+      "path": "media/images/31a79801209eb65d30a2f62a/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/0/n/2-3-years-feni-lavender-shiivayy-original-imagmnn6ftykc53a.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/0/n/2-3-years-feni-lavender-shiivayy-original-imagmnn6ftykc53a.jpeg?q=100",
+        "local_path": "../../media/images/31a79801209eb65d30a2f62a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/r/l/1-2-years-feni-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagmbcphc5zxhdz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/r/l/1-2-years-feni-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagmbcphc5zxhdz.jpeg?q=100",
+        "local_path": "../../media/images/31a79801209eb65d30a2f62a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/5/u/9/1-2-years-feni-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagmbcpyehezxzf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/5/u/9/1-2-years-feni-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagmbcpyehezxzf.jpeg?q=100",
+        "local_path": "../../media/images/31a79801209eb65d30a2f62a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/t/c/1-2-years-feni-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagmbcpdfgerbe8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/t/c/1-2-years-feni-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagmbcpdfgerbe8.jpeg?q=100",
+        "local_path": "../../media/images/31a79801209eb65d30a2f62a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "DHARMIKAAY TRENDZ Indi Girls Midi/Knee Length Casual Dress",
+      "description": "Buy DHARMIKAAY TRENDZ Indi Girls Midi/Knee Length Casual Dress for Rs.1199.0 online. DHARMIKAAY TRENDZ Indi Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/0/n/2-3-years-feni-lavender-shiivayy-original-imagmnn6ftykc53a.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/r/l/1-2-years-feni-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagmbcphc5zxhdz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/5/u/9/1-2-years-feni-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagmbcpyehezxzf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/t/c/1-2-years-feni-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagmbcpdfgerbe8.jpeg?q=70"
+      ],
+      "sku": "KDEGZ5Z7R5VMKSZY",
+      "color": "LAVANDAR",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 32,
+        "ratingCount": 519,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "DHARMIKAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 293,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Rupali Agnihotri",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-10",
+          "reviewBody": "Very nice size was very good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Satyan Barman",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-11",
+          "reviewBody": "Good and very cute",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-28",
+          "reviewBody": "Value for money",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Stylish Animal Print Design",
+          "body": "This kid's dress features a trendy animal print pattern, adding a touch of style and playfulness to …"
+        },
+        {
+          "heading": "Comfortable Fit and Flare Style",
+          "body": "Designed in a fit and flare style, this dress offers a comfortable and flattering fit for your baby …"
+        },
+        {
+          "heading": "Versatile Casual Wear",
+          "body": "Perfect for casual occasions, this midi/knee length dress is suitable for everyday wear, playdates, …"
+        },
+        {
+          "heading": "Soft and Easy to Care Fabric",
+          "body": "Crafted from a lycra blend and net fabric, this dress ensures a soft and gentle feel against your ch…"
+        },
+        {
+          "heading": "Charming Detail Placement",
+          "body": "With its all-over detail placement, this dress showcases a delightful and eye-catching design that y…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Fit and Flare Dress",
+        "Occasion": "Casual",
+        "Pattern": "Animal Print",
+        "Primary Color": "Multicolor",
+        "Fabric": "Lycra Blend, Net"
+      },
+      "specifications": {}
+    }
+  }
+}

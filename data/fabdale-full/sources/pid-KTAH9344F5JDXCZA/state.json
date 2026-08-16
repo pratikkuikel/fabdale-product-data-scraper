@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KTAH9344F5JDXCZA",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4564"
+  ],
+  "source_path": "sources/pid-KTAH9344F5JDXCZA/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T20:07:47.033Z",
+  "completed_at": "2026-08-15T20:07:53.080Z"
+}

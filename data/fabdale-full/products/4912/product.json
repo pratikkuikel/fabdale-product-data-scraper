@@ -1,0 +1,175 @@
+{
+  "product_id": "4912",
+  "sku": "Fab-Jewel-BRAD-020GL",
+  "product": {
+    "name": "Bradox Bead Chain",
+    "parent_id": "7024",
+    "notes": "https://www.flipkart.com/brado-jewellery-gold-plated-18-inch-tanmnaiya-women-girls-brass-mangalsutra/p/itm58b5cae187cad?pid=MNGGFFCFX8VREAYG&lid=LSTMNGGFFCFX8VREAYGTCKQ4D&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-MNGGFFCFX8VREAYG",
+    "path": "../../sources/pid-MNGGFFCFX8VREAYG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/brado-jewellery-gold-plated-18-inch-tanmnaiya-women-girls-brass-mangalsutra/p/itm58b5cae187cad?pid=MNGGFFCFX8VREAYG&lid=LSTMNGGFFCFX8VREAYGTCKQ4D&marketplace=FLIPKART",
+    "scraped_at": "2026-08-15T20:52:37.489Z",
+    "final_url": "https://www.flipkart.com/brado-jewellery-gold-plated-18-inch-tanmnaiya-women-girls-brass-mangalsutra/p/itm58b5cae187cad?pid=MNGGFFCFX8VREAYG&lid=LSTMNGGFFCFX8VREAYGTCKQ4D&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:52:47.970Z"
+  },
+  "content": {
+    "title": "brado jewellery Gold Plated 18 Inch Tanmnaiya for Women and Girls Brass Mangalsutra",
+    "short_description": "Color: Gold\nPlatingGold-plated: ColorGold\nPlating: Gold-plated",
+    "description": "Model Name\nGold Plated 18 Inch Tanmnaiya for Women and Girls",
+    "specifications": {
+      "PlatingGold-plated": "ColorGold",
+      "Plating": "Gold-plated",
+      "Color": "Gold"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "edf2a8025d0bbb2dc6e9fea3",
+      "path": "media/images/edf2a8025d0bbb2dc6e9fea3/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mangalsutra-tanmaniya/w/q/x/-original-imahgf9ftxrpudg7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mangalsutra-tanmaniya/w/q/x/-original-imahgf9ftxrpudg7.jpeg?q=100",
+        "local_path": "../../media/images/edf2a8025d0bbb2dc6e9fea3/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ring/o/y/s/adjustable-4-gntr1046-toe-ring-goldfish-original-imahfxb6zjvyygqn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ring/o/y/s/adjustable-4-gntr1046-toe-ring-goldfish-original-imahfxb6zjvyygqn.jpeg?q=100",
+        "local_path": "../../media/images/edf2a8025d0bbb2dc6e9fea3/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "brado jewellery Gold Plated 18 Inch Tanmnaiya for Women and Girls Brass Mangalsutra",
+      "description": "brado jewellery Gold Plated 18 Inch Tanmnaiya for Women and Girls Brass Mangalsutra - Buy brado jewellery Gold Plated 18 Inch Tanmnaiya for Women and Girls Brass Mangalsutra only for Rs. 499.0 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mangalsutra-tanmaniya/w/q/x/-original-imahgf9ftxrpudg7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ring/o/y/s/adjustable-4-gntr1046-toe-ring-goldfish-original-imahfxb6zjvyygqn.jpeg?q=70"
+      ],
+      "sku": "MNGGFFCFX8VREAYG",
+      "category": "mangalsutra_tanmaniya",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 163,
+        "ratingCount": 4474,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "brado jewellery",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 117,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Puspakanta Singh bariha",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-15",
+          "reviewBody": "Best",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "harrington sinanjola",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-21",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Julakha Khatun",
+            "@type": "Person"
+          },
+          "datePublished": "2023-11-29",
+          "reviewBody": "So good product. I like 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Model Name",
+          "body": "Gold Plated 18 Inch Tanmnaiya for Women and Girls"
+        }
+      ],
+      "product_highlights": {
+        "PlatingGold-plated": "ColorGold",
+        "Plating": "Gold-plated",
+        "Color": "Gold"
+      },
+      "specifications": {}
+    }
+  }
+}

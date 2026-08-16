@@ -1,0 +1,17 @@
+{
+  "source_key": "pid-JWSGPZEQAN7FSRBV",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4913",
+    "7024",
+    "7025"
+  ],
+  "source_path": "sources/pid-JWSGPZEQAN7FSRBV/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T20:52:48.988Z",
+  "completed_at": "2026-08-15T20:53:07.982Z"
+}

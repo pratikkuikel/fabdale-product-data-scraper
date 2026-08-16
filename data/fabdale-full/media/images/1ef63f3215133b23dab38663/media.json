@@ -1,0 +1,44 @@
+{
+  "key": "1ef63f3215133b23dab38663",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T20:51:34.927Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/0/l/3/-original-imahfvyzvbqccrzc.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/0/l/3/-original-imahfvyzvbqccrzc.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/o/x/z/-original-imahhbvd9afgevex.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/o/x/z/-original-imahhbvd9afgevex.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/f/m/n/-original-imahhbvcmgk6n4fd.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/f/m/n/-original-imahhbvcmgk6n4fd.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/z/k/2/-original-imahhbvc5wzupgya.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/z/k/2/-original-imahhbvc5wzupgya.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/v/n/2/-original-imahhbvcbuy8xnzh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/v/n/2/-original-imahhbvcbuy8xnzh.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

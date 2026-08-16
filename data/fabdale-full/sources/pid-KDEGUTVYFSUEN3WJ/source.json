@@ -1,0 +1,197 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/aarya-designer-girls-midi-knee-length-casual-dress/p/itmcb1fba33e463b?pid=KDEGUTVYFSUEN3WJ&marketplace=FLIPKART&lid=LSTKDEGUTVYFSUEN3WJQ2HSXO&swatchAttr=size&pageUID=1773733378791S",
+    "scraped_at": "2026-08-15T21:09:51.193Z",
+    "final_url": "https://www.flipkart.com/aarya-designer-girls-midi-knee-length-casual-dress/p/itmcb1fba33e463b?pid=KDEGUTVYFSUEN3WJ&marketplace=FLIPKART&lid=LSTKDEGUTVYFSUEN3WJQ2HSXO&swatchAttr=size&pageUID=1773733378791S"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:10:03.480Z"
+  },
+  "content": {
+    "title": "Aarya Designer Girls Midi/Knee Length Casual Dress",
+    "short_description": "Fabric: Crepe\nPattern: Floral Print\nType: Fit and Flare Dress\nOccasion: Casual\nPrimary Color: Multicolor",
+    "description": "Floral Delight\nThis fit and flare dress features a beautiful floral print, adding a touch of freshness and charm to…\n\nComfortable and Stylish\nCrafted from crepe fabric, this dress offers a comfortable and breathable fit for all-day wear. The …\n\nVersatile Midi Length\nWith its midi length, this dress is perfect for casual occasions. It offers a balanced look that is …\n\nIdeal for Casual Outings\nWhether it's a family gathering or a playdate with friends, this dress is perfect for casual outings…",
+    "specifications": {
+      "Type": "Fit and Flare Dress",
+      "Occasion": "Casual",
+      "Pattern": "Floral Print",
+      "Primary Color": "Multicolor",
+      "Fabric": "Crepe"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/q/u/3/14-15-years-gown-71-aarya-designer-resized-original-imah5ggftrf7vz6p.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/q/u/3/14-15-years-gown-71-aarya-designer-resized-original-imah5ggftrf7vz6p.jpeg?q=100",
+        "local_path": "../../media/images/406c402fcad96c1e812df9d5/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/y/t/8-9-years-gown70-aarya-designer-original-imahbchfvjfgaga2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/y/t/8-9-years-gown70-aarya-designer-original-imahbchfvjfgaga2.jpeg?q=100",
+        "local_path": "../../media/images/406c402fcad96c1e812df9d5/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/j/l/8-9-years-gown70-aarya-designer-original-imahbchfzghzzrwk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/j/l/8-9-years-gown70-aarya-designer-original-imahbchfzghzzrwk.jpeg?q=100",
+        "local_path": "../../media/images/406c402fcad96c1e812df9d5/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/h/5/8-9-years-gown70-aarya-designer-original-imahbchfbvt7gehd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/h/5/8-9-years-gown70-aarya-designer-original-imahbchfbvt7gehd.jpeg?q=100",
+        "local_path": "../../media/images/406c402fcad96c1e812df9d5/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Aarya Designer Girls Midi/Knee Length Casual Dress",
+      "description": "Buy Aarya Designer Girls Midi/Knee Length Casual Dress for Rs.1499.0 online. Aarya Designer Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/q/u/3/14-15-years-gown-71-aarya-designer-resized-original-imah5ggftrf7vz6p.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/y/t/8-9-years-gown70-aarya-designer-original-imahbchfvjfgaga2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/j/l/8-9-years-gown70-aarya-designer-original-imahbchfzghzzrwk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/h/5/8-9-years-gown70-aarya-designer-original-imahbchfbvt7gehd.jpeg?q=70"
+      ],
+      "sku": "KDEGUTVYFSUEN3WJ",
+      "color": "Red",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 132,
+        "ratingCount": 3736,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Aarya Designer",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 291,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-01-12",
+          "reviewBody": "Ok",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-01",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-15",
+          "reviewBody": "Very nice product  my daughter like this ❤❤❤",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Floral Delight",
+          "body": "This fit and flare dress features a beautiful floral print, adding a touch of freshness and charm to…"
+        },
+        {
+          "heading": "Comfortable and Stylish",
+          "body": "Crafted from crepe fabric, this dress offers a comfortable and breathable fit for all-day wear. The …"
+        },
+        {
+          "heading": "Versatile Midi Length",
+          "body": "With its midi length, this dress is perfect for casual occasions. It offers a balanced look that is …"
+        },
+        {
+          "heading": "Ideal for Casual Outings",
+          "body": "Whether it's a family gathering or a playdate with friends, this dress is perfect for casual outings…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Fit and Flare Dress",
+        "Occasion": "Casual",
+        "Pattern": "Floral Print",
+        "Primary Color": "Multicolor",
+        "Fabric": "Crepe"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "406c402fcad96c1e812df9d5",
+      "path": "media/images/406c402fcad96c1e812df9d5/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

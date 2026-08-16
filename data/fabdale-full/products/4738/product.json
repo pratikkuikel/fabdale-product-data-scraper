@@ -1,0 +1,216 @@
+{
+  "product_id": "4738",
+  "sku": "Fab-Kurta-ZAR-001BU-M",
+  "product": {
+    "name": "Zorvan Modern Kurta-style shirt",
+    "parent_id": "5352",
+    "notes": "https://www.flipkart.com/zartha-men-solid-straight-kurta/p/itma5d832c8a77b4?pid=KTAGSUZEZAMYFGY2&marketplace=FLIPKART&lid=LSTKTAGSUZEZAMYFGY2R3ZYTI&swatchAttr=size&pageUID=1774176057955"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGSUZEZAMYFGY2",
+    "path": "../../sources/pid-KTAGSUZEZAMYFGY2/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zartha-men-solid-straight-kurta/p/itma5d832c8a77b4?pid=KTAGSUZEZAMYFGY2&marketplace=FLIPKART&lid=LSTKTAGSUZEZAMYFGY2R3ZYTI&swatchAttr=size&pageUID=1774176057955",
+    "scraped_at": "2026-08-15T20:24:57.461Z",
+    "final_url": "https://www.flipkart.com/zartha-men-solid-straight-kurta/p/itma5d832c8a77b4?pid=KTAGSUZEZAMYFGY2&marketplace=FLIPKART&lid=LSTKTAGSUZEZAMYFGY2R3ZYTI&swatchAttr=size&pageUID=1774176057955"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:25:16.493Z"
+  },
+  "content": {
+    "title": "ZARTHA Men Solid Straight Kurta",
+    "short_description": "Color: Maroon\nFabric: Cotton Blend\nPattern: Solid\nType: Straight\nFit: REGULAR FIT",
+    "description": "Classic Solid Design\nIntroducing our men's kurta with a classic solid pattern. The solid design adds a touch of sophistic…\n\nComfortable Cotton Blend Fabric\nCrafted from a high-quality cotton blend fabric, this kurta offers exceptional comfort and breathabi…\n\nStylish Mandarin Neck\nFeaturing a trendy Mandarin/Chinese neck, this kurta adds a modern twist to your ensemble. The manda…\n\nHip Length for a Contemporary Look\nWith a hip-length design, this kurta offers a contemporary and fashionable look. The hip length prov…",
+    "specifications": {
+      "Pattern": "Solid",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Fit": "REGULAR FIT",
+      "Color": "Maroon"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1e4548afca3080877be0e7a1",
+      "path": "media/images/1e4548afca3080877be0e7a1/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/a/7/xxl-kurta1503-zartha-resized-original-imagsuzdact5rkma.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/a/7/xxl-kurta1503-zartha-resized-original-imagsuzdact5rkma.jpeg?q=100",
+        "local_path": "../../media/images/1e4548afca3080877be0e7a1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/i/v/xxl-kurta1503-zartha-original-imagsuzd7cwnwehn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/i/v/xxl-kurta1503-zartha-original-imagsuzd7cwnwehn.jpeg?q=100",
+        "local_path": "../../media/images/1e4548afca3080877be0e7a1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/e/q/xxl-kurta1503-zartha-original-imagsuzdrvgzrr4c.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/e/q/xxl-kurta1503-zartha-original-imagsuzdrvgzrr4c.jpeg?q=100",
+        "local_path": "../../media/images/1e4548afca3080877be0e7a1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/v/2/m/xxl-kurta1503-zartha-original-imagsuzdvyph8hqq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/v/2/m/xxl-kurta1503-zartha-original-imagsuzdvyph8hqq.jpeg?q=100",
+        "local_path": "../../media/images/1e4548afca3080877be0e7a1/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/c/t/xxl-kurta1503-zartha-original-imagsuzdhenc4pe5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/c/t/xxl-kurta1503-zartha-original-imagsuzdhenc4pe5.jpeg?q=100",
+        "local_path": "../../media/images/1e4548afca3080877be0e7a1/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "ZARTHA Men Solid Straight Kurta",
+      "description": "ZARTHA Men Solid Straight Kurta - Buy ZARTHA Men Solid Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/a/7/xxl-kurta1503-zartha-resized-original-imagsuzdact5rkma.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/i/v/xxl-kurta1503-zartha-original-imagsuzd7cwnwehn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/k/e/q/xxl-kurta1503-zartha-original-imagsuzdrvgzrr4c.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/v/2/m/xxl-kurta1503-zartha-original-imagsuzdvyph8hqq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/c/t/xxl-kurta1503-zartha-original-imagsuzdhenc4pe5.jpeg?q=70"
+      ],
+      "sku": "KTAGSUZEZAMYFGY2",
+      "color": "BURGUNDY",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 1807,
+        "ratingCount": 23383,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "ZARTHA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 344,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Swecchha Tiwary",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-03",
+          "reviewBody": "Perfect",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Bhagyesh  Mahale",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-20",
+          "reviewBody": "The product is really good and the quality of the cloth is also excellent Overall value for money",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-18",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Solid Design",
+          "body": "Introducing our men's kurta with a classic solid pattern. The solid design adds a touch of sophistic…"
+        },
+        {
+          "heading": "Comfortable Cotton Blend Fabric",
+          "body": "Crafted from a high-quality cotton blend fabric, this kurta offers exceptional comfort and breathabi…"
+        },
+        {
+          "heading": "Stylish Mandarin Neck",
+          "body": "Featuring a trendy Mandarin/Chinese neck, this kurta adds a modern twist to your ensemble. The manda…"
+        },
+        {
+          "heading": "Hip Length for a Contemporary Look",
+          "body": "With a hip-length design, this kurta offers a contemporary and fashionable look. The hip length prov…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Solid",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Fit": "REGULAR FIT",
+        "Color": "Maroon"
+      },
+      "specifications": {}
+    }
+  }
+}

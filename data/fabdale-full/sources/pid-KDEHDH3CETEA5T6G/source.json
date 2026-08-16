@@ -1,0 +1,26 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-casual-dress/p/itm4b65b41c3fe83?pid=KDEHDH3CETEA5T6G&marketplace=FLIPKART&lid=LSTKDEHDH3CETEA5T6G7K1T7Y&swatchAttr=size&pageUID=1776065734350",
+    "scraped_at": "2026-08-15T22:55:15.257Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/aarya-designer-girls-maxi-full-length-casual-dress/p/itm4b65b41c3fe83?pid=KDEHDH3CETEA5T6G&marketplace=FLIPKART&lid=LSTKDEHDH3CETEA5T6G7K1T7Y&swatchAttr=size&pageUID=1776065734350\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/aarya-designer-girls-maxi-full-length-casual-dress/p/itm4b65b41c3fe83?pid=KDEHDH3CETEA5T6G&marketplace=FLIPKART&lid=LSTKDEHDH3CETEA5T6G7K1T7Y&swatchAttr=size&pageUID=1776065734350\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:55:15.526Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

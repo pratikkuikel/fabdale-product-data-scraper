@@ -1,0 +1,26 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/miss-chief-girls-midi-knee-length-party-dress/p/itmb6db8dd775a47?pid=KDEH2TREWSXRFEND&marketplace=FLIPKART&lid=LSTKDEH2TREWSXRFENDHMJOJB&swatchAttr=size&pageUID=1775208763811",
+    "scraped_at": "2026-08-15T22:17:03.491Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/miss-chief-girls-midi-knee-length-party-dress/p/itmb6db8dd775a47?pid=KDEH2TREWSXRFEND&marketplace=FLIPKART&lid=LSTKDEH2TREWSXRFENDHMJOJB&swatchAttr=size&pageUID=1775208763811\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/miss-chief-girls-midi-knee-length-party-dress/p/itmb6db8dd775a47?pid=KDEH2TREWSXRFEND&marketplace=FLIPKART&lid=LSTKDEH2TREWSXRFENDHMJOJB&swatchAttr=size&pageUID=1775208763811\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:17:03.688Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

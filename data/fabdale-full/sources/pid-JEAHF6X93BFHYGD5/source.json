@@ -1,0 +1,208 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/urbano-fashion-loose-fit-men-light-blue-jeans/p/itmbe950d128107a?pid=JEAHF6X93BFHYGD5&marketplace=FLIPKART&lid=LSTJEAHF6X93BFHYGD5GZIK1U&swatchAttr=size",
+    "scraped_at": "2026-08-15T23:19:47.944Z",
+    "final_url": "https://www.flipkart.com/urbano-fashion-loose-fit-men-light-blue-jeans/p/itmbe950d128107a?pid=JEAHF6X93BFHYGD5&marketplace=FLIPKART&lid=LSTJEAHF6X93BFHYGD5GZIK1U&swatchAttr=size"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T23:20:18.582Z"
+  },
+  "content": {
+    "title": "Urbano Fashion Loose Fit Men Light Blue Jeans",
+    "short_description": "Color: Light Blue\nFit: Loose Fit\nFaded: Clean Look\nRise: Mid Rise\nDistressed: Clean Look",
+    "description": "Relaxed and Stylish\nDesigned with a loose fit, these men's cargo jeans offer a relaxed and comfortable style. The baggy …\n\nVersatile Washed Pattern\nFeaturing a washed pattern, these jeans have a unique and trendy appearance. The mild distress adds …\n\nConvenient Mid-rise Construction\nThese jeans have a mid-rise construction, providing a comfortable fit around the waist. The mid-rise…\n\nFunctional Pocket Flap\nDesigned with a pocket flap, these jeans not only offer a stylish look but also provide functional s…\n\nEasy Care and Maintenance\nMade from high-quality denim, these jeans are easy to care for. Simply wash them with like colors an…",
+    "specifications": {
+      "Faded": "Clean Look",
+      "Rise": "Mid Rise",
+      "Distressed": "Clean Look",
+      "Color": "Light Blue",
+      "Fit": "Loose Fit"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/l/g/i/28-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umaqg7xhyw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/l/g/i/28-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umaqg7xhyw.jpeg?q=100",
+        "local_path": "../../media/images/67ae8a3462588e08284ab12d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/f/r/j/28-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umt3hdfbmk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/f/r/j/28-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umt3hdfbmk.jpeg?q=100",
+        "local_path": "../../media/images/67ae8a3462588e08284ab12d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/j/s/l/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umepchfngr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/j/s/l/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umepchfngr.jpeg?q=100",
+        "local_path": "../../media/images/67ae8a3462588e08284ab12d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/n/b/l/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umgvb2g4gd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/n/b/l/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umgvb2g4gd.jpeg?q=100",
+        "local_path": "../../media/images/67ae8a3462588e08284ab12d/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/h/1/u/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umcujfpu3j.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/h/1/u/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umcujfpu3j.jpeg?q=100",
+        "local_path": "../../media/images/67ae8a3462588e08284ab12d/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNlF6F2QmDTbW9chNi08gCvg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Urbano Fashion Loose Fit Men Light Blue Jeans",
+      "description": "Urbano Fashion Loose Fit Men Light Blue Jeans - Buy Urbano Fashion Loose Fit Men Light Blue Jeans For Only Rs. 2399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/l/g/i/28-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umaqg7xhyw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/f/r/j/28-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umt3hdfbmk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/j/s/l/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umepchfngr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/n/b/l/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umgvb2g4gd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/h/1/u/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umcujfpu3j.jpeg?q=70"
+      ],
+      "sku": "JEAHF6X93BFHYGD5",
+      "color": "Ice Blue",
+      "category": "jean",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 200,
+        "ratingCount": 4723,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Urbano Fashion",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 899,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-08",
+          "reviewBody": "Good quality 👍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Naga Ratnam Agatambidi",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-28",
+          "reviewBody": "Very nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Basant  Thakur ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-07",
+          "reviewBody": "Very nice product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Relaxed and Stylish",
+          "body": "Designed with a loose fit, these men's cargo jeans offer a relaxed and comfortable style. The baggy …"
+        },
+        {
+          "heading": "Versatile Washed Pattern",
+          "body": "Featuring a washed pattern, these jeans have a unique and trendy appearance. The mild distress adds …"
+        },
+        {
+          "heading": "Convenient Mid-rise Construction",
+          "body": "These jeans have a mid-rise construction, providing a comfortable fit around the waist. The mid-rise…"
+        },
+        {
+          "heading": "Functional Pocket Flap",
+          "body": "Designed with a pocket flap, these jeans not only offer a stylish look but also provide functional s…"
+        },
+        {
+          "heading": "Easy Care and Maintenance",
+          "body": "Made from high-quality denim, these jeans are easy to care for. Simply wash them with like colors an…"
+        }
+      ],
+      "product_highlights": {
+        "Faded": "Clean Look",
+        "Rise": "Mid Rise",
+        "Distressed": "Clean Look",
+        "Color": "Light Blue",
+        "Fit": "Loose Fit"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "67ae8a3462588e08284ab12d",
+      "path": "media/images/67ae8a3462588e08284ab12d/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "14cc6119c519693d9130fb4f",
+      "path": "media/videos/14cc6119c519693d9130fb4f/media.json",
+      "reused": false
+    }
+  }
+}

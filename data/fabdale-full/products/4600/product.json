@@ -1,0 +1,219 @@
+{
+  "product_id": "4600",
+  "sku": "Fab-Kurta-VBNR-004BL-XL",
+  "product": {
+    "name": "Verve Cross Type Small Dots Kurta Set",
+    "parent_id": "5284",
+    "notes": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itmfba97b4cb456b?pid=KTAH4NGA65RY6KZB&marketplace=FLIPKART&lid=LSTKTAH4NGA65RY6KZBSVQCGP&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1774278862197"
+  },
+  "source_bundle": {
+    "key": "pid-KTAH4NGA65RY6KZB",
+    "path": "../../sources/pid-KTAH4NGA65RY6KZB/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itmfba97b4cb456b?pid=KTAH4NGA65RY6KZB&marketplace=FLIPKART&lid=LSTKTAH4NGA65RY6KZBSVQCGP&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1774278862197",
+    "scraped_at": "2026-08-15T20:10:33.520Z",
+    "final_url": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itmfba97b4cb456b?pid=KTAH4NGA65RY6KZB&marketplace=FLIPKART&lid=LSTKTAH4NGA65RY6KZBSVQCGP&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1774278862197"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:10:40.793Z"
+  },
+  "content": {
+    "title": "VeBNoR Men Self Design Straight Kurta",
+    "short_description": "Color: Dark Blue\nFabric: Jacquard\nPattern: Self Design\nType: Straight\nFit: Regular",
+    "description": "Classic Style\nDelivering a modern yet timeless look, this men’s kurta blends style with practicality. The design c…\n\nComfortable Fit\nMaintaining a regular fit, this kurta provides ease of movement while maintaining a structured appea…\n\nThoughtful Details\nProvided with a mandarin collar and a buttoned placket, this kurta combines traditional elements wit…\n\nEasy to Style\nThanks to its solid pattern, this kurta can be paired with a variety of bottoms, which makes it suit…\n\nPolished Look\nCrafted with full sleeves, this kurta provides a well-balanced and refined appearance. The sleeves e…",
+    "specifications": {
+      "Pattern": "Self Design",
+      "Type": "Straight",
+      "Fabric": "Jacquard",
+      "Fit": "Regular",
+      "Color": "Dark Blue"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3d2e897b25aacc9308111e49",
+      "path": "media/images/3d2e897b25aacc9308111e49/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "4e1b4008b148ceb67eeb3af6",
+      "path": "media/videos/4e1b4008b148ceb67eeb3af6/media.json",
+      "reused": true
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/g/c/l-pkt403-vebnor-original-imahjtftbryytbwg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/g/c/l-pkt403-vebnor-original-imahjtftbryytbwg.jpeg?q=100",
+        "local_path": "../../media/images/3d2e897b25aacc9308111e49/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/b/d/l-pkt403-vebnor-original-imahjtfudf5q3bjk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/b/d/l-pkt403-vebnor-original-imahjtfudf5q3bjk.jpeg?q=100",
+        "local_path": "../../media/images/3d2e897b25aacc9308111e49/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/f/9/l-pkt403-vebnor-original-imahjtfukdvhmrwh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/f/9/l-pkt403-vebnor-original-imahjtfukdvhmrwh.jpeg?q=100",
+        "local_path": "../../media/images/3d2e897b25aacc9308111e49/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/o/3/l-pkt403-vebnor-original-imahjtfuhwbegn6r.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/o/3/l-pkt403-vebnor-original-imahjtfuhwbegn6r.jpeg?q=100",
+        "local_path": "../../media/images/3d2e897b25aacc9308111e49/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/m/z/l-pkt403-vebnor-original-imahjtfug7htkyhy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/m/z/l-pkt403-vebnor-original-imahjtfug7htkyhy.jpeg?q=100",
+        "local_path": "../../media/images/3d2e897b25aacc9308111e49/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNw59kN-wFSqiMbBt-hzAUqQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Men Self Design Straight Kurta",
+      "description": "VeBNoR Men Self Design Straight Kurta - Buy VeBNoR Men Self Design Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/g/c/l-pkt403-vebnor-original-imahjtftbryytbwg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/b/d/l-pkt403-vebnor-original-imahjtfudf5q3bjk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/f/9/l-pkt403-vebnor-original-imahjtfukdvhmrwh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/o/3/l-pkt403-vebnor-original-imahjtfuhwbegn6r.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/m/z/l-pkt403-vebnor-original-imahjtfug7htkyhy.jpeg?q=70"
+      ],
+      "sku": "KTAH4NGA65RY6KZB",
+      "color": "Navy Blue",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 335,
+        "ratingCount": 7008,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 220,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Himanshu Rauth",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-06",
+          "reviewBody": "Very good quality.\nValue for money.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Satendar kumar Ray",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-02",
+          "reviewBody": "Super",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Brajesh Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-21",
+          "reviewBody": "Nice product 😄😄",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Style",
+          "body": "Delivering a modern yet timeless look, this men’s kurta blends style with practicality. The design c…"
+        },
+        {
+          "heading": "Comfortable Fit",
+          "body": "Maintaining a regular fit, this kurta provides ease of movement while maintaining a structured appea…"
+        },
+        {
+          "heading": "Thoughtful Details",
+          "body": "Provided with a mandarin collar and a buttoned placket, this kurta combines traditional elements wit…"
+        },
+        {
+          "heading": "Easy to Style",
+          "body": "Thanks to its solid pattern, this kurta can be paired with a variety of bottoms, which makes it suit…"
+        },
+        {
+          "heading": "Polished Look",
+          "body": "Crafted with full sleeves, this kurta provides a well-balanced and refined appearance. The sleeves e…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Self Design",
+        "Type": "Straight",
+        "Fabric": "Jacquard",
+        "Fit": "Regular",
+        "Color": "Dark Blue"
+      },
+      "specifications": {}
+    }
+  }
+}

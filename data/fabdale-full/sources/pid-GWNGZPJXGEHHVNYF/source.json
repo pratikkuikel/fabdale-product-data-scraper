@@ -1,0 +1,26 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/ikonic-fashion-straight-gown/p/itm6fd29de6ab4f7?pid=GWNGZPJXGEHHVNYF&marketplace=FLIPKART&lid=LSTGWNGZPJXGEHHVNYFGIHRXB&swatchAttr=size&pageUID=1776075721153",
+    "scraped_at": "2026-08-15T23:09:31.598Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/ikonic-fashion-straight-gown/p/itm6fd29de6ab4f7?pid=GWNGZPJXGEHHVNYF&marketplace=FLIPKART&lid=LSTGWNGZPJXGEHHVNYFGIHRXB&swatchAttr=size&pageUID=1776075721153\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/ikonic-fashion-straight-gown/p/itm6fd29de6ab4f7?pid=GWNGZPJXGEHHVNYF&marketplace=FLIPKART&lid=LSTGWNGZPJXGEHHVNYFGIHRXB&swatchAttr=size&pageUID=1776075721153\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T23:09:31.699Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "key": "14941f46d8b10ee0fe40d042",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-16T00:00:02.198Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/j/m/h/32-kctr-re-9009-prm-crm-fubar-resized-original-imahfk56xnnkbkxs.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/j/m/h/32-kctr-re-9009-prm-crm-fubar-resized-original-imahfk56xnnkbkxs.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/n/q/p/32-kctr-re-9009-prm-crm-fubar-original-imahfk56pumxsvkz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/n/q/p/32-kctr-re-9009-prm-crm-fubar-original-imahfk56pumxsvkz.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/7/9/5/32-kctr-re-9009-prm-crm-fubar-original-imahfk56vrweujvu.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/7/9/5/32-kctr-re-9009-prm-crm-fubar-original-imahfk56vrweujvu.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/t/2/i/32-kctr-re-9009-prm-crm-fubar-original-imahfk56x9yg6nj4.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/t/2/i/32-kctr-re-9009-prm-crm-fubar-original-imahfk56x9yg6nj4.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/9/b/f/32-kctr-re-9009-prm-crm-fubar-original-imahfk56ks4ycguy.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/9/b/f/32-kctr-re-9009-prm-crm-fubar-original-imahfk56ks4ycguy.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

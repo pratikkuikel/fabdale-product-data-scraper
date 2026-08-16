@@ -1,0 +1,44 @@
+{
+  "key": "78d8dc70f7dcf2a74a429e26",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T21:30:07.920Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/q/b/3-4-years-winter-new-party-wear-season-kids-dress-purnkamaay-original-imah8ynmsmkzttfa.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/q/b/3-4-years-winter-new-party-wear-season-kids-dress-purnkamaay-original-imah8ynmsmkzttfa.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/0/y/u/3-4-years-winter-new-party-wear-season-kids-dress-purnkamaay-original-imah8ynman45mvdf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/0/y/u/3-4-years-winter-new-party-wear-season-kids-dress-purnkamaay-original-imah8ynman45mvdf.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/1/x/3-4-years-winter-new-party-wear-season-kids-dress-purnkamaay-original-imah8ynmurwdtkyd.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/1/x/3-4-years-winter-new-party-wear-season-kids-dress-purnkamaay-original-imah8ynmurwdtkyd.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/c/u/3-4-years-winter-new-party-wear-season-kids-dress-purnkamaay-original-imah8ynm8kggmeb5.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/c/u/3-4-years-winter-new-party-wear-season-kids-dress-purnkamaay-original-imah8ynm8kggmeb5.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/7/y/3-4-years-winter-new-party-wear-season-kids-dress-purnkamaay-original-imah8ynmhfmx5csh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/7/y/3-4-years-winter-new-party-wear-season-kids-dress-purnkamaay-original-imah8ynmhfmx5csh.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

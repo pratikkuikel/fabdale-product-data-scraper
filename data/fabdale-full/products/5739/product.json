@@ -1,0 +1,116 @@
+{
+  "product_id": "5739",
+  "sku": null,
+  "product": {
+    "name": "Parnika White ribbed bow Maxi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/pondar-girls-midi-knee-length-casual-dress/p/itm6341c93c5421d?pid=KDEGWCQ6N6NG88ZR&marketplace=FLIPKART&lid=LSTKDEGWCQ6N6NG88ZR0HLNW3&swatchAttr=size&pageUID=1775062585328"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGWCQ6N6NG88ZR",
+    "path": "../../sources/pid-KDEGWCQ6N6NG88ZR/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/pondar-girls-midi-knee-length-casual-dress/p/itm6341c93c5421d?pid=KDEGWCQ6N6NG88ZR&marketplace=FLIPKART&lid=LSTKDEGWCQ6N6NG88ZR0HLNW3&swatchAttr=size&pageUID=1775062585328",
+    "scraped_at": "2026-08-15T21:08:25.629Z",
+    "final_url": "https://www.flipkart.com/pondar-girls-midi-knee-length-casual-dress/p/itm6341c93c5421d?pid=KDEGWCQ6N6NG88ZR&marketplace=FLIPKART&lid=LSTKDEGWCQ6N6NG88ZR0HLNW3&swatchAttr=size&pageUID=1775062585328"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:08:36.757Z"
+  },
+  "content": {
+    "title": "PONDAR Girls Midi/Knee Length Casual Dress",
+    "short_description": "Buy PONDAR Girls Midi/Knee Length Casual Dress for Rs.1599.0 online. PONDAR Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "description": "Buy PONDAR Girls Midi/Knee Length Casual Dress for Rs.1599.0 online. PONDAR Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "420afbb05b322ffa121fca63",
+      "path": "media/images/420afbb05b322ffa121fca63/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/v/q/q/3-4-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgzu4mzeva.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/v/q/q/3-4-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgzu4mzeva.jpeg?q=100",
+        "local_path": "../../media/images/420afbb05b322ffa121fca63/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/g/s/3-4-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfggck37sns.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/g/s/3-4-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfggck37sns.jpeg?q=100",
+        "local_path": "../../media/images/420afbb05b322ffa121fca63/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PONDAR Girls Midi/Knee Length Casual Dress",
+      "description": "Buy PONDAR Girls Midi/Knee Length Casual Dress for Rs.1599.0 online. PONDAR Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/v/q/q/3-4-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgzu4mzeva.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/g/s/3-4-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfggck37sns.jpeg?q=70"
+      ],
+      "sku": "KDEGWCQ6N6NG88ZR",
+      "color": "BLUE",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "ratingCount": 35,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PONDAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 342,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

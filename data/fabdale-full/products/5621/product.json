@@ -1,0 +1,214 @@
+{
+  "product_id": "5621",
+  "sku": "Fab-Dress-PURNB-009PK-XXL",
+  "product": {
+    "name": "Parnika Butterfly Print  Midi",
+    "parent_id": "5626",
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm29fbe8c49c4ff?pid=KDEGXGPGEZEA4CJW&marketplace=FLIPKART&lid=LSTKDEGXGPGEZEA4CJWKTEWUL&swatchAttr=size&pageUID=1775060199859"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGXGPGEZEA4CJW",
+    "path": "../../sources/pid-KDEGXGPGEZEA4CJW/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm29fbe8c49c4ff?pid=KDEGXGPGEZEA4CJW&marketplace=FLIPKART&lid=LSTKDEGXGPGEZEA4CJWKTEWUL&swatchAttr=size&pageUID=1775060199859",
+    "scraped_at": "2026-08-15T21:39:46.871Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm29fbe8c49c4ff?pid=KDEGXGPGEZEA4CJW&marketplace=FLIPKART&lid=LSTKDEGXGPGEZEA4CJWKTEWUL&swatchAttr=size&pageUID=1775060199859"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:40:09.172Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress",
+    "short_description": "Fabric: Cotton Lycra\nType: A- Line Dress\nOccasion: Casual\nPrimary Color: Multicolor",
+    "description": "Colorful and Comfortable\nThis kid's dress is made from a soft and stretchy cotton lycra fabric, ensuring maximum comfort for …\n\nStylish A-Line Design\nFeaturing an A-line silhouette, this dress is perfect for casual occasions. The midi/knee length add…\n\nAll-Over Detail Placement\nThe dress is adorned with all-over detail placement, enhancing its overall appeal. Your child will s…\n\nEasy to Maintain\nThis dress is easy to care for with regular machine wash. It is designed to withstand everyday wear …",
+    "specifications": {
+      "Type": "A- Line Dress",
+      "Occasion": "Casual",
+      "Primary Color": "Multicolor",
+      "Fabric": "Cotton Lycra"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b86444e1d699bfa00926b149",
+      "path": "media/images/b86444e1d699bfa00926b149/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/f/x/6-12-months-butterfly-purnkamaay-trendz-original-imahnkasjyg9uymg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/f/x/6-12-months-butterfly-purnkamaay-trendz-original-imahnkasjyg9uymg.jpeg?q=100",
+        "local_path": "../../media/images/b86444e1d699bfa00926b149/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/a/a/3-4-years-pavitra-this-elegant-dress-is-at-the-top-of-the-wish-original-imahng3wnt4bry8m.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/a/a/3-4-years-pavitra-this-elegant-dress-is-at-the-top-of-the-wish-original-imahng3wnt4bry8m.jpeg?q=100",
+        "local_path": "../../media/images/b86444e1d699bfa00926b149/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/d/y/1-2-years-pavitra-this-elegant-dress-is-at-the-top-of-the-wish-original-imahng3wayh5gweu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/d/y/1-2-years-pavitra-this-elegant-dress-is-at-the-top-of-the-wish-original-imahng3wayh5gweu.jpeg?q=100",
+        "local_path": "../../media/images/b86444e1d699bfa00926b149/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/h/o/4-5-years-pavitra-this-elegant-dress-is-at-the-top-of-the-wish-original-imahng2pvbzgehmv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/h/o/4-5-years-pavitra-this-elegant-dress-is-at-the-top-of-the-wish-original-imahng2pvbzgehmv.jpeg?q=100",
+        "local_path": "../../media/images/b86444e1d699bfa00926b149/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/6/6/4/1-2-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imahnkamefemtvpy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/6/6/4/1-2-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imahnkamefemtvpy.jpeg?q=100",
+        "local_path": "../../media/images/b86444e1d699bfa00926b149/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress for Rs.1599.0 online. PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/f/x/6-12-months-butterfly-purnkamaay-trendz-original-imahnkasjyg9uymg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/a/a/3-4-years-pavitra-this-elegant-dress-is-at-the-top-of-the-wish-original-imahng3wnt4bry8m.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/d/y/1-2-years-pavitra-this-elegant-dress-is-at-the-top-of-the-wish-original-imahng3wayh5gweu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/h/o/4-5-years-pavitra-this-elegant-dress-is-at-the-top-of-the-wish-original-imahng2pvbzgehmv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/6/6/4/1-2-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imahnkamefemtvpy.jpeg?q=70"
+      ],
+      "sku": "KDEGXGPGEZEA4CJW",
+      "color": "PINK",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 28,
+        "ratingCount": 389,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 272,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-25",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Rita  Biwas(Amboli)",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-30",
+          "reviewBody": "This product is awesome! Must buy",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "ABIN M PHILIP",
+            "@type": "Person"
+          },
+          "datePublished": "2026-06-27",
+          "reviewBody": "Good, standard product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Colorful and Comfortable",
+          "body": "This kid's dress is made from a soft and stretchy cotton lycra fabric, ensuring maximum comfort for …"
+        },
+        {
+          "heading": "Stylish A-Line Design",
+          "body": "Featuring an A-line silhouette, this dress is perfect for casual occasions. The midi/knee length add…"
+        },
+        {
+          "heading": "All-Over Detail Placement",
+          "body": "The dress is adorned with all-over detail placement, enhancing its overall appeal. Your child will s…"
+        },
+        {
+          "heading": "Easy to Maintain",
+          "body": "This dress is easy to care for with regular machine wash. It is designed to withstand everyday wear …"
+        }
+      ],
+      "product_highlights": {
+        "Type": "A- Line Dress",
+        "Occasion": "Casual",
+        "Primary Color": "Multicolor",
+        "Fabric": "Cotton Lycra"
+      },
+      "specifications": {}
+    }
+  }
+}

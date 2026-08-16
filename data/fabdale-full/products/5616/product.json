@@ -1,0 +1,172 @@
+{
+  "product_id": "5616",
+  "sku": "Fab-Dress-PURNB-009MR-XXL",
+  "product": {
+    "name": "Parnika Butterfly Print  Midi",
+    "parent_id": "5626",
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm7a5a62692e9f7?pid=KDEGXGPGEYQZMSN4&lid=LSTKDEGXGPGEYQZMSN490S2DR&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGXGPGEYQZMSN4",
+    "path": "../../sources/pid-KDEGXGPGEYQZMSN4/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm7a5a62692e9f7?pid=KDEGXGPGEYQZMSN4&marketplace=FLIPKART&lid=LSTKDEGXGPGEYQZMSN490S2DR&swatchAttr=size&pageUID=1775059719249",
+    "scraped_at": "2026-08-15T21:38:18.015Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm7a5a62692e9f7?pid=KDEGXGPGEYQZMSN4&marketplace=FLIPKART&lid=LSTKDEGXGPGEYQZMSN490S2DR&swatchAttr=size&pageUID=1775059719249"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:38:41.401Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress (Multicolor...more",
+    "short_description": "Fabric: Cotton Lycra\nType: A- Line Dress\nOccasion: Casual\nPrimary Color: Multicolor",
+    "description": "Stylish and Comfortable\nThis a-line dress is perfect for casual occasions. It features a round neck and short sleeves, provi…\n\nVibrant Digital Prints\nAdorned with all-over digital prints, this dress showcases a vibrant and eye-catching design. The mu…\n\nEasy to Maintain\nCrafted from a cotton lycra blend, this dress can be easily washed in a regular machine cycle, makin…\n\nVersatile Midi Length\nWith its midi length, this dress offers both style and comfort. It is suitable for various occasions…",
+    "specifications": {
+      "Type": "A- Line Dress",
+      "Occasion": "Casual",
+      "Primary Color": "Multicolor",
+      "Fabric": "Cotton Lycra"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "872112baaf76f471af363fbf",
+      "path": "media/images/872112baaf76f471af363fbf/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/c/c/0/6-12-months-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82gvjuczsg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/c/c/0/6-12-months-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82gvjuczsg.jpeg?q=100",
+        "local_path": "../../media/images/872112baaf76f471af363fbf/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/q/r/8/6-12-months-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82epygcspq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/q/r/8/6-12-months-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82epygcspq.jpeg?q=100",
+        "local_path": "../../media/images/872112baaf76f471af363fbf/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/r/w/i/6-12-months-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82q2kzrbhr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/r/w/i/6-12-months-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82q2kzrbhr.jpeg?q=100",
+        "local_path": "../../media/images/872112baaf76f471af363fbf/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/c/r/5/6-12-months-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82r4gtex9t.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/c/r/5/6-12-months-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82r4gtex9t.jpeg?q=100",
+        "local_path": "../../media/images/872112baaf76f471af363fbf/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/8/n/k/3-4-years-titali-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwuc3adbffg7d.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kids-dress/8/n/k/3-4-years-titali-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwuc3adbffg7d.jpeg?q=100",
+        "local_path": "../../media/images/872112baaf76f471af363fbf/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/t/c/k/-original-imahjyzsuskgras8.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/t/c/k/-original-imahjyzsuskgras8.jpeg?q=100",
+        "local_path": "../../media/images/872112baaf76f471af363fbf/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/b/o/b/4-5-years-lopi-2-srgoldlive-resized-original-imahgzybngggcwhz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/b/o/b/4-5-years-lopi-2-srgoldlive-resized-original-imahgzybngggcwhz.jpeg?q=100",
+        "local_path": "../../media/images/872112baaf76f471af363fbf/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/f/i/9/13-14-years-271-black-denizli-fashion-original-imahpcxcsrcjs4ja.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/f/i/9/13-14-years-271-black-denizli-fashion-original-imahpcxcsrcjs4ja.jpeg?q=100",
+        "local_path": "../../media/images/872112baaf76f471af363fbf/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/o/k/6/1-2-years-rg-10-skrafatgarments-original-imahf5fgqbhngj4z.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/o/k/6/1-2-years-rg-10-skrafatgarments-original-imahf5fgqbhngj4z.jpeg?q=100",
+        "local_path": "../../media/images/872112baaf76f471af363fbf/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/w/q/p/13-14-years-lopi-2-srgoldlive-original-imahgzybssxydu7z.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/w/q/p/13-14-years-lopi-2-srgoldlive-original-imahgzybssxydu7z.jpeg?q=100",
+        "local_path": "../../media/images/872112baaf76f471af363fbf/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/e/r/o/10-11-years-baby-printed-gown-kriva-fashion-hub-original-imahzzcrhyhhwtgz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/e/r/o/10-11-years-baby-printed-gown-kriva-fashion-hub-original-imahzzcrhyhhwtgz.jpeg?q=100",
+        "local_path": "../../media/images/872112baaf76f471af363fbf/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/k/x/l/3-4-years-shreya-kids-frock-baby-girl-party-wear-frock-long-original-imah6zupshkzhphc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/k/x/l/3-4-years-shreya-kids-frock-baby-girl-party-wear-frock-long-original-imah6zupshkzhphc.jpeg?q=100",
+        "local_path": "../../media/images/872112baaf76f471af363fbf/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/q/d/m/1-2-years-011-kirtan-enterprise-original-imaha8c2nyhctmst.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kids-dress/q/d/m/1-2-years-011-kirtan-enterprise-original-imaha8c2nyhctmst.jpeg?q=100",
+        "local_path": "../../media/images/872112baaf76f471af363fbf/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Stylish and Comfortable",
+          "body": "This a-line dress is perfect for casual occasions. It features a round neck and short sleeves, provi…"
+        },
+        {
+          "heading": "Vibrant Digital Prints",
+          "body": "Adorned with all-over digital prints, this dress showcases a vibrant and eye-catching design. The mu…"
+        },
+        {
+          "heading": "Easy to Maintain",
+          "body": "Crafted from a cotton lycra blend, this dress can be easily washed in a regular machine cycle, makin…"
+        },
+        {
+          "heading": "Versatile Midi Length",
+          "body": "With its midi length, this dress offers both style and comfort. It is suitable for various occasions…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "A- Line Dress",
+        "Occasion": "Casual",
+        "Primary Color": "Multicolor",
+        "Fabric": "Cotton Lycra"
+      },
+      "specifications": {}
+    }
+  }
+}

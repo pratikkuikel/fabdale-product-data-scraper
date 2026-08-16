@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KDEHYYF5R9EZVJ9G",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/miss-chief-girls-midi-knee-length-party-dress/p/itmbdd9d69e2e79c?pid=KDEHYYF5R9EZVJ9G&marketplace=FLIPKART&lid=LSTKDEHYYF5R9EZVJ9GY3WBCP&swatchAttr=size&pageUID=1775151915358\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/miss-chief-girls-midi-knee-length-party-dress/p/itmbdd9d69e2e79c?pid=KDEHYYF5R9EZVJ9G&marketplace=FLIPKART&lid=LSTKDEHYYF5R9EZVJ9GY3WBCP&swatchAttr=size&pageUID=1775151915358\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "5750"
+  ],
+  "source_path": "sources/pid-KDEHYYF5R9EZVJ9G/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T22:16:13.448Z",
+  "completed_at": "2026-08-15T22:16:13.639Z"
+}

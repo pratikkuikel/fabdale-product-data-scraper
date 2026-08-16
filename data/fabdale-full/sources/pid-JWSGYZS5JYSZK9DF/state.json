@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-JWSGYZS5JYSZK9DF",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4896",
+    "7021"
+  ],
+  "source_path": "sources/pid-JWSGYZS5JYSZK9DF/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T20:48:42.018Z",
+  "completed_at": "2026-08-15T20:48:55.757Z"
+}

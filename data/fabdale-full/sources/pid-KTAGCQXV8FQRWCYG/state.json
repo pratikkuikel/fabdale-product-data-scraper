@@ -1,8 +1,8 @@
 {
   "source_key": "pid-KTAGCQXV8FQRWCYG",
-  "status": "failed",
-  "attempt_count": 3,
-  "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/cellux-men-solid-straight-kurta/p/itmd79ecb1416870?pid=KTAGCQXV8FQRWCYG&marketplace=FLIPKART&lid=LSTKTAGCQXV8FQRWCYGAAXDVL&swatchAttr=size&pageUID=1773829293398\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
   "product_keys": [
     "4082"
   ],
@@ -10,6 +10,6 @@
   "image_quality": 100,
   "download_media": true,
   "extractor_version": 2,
-  "started_at": "2026-08-15T12:35:16.263Z",
-  "completed_at": "2026-08-15T12:36:35.327Z"
+  "started_at": "2026-08-15T19:58:23.335Z",
+  "completed_at": "2026-08-15T19:58:29.587Z"
 }

@@ -1,0 +1,38 @@
+{
+  "product_id": "5792",
+  "sku": "Fab-Dress-MISS-008G-XL",
+  "product": {
+    "name": "Moonette Puff sleeves Midi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/miss-chief-girls-midi-knee-length-party-dress/p/itm85a362ad39b69?pid=KDEH9Y9CUFBUQAG8&marketplace=FLIPKART&lid=LSTKDEH9Y9CUFBUQAG8IEXCGP&swatchAttr=size&pageUID=1775211398485"
+  },
+  "source_bundle": {
+    "key": "pid-KDEH9Y9CUFBUQAG8",
+    "path": "../../sources/pid-KDEH9Y9CUFBUQAG8/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/miss-chief-girls-midi-knee-length-party-dress/p/itm85a362ad39b69?pid=KDEH9Y9CUFBUQAG8&marketplace=FLIPKART&lid=LSTKDEH9Y9CUFBUQAG8IEXCGP&swatchAttr=size&pageUID=1775211398485",
+    "scraped_at": "2026-08-15T22:19:52.506Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/miss-chief-girls-midi-knee-length-party-dress/p/itm85a362ad39b69?pid=KDEH9Y9CUFBUQAG8&marketplace=FLIPKART&lid=LSTKDEH9Y9CUFBUQAG8IEXCGP&swatchAttr=size&pageUID=1775211398485\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/miss-chief-girls-midi-knee-length-party-dress/p/itm85a362ad39b69?pid=KDEH9Y9CUFBUQAG8&marketplace=FLIPKART&lid=LSTKDEH9Y9CUFBUQAG8IEXCGP&swatchAttr=size&pageUID=1775211398485\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:19:52.600Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

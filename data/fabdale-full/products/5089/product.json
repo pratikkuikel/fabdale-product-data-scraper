@@ -1,0 +1,210 @@
+{
+  "product_id": "5089",
+  "sku": "Fab-Dress-PURNB-002BK-XXL",
+  "product": {
+    "name": "Parnika  Full Sleeve Baby Girl  Midi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-girls-above-knee-festive-wedding-dress/p/itm1e2a608064b57?pid=KDEH6TD46ATANYYF&marketplace=FLIPKART&lid=LSTKDEH6TD46ATANYYF1GONWR&swatchAttr=size&pageUID=1774972224645"
+  },
+  "source_bundle": {
+    "key": "pid-KDEH6TD46ATANYYF",
+    "path": "../../sources/pid-KDEH6TD46ATANYYF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-girls-above-knee-festive-wedding-dress/p/itm1e2a608064b57?pid=KDEH6TD46ATANYYF&marketplace=FLIPKART&lid=LSTKDEH6TD46ATANYYF1GONWR&swatchAttr=size&pageUID=1774972224645",
+    "scraped_at": "2026-08-15T21:03:30.888Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-girls-above-knee-festive-wedding-dress/p/itm1e2a608064b57?pid=KDEH6TD46ATANYYF&marketplace=FLIPKART&lid=LSTKDEH6TD46ATANYYF1GONWR&swatchAttr=size&pageUID=1774972224645"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:03:50.939Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Girls Above Knee Festive/Wedding Dress",
+    "short_description": "Fabric: Cotton Blend\nType: Fit and Flare Dress\nOccasion: Festive/Wedding\nPrimary Color: Black",
+    "description": "Charming Fit and Flare Dress\nThis fit and flare dress in black features all-over digital prints, making it a charming choice for …\n\nAbove Knee Length\nDesigned with an above knee length, this dress allows easy movement and a stylish look for your chil…\n\nEasy Fabric Care\nMade of cotton blend fabric, this dress can be easily maintained with regular machine wash, ensuring…",
+    "specifications": {
+      "Type": "Fit and Flare Dress",
+      "Occasion": "Festive/Wedding",
+      "Primary Color": "Black",
+      "Fabric": "Cotton Blend"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "268870b3e50993e85e3bcf64",
+      "path": "media/images/268870b3e50993e85e3bcf64/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/a/y/2-3-years-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imaha3tu3grffnk9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/a/y/2-3-years-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imaha3tu3grffnk9.jpeg?q=100",
+        "local_path": "../../media/images/268870b3e50993e85e3bcf64/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/v/d/2-3-years-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imaha3tuzvzpdryy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/v/d/2-3-years-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imaha3tuzvzpdryy.jpeg?q=100",
+        "local_path": "../../media/images/268870b3e50993e85e3bcf64/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/v/5/q/3-6-months-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imah98vnbnzzvnyr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/v/5/q/3-6-months-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imah98vnbnzzvnyr.jpeg?q=100",
+        "local_path": "../../media/images/268870b3e50993e85e3bcf64/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/l/e/3-6-months-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imah98vn6gfrezb6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/l/e/3-6-months-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imah98vn6gfrezb6.jpeg?q=100",
+        "local_path": "../../media/images/268870b3e50993e85e3bcf64/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/e/d/3-6-months-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imah7h9x5twe8fz2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/e/d/3-6-months-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imah7h9x5twe8fz2.jpeg?q=100",
+        "local_path": "../../media/images/268870b3e50993e85e3bcf64/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Girls Above Knee Festive/Wedding Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Girls Above Knee Festive/Wedding Dress for Rs.999.0 online. PURNKAMAAY TRENDZ Girls Above Knee Festive/Wedding Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/a/y/2-3-years-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imaha3tu3grffnk9.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/v/d/2-3-years-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imaha3tuzvzpdryy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/v/5/q/3-6-months-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imah98vnbnzzvnyr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/l/e/3-6-months-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imah98vn6gfrezb6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/e/d/3-6-months-winter-new-winter-season-kids-dress-purnkamaay-trendz-original-imah7h9x5twe8fz2.jpeg?q=70"
+      ],
+      "sku": "KDEH6TD46ATANYYF",
+      "color": "BLACK",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 44,
+        "ratingCount": 938,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 305,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Great product",
+          "author": {
+            "name": "archana soman",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-23",
+          "reviewBody": "Good one",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-23",
+          "reviewBody": "Awesome",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Taksam Jeme",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-09",
+          "reviewBody": "As aspected....",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Charming Fit and Flare Dress",
+          "body": "This fit and flare dress in black features all-over digital prints, making it a charming choice for …"
+        },
+        {
+          "heading": "Above Knee Length",
+          "body": "Designed with an above knee length, this dress allows easy movement and a stylish look for your chil…"
+        },
+        {
+          "heading": "Easy Fabric Care",
+          "body": "Made of cotton blend fabric, this dress can be easily maintained with regular machine wash, ensuring…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Fit and Flare Dress",
+        "Occasion": "Festive/Wedding",
+        "Primary Color": "Black",
+        "Fabric": "Cotton Blend"
+      },
+      "specifications": {}
+    }
+  }
+}

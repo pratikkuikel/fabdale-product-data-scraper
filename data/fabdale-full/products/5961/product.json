@@ -1,0 +1,38 @@
+{
+  "product_id": "5961",
+  "sku": "Fab-Dress-FSHD-011ML-XL",
+  "product": {
+    "name": "Fablina Geometric animal print",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm71f5e6643ad93?pid=KDEHGZGYY7NHWC63&marketplace=FLIPKART&lid=LSTKDEHGZGYY7NHWC63F6LH2R&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHGZGYY7NHWC63",
+    "path": "../../sources/pid-KDEHGZGYY7NHWC63/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm71f5e6643ad93?pid=KDEHGZGYY7NHWC63&marketplace=FLIPKART&lid=LSTKDEHGZGYY7NHWC63F6LH2R&swatchAttr=size",
+    "scraped_at": "2026-08-15T22:35:30.202Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm71f5e6643ad93?pid=KDEHGZGYY7NHWC63&marketplace=FLIPKART&lid=LSTKDEHGZGYY7NHWC63F6LH2R&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm71f5e6643ad93?pid=KDEHGZGYY7NHWC63&marketplace=FLIPKART&lid=LSTKDEHGZGYY7NHWC63F6LH2R&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:35:30.305Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

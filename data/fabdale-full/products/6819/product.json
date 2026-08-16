@@ -1,0 +1,180 @@
+{
+  "product_id": "6819",
+  "sku": "Fab-Trousers-FUBR-002CR-L",
+  "product": {
+    "name": "FUBAR Classic Checkered Cotton Blend Slim Fit Trousers",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fubar-slim-fit-men-white-trousers/p/itmfg7fvwkazuc5z?pid=TROFG726RFAQNEGH&marketplace=FLIPKART&lid=LSTTROFG726RFAQNEGHJVGQ1F&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-TROFG726RFAQNEGH",
+    "path": "../../sources/pid-TROFG726RFAQNEGH/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-slim-fit-men-white-trousers/p/itmfg7fvwkazuc5z?pid=TROFG726RFAQNEGH&marketplace=FLIPKART&lid=LSTTROFG726RFAQNEGHJVGQ1F&swatchAttr=size",
+    "scraped_at": "2026-08-15T23:37:40.029Z",
+    "final_url": "https://www.flipkart.com/fubar-slim-fit-men-white-trousers/p/itmfg7fvwkazuc5z?pid=TROFG726RFAQNEGH&marketplace=FLIPKART&lid=LSTTROFG726RFAQNEGHJVGQ1F&swatchAttr=size"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T23:37:55.674Z"
+  },
+  "content": {
+    "title": "FUBAR Slim Fit Men White Trousers",
+    "short_description": "Color: White\nType: Casual Trousers\nFit: Slim Fit",
+    "description": "Retro Checkered Trousers\nBoard the Retro train with this retro checkered trouser. The classic pattern guarantees style while …",
+    "specifications": {
+      "Fit": "Slim Fit",
+      "Color": "White",
+      "Type": "Casual Trousers"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0578575a55ee535baefb9838",
+      "path": "media/images/0578575a55ee535baefb9838/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/m/a/i/34-variant-5b-fubar-resized-original-imahye2ajegrhhjm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/m/a/i/34-variant-5b-fubar-resized-original-imahye2ajegrhhjm.jpeg?q=100",
+        "local_path": "../../media/images/0578575a55ee535baefb9838/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/t/p/g/34-variant-5b-fubar-original-imahye2aarbyf6qf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/t/p/g/34-variant-5b-fubar-original-imahye2aarbyf6qf.jpeg?q=100",
+        "local_path": "../../media/images/0578575a55ee535baefb9838/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/i/l/l/34-variant-5b-fubar-original-imahye2ag6wwwtve.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/i/l/l/34-variant-5b-fubar-original-imahye2ag6wwwtve.jpeg?q=100",
+        "local_path": "../../media/images/0578575a55ee535baefb9838/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/u/w/r/34-variant-5b-fubar-original-imahye2astzvwhjj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/u/w/r/34-variant-5b-fubar-original-imahye2astzvwhjj.jpeg?q=100",
+        "local_path": "../../media/images/0578575a55ee535baefb9838/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Slim Fit Men White Trousers",
+      "description": "FUBAR Slim Fit Men White Trousers - Buy FUBAR Slim Fit Men White Trousers For Only Rs. 1758.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/m/a/i/34-variant-5b-fubar-resized-original-imahye2ajegrhhjm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/t/p/g/34-variant-5b-fubar-original-imahye2aarbyf6qf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/i/l/l/34-variant-5b-fubar-original-imahye2ag6wwwtve.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/u/w/r/34-variant-5b-fubar-original-imahye2astzvwhjj.jpeg?q=70"
+      ],
+      "sku": "TROFG726RFAQNEGH",
+      "color": "Cream",
+      "category": "trouser",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 188,
+        "ratingCount": 2925,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 383,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2020-07-09",
+          "reviewBody": "Good quality and a little bit strechable.Value of money.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Rajesh  Yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2020-09-05",
+          "reviewBody": "Ok",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Chandan  Murmu",
+            "@type": "Person"
+          },
+          "datePublished": "2021-10-25",
+          "reviewBody": "Awasome",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Retro Checkered Trousers",
+          "body": "Board the Retro train with this retro checkered trouser. The classic pattern guarantees style while …"
+        }
+      ],
+      "product_highlights": {
+        "Fit": "Slim Fit",
+        "Color": "White",
+        "Type": "Casual Trousers"
+      },
+      "specifications": {}
+    }
+  }
+}

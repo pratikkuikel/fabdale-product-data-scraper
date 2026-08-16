@@ -1,0 +1,38 @@
+{
+  "product_id": "6258",
+  "sku": "Fab-Dress-ZENT-004OR-L",
+  "product": {
+    "name": "Zestelle Two-piece coordinated outfit",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/zenat-girls-midi-knee-length-party-dress/p/itm37ce1ed3eb31e?pid=KDEH83PZQNHGY2NP&marketplace=FLIPKART&lid=LSTKDEH83PZQNHGY2NPB1QAEE&swatchAttr=size&pageUID=1776073629052"
+  },
+  "source_bundle": {
+    "key": "pid-KDEH83PZQNHGY2NP",
+    "path": "../../sources/pid-KDEH83PZQNHGY2NP/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zenat-girls-midi-knee-length-party-dress/p/itm37ce1ed3eb31e?pid=KDEH83PZQNHGY2NP&marketplace=FLIPKART&lid=LSTKDEH83PZQNHGY2NPB1QAEE&swatchAttr=size&pageUID=1776073629052",
+    "scraped_at": "2026-08-15T23:07:56.661Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/zenat-girls-midi-knee-length-party-dress/p/itm37ce1ed3eb31e?pid=KDEH83PZQNHGY2NP&marketplace=FLIPKART&lid=LSTKDEH83PZQNHGY2NPB1QAEE&swatchAttr=size&pageUID=1776073629052\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/zenat-girls-midi-knee-length-party-dress/p/itm37ce1ed3eb31e?pid=KDEH83PZQNHGY2NP&marketplace=FLIPKART&lid=LSTKDEH83PZQNHGY2NPB1QAEE&swatchAttr=size&pageUID=1776073629052\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T23:07:57.571Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

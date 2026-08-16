@@ -1,0 +1,22 @@
+{
+  "source_key": "pid-SWDHBZFZUMTK6PN5",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4954",
+    "4958",
+    "5738",
+    "7127",
+    "7128",
+    "7129",
+    "7130",
+    "7131"
+  ],
+  "source_path": "sources/pid-SWDHBZFZUMTK6PN5/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T20:55:54.632Z",
+  "completed_at": "2026-08-15T20:56:15.427Z"
+}

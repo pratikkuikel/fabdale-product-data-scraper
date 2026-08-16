@@ -1,0 +1,187 @@
+{
+  "product_id": "4784",
+  "sku": "Fab-Kurta-DMMY-002WH-L",
+  "product": {
+    "name": "Devansh Boho Yoga Shirt",
+    "parent_id": "5347",
+    "notes": "https://www.flipkart.com/dimmy-men-solid-a-line-kurta/p/itm12c347385e181?pid=KTAHGW9DZRFTHNPM&marketplace=FLIPKART&lid=LSTKTAHGW9DZRFTHNPMJ5ITNM&swatchAttr=size&pageUID=1774177561482"
+  },
+  "source_bundle": {
+    "key": "pid-KTAHGW9DZRFTHNPM",
+    "path": "../../sources/pid-KTAHGW9DZRFTHNPM/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/dimmy-men-solid-a-line-kurta/p/itm12c347385e181?pid=KTAHGW9DZRFTHNPM&marketplace=FLIPKART&lid=LSTKTAHGW9DZRFTHNPMJ5ITNM&swatchAttr=size&pageUID=1774177561482",
+    "scraped_at": "2026-08-15T20:31:47.297Z",
+    "final_url": "https://www.flipkart.com/dimmy-men-solid-a-line-kurta/p/itm12c347385e181?pid=KTAHGW9DZRFTHNPM&marketplace=FLIPKART&lid=LSTKTAHGW9DZRFTHNPMJ5ITNM&swatchAttr=size&pageUID=1774177561482"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:31:52.947Z"
+  },
+  "content": {
+    "title": "DIMMY Men Solid A-line Kurta",
+    "short_description": "DIMMY Men Solid A-line Kurta - Buy DIMMY Men Solid A-line Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "DIMMY Men Solid A-line Kurta - Buy DIMMY Men Solid A-line Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "55a7bfc94150da62522c005a",
+      "path": "media/images/55a7bfc94150da62522c005a/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/l/w/xl-liop02-dimmy-resized-original-imahgw9dwg3gtfuq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/l/w/xl-liop02-dimmy-resized-original-imahgw9dwg3gtfuq.jpeg?q=100",
+        "local_path": "../../media/images/55a7bfc94150da62522c005a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/1/h/i/xl-liop02-dimmy-original-imahgw9dfkvzxxxv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/1/h/i/xl-liop02-dimmy-original-imahgw9dfkvzxxxv.jpeg?q=100",
+        "local_path": "../../media/images/55a7bfc94150da62522c005a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/9/m/8/xl-liop02-dimmy-original-imahgw9dxzybyfka.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/9/m/8/xl-liop02-dimmy-original-imahgw9dxzybyfka.jpeg?q=100",
+        "local_path": "../../media/images/55a7bfc94150da62522c005a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/z/g/xl-liop02-dimmy-original-imahgw9d4yxawvpr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/z/g/xl-liop02-dimmy-original-imahgw9d4yxawvpr.jpeg?q=100",
+        "local_path": "../../media/images/55a7bfc94150da62522c005a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/d/u/xl-liop02-dimmy-original-imahgw9dhztc2bcn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/d/u/xl-liop02-dimmy-original-imahgw9dhztc2bcn.jpeg?q=100",
+        "local_path": "../../media/images/55a7bfc94150da62522c005a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "DIMMY Men Solid A-line Kurta",
+      "description": "DIMMY Men Solid A-line Kurta - Buy DIMMY Men Solid A-line Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/l/w/xl-liop02-dimmy-resized-original-imahgw9dwg3gtfuq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/1/h/i/xl-liop02-dimmy-original-imahgw9dfkvzxxxv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/9/m/8/xl-liop02-dimmy-original-imahgw9dxzybyfka.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/z/g/xl-liop02-dimmy-original-imahgw9d4yxawvpr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/d/u/xl-liop02-dimmy-original-imahgw9dhztc2bcn.jpeg?q=70"
+      ],
+      "sku": "KTAHGW9DZRFTHNPM",
+      "color": "WHITE",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 41,
+        "ratingCount": 701,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "DIMMY",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 359,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Vishnu  Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-11-28",
+          "reviewBody": "Wonderful glossy",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Rajib Aslam",
+            "@type": "Person"
+          },
+          "datePublished": "2026-01-13",
+          "reviewBody": "Very nice your product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Akash Dandge ",
+            "@type": "Person"
+          },
+          "datePublished": "2026-04-23",
+          "reviewBody": "Nice 👍🙂",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

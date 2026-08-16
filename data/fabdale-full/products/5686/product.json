@@ -1,0 +1,149 @@
+{
+  "product_id": "5686",
+  "sku": "Fab-Dress-PURNB-023PK-M",
+  "product": {
+    "name": "Parnika Burgundy floral Print Dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/queen-worth-baby-girls-midi-knee-length-casual-dress/p/itm5933ba985a0fb?pid=KDEHG835VYAABZMC&marketplace=FLIPKART&lid=LSTKDEHG835VYAABZMCKM5QBJ&swatchAttr=size&pageUID=1775147074201"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHG835VYAABZMC",
+    "path": "../../sources/pid-KDEHG835VYAABZMC/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/queen-worth-baby-girls-midi-knee-length-casual-dress/p/itm5933ba985a0fb?pid=KDEHG835VYAABZMC&marketplace=FLIPKART&lid=LSTKDEHG835VYAABZMCKM5QBJ&swatchAttr=size&pageUID=1775147074201",
+    "scraped_at": "2026-08-15T21:56:34.157Z",
+    "final_url": "https://www.flipkart.com/queen-worth-baby-girls-midi-knee-length-casual-dress/p/itm5933ba985a0fb?pid=KDEHG835VYAABZMC&marketplace=FLIPKART&lid=LSTKDEHG835VYAABZMCKM5QBJ&swatchAttr=size&pageUID=1775147074201"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:56:50.137Z"
+  },
+  "content": {
+    "title": "Queen worth Baby Girls Midi/Knee Length Casual Dress",
+    "short_description": "Fabric: Silk\nPattern: Embroidered\nType: Fit and Flare Dress\nOccasion: Casual\nPrimary Color: Pink",
+    "description": "Style Code\nPari kids dress,party dress for baby embroidery design frock for baby\n\nFabric Care\nDo not Iron on print/embroidery/embellishment, First wash dry clean thereafter handwash, Gentle Machine Wash\n\nAdditional Features\nOther Featuresmonsoon,summer ,Winter & Christmas Special Frock. This Elegant Dress is at the top of the wish list for the new season From LIMTD on Flipkart. Pair it with trendy Handbag and lovely accessories to get her ready for a Birthday, Christmas, Photo shoots or parties and other festive occasions. This self-design open front crop shrug styled dress is made up of Cotton Lycra fabric with floral, Checkered digital print pattern. This frock features a round neckline, cap sleeve crop shrug with Bow. Frock has a hidden Hook at the back side. Give your little one's look like a princess with this charming and royal design Midi Frock. Keep your baby girl’s look classy with this super-cute shrug styled dress.\n\nOther Features\nmonsoon,summer ,Winter & Christmas Special Frock. This Elegant Dress is at the top of the wish list for the new season From LIMTD on Flipkart. Pair it with trendy Handbag and lovely accessories to get her ready for a Birthday, Christmas, Photo shoots or parties and other festive occasions. This self-design open front crop shrug styled dress is made up of Cotton Lycra fabric with floral, Checkered digital print pattern. This frock features a round neckline, cap sleeve crop shrug with Bow. Frock has a hidden Hook at the back side. Give your little one's look like a princess with this charming and royal design Midi Frock. Keep your baby girl’s look classy with this super-cute shrug styled dress.",
+    "specifications": {
+      "Type": "Fit and Flare Dress",
+      "Occasion": "Casual",
+      "Pattern": "Embroidered",
+      "Primary Color": "Pink",
+      "Fabric": "Silk"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1d3d7957e2bfebec50cdaa41",
+      "path": "media/images/1d3d7957e2bfebec50cdaa41/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/5/i/6-12-months-pt-girl-embrodarywork-1-purnkamaay-trendz-resized-original-imahf76ppjjxzbxz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/5/i/6-12-months-pt-girl-embrodarywork-1-purnkamaay-trendz-resized-original-imahf76ppjjxzbxz.jpeg?q=100",
+        "local_path": "../../media/images/1d3d7957e2bfebec50cdaa41/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/y/7/w/3-4-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg7ybgy7davup.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/y/7/w/3-4-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg7ybgy7davup.jpeg?q=100",
+        "local_path": "../../media/images/1d3d7957e2bfebec50cdaa41/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/0/b/1-2-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg7yb8zzy5gan.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/0/b/1-2-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg7yb8zzy5gan.jpeg?q=100",
+        "local_path": "../../media/images/1d3d7957e2bfebec50cdaa41/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/6/r/2-3-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg8356pkjj2kt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/6/r/2-3-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg8356pkjj2kt.jpeg?q=100",
+        "local_path": "../../media/images/1d3d7957e2bfebec50cdaa41/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Queen worth Baby Girls Midi/Knee Length Casual Dress",
+      "description": "Buy Queen worth Baby Girls Midi/Knee Length Casual Dress for Rs.1499.0 online. Queen worth Baby Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/5/i/6-12-months-pt-girl-embrodarywork-1-purnkamaay-trendz-resized-original-imahf76ppjjxzbxz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/y/7/w/3-4-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg7ybgy7davup.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/0/b/1-2-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg7yb8zzy5gan.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/6/r/2-3-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg8356pkjj2kt.jpeg?q=70"
+      ],
+      "sku": "KDEHG835VYAABZMC",
+      "color": "Pink",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 3.3,
+        "ratingCount": 3,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Queen worth",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 381,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Style Code",
+          "body": "Pari kids dress,party dress for baby embroidery design frock for baby"
+        },
+        {
+          "heading": "Fabric Care",
+          "body": "Do not Iron on print/embroidery/embellishment, First wash dry clean thereafter handwash, Gentle Machine Wash"
+        },
+        {
+          "heading": "Additional Features",
+          "body": "Other Featuresmonsoon,summer ,Winter & Christmas Special Frock. This Elegant Dress is at the top of the wish list for the new season From LIMTD on Flipkart. Pair it with trendy Handbag and lovely accessories to get her ready for a Birthday, Christmas, Photo shoots or parties and other festive occasions. This self-design open front crop shrug styled dress is made up of Cotton Lycra fabric with floral, Checkered digital print pattern. This frock features a round neckline, cap sleeve crop shrug with Bow. Frock has a hidden Hook at the back side. Give your little one's look like a princess with this charming and royal design Midi Frock. Keep your baby girl’s look classy with this super-cute shrug styled dress."
+        },
+        {
+          "heading": "Other Features",
+          "body": "monsoon,summer ,Winter & Christmas Special Frock. This Elegant Dress is at the top of the wish list for the new season From LIMTD on Flipkart. Pair it with trendy Handbag and lovely accessories to get her ready for a Birthday, Christmas, Photo shoots or parties and other festive occasions. This self-design open front crop shrug styled dress is made up of Cotton Lycra fabric with floral, Checkered digital print pattern. This frock features a round neckline, cap sleeve crop shrug with Bow. Frock has a hidden Hook at the back side. Give your little one's look like a princess with this charming and royal design Midi Frock. Keep your baby girl’s look classy with this super-cute shrug styled dress."
+        }
+      ],
+      "product_highlights": {
+        "Type": "Fit and Flare Dress",
+        "Occasion": "Casual",
+        "Pattern": "Embroidered",
+        "Primary Color": "Pink",
+        "Fabric": "Silk"
+      },
+      "specifications": {}
+    }
+  }
+}

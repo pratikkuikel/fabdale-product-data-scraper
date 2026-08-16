@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/supernova-inc-slim-men-blue-jeans/p/itmdff9c4ddc0546?pid=JEAFVEG2ZVUGFYVM&marketplace=FLIPKART&lid=LSTJEAFVEG2ZVUGFYVMDKKFUJ&swatchAttr=size&pageUID=1776668599479",
+    "scraped_at": "2026-08-15T23:17:42.695Z",
+    "final_url": "https://www.flipkart.com/supernova-inc-slim-men-blue-jeans/p/itmdff9c4ddc0546?pid=JEAFVEG2ZVUGFYVM&marketplace=FLIPKART&lid=LSTJEAFVEG2ZVUGFYVMDKKFUJ&swatchAttr=size&pageUID=1776668599479"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T23:17:52.114Z"
+  },
+  "content": {
+    "title": "Supernova Inc. Slim Men Blue Jeans",
+    "short_description": "Supernova Inc. Slim Men Blue Jeans - Buy Supernova Inc. Slim Men Blue Jeans For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "Supernova Inc. Slim Men Blue Jeans - Buy Supernova Inc. Slim Men Blue Jeans For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/d/e/u/28-suplpsjean-mblue-supernova-inc-original-imahzmfz7a2quqdg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/d/e/u/28-suplpsjean-mblue-supernova-inc-original-imahzmfz7a2quqdg.jpeg?q=100",
+        "local_path": "../../media/images/12fd55f661beab77d0b06388/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/p/c/q/38-suplpsjean-mblue-supernova-inc-original-imahhxjtya7hmvbq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/p/c/q/38-suplpsjean-mblue-supernova-inc-original-imahhxjtya7hmvbq.jpeg?q=100",
+        "local_path": "../../media/images/12fd55f661beab77d0b06388/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/k/z/y/38-suplpsjean-mblue-supernova-inc-original-imahhxjthwzvx5hh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/k/z/y/38-suplpsjean-mblue-supernova-inc-original-imahhxjthwzvx5hh.jpeg?q=100",
+        "local_path": "../../media/images/12fd55f661beab77d0b06388/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/h/c/c/38-suplpsjean-mblue-supernova-inc-original-imahhxjtvdkmrg4g.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/h/c/c/38-suplpsjean-mblue-supernova-inc-original-imahhxjtvdkmrg4g.jpeg?q=100",
+        "local_path": "../../media/images/12fd55f661beab77d0b06388/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/q/p/z/38-suplpsjean-mblue-supernova-inc-original-imahhxjtmrdztdhv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/q/p/z/38-suplpsjean-mblue-supernova-inc-original-imahhxjtmrdztdhv.jpeg?q=100",
+        "local_path": "../../media/images/12fd55f661beab77d0b06388/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Supernova Inc. Slim Men Blue Jeans",
+      "description": "Supernova Inc. Slim Men Blue Jeans - Buy Supernova Inc. Slim Men Blue Jeans For Only Rs. 1299.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/d/e/u/28-suplpsjean-mblue-supernova-inc-original-imahzmfz7a2quqdg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/p/c/q/38-suplpsjean-mblue-supernova-inc-original-imahhxjtya7hmvbq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/k/z/y/38-suplpsjean-mblue-supernova-inc-original-imahhxjthwzvx5hh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/h/c/c/38-suplpsjean-mblue-supernova-inc-original-imahhxjtvdkmrg4g.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/q/p/z/38-suplpsjean-mblue-supernova-inc-original-imahhxjtmrdztdhv.jpeg?q=70"
+      ],
+      "sku": "JEAFVEG2ZVUGFYVM",
+      "color": "Blue",
+      "category": "jean",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 2367,
+        "ratingCount": 30473,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Supernova Inc.",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 513,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Pankaj Kumar  Gupta",
+            "@type": "Person"
+          },
+          "datePublished": "2020-11-12",
+          "reviewBody": "Good Product...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Mohammed Faisal",
+            "@type": "Person"
+          },
+          "datePublished": "2021-05-06",
+          "reviewBody": "Best jeans at reasonable price,, and fast delivery..good service",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-02-05",
+          "reviewBody": "Go for it ⭐️⭐️⭐️⭐️⭐️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "12fd55f661beab77d0b06388",
+      "path": "media/images/12fd55f661beab77d0b06388/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

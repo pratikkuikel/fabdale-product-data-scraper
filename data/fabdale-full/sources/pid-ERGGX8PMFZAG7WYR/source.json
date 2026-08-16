@@ -1,0 +1,191 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/brado-jewellery-pack-1-gold-plated-earrings-women-girls-diamond-pearl-brass-drops-danglers/p/itm2a43ce8d1837a?pid=ERGGX8PMFZAG7WYR&lid=LSTERGGX8PMFZAG7WYRI7X26P&marketplace=FLIPKART",
+    "scraped_at": "2026-08-15T20:50:32.823Z",
+    "final_url": "https://www.flipkart.com/brado-jewellery-pack-1-gold-plated-earrings-women-girls-diamond-pearl-brass-drops-danglers/p/itm2a43ce8d1837a?pid=ERGGX8PMFZAG7WYR&lid=LSTERGGX8PMFZAG7WYRI7X26P&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:50:50.959Z"
+  },
+  "content": {
+    "title": "brado jewellery Pack of 1 Gold Plated Earrings for Women and Girls Diamond, Pearl Brass Drops & Danglers",
+    "short_description": "Color: Multicolor\nOccasion: Love, Religious, Wedding & Engagement, Workwear\nBase Material: Brass\nPlating: Gold-plated",
+    "description": "Silver Features\nSilver Weight8.7 gSilver ColorWhiteSilver Purity1k\n\nDiamond Features\nDiamond Color GradeDDiamond ClarityFLDiamond ShapeRoundDiamond Weight0.07 carat\n\nMetal Features\nMetal Purity1kMetal ColorGoldMetal Weight8.7\n\nModel Name\nPack of 1 Gold Plated Earrings for Women and Girls\n\nTrend\nChandbalis, Drop Earrings, Handcrafted, Pearl, White Gold\n\nProduct Details\nSales PackagePack of 1 Pair of Gold EarringsOccasionLove, Religious, Wedding & Engagement, WorkwearDesignHeavyFinishGold Plated, Round Shaped Diamond used, Heavy Polished Diamond UsedEarring Back TypePush BackNumber of Pairs1\n\nOccasion\nLove, Religious, Wedding & Engagement, Workwear\n\nFinish\nGold Plated, Round Shaped Diamond used, Heavy Polished Diamond Used\n\nPearl Features\nPearl ColorWhitePearl ShapeRoundArtificial Pearl MaterialPlastic",
+    "specifications": {
+      "Base Material": "Brass",
+      "Plating": "Gold-plated",
+      "Color": "Multicolor",
+      "Occasion": "Love, Religious, Wedding & Engagement, Workwear"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/earring/q/q/e/na-kundan-kan-chain-jumki-varun-creations-original-imagpzc6bptduhvm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/earring/q/q/e/na-kundan-kan-chain-jumki-varun-creations-original-imagpzc6bptduhvm.jpeg?q=100",
+        "local_path": "../../media/images/ce2e3c877da32a6552bf84b7/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "brado jewellery Pack of 1 Gold Plated Earrings for Women and Girls Diamond, Pearl Brass Drops & Danglers",
+      "description": "Buy brado jewellery Pack of 1 Gold Plated Earrings for Women and Girls Diamond, Pearl Brass Drops & Danglers from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/earring/q/q/e/na-kundan-kan-chain-jumki-varun-creations-original-imagpzc6bptduhvm.jpeg?q=70"
+      ],
+      "sku": "ERGGX8PMFZAG7WYR",
+      "color": "Multicolor",
+      "category": "earring",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 46,
+        "ratingCount": 942,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "brado jewellery",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 268,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Nitish  Vaishy",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-29",
+          "reviewBody": "Very nice product ...quality is super good ❣️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-10",
+          "reviewBody": "Wow product 👌👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Yukta Kumari",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-13",
+          "reviewBody": "Good quality earings... loved it 😻 U can go for it 🤞🏻",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Silver Features",
+          "body": "Silver Weight8.7 gSilver ColorWhiteSilver Purity1k"
+        },
+        {
+          "heading": "Diamond Features",
+          "body": "Diamond Color GradeDDiamond ClarityFLDiamond ShapeRoundDiamond Weight0.07 carat"
+        },
+        {
+          "heading": "Metal Features",
+          "body": "Metal Purity1kMetal ColorGoldMetal Weight8.7"
+        },
+        {
+          "heading": "Model Name",
+          "body": "Pack of 1 Gold Plated Earrings for Women and Girls"
+        },
+        {
+          "heading": "Trend",
+          "body": "Chandbalis, Drop Earrings, Handcrafted, Pearl, White Gold"
+        },
+        {
+          "heading": "Product Details",
+          "body": "Sales PackagePack of 1 Pair of Gold EarringsOccasionLove, Religious, Wedding & Engagement, WorkwearDesignHeavyFinishGold Plated, Round Shaped Diamond used, Heavy Polished Diamond UsedEarring Back TypePush BackNumber of Pairs1"
+        },
+        {
+          "heading": "Occasion",
+          "body": "Love, Religious, Wedding & Engagement, Workwear"
+        },
+        {
+          "heading": "Finish",
+          "body": "Gold Plated, Round Shaped Diamond used, Heavy Polished Diamond Used"
+        },
+        {
+          "heading": "Pearl Features",
+          "body": "Pearl ColorWhitePearl ShapeRoundArtificial Pearl MaterialPlastic"
+        }
+      ],
+      "product_highlights": {
+        "Base Material": "Brass",
+        "Plating": "Gold-plated",
+        "Color": "Multicolor",
+        "Occasion": "Love, Religious, Wedding & Engagement, Workwear"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ce2e3c877da32a6552bf84b7",
+      "path": "media/images/ce2e3c877da32a6552bf84b7/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

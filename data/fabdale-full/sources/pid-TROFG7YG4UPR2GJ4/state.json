@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-TROFG7YG4UPR2GJ4",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "6808"
+  ],
+  "source_path": "sources/pid-TROFG7YG4UPR2GJ4/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T23:34:06.333Z",
+  "completed_at": "2026-08-15T23:34:31.843Z"
+}

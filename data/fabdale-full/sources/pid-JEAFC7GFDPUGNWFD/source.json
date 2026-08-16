@@ -1,0 +1,26 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/urbano-fashion-slim-men-light-blue-jeans/p/itmfc8pwem5uvghh?pid=JEAFC7GFDPUGNWFD&marketplace=FLIPKART&lid=LSTJEAFC7GFDPUGNWFDYAB8DG&swatchAttr=size&pageUID=1778148139718",
+    "scraped_at": "2026-08-15T23:12:23.375Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/urbano-fashion-slim-men-light-blue-jeans/p/itmfc8pwem5uvghh?pid=JEAFC7GFDPUGNWFD&marketplace=FLIPKART&lid=LSTJEAFC7GFDPUGNWFDYAB8DG&swatchAttr=size&pageUID=1778148139718\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/urbano-fashion-slim-men-light-blue-jeans/p/itmfc8pwem5uvghh?pid=JEAFC7GFDPUGNWFD&marketplace=FLIPKART&lid=LSTJEAFC7GFDPUGNWFDYAB8DG&swatchAttr=size&pageUID=1778148139718\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T23:12:23.587Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

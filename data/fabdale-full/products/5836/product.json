@@ -1,0 +1,38 @@
+{
+  "product_id": "5836",
+  "sku": "Fab-Dress-MISS-016ML-L",
+  "product": {
+    "name": "Moonette A-line casual Midi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itm2e78ca4d0b977?pid=KDEGPNKDQP9ZG4HT&marketplace=FLIPKART&lid=LSTKDEGPNKDQP9ZG4HTY0RFPR&swatchAttr=size&pageUID=1775214319070"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGPNKDQP9ZG4HT",
+    "path": "../../sources/pid-KDEGPNKDQP9ZG4HT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itm2e78ca4d0b977?pid=KDEGPNKDQP9ZG4HT&marketplace=FLIPKART&lid=LSTKDEGPNKDQP9ZG4HTY0RFPR&swatchAttr=size&pageUID=1775214319070",
+    "scraped_at": "2026-08-15T22:25:18.251Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itm2e78ca4d0b977?pid=KDEGPNKDQP9ZG4HT&marketplace=FLIPKART&lid=LSTKDEGPNKDQP9ZG4HTY0RFPR&swatchAttr=size&pageUID=1775214319070\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itm2e78ca4d0b977?pid=KDEGPNKDQP9ZG4HT&marketplace=FLIPKART&lid=LSTKDEGPNKDQP9ZG4HTY0RFPR&swatchAttr=size&pageUID=1775214319070\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:25:18.327Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

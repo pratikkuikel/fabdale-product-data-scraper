@@ -1,0 +1,220 @@
+{
+  "product_id": "5082",
+  "sku": "Fab-Dress-PURNB-011 LV-M",
+  "product": {
+    "name": "Parnika Roses floral print",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-maxi-full-length-festive-wedding-dress/p/itm101992f528db9?pid=KDEH6NHGHRXJ62ZK&marketplace=FLIPKART&lid=LSTKDEH6NHGHRXJ62ZKCYGAUB&swatchAttr=size&pageUID=1775062371885"
+  },
+  "source_bundle": {
+    "key": "pid-KDEH6NHGHRXJ62ZK",
+    "path": "../../sources/pid-KDEH6NHGHRXJ62ZK/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-maxi-full-length-festive-wedding-dress/p/itm101992f528db9?pid=KDEH6NHGHRXJ62ZK&marketplace=FLIPKART&lid=LSTKDEH6NHGHRXJ62ZKCYGAUB&swatchAttr=size&pageUID=1775062371885",
+    "scraped_at": "2026-08-15T21:11:22.283Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-maxi-full-length-festive-wedding-dress/p/itm101992f528db9?pid=KDEH6NHGHRXJ62ZK&marketplace=FLIPKART&lid=LSTKDEH6NHGHRXJ62ZKCYGAUB&swatchAttr=size&pageUID=1775062371885"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:11:34.751Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress",
+    "short_description": "Fabric: Lycra Blend\nType: Pleated\nOccasion: Festive/Wedding\nPrimary Color: Light Blue",
+    "description": "Buy PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress for Rs.999.0 online. PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {
+      "Type": "Pleated",
+      "Occasion": "Festive/Wedding",
+      "Primary Color": "Light Blue",
+      "Fabric": "Lycra Blend"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "3eab9fb1f036e3744b9e9efa",
+      "path": "media/images/3eab9fb1f036e3744b9e9efa/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/v/p/1-2-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgxatjszzq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/v/p/1-2-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgxatjszzq.jpeg?q=100",
+        "local_path": "../../media/images/3eab9fb1f036e3744b9e9efa/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/j/e/4-5-years-gopi-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imagwchfsakwzg7w.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/j/e/4-5-years-gopi-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imagwchfsakwzg7w.jpeg?q=100",
+        "local_path": "../../media/images/3eab9fb1f036e3744b9e9efa/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/1/3/6/1-2-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgz2xgxyfh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/1/3/6/1-2-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgz2xgxyfh.jpeg?q=100",
+        "local_path": "../../media/images/3eab9fb1f036e3744b9e9efa/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/y/s/b/1-2-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfghrqugen5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/y/s/b/1-2-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfghrqugen5.jpeg?q=100",
+        "local_path": "../../media/images/3eab9fb1f036e3744b9e9efa/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/1/z/1-2-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgvfcfcpsa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/1/z/1-2-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgvfcfcpsa.jpeg?q=100",
+        "local_path": "../../media/images/3eab9fb1f036e3744b9e9efa/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress for Rs.999.0 online. PURNKAMAAY TRENDZ Baby Girls Maxi/Full Length Festive/Wedding Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/v/p/1-2-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgxatjszzq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/j/e/4-5-years-gopi-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imagwchfsakwzg7w.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/1/3/6/1-2-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgz2xgxyfh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/y/s/b/1-2-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfghrqugen5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/1/z/1-2-years-gopi-kids-frock-baby-girl-party-wear-frock-long-frock-original-imagwcfgvfcfcpsa.jpeg?q=70"
+      ],
+      "sku": "KDEH6NHGHRXJ62ZK",
+      "color": "LAVANDAR",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 141,
+        "ratingCount": 2420,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 260,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Saif  Ali khan",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-06",
+          "reviewBody": "Nice product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "sanamani Tensubam",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-21",
+          "reviewBody": "The product is good like it and \nthe product to came correct size and correct colour thank you flipkart.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Ameena begum Aahil pasha",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-18",
+          "reviewBody": "Wow I very happy 😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "Pleated",
+        "Occasion": "Festive/Wedding",
+        "Primary Color": "Light Blue",
+        "Fabric": "Lycra Blend"
+      },
+      "specifications": {
+        "Brand": "PURNKAMAAY TRENDZ",
+        "Style Code": "GOPI_NEW winter season KIDS DRESS",
+        "Brand Color": "LAVANDAR",
+        "Size": "1 - 2 Years",
+        "Type": "Pleated",
+        "Occasion": "Festive/Wedding",
+        "Ideal For": "Baby Girls",
+        "Primary Color": "Light Blue",
+        "Fabric": "Lycra Blend",
+        "Sleeve Type": "Full Sleeve",
+        "Suitable For": "Western Wear",
+        "Fabric Details": "COTTON LAYCRA",
+        "Net Quantity": "1 Dress",
+        "Character": "No Character",
+        "Closure": "Pullover",
+        "Detail Placement": "All - Over",
+        "Fabric Care": "Regular Machine Wash",
+        "Label Size": "22",
+        "Length": "Maxi/Full Length",
+        "Neck Type": "Round",
+        "Print Type": "Digital Prints",
+        "Sleeve Style": "Full Sleeve"
+      }
+    }
+  }
+}

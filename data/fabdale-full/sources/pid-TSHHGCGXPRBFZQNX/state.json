@@ -1,0 +1,17 @@
+{
+  "source_key": "pid-TSHHGCGXPRBFZQNX",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/tripr-printed-men-round-neck-black-t-shirt/p/itm0d602d653fd65?pid=TSHHGCGXPRBFZQNX&lid=LSTTSHHGCGXPRBFZQNX6UQOCN&marketplace=FLIPKART&sattr[]=color&st=color\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/tripr-printed-men-round-neck-black-t-shirt/p/itm0d602d653fd65?pid=TSHHGCGXPRBFZQNX&lid=LSTTSHHGCGXPRBFZQNX6UQOCN&marketplace=FLIPKART&sattr[]=color&st=color\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "5000",
+    "5003",
+    "5185"
+  ],
+  "source_path": "sources/pid-TSHHGCGXPRBFZQNX/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T21:01:18.128Z",
+  "completed_at": "2026-08-15T21:01:18.271Z"
+}

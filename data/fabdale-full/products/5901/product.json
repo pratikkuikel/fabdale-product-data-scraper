@@ -1,0 +1,38 @@
+{
+  "product_id": "5901",
+  "sku": "Fab-Dress-FSHD-003G-XL",
+  "product": {
+    "name": "Fablina Marble-effect print",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm290815751465a?pid=KDEHATGVFDSVPSWH&marketplace=FLIPKART&lid=LSTKDEHATGVFDSVPSWHUNY4TR&swatchAttr=size&pageUID=1775576954488"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHATGVFDSVPSWH",
+    "path": "../../sources/pid-KDEHATGVFDSVPSWH/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm290815751465a?pid=KDEHATGVFDSVPSWH&marketplace=FLIPKART&lid=LSTKDEHATGVFDSVPSWHUNY4TR&swatchAttr=size&pageUID=1775576954488",
+    "scraped_at": "2026-08-15T22:30:17.965Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm290815751465a?pid=KDEHATGVFDSVPSWH&marketplace=FLIPKART&lid=LSTKDEHATGVFDSVPSWHUNY4TR&swatchAttr=size&pageUID=1775576954488\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm290815751465a?pid=KDEHATGVFDSVPSWH&marketplace=FLIPKART&lid=LSTKDEHATGVFDSVPSWHUNY4TR&swatchAttr=size&pageUID=1775576954488\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:30:18.049Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-JWSGQQ2YK32HX9GA",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4883",
+    "7018"
+  ],
+  "source_path": "sources/pid-JWSGQQ2YK32HX9GA/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T20:45:09.690Z",
+  "completed_at": "2026-08-15T20:45:25.467Z"
+}

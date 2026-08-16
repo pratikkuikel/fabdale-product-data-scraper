@@ -1,0 +1,17 @@
+{
+  "source_key": "pid-KDEH7HYH6D8KBBKY",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4969",
+    "5011",
+    "5021"
+  ],
+  "source_path": "sources/pid-KDEH7HYH6D8KBBKY/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T20:57:54.531Z",
+  "completed_at": "2026-08-15T20:58:08.734Z"
+}

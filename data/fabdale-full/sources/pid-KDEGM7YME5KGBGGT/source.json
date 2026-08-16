@@ -1,0 +1,26 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/zenat-girls-below-knee-party-dress/p/itme943586fcbef7?pid=KDEGM7YME5KGBGGT&marketplace=FLIPKART&lid=LSTKDEGM7YME5KGBGGT4O1D9K&swatchAttr=size&pageUID=1776071408883",
+    "scraped_at": "2026-08-15T23:04:48.863Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/zenat-girls-below-knee-party-dress/p/itme943586fcbef7?pid=KDEGM7YME5KGBGGT&marketplace=FLIPKART&lid=LSTKDEGM7YME5KGBGGT4O1D9K&swatchAttr=size&pageUID=1776071408883\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/zenat-girls-below-knee-party-dress/p/itme943586fcbef7?pid=KDEGM7YME5KGBGGT&marketplace=FLIPKART&lid=LSTKDEGM7YME5KGBGGT4O1D9K&swatchAttr=size&pageUID=1776071408883\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T23:04:48.945Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

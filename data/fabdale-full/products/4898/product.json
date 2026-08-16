@@ -1,0 +1,209 @@
+{
+  "product_id": "4898",
+  "sku": "Fab-Jewel-BRAD-009PK",
+  "product": {
+    "name": "Bradox  Brass Jewellery",
+    "parent_id": "7022",
+    "notes": "https://www.flipkart.com/brado-jewellery-brass-rose-gold-white-white-set/p/itm77b4fd3facb83?pid=JWSGRMGPZDR9JWNK&lid=LSTJWSGRMGPZDR9JWNKXTGM8T&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-JWSGRMGPZDR9JWNK",
+    "path": "../../sources/pid-JWSGRMGPZDR9JWNK/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/brado-jewellery-brass-rose-gold-white-white-set/p/itm77b4fd3facb83?pid=JWSGRMGPZDR9JWNK&lid=LSTJWSGRMGPZDR9JWNKXTGM8T&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T20:49:13.851Z",
+    "final_url": "https://www.flipkart.com/brado-jewellery-brass-rose-gold-white-white-set/p/itm77b4fd3facb83?pid=JWSGRMGPZDR9JWNK&lid=LSTJWSGRMGPZDR9JWNKXTGM8T&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:49:31.285Z"
+  },
+  "content": {
+    "title": "brado jewellery Brass Brass Rose Gold, White, White Jewel Set (Pack of 1)",
+    "short_description": "Color: Rose Gold, White, White\nOccasion: Love, Religious, Wedding & Engagement\nBase Material: Brass\nPlating: Brass",
+    "description": "Silver Features\nSilver Weight0.08 gSilver ColorWhiteSilver Purity1K\n\nDiamond Features\nDiamond CutBrilliantDiamond ShapeRoundDiamond Color GradeDDiamond ClarityFLDiamond Weight0.07 carat\n\nMetal Features\nMetal Purity1KMetal ColorRose GoldMetal Weight8.7\n\nTrend\nAmerican Diamond Jewellery, Ethnic Choker, Rose Gold, Antique Picks\n\nProduct Details\nSales PackagePack of 1 RoseGold Plated AD Studded White Necklace with 1 Pair of EarringsCollectionContemporaryOccasionLove, Religious, Wedding & EngagementSemi-precious Stone ShapeRoundNatural/Synthetic Semi-precious StoneSyntheticFinishRoseGold Plated, White Colour Round Heavy Polished Diamond usedChain/Necklace Length4Weight40 gOther DimensionsNecklace Length - 20.32 cm, Necklace Width - 15.24 cm| Earring Length - 3.08 cm, Earring Width - 2.54 cm.Other FeaturesWedding wear, Party wear, Festive wearEarring Clasp TypePush PlugsEarring LengthMed(Ear lobe size)\n\nSales Package\nPack of 1 RoseGold Plated AD Studded White Necklace with 1 Pair of Earrings\n\nFinish\nRoseGold Plated, White Colour Round Heavy Polished Diamond used\n\nOther Dimensions\nNecklace Length - 20.32 cm, Necklace Width - 15.24 cm| Earring Length - 3.08 cm, Earring Width - 2.54 cm.",
+    "specifications": {
+      "Base Material": "Brass",
+      "Color": "Rose Gold, White, White",
+      "Plating": "Brass",
+      "Occasion": "Love, Religious, Wedding & Engagement"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "969c909d8e4a7251bbcc002a",
+      "path": "media/images/969c909d8e4a7251bbcc002a/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/s/b/b/na-d-1-ashopalav-rg-white-brado-jewellery-original-imagrmhqfm67yppe.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/s/b/b/na-d-1-ashopalav-rg-white-brado-jewellery-original-imagrmhqfm67yppe.jpeg?q=100",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/c/0/v/na-d-1-ashopalav-rg-white-brado-jewellery-original-imagrmhqjhzknkqm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/c/0/v/na-d-1-ashopalav-rg-white-brado-jewellery-original-imagrmhqjhzknkqm.jpeg?q=100",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/x/l/n/na-d-1-ashopalav-rg-white-brado-jewellery-original-imagrmhqht7wyge9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/x/l/n/na-d-1-ashopalav-rg-white-brado-jewellery-original-imagrmhqht7wyge9.jpeg?q=100",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/2/1/0/na-d-1-ashopalav-rg-white-brado-jewellery-original-imagrmhqg4axrzrf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/2/1/0/na-d-1-ashopalav-rg-white-brado-jewellery-original-imagrmhqg4axrzrf.jpeg?q=100",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_e3edcabfbce8456c8a1ad8f8c1e4f4bc.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_e3edcabfbce8456c8a1ad8f8c1e4f4bc.jpg?q=80",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a9007159e35b4883952beb45e93c60a6.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a9007159e35b4883952beb45e93c60a6.jpg?q=80",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_be70a602d3324ba9845f4f495352aa9d.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_be70a602d3324ba9845f4f495352aa9d.jpg?q=80",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d9aefebead414f7aa065065b7cf945f9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d9aefebead414f7aa065065b7cf945f9.jpeg?q=80",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/2/i/a/-original-imahfsvktrhgmhh3.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/2/i/a/-original-imahfsvktrhgmhh3.jpeg?q=100",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/z/v/2/-resized-original-imahyjf7g8rfwryn.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/z/v/2/-resized-original-imahyjf7g8rfwryn.jpeg?q=100",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/l/w/a/vme-9-db-jr-ltr-s-brado-jewellery-original-imahprfhmgn9urtg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/l/w/a/vme-9-db-jr-ltr-s-brado-jewellery-original-imahprfhmgn9urtg.jpeg?q=100",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/w/s/s/-original-imahhbvdhtwg92hf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/w/s/s/-original-imahhbvdhtwg92hf.jpeg?q=100",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/i/1/i/-original-imahfvf4fqzqtxvk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/i/1/i/-original-imahfvf4fqzqtxvk.jpeg?q=100",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/x/2/z/na-na-1-jmbw-563-jmbw-international-resized-original-imah4ccaksszhazr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/x/2/z/na-na-1-jmbw-563-jmbw-international-resized-original-imah4ccaksszhazr.jpeg?q=100",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/p/x/7/cultured-na-1-green-pearl-gold-plated-jewellery-set-maang-tikka-original-imagu9c8kbyhc43z.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/p/x/7/cultured-na-1-green-pearl-gold-plated-jewellery-set-maang-tikka-original-imagu9c8kbyhc43z.jpeg?q=100",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/e/5/g/silver-lichi-mangalsutra-bright-style-resized-original-imafvh8aupdxh9kv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/e/5/g/silver-lichi-mangalsutra-bright-style-resized-original-imafvh8aupdxh9kv.jpeg?q=100",
+        "local_path": "../../media/images/969c909d8e4a7251bbcc002a/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Silver Features",
+          "body": "Silver Weight0.08 gSilver ColorWhiteSilver Purity1K"
+        },
+        {
+          "heading": "Diamond Features",
+          "body": "Diamond CutBrilliantDiamond ShapeRoundDiamond Color GradeDDiamond ClarityFLDiamond Weight0.07 carat"
+        },
+        {
+          "heading": "Metal Features",
+          "body": "Metal Purity1KMetal ColorRose GoldMetal Weight8.7"
+        },
+        {
+          "heading": "Trend",
+          "body": "American Diamond Jewellery, Ethnic Choker, Rose Gold, Antique Picks"
+        },
+        {
+          "heading": "Product Details",
+          "body": "Sales PackagePack of 1 RoseGold Plated AD Studded White Necklace with 1 Pair of EarringsCollectionContemporaryOccasionLove, Religious, Wedding & EngagementSemi-precious Stone ShapeRoundNatural/Synthetic Semi-precious StoneSyntheticFinishRoseGold Plated, White Colour Round Heavy Polished Diamond usedChain/Necklace Length4Weight40 gOther DimensionsNecklace Length - 20.32 cm, Necklace Width - 15.24 cm| Earring Length - 3.08 cm, Earring Width - 2.54 cm.Other FeaturesWedding wear, Party wear, Festive wearEarring Clasp TypePush PlugsEarring LengthMed(Ear lobe size)"
+        },
+        {
+          "heading": "Sales Package",
+          "body": "Pack of 1 RoseGold Plated AD Studded White Necklace with 1 Pair of Earrings"
+        },
+        {
+          "heading": "Finish",
+          "body": "RoseGold Plated, White Colour Round Heavy Polished Diamond used"
+        },
+        {
+          "heading": "Other Dimensions",
+          "body": "Necklace Length - 20.32 cm, Necklace Width - 15.24 cm| Earring Length - 3.08 cm, Earring Width - 2.54 cm."
+        }
+      ],
+      "product_highlights": {
+        "Base Material": "Brass",
+        "Color": "Rose Gold, White, White",
+        "Plating": "Brass",
+        "Occasion": "Love, Religious, Wedding & Engagement"
+      },
+      "specifications": {}
+    }
+  }
+}

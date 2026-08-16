@@ -1,0 +1,38 @@
+{
+  "product_id": "6226",
+  "sku": "Fab-Dress-ZENT-002BL-S",
+  "product": {
+    "name": "Zestelle Tulle fabric Party Dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/zenat-girls-maxi-full-length-casual-dress/p/itm3a4593577555e?pid=KDEGZT83WPVB7FUB&marketplace=FLIPKART&lid=LSTKDEGZT83WPVB7FUBVYQQ0J&swatchAttr=size&pageUID=1776072082619"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGZT83WPVB7FUB",
+    "path": "../../sources/pid-KDEGZT83WPVB7FUB/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zenat-girls-maxi-full-length-casual-dress/p/itm3a4593577555e?pid=KDEGZT83WPVB7FUB&marketplace=FLIPKART&lid=LSTKDEGZT83WPVB7FUBVYQQ0J&swatchAttr=size&pageUID=1776072082619",
+    "scraped_at": "2026-08-15T23:05:46.950Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/zenat-girls-maxi-full-length-casual-dress/p/itm3a4593577555e?pid=KDEGZT83WPVB7FUB&marketplace=FLIPKART&lid=LSTKDEGZT83WPVB7FUBVYQQ0J&swatchAttr=size&pageUID=1776072082619\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/zenat-girls-maxi-full-length-casual-dress/p/itm3a4593577555e?pid=KDEGZT83WPVB7FUB&marketplace=FLIPKART&lid=LSTKDEGZT83WPVB7FUBVYQQ0J&swatchAttr=size&pageUID=1776072082619\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T23:05:47.049Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

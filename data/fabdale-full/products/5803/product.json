@@ -1,0 +1,38 @@
+{
+  "product_id": "5803",
+  "sku": "Fab-Dress-MISS-009PK-XXL",
+  "product": {
+    "name": "Moonette white and grey hearts Print Midi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itm5e20a1f241c7e?pid=KDEGR7YFGYYJYY3Z&marketplace=FLIPKART&lid=LSTKDEGR7YFGYYJYY3Z61SG3U&swatchAttr=size&pageUID=1775212101815"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGR7YFGYYJYY3Z",
+    "path": "../../sources/pid-KDEGR7YFGYYJYY3Z/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itm5e20a1f241c7e?pid=KDEGR7YFGYYJYY3Z&marketplace=FLIPKART&lid=LSTKDEGR7YFGYYJYY3Z61SG3U&swatchAttr=size&pageUID=1775212101815",
+    "scraped_at": "2026-08-15T22:20:55.792Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itm5e20a1f241c7e?pid=KDEGR7YFGYYJYY3Z&marketplace=FLIPKART&lid=LSTKDEGR7YFGYYJYY3Z61SG3U&swatchAttr=size&pageUID=1775212101815\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itm5e20a1f241c7e?pid=KDEGR7YFGYYJYY3Z&marketplace=FLIPKART&lid=LSTKDEGR7YFGYYJYY3Z61SG3U&swatchAttr=size&pageUID=1775212101815\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:20:55.860Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

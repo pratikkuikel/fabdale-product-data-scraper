@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-DREGJZ7VQH6ZYCTS",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "5117"
+  ],
+  "source_path": "sources/pid-DREGJZ7VQH6ZYCTS/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T21:14:41.799Z",
+  "completed_at": "2026-08-15T21:14:54.299Z"
+}

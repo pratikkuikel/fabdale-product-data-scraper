@@ -1,0 +1,209 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/miss-chief-girls-below-knee-festive-wedding-dress/p/itmfdfdf586ae156?pid=KDEH48W7KS85DGDB&marketplace=FLIPKART&lid=LSTKDEH48W7KS85DGDBHNDFWQ&swatchAttr=size&pageUID=1775149993241",
+    "scraped_at": "2026-08-15T22:10:01.574Z",
+    "final_url": "https://www.flipkart.com/miss-chief-girls-below-knee-festive-wedding-dress/p/itmfdfdf586ae156?pid=KDEH48W7KS85DGDB&marketplace=FLIPKART&lid=LSTKDEH48W7KS85DGDBHNDFWQ&swatchAttr=size&pageUID=1775149993241"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T22:10:22.263Z"
+  },
+  "content": {
+    "title": "Miss & Chief Girls Below Knee Festive/Wedding Dress",
+    "short_description": "Fabric: Cotton Lycra\nPattern: Floral Print\nType: A- Line Dress\nOccasion: Festive/Wedding\nPrimary Color: Pink",
+    "description": "Floral Charm\nThis fit and flare dress features a delightful floral print, adding a touch of charm and elegance to…\n\nSleeveless Comfort\nDesigned with a sleeveless style, this dress allows your child to move freely and comfortably during…\n\nRound Neck Elegance\nThe round neck design of this dress enhances its overall elegance, making it a perfect choice for sp…\n\nCotton Lycra Blend\nCrafted from a soft cotton lycra blend, this dress ensures a gentle feel against your child's skin w…\n\nBelow Knee Length\nWith a below knee length, this dress strikes the perfect balance between style and comfort, ideal fo…",
+    "specifications": {
+      "Type": "A- Line Dress",
+      "Occasion": "Festive/Wedding",
+      "Pattern": "Floral Print",
+      "Primary Color": "Pink",
+      "Fabric": "Cotton Lycra"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/u/n/6-12-months-d-28-miss-chief-resized-original-imah48w6zyfhea69.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/u/n/6-12-months-d-28-miss-chief-resized-original-imah48w6zyfhea69.jpeg?q=100",
+        "local_path": "../../media/images/e71e91dae7a6698268cdf933/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/i/f/6-12-months-d-28-miss-chief-original-imah48w6cwdqvwtr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/i/f/6-12-months-d-28-miss-chief-original-imah48w6cwdqvwtr.jpeg?q=100",
+        "local_path": "../../media/images/e71e91dae7a6698268cdf933/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/x/p/6-12-months-d-28-miss-chief-original-imah48w6n3cpfmgj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/x/p/6-12-months-d-28-miss-chief-original-imah48w6n3cpfmgj.jpeg?q=100",
+        "local_path": "../../media/images/e71e91dae7a6698268cdf933/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/r/t/6-12-months-d-28-miss-chief-original-imah48w6zhpugmun.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/r/t/6-12-months-d-28-miss-chief-original-imah48w6zhpugmun.jpeg?q=100",
+        "local_path": "../../media/images/e71e91dae7a6698268cdf933/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/i/1/6-12-months-d-28-miss-chief-original-imah48w6sketbyug.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/i/1/6-12-months-d-28-miss-chief-original-imah48w6sketbyug.jpeg?q=100",
+        "local_path": "../../media/images/e71e91dae7a6698268cdf933/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Miss & Chief Girls Below Knee Festive/Wedding Dress",
+      "description": "Buy Miss & Chief Girls Below Knee Festive/Wedding Dress for Rs.1299.0 online. Miss & Chief Girls Below Knee Festive/Wedding Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/u/n/6-12-months-d-28-miss-chief-resized-original-imah48w6zyfhea69.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/i/f/6-12-months-d-28-miss-chief-original-imah48w6cwdqvwtr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/x/p/6-12-months-d-28-miss-chief-original-imah48w6n3cpfmgj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/r/t/6-12-months-d-28-miss-chief-original-imah48w6zhpugmun.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/i/1/6-12-months-d-28-miss-chief-original-imah48w6sketbyug.jpeg?q=70"
+      ],
+      "sku": "KDEH48W7KS85DGDB",
+      "color": "Pink",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 167,
+        "ratingCount": 3952,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Miss & Chief",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 251,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Bishal Biswas",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-07",
+          "reviewBody": "Extremely cute dress. Blindly go for it within 12 months age.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Satrughna Behera",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-10",
+          "reviewBody": "Product is quality best and size perfect thank you 😊 Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Rajeshwari Kadri",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-09",
+          "reviewBody": "Superb",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Floral Charm",
+          "body": "This fit and flare dress features a delightful floral print, adding a touch of charm and elegance to…"
+        },
+        {
+          "heading": "Sleeveless Comfort",
+          "body": "Designed with a sleeveless style, this dress allows your child to move freely and comfortably during…"
+        },
+        {
+          "heading": "Round Neck Elegance",
+          "body": "The round neck design of this dress enhances its overall elegance, making it a perfect choice for sp…"
+        },
+        {
+          "heading": "Cotton Lycra Blend",
+          "body": "Crafted from a soft cotton lycra blend, this dress ensures a gentle feel against your child's skin w…"
+        },
+        {
+          "heading": "Below Knee Length",
+          "body": "With a below knee length, this dress strikes the perfect balance between style and comfort, ideal fo…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "A- Line Dress",
+        "Occasion": "Festive/Wedding",
+        "Pattern": "Floral Print",
+        "Primary Color": "Pink",
+        "Fabric": "Cotton Lycra"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e71e91dae7a6698268cdf933",
+      "path": "media/images/e71e91dae7a6698268cdf933/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

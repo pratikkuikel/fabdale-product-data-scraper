@@ -1,0 +1,37 @@
+{
+  "key": "1d3d7957e2bfebec50cdaa41",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T21:56:32.897Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/5/i/6-12-months-pt-girl-embrodarywork-1-purnkamaay-trendz-resized-original-imahf76ppjjxzbxz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/5/i/6-12-months-pt-girl-embrodarywork-1-purnkamaay-trendz-resized-original-imahf76ppjjxzbxz.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/y/7/w/3-4-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg7ybgy7davup.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/y/7/w/3-4-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg7ybgy7davup.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/0/b/1-2-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg7yb8zzy5gan.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/0/b/1-2-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg7yb8zzy5gan.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/6/r/2-3-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg8356pkjj2kt.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/6/r/2-3-years-pari-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imahg8356pkjj2kt.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

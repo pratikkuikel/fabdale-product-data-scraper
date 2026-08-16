@@ -1,0 +1,44 @@
+{
+  "key": "804a936caa61c49117fc0130",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T21:18:33.683Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/4/m/g/6-12-months-panda-kids-frock-baby-girl-party-wear-frock-long-original-imagxd2nchj38wg3.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/4/m/g/6-12-months-panda-kids-frock-baby-girl-party-wear-frock-long-original-imagxd2nchj38wg3.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/h/u/6-12-months-panda-kids-frock-baby-girl-party-wear-frock-long-original-imagxd2ncv2qvhxp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/h/u/6-12-months-panda-kids-frock-baby-girl-party-wear-frock-long-original-imagxd2ncv2qvhxp.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/w/j/6-12-months-panda-kids-frock-baby-girl-party-wear-frock-long-original-imagxd2nqrdazewk.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/w/j/6-12-months-panda-kids-frock-baby-girl-party-wear-frock-long-original-imagxd2nqrdazewk.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/8/f/6-12-months-panda-kids-frock-baby-girl-party-wear-frock-long-original-imagxd2nvuq9psuu.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/8/f/6-12-months-panda-kids-frock-baby-girl-party-wear-frock-long-original-imagxd2nvuq9psuu.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/n/m/6-12-months-panda-kids-frock-baby-girl-party-wear-frock-long-original-imagxd2ng438ahcg.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/n/m/6-12-months-panda-kids-frock-baby-girl-party-wear-frock-long-original-imagxd2ng438ahcg.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

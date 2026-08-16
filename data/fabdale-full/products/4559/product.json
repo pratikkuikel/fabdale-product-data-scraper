@@ -1,0 +1,192 @@
+{
+  "product_id": "4559",
+  "sku": "Fab-Kurta-VBNR-003GR-L",
+  "product": {
+    "name": "Verve Jacquard Straight Kurta Set",
+    "parent_id": "5283",
+    "notes": "https://www.flipkart.com/vebnor-men-printed-straight-kurta/p/itm4878391321cc7?pid=KTAHFYSH6YZHGJZQ&marketplace=FLIPKART&lid=LSTKTAHFYSH6YZHGJZQL2U6ME&swatchAttr=size&pageUID=1774263742775"
+  },
+  "source_bundle": {
+    "key": "pid-KTAHFYSH6YZHGJZQ",
+    "path": "../../sources/pid-KTAHFYSH6YZHGJZQ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-men-printed-straight-kurta/p/itm4878391321cc7?pid=KTAHFYSH6YZHGJZQ&marketplace=FLIPKART&lid=LSTKTAHFYSH6YZHGJZQL2U6ME&swatchAttr=size&pageUID=1774263742775",
+    "scraped_at": "2026-08-15T20:07:11.616Z",
+    "final_url": "https://www.flipkart.com/vebnor-men-printed-straight-kurta/p/itm4878391321cc7?pid=KTAHFYSH6YZHGJZQ&marketplace=FLIPKART&lid=LSTKTAHFYSH6YZHGJZQL2U6ME&swatchAttr=size&pageUID=1774263742775"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:07:16.850Z"
+  },
+  "content": {
+    "title": "VeBNoR Printed Jacquard Straight Kurta for Men (Grey)",
+    "short_description": "Color: Grey\nFabric: Jacquard\nPattern: Printed\nType: Straight\nFit: Regular",
+    "description": null,
+    "specifications": {
+      "Pattern": "Printed",
+      "Type": "Straight",
+      "Fabric": "Jacquard",
+      "Fit": "Regular",
+      "Color": "Grey"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e31ebb42cef3c453ffd44bdd",
+      "path": "media/images/e31ebb42cef3c453ffd44bdd/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/f/q/p/m-kt13-vebnor-original-imahjzb7qxrmwxsp.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/f/q/p/m-kt13-vebnor-original-imahjzb7qxrmwxsp.jpeg?q=100",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/8/q/p/m-kt13-vebnor-original-imahjzb7f7xzsjnh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/8/q/p/m-kt13-vebnor-original-imahjzb7f7xzsjnh.jpeg?q=100",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/l/p/z/l-kt13-vebnor-original-imahjzb7vmftzg4r.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/l/p/z/l-kt13-vebnor-original-imahjzb7vmftzg4r.jpeg?q=100",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/s/z/w/l-kt13-vebnor-original-imahjzb7syyfvuud.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/s/z/w/l-kt13-vebnor-original-imahjzb7syyfvuud.jpeg?q=100",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/w/n/q/l-kt13-vebnor-original-imahjzb7zbpc5fu6.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/w/n/q/l-kt13-vebnor-original-imahjzb7zbpc5fu6.jpeg?q=100",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_878ea0540b20420a81741e7e1f49e897.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_878ea0540b20420a81741e7e1f49e897.jpg?q=80",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_9ae14d5e251347f6ba016a6aa9b5f96d.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_9ae14d5e251347f6ba016a6aa9b5f96d.jpg?q=80",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_932f43c158884d90ae31009c82fcc0fc.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_932f43c158884d90ae31009c82fcc0fc.jpg?q=80",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_6d27d250c7aa4b8cac61a1009a9104bc.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_6d27d250c7aa4b8cac61a1009a9104bc.jpg?q=80",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a88fb9caabab430bb69ecd0da9e9cdee.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_a88fb9caabab430bb69ecd0da9e9cdee.jpg?q=80",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/y/l/m/m-f-short-kurta-9-kavyangle-creation-resized-original-imahk2xfh2hzwe8r.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/y/l/m/m-f-short-kurta-9-kavyangle-creation-resized-original-imahk2xfh2hzwe8r.jpeg?q=100",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/x/o/s-kt5-vebnor-original-imahzxggbsbzg9vf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/x/o/s-kt5-vebnor-original-imahzxggbsbzg9vf.jpeg?q=100",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/d/a/5/s-kt2-vebnor-original-imahpzbf6phwe6yx.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/d/a/5/s-kt2-vebnor-original-imahpzbf6phwe6yx.jpeg?q=100",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/8/o/i/m-kt3-vebnor-original-imahcd9ruhrzxnen.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/8/o/i/m-kt3-vebnor-original-imahcd9ruhrzxnen.jpeg?q=100",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/i/t/r/l-kt3-vebnor-original-imahcd9uuypdta2k.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/i/t/r/l-kt3-vebnor-original-imahcd9uuypdta2k.jpeg?q=100",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/0/j/d/s-kt3-vebnor-original-imahcd9syehb5jsf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/0/j/d/s-kt3-vebnor-original-imahcd9syehb5jsf.jpeg?q=100",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/t/5/y/s-kt5-vebnor-original-imahpfz7mftesbgd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/t/5/y/s-kt5-vebnor-original-imahpfz7mftesbgd.jpeg?q=100",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-017.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/i/j/n/m-short-kurta-01-tibra-collection-original-imahmmvurw6wds3n.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/i/j/n/m-short-kurta-01-tibra-collection-original-imahmmvurw6wds3n.jpeg?q=100",
+        "local_path": "../../media/images/e31ebb42cef3c453ffd44bdd/assets/images/image-018.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Type": "Straight",
+        "Fabric": "Jacquard",
+        "Fit": "Regular",
+        "Color": "Grey"
+      },
+      "specifications": {}
+    }
+  }
+}

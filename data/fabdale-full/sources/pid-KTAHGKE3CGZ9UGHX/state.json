@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KTAHGKE3CGZ9UGHX",
+  "status": "partial",
+  "attempt_count": 3,
+  "error": "1 media asset(s) failed to download",
+  "product_keys": [
+    "4827"
+  ],
+  "source_path": "sources/pid-KTAHGKE3CGZ9UGHX/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T20:38:04.501Z",
+  "completed_at": "2026-08-15T20:38:18.369Z"
+}

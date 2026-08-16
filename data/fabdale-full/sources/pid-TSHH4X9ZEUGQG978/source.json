@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-printed-men-round-neck-green-t-shirt/p/itm956f90781b90d?pid=TSHH4X9ZEUGQG978&marketplace=FLIPKART&lid=LSTTSHH4X9ZEUGQG978GYEO8O&swatchAttr=size&pageUID=1772899279350",
+    "scraped_at": "2026-08-15T20:58:09.906Z",
+    "final_url": "https://www.flipkart.com/kajaru-printed-men-round-neck-green-t-shirt/p/itm956f90781b90d?pid=TSHH4X9ZEUGQG978&marketplace=FLIPKART&lid=LSTTSHH4X9ZEUGQG978GYEO8O&swatchAttr=size&pageUID=1772899279350"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:58:18.848Z"
+  },
+  "content": {
+    "title": "KAJARU Printed Men Round Neck Green T-Shirt",
+    "short_description": "KAJARU Printed Men Round Neck Green T-Shirt - Buy KAJARU Printed Men Round Neck Green T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "KAJARU Printed Men Round Neck Green T-Shirt - Buy KAJARU Printed Men Round Neck Green T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/q/o/xxl-tsrt-catalog-14-kajaru-resized-original-imah4x9zkr6nuwjh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/q/o/xxl-tsrt-catalog-14-kajaru-resized-original-imah4x9zkr6nuwjh.jpeg?q=100",
+        "local_path": "../../media/images/264272b6266e5a0604418a3c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/w/1/xxl-tsrt-catalog-14-kajaru-original-imah4x9zgdynwv9h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/w/1/xxl-tsrt-catalog-14-kajaru-original-imah4x9zgdynwv9h.jpeg?q=100",
+        "local_path": "../../media/images/264272b6266e5a0604418a3c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/p/9/xxl-tsrt-catalog-14-kajaru-original-imah4x9zsfukzmhg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/p/9/xxl-tsrt-catalog-14-kajaru-original-imah4x9zsfukzmhg.jpeg?q=100",
+        "local_path": "../../media/images/264272b6266e5a0604418a3c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/n/k/xxl-tsrt-catalog-14-kajaru-original-imah4x9zhefszfgw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/n/k/xxl-tsrt-catalog-14-kajaru-original-imah4x9zhefszfgw.jpeg?q=100",
+        "local_path": "../../media/images/264272b6266e5a0604418a3c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/9/o/xxl-tsrt-catalog-14-kajaru-original-imah4x9zzyxhksfu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/9/o/xxl-tsrt-catalog-14-kajaru-original-imah4x9zzyxhksfu.jpeg?q=100",
+        "local_path": "../../media/images/264272b6266e5a0604418a3c/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Printed Men Round Neck Green T-Shirt",
+      "description": "KAJARU Printed Men Round Neck Green T-Shirt - Buy KAJARU Printed Men Round Neck Green T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/9/q/o/xxl-tsrt-catalog-14-kajaru-resized-original-imah4x9zkr6nuwjh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/w/1/xxl-tsrt-catalog-14-kajaru-original-imah4x9zgdynwv9h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/i/p/9/xxl-tsrt-catalog-14-kajaru-original-imah4x9zsfukzmhg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/n/k/xxl-tsrt-catalog-14-kajaru-original-imah4x9zhefszfgw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/u/9/o/xxl-tsrt-catalog-14-kajaru-original-imah4x9zzyxhksfu.jpeg?q=70"
+      ],
+      "sku": "TSHH4X9ZEUGQG978",
+      "color": "GREEN..",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 813,
+        "ratingCount": 33596,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 202,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Manoj Kumar  Satpathy ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-12",
+          "reviewBody": "Nice  Product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Premchand Rana",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-07",
+          "reviewBody": "Very good 👍  \nNice looking 👌",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Gopal  Khati",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-12",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "264272b6266e5a0604418a3c",
+      "path": "media/images/264272b6266e5a0604418a3c/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

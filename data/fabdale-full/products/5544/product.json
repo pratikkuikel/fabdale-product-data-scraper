@@ -1,0 +1,206 @@
+{
+  "product_id": "5544",
+  "sku": "Fab-Dress-PURNB-003PH-XXL",
+  "product": {
+    "name": "Parnika Disney Princess Girls Maxi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/houseofcommon-girls-below-knee-casual-dress/p/itmc4a8ee8129ced?pid=KDEHBGZZCGTMFZGQ&marketplace=FLIPKART&lid=LSTKDEHBGZZCGTMFZGQJJPR7C&swatchAttr=size&pageUID=1774973076740"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHBGZZCGTMFZGQ",
+    "path": "../../sources/pid-KDEHBGZZCGTMFZGQ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/houseofcommon-girls-below-knee-casual-dress/p/itmc4a8ee8129ced?pid=KDEHBGZZCGTMFZGQ&marketplace=FLIPKART&lid=LSTKDEHBGZZCGTMFZGQJJPR7C&swatchAttr=size&pageUID=1774973076740",
+    "scraped_at": "2026-08-15T21:20:31.093Z",
+    "final_url": "https://www.flipkart.com/houseofcommon-girls-below-knee-casual-dress/p/itmc4a8ee8129ced?pid=KDEHBGZZCGTMFZGQ&marketplace=FLIPKART&lid=LSTKDEHBGZZCGTMFZGQJJPR7C&swatchAttr=size&pageUID=1774973076740"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:20:49.353Z"
+  },
+  "content": {
+    "title": "HouseOfCommon Girls Below Knee Casual Dress",
+    "short_description": "Fabric: Georgette, Cotton Blend\nType: A- Line Dress\nOccasion: Casual\nPrimary Color: Multicolor",
+    "description": "Buy HouseOfCommon Girls Below Knee Casual Dress for Rs.1299.0 online. HouseOfCommon Girls Below Knee Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {
+      "Type": "A- Line Dress",
+      "Occasion": "Casual",
+      "Primary Color": "Multicolor",
+      "Fabric": "Georgette, Cotton Blend"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "238613336b82bd93d3c0f4da",
+      "path": "media/images/238613336b82bd93d3c0f4da/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/s/0/1-2-years-heel-make-your-little-princess-shine-on-her-special-resized-original-imahgtyfy2cpbfxg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/s/0/1-2-years-heel-make-your-little-princess-shine-on-her-special-resized-original-imahgtyfy2cpbfxg.jpeg?q=100",
+        "local_path": "../../media/images/238613336b82bd93d3c0f4da/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/w/y/7/-original-imahjxgnduasfgkg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/w/y/7/-original-imahjxgnduasfgkg.jpeg?q=100",
+        "local_path": "../../media/images/238613336b82bd93d3c0f4da/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/a/d/4/-original-imahjzw9hhjyxq8u.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/a/d/4/-original-imahjzw9hhjyxq8u.jpeg?q=100",
+        "local_path": "../../media/images/238613336b82bd93d3c0f4da/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/1/y/d/-original-imahjyzvxh9a2gxc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/1/y/d/-original-imahjyzvxh9a2gxc.jpeg?q=100",
+        "local_path": "../../media/images/238613336b82bd93d3c0f4da/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/y/k/-original-imahjyzva495f43f.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/y/k/-original-imahjyzva495f43f.jpeg?q=100",
+        "local_path": "../../media/images/238613336b82bd93d3c0f4da/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "HouseOfCommon Girls Below Knee Casual Dress",
+      "description": "Buy HouseOfCommon Girls Below Knee Casual Dress for Rs.1299.0 online. HouseOfCommon Girls Below Knee Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/s/0/1-2-years-heel-make-your-little-princess-shine-on-her-special-resized-original-imahgtyfy2cpbfxg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/w/y/7/-original-imahjxgnduasfgkg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/a/d/4/-original-imahjzw9hhjyxq8u.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/1/y/d/-original-imahjyzvxh9a2gxc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/y/k/-original-imahjyzva495f43f.jpeg?q=70"
+      ],
+      "sku": "KDEHBGZZCGTMFZGQ",
+      "color": "PITCH",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 2,
+        "ratingCount": 27,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "HouseOfCommon",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 267,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Ashwinder Kaur",
+            "@type": "Person"
+          },
+          "datePublished": "2026-03-02",
+          "reviewBody": "Comfortable yet stylish product in this price.. go for it.. although delivery was late by 3 days.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-22",
+          "reviewBody": "Very good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "A- Line Dress",
+        "Occasion": "Casual",
+        "Primary Color": "Multicolor",
+        "Fabric": "Georgette, Cotton Blend"
+      },
+      "specifications": {
+        "Brand": "HouseOfCommon",
+        "Style Code": "HOC_SAKSI_@PITCH_04",
+        "Brand Color": "PITCH",
+        "Size": "4 - 5 Years",
+        "Type": "A- Line Dress",
+        "Occasion": "Casual",
+        "Ideal For": "Girls",
+        "Primary Color": "Multicolor",
+        "Fabric": "Georgette, Cotton Blend",
+        "Sleeve Type": "Sleeveless",
+        "Suitable For": "Western Wear",
+        "Fabric Details": "Georgette",
+        "Net Quantity": "1 Dress",
+        "Character": "Disney Princess",
+        "Closure": "Pullover",
+        "Detail Placement": "All - Over",
+        "Fabric Care": "Regular Machine Wash",
+        "Label Size": "28",
+        "Length": "Below Knee",
+        "Lining Material": "Crepe",
+        "Neck Type": "V-Neck",
+        "Print Type": "Digital Prints",
+        "Sleeve Style": "Noodle Strap"
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "product_id": "6169",
+  "sku": "Fab-Dress-AARY-021BL-M",
+  "product": {
+    "name": "Aamira Horizontal stripes Print  Maxi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itma2b5017b2d5a4?pid=KDEGHY6DDX6SHJRJ&marketplace=FLIPKART&lid=LSTKDEGHY6DDX6SHJRJXBOP36&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGHY6DDX6SHJRJ",
+    "path": "../../sources/pid-KDEGHY6DDX6SHJRJ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itma2b5017b2d5a4?pid=KDEGHY6DDX6SHJRJ&marketplace=FLIPKART&lid=LSTKDEGHY6DDX6SHJRJXBOP36&swatchAttr=size",
+    "scraped_at": "2026-08-15T22:59:58.444Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itma2b5017b2d5a4?pid=KDEGHY6DDX6SHJRJ&marketplace=FLIPKART&lid=LSTKDEGHY6DDX6SHJRJXBOP36&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itma2b5017b2d5a4?pid=KDEGHY6DDX6SHJRJ&marketplace=FLIPKART&lid=LSTKDEGHY6DDX6SHJRJXBOP36&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:59:58.514Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

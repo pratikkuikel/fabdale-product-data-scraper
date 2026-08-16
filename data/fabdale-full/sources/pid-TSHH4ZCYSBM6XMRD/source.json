@@ -1,0 +1,164 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-striped-men-round-neck-dark-blue-t-shirt/p/itm31c0492ca6e97?pid=TSHH4ZCYSBM6XMRD&marketplace=FLIPKART&lid=LSTTSHH4ZCYSBM6XMRDSGIOZL&swatchAttr=size&pageUID=1772989531911",
+    "scraped_at": "2026-08-15T20:58:39.624Z",
+    "final_url": "https://www.flipkart.com/kajaru-striped-men-round-neck-dark-blue-t-shirt/p/itm31c0492ca6e97?pid=TSHH4ZCYSBM6XMRD&marketplace=FLIPKART&lid=LSTTSHH4ZCYSBM6XMRDSGIOZL&swatchAttr=size&pageUID=1772989531911"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:58:51.192Z"
+  },
+  "content": {
+    "title": "KAJARU Striped Men Round Neck Dark Blue T-Shirt",
+    "short_description": "KAJARU Striped Men Round Neck Dark Blue T-Shirt - Buy KAJARU Striped Men Round Neck Dark Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "KAJARU Striped Men Round Neck Dark Blue T-Shirt - Buy KAJARU Striped Men Round Neck Dark Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/b/1/xxl-tsrt-catalog-03-kajaru-original-imah4zcysxzdyzjz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/b/1/xxl-tsrt-catalog-03-kajaru-original-imah4zcysxzdyzjz.jpeg?q=100",
+        "local_path": "../../media/images/e958833d213604868650be25/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/q/j/xxl-tsrt-catalog-03-kajaru-original-imah4zcygv4rnc6y.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/q/j/xxl-tsrt-catalog-03-kajaru-original-imah4zcygv4rnc6y.jpeg?q=100",
+        "local_path": "../../media/images/e958833d213604868650be25/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/2/z/xxl-tsrt-catalog-03-kajaru-original-imah4zcyefmgju2y.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/2/z/xxl-tsrt-catalog-03-kajaru-original-imah4zcyefmgju2y.jpeg?q=100",
+        "local_path": "../../media/images/e958833d213604868650be25/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/r/q/xxl-tsrt-catalog-03-kajaru-original-imah4zcyygfbkyxb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/r/q/xxl-tsrt-catalog-03-kajaru-original-imah4zcyygfbkyxb.jpeg?q=100",
+        "local_path": "../../media/images/e958833d213604868650be25/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/o/k/xxl-tsrt-catalog-03-kajaru-original-imah4zcyzxc53hv9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/o/k/xxl-tsrt-catalog-03-kajaru-original-imah4zcyzxc53hv9.jpeg?q=100",
+        "local_path": "../../media/images/e958833d213604868650be25/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "KAJARU Striped Men Round Neck Dark Blue T-Shirt",
+      "description": "KAJARU Striped Men Round Neck Dark Blue T-Shirt - Buy KAJARU Striped Men Round Neck Dark Blue T-Shirt For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/k/b/1/xxl-tsrt-catalog-03-kajaru-original-imah4zcysxzdyzjz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/h/q/j/xxl-tsrt-catalog-03-kajaru-original-imah4zcygv4rnc6y.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/y/2/z/xxl-tsrt-catalog-03-kajaru-original-imah4zcyefmgju2y.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/d/r/q/xxl-tsrt-catalog-03-kajaru-original-imah4zcyygfbkyxb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/t-shirt/t/o/k/xxl-tsrt-catalog-03-kajaru-original-imah4zcyzxc53hv9.jpeg?q=70"
+      ],
+      "sku": "TSHH4ZCYSBM6XMRD",
+      "color": "DARK.BLUE",
+      "category": "t_shirt",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 7157,
+        "ratingCount": 154718,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "KAJARU",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 193,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Suman Gorai",
+            "@type": "Person"
+          },
+          "datePublished": "2023-05-22",
+          "reviewBody": "Best in look and quality 👍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "JAGDAMBA  MOBILE",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-28",
+          "reviewBody": "Good quality 🤗",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-13",
+          "reviewBody": "Nice product...soft and good quality fabric...for use in summer...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e958833d213604868650be25",
+      "path": "media/images/e958833d213604868650be25/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

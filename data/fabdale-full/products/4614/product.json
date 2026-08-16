@@ -1,0 +1,199 @@
+{
+  "product_id": "4614",
+  "sku": "Fab-Kurta-VBNR-005GR-L",
+  "product": {
+    "name": "Verve Criss-cross geometric Print Kurtha Set",
+    "parent_id": "5285",
+    "notes": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itmdd7752cd0e386?pid=KTAH92DDTJEZNCGF&marketplace=FLIPKART&lid=LSTKTAH92DDTJEZNCGF5ONFKK&swatchAttr=size&pageUID=1774279764691"
+  },
+  "source_bundle": {
+    "key": "pid-KTAH92DDTJEZNCGF",
+    "path": "../../sources/pid-KTAH92DDTJEZNCGF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itmdd7752cd0e386?pid=KTAH92DDTJEZNCGF&marketplace=FLIPKART&lid=LSTKTAH92DDTJEZNCGF5ONFKK&swatchAttr=size&pageUID=1774279764691",
+    "scraped_at": "2026-08-15T20:12:16.449Z",
+    "final_url": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itmdd7752cd0e386?pid=KTAH92DDTJEZNCGF&marketplace=FLIPKART&lid=LSTKTAH92DDTJEZNCGF5ONFKK&swatchAttr=size&pageUID=1774279764691"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:12:21.987Z"
+  },
+  "content": {
+    "title": "VeBNoR Men Self Design Straight Kurta",
+    "short_description": "Color: Grey\nFabric: Jacquard\nPattern: Self Design\nType: Straight\nFit: Regular",
+    "description": "VeBNoR Men Self Design Straight Kurta - Buy VeBNoR Men Self Design Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Self Design",
+      "Type": "Straight",
+      "Fabric": "Jacquard",
+      "Fit": "Regular",
+      "Color": "Grey"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "6a23cda8f76cf3a7939aab3b",
+      "path": "media/images/6a23cda8f76cf3a7939aab3b/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/f/k/s-kt5-vebnor-original-imahpfmg9f5dtfwf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/f/k/s-kt5-vebnor-original-imahpfmg9f5dtfwf.jpeg?q=100",
+        "local_path": "../../media/images/6a23cda8f76cf3a7939aab3b/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/m/z/s-kt5-vebnor-original-imahpfmgytnua57g.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/m/z/s-kt5-vebnor-original-imahpfmgytnua57g.jpeg?q=100",
+        "local_path": "../../media/images/6a23cda8f76cf3a7939aab3b/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/r/1/f/s-kt5-vebnor-original-imahpfmgzktrjw62.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/r/1/f/s-kt5-vebnor-original-imahpfmgzktrjw62.jpeg?q=100",
+        "local_path": "../../media/images/6a23cda8f76cf3a7939aab3b/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/l/q/s-kt5-vebnor-original-imahpfmgdd8zvngk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/l/q/s-kt5-vebnor-original-imahpfmgdd8zvngk.jpeg?q=100",
+        "local_path": "../../media/images/6a23cda8f76cf3a7939aab3b/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/k/k/s-kt5-vebnor-original-imahpfmgxxyypehj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/k/k/s-kt5-vebnor-original-imahpfmgxxyypehj.jpeg?q=100",
+        "local_path": "../../media/images/6a23cda8f76cf3a7939aab3b/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Men Self Design Straight Kurta",
+      "description": "VeBNoR Men Self Design Straight Kurta - Buy VeBNoR Men Self Design Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/f/k/s-kt5-vebnor-original-imahpfmg9f5dtfwf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/m/z/s-kt5-vebnor-original-imahpfmgytnua57g.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/r/1/f/s-kt5-vebnor-original-imahpfmgzktrjw62.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/l/q/s-kt5-vebnor-original-imahpfmgdd8zvngk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/k/k/s-kt5-vebnor-original-imahpfmgxxyypehj.jpeg?q=70"
+      ],
+      "sku": "KTAH92DDTJEZNCGF",
+      "color": "Dark Grey",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 676,
+        "ratingCount": 12011,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 248,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Arvind kumar Arvind kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-22",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Ayush Kundu",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-29",
+          "reviewBody": "Nice products",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Rohit Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-06",
+          "reviewBody": "Best product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Self Design",
+        "Type": "Straight",
+        "Fabric": "Jacquard",
+        "Fit": "Regular",
+        "Color": "Grey"
+      },
+      "specifications": {}
+    }
+  }
+}

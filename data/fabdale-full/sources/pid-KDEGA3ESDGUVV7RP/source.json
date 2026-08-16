@@ -1,0 +1,26 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/fashion-dream-girls-calf-length-festive-wedding-dress/p/itm1650c9218aa56?pid=KDEGA3ESDGUVV7RP&marketplace=FLIPKART&lid=LSTKDEGA3ESDGUVV7RPDA6BWZ&swatchAttr=size",
+    "scraped_at": "2026-08-15T22:32:35.723Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/fashion-dream-girls-calf-length-festive-wedding-dress/p/itm1650c9218aa56?pid=KDEGA3ESDGUVV7RP&marketplace=FLIPKART&lid=LSTKDEGA3ESDGUVV7RPDA6BWZ&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/fashion-dream-girls-calf-length-festive-wedding-dress/p/itm1650c9218aa56?pid=KDEGA3ESDGUVV7RP&marketplace=FLIPKART&lid=LSTKDEGA3ESDGUVV7RPDA6BWZ&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:32:35.774Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

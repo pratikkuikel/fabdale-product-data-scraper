@@ -1,0 +1,124 @@
+{
+  "product_id": "4902",
+  "sku": "Fab-Jewel-BRAD-011GL",
+  "product": {
+    "name": "Bradox Traditional Mangalsutra Jewellery",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-gold-set/p/itm010ef3d580c4b?pid=JWSGAK3WSBQRSP8W&lid=LSTJWSGAK3WSBQRSP8WVMGKS5&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-JWSGAK3WSBQRSP8W",
+    "path": "../../sources/pid-JWSGAK3WSBQRSP8W/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-gold-set/p/itm010ef3d580c4b?pid=JWSGAK3WSBQRSP8W&lid=LSTJWSGAK3WSBQRSP8WVMGKS5&marketplace=FLIPKART",
+    "scraped_at": "2026-08-15T20:50:21.867Z",
+    "final_url": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-gold-set/p/itm010ef3d580c4b?pid=JWSGAK3WSBQRSP8W&lid=LSTJWSGAK3WSBQRSP8WVMGKS5&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:50:31.618Z"
+  },
+  "content": {
+    "title": "brado jewellery Brass Gold-plated Gold Jewel Set (Pack of 1)",
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "78d4bf95289b0a3494576347",
+      "path": "media/images/78d4bf95289b0a3494576347/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mangalsutra-tanmaniya/4/9/s/jf-wm-11-prop-single-golden-ball-1d-brd3037-theostrich-original-imagak3ukfhnp9qz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mangalsutra-tanmaniya/4/9/s/jf-wm-11-prop-single-golden-ball-1d-brd3037-theostrich-original-imagak3ukfhnp9qz.jpeg?q=100",
+        "local_path": "../../media/images/78d4bf95289b0a3494576347/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mangalsutra-tanmaniya/z/8/h/jf-wm-11-prop-single-golden-ball-1d-brd3037-theostrich-original-imagak3uewsfwayt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/mangalsutra-tanmaniya/z/8/h/jf-wm-11-prop-single-golden-ball-1d-brd3037-theostrich-original-imagak3uewsfwayt.jpeg?q=100",
+        "local_path": "../../media/images/78d4bf95289b0a3494576347/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/l5fnhjk0/shopsy-jewellery-set/s/z/l/b6-mmz-165-mangalsutra-set-unique-creation-original-imagg3r2gqtwhzkk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/l5fnhjk0/shopsy-jewellery-set/s/z/l/b6-mmz-165-mangalsutra-set-unique-creation-original-imagg3r2gqtwhzkk.jpeg?q=100",
+        "local_path": "../../media/images/78d4bf95289b0a3494576347/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/t/e/f/k18-k21-shiv-enterprise-resized-original-imafsxh5zkwffkcm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/t/e/f/k18-k21-shiv-enterprise-resized-original-imafsxh5zkwffkcm.jpeg?q=100",
+        "local_path": "../../media/images/78d4bf95289b0a3494576347/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/3/q/6/fknw-cr-ms-2-ms-11-sp-jizshou-original-imahksbrr8smzsek.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/3/q/6/fknw-cr-ms-2-ms-11-sp-jizshou-original-imahksbrr8smzsek.jpeg?q=100",
+        "local_path": "../../media/images/78d4bf95289b0a3494576347/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/w/n/f/na-na-5-x23-lt-sm21-rl-od-kc-verent-original-imah9nd2vzgk6xnz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/w/n/f/na-na-5-x23-lt-sm21-rl-od-kc-verent-original-imah9nd2vzgk6xnz.jpeg?q=100",
+        "local_path": "../../media/images/78d4bf95289b0a3494576347/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/p/m/h/na-d-1-je-lp-2-2-pari-g-flower-kirikura-brado-jewellery-original-imahj2fn3b3auwsv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/p/m/h/na-d-1-je-lp-2-2-pari-g-flower-kirikura-brado-jewellery-original-imahj2fn3b3auwsv.jpeg?q=100",
+        "local_path": "../../media/images/78d4bf95289b0a3494576347/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/y/u/i/-original-imahfvfgx2wejzzd.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/y/u/i/-original-imahfvfgx2wejzzd.jpeg?q=100",
+        "local_path": "../../media/images/78d4bf95289b0a3494576347/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/d/c/k/na-na-b2-fz-tagado-resized-original-imagfgz23gshatgw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/d/c/k/na-na-b2-fz-tagado-resized-original-imagfgz23gshatgw.jpeg?q=100",
+        "local_path": "../../media/images/78d4bf95289b0a3494576347/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/a/o/z/mangalsutra-9-ethnicembrace-resized-original-imahf4krcdpsmwqu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/a/o/z/mangalsutra-9-ethnicembrace-resized-original-imahf4krcdpsmwqu.jpeg?q=100",
+        "local_path": "../../media/images/78d4bf95289b0a3494576347/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

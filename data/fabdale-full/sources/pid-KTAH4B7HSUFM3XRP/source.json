@@ -1,0 +1,220 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-men-solid-straight-kurta/p/itm597b4013eb30f?pid=KTAH4B7HSUFM3XRP&marketplace=FLIPKART&lid=LSTKTAH4B7HSUFM3XRPC89330&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1774263061486",
+    "scraped_at": "2026-08-15T20:02:16.279Z",
+    "final_url": "https://www.flipkart.com/vebnor-men-solid-straight-kurta/p/itm597b4013eb30f?pid=KTAH4B7HSUFM3XRP&marketplace=FLIPKART&lid=LSTKTAH4B7HSUFM3XRPC89330&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1774263061486"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:02:24.923Z"
+  },
+  "content": {
+    "title": "VeBNoR Men Self Design Straight Kurta",
+    "short_description": "Color: Purple\nFabric: Jacquard\nPattern: Self Design\nType: Straight\nFit: Regular",
+    "description": "Timeless Style\nAdapting a modern yet classic design, this men’s kurta blends casual comfort with refined elegance. …\n\nComfortable and Well-fitted\nDesigned with a regular fit, this kurta provides a relaxed yet structured look. Designed to be neith…\n\nThoughtful Design Details\nOffering a mandarin collar, this kurta brings a neat and sophisticated touch to your wardrobe. The b…\n\nVersatile for Different Occasions\nDisplaying a solid pattern, this kurta pairs well with various bottoms, which allows for multiple st…\n\nElegant Sleeves\nCourtesy of its full sleeves, this kurta offers a refined and polished appearance. The classic sleev…",
+    "specifications": {
+      "Pattern": "Self Design",
+      "Type": "Straight",
+      "Fabric": "Jacquard",
+      "Fit": "Regular",
+      "Color": "Purple"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/6/q/m-pkt-vebnor-original-imahpmw8udhch8xg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/6/q/m-pkt-vebnor-original-imahpmw8udhch8xg.jpeg?q=100",
+        "local_path": "../../media/images/5e408ace1f4efc74ba08d466/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/y/r/m-pkt-vebnor-original-imahpmw8hkcyqjs5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/y/r/m-pkt-vebnor-original-imahpmw8hkcyqjs5.jpeg?q=100",
+        "local_path": "../../media/images/5e408ace1f4efc74ba08d466/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/3/4/4/s-pkt402-vebnor-original-imahqybdua9pycjg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/3/4/4/s-pkt402-vebnor-original-imahqybdua9pycjg.jpeg?q=100",
+        "local_path": "../../media/images/5e408ace1f4efc74ba08d466/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/2/y/a/s-pkt402-vebnor-original-imahqybdfzqvgc9h.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/2/y/a/s-pkt402-vebnor-original-imahqybdfzqvgc9h.jpeg?q=100",
+        "local_path": "../../media/images/5e408ace1f4efc74ba08d466/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/g/q/s-pkt402-vebnor-original-imahqybda4dkwyh4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/g/q/s-pkt402-vebnor-original-imahqybda4dkwyh4.jpeg?q=100",
+        "local_path": "../../media/images/5e408ace1f4efc74ba08d466/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cse-genai/AS/CNSQJfKeDrQzuwQ4WDSPR0sQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Men Self Design Straight Kurta",
+      "description": "VeBNoR Men Self Design Straight Kurta - Buy VeBNoR Men Self Design Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/6/q/m-pkt-vebnor-original-imahpmw8udhch8xg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/y/r/m-pkt-vebnor-original-imahpmw8hkcyqjs5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/3/4/4/s-pkt402-vebnor-original-imahqybdua9pycjg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/2/y/a/s-pkt402-vebnor-original-imahqybdfzqvgc9h.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/g/q/s-pkt402-vebnor-original-imahqybda4dkwyh4.jpeg?q=70"
+      ],
+      "sku": "KTAH4B7HSUFM3XRP",
+      "color": "Dark Purple",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 1742,
+        "ratingCount": 25727,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 287,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Meraj Hussain",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-24",
+          "reviewBody": "Good quality 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-14",
+          "reviewBody": "S size is good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Debashis Rajwar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-04",
+          "reviewBody": "Great 👍🥰 love  this product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Timeless Style",
+          "body": "Adapting a modern yet classic design, this men’s kurta blends casual comfort with refined elegance. …"
+        },
+        {
+          "heading": "Comfortable and Well-fitted",
+          "body": "Designed with a regular fit, this kurta provides a relaxed yet structured look. Designed to be neith…"
+        },
+        {
+          "heading": "Thoughtful Design Details",
+          "body": "Offering a mandarin collar, this kurta brings a neat and sophisticated touch to your wardrobe. The b…"
+        },
+        {
+          "heading": "Versatile for Different Occasions",
+          "body": "Displaying a solid pattern, this kurta pairs well with various bottoms, which allows for multiple st…"
+        },
+        {
+          "heading": "Elegant Sleeves",
+          "body": "Courtesy of its full sleeves, this kurta offers a refined and polished appearance. The classic sleev…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Self Design",
+        "Type": "Straight",
+        "Fabric": "Jacquard",
+        "Fit": "Regular",
+        "Color": "Purple"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "5e408ace1f4efc74ba08d466",
+      "path": "media/images/5e408ace1f4efc74ba08d466/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "2d9b92644771722d654957d1",
+      "path": "media/videos/2d9b92644771722d654957d1/media.json",
+      "reused": false
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "product_id": "4869",
+  "sku": "Fab-Kurta-DMMY-009G-L",
+  "product": {
+    "name": "Devansh Zip Front shirt",
+    "parent_id": "5345",
+    "notes": "https://www.flipkart.com/dimmy-men-solid-straight-kurta/p/itmd4cc41d484539?pid=KTAGE73VUBQWQGHC&marketplace=FLIPKART&lid=LSTKTAGE73VUBQWQGHCVZXEDF&swatchAttr=size&pageUID=1774198997678"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGE73VUBQWQGHC",
+    "path": "../../sources/pid-KTAGE73VUBQWQGHC/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/dimmy-men-solid-straight-kurta/p/itmd4cc41d484539?pid=KTAGE73VUBQWQGHC&marketplace=FLIPKART&lid=LSTKTAGE73VUBQWQGHCVZXEDF&swatchAttr=size&pageUID=1774198997678",
+    "scraped_at": "2026-08-15T20:42:35.182Z",
+    "final_url": "https://www.flipkart.com/dimmy-men-solid-straight-kurta/p/itmd4cc41d484539?pid=KTAGE73VUBQWQGHC&marketplace=FLIPKART&lid=LSTKTAGE73VUBQWQGHCVZXEDF&swatchAttr=size&pageUID=1774198997678"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:42:45.463Z"
+  },
+  "content": {
+    "title": "DIMMY Solid Cotton Blend Straight Kurta for Men (Green)",
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ab111240b3681e8654816051",
+      "path": "media/images/ab111240b3681e8654816051/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/z/3/l/m-kurto-dimmy112-dimmy-original-imagtyucannfq3yw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/z/3/l/m-kurto-dimmy112-dimmy-original-imagtyucannfq3yw.jpeg?q=100",
+        "local_path": "../../media/images/ab111240b3681e8654816051/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/i/0/p/-original-imagsgsfnz2guyru.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/i/0/p/-original-imagsgsfnz2guyru.jpeg?q=100",
+        "local_path": "../../media/images/ab111240b3681e8654816051/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/a/i/0/m-kurto-dimmy112-dimmy-original-imagtyucyft3gej3.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/a/i/0/m-kurto-dimmy112-dimmy-original-imagtyucyft3gej3.jpeg?q=100",
+        "local_path": "../../media/images/ab111240b3681e8654816051/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/n/6/2/m-sun0012-deemoon-resized-original-imagquzuvpgzjak2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/n/6/2/m-sun0012-deemoon-resized-original-imagquzuvpgzjak2.jpeg?q=100",
+        "local_path": "../../media/images/ab111240b3681e8654816051/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/m/i/q/l-olive-short-kurta-us-fashion-resized-original-imagzybjwjajymfc.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/m/i/q/l-olive-short-kurta-us-fashion-resized-original-imagzybjwjajymfc.jpeg?q=100",
+        "local_path": "../../media/images/ab111240b3681e8654816051/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/u/1/e/xxl-dark-green-chain-shirt-spoque-original-imagntzw2w5swq99.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/u/1/e/xxl-dark-green-chain-shirt-spoque-original-imagntzw2w5swq99.jpeg?q=100",
+        "local_path": "../../media/images/ab111240b3681e8654816051/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/0/j/0/m-maroon-chaine-shirt-spoque-original-imagntzwv3hbwph9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shirt/0/j/0/m-maroon-chaine-shirt-spoque-original-imagntzwv3hbwph9.jpeg?q=100",
+        "local_path": "../../media/images/ab111240b3681e8654816051/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/x/f/6/xxl-new-white-nofilter-original-imaghzggudfezpr8.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/x/f/6/xxl-new-white-nofilter-original-imaghzggudfezpr8.jpeg?q=100",
+        "local_path": "../../media/images/ab111240b3681e8654816051/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/k/i/z/l-new-black-nofilter-original-imaghzgkfjp8xdht.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/k/i/z/l-new-black-nofilter-original-imaghzgkfjp8xdht.jpeg?q=100",
+        "local_path": "../../media/images/ab111240b3681e8654816051/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/f/e/xxl-alternate-short-kurta-nofilter-resized-original-imahayu7n3aebuvw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/o/f/e/xxl-alternate-short-kurta-nofilter-resized-original-imahayu7n3aebuvw.jpeg?q=100",
+        "local_path": "../../media/images/ab111240b3681e8654816051/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/m/b/w/m-new-navy-nofilter-original-imagmycxkgym5z6g.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/m/b/w/m-new-navy-nofilter-original-imagmycxkgym5z6g.jpeg?q=100",
+        "local_path": "../../media/images/ab111240b3681e8654816051/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

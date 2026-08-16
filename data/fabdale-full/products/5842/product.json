@@ -1,0 +1,38 @@
+{
+  "product_id": "5842",
+  "sku": "Fab-Dress-PURN-001MR-XL",
+  "product": {
+    "name": "Parnika Sleeveless formal party dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-festive-wedding-dress/p/itm84fa270dac8ce?pid=KDEHEFYH7KCPWYZZ&lid=LSTKDEHEFYH7KCPWYZZEKVCQY&marketplace=FLIPKART&sattr[]=color&sattr[]=size&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHEFYH7KCPWYZZ",
+    "path": "../../sources/pid-KDEHEFYH7KCPWYZZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-festive-wedding-dress/p/itm84fa270dac8ce?pid=KDEHEFYH7KCPWYZZ&lid=LSTKDEHEFYH7KCPWYZZEKVCQY&marketplace=FLIPKART&sattr[]=color&sattr[]=size&st=color",
+    "scraped_at": "2026-08-15T22:25:51.982Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-festive-wedding-dress/p/itm84fa270dac8ce?pid=KDEHEFYH7KCPWYZZ&lid=LSTKDEHEFYH7KCPWYZZEKVCQY&marketplace=FLIPKART&sattr[]=color&sattr[]=size&st=color\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-festive-wedding-dress/p/itm84fa270dac8ce?pid=KDEHEFYH7KCPWYZZ&lid=LSTKDEHEFYH7KCPWYZZEKVCQY&marketplace=FLIPKART&sattr[]=color&sattr[]=size&st=color\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:25:52.300Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

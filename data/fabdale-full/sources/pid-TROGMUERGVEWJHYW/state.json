@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-TROGMUERGVEWJHYW",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "6775"
+  ],
+  "source_path": "sources/pid-TROGMUERGVEWJHYW/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T23:22:53.790Z",
+  "completed_at": "2026-08-15T23:23:10.099Z"
+}

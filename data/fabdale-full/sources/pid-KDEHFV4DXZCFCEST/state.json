@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KDEHFV4DXZCFCEST",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "5711"
+  ],
+  "source_path": "sources/pid-KDEHFV4DXZCFCEST/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T22:04:13.391Z",
+  "completed_at": "2026-08-15T22:04:34.161Z"
+}

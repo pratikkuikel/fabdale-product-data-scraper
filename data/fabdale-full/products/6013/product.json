@@ -1,0 +1,38 @@
+{
+  "product_id": "6013",
+  "sku": "Fab-Dress-FSHD-018G-S",
+  "product": {
+    "name": "Fablina sleeveless floral-print Midi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fashion-dream-girls-midi-knee-length-casual-dress/p/itm56a373adc2e06?pid=KDEGEDKK5CPRPZDF&marketplace=FLIPKART&lid=LSTKDEGEDKK5CPRPZDFY8XAPS&swatchAttr=size&pageUID=1776009880897"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGEDKK5CPRPZDF",
+    "path": "../../sources/pid-KDEGEDKK5CPRPZDF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fashion-dream-girls-midi-knee-length-casual-dress/p/itm56a373adc2e06?pid=KDEGEDKK5CPRPZDF&marketplace=FLIPKART&lid=LSTKDEGEDKK5CPRPZDFY8XAPS&swatchAttr=size&pageUID=1776009605038",
+    "scraped_at": "2026-08-15T22:40:37.403Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/fashion-dream-girls-midi-knee-length-casual-dress/p/itm56a373adc2e06?pid=KDEGEDKK5CPRPZDF&marketplace=FLIPKART&lid=LSTKDEGEDKK5CPRPZDFY8XAPS&swatchAttr=size&pageUID=1776009605038\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/fashion-dream-girls-midi-knee-length-casual-dress/p/itm56a373adc2e06?pid=KDEGEDKK5CPRPZDF&marketplace=FLIPKART&lid=LSTKDEGEDKK5CPRPZDFY8XAPS&swatchAttr=size&pageUID=1776009605038\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:40:37.452Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

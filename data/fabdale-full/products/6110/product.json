@@ -1,0 +1,38 @@
+{
+  "product_id": "6110",
+  "sku": "Fab-Dress-AARY-011G-L",
+  "product": {
+    "name": "Aamira Anarkali Style Maxi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm7955dfbc5e19e?pid=KDEH4D6XWBAPF3WZ&marketplace=FLIPKART&lid=LSTKDEH4D6XWBAPF3WZB2UYCE&swatchAttr=size&pageUID=1776065215409"
+  },
+  "source_bundle": {
+    "key": "pid-KDEH4D6XWBAPF3WZ",
+    "path": "../../sources/pid-KDEH4D6XWBAPF3WZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm7955dfbc5e19e?pid=KDEH4D6XWBAPF3WZ&marketplace=FLIPKART&lid=LSTKDEH4D6XWBAPF3WZB2UYCE&swatchAttr=size&pageUID=1776065215409",
+    "scraped_at": "2026-08-15T22:53:16.764Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm7955dfbc5e19e?pid=KDEH4D6XWBAPF3WZ&marketplace=FLIPKART&lid=LSTKDEH4D6XWBAPF3WZB2UYCE&swatchAttr=size&pageUID=1776065215409\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm7955dfbc5e19e?pid=KDEH4D6XWBAPF3WZ&marketplace=FLIPKART&lid=LSTKDEH4D6XWBAPF3WZB2UYCE&swatchAttr=size&pageUID=1776065215409\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:53:16.841Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

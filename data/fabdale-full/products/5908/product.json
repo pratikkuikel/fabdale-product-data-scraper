@@ -1,0 +1,38 @@
+{
+  "product_id": "5908",
+  "sku": "Fab-Dress-FSHD-005RA-S",
+  "product": {
+    "name": "Fablina Horizontal striped pattern Dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fashion-dream-girls-calf-length-festive-wedding-dress/p/itm2809b0e45eed4?pid=KDEGA3ENPTXUHHVT&marketplace=FLIPKART&lid=LSTKDEGA3ENPTXUHHVT7KI15L&swatchAttr=size&pageUID=1775577950325"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGA3ENPTXUHHVT",
+    "path": "../../sources/pid-KDEGA3ENPTXUHHVT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fashion-dream-girls-calf-length-festive-wedding-dress/p/itm2809b0e45eed4?pid=KDEGA3ENPTXUHHVT&marketplace=FLIPKART&lid=LSTKDEGA3ENPTXUHHVT7KI15L&swatchAttr=size&pageUID=1775577950325",
+    "scraped_at": "2026-08-15T22:31:13.041Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/fashion-dream-girls-calf-length-festive-wedding-dress/p/itm2809b0e45eed4?pid=KDEGA3ENPTXUHHVT&marketplace=FLIPKART&lid=LSTKDEGA3ENPTXUHHVT7KI15L&swatchAttr=size&pageUID=1775577950325\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/fashion-dream-girls-calf-length-festive-wedding-dress/p/itm2809b0e45eed4?pid=KDEGA3ENPTXUHHVT&marketplace=FLIPKART&lid=LSTKDEGA3ENPTXUHHVT7KI15L&swatchAttr=size&pageUID=1775577950325\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:31:13.128Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

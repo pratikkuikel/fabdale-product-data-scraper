@@ -1,0 +1,172 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/miss-chief-girls-midi-knee-length-party-dress/p/itmb06755fe17045?pid=KDEH9Y9CZJRP5W3T&marketplace=FLIPKART&lid=LSTKDEH9Y9CZJRP5W3TZ4CHA5&swatchAttr=size&pageUID=1775210323602",
+    "scraped_at": "2026-08-15T21:07:15.140Z",
+    "final_url": "https://www.flipkart.com/miss-chief-girls-midi-knee-length-party-dress/p/itmb06755fe17045?pid=KDEH9Y9CZJRP5W3T&marketplace=FLIPKART&lid=LSTKDEH9Y9CZJRP5W3TZ4CHA5&swatchAttr=size&pageUID=1775210323602"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:07:28.913Z"
+  },
+  "content": {
+    "title": "Miss & Chief Girls Midi/Knee Length Party Dress",
+    "short_description": "Fabric: Net\nPattern: Embroidered\nType: A- Line Dress\nOccasion: Party\nPrimary Color: Yellow",
+    "description": "Buy Miss & Chief Girls Midi/Knee Length Party Dress for Rs.1999.0 online. Miss & Chief Girls Midi/Knee Length Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {
+      "Type": "A- Line Dress",
+      "Occasion": "Party",
+      "Pattern": "Embroidered",
+      "Primary Color": "Yellow",
+      "Fabric": "Net"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/2/h/9-10-years-yelboom-miss-chief-original-imah9y9cfnbz7bjw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/2/h/9-10-years-yelboom-miss-chief-original-imah9y9cfnbz7bjw.jpeg?q=100",
+        "local_path": "../../media/images/d23c2c4c8a59e64cf48abe0f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/p/8/9-10-years-yelboom-miss-chief-original-imah9y9cenzkghzq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/p/8/9-10-years-yelboom-miss-chief-original-imah9y9cenzkghzq.jpeg?q=100",
+        "local_path": "../../media/images/d23c2c4c8a59e64cf48abe0f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/p/x/9-10-years-yelboom-miss-chief-original-imah9y9cwmjcwh6z.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/p/x/9-10-years-yelboom-miss-chief-original-imah9y9cwmjcwh6z.jpeg?q=100",
+        "local_path": "../../media/images/d23c2c4c8a59e64cf48abe0f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Miss & Chief Girls Midi/Knee Length Party Dress",
+      "description": "Buy Miss & Chief Girls Midi/Knee Length Party Dress for Rs.1999.0 online. Miss & Chief Girls Midi/Knee Length Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/2/h/9-10-years-yelboom-miss-chief-original-imah9y9cfnbz7bjw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/p/8/9-10-years-yelboom-miss-chief-original-imah9y9cenzkghzq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/p/x/9-10-years-yelboom-miss-chief-original-imah9y9cwmjcwh6z.jpeg?q=70"
+      ],
+      "sku": "KDEH9Y9CZJRP5W3T",
+      "color": "Yellow",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 523,
+        "ratingCount": 14024,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Miss & Chief",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 341,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-20",
+          "reviewBody": "Beautiful",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-27",
+          "reviewBody": "Good one",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-27",
+          "reviewBody": "Nice dress",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "A- Line Dress",
+        "Occasion": "Party",
+        "Pattern": "Embroidered",
+        "Primary Color": "Yellow",
+        "Fabric": "Net"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "d23c2c4c8a59e64cf48abe0f",
+      "path": "media/images/d23c2c4c8a59e64cf48abe0f/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

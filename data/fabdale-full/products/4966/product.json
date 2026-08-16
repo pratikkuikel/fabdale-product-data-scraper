@@ -1,0 +1,206 @@
+{
+  "product_id": "4966",
+  "sku": "Fab-Dress-PURNB-007LP-XL",
+  "product": {
+    "name": "Parnika Denim & Net Fit Flare Maxi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-girls-maxi-full-length-casual-dress/p/itm8fb81bc5b35ed?pid=KDEGY2PTGQQUFZSR&lid=LSTKDEGY2PTGQQUFZSRJTSSET&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGY2PTGQQUFZSR",
+    "path": "../../sources/pid-KDEGY2PTGQQUFZSR/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-girls-maxi-full-length-casual-dress/p/itm8fb81bc5b35ed?pid=KDEGY2PTGQQUFZSR&lid=LSTKDEGY2PTGQQUFZSRJTSSET&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T20:57:40.730Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-girls-maxi-full-length-casual-dress/p/itm8fb81bc5b35ed?pid=KDEGY2PTGQQUFZSR&lid=LSTKDEGY2PTGQQUFZSRJTSSET&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:57:53.477Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Girls Maxi/Full Length Casual Dress",
+    "short_description": "Fabric: Denim, Net\nType: Fit and Flare Dress\nOccasion: Casual\nPrimary Color: Pink",
+    "description": "Comfortable and Stylish\nThis kid's dress is made from a soft and breathable cotton fabric, ensuring all-day comfort for your…\n\nFit and Flare Design\nWith its fit and flare silhouette, this dress offers a flattering and playful look. It is perfect fo…\n\nMaxi Length with Full Sleeves\nDesigned with a maxi length and full sleeves, this dress provides full coverage and protection while…\n\nEasy Care\nThis dress is machine washable, making it easy to clean and maintain its quality. Simply follow the …",
+    "specifications": {
+      "Type": "Fit and Flare Dress",
+      "Occasion": "Casual",
+      "Primary Color": "Pink",
+      "Fabric": "Denim, Net"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4bc5fcb2c6bab41c3870ab48",
+      "path": "media/images/4bc5fcb2c6bab41c3870ab48/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/4/u/u/6-12-months-feni-kids-frock-baby-girl-party-wear-frock-long-original-imagxx3gcnq5jxs7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/4/u/u/6-12-months-feni-kids-frock-baby-girl-party-wear-frock-long-original-imagxx3gcnq5jxs7.jpeg?q=100",
+        "local_path": "../../media/images/4bc5fcb2c6bab41c3870ab48/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/x/r/6-12-months-feni-kids-frock-baby-girl-party-wear-frock-long-original-imagxx3gczgtmugw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/x/r/6-12-months-feni-kids-frock-baby-girl-party-wear-frock-long-original-imagxx3gczgtmugw.jpeg?q=100",
+        "local_path": "../../media/images/4bc5fcb2c6bab41c3870ab48/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/1/8/z/6-12-months-feni-kids-frock-baby-girl-party-wear-frock-long-original-imagxx3ggk9vzfy9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/1/8/z/6-12-months-feni-kids-frock-baby-girl-party-wear-frock-long-original-imagxx3ggk9vzfy9.jpeg?q=100",
+        "local_path": "../../media/images/4bc5fcb2c6bab41c3870ab48/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/x/e/6-12-months-feni-kids-frock-baby-girl-party-wear-frock-long-original-imagxx3gtkezgguh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/x/e/6-12-months-feni-kids-frock-baby-girl-party-wear-frock-long-original-imagxx3gtkezgguh.jpeg?q=100",
+        "local_path": "../../media/images/4bc5fcb2c6bab41c3870ab48/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Girls Maxi/Full Length Casual Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Girls Maxi/Full Length Casual Dress for Rs.1299.0 online. PURNKAMAAY TRENDZ Girls Maxi/Full Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/4/u/u/6-12-months-feni-kids-frock-baby-girl-party-wear-frock-long-original-imagxx3gcnq5jxs7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/x/r/6-12-months-feni-kids-frock-baby-girl-party-wear-frock-long-original-imagxx3gczgtmugw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/1/8/z/6-12-months-feni-kids-frock-baby-girl-party-wear-frock-long-original-imagxx3ggk9vzfy9.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/x/e/6-12-months-feni-kids-frock-baby-girl-party-wear-frock-long-original-imagxx3gtkezgguh.jpeg?q=70"
+      ],
+      "sku": "KDEGY2PTGQQUFZSR",
+      "color": "LIGHT PINK",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 189,
+        "ratingCount": 4997,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 305,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Vishnu K",
+            "@type": "Person"
+          },
+          "datePublished": "2024-02-15",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-28",
+          "reviewBody": "Nice product....",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Shankar Patil  Raut ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-12-27",
+          "reviewBody": "So nice ❤️❤️❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Comfortable and Stylish",
+          "body": "This kid's dress is made from a soft and breathable cotton fabric, ensuring all-day comfort for your…"
+        },
+        {
+          "heading": "Fit and Flare Design",
+          "body": "With its fit and flare silhouette, this dress offers a flattering and playful look. It is perfect fo…"
+        },
+        {
+          "heading": "Maxi Length with Full Sleeves",
+          "body": "Designed with a maxi length and full sleeves, this dress provides full coverage and protection while…"
+        },
+        {
+          "heading": "Easy Care",
+          "body": "This dress is machine washable, making it easy to clean and maintain its quality. Simply follow the …"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Fit and Flare Dress",
+        "Occasion": "Casual",
+        "Primary Color": "Pink",
+        "Fabric": "Denim, Net"
+      },
+      "specifications": {}
+    }
+  }
+}

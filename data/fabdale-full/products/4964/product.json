@@ -1,0 +1,127 @@
+{
+  "product_id": "4964",
+  "sku": "Fab-Dress-PURNB-007MR-L",
+  "product": {
+    "name": "Parnika Denim & Net Fit Flare Maxi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/yk-girls-midi-knee-length-party-dress/p/itm59f9711a68e23?pid=KDEHHE8HR3KQ8FTY&marketplace=FLIPKART&lid=LSTKDEHHE8HR3KQ8FTYBOEBPU&swatchAttr=size&pageUID=1775040609620"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHHE8HR3KQ8FTY",
+    "path": "../../sources/pid-KDEHHE8HR3KQ8FTY/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/yk-girls-midi-knee-length-party-dress/p/itm59f9711a68e23?pid=KDEHHE8HR3KQ8FTY&marketplace=FLIPKART&lid=LSTKDEHHE8HR3KQ8FTYBOEBPU&swatchAttr=size&pageUID=1775040609620",
+    "scraped_at": "2026-08-15T20:57:28.089Z",
+    "final_url": "https://www.flipkart.com/yk-girls-midi-knee-length-party-dress/p/itm59f9711a68e23?pid=KDEHHE8HR3KQ8FTY&marketplace=FLIPKART&lid=LSTKDEHHE8HR3KQ8FTYBOEBPU&swatchAttr=size&pageUID=1775040609620"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:57:39.553Z"
+  },
+  "content": {
+    "title": "Yk Girls Midi/Knee Length Party Dress",
+    "short_description": "Buy Yk Girls Midi/Knee Length Party Dress for Rs.999.0 online. Yk Girls Midi/Knee Length Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "description": "Buy Yk Girls Midi/Knee Length Party Dress for Rs.999.0 online. Yk Girls Midi/Knee Length Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bb81103351a414df2f23d09d",
+      "path": "media/images/bb81103351a414df2f23d09d/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/r/l/1-2-years-gopi-cloth1-7-milar-re-teevosh-original-imah83hxcm4eu79s.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/r/l/1-2-years-gopi-cloth1-7-milar-re-teevosh-original-imah83hxcm4eu79s.jpeg?q=100",
+        "local_path": "../../media/images/bb81103351a414df2f23d09d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/x/h/1-2-years-gopi-cloth1-7-milar-re-teevosh-original-imah83hxtgxbejpg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/x/h/1-2-years-gopi-cloth1-7-milar-re-teevosh-original-imah83hxtgxbejpg.jpeg?q=100",
+        "local_path": "../../media/images/bb81103351a414df2f23d09d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/a/1/1-2-years-sd53-styleconnect-original-imahc3f7ygtugfr9.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/a/1/1-2-years-sd53-styleconnect-original-imahc3f7ygtugfr9.jpeg?q=100",
+        "local_path": "../../media/images/bb81103351a414df2f23d09d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/p/n/1-2-years-sd53-styleconnect-original-imahc3f7ghzaybhg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/p/n/1-2-years-sd53-styleconnect-original-imahc3f7ghzaybhg.jpeg?q=100",
+        "local_path": "../../media/images/bb81103351a414df2f23d09d/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Yk Girls Midi/Knee Length Party Dress",
+      "description": "Buy Yk Girls Midi/Knee Length Party Dress for Rs.999.0 online. Yk Girls Midi/Knee Length Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/r/l/1-2-years-gopi-cloth1-7-milar-re-teevosh-original-imah83hxcm4eu79s.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/x/h/1-2-years-gopi-cloth1-7-milar-re-teevosh-original-imah83hxtgxbejpg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/a/1/1-2-years-sd53-styleconnect-original-imahc3f7ygtugfr9.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/e/p/n/1-2-years-sd53-styleconnect-original-imahc3f7ghzaybhg.jpeg?q=70"
+      ],
+      "sku": "KDEHHE8HR3KQ8FTY",
+      "color": "Maroon",
+      "category": "kids_dress",
+      "brand": {
+        "name": "Yk",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 535,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

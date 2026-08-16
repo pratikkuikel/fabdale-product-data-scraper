@@ -1,0 +1,44 @@
+{
+  "key": "8b9fec1c2db620a36bc0b43b",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T20:19:48.750Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/q/6/l-kurta1512-zartha-resized-original-imagsuzdgv3dhuge.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/q/6/l-kurta1512-zartha-resized-original-imagsuzdgv3dhuge.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/j/v/l-kurta1512-zartha-original-imagsuzdz3cbeypu.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/j/v/l-kurta1512-zartha-original-imagsuzdz3cbeypu.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/r/g/l-kurta1512-zartha-original-imagsuzdazr9dknb.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/r/g/l-kurta1512-zartha-original-imagsuzdazr9dknb.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/j/y/l-kurta1512-zartha-original-imagsuzdrsgf2d8e.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/j/y/l-kurta1512-zartha-original-imagsuzdrsgf2d8e.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/z/p/l-kurta1512-zartha-original-imagsuzdspxsenzg.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/z/p/l-kurta1512-zartha-original-imagsuzdspxsenzg.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

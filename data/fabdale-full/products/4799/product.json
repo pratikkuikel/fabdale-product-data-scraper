@@ -1,0 +1,199 @@
+{
+  "product_id": "4799",
+  "sku": "Fab-Kurta-DMMY-004MR-L",
+  "product": {
+    "name": "Devansh Large-scale Paisley Print Shirt",
+    "parent_id": "5349",
+    "notes": "https://www.flipkart.com/dimmy-men-printed-a-line-kurta/p/itmee324c2b2032e?pid=KTAHGKE3DHPY2EYF&marketplace=FLIPKART&lid=LSTKTAHGKE3DHPY2EYFBVJNTJ&swatchAttr=size&pageUID=1774177973150"
+  },
+  "source_bundle": {
+    "key": "pid-KTAHGKE3DHPY2EYF",
+    "path": "../../sources/pid-KTAHGKE3DHPY2EYF/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/dimmy-men-printed-a-line-kurta/p/itmee324c2b2032e?pid=KTAHGKE3DHPY2EYF&marketplace=FLIPKART&lid=LSTKTAHGKE3DHPY2EYFBVJNTJ&swatchAttr=size&pageUID=1774177973150",
+    "scraped_at": "2026-08-15T20:33:29.349Z",
+    "final_url": "https://www.flipkart.com/dimmy-men-printed-a-line-kurta/p/itmee324c2b2032e?pid=KTAHGKE3DHPY2EYF&marketplace=FLIPKART&lid=LSTKTAHGKE3DHPY2EYFBVJNTJ&swatchAttr=size&pageUID=1774177973150"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:33:35.377Z"
+  },
+  "content": {
+    "title": "DIMMY Men Printed A-line Kurta",
+    "short_description": "Color: Maroon\nFabric: Cotton Blend\nPattern: Printed\nType: A-line\nFit: Regular Fit",
+    "description": "DIMMY Men Printed A-line Kurta - Buy DIMMY Men Printed A-line Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Printed",
+      "Type": "A-line",
+      "Fabric": "Cotton Blend",
+      "Fit": "Regular Fit",
+      "Color": "Maroon"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ca3900c417172c520b150eb1",
+      "path": "media/images/ca3900c417172c520b150eb1/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/h/e/m-bidfr07-dimmy-original-imahgke3fmsn6ysu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/h/e/m-bidfr07-dimmy-original-imahgke3fmsn6ysu.jpeg?q=100",
+        "local_path": "../../media/images/ca3900c417172c520b150eb1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/5/j/m-bidfr07-dimmy-original-imahgke3ner286hk.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/5/j/m-bidfr07-dimmy-original-imahgke3ner286hk.jpeg?q=100",
+        "local_path": "../../media/images/ca3900c417172c520b150eb1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/9/2/m-bidfr07-dimmy-original-imahgke3hw5cusau.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/9/2/m-bidfr07-dimmy-original-imahgke3hw5cusau.jpeg?q=100",
+        "local_path": "../../media/images/ca3900c417172c520b150eb1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/w/9/m-bidfr07-dimmy-original-imahgke3qb2zjfsp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/w/9/m-bidfr07-dimmy-original-imahgke3qb2zjfsp.jpeg?q=100",
+        "local_path": "../../media/images/ca3900c417172c520b150eb1/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/8/a/m-bidfr07-dimmy-original-imahgke3ksanbgyg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/8/a/m-bidfr07-dimmy-original-imahgke3ksanbgyg.jpeg?q=100",
+        "local_path": "../../media/images/ca3900c417172c520b150eb1/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "DIMMY Men Printed A-line Kurta",
+      "description": "DIMMY Men Printed A-line Kurta - Buy DIMMY Men Printed A-line Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/h/e/m-bidfr07-dimmy-original-imahgke3fmsn6ysu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/5/j/m-bidfr07-dimmy-original-imahgke3ner286hk.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/9/2/m-bidfr07-dimmy-original-imahgke3hw5cusau.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/w/9/m-bidfr07-dimmy-original-imahgke3qb2zjfsp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/f/8/a/m-bidfr07-dimmy-original-imahgke3ksanbgyg.jpeg?q=70"
+      ],
+      "sku": "KTAHGKE3DHPY2EYF",
+      "color": "MAROON",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 42,
+        "ratingCount": 425,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "DIMMY",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 356,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Decent product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-01-17",
+          "reviewBody": "Not satisfied",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Kenpachi ZARAKI",
+            "@type": "Person"
+          },
+          "datePublished": "2026-08-12",
+          "reviewBody": "It's a bit oversized for me but my tailor will make it fit",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-08-08",
+          "reviewBody": "Perfect indo western shirt I just luvvvv itttt😋🫶🏻",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Printed",
+        "Type": "A-line",
+        "Fabric": "Cotton Blend",
+        "Fit": "Regular Fit",
+        "Color": "Maroon"
+      },
+      "specifications": {}
+    }
+  }
+}

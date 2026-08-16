@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-TSHHCW5HGQTTZ24N",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/tripr-printed-men-round-neck-dark-green-white-t-shirt/p/itmb43f263078fc0?pid=TSHHCW5HGQTTZ24N&marketplace=FLIPKART&lid=LSTTSHHCW5HGQTTZ24NP9L2QK&swatchAttr=size&pageUID=1773223825058\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/tripr-printed-men-round-neck-dark-green-white-t-shirt/p/itmb43f263078fc0?pid=TSHHCW5HGQTTZ24N&marketplace=FLIPKART&lid=LSTTSHHCW5HGQTTZ24NP9L2QK&swatchAttr=size&pageUID=1773223825058\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "5018",
+    "5183"
+  ],
+  "source_path": "sources/pid-TSHHCW5HGQTTZ24N/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T21:02:37.782Z",
+  "completed_at": "2026-08-15T21:02:38.020Z"
+}

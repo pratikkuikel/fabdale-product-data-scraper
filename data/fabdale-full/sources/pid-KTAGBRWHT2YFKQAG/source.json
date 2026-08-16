@@ -1,0 +1,205 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/tibra-collection-men-solid-straight-kurta/p/itm9237b1df7681f?pid=KTAGBRWHT2YFKQAG&lid=LSTKTAGBRWHT2YFKQAGHODMU6&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T21:08:09.216Z",
+    "final_url": "https://www.flipkart.com/tibra-collection-men-solid-straight-kurta/p/itm9237b1df7681f?pid=KTAGBRWHT2YFKQAG&lid=LSTKTAGBRWHT2YFKQAGHODMU6&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:08:24.478Z"
+  },
+  "content": {
+    "title": "Tibra Collection Men Solid Straight Kurta",
+    "short_description": "Color: Black\nFabric: Cotton Blend\nPattern: Solid\nType: Straight\nFit: Regular Fit",
+    "description": "Classic Straight Design\nFeaturing a classic straight design, this kurta offers a comfortable and relaxed fit. The knee-lengt…\n\nEasy to Maintain\nThe seller understands the importance of convenience in your busy lifestyle. That's why this kurta i…\n\nElegant Mandarin Neck\nEnhance your style with the elegant mandarin neck of this kurta. The mandarin collar adds a touch of…\n\nPremium Cotton Blend Fabric\nCrafted from a pure cotton blend fabric, this kurta offers both comfort and durability. The fabric i…",
+    "specifications": {
+      "Pattern": "Solid",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Fit": "Regular Fit",
+      "Color": "Black"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/q/d/s-356-tibra-collection-original-imahmppfgpjgxrhg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/q/d/s-356-tibra-collection-original-imahmppfgpjgxrhg.jpeg?q=100",
+        "local_path": "../../media/images/0892dc98dda1b3b1ba7a8ed7/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/h/u/g/s-356-tibra-collection-original-imahmppfezmqmmwf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/h/u/g/s-356-tibra-collection-original-imahmppfezmqmmwf.jpeg?q=100",
+        "local_path": "../../media/images/0892dc98dda1b3b1ba7a8ed7/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/h/z/s-356-tibra-collection-original-imahmppfztam2hty.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/h/z/s-356-tibra-collection-original-imahmppfztam2hty.jpeg?q=100",
+        "local_path": "../../media/images/0892dc98dda1b3b1ba7a8ed7/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/a/v/s-356-tibra-collection-original-imahmppfyzrgag7n.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/a/v/s-356-tibra-collection-original-imahmppfyzrgag7n.jpeg?q=100",
+        "local_path": "../../media/images/0892dc98dda1b3b1ba7a8ed7/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/q/s/s-356-tibra-collection-original-imahmppfz8ghm9hr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/q/s/s-356-tibra-collection-original-imahmppfz8ghm9hr.jpeg?q=100",
+        "local_path": "../../media/images/0892dc98dda1b3b1ba7a8ed7/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Tibra Collection Men Solid Straight Kurta",
+      "description": "Tibra Collection Men Solid Straight Kurta - Buy Tibra Collection Men Solid Straight Kurta For Only Rs. 1599.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/q/d/s-356-tibra-collection-original-imahmppfgpjgxrhg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/h/u/g/s-356-tibra-collection-original-imahmppfezmqmmwf.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/h/z/s-356-tibra-collection-original-imahmppfztam2hty.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/a/v/s-356-tibra-collection-original-imahmppfyzrgag7n.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/q/s/s-356-tibra-collection-original-imahmppfz8ghm9hr.jpeg?q=70"
+      ],
+      "sku": "KTAGBRWHT2YFKQAG",
+      "color": "Black",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 2329,
+        "ratingCount": 40507,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tibra Collection",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 317,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "shubham Tripathi",
+            "@type": "Person"
+          },
+          "datePublished": "2022-12-15",
+          "reviewBody": "At this price range... It's awesome ❣️🍷",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-06-21",
+          "reviewBody": "Good 👍 quality",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Mohit kafle Kafle",
+            "@type": "Person"
+          },
+          "datePublished": "2022-08-03",
+          "reviewBody": "This product is too good !!",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Straight Design",
+          "body": "Featuring a classic straight design, this kurta offers a comfortable and relaxed fit. The knee-lengt…"
+        },
+        {
+          "heading": "Easy to Maintain",
+          "body": "The seller understands the importance of convenience in your busy lifestyle. That's why this kurta i…"
+        },
+        {
+          "heading": "Elegant Mandarin Neck",
+          "body": "Enhance your style with the elegant mandarin neck of this kurta. The mandarin collar adds a touch of…"
+        },
+        {
+          "heading": "Premium Cotton Blend Fabric",
+          "body": "Crafted from a pure cotton blend fabric, this kurta offers both comfort and durability. The fabric i…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Solid",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Fit": "Regular Fit",
+        "Color": "Black"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "0892dc98dda1b3b1ba7a8ed7",
+      "path": "media/images/0892dc98dda1b3b1ba7a8ed7/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

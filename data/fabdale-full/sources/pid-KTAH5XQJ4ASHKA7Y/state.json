@@ -1,8 +1,8 @@
 {
   "source_key": "pid-KTAH5XQJ4ASHKA7Y",
-  "status": "failed",
-  "attempt_count": 3,
-  "error": "browserContext.newPage: Target page, context or browser has been closed",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
   "product_keys": [
     "4487"
   ],
@@ -10,6 +10,6 @@
   "image_quality": 100,
   "download_media": true,
   "extractor_version": 2,
-  "started_at": "2026-08-15T15:18:11.673Z",
-  "completed_at": "2026-08-15T15:18:11.675Z"
+  "started_at": "2026-08-15T19:58:39.886Z",
+  "completed_at": "2026-08-15T19:58:48.844Z"
 }

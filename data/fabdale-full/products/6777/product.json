@@ -1,0 +1,205 @@
+{
+  "product_id": "6777",
+  "sku": "Fab-Trousers-FUBR-001BL-S",
+  "product": {
+    "name": "FUBAR Cotton Blend Slim Trousers",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fubar-slim-fit-men-blue-trousers/p/itm4edd2471569c5?pid=TROGMUEZ5MPVYJWZ&marketplace=FLIPKART&lid=LSTTROGMUEZ5MPVYJWZEVCK4C&swatchAttr=size&pageUID=1778060182115"
+  },
+  "source_bundle": {
+    "key": "pid-TROGMUEZ5MPVYJWZ",
+    "path": "../../sources/pid-TROGMUEZ5MPVYJWZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-slim-fit-men-blue-trousers/p/itm4edd2471569c5?pid=TROGMUEZ5MPVYJWZ&marketplace=FLIPKART&lid=LSTTROGMUEZ5MPVYJWZEVCK4C&swatchAttr=size&pageUID=1778060182115",
+    "scraped_at": "2026-08-15T23:23:29.047Z",
+    "final_url": "https://www.flipkart.com/fubar-slim-fit-men-blue-trousers/p/itm4edd2471569c5?pid=TROGMUEZ5MPVYJWZ&marketplace=FLIPKART&lid=LSTTROGMUEZ5MPVYJWZEVCK4C&swatchAttr=size&pageUID=1778060182115"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T23:23:56.895Z"
+  },
+  "content": {
+    "title": "FUBAR Slim Fit Men Blue Trousers",
+    "short_description": "Color: Blue\nType: Casual Trousers\nFit: Slim Fit\nRise: Mid",
+    "description": "Classic and Versatile\nThese men's trousers feature a solid pattern, making them a classic and versatile addition to your w…\n\nComfortable Cotton Blend\nCrafted from a soft and breathable cotton blend fabric, these trousers offer all-day comfort. The fa…\n\nSleek and Slim Fit\nDesigned with a slim fit, these trousers provide a sleek and modern look. They are tailored to accen…\n\nConvenient Closure and Practical Details\nFeaturing a button closure and zipper fly, these trousers offer a secure and practical fastening. Th…\n\nIdeal for Casual Occasions\nPerfect for casual occasions, these trousers are versatile enough to be dressed up or down. Whether …",
+    "specifications": {
+      "Fit": "Slim Fit",
+      "Color": "Blue",
+      "Type": "Casual Trousers",
+      "Rise": "Mid"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "66d3c1d678779b534166876d",
+      "path": "media/images/66d3c1d678779b534166876d/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "1e092f4d37bfcabba6c60496",
+      "path": "media/videos/1e092f4d37bfcabba6c60496/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/a/k/i/32-kctr-chk-tr5555-nb-fubar-resized-original-imahye2cycsryrhu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/a/k/i/32-kctr-chk-tr5555-nb-fubar-resized-original-imahye2cycsryrhu.jpeg?q=100",
+        "local_path": "../../media/images/66d3c1d678779b534166876d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/k/3/w/32-kctr-chk-tr5555-nb-fubar-original-imahye2c55twcey3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/k/3/w/32-kctr-chk-tr5555-nb-fubar-original-imahye2c55twcey3.jpeg?q=100",
+        "local_path": "../../media/images/66d3c1d678779b534166876d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNfFDwmbz3SZKQk-rxj0qv1g/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Slim Fit Men Blue Trousers",
+      "description": "FUBAR Slim Fit Men Blue Trousers - Buy FUBAR Slim Fit Men Blue Trousers For Only Rs. 1648.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/a/k/i/32-kctr-chk-tr5555-nb-fubar-resized-original-imahye2cycsryrhu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/k/3/w/32-kctr-chk-tr5555-nb-fubar-original-imahye2c55twcey3.jpeg?q=70"
+      ],
+      "sku": "TROGMUEZ5MPVYJWZ",
+      "color": "Indigo",
+      "category": "trouser",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 381,
+        "ratingCount": 5932,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 383,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-08-07",
+          "reviewBody": "It has good quality material not the best but good for price. The colour also looks nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Aruna  Suri",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-09",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-24",
+          "reviewBody": "Super .",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic and Versatile",
+          "body": "These men's trousers feature a solid pattern, making them a classic and versatile addition to your w…"
+        },
+        {
+          "heading": "Comfortable Cotton Blend",
+          "body": "Crafted from a soft and breathable cotton blend fabric, these trousers offer all-day comfort. The fa…"
+        },
+        {
+          "heading": "Sleek and Slim Fit",
+          "body": "Designed with a slim fit, these trousers provide a sleek and modern look. They are tailored to accen…"
+        },
+        {
+          "heading": "Convenient Closure and Practical Details",
+          "body": "Featuring a button closure and zipper fly, these trousers offer a secure and practical fastening. Th…"
+        },
+        {
+          "heading": "Ideal for Casual Occasions",
+          "body": "Perfect for casual occasions, these trousers are versatile enough to be dressed up or down. Whether …"
+        }
+      ],
+      "product_highlights": {
+        "Fit": "Slim Fit",
+        "Color": "Blue",
+        "Type": "Casual Trousers",
+        "Rise": "Mid"
+      },
+      "specifications": {}
+    }
+  }
+}

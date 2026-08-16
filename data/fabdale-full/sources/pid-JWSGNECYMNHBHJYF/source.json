@@ -1,0 +1,208 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-blue-set/p/itmc079e1a26ccb2?pid=JWSGNECYMNHBHJYF&lid=LSTJWSGNECYMNHBHJYFRT2LT5&marketplace=FLIPKART",
+    "scraped_at": "2026-08-15T20:46:26.772Z",
+    "final_url": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-blue-set/p/itmc079e1a26ccb2?pid=JWSGNECYMNHBHJYF&lid=LSTJWSGNECYMNHBHJYFRT2LT5&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:46:44.170Z"
+  },
+  "content": {
+    "title": "brado jewellery Brass Gold-plated Blue Jewellery Set",
+    "short_description": "Color: Blue\nBase Material: Brass\nPlating: Gold-plated",
+    "description": "Elegant Earring and Necklace Set\nThis stunning earring and necklace set is a must-have for every woman and girl who wants to add a to…\n\nExquisite Brass Base with Gold Plating\nCrafted with care using high-quality brass and skillfully plated with gold, this jewellery set offer…\n\nEthnic Collection with Zircon Gemstones\nFeaturing a captivating ethnic design, this jewellery set is adorned with sparkling zircon gemstones…\n\nStylish Choker Necklace\nThe necklace in this set is a stylish choker, adding a trendy and fashionable element to your ensemb…\n\nBeautiful Leaf Design with Blue Accents\nThe earrings and necklace feature a beautiful leaf design with blue accents, adding a pop of color a…",
+    "specifications": {
+      "Base Material": "Brass",
+      "Color": "Blue",
+      "Plating": "Gold-plated"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/a/p/d/-original-imahhbvdts5b2dmh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/a/p/d/-original-imahhbvdts5b2dmh.jpeg?q=100",
+        "local_path": "../../media/images/bc2baf9cff7b34be26a6914c/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/e/c/q/-original-imahhbvdhvgzzg2p.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/e/c/q/-original-imahhbvdhvgzzg2p.jpeg?q=100",
+        "local_path": "../../media/images/bc2baf9cff7b34be26a6914c/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/p/q/m/-original-imahhbvdyugkwvyj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/p/q/m/-original-imahhbvdyugkwvyj.jpeg?q=100",
+        "local_path": "../../media/images/bc2baf9cff7b34be26a6914c/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/i/5/f/-original-imahhbvdycgnerrw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/i/5/f/-original-imahhbvdycgnerrw.jpeg?q=100",
+        "local_path": "../../media/images/bc2baf9cff7b34be26a6914c/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNYBE8IL26SFuFSIr8gNeUTA/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "brado jewellery Brass Gold-plated Blue Jewellery Set",
+      "description": "brado jewellery Brass Gold-plated Blue Jewellery Set - Buy brado jewellery Brass Gold-plated Blue Jewellery Set only for Rs. 399.0 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/a/p/d/-original-imahhbvdts5b2dmh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/e/c/q/-original-imahhbvdhvgzzg2p.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/p/q/m/-original-imahhbvdyugkwvyj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/i/5/f/-original-imahhbvdycgnerrw.jpeg?q=70"
+      ],
+      "sku": "JWSGNECYMNHBHJYF",
+      "color": "SILVER SKYBLUE",
+      "category": "jewellery_set",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 3061,
+        "ratingCount": 50446,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "brado jewellery",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 200,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Montu Pujari",
+            "@type": "Person"
+          },
+          "datePublished": "2023-02-17",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Neha Jaiswal",
+            "@type": "Person"
+          },
+          "datePublished": "2022-12-11",
+          "reviewBody": "Nice jwellery,happy with the product and brand bt the packaging is not so good.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Nandani Roy",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-11",
+          "reviewBody": "Beautiful",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant Earring and Necklace Set",
+          "body": "This stunning earring and necklace set is a must-have for every woman and girl who wants to add a to…"
+        },
+        {
+          "heading": "Exquisite Brass Base with Gold Plating",
+          "body": "Crafted with care using high-quality brass and skillfully plated with gold, this jewellery set offer…"
+        },
+        {
+          "heading": "Ethnic Collection with Zircon Gemstones",
+          "body": "Featuring a captivating ethnic design, this jewellery set is adorned with sparkling zircon gemstones…"
+        },
+        {
+          "heading": "Stylish Choker Necklace",
+          "body": "The necklace in this set is a stylish choker, adding a trendy and fashionable element to your ensemb…"
+        },
+        {
+          "heading": "Beautiful Leaf Design with Blue Accents",
+          "body": "The earrings and necklace feature a beautiful leaf design with blue accents, adding a pop of color a…"
+        }
+      ],
+      "product_highlights": {
+        "Base Material": "Brass",
+        "Color": "Blue",
+        "Plating": "Gold-plated"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "bc2baf9cff7b34be26a6914c",
+      "path": "media/images/bc2baf9cff7b34be26a6914c/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "306525c90a9b1e8a48c1af39",
+      "path": "media/videos/306525c90a9b1e8a48c1af39/media.json",
+      "reused": false
+    }
+  }
+}

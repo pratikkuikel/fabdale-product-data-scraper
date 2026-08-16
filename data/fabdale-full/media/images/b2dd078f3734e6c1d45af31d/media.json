@@ -1,0 +1,44 @@
+{
+  "key": "b2dd078f3734e6c1d45af31d",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T23:30:04.239Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/j/q/5/36-kctr-chk-tr5555-rust-fubar-original-imah9snszdgqumpt.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/j/q/5/36-kctr-chk-tr5555-rust-fubar-original-imah9snszdgqumpt.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/h/l/c/36-kctr-chk-tr5555-rust-fubar-original-imah9snswchnyfyx.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/h/l/c/36-kctr-chk-tr5555-rust-fubar-original-imah9snswchnyfyx.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/y/h/r/36-kctr-chk-tr5555-rust-fubar-original-imah9snswt5u9rzp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/y/h/r/36-kctr-chk-tr5555-rust-fubar-original-imah9snswt5u9rzp.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/b/k/j/36-kctr-chk-tr5555-rust-fubar-original-imah9snsgzb7nfwh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/b/k/j/36-kctr-chk-tr5555-rust-fubar-original-imah9snsgzb7nfwh.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/h/d/f/36-kctr-chk-tr5555-rust-fubar-original-imah9snsd2fc4ehm.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/h/d/f/36-kctr-chk-tr5555-rust-fubar-original-imah9snsd2fc4ehm.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

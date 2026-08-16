@@ -1,0 +1,204 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/supernova-inc-slim-men-black-jeans/p/itmc0670b1f3c1c0?pid=JEAG29EZRRNX9ZXY&marketplace=FLIPKART&lid=LSTJEAG29EZRRNX9ZXYZ892VW&swatchAttr=size&pageUID=1776668818272",
+    "scraped_at": "2026-08-15T23:18:39.574Z",
+    "final_url": "https://www.flipkart.com/supernova-inc-slim-men-black-jeans/p/itmc0670b1f3c1c0?pid=JEAG29EZRRNX9ZXY&marketplace=FLIPKART&lid=LSTJEAG29EZRRNX9ZXYZ892VW&swatchAttr=size&pageUID=1776668818272"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T23:19:00.242Z"
+  },
+  "content": {
+    "title": "Supernova Inc. Slim Men Black Jeans",
+    "short_description": "Color: Black\nFit: Slim\nFaded: Clean Look\nRise: Mid Rise\nDistressed: Clean Look",
+    "description": "About the Brand\nWe at Urbano create fashion trends that allow you to be who you are! As one of the most trusted apparel brands and crafted with the finest fabrics, ou…",
+    "specifications": {
+      "Faded": "Clean Look",
+      "Rise": "Mid Rise",
+      "Distressed": "Clean Look",
+      "Color": "Black",
+      "Fit": "Slim"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/7/k/k/34-suplpsjean-black-supernova-inc-resized-original-imahgqf4ng7xmxnh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/7/k/k/34-suplpsjean-black-supernova-inc-resized-original-imahgqf4ng7xmxnh.jpeg?q=100",
+        "local_path": "../../media/images/c5109cf9235cce35b77eb580/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/e/a/z/36-suplpsjean-black-supernova-inc-original-imahgqf4sq5djczz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/e/a/z/36-suplpsjean-black-supernova-inc-original-imahgqf4sq5djczz.jpeg?q=100",
+        "local_path": "../../media/images/c5109cf9235cce35b77eb580/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/d/c/n/34-suplpsjean-black-supernova-inc-original-imahgqf4xzsv2zce.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/d/c/n/34-suplpsjean-black-supernova-inc-original-imahgqf4xzsv2zce.jpeg?q=100",
+        "local_path": "../../media/images/c5109cf9235cce35b77eb580/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/t/j/y/40-suplpsjean-black-supernova-inc-original-imahgqf4htznjsbz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/t/j/y/40-suplpsjean-black-supernova-inc-original-imahgqf4htznjsbz.jpeg?q=100",
+        "local_path": "../../media/images/c5109cf9235cce35b77eb580/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/7/2/x/34-suplpsjean-black-supernova-inc-original-imahgqf4ntjk39ce.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/7/2/x/34-suplpsjean-black-supernova-inc-original-imahgqf4ntjk39ce.jpeg?q=100",
+        "local_path": "../../media/images/c5109cf9235cce35b77eb580/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNot9ffv-GRr2MVMV8EMWoOg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Supernova Inc. Slim Men Black Jeans",
+      "description": "Supernova Inc. Slim Men Black Jeans - Buy Supernova Inc. Slim Men Black Jeans For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/7/k/k/34-suplpsjean-black-supernova-inc-resized-original-imahgqf4ng7xmxnh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/e/a/z/36-suplpsjean-black-supernova-inc-original-imahgqf4sq5djczz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/d/c/n/34-suplpsjean-black-supernova-inc-original-imahgqf4xzsv2zce.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/t/j/y/40-suplpsjean-black-supernova-inc-original-imahgqf4htznjsbz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/7/2/x/34-suplpsjean-black-supernova-inc-original-imahgqf4ntjk39ce.jpeg?q=70"
+      ],
+      "sku": "JEAG29EZRRNX9ZXY",
+      "color": "Black",
+      "category": "jean",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 2367,
+        "ratingCount": 30475,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Supernova Inc.",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 584,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Pankaj Kumar  Gupta",
+            "@type": "Person"
+          },
+          "datePublished": "2020-11-12",
+          "reviewBody": "Good Product...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Mohammed Faisal",
+            "@type": "Person"
+          },
+          "datePublished": "2021-05-06",
+          "reviewBody": "Best jeans at reasonable price,, and fast delivery..good service",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-02-05",
+          "reviewBody": "Go for it ⭐️⭐️⭐️⭐️⭐️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "About the Brand",
+          "body": "We at Urbano create fashion trends that allow you to be who you are! As one of the most trusted apparel brands and crafted with the finest fabrics, ou…"
+        }
+      ],
+      "product_highlights": {
+        "Faded": "Clean Look",
+        "Rise": "Mid Rise",
+        "Distressed": "Clean Look",
+        "Color": "Black",
+        "Fit": "Slim"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "c5109cf9235cce35b77eb580",
+      "path": "media/images/c5109cf9235cce35b77eb580/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "7c5ec67a31fbf8f70491f454",
+      "path": "media/videos/7c5ec67a31fbf8f70491f454/media.json",
+      "reused": false
+    }
+  }
+}

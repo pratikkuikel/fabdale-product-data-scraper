@@ -1,0 +1,134 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/zartha-men-solid-straight-kurta/p/itmc87bfa3091cf1?pid=KTAGSUZEECHNDGPD&lid=LSTKTAGSUZEECHNDGPDWCJ9AB&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T20:20:05.130Z",
+    "final_url": "https://www.flipkart.com/zartha-men-solid-straight-kurta/p/itmc87bfa3091cf1?pid=KTAGSUZEECHNDGPD&lid=LSTKTAGSUZEECHNDGPDWCJ9AB&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:20:10.269Z"
+  },
+  "content": {
+    "title": "ZARTHA Solid Cotton Blend Straight Kurta for Men (Red)",
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/u/q/6/l-kurta1512-zartha-resized-original-imagsuzdgv3dhuge.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/u/q/6/l-kurta1512-zartha-resized-original-imagsuzdgv3dhuge.jpeg?q=100",
+        "local_path": "../../media/images/dbfa5562e8fd2fddde8d092f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/j/j/v/l-kurta1512-zartha-original-imagsuzdz3cbeypu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/j/j/v/l-kurta1512-zartha-original-imagsuzdz3cbeypu.jpeg?q=100",
+        "local_path": "../../media/images/dbfa5562e8fd2fddde8d092f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/g/r/g/l-kurta1512-zartha-original-imagsuzdazr9dknb.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/g/r/g/l-kurta1512-zartha-original-imagsuzdazr9dknb.jpeg?q=100",
+        "local_path": "../../media/images/dbfa5562e8fd2fddde8d092f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/t/j/y/l-kurta1512-zartha-original-imagsuzdrsgf2d8e.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/t/j/y/l-kurta1512-zartha-original-imagsuzdrsgf2d8e.jpeg?q=100",
+        "local_path": "../../media/images/dbfa5562e8fd2fddde8d092f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/s/z/p/l-kurta1512-zartha-original-imagsuzdspxsenzg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/kurta/s/z/p/l-kurta1512-zartha-original-imagsuzdspxsenzg.jpeg?q=100",
+        "local_path": "../../media/images/dbfa5562e8fd2fddde8d092f/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/g/f/m/xl-f-men-short-kurta-1-parrot-lirmo-original-imahd8e9tdgjbdnu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/g/f/m/xl-f-men-short-kurta-1-parrot-lirmo-original-imahd8e9tdgjbdnu.jpeg?q=100",
+        "local_path": "../../media/images/dbfa5562e8fd2fddde8d092f/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/p/i/u/xl-f-printed-short-kurta-01-lirmo-original-imahcqjvuzryafre.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/p/i/u/xl-f-printed-short-kurta-01-lirmo-original-imahcqjvuzryafre.jpeg?q=100",
+        "local_path": "../../media/images/dbfa5562e8fd2fddde8d092f/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/v/u/x/m-s-men-simple-grey-1-kavyangle-creation-resized-original-imahft8guhhhjfqw.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-kurta/v/u/x/m-s-men-simple-grey-1-kavyangle-creation-resized-original-imahft8guhhhjfqw.jpeg?q=100",
+        "local_path": "../../media/images/dbfa5562e8fd2fddde8d092f/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/q/0/l/xxl-kurta-short-red-folgen-original-imah8hhy2tzqq5su.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/q/0/l/xxl-kurta-short-red-folgen-original-imah8hhy2tzqq5su.jpeg?q=100",
+        "local_path": "../../media/images/dbfa5562e8fd2fddde8d092f/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/x/n/xl-f-men-short-kurta-fashion-marts-original-imahnbqy3ars6v3k.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/x/n/xl-f-men-short-kurta-fashion-marts-original-imahnbqy3ars6v3k.jpeg?q=100",
+        "local_path": "../../media/images/dbfa5562e8fd2fddde8d092f/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/m/d/f/xl-f-king-short-kurta-lirmo-original-imahe2b7y7hw98xv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/m/d/f/xl-f-king-short-kurta-lirmo-original-imahe2b7y7hw98xv.jpeg?q=100",
+        "local_path": "../../media/images/dbfa5562e8fd2fddde8d092f/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/u/y/l/s-kbtnbtn31-raremark-original-imahc6zxwtszdz6w.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/u/y/l/s-kbtnbtn31-raremark-original-imahc6zxwtszdz6w.jpeg?q=100",
+        "local_path": "../../media/images/dbfa5562e8fd2fddde8d092f/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/h/j/l-f-men-short-kurta-fashion-marts-original-imahd9g3bpcumghp.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/kurta/r/h/j/l-f-men-short-kurta-fashion-marts-original-imahd9g3bpcumghp.jpeg?q=100",
+        "local_path": "../../media/images/dbfa5562e8fd2fddde8d092f/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "dbfa5562e8fd2fddde8d092f",
+      "path": "media/images/dbfa5562e8fd2fddde8d092f/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

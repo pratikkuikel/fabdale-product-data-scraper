@@ -1,0 +1,38 @@
+{
+  "product_id": "6179",
+  "sku": "Fab-Dress-AARY-023PK-M",
+  "product": {
+    "name": "Aamira Zig-zag pattern  Maxi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm31e541fa503b5?pid=KDEGHY6DQCZAFYZT&marketplace=FLIPKART&lid=LSTKDEGHY6DQCZAFYZTFZRT3B&swatchAttr=size&pageUID=1776069976624"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGHY6DQCZAFYZT",
+    "path": "../../sources/pid-KDEGHY6DQCZAFYZT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm31e541fa503b5?pid=KDEGHY6DQCZAFYZT&marketplace=FLIPKART&lid=LSTKDEGHY6DQCZAFYZTFZRT3B&swatchAttr=size&pageUID=1776069976624",
+    "scraped_at": "2026-08-15T23:01:17.660Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm31e541fa503b5?pid=KDEGHY6DQCZAFYZT&marketplace=FLIPKART&lid=LSTKDEGHY6DQCZAFYZTFZRT3B&swatchAttr=size&pageUID=1776069976624\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm31e541fa503b5?pid=KDEGHY6DQCZAFYZT&marketplace=FLIPKART&lid=LSTKDEGHY6DQCZAFYZTFZRT3B&swatchAttr=size&pageUID=1776069976624\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T23:01:17.742Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

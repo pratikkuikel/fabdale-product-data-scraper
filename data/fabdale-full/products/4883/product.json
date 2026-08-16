@@ -1,0 +1,224 @@
+{
+  "product_id": "4883",
+  "sku": "Fab-Jewel-BRAD-002MR",
+  "product": {
+    "name": "Bradox Oxidised Silver Jewellery",
+    "parent_id": "7018",
+    "notes": "https://www.flipkart.com/brado-jewellery-brass-stone-crystal-stainless-steel-gold-plated-silver-white-maroon-set/p/itmd86f7542b5eed?pid=JWSGQQ2YK32HX9GA&lid=LSTJWSGQQ2YK32HX9GAV7VNP7&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-JWSGQQ2YK32HX9GA",
+    "path": "../../sources/pid-JWSGQQ2YK32HX9GA/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/brado-jewellery-brass-stone-crystal-stainless-steel-gold-plated-silver-white-maroon-set/p/itmd86f7542b5eed?pid=JWSGQQ2YK32HX9GA&lid=LSTJWSGQQ2YK32HX9GAV7VNP7&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T20:45:09.796Z",
+    "final_url": "https://www.flipkart.com/brado-jewellery-brass-stone-crystal-stainless-steel-gold-plated-silver-white-maroon-set/p/itmd86f7542b5eed?pid=JWSGQQ2YK32HX9GA&lid=LSTJWSGQQ2YK32HX9GAV7VNP7&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:45:25.467Z"
+  },
+  "content": {
+    "title": "brado jewellery Brass, Stone, Crystal, Stainless Steel Gold-plate...more",
+    "short_description": "Color: Silver, White, Maroon\nOccasion: Wedding & Engagement, Religious, Love\nBase Material: Brass, Stone, Crystal, Stainless Steel\nPlating: Gold-plated",
+    "description": "Ruby Features\nRuby ClarityMateRuby ShapeTilakNatural/Synthetic RubyNatural\n\nSilver Features\nSilver Weight8.7 gSilver ColorWhiteSilver Purity1K\n\nDiamond Features\nDiamond CutBrilliantDiamond ShapeRound,PearDiamond Color GradeDDiamond ClarityFLDiamond Weight0.020 carat\n\nMetal Features\nMetal Purity90-10 MARABLEMetal ColorSilverMetal Weight40 GM\n\nTrend\nOxidised Silver, American Diamond Jewellery, Silver - Bold Collection\n\nProduct Details\nSales PackagePack of 1 Oxidised AD Studded Silver Plated Necklace with 1 Pair of EarringsCollectionEthnicOccasionWedding & Engagement, Religious, LoveSemi-precious Stone ShapeRound,PearNatural/Synthetic Semi-precious StoneSyntheticNumber of Gemstones298FinishOxidised Silver Plated,White and Maroon Heavy Polished Stone, Used 2 type of stoneChain/Necklace Length4Weight40 gOther DimensionsNecklace Length - 20.32 cm, Necklace Width - 15.24 cm| Earring Length - 5.08 cm, Earring Width - 2.54 cm.Other FeaturesWedding wear, Party wear, Festive wear, Nickel free and Lead free as per International Standards that makes it very skin friendly. The plating is non-allergic and safe for all environments.Earring Clasp TypePush PlugsEarring LengthMed(Ear lobe size)\n\nSales Package\nPack of 1 Oxidised AD Studded Silver Plated Necklace with 1 Pair of Earrings\n\nFinish\nOxidised Silver Plated,White and Maroon Heavy Polished Stone, Used 2 type of stone\n\nOther Dimensions\nNecklace Length - 20.32 cm, Necklace Width - 15.24 cm| Earring Length - 5.08 cm, Earring Width - 2.54 cm.\n\nOther Features\nWedding wear, Party wear, Festive wear, Nickel free and Lead free as per International Standards that makes it very skin friendly. The plating is non-allergic and safe for all environments.",
+    "specifications": {
+      "Base Material": "Brass, Stone, Crystal, Stainless Steel",
+      "Color": "Silver, White, Maroon",
+      "Plating": "Gold-plated",
+      "Occasion": "Wedding & Engagement, Religious, Love"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "787718e8c3bc66a0a66776ea",
+      "path": "media/images/787718e8c3bc66a0a66776ea/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/d/p/a/na-d-1-0-brado-special-slr-maroon-brado-jewellery-original-imahfb3rwesqkr48.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/d/p/a/na-d-1-0-brado-special-slr-maroon-brado-jewellery-original-imahfb3rwesqkr48.jpeg?q=100",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/g/0/d/na-d-1-0o0o-brado-special-slr-maroon-brado-jewellery-original-imahfb3smw55vcjm.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/g/0/d/na-d-1-0o0o-brado-special-slr-maroon-brado-jewellery-original-imahfb3smw55vcjm.jpeg?q=100",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/a/9/t/na-d-1-0-brado-special-slr-maroon-brado-jewellery-original-imahfb3rdtzu8w4h.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/a/9/t/na-d-1-0-brado-special-slr-maroon-brado-jewellery-original-imahfb3rdtzu8w4h.jpeg?q=100",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/i/o/p/na-d-1-0-brado-special-slr-maroon-brado-jewellery-original-imahfb3rzxrzezph.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/i/o/p/na-d-1-0-brado-special-slr-maroon-brado-jewellery-original-imahfb3rzxrzezph.jpeg?q=100",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_21b290494a964c0484202217021fd329.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_21b290494a964c0484202217021fd329.jpg?q=80",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d8a51ea744244bc3b70eccdfde1bee13.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d8a51ea744244bc3b70eccdfde1bee13.jpg?q=80",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f32cc28344064fb7a41bef6061cb4a17.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_f32cc28344064fb7a41bef6061cb4a17.jpg?q=80",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_da5f4746ee4140edadde14da2a9611f5.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_da5f4746ee4140edadde14da2a9611f5.jpg?q=80",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_80843edb6f054b998e2107e583dfdaf3.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_80843edb6f054b998e2107e583dfdaf3.jpeg?q=80",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/5/y/7/-original-imahhbvdb8dxsvzt.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/5/y/7/-original-imahhbvdb8dxsvzt.jpeg?q=100",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/u/h/6/-original-imahhbvdyuzvpfd7.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/u/h/6/-original-imahhbvdyuzvpfd7.jpeg?q=100",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/l/w/a/vme-9-db-jr-ltr-s-brado-jewellery-original-imahprfhmgn9urtg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/l/w/a/vme-9-db-jr-ltr-s-brado-jewellery-original-imahprfhmgn9urtg.jpeg?q=100",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/w/m/r/-original-imahfvf4grmq4z5g.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/w/m/r/-original-imahfvf4grmq4z5g.jpeg?q=100",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/i/1/i/-original-imahfvf4fqzqtxvk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/i/1/i/-original-imahfvf4fqzqtxvk.jpeg?q=100",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/x/2/z/na-na-1-jmbw-563-jmbw-international-resized-original-imah4ccaksszhazr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/x/2/z/na-na-1-jmbw-563-jmbw-international-resized-original-imah4ccaksszhazr.jpeg?q=100",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/j/x/e/na-cultured-1-setm001-evershine-pearls-original-imahn3rqp7rkx5qq.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/j/x/e/na-cultured-1-setm001-evershine-pearls-original-imahn3rqp7rkx5qq.jpeg?q=100",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-jewellery-set/j/p/z/ss-22191-necklace-earring-maang-tikka-set-r-a-enterprises-original-imah4pswkqyzkzsu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-jewellery-set/j/p/z/ss-22191-necklace-earring-maang-tikka-set-r-a-enterprises-original-imah4pswkqyzkzsu.jpeg?q=100",
+        "local_path": "../../media/images/787718e8c3bc66a0a66776ea/assets/images/image-017.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Ruby Features",
+          "body": "Ruby ClarityMateRuby ShapeTilakNatural/Synthetic RubyNatural"
+        },
+        {
+          "heading": "Silver Features",
+          "body": "Silver Weight8.7 gSilver ColorWhiteSilver Purity1K"
+        },
+        {
+          "heading": "Diamond Features",
+          "body": "Diamond CutBrilliantDiamond ShapeRound,PearDiamond Color GradeDDiamond ClarityFLDiamond Weight0.020 carat"
+        },
+        {
+          "heading": "Metal Features",
+          "body": "Metal Purity90-10 MARABLEMetal ColorSilverMetal Weight40 GM"
+        },
+        {
+          "heading": "Trend",
+          "body": "Oxidised Silver, American Diamond Jewellery, Silver - Bold Collection"
+        },
+        {
+          "heading": "Product Details",
+          "body": "Sales PackagePack of 1 Oxidised AD Studded Silver Plated Necklace with 1 Pair of EarringsCollectionEthnicOccasionWedding & Engagement, Religious, LoveSemi-precious Stone ShapeRound,PearNatural/Synthetic Semi-precious StoneSyntheticNumber of Gemstones298FinishOxidised Silver Plated,White and Maroon Heavy Polished Stone, Used 2 type of stoneChain/Necklace Length4Weight40 gOther DimensionsNecklace Length - 20.32 cm, Necklace Width - 15.24 cm| Earring Length - 5.08 cm, Earring Width - 2.54 cm.Other FeaturesWedding wear, Party wear, Festive wear, Nickel free and Lead free as per International Standards that makes it very skin friendly. The plating is non-allergic and safe for all environments.Earring Clasp TypePush PlugsEarring LengthMed(Ear lobe size)"
+        },
+        {
+          "heading": "Sales Package",
+          "body": "Pack of 1 Oxidised AD Studded Silver Plated Necklace with 1 Pair of Earrings"
+        },
+        {
+          "heading": "Finish",
+          "body": "Oxidised Silver Plated,White and Maroon Heavy Polished Stone, Used 2 type of stone"
+        },
+        {
+          "heading": "Other Dimensions",
+          "body": "Necklace Length - 20.32 cm, Necklace Width - 15.24 cm| Earring Length - 5.08 cm, Earring Width - 2.54 cm."
+        },
+        {
+          "heading": "Other Features",
+          "body": "Wedding wear, Party wear, Festive wear, Nickel free and Lead free as per International Standards that makes it very skin friendly. The plating is non-allergic and safe for all environments."
+        }
+      ],
+      "product_highlights": {
+        "Base Material": "Brass, Stone, Crystal, Stainless Steel",
+        "Color": "Silver, White, Maroon",
+        "Plating": "Gold-plated",
+        "Occasion": "Wedding & Engagement, Religious, Love"
+      },
+      "specifications": {}
+    }
+  }
+}

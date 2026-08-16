@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-midi-knee-length-party-dress/p/itmb161bba1a23a7?pid=KDEGP7NHFZHZKRAH&marketplace=FLIPKART&lid=LSTKDEGP7NHFZHZKRAHZSSTIE&swatchAttr=size&pageUID=1775145419194",
+    "scraped_at": "2026-08-15T21:49:16.475Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-midi-knee-length-party-dress/p/itmb161bba1a23a7?pid=KDEGP7NHFZHZKRAH&marketplace=FLIPKART&lid=LSTKDEGP7NHFZHZKRAHZSSTIE&swatchAttr=size&pageUID=1775145419194"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:49:37.146Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Baby Girls Midi/Knee Length Party Dress",
+    "short_description": "Buy PURNKAMAAY TRENDZ Baby Girls Midi/Knee Length Party Dress for Rs.1199.0 online. PURNKAMAAY TRENDZ Baby Girls Midi/Knee Length Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "description": "Buy PURNKAMAAY TRENDZ Baby Girls Midi/Knee Length Party Dress for Rs.1199.0 online. PURNKAMAAY TRENDZ Baby Girls Midi/Knee Length Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/f/p/-original-imahjyzs6aj3x8hs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/f/p/-original-imahjyzs6aj3x8hs.jpeg?q=100",
+        "local_path": "../../media/images/222b72e995ab5831cc2944f5/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/l/q/-original-imahjxh5ype7pyxm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/l/q/-original-imahjxh5ype7pyxm.jpeg?q=100",
+        "local_path": "../../media/images/222b72e995ab5831cc2944f5/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/w/q/-original-imahjyzszp8grgvz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/w/q/-original-imahjyzszp8grgvz.jpeg?q=100",
+        "local_path": "../../media/images/222b72e995ab5831cc2944f5/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/a/j/-original-imahjxh5pg57fe2s.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/a/j/-original-imahjxh5pg57fe2s.jpeg?q=100",
+        "local_path": "../../media/images/222b72e995ab5831cc2944f5/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/o/6/u/-original-imahjzw7rhzyy3ct.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/o/6/u/-original-imahjzw7rhzyy3ct.jpeg?q=100",
+        "local_path": "../../media/images/222b72e995ab5831cc2944f5/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Baby Girls Midi/Knee Length Party Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Baby Girls Midi/Knee Length Party Dress for Rs.1199.0 online. PURNKAMAAY TRENDZ Baby Girls Midi/Knee Length Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/f/p/-original-imahjyzs6aj3x8hs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/l/q/-original-imahjxh5ype7pyxm.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/w/q/-original-imahjyzszp8grgvz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/c/a/j/-original-imahjxh5pg57fe2s.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/o/6/u/-original-imahjzw7rhzyy3ct.jpeg?q=70"
+      ],
+      "sku": "KDEGP7NHFZHZKRAH",
+      "color": "LAVANDARR",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 9,
+        "ratingCount": 183,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 259,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good quality product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-30",
+          "reviewBody": "Very nice product and I am very happy",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Don't waste your money",
+          "author": {
+            "name": "Dipalee Savla",
+            "@type": "Person"
+          },
+          "datePublished": "2025-12-06",
+          "reviewBody": "Cheap polyster",
+          "reviewRating": {
+            "ratingValue": 1,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Priya Pradeep ",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-07",
+          "reviewBody": "Very nice as shown in the picture...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "222b72e995ab5831cc2944f5",
+      "path": "media/images/222b72e995ab5831cc2944f5/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

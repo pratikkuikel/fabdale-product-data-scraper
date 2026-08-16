@@ -1,0 +1,38 @@
+{
+  "product_id": "6003",
+  "sku": "Fab-Dress-FSHD-017G-S",
+  "product": {
+    "name": "Fablina Stone-path pattern Midi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fashion-dream-girls-midi-knee-length-casual-dress/p/itmc1f83de5a8866?pid=KDEHCSVNHFPFVP4B&marketplace=FLIPKART&lid=LSTKDEHCSVNHFPFVP4BZOZQ3Q&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHCSVNHFPFVP4B",
+    "path": "../../sources/pid-KDEHCSVNHFPFVP4B/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fashion-dream-girls-midi-knee-length-casual-dress/p/itmc1f83de5a8866?pid=KDEHCSVNHFPFVP4B&marketplace=FLIPKART&lid=LSTKDEHCSVNHFPFVP4BZOZQ3Q&swatchAttr=size",
+    "scraped_at": "2026-08-15T22:39:55.188Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/fashion-dream-girls-midi-knee-length-casual-dress/p/itmc1f83de5a8866?pid=KDEHCSVNHFPFVP4B&marketplace=FLIPKART&lid=LSTKDEHCSVNHFPFVP4BZOZQ3Q&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/fashion-dream-girls-midi-knee-length-casual-dress/p/itmc1f83de5a8866?pid=KDEHCSVNHFPFVP4B&marketplace=FLIPKART&lid=LSTKDEHCSVNHFPFVP4BZOZQ3Q&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:39:55.300Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

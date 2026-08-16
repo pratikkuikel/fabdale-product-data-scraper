@@ -1,0 +1,20 @@
+{
+  "source_key": "pid-SHTHBFX6H8DGRXFM",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4941",
+    "4942",
+    "4943",
+    "4944",
+    "4945",
+    "5254"
+  ],
+  "source_path": "sources/pid-SHTHBFX6H8DGRXFM/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T20:55:06.716Z",
+  "completed_at": "2026-08-15T20:55:23.595Z"
+}

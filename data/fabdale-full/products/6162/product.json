@@ -1,0 +1,38 @@
+{
+  "product_id": "6162",
+  "sku": "Fab-Dress-AARY-020YL-XXL",
+  "product": {
+    "name": "Aamira Large-scale botanical print Maxi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itma7e551940bfb6?pid=KDEGHY6DDZPQGQTY&marketplace=FLIPKART&lid=LSTKDEGHY6DDZPQGQTYHT61Z7&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGHY6DDZPQGQTY",
+    "path": "../../sources/pid-KDEGHY6DDZPQGQTY/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itma7e551940bfb6?pid=KDEGHY6DDZPQGQTY&marketplace=FLIPKART&lid=LSTKDEGHY6DDZPQGQTYHT61Z7&swatchAttr=size",
+    "scraped_at": "2026-08-15T22:59:34.618Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itma7e551940bfb6?pid=KDEGHY6DDZPQGQTY&marketplace=FLIPKART&lid=LSTKDEGHY6DDZPQGQTYHT61Z7&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itma7e551940bfb6?pid=KDEGHY6DDZPQGQTY&marketplace=FLIPKART&lid=LSTKDEGHY6DDZPQGQTYHT61Z7&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:59:34.707Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

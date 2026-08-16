@@ -1,0 +1,224 @@
+{
+  "product_id": "5667",
+  "sku": "Fab-Dress-PURNB-022YL-M",
+  "product": {
+    "name": "Parnika Chhota Bheem Above Knee Party Dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-above-knee-party-dress/p/itm7cc3066a4fde5?pid=KDEGFDGSBKJGBKEM&marketplace=FLIPKART&lid=LSTKDEGFDGSBKJGBKEMDD5PJL&swatchAttr=size&pageUID=1775145590899"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGFDGSBKJGBKEM",
+    "path": "../../sources/pid-KDEGFDGSBKJGBKEM/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-above-knee-party-dress/p/itm7cc3066a4fde5?pid=KDEGFDGSBKJGBKEM&marketplace=FLIPKART&lid=LSTKDEGFDGSBKJGBKEMDD5PJL&swatchAttr=size&pageUID=1775145590899",
+    "scraped_at": "2026-08-15T21:50:49.180Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-above-knee-party-dress/p/itm7cc3066a4fde5?pid=KDEGFDGSBKJGBKEM&marketplace=FLIPKART&lid=LSTKDEGFDGSBKJGBKEMDD5PJL&swatchAttr=size&pageUID=1775145590899"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:51:11.614Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Baby Girls Above Knee Party Dress",
+    "short_description": "Fabric: Satin\nPattern: Solid\nType: Maxi Dress\nOccasion: Party\nPrimary Color: Multicolor",
+    "description": "Elegant and Stylish\nThis kid's dress features a solid pattern, adding a touch of elegance and sophistication to your lit…\n\nLuxurious Satin Fabric\nCrafted from high-quality satin fabric, this dress offers a luxurious feel and a smooth, glossy appe…\n\nComfortable and Versatile\nWith its maxi length and sleeveless design, this dress provides maximum comfort and freedom of movem…\n\nEasy to Care For\nThis dress is machine washable, making it easy to clean and maintain its pristine condition.\n\nAbove Knee Length\nThe dress has an above knee length, giving it a playful and trendy look that is suitable for any occ…\n\nStylish Sleeveless Design\nFeaturing a sleeveless design, this dress allows your child to move freely and comfortably throughou…",
+    "specifications": {
+      "Type": "Maxi Dress",
+      "Occasion": "Party",
+      "Pattern": "Solid",
+      "Primary Color": "Multicolor",
+      "Fabric": "Satin"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "8f4a50e4858d439e88b1798f",
+      "path": "media/images/8f4a50e4858d439e88b1798f/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/p/y/1-2-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-resized-original-imagfyyghdz7gurg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/p/y/1-2-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-resized-original-imagfyyghdz7gurg.jpeg?q=100",
+        "local_path": "../../media/images/8f4a50e4858d439e88b1798f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/7/r/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygjd9tfgpz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/7/r/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygjd9tfgpz.jpeg?q=100",
+        "local_path": "../../media/images/8f4a50e4858d439e88b1798f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/y/g/g/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygzwwfj3nn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/y/g/g/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygzwwfj3nn.jpeg?q=100",
+        "local_path": "../../media/images/8f4a50e4858d439e88b1798f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/x/3/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyyg5hfjfhbu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/x/3/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyyg5hfjfhbu.jpeg?q=100",
+        "local_path": "../../media/images/8f4a50e4858d439e88b1798f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/n/7/6-7-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagffcarkghvqzg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/n/7/6-7-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagffcarkghvqzg.jpeg?q=100",
+        "local_path": "../../media/images/8f4a50e4858d439e88b1798f/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Baby Girls Above Knee Party Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Baby Girls Above Knee Party Dress for Rs.1299.0 online. PURNKAMAAY TRENDZ Baby Girls Above Knee Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/p/y/1-2-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-resized-original-imagfyyghdz7gurg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/7/r/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygjd9tfgpz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/y/g/g/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyygzwwfj3nn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/x/3/2-3-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagfyyg5hfjfhbu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/n/7/6-7-years-this-elegant-dress-is-at-the-top-of-the-wish-list-for-original-imagffcarkghvqzg.jpeg?q=70"
+      ],
+      "sku": "KDEGFDGSBKJGBKEM",
+      "color": "YELLOW",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 35,
+        "ratingCount": 599,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 346,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-09-18",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Gurpreet Kaur",
+            "@type": "Person"
+          },
+          "datePublished": "2022-09-17",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-23",
+          "reviewBody": "She is just 2 years old and 5 years dress looking perfect. Awesome 😎 n pretty 😍 look.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant and Stylish",
+          "body": "This kid's dress features a solid pattern, adding a touch of elegance and sophistication to your lit…"
+        },
+        {
+          "heading": "Luxurious Satin Fabric",
+          "body": "Crafted from high-quality satin fabric, this dress offers a luxurious feel and a smooth, glossy appe…"
+        },
+        {
+          "heading": "Comfortable and Versatile",
+          "body": "With its maxi length and sleeveless design, this dress provides maximum comfort and freedom of movem…"
+        },
+        {
+          "heading": "Easy to Care For",
+          "body": "This dress is machine washable, making it easy to clean and maintain its pristine condition."
+        },
+        {
+          "heading": "Above Knee Length",
+          "body": "The dress has an above knee length, giving it a playful and trendy look that is suitable for any occ…"
+        },
+        {
+          "heading": "Stylish Sleeveless Design",
+          "body": "Featuring a sleeveless design, this dress allows your child to move freely and comfortably throughou…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Maxi Dress",
+        "Occasion": "Party",
+        "Pattern": "Solid",
+        "Primary Color": "Multicolor",
+        "Fabric": "Satin"
+      },
+      "specifications": {}
+    }
+  }
+}

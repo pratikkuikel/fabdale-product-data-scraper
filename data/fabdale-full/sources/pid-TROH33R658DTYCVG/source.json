@@ -1,0 +1,206 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/fubar-slim-fit-men-gold-trousers/p/itmdd34c9519381c?pid=TROH33R658DTYCVG&marketplace=FLIPKART&lid=LSTTROH33R658DTYCVGD2BQHG&swatchAttr=size&pageUID=1778060592144",
+    "scraped_at": "2026-08-15T23:27:00.650Z",
+    "final_url": "https://www.flipkart.com/fubar-slim-fit-men-gold-trousers/p/itmdd34c9519381c?pid=TROH33R658DTYCVG&marketplace=FLIPKART&lid=LSTTROH33R658DTYCVGD2BQHG&swatchAttr=size&pageUID=1778060592144"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T23:27:53.667Z"
+  },
+  "content": {
+    "title": "FUBAR Slim Fit Men Gold Trousers",
+    "short_description": "Color: Gold\nType: Casual Trousers\nFit: Slim Fit\nRise: Mid",
+    "description": "FUBAR Slim Fit Men Gold Trousers - Buy FUBAR Slim Fit Men Gold Trousers For Only Rs. 1648.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Fit": "Slim Fit",
+      "Color": "Gold",
+      "Type": "Casual Trousers",
+      "Rise": "Mid"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/e/9/p/28-kctr-chk-tr5555-rust-fubar-original-imah34sdzgkgzdgg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/e/9/p/28-kctr-chk-tr5555-rust-fubar-original-imah34sdzgkgzdgg.jpeg?q=100",
+        "local_path": "../../media/images/f91ffc1bc956097589c14c2a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/t/l/s/28-kctr-chk-tr5555-rust-fubar-original-imah34sdnzehwrna.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/t/l/s/28-kctr-chk-tr5555-rust-fubar-original-imah34sdnzehwrna.jpeg?q=100",
+        "local_path": "../../media/images/f91ffc1bc956097589c14c2a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/7/5/j/28-kctr-chk-tr5555-rust-fubar-original-imah34sdpghutwjz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/7/5/j/28-kctr-chk-tr5555-rust-fubar-original-imah34sdpghutwjz.jpeg?q=100",
+        "local_path": "../../media/images/f91ffc1bc956097589c14c2a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/2/b/h/28-kctr-chk-tr5555-rust-fubar-original-imah34sdrnngfzxe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/2/b/h/28-kctr-chk-tr5555-rust-fubar-original-imah34sdrnngfzxe.jpeg?q=100",
+        "local_path": "../../media/images/f91ffc1bc956097589c14c2a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/l/y/w/28-kctr-chk-tr5555-rust-fubar-original-imah34sdvgxmqmzf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/l/y/w/28-kctr-chk-tr5555-rust-fubar-original-imah34sdvgxmqmzf.jpeg?q=100",
+        "local_path": "../../media/images/f91ffc1bc956097589c14c2a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Slim Fit Men Gold Trousers",
+      "description": "FUBAR Slim Fit Men Gold Trousers - Buy FUBAR Slim Fit Men Gold Trousers For Only Rs. 1648.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/e/9/p/28-kctr-chk-tr5555-rust-fubar-original-imah34sdzgkgzdgg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/t/l/s/28-kctr-chk-tr5555-rust-fubar-original-imah34sdnzehwrna.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/7/5/j/28-kctr-chk-tr5555-rust-fubar-original-imah34sdpghutwjz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/2/b/h/28-kctr-chk-tr5555-rust-fubar-original-imah34sdrnngfzxe.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/l/y/w/28-kctr-chk-tr5555-rust-fubar-original-imah34sdvgxmqmzf.jpeg?q=70"
+      ],
+      "sku": "TROH33R658DTYCVG",
+      "color": "Rust",
+      "category": "trouser",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 381,
+        "ratingCount": 5932,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 376,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-08-07",
+          "reviewBody": "It has good quality material not the best but good for price. The colour also looks nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Aruna  Suri",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-09",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-24",
+          "reviewBody": "Super .",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Fit": "Slim Fit",
+        "Color": "Gold",
+        "Type": "Casual Trousers",
+        "Rise": "Mid"
+      },
+      "specifications": {
+        "Brand": "FUBAR",
+        "Fit": "Slim Fit",
+        "Occasion": "Casual",
+        "Color": "Gold",
+        "Pack of": "1",
+        "Type": "Casual Trousers",
+        "Suitable For": "Western Wear",
+        "Belt Loops": "Yes",
+        "Rise": "Mid",
+        "Pattern": "Solid",
+        "Fabric": "Cotton Blend",
+        "Closure": "Button",
+        "Fabric Care": "Gentle Machine Wash",
+        "Fly": "Zipper",
+        "Net Quantity": "1",
+        "Brand Color": "Rust",
+        "Fashion Core": "Core",
+        "Ideal For": "Men",
+        "Size": "28 Number"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "f91ffc1bc956097589c14c2a",
+      "path": "media/images/f91ffc1bc956097589c14c2a/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

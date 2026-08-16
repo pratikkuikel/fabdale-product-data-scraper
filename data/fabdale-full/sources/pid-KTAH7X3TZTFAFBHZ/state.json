@@ -1,0 +1,21 @@
+{
+  "source_key": "pid-KTAH7X3TZTFAFBHZ",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4552",
+    "4572",
+    "6356",
+    "6357",
+    "6358",
+    "6359",
+    "6360"
+  ],
+  "source_path": "sources/pid-KTAH7X3TZTFAFBHZ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T20:06:20.799Z",
+  "completed_at": "2026-08-15T20:06:29.281Z"
+}

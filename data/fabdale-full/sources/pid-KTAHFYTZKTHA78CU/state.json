@@ -1,0 +1,18 @@
+{
+  "source_key": "pid-KTAHFYTZKTHA78CU",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4567",
+    "4568",
+    "4570",
+    "4571"
+  ],
+  "source_path": "sources/pid-KTAHFYTZKTHA78CU/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T20:07:54.083Z",
+  "completed_at": "2026-08-15T20:08:00.929Z"
+}

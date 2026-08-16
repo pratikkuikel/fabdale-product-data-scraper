@@ -1,0 +1,19 @@
+{
+  "source_key": "pid-KTAGEYBXATDZN2DV",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4842",
+    "4843",
+    "4844",
+    "4845",
+    "4846"
+  ],
+  "source_path": "sources/pid-KTAGEYBXATDZN2DV/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T20:39:53.996Z",
+  "completed_at": "2026-08-15T20:40:03.778Z"
+}

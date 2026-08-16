@@ -1,0 +1,26 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-solid-men-polo-neck-blue-t-shirt/p/itm1908664b002c0?pid=TSHH9YK4AVNX9GPA&marketplace=FLIPKART&lid=LSTTSHH9YK4AVNX9GPABN8QJ0&swatchAttr=size&pageUID=1773076655189",
+    "scraped_at": "2026-08-15T21:01:02.521Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/vebnor-solid-men-polo-neck-blue-t-shirt/p/itm1908664b002c0?pid=TSHH9YK4AVNX9GPA&marketplace=FLIPKART&lid=LSTTSHH9YK4AVNX9GPABN8QJ0&swatchAttr=size&pageUID=1773076655189\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/vebnor-solid-men-polo-neck-blue-t-shirt/p/itm1908664b002c0?pid=TSHH9YK4AVNX9GPA&marketplace=FLIPKART&lid=LSTTSHH9YK4AVNX9GPABN8QJ0&swatchAttr=size&pageUID=1773076655189\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T21:01:02.576Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

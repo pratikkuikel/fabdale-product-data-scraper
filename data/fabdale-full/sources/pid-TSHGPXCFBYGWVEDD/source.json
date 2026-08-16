@@ -1,0 +1,26 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/kajaru-printed-men-round-neck-green-t-shirt/p/itm53c5e812b8ba1?pid=TSHGPXCFBYGWVEDD&marketplace=FLIPKART&lid=LSTTSHGPXCFBYGWVEDD0POH1R&swatchAttr=size&pageUID=1773046905210",
+    "scraped_at": "2026-08-15T21:00:29.836Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/kajaru-printed-men-round-neck-green-t-shirt/p/itm53c5e812b8ba1?pid=TSHGPXCFBYGWVEDD&marketplace=FLIPKART&lid=LSTTSHGPXCFBYGWVEDD0POH1R&swatchAttr=size&pageUID=1773046905210\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/kajaru-printed-men-round-neck-green-t-shirt/p/itm53c5e812b8ba1?pid=TSHGPXCFBYGWVEDD&marketplace=FLIPKART&lid=LSTTSHGPXCFBYGWVEDD0POH1R&swatchAttr=size&pageUID=1773046905210\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T21:00:29.943Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

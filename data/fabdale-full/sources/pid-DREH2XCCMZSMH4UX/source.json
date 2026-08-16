@@ -1,0 +1,201 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/sheetal-associates-women-maxi-multicolor-full-length-dress/p/itm5065a560e0dea?pid=DREH2XCCMZSMH4UX&marketplace=FLIPKART&lid=LSTDREH2XCCMZSMH4UXORUOKE&q=sheetal+associates&fm=search-autosuggest&swatchAttr=size&pageUID=1774622684647",
+    "scraped_at": "2026-08-15T21:13:33.070Z",
+    "final_url": "https://www.flipkart.com/sheetal-associates-women-maxi-multicolor-full-length-dress/p/itm5065a560e0dea?pid=DREH2XCCMZSMH4UX&marketplace=FLIPKART&lid=LSTDREH2XCCMZSMH4UXORUOKE&q=sheetal+associates&fm=search-autosuggest&swatchAttr=size&pageUID=1774622684647"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:14:00.383Z"
+  },
+  "content": {
+    "title": "Sheetal Associates Women Maxi Multicolor Full Length Dress",
+    "short_description": "Color: Multicolor\nPattern: Floral Print\nType: Maxi\nSleeve: Puff Sleeves\nLength: Maxi/Full Length\nSleeve Length: Half Sleeve",
+    "description": "Sheetal Associates Women Maxi Multicolor Full Length Dress - Buy Sheetal Associates Women Maxi Multicolor Full Length Dress For Only Rs. 1349.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Color": "Multicolor",
+      "Length": "Maxi/Full Length",
+      "Pattern": "Floral Print",
+      "Type": "Maxi",
+      "Sleeve Length": "Half Sleeve",
+      "Sleeve": "Puff Sleeves"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/z/d/k/s-dr11264-sheetal-associates-resized-original-imah2xccfsvqwam7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/z/d/k/s-dr11264-sheetal-associates-resized-original-imah2xccfsvqwam7.jpeg?q=100",
+        "local_path": "../../media/images/479a4be81e85bb5e597f01df/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/i/h/y/s-dr11264-sheetal-associates-original-imah2xcceh6nvbhz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/i/h/y/s-dr11264-sheetal-associates-original-imah2xcceh6nvbhz.jpeg?q=100",
+        "local_path": "../../media/images/479a4be81e85bb5e597f01df/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/y/y/n/s-dr11264-sheetal-associates-original-imah2xccuprp8qzt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/y/y/n/s-dr11264-sheetal-associates-original-imah2xccuprp8qzt.jpeg?q=100",
+        "local_path": "../../media/images/479a4be81e85bb5e597f01df/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/o/y/s-dr11264-sheetal-associates-original-imah2xccxysj39fn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/o/y/s-dr11264-sheetal-associates-original-imah2xccxysj39fn.jpeg?q=100",
+        "local_path": "../../media/images/479a4be81e85bb5e597f01df/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/c/x/y/s-dr11264-sheetal-associates-original-imah2xccwk9jku9n.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/c/x/y/s-dr11264-sheetal-associates-original-imah2xccwk9jku9n.jpeg?q=100",
+        "local_path": "../../media/images/479a4be81e85bb5e597f01df/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNWjv-yn0hRLeSiRQ9IYYFaQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Sheetal Associates Women Maxi Multicolor Full Length Dress",
+      "description": "Sheetal Associates Women Maxi Multicolor Full Length Dress - Buy Sheetal Associates Women Maxi Multicolor Full Length Dress For Only Rs. 1349.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/z/d/k/s-dr11264-sheetal-associates-resized-original-imah2xccfsvqwam7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/i/h/y/s-dr11264-sheetal-associates-original-imah2xcceh6nvbhz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/y/y/n/s-dr11264-sheetal-associates-original-imah2xccuprp8qzt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/o/y/s-dr11264-sheetal-associates-original-imah2xccxysj39fn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/c/x/y/s-dr11264-sheetal-associates-original-imah2xccwk9jku9n.jpeg?q=70"
+      ],
+      "sku": "DREH2XCCMZSMH4UX",
+      "color": "Pink",
+      "category": "dress",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 1195,
+        "ratingCount": 17942,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Sheetal Associates",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 416,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-05",
+          "reviewBody": "Very very very beautiful dress. Same as pic colour design and fitting also. Must try I will buy another colour",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-29",
+          "reviewBody": "I love this product 🩷",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-16",
+          "reviewBody": "Stitching quality is not that much good.otherwise this is a very good product at this price range",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Color": "Multicolor",
+        "Length": "Maxi/Full Length",
+        "Pattern": "Floral Print",
+        "Type": "Maxi",
+        "Sleeve Length": "Half Sleeve",
+        "Sleeve": "Puff Sleeves"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "479a4be81e85bb5e597f01df",
+      "path": "media/images/479a4be81e85bb5e597f01df/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "6ae180094988f3520d130c2c",
+      "path": "media/videos/6ae180094988f3520d130c2c/media.json",
+      "reused": false
+    }
+  }
+}

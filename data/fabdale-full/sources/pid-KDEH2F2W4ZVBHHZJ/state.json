@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-KDEH2F2W4ZVBHHZJ",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/purnkamaay-trendz-indi-girls-midi-knee-length-casual-dress/p/itmcae7178509389?pid=KDEH2F2W4ZVBHHZJ&marketplace=FLIPKART&lid=LSTKDEH2F2W4ZVBHHZJW4BHCL&swatchAttr=size&pageUID=1775064129289\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/purnkamaay-trendz-indi-girls-midi-knee-length-casual-dress/p/itmcae7178509389?pid=KDEH2F2W4ZVBHHZJ&marketplace=FLIPKART&lid=LSTKDEH2F2W4ZVBHHZJW4BHCL&swatchAttr=size&pageUID=1775064129289\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "4992",
+    "5047"
+  ],
+  "source_path": "sources/pid-KDEH2F2W4ZVBHHZJ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T21:00:54.533Z",
+  "completed_at": "2026-08-15T21:00:54.778Z"
+}

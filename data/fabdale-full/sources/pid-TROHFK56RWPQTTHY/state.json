@@ -1,0 +1,14 @@
+{
+  "source_key": "pid-TROHFK56RWPQTTHY",
+  "status": "processing",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "6847"
+  ],
+  "source_path": "sources/pid-TROHFK56RWPQTTHY/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-16T00:01:36.994Z"
+}

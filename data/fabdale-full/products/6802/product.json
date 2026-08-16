@@ -1,0 +1,172 @@
+{
+  "product_id": "6802",
+  "sku": "Fab-Trousers-FUBR-002BL-S",
+  "product": {
+    "name": "FUBAR Classic Checkered Cotton Blend Slim Fit Trousers",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fubar-slim-fit-men-blue-trousers/p/itm9537e3fdfe385?pid=TROFG7YPPHYYZTCS&marketplace=FLIPKART&lid=LSTTROFG7YPPHYYZTCSKILMEI&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-TROFG7YPPHYYZTCS",
+    "path": "../../sources/pid-TROFG7YPPHYYZTCS/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-slim-fit-men-blue-trousers/p/itm9537e3fdfe385?pid=TROFG7YPPHYYZTCS&marketplace=FLIPKART&lid=LSTTROFG7YPPHYYZTCSKILMEI&swatchAttr=size",
+    "scraped_at": "2026-08-15T23:32:43.408Z",
+    "final_url": "https://www.flipkart.com/fubar-slim-fit-men-blue-trousers/p/itm9537e3fdfe385?pid=TROFG7YPPHYYZTCS&marketplace=FLIPKART&lid=LSTTROFG7YPPHYYZTCSKILMEI&swatchAttr=size"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T23:33:04.035Z"
+  },
+  "content": {
+    "title": "FUBAR Slim Fit Men Blue Trousers",
+    "short_description": "Color: Blue\nType: Casual Trousers\nFit: Slim Fit",
+    "description": "Styling Tips by Mayank, Fashion Influencer\nFashion a classic look for any occasion by donning these refined trousers. Team it with a polo shirt…",
+    "specifications": {
+      "Fit": "Slim Fit",
+      "Color": "Blue",
+      "Type": "Casual Trousers"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "59c069a2f9c1993f96457aad",
+      "path": "media/images/59c069a2f9c1993f96457aad/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/v/x/r/32-variant-5d-fubar-resized-original-imahye2awwwdsxzv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/v/x/r/32-variant-5d-fubar-resized-original-imahye2awwwdsxzv.jpeg?q=100",
+        "local_path": "../../media/images/59c069a2f9c1993f96457aad/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/h/6/b/36-variant-5d-fubar-original-imahye2aresgfjfx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/h/6/b/36-variant-5d-fubar-original-imahye2aresgfjfx.jpeg?q=100",
+        "local_path": "../../media/images/59c069a2f9c1993f96457aad/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/u/y/1/36-variant-5d-fubar-original-imahye2a6hvffqzm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/u/y/1/36-variant-5d-fubar-original-imahye2a6hvffqzm.jpeg?q=100",
+        "local_path": "../../media/images/59c069a2f9c1993f96457aad/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Slim Fit Men Blue Trousers",
+      "description": "FUBAR Slim Fit Men Blue Trousers - Buy FUBAR Slim Fit Men Blue Trousers For Only Rs. 1758.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/v/x/r/32-variant-5d-fubar-resized-original-imahye2awwwdsxzv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/h/6/b/36-variant-5d-fubar-original-imahye2aresgfjfx.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/u/y/1/36-variant-5d-fubar-original-imahye2a6hvffqzm.jpeg?q=70"
+      ],
+      "sku": "TROFG7YPPHYYZTCS",
+      "color": "Blue",
+      "category": "trouser",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 188,
+        "ratingCount": 2925,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 374,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2020-07-09",
+          "reviewBody": "Good quality and a little bit strechable.Value of money.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Rajesh  Yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2020-09-05",
+          "reviewBody": "Ok",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Chandan  Murmu",
+            "@type": "Person"
+          },
+          "datePublished": "2021-10-25",
+          "reviewBody": "Awasome",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Styling Tips by Mayank, Fashion Influencer",
+          "body": "Fashion a classic look for any occasion by donning these refined trousers. Team it with a polo shirt…"
+        }
+      ],
+      "product_highlights": {
+        "Fit": "Slim Fit",
+        "Color": "Blue",
+        "Type": "Casual Trousers"
+      },
+      "specifications": {}
+    }
+  }
+}

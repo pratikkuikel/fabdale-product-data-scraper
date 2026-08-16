@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-KDEHYYFPH86ZQHHX",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/miss-chief-girls-maxi-full-length-casual-dress/p/itm4b67dac474df6?pid=KDEHYYFPH86ZQHHX&marketplace=FLIPKART&lid=LSTKDEHYYFPH86ZQHHXAFBN4D&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/miss-chief-girls-maxi-full-length-casual-dress/p/itm4b67dac474df6?pid=KDEHYYFPH86ZQHHX&marketplace=FLIPKART&lid=LSTKDEHYYFPH86ZQHHXAFBN4D&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "5767",
+    "5777"
+  ],
+  "source_path": "sources/pid-KDEHYYFPH86ZQHHX/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T22:17:40.415Z",
+  "completed_at": "2026-08-15T22:17:40.889Z"
+}

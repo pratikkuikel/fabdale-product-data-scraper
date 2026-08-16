@@ -1,0 +1,26 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm2362e537419d4?pid=KDEHYGFZAQKHGGYC&marketplace=FLIPKART&lid=LSTKDEHYGFZAQKHGGYCIIKXQZ&swatchAttr=size&pageUID=1776011148807",
+    "scraped_at": "2026-08-15T22:44:41.103Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm2362e537419d4?pid=KDEHYGFZAQKHGGYC&marketplace=FLIPKART&lid=LSTKDEHYGFZAQKHGGYCIIKXQZ&swatchAttr=size&pageUID=1776011148807\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm2362e537419d4?pid=KDEHYGFZAQKHGGYC&marketplace=FLIPKART&lid=LSTKDEHYGFZAQKHGGYCIIKXQZ&swatchAttr=size&pageUID=1776011148807\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:44:41.171Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

@@ -1,8 +1,8 @@
 {
   "source_key": "pid-KTAGMY3NQNUP9YZW",
-  "status": "failed",
-  "attempt_count": 3,
-  "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/tibra-collection-men-embroidered-straight-kurta/p/itmdbc5b890a7e20?pid=KTAGMY3NQNUP9YZW&marketplace=FLIPKART&lid=LSTKTAGMY3NQNUP9YZWBZBWZR&swatchAttr=size&pageUID=1774107406050\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "status": "success",
+  "attempt_count": 4,
+  "error": null,
   "product_keys": [
     "4346"
   ],
@@ -10,6 +10,6 @@
   "image_quality": 100,
   "download_media": true,
   "extractor_version": 2,
-  "started_at": "2026-08-15T13:59:34.125Z",
-  "completed_at": "2026-08-15T14:00:41.337Z"
+  "started_at": "2026-08-15T19:58:31.286Z",
+  "completed_at": "2026-08-15T19:58:38.454Z"
 }

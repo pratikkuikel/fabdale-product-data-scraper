@@ -1,0 +1,210 @@
+{
+  "product_id": "4531",
+  "sku": "Fab-Kurta-VBNR-002PK-XXL",
+  "product": {
+    "name": "Verve Roll-up style long sleeves  Kurta",
+    "parent_id": "5282",
+    "notes": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itm41e5b7c6008fa?pid=KTAHHGGGDWNY66EZ&marketplace=FLIPKART&lid=LSTKTAHHGGGDWNY66EZDUWCFN&swatchAttr=size&pageUID=1774261883370"
+  },
+  "source_bundle": {
+    "key": "pid-KTAHHGGGDWNY66EZ",
+    "path": "../../sources/pid-KTAHHGGGDWNY66EZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itm41e5b7c6008fa?pid=KTAHHGGGDWNY66EZ&marketplace=FLIPKART&lid=LSTKTAHHGGGDWNY66EZDUWCFN&swatchAttr=size&pageUID=1774261883370",
+    "scraped_at": "2026-08-15T20:03:46.283Z",
+    "final_url": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itm41e5b7c6008fa?pid=KTAHHGGGDWNY66EZ&marketplace=FLIPKART&lid=LSTKTAHHGGGDWNY66EZDUWCFN&swatchAttr=size&pageUID=1774261883370"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:03:51.298Z"
+  },
+  "content": {
+    "title": "VeBNoR Men Self Design Straight Kurta",
+    "short_description": "Color: Pink\nFabric: Art Silk\nPattern: Self Design\nType: Straight\nFit: Regular",
+    "description": "VeBNoR Men Self Design Straight Kurta - Buy VeBNoR Men Self Design Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Self Design",
+      "Type": "Straight",
+      "Fabric": "Art Silk",
+      "Fit": "Regular",
+      "Color": "Pink"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "7575fefe3f61e362992c501f",
+      "path": "media/images/7575fefe3f61e362992c501f/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "7386c9876c749a3484e5f7f1",
+      "path": "media/videos/7386c9876c749a3484e5f7f1/media.json",
+      "reused": true
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/z/k/m-kt3-vebnor-original-imahhgggednh4fdg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/z/k/m-kt3-vebnor-original-imahhgggednh4fdg.jpeg?q=100",
+        "local_path": "../../media/images/7575fefe3f61e362992c501f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/7/h/o/s-kt3-vebnor-original-imahhgggf62md2hr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/7/h/o/s-kt3-vebnor-original-imahhgggf62md2hr.jpeg?q=100",
+        "local_path": "../../media/images/7575fefe3f61e362992c501f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/p/n/s-kt3-vebnor-original-imahhgggcmtqyqah.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/p/n/s-kt3-vebnor-original-imahhgggcmtqyqah.jpeg?q=100",
+        "local_path": "../../media/images/7575fefe3f61e362992c501f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/p/r/l/m-kt3-vebnor-original-imahhgggwggwuwn7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/p/r/l/m-kt3-vebnor-original-imahhgggwggwuwn7.jpeg?q=100",
+        "local_path": "../../media/images/7575fefe3f61e362992c501f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/d/x/s-kt3-vebnor-original-imahhggguz3ufrxf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/d/x/s-kt3-vebnor-original-imahhggguz3ufrxf.jpeg?q=100",
+        "local_path": "../../media/images/7575fefe3f61e362992c501f/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNRfPG0kTCQDaSYs2GV4Ml1A/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Men Self Design Straight Kurta",
+      "description": "VeBNoR Men Self Design Straight Kurta - Buy VeBNoR Men Self Design Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/g/z/k/m-kt3-vebnor-original-imahhgggednh4fdg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/7/h/o/s-kt3-vebnor-original-imahhgggf62md2hr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/x/p/n/s-kt3-vebnor-original-imahhgggcmtqyqah.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/p/r/l/m-kt3-vebnor-original-imahhgggwggwuwn7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/d/x/s-kt3-vebnor-original-imahhggguz3ufrxf.jpeg?q=70"
+      ],
+      "sku": "KTAHHGGGDWNY66EZ",
+      "color": "Dark Pink",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 2324,
+        "ratingCount": 39127,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 252,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Saurabh Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-07",
+          "reviewBody": "Good quality l",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Highly recommended",
+          "author": {
+            "name": "Sumit Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-24",
+          "reviewBody": "Very good I m very happy",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Mind-blowing purchase",
+          "author": {
+            "name": "Hirman Manikpuri",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-22",
+          "reviewBody": "Best Item In Good Price...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Self Design",
+        "Type": "Straight",
+        "Fabric": "Art Silk",
+        "Fit": "Regular",
+        "Color": "Pink"
+      },
+      "specifications": {}
+    }
+  }
+}

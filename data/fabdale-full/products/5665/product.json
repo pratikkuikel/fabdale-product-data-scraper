@@ -1,0 +1,147 @@
+{
+  "product_id": "5665",
+  "sku": "Fab-Dress-PURNB-021PL-XXL",
+  "product": {
+    "name": "Parnika Unicorn-themed tutu Midi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fashion-reloaders-girls-midi-knee-length-casual-dress/p/itme4c4e2ab5d180?pid=KDEHCF2SVRZZB3CT&marketplace=FLIPKART&lid=LSTKDEHCF2SVRZZB3CTMA5TFE&swatchAttr=size&pageUID=1775145471758"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHCF2SVRZZB3CT",
+    "path": "../../sources/pid-KDEHCF2SVRZZB3CT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fashion-reloaders-girls-midi-knee-length-casual-dress/p/itme4c4e2ab5d180?pid=KDEHCF2SVRZZB3CT&marketplace=FLIPKART&lid=LSTKDEHCF2SVRZZB3CTMA5TFE&swatchAttr=size&pageUID=1775145471758",
+    "scraped_at": "2026-08-15T21:50:22.650Z",
+    "final_url": "https://www.flipkart.com/fashion-reloaders-girls-midi-knee-length-casual-dress/p/itme4c4e2ab5d180?pid=KDEHCF2SVRZZB3CT&marketplace=FLIPKART&lid=LSTKDEHCF2SVRZZB3CTMA5TFE&swatchAttr=size&pageUID=1775145471758"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:50:47.867Z"
+  },
+  "content": {
+    "title": "FASHION RELOADERS Girls Midi/Knee Length Casual Dress",
+    "short_description": "Fabric: Lycra Blend, Net\nType: Fit and Flare Dress\nOccasion: Casual\nPrimary Color: Multicolor",
+    "description": "Style Code\nARVI FROCK PINK polka doted kids frock baby girl party wear",
+    "specifications": {
+      "Type": "Fit and Flare Dress",
+      "Occasion": "Casual",
+      "Primary Color": "Multicolor",
+      "Fabric": "Lycra Blend, Net"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "26455ec9e85d9ae6b1793b89",
+      "path": "media/images/26455ec9e85d9ae6b1793b89/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/g/x/2-3-years-arvi-frock-pink-polka-doted-kids-frock-baby-girl-party-original-imahcffu46stsgnb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/g/x/2-3-years-arvi-frock-pink-polka-doted-kids-frock-baby-girl-party-original-imahcffu46stsgnb.jpeg?q=100",
+        "local_path": "../../media/images/26455ec9e85d9ae6b1793b89/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/v/x/2-3-years-arvi-frock-pink-polka-doted-kids-frock-baby-girl-party-original-imahcffuhpunxbsy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/v/x/2-3-years-arvi-frock-pink-polka-doted-kids-frock-baby-girl-party-original-imahcffuhpunxbsy.jpeg?q=100",
+        "local_path": "../../media/images/26455ec9e85d9ae6b1793b89/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/v/p/2-3-years-arvi-frock-pink-polka-doted-kids-frock-baby-girl-party-original-imahcffuv4rcs7gy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/v/p/2-3-years-arvi-frock-pink-polka-doted-kids-frock-baby-girl-party-original-imahcffuv4rcs7gy.jpeg?q=100",
+        "local_path": "../../media/images/26455ec9e85d9ae6b1793b89/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/o/s/v/2-3-years-arvi-frock-pink-polka-doted-kids-frock-baby-girl-party-original-imahcffu3sy3td4d.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/o/s/v/2-3-years-arvi-frock-pink-polka-doted-kids-frock-baby-girl-party-original-imahcffu3sy3td4d.jpeg?q=100",
+        "local_path": "../../media/images/26455ec9e85d9ae6b1793b89/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FASHION RELOADERS Girls Midi/Knee Length Casual Dress",
+      "description": "Buy FASHION RELOADERS Girls Midi/Knee Length Casual Dress for Rs.2199.0 online. FASHION RELOADERS Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/g/x/2-3-years-arvi-frock-pink-polka-doted-kids-frock-baby-girl-party-original-imahcffu46stsgnb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/v/x/2-3-years-arvi-frock-pink-polka-doted-kids-frock-baby-girl-party-original-imahcffuhpunxbsy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/h/v/p/2-3-years-arvi-frock-pink-polka-doted-kids-frock-baby-girl-party-original-imahcffuv4rcs7gy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/o/s/v/2-3-years-arvi-frock-pink-polka-doted-kids-frock-baby-girl-party-original-imahcffu3sy3td4d.jpeg?q=70"
+      ],
+      "sku": "KDEHCF2SVRZZB3CT",
+      "color": "LAVANDAR UNICON",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "ratingCount": 4,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FASHION RELOADERS",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 389,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Style Code",
+          "body": "ARVI FROCK PINK polka doted kids frock baby girl party wear"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Fit and Flare Dress",
+        "Occasion": "Casual",
+        "Primary Color": "Multicolor",
+        "Fabric": "Lycra Blend, Net"
+      },
+      "specifications": {}
+    }
+  }
+}

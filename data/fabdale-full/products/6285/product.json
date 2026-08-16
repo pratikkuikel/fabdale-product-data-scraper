@@ -1,0 +1,38 @@
+{
+  "product_id": "6285",
+  "sku": "Fab-Dress-ZENT-006RD-XL",
+  "product": {
+    "name": "Zestelle Anarkali Gown",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itme64045eae6a35?pid=KDEGHJYZHTUYWZ9G&marketplace=FLIPKART&lid=LSTKDEGHJYZHTUYWZ9GSTHSRO&swatchAttr=size&pageUID=1776075857639"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGHJYZHTUYWZ9G",
+    "path": "../../sources/pid-KDEGHJYZHTUYWZ9G/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itme64045eae6a35?pid=KDEGHJYZHTUYWZ9G&marketplace=FLIPKART&lid=LSTKDEGHJYZHTUYWZ9GSTHSRO&swatchAttr=size&pageUID=1776075857639",
+    "scraped_at": "2026-08-15T23:10:06.603Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itme64045eae6a35?pid=KDEGHJYZHTUYWZ9G&marketplace=FLIPKART&lid=LSTKDEGHJYZHTUYWZ9GSTHSRO&swatchAttr=size&pageUID=1776075857639\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itme64045eae6a35?pid=KDEGHJYZHTUYWZ9G&marketplace=FLIPKART&lid=LSTKDEGHJYZHTUYWZ9GSTHSRO&swatchAttr=size&pageUID=1776075857639\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T23:10:06.695Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

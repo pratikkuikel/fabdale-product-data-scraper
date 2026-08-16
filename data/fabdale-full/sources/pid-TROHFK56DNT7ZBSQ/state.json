@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-TROHFK56DNT7ZBSQ",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "6843"
+  ],
+  "source_path": "sources/pid-TROHFK56DNT7ZBSQ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-16T00:00:03.760Z",
+  "completed_at": "2026-08-16T00:00:22.764Z"
+}

@@ -1,0 +1,26 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/houseofcommon-girls-calf-length-festive-wedding-dress/p/itm3a4593577555e?pid=KDEHHF8SQ4Z7C5ZQ&marketplace=FLIPKART&lid=LSTKDEHHF8SQ4Z7C5ZQC4FKZB&swatchAttr=size&pageUID=1777882516046",
+    "scraped_at": "2026-08-15T23:05:54.910Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/houseofcommon-girls-calf-length-festive-wedding-dress/p/itm3a4593577555e?pid=KDEHHF8SQ4Z7C5ZQ&marketplace=FLIPKART&lid=LSTKDEHHF8SQ4Z7C5ZQC4FKZB&swatchAttr=size&pageUID=1777882516046\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/houseofcommon-girls-calf-length-festive-wedding-dress/p/itm3a4593577555e?pid=KDEHHF8SQ4Z7C5ZQ&marketplace=FLIPKART&lid=LSTKDEHHF8SQ4Z7C5ZQC4FKZB&swatchAttr=size&pageUID=1777882516046\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T23:05:54.952Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

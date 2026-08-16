@@ -1,0 +1,174 @@
+{
+  "product_id": "6826",
+  "sku": "Fab-Trousers-FUBR-002GR-XXL",
+  "product": {
+    "name": "FUBAR Classic Checkered Cotton Blend Slim Fit Trousers",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fubar-slim-fit-men-grey-trousers/p/itmce58b42a91c91?pid=TROFV5XKZRQUP83B&marketplace=FLIPKART&lid=LSTTROFV5XKZRQUP83BEIDIEY&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-TROFV5XKZRQUP83B",
+    "path": "../../sources/pid-TROFV5XKZRQUP83B/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-slim-fit-men-grey-trousers/p/itmce58b42a91c91?pid=TROFV5XKZRQUP83B&marketplace=FLIPKART&lid=LSTTROFV5XKZRQUP83BEIDIEY&swatchAttr=size",
+    "scraped_at": "2026-08-15T23:40:27.136Z",
+    "final_url": "https://www.flipkart.com/fubar-slim-fit-men-grey-trousers/p/itmce58b42a91c91?pid=TROFV5XKZRQUP83B&marketplace=FLIPKART&lid=LSTTROFV5XKZRQUP83BEIDIEY&swatchAttr=size"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T23:40:47.744Z"
+  },
+  "content": {
+    "title": "FUBAR Slim Fit Men Grey Trousers",
+    "short_description": "Color: Grey\nType: Casual Trousers\nFit: Slim Fit\nRise: Mid",
+    "description": "Retro Checkered Trousers\nBoard the Retro train with this retro checkered trouser. The classic pattern guarantees style while …",
+    "specifications": {
+      "Fit": "Slim Fit",
+      "Color": "Grey",
+      "Type": "Casual Trousers",
+      "Rise": "Mid"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "352906b6cf22dca383c8538a",
+      "path": "media/images/352906b6cf22dca383c8538a/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/w/v/s/28-sktr-55aa-grey-fubar-original-imah2m3nnjhgbacr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/w/v/s/28-sktr-55aa-grey-fubar-original-imah2m3nnjhgbacr.jpeg?q=100",
+        "local_path": "../../media/images/352906b6cf22dca383c8538a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/y/x/b/28-sktr-55aa-grey-fubar-original-imah2m3nkcawfxfz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/y/x/b/28-sktr-55aa-grey-fubar-original-imah2m3nkcawfxfz.jpeg?q=100",
+        "local_path": "../../media/images/352906b6cf22dca383c8538a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/n/w/y/28-sktr-55aa-grey-fubar-original-imah2m3nzeh2hq3j.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/n/w/y/28-sktr-55aa-grey-fubar-original-imah2m3nzeh2hq3j.jpeg?q=100",
+        "local_path": "../../media/images/352906b6cf22dca383c8538a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Slim Fit Men Grey Trousers",
+      "description": "FUBAR Slim Fit Men Grey Trousers - Buy FUBAR Slim Fit Men Grey Trousers For Only Rs. 1648.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/w/v/s/28-sktr-55aa-grey-fubar-original-imah2m3nnjhgbacr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/y/x/b/28-sktr-55aa-grey-fubar-original-imah2m3nkcawfxfz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/n/w/y/28-sktr-55aa-grey-fubar-original-imah2m3nzeh2hq3j.jpeg?q=70"
+      ],
+      "sku": "TROFV5XKZRQUP83B",
+      "color": "Grey",
+      "category": "trouser",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 188,
+        "ratingCount": 2925,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 374,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2020-07-09",
+          "reviewBody": "Good quality and a little bit strechable.Value of money.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Rajesh  Yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2020-09-05",
+          "reviewBody": "Ok",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Chandan  Murmu",
+            "@type": "Person"
+          },
+          "datePublished": "2021-10-25",
+          "reviewBody": "Awasome",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Retro Checkered Trousers",
+          "body": "Board the Retro train with this retro checkered trouser. The classic pattern guarantees style while …"
+        }
+      ],
+      "product_highlights": {
+        "Fit": "Slim Fit",
+        "Color": "Grey",
+        "Type": "Casual Trousers",
+        "Rise": "Mid"
+      },
+      "specifications": {}
+    }
+  }
+}

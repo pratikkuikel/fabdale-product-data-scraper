@@ -1,0 +1,204 @@
+{
+  "product_id": "4889",
+  "sku": "Fab-Jewel-BRAD-005BK",
+  "product": {
+    "name": "Bradox Leaf-Design Jewellery",
+    "parent_id": "7020",
+    "notes": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-black-silver-set/p/itma07afae599d80?pid=JWSGMDQY4ZSFR3QA&lid=LSTJWSGMDQY4ZSFR3QAXPPDBG&marketplace=FLIPKART&sattr[]=color&sattr[]=pack_of&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-JWSGMDQY4ZSFR3QA",
+    "path": "../../sources/pid-JWSGMDQY4ZSFR3QA/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-black-silver-set/p/itma07afae599d80?pid=JWSGMDQY4ZSFR3QA&lid=LSTJWSGMDQY4ZSFR3QAXPPDBG&marketplace=FLIPKART&sattr[]=color&sattr[]=pack_of&st=color",
+    "scraped_at": "2026-08-15T20:46:45.332Z",
+    "final_url": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-black-silver-set/p/itma07afae599d80?pid=JWSGMDQY4ZSFR3QA&lid=LSTJWSGMDQY4ZSFR3QAXPPDBG&marketplace=FLIPKART&sattr[]=color&sattr[]=pack_of&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:47:08.819Z"
+  },
+  "content": {
+    "title": "brado jewellery Brass Gold-plated Black, Silver Jewel Set (Pack of 1)",
+    "short_description": "Color: Black, Silver\nOccasion: Religious, Love, Wedding & Engagement, Workwear\nBase Material: Brass\nPlating: Gold-plated",
+    "description": "Exquisite Earring and Necklace Set\nThis stunning earring and necklace set is the perfect choice for religious ceremonies, love-filled o…\n\nGold-Plated Brass Base Material\nCrafted with care from high-quality brass and expertly gold-plated, this jewellery set offers both d…\n\nSparkling Diamond and Zircon Gemstones\nThe earrings and necklace feature dazzling diamond and zircon gemstones, adding a captivating sparkl…\n\nHandcrafted Ethnic Choker\nThis handcrafted ethnic choker is a true statement piece. With its oversized design and intricate de…\n\nComfortable and Secure Fit\nThe earrings are designed as clip-ons, ensuring a comfortable and secure fit for women, girls, and e…",
+    "specifications": {
+      "Base Material": "Brass",
+      "Color": "Black, Silver",
+      "Plating": "Gold-plated",
+      "Occasion": "Religious, Love, Wedding & Engagement, Workwear"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "7a3332486226d12b3ebf2293",
+      "path": "media/images/7a3332486226d12b3ebf2293/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/e/8/v/d-na-silvero-atss-blackk-brado-jewellery-original-imagmgh6wve72sue.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/e/8/v/d-na-silvero-atss-blackk-brado-jewellery-original-imagmgh6wve72sue.jpeg?q=100",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/l/0/i/d-na-1-silver-ats-black-brado-jewellery-original-imaghw7deyagc6un.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/l/0/i/d-na-1-silver-ats-black-brado-jewellery-original-imaghw7deyagc6un.jpeg?q=100",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/b/i/c/d-na-1-silver-ats-black-brado-jewellery-original-imaghw7dtvv2bfs9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/b/i/c/d-na-1-silver-ats-black-brado-jewellery-original-imaghw7dtvv2bfs9.jpeg?q=100",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/n/i/t/d-na-1-silver-ats-black-brado-jewellery-original-imaghw7dxgsz3ufy.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/n/i/t/d-na-1-silver-ats-black-brado-jewellery-original-imaghw7dxgsz3ufy.jpeg?q=100",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_304ccc410f564555b97869b4946a2f06.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_304ccc410f564555b97869b4946a2f06.jpg?q=80",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_434848527c8a4d35bb9a15a85a79fc57.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_434848527c8a4d35bb9a15a85a79fc57.jpg?q=80",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7941471fc227454887b071a0530967a3.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_7941471fc227454887b071a0530967a3.jpg?q=80",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_323de2434bd7480eac7a5204caa52fde.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_323de2434bd7480eac7a5204caa52fde.jpg?q=80",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d15bb6fc6ac74afc963ae5f5c80fd4e6.jpg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/blobio/400/510/imr/blobio-imr_d15bb6fc6ac74afc963ae5f5c80fd4e6.jpg?q=80",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/c/x/c/na-na-y-30-bulsenk-resized-original-imaggwrf4jnm2rsa.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/c/x/c/na-na-y-30-bulsenk-resized-original-imaggwrf4jnm2rsa.jpeg?q=100",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/n/l/q/na-na-1-isr-1632-diksha-collection-original-imahm6gtbwparp6y.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/n/l/q/na-na-1-isr-1632-diksha-collection-original-imahm6gtbwparp6y.jpeg?q=100",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/3/q/6/fknw-cr-ms-2-ms-11-sp-jizshou-original-imahksbrr8smzsek.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/3/q/6/fknw-cr-ms-2-ms-11-sp-jizshou-original-imahksbrr8smzsek.jpeg?q=100",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-jewellery-set/j/p/z/ss-22191-necklace-earring-maang-tikka-set-r-a-enterprises-original-imah4pswkqyzkzsu.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-jewellery-set/j/p/z/ss-22191-necklace-earring-maang-tikka-set-r-a-enterprises-original-imah4pswkqyzkzsu.jpeg?q=100",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/7/4/2/na-na-1-blackrhymee-rhymee-original-imahft6yjcazypf2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/7/4/2/na-na-1-blackrhymee-rhymee-original-imahft6yjcazypf2.jpeg?q=100",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-014.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/o/u/l/na-na-necklace-10-moksha-art-original-imaggvuwmgbpm3vz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/o/u/l/na-na-necklace-10-moksha-art-original-imaggvuwmgbpm3vz.jpeg?q=100",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-015.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/o/k/6/cultured-na-1-35-1-varni-arts-original-imags4bfrtzedzdf.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/o/k/6/cultured-na-1-35-1-varni-arts-original-imags4bfrtzedzdf.jpeg?q=100",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-016.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/9/e/h/na-na-1-lotus-1-shubhsutra-original-imahkajry6jyk8rk.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/9/e/h/na-na-1-lotus-1-shubhsutra-original-imahkajry6jyk8rk.jpeg?q=100",
+        "local_path": "../../media/images/7a3332486226d12b3ebf2293/assets/images/image-017.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Exquisite Earring and Necklace Set",
+          "body": "This stunning earring and necklace set is the perfect choice for religious ceremonies, love-filled o…"
+        },
+        {
+          "heading": "Gold-Plated Brass Base Material",
+          "body": "Crafted with care from high-quality brass and expertly gold-plated, this jewellery set offers both d…"
+        },
+        {
+          "heading": "Sparkling Diamond and Zircon Gemstones",
+          "body": "The earrings and necklace feature dazzling diamond and zircon gemstones, adding a captivating sparkl…"
+        },
+        {
+          "heading": "Handcrafted Ethnic Choker",
+          "body": "This handcrafted ethnic choker is a true statement piece. With its oversized design and intricate de…"
+        },
+        {
+          "heading": "Comfortable and Secure Fit",
+          "body": "The earrings are designed as clip-ons, ensuring a comfortable and secure fit for women, girls, and e…"
+        }
+      ],
+      "product_highlights": {
+        "Base Material": "Brass",
+        "Color": "Black, Silver",
+        "Plating": "Gold-plated",
+        "Occasion": "Religious, Love, Wedding & Engagement, Workwear"
+      },
+      "specifications": {}
+    }
+  }
+}

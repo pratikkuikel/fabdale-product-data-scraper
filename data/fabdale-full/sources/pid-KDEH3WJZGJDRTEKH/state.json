@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KDEH3WJZGJDRTEKH",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/m-queen-girls-above-knee-casual-dress/p/itm32fc4b5db2cd0?pid=KDEH3WJZGJDRTEKH&marketplace=FLIPKART&lid=LSTKDEH3WJZGJDRTEKHAWBA8W&swatchAttr=size&pageUID=1775213002050\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/m-queen-girls-above-knee-casual-dress/p/itm32fc4b5db2cd0?pid=KDEH3WJZGJDRTEKH&marketplace=FLIPKART&lid=LSTKDEH3WJZGJDRTEKHAWBA8W&swatchAttr=size&pageUID=1775213002050\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "5814"
+  ],
+  "source_path": "sources/pid-KDEH3WJZGJDRTEKH/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T22:22:23.799Z",
+  "completed_at": "2026-08-15T22:22:24.373Z"
+}

@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itm0858ef4e1f0cf?pid=KTAHGHPHJFHHWDJG&marketplace=FLIPKART&lid=LSTKTAHGHPHJFHHWDJGM5LJF3&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1774280942767",
+    "scraped_at": "2026-08-15T20:13:46.953Z",
+    "final_url": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itm0858ef4e1f0cf?pid=KTAHGHPHJFHHWDJG&marketplace=FLIPKART&lid=LSTKTAHGHPHJFHHWDJGM5LJF3&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1774280942767"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:13:51.340Z"
+  },
+  "content": {
+    "title": "VeBNoR Men Self Design Straight Kurta",
+    "short_description": "Color: Purple\nFabric: Art Silk\nPattern: Self Design\nType: Straight\nFit: Regular",
+    "description": "VeBNoR Men Self Design Straight Kurta - Buy VeBNoR Men Self Design Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Self Design",
+      "Type": "Straight",
+      "Fabric": "Art Silk",
+      "Fit": "Regular",
+      "Color": "Purple"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/8/7/s-kt3-vebnor-original-imahghphuydkdsh4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/8/7/s-kt3-vebnor-original-imahghphuydkdsh4.jpeg?q=100",
+        "local_path": "../../media/images/cbe6e1f275e87128b37953ca/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/z/u/s-kt3-vebnor-original-imahghphcazvczmq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/z/u/s-kt3-vebnor-original-imahghphcazvczmq.jpeg?q=100",
+        "local_path": "../../media/images/cbe6e1f275e87128b37953ca/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/d/w/s-kt3-vebnor-original-imahghphgmptaug4.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/d/w/s-kt3-vebnor-original-imahghphgmptaug4.jpeg?q=100",
+        "local_path": "../../media/images/cbe6e1f275e87128b37953ca/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/o/z/s-kt3-vebnor-original-imahghphgtcy6x2d.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/o/z/s-kt3-vebnor-original-imahghphgtcy6x2d.jpeg?q=100",
+        "local_path": "../../media/images/cbe6e1f275e87128b37953ca/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/x/0/s-kt3-vebnor-original-imahghph5zutpbet.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/x/0/s-kt3-vebnor-original-imahghph5zutpbet.jpeg?q=100",
+        "local_path": "../../media/images/cbe6e1f275e87128b37953ca/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Men Self Design Straight Kurta",
+      "description": "VeBNoR Men Self Design Straight Kurta - Buy VeBNoR Men Self Design Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/8/7/s-kt3-vebnor-original-imahghphuydkdsh4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/z/u/s-kt3-vebnor-original-imahghphcazvczmq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/n/d/w/s-kt3-vebnor-original-imahghphgmptaug4.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/s/o/z/s-kt3-vebnor-original-imahghphgtcy6x2d.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/x/0/s-kt3-vebnor-original-imahghph5zutpbet.jpeg?q=70"
+      ],
+      "sku": "KTAHGHPHJFHHWDJG",
+      "color": "Dark Purple",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 93,
+        "ratingCount": 1297,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 245,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Free fire Guru",
+            "@type": "Person"
+          },
+          "datePublished": "2026-07-24",
+          "reviewBody": "nice product 🥰❤️❤️❤️❤️❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fair",
+          "author": {
+            "name": "Nishad  Khan",
+            "@type": "Person"
+          },
+          "datePublished": "2026-05-12",
+          "reviewBody": "As price it's good",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Best in the market!",
+          "author": {
+            "name": "Santosh Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2026-08-11",
+          "reviewBody": "Very nice 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Self Design",
+        "Type": "Straight",
+        "Fabric": "Art Silk",
+        "Fit": "Regular",
+        "Color": "Purple"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "cbe6e1f275e87128b37953ca",
+      "path": "media/images/cbe6e1f275e87128b37953ca/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "product_id": "6078",
+  "sku": "Fab-Dress-AARY-008BL-S",
+  "product": {
+    "name": "Aamira Three-quarter length sleeves Dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/aarya-designer-girls-midi-knee-length-casual-dress/p/itm7763ce5bada7d?pid=KDEHAF4QBDFMYDWG&marketplace=FLIPKART&lid=LSTKDEHAF4QBDFMYDWGFZCAMR&swatchAttr=size&pageUID=1776013503483"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHAF4QBDFMYDWG",
+    "path": "../../sources/pid-KDEHAF4QBDFMYDWG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/aarya-designer-girls-midi-knee-length-casual-dress/p/itm7763ce5bada7d?pid=KDEHAF4QBDFMYDWG&marketplace=FLIPKART&lid=LSTKDEHAF4QBDFMYDWGFZCAMR&swatchAttr=size&pageUID=1776013503483",
+    "scraped_at": "2026-08-15T22:48:59.342Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/aarya-designer-girls-midi-knee-length-casual-dress/p/itm7763ce5bada7d?pid=KDEHAF4QBDFMYDWG&marketplace=FLIPKART&lid=LSTKDEHAF4QBDFMYDWGFZCAMR&swatchAttr=size&pageUID=1776013503483\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/aarya-designer-girls-midi-knee-length-casual-dress/p/itm7763ce5bada7d?pid=KDEHAF4QBDFMYDWG&marketplace=FLIPKART&lid=LSTKDEHAF4QBDFMYDWGFZCAMR&swatchAttr=size&pageUID=1776013503483\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:48:59.402Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

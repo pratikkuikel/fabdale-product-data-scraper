@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-JEAFVEG2NAE86G5F",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "6492"
+  ],
+  "source_path": "sources/pid-JEAFVEG2NAE86G5F/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T23:17:03.927Z",
+  "completed_at": "2026-08-15T23:17:25.234Z"
+}

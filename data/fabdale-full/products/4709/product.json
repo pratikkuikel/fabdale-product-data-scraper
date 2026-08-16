@@ -1,0 +1,187 @@
+{
+  "product_id": "4709",
+  "sku": "Fab-Kurta-ZAR-001MR-L",
+  "product": {
+    "name": "Zorvan Modern Kurta-style shirt",
+    "parent_id": "5352",
+    "notes": "https://www.flipkart.com/zartha-men-solid-straight-kurta/p/itm29dbb4addda80?pid=KTAGSUZE6MT9JPTB&marketplace=FLIPKART&lid=LSTKTAGSUZE6MT9JPTB8HZ08P&swatchAttr=size&pageUID=1774114485298"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGSUZE6MT9JPTB",
+    "path": "../../sources/pid-KTAGSUZE6MT9JPTB/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zartha-men-solid-straight-kurta/p/itm29dbb4addda80?pid=KTAGSUZE6MT9JPTB&marketplace=FLIPKART&lid=LSTKTAGSUZE6MT9JPTB8HZ08P&swatchAttr=size&pageUID=1774114485298",
+    "scraped_at": "2026-08-15T20:21:17.427Z",
+    "final_url": "https://www.flipkart.com/zartha-men-solid-straight-kurta/p/itm29dbb4addda80?pid=KTAGSUZE6MT9JPTB&marketplace=FLIPKART&lid=LSTKTAGSUZE6MT9JPTB8HZ08P&swatchAttr=size&pageUID=1774114485298"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:21:25.218Z"
+  },
+  "content": {
+    "title": "ZARTHA Men Solid Straight Kurta",
+    "short_description": "ZARTHA Men Solid Straight Kurta - Buy ZARTHA Men Solid Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "ZARTHA Men Solid Straight Kurta - Buy ZARTHA Men Solid Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "481cdad6beb8704eb5d7dcca",
+      "path": "media/images/481cdad6beb8704eb5d7dcca/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/s/t/xxl-kurta1508-zartha-resized-original-imagsuzdgr63zje2.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/s/t/xxl-kurta1508-zartha-resized-original-imagsuzdgr63zje2.jpeg?q=100",
+        "local_path": "../../media/images/481cdad6beb8704eb5d7dcca/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/c/t/xxl-kurta1508-zartha-original-imagsuzdruafwdu6.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/c/t/xxl-kurta1508-zartha-original-imagsuzdruafwdu6.jpeg?q=100",
+        "local_path": "../../media/images/481cdad6beb8704eb5d7dcca/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/5/g/c/xxl-kurta1508-zartha-original-imagsuzdwfkvsjbv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/5/g/c/xxl-kurta1508-zartha-original-imagsuzdwfkvsjbv.jpeg?q=100",
+        "local_path": "../../media/images/481cdad6beb8704eb5d7dcca/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/s/7/xxl-kurta1508-zartha-original-imagsuzdsfnwfgg5.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/s/7/xxl-kurta1508-zartha-original-imagsuzdsfnwfgg5.jpeg?q=100",
+        "local_path": "../../media/images/481cdad6beb8704eb5d7dcca/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/t/b/xxl-kurta1508-zartha-original-imagsuzdezggyhqm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/t/b/xxl-kurta1508-zartha-original-imagsuzdezggyhqm.jpeg?q=100",
+        "local_path": "../../media/images/481cdad6beb8704eb5d7dcca/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "ZARTHA Men Solid Straight Kurta",
+      "description": "ZARTHA Men Solid Straight Kurta - Buy ZARTHA Men Solid Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/o/s/t/xxl-kurta1508-zartha-resized-original-imagsuzdgr63zje2.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/c/t/xxl-kurta1508-zartha-original-imagsuzdruafwdu6.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/5/g/c/xxl-kurta1508-zartha-original-imagsuzdwfkvsjbv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/s/7/xxl-kurta1508-zartha-original-imagsuzdsfnwfgg5.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/t/b/xxl-kurta1508-zartha-original-imagsuzdezggyhqm.jpeg?q=70"
+      ],
+      "sku": "KTAGSUZE6MT9JPTB",
+      "color": "MAROON",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 1807,
+        "ratingCount": 23383,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "ZARTHA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 344,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Swecchha Tiwary",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-03",
+          "reviewBody": "Perfect",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Bhagyesh  Mahale",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-20",
+          "reviewBody": "The product is really good and the quality of the cloth is also excellent Overall value for money",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-18",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

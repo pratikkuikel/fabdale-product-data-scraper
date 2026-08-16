@@ -1,0 +1,38 @@
+{
+  "product_id": "5913",
+  "sku": "Fab-Dress-FSHD-006RD-S",
+  "product": {
+    "name": "Fablina Flutter sleeves",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/njushxa-indi-girls-midi-knee-length-casual-dress/p/itmf92b3788d0e34?pid=KDEHFHJG49FFAUCY&marketplace=FLIPKART&lid=LSTKDEHFHJG49FFAUCYAIUQLI&swatchAttr=size&pageUID=1775580316725"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHFHJG49FFAUCY",
+    "path": "../../sources/pid-KDEHFHJG49FFAUCY/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/njushxa-indi-girls-midi-knee-length-casual-dress/p/itmf92b3788d0e34?pid=KDEHFHJG49FFAUCY&marketplace=FLIPKART&lid=LSTKDEHFHJG49FFAUCYAIUQLI&swatchAttr=size&pageUID=1775580316725",
+    "scraped_at": "2026-08-15T22:31:52.504Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/njushxa-indi-girls-midi-knee-length-casual-dress/p/itmf92b3788d0e34?pid=KDEHFHJG49FFAUCY&marketplace=FLIPKART&lid=LSTKDEHFHJG49FFAUCYAIUQLI&swatchAttr=size&pageUID=1775580316725\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/njushxa-indi-girls-midi-knee-length-casual-dress/p/itmf92b3788d0e34?pid=KDEHFHJG49FFAUCY&marketplace=FLIPKART&lid=LSTKDEHFHJG49FFAUCYAIUQLI&swatchAttr=size&pageUID=1775580316725\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:31:52.636Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "key": "c419f0a46f271e435be04686",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T23:25:41.872Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/0/f/t/34-kctr-chk-tr5555-ltbr-fubar-resized-original-imahye2cq6we8uzz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/0/f/t/34-kctr-chk-tr5555-ltbr-fubar-resized-original-imahye2cq6we8uzz.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/m/c/m/34-kctr-chk-tr5555-ltbr-fubar-original-imahye2ccuzhjjpz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/m/c/m/34-kctr-chk-tr5555-ltbr-fubar-original-imahye2ccuzhjjpz.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/o/v/9/34-kctr-chk-tr5555-ltbr-fubar-original-imahye2ckgmjpxck.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/o/v/9/34-kctr-chk-tr5555-ltbr-fubar-original-imahye2ckgmjpxck.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/d/k/1/34-kctr-chk-tr5555-ltbr-fubar-original-imahye2c5syvg9eh.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/d/k/1/34-kctr-chk-tr5555-ltbr-fubar-original-imahye2c5syvg9eh.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

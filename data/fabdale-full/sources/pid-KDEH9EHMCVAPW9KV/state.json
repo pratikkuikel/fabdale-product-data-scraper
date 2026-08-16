@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KDEH9EHMCVAPW9KV",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itmbc020709e1d67?pid=KDEH9EHMCVAPW9KV&marketplace=FLIPKART&lid=LSTKDEH9EHMCVAPW9KV5JYKXJ&swatchAttr=size&pageUID=1776010250228\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itmbc020709e1d67?pid=KDEH9EHMCVAPW9KV&marketplace=FLIPKART&lid=LSTKDEH9EHMCVAPW9KV5JYKXJ&swatchAttr=size&pageUID=1776010250228\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "6031"
+  ],
+  "source_path": "sources/pid-KDEH9EHMCVAPW9KV/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T22:42:57.442Z",
+  "completed_at": "2026-08-15T22:42:57.656Z"
+}

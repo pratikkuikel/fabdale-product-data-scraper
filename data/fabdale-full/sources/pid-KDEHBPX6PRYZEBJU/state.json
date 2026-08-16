@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KDEHBPX6PRYZEBJU",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/aarya-designer-girls-maxi-full-length-casual-dress/p/itm79b064cb4b942?pid=KDEHBPX6PRYZEBJU&marketplace=FLIPKART&lid=LSTKDEHBPX6PRYZEBJU9TVFDG&swatchAttr=size&pageUID=1776012290892\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/aarya-designer-girls-maxi-full-length-casual-dress/p/itm79b064cb4b942?pid=KDEHBPX6PRYZEBJU&marketplace=FLIPKART&lid=LSTKDEHBPX6PRYZEBJU9TVFDG&swatchAttr=size&pageUID=1776012290892\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "6068"
+  ],
+  "source_path": "sources/pid-KDEHBPX6PRYZEBJU/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T22:47:47.882Z",
+  "completed_at": "2026-08-15T22:47:48.102Z"
+}

@@ -1,0 +1,168 @@
+{
+  "product_id": "4904",
+  "sku": "Fab-Jewel-BRAD-013RO",
+  "product": {
+    "name": "Bradox  Festive Wear Jewellery",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-rose-gold-white-set/p/itmbcf264edc2d3a?pid=JWSH3YFCZRGVTCTY&lid=LSTJWSH3YFCZRGVTCTYHDQZFI&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-JWSH3YFCZRGVTCTY",
+    "path": "../../sources/pid-JWSH3YFCZRGVTCTY/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-rose-gold-white-set/p/itmbcf264edc2d3a?pid=JWSH3YFCZRGVTCTY&lid=LSTJWSH3YFCZRGVTCTYHDQZFI&marketplace=FLIPKART",
+    "scraped_at": "2026-08-15T20:50:53.235Z",
+    "final_url": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-rose-gold-white-set/p/itmbcf264edc2d3a?pid=JWSH3YFCZRGVTCTY&lid=LSTJWSH3YFCZRGVTCTYHDQZFI&marketplace=FLIPKART"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:51:05.925Z"
+  },
+  "content": {
+    "title": "brado jewellery Brass Gold-plated Rose Gold, White Jewel Set (Pac...more",
+    "short_description": "Color: Rose Gold, White\nOccasion: Love, Religious, Wedding & Engagement\nBase Material: Brass\nPlating: Gold-plated",
+    "description": "Ruby Features\nRuby ClarityIFRuby ShapePearNatural/Synthetic RubyNatural\n\nSilver Features\nSilver Weight8.5 gSilver ColorWhiteSilver Purity1k\n\nDiamond Features\nDiamond CutBrilliantDiamond ShapeRoundDiamond Color GradeDDiamond ClarityFLDiamond Weight0.07 carat\n\nMetal Features\nMetal Purity1kMetal ColorRose GoldMetal Weight8.5\n\nTrend\nAmerican Diamond Jewellery, Pearl, Ethnic Choker\n\nProduct Details\nSales Package1 Necklace With 1 Pair of Earrings & MaangTikkaCollectionEthnicOccasionLove, Religious, Wedding & EngagementSemi-precious Stone ShapeRoundNatural/Synthetic Semi-precious StoneSyntheticNumber of Gemstones497FinishRoseGold Plated, Heavy Polished StoneWeight30 gOther FeaturesWedding wear, Party wear, Festive wear, Nickel free and Lead free as per International Standards that makes it very skin friendly. The plating is non-allergic and safe for all environmentsEarring Clasp TypePush PlugsEarring LengthMed(Ear lobe size)\n\nSales Package\n1 Necklace With 1 Pair of Earrings & MaangTikka\n\nOther Features\nWedding wear, Party wear, Festive wear, Nickel free and Lead free as per International Standards that makes it very skin friendly. The plating is non-allergic and safe for all environments\n\nPearl Features\nPearl TypeCulturedPearl ColorWhitePearl ShapeRoundArtificial Pearl MaterialPlastic\n\nEmerald Features\nEmerald ShapePearEmerald ClarityFLNatural/Synthetic EmeraldNatural Emerald",
+    "specifications": {
+      "Base Material": "Brass",
+      "Color": "Rose Gold, White",
+      "Plating": "Gold-plated",
+      "Occasion": "Love, Religious, Wedding & Engagement"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ec51d1ec6f67b7d80b067aee",
+      "path": "media/images/ec51d1ec6f67b7d80b067aee/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/b/5/5/cultured-d-1-vtbj-rg-white-brado-jewellery-original-imah3yfyupc5zq53.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/b/5/5/cultured-d-1-vtbj-rg-white-brado-jewellery-original-imah3yfyupc5zq53.jpeg?q=100",
+        "local_path": "../../media/images/ec51d1ec6f67b7d80b067aee/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/s/a/d/na-na-1-moti-2-layer-elegance-by-eva-original-imahnqaqgnyvrphh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/s/a/d/na-na-1-moti-2-layer-elegance-by-eva-original-imahnqaqgnyvrphh.jpeg?q=100",
+        "local_path": "../../media/images/ec51d1ec6f67b7d80b067aee/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/w/f/v/na-na-1-f-x46-cd-jk1-thesanga-original-imahgg48tvqxqvfg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/w/f/v/na-na-1-f-x46-cd-jk1-thesanga-original-imahgg48tvqxqvfg.jpeg?q=100",
+        "local_path": "../../media/images/ec51d1ec6f67b7d80b067aee/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/l/w/a/vme-9-db-jr-ltr-s-brado-jewellery-original-imahprfhmgn9urtg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/l/w/a/vme-9-db-jr-ltr-s-brado-jewellery-original-imahprfhmgn9urtg.jpeg?q=100",
+        "local_path": "../../media/images/ec51d1ec6f67b7d80b067aee/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/d/6/r/na-d-1-sg-nazuk-white-gold-sangria-original-imahgvaat3hma9c5.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/d/6/r/na-d-1-sg-nazuk-white-gold-sangria-original-imahgvaat3hma9c5.jpeg?q=100",
+        "local_path": "../../media/images/ec51d1ec6f67b7d80b067aee/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/e/x/1/na-na-1-mfj0000972-rahul-traders-original-imagygzzy5bmjskg.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/e/x/1/na-na-1-mfj0000972-rahul-traders-original-imagygzzy5bmjskg.jpeg?q=100",
+        "local_path": "../../media/images/ec51d1ec6f67b7d80b067aee/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/s/m/k/na-na-1-j01-white-ascend-original-imahn65vc2yguaa2.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/s/m/k/na-na-1-j01-white-ascend-original-imahn65vc2yguaa2.jpeg?q=100",
+        "local_path": "../../media/images/ec51d1ec6f67b7d80b067aee/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/1/y/b/na-cultured-1-combo-nep-ruby-ratna-world-original-imahnjbmb74ewva9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/1/y/b/na-cultured-1-combo-nep-ruby-ratna-world-original-imahnjbmb74ewva9.jpeg?q=100",
+        "local_path": "../../media/images/ec51d1ec6f67b7d80b067aee/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/j/0/p/na-na-1-ad-8005-keymax-original-imahk43gj7y9dpjz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/j/0/p/na-na-1-ad-8005-keymax-original-imahk43gj7y9dpjz.jpeg?q=100",
+        "local_path": "../../media/images/ec51d1ec6f67b7d80b067aee/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Ruby Features",
+          "body": "Ruby ClarityIFRuby ShapePearNatural/Synthetic RubyNatural"
+        },
+        {
+          "heading": "Silver Features",
+          "body": "Silver Weight8.5 gSilver ColorWhiteSilver Purity1k"
+        },
+        {
+          "heading": "Diamond Features",
+          "body": "Diamond CutBrilliantDiamond ShapeRoundDiamond Color GradeDDiamond ClarityFLDiamond Weight0.07 carat"
+        },
+        {
+          "heading": "Metal Features",
+          "body": "Metal Purity1kMetal ColorRose GoldMetal Weight8.5"
+        },
+        {
+          "heading": "Trend",
+          "body": "American Diamond Jewellery, Pearl, Ethnic Choker"
+        },
+        {
+          "heading": "Product Details",
+          "body": "Sales Package1 Necklace With 1 Pair of Earrings & MaangTikkaCollectionEthnicOccasionLove, Religious, Wedding & EngagementSemi-precious Stone ShapeRoundNatural/Synthetic Semi-precious StoneSyntheticNumber of Gemstones497FinishRoseGold Plated, Heavy Polished StoneWeight30 gOther FeaturesWedding wear, Party wear, Festive wear, Nickel free and Lead free as per International Standards that makes it very skin friendly. The plating is non-allergic and safe for all environmentsEarring Clasp TypePush PlugsEarring LengthMed(Ear lobe size)"
+        },
+        {
+          "heading": "Sales Package",
+          "body": "1 Necklace With 1 Pair of Earrings & MaangTikka"
+        },
+        {
+          "heading": "Other Features",
+          "body": "Wedding wear, Party wear, Festive wear, Nickel free and Lead free as per International Standards that makes it very skin friendly. The plating is non-allergic and safe for all environments"
+        },
+        {
+          "heading": "Pearl Features",
+          "body": "Pearl TypeCulturedPearl ColorWhitePearl ShapeRoundArtificial Pearl MaterialPlastic"
+        },
+        {
+          "heading": "Emerald Features",
+          "body": "Emerald ShapePearEmerald ClarityFLNatural/Synthetic EmeraldNatural Emerald"
+        }
+      ],
+      "product_highlights": {
+        "Base Material": "Brass",
+        "Color": "Rose Gold, White",
+        "Plating": "Gold-plated",
+        "Occasion": "Love, Religious, Wedding & Engagement"
+      },
+      "specifications": {}
+    }
+  }
+}

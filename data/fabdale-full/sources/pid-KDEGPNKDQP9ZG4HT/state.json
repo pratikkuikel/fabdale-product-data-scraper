@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KDEGPNKDQP9ZG4HT",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itm2e78ca4d0b977?pid=KDEGPNKDQP9ZG4HT&marketplace=FLIPKART&lid=LSTKDEGPNKDQP9ZG4HTY0RFPR&swatchAttr=size&pageUID=1775214319070\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itm2e78ca4d0b977?pid=KDEGPNKDQP9ZG4HT&marketplace=FLIPKART&lid=LSTKDEGPNKDQP9ZG4HTY0RFPR&swatchAttr=size&pageUID=1775214319070\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "5836"
+  ],
+  "source_path": "sources/pid-KDEGPNKDQP9ZG4HT/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T22:25:18.099Z",
+  "completed_at": "2026-08-15T22:25:18.327Z"
+}

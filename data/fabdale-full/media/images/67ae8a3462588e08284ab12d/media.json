@@ -1,0 +1,44 @@
+{
+  "key": "67ae8a3462588e08284ab12d",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T23:20:18.480Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/l/g/i/28-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umaqg7xhyw.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/l/g/i/28-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umaqg7xhyw.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/f/r/j/28-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umt3hdfbmk.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/f/r/j/28-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umt3hdfbmk.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/j/s/l/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umepchfngr.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/j/s/l/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umepchfngr.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/n/b/l/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umgvb2g4gd.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/n/b/l/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umgvb2g4gd.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/h/1/u/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umcujfpu3j.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jean/h/1/u/38-jeanlscargo-02-iceblue-urbano-fashion-original-imahm5umcujfpu3j.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

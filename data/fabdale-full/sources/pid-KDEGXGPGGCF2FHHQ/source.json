@@ -1,0 +1,179 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm6adc195adbe96?pid=KDEGXGPGGCF2FHHQ&marketplace=FLIPKART&lid=LSTKDEGXGPGGCF2FHHQBITOH1&swatchAttr=size&pageUID=1775061501051",
+    "scraped_at": "2026-08-15T21:41:02.958Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm6adc195adbe96?pid=KDEGXGPGGCF2FHHQ&marketplace=FLIPKART&lid=LSTKDEGXGPGGCF2FHHQBITOH1&swatchAttr=size&pageUID=1775061501051"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:41:20.580Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress",
+    "short_description": "Fabric: Cotton Lycra\nType: A- Line Dress\nOccasion: Casual\nPrimary Color: Purple",
+    "description": "Comfortable and Stylish\nThis kid's dress is made of soft and breathable cotton lycra fabric, ensuring your child stays comfo…\n\nVersatile and Casual\nPerfect for casual occasions, this dress is ideal for everyday wear or family outings. Your little o…\n\nCharming Design\nFeaturing an all-over detail placement, this dress showcases a charming and eye-catching design, mak…\n\nEasy to Wear\nDesigned with short sleeves and a round neck, this dress is easy to wear and allows your child to mo…",
+    "specifications": {
+      "Type": "A- Line Dress",
+      "Occasion": "Casual",
+      "Primary Color": "Purple",
+      "Fabric": "Cotton Lycra"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/p/i/2-3-years-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82phcptztu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/p/i/2-3-years-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82phcptztu.jpeg?q=100",
+        "local_path": "../../media/images/1579852f28bee2fc22e9563d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/r/d/2-3-years-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82dmrpxahn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/r/d/2-3-years-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82dmrpxahn.jpeg?q=100",
+        "local_path": "../../media/images/1579852f28bee2fc22e9563d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress for Rs.1599.0 online. PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/p/i/2-3-years-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82phcptztu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/r/d/2-3-years-titani-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu82dmrpxahn.jpeg?q=70"
+      ],
+      "sku": "KDEGXGPGGCF2FHHQ",
+      "color": "LAVANDAR",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 28,
+        "ratingCount": 389,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 268,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-25",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Rita  Biwas(Amboli)",
+            "@type": "Person"
+          },
+          "datePublished": "2024-10-30",
+          "reviewBody": "This product is awesome! Must buy",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "ABIN M PHILIP",
+            "@type": "Person"
+          },
+          "datePublished": "2026-06-27",
+          "reviewBody": "Good, standard product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Comfortable and Stylish",
+          "body": "This kid's dress is made of soft and breathable cotton lycra fabric, ensuring your child stays comfo…"
+        },
+        {
+          "heading": "Versatile and Casual",
+          "body": "Perfect for casual occasions, this dress is ideal for everyday wear or family outings. Your little o…"
+        },
+        {
+          "heading": "Charming Design",
+          "body": "Featuring an all-over detail placement, this dress showcases a charming and eye-catching design, mak…"
+        },
+        {
+          "heading": "Easy to Wear",
+          "body": "Designed with short sleeves and a round neck, this dress is easy to wear and allows your child to mo…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "A- Line Dress",
+        "Occasion": "Casual",
+        "Primary Color": "Purple",
+        "Fabric": "Cotton Lycra"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1579852f28bee2fc22e9563d",
+      "path": "media/images/1579852f28bee2fc22e9563d/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

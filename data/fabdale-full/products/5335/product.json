@@ -1,0 +1,143 @@
+{
+  "product_id": "5335",
+  "sku": null,
+  "product": {
+    "name": "Kala Sutra Cotton Embroidered Salwar Suit Material",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmf8d3e8e5a9f20?pid=FABGUNSGPYKRV7MX&lid=LSTFABGUNSGPYKRV7MX36FADX&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-FABGUNSGPYKRV7MX",
+    "path": "../../sources/pid-FABGUNSGPYKRV7MX/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmf8d3e8e5a9f20?pid=FABGUNSGPYKRV7MX&lid=LSTFABGUNSGPYKRV7MX36FADX&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T21:16:52.231Z",
+    "final_url": "https://www.flipkart.com/krishna-boutique-pure-cotton-printed-salwar-suit-material/p/itmf8d3e8e5a9f20?pid=FABGUNSGPYKRV7MX&lid=LSTFABGUNSGPYKRV7MX36FADX&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:17:04.431Z"
+  },
+  "content": {
+    "title": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+    "short_description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.1300.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.1300.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "1e962b96a46785e27c9f4c0a",
+      "path": "media/images/1e962b96a46785e27c9f4c0a/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/a/g/y/yes-2-5-m-unstitched-2-2-m-purpal1-krishna-boutique-original-imahpzcssrjva9yw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/a/g/y/yes-2-5-m-unstitched-2-2-m-purpal1-krishna-boutique-original-imahpzcssrjva9yw.jpeg?q=100",
+        "local_path": "../../media/images/1e962b96a46785e27c9f4c0a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "krishna boutique Pure Cotton Printed Salwar Suit Material",
+      "description": "Buy krishna boutique Pure Cotton Printed Salwar Suit Material for Rs.1300.0 online. krishna boutique Pure Cotton Printed Salwar Suit Material at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/fabric/a/g/y/yes-2-5-m-unstitched-2-2-m-purpal1-krishna-boutique-original-imahpzcssrjva9yw.jpeg?q=70"
+      ],
+      "sku": "FABGUNSGPYKRV7MX",
+      "color": "grey",
+      "category": "fabric",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 136,
+        "ratingCount": 2324,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "krishna boutique",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 625,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Reema Yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-09",
+          "reviewBody": "The colour and quality is good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Amreen  Khan",
+            "@type": "Person"
+          },
+          "datePublished": "2024-04-14",
+          "reviewBody": "Good product but little bit expensive",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Excellent",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-06",
+          "reviewBody": "Awesome Quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

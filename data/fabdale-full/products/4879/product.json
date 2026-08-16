@@ -1,0 +1,192 @@
+{
+  "product_id": "4879",
+  "sku": "Fab-Jewel-BRAD-002BL",
+  "product": {
+    "name": "Bradox Oxidised Silver Jewellery",
+    "parent_id": "7018",
+    "notes": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-silver-blue-white-set/p/itm1dae9fbc34713?pid=JWSH3NUFR4NYG7TH&lid=LSTJWSH3NUFR4NYG7THINJASK&marketplace=FLIPKART&cmpid=content_jewellery-set_8965229628_gmc"
+  },
+  "source_bundle": {
+    "key": "pid-JWSH3NUFR4NYG7TH",
+    "path": "../../sources/pid-JWSH3NUFR4NYG7TH/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-silver-blue-white-set/p/itm1dae9fbc34713?pid=JWSH3NUFR4NYG7TH&lid=LSTJWSH3NUFR4NYG7THINJASK&marketplace=FLIPKART&cmpid=content_jewellery-set_8965229628_gmc",
+    "scraped_at": "2026-08-15T20:43:49.249Z",
+    "final_url": "https://www.flipkart.com/brado-jewellery-brass-gold-plated-silver-blue-white-set/p/itm1dae9fbc34713?pid=JWSH3NUFR4NYG7TH&lid=LSTJWSH3NUFR4NYG7THINJASK&marketplace=FLIPKART&cmpid=content_jewellery-set_8965229628_gmc"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:44:06.091Z"
+  },
+  "content": {
+    "title": "brado jewellery Brass Gold-plated Silver, Blue, White Jewel Set (Pack of 2)",
+    "short_description": "Color: Silver, Blue, White\nOccasion: Love, Religious, Wedding & Engagement\nBase Material: Brass\nPlating: Gold-plated",
+    "description": "Silver Features\nSilver Weight8.7 gSilver ColorWhiteSilver Purity1k\n\nDiamond Features\nDiamond CutBrilliantDiamond ShapeRoundDiamond Color GradeDDiamond ClarityFLDiamond Weight0.07 carat\n\nMetal Features\nMetal Purity1kMetal ColorSilver & Rose GoldMetal Weight8.7\n\nModel Number\nCombo - Sparsh - SLR - Skyblue & Brado Special - SLR - Skyblue\n\nBrand Color\nCombo - Sparsh - SLR - Skyblue & Brado Special - SLR - Skyblue\n\nProduct Details\nSales PackagePack of 2 Jewellery set for Women and GirlsCollectionContemporaryOccasionLove, Religious, Wedding & EngagementSemi-precious Stone ShapeRoundNatural/Synthetic Semi-precious StoneSyntheticFinishSilver & Rosegold Toned, Heavy Polished Diamond UsedChain/Necklace Length9Weight30 gOther FeaturesAdjustable Length: Provide an adjustable chain length option to accommodate various necklines and personal preferences., High-Quality Craftsmanship: Emphasize the craftsmanship and attention to detail that goes into creating each necklace., Nickel free and Lead free as per International Standards that makes it very skin friendly. The plating is non-allergic and safe for all environments.Earring Clasp TypePush PlugsEarring LengthSmall(smaller than ear lobe)\n\nSales Package\nPack of 2 Jewellery set for Women and Girls\n\nFinish\nSilver & Rosegold Toned, Heavy Polished Diamond Used\n\nOther Features\nAdjustable Length: Provide an adjustable chain length option to accommodate various necklines and personal preferences., High-Quality Craftsmanship: Emphasize the craftsmanship and attention to detail that goes into creating each necklace., Nickel free and Lead free as per International Standards that makes it very skin friendly. The plating is non-allergic and safe for all environments.",
+    "specifications": {
+      "Base Material": "Brass",
+      "Color": "Silver, Blue, White",
+      "Plating": "Gold-plated",
+      "Occasion": "Love, Religious, Wedding & Engagement"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "629d1b01afc134c6259380e5",
+      "path": "media/images/629d1b01afc134c6259380e5/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/l/d/9/na-d-2-combo-sparsh-slr-skyblue-brado-special-slr-skyblue-brado-original-imah3nufv8bgjgzh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/l/d/9/na-d-2-combo-sparsh-slr-skyblue-brado-special-slr-skyblue-brado-original-imah3nufv8bgjgzh.jpeg?q=100",
+        "local_path": "../../media/images/629d1b01afc134c6259380e5/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/i/3/8/na-d-2-combo-sparsh-slr-skyblue-brado-special-rg-red-brado-original-imah3nteqbrhabnz.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/i/3/8/na-d-2-combo-sparsh-slr-skyblue-brado-special-rg-red-brado-original-imah3nteqbrhabnz.jpeg?q=100",
+        "local_path": "../../media/images/629d1b01afc134c6259380e5/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/d/z/h/na-d-2-combo-sparsh-slr-skyblue-brado-special-rg-red-brado-original-imah3nteaepnavtr.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/d/z/h/na-d-2-combo-sparsh-slr-skyblue-brado-special-rg-red-brado-original-imah3nteaepnavtr.jpeg?q=100",
+        "local_path": "../../media/images/629d1b01afc134c6259380e5/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/4/7/w/na-d-2-combo-sparsh-slr-skyblue-brado-special-rg-red-brado-original-imah3ntejzw9aegh.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/4/7/w/na-d-2-combo-sparsh-slr-skyblue-brado-special-rg-red-brado-original-imah3ntejzw9aegh.jpeg?q=100",
+        "local_path": "../../media/images/629d1b01afc134c6259380e5/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/e/e/c/na-d-2-combo-sparsh-slr-green-brado-special-slr-sky-blue-brado-original-imah3hhp7jurzmja.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/800/1070/xif0q/jewellery-set/e/e/c/na-d-2-combo-sparsh-slr-green-brado-special-slr-sky-blue-brado-original-imah3hhp7jurzmja.jpeg?q=100",
+        "local_path": "../../media/images/629d1b01afc134c6259380e5/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/x/4/8/na-na-1-small-pendant-set-01-flaring-original-imahmhkmwcvh9nay.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/x/4/8/na-na-1-small-pendant-set-01-flaring-original-imahmhkmwcvh9nay.jpeg?q=100",
+        "local_path": "../../media/images/629d1b01afc134c6259380e5/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-jewellery-set/j/x/v/sshopsy-mangtika-mrn15-earring-necklace-set-lavalier-jewels-original-imahjwbrhfj2qyba.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/shopsy-jewellery-set/j/x/v/sshopsy-mangtika-mrn15-earring-necklace-set-lavalier-jewels-original-imahjwbrhfj2qyba.jpeg?q=100",
+        "local_path": "../../media/images/629d1b01afc134c6259380e5/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/3/q/6/fknw-cr-ms-2-ms-11-sp-jizshou-original-imahksbrr8smzsek.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/mangalsutra-tanmaniya/3/q/6/fknw-cr-ms-2-ms-11-sp-jizshou-original-imahksbrr8smzsek.jpeg?q=100",
+        "local_path": "../../media/images/629d1b01afc134c6259380e5/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/d/g/0/d-na-1-zasvi-gold-mix-red-white-alasca-original-imahhmgheshhz96x.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/d/g/0/d-na-1-zasvi-gold-mix-red-white-alasca-original-imahhmgheshhz96x.jpeg?q=100",
+        "local_path": "../../media/images/629d1b01afc134c6259380e5/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/q/e/w/na-na-2-sv-cb-20-svents-original-imahmzbgver42dmv.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/q/e/w/na-na-2-sv-cb-20-svents-original-imahmzbgver42dmv.jpeg?q=100",
+        "local_path": "../../media/images/629d1b01afc134c6259380e5/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/m/n/y/plastic-na-1-kf-1115-red-fancy-kf-original-imahksb4g4hymayn.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/m/n/y/plastic-na-1-kf-1115-red-fancy-kf-original-imahksb4g4hymayn.jpeg?q=100",
+        "local_path": "../../media/images/629d1b01afc134c6259380e5/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/f/h/7/na-na-1-necklace18black-vacker-original-imahhkczzwbzsr7h.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/f/h/7/na-na-1-necklace18black-vacker-original-imahhkczzwbzsr7h.jpeg?q=100",
+        "local_path": "../../media/images/629d1b01afc134c6259380e5/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/e/f/j/na-na-1-ninja1293-brilliant-beads-jewels-original-imahkkhh2hwbqnz9.jpeg?q=80",
+        "download_url": "https://rukminim2.flixcart.com/image/530/710/xif0q/jewellery-set/e/f/j/na-na-1-ninja1293-brilliant-beads-jewels-original-imahkkhh2hwbqnz9.jpeg?q=100",
+        "local_path": "../../media/images/629d1b01afc134c6259380e5/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Silver Features",
+          "body": "Silver Weight8.7 gSilver ColorWhiteSilver Purity1k"
+        },
+        {
+          "heading": "Diamond Features",
+          "body": "Diamond CutBrilliantDiamond ShapeRoundDiamond Color GradeDDiamond ClarityFLDiamond Weight0.07 carat"
+        },
+        {
+          "heading": "Metal Features",
+          "body": "Metal Purity1kMetal ColorSilver & Rose GoldMetal Weight8.7"
+        },
+        {
+          "heading": "Model Number",
+          "body": "Combo - Sparsh - SLR - Skyblue & Brado Special - SLR - Skyblue"
+        },
+        {
+          "heading": "Brand Color",
+          "body": "Combo - Sparsh - SLR - Skyblue & Brado Special - SLR - Skyblue"
+        },
+        {
+          "heading": "Product Details",
+          "body": "Sales PackagePack of 2 Jewellery set for Women and GirlsCollectionContemporaryOccasionLove, Religious, Wedding & EngagementSemi-precious Stone ShapeRoundNatural/Synthetic Semi-precious StoneSyntheticFinishSilver & Rosegold Toned, Heavy Polished Diamond UsedChain/Necklace Length9Weight30 gOther FeaturesAdjustable Length: Provide an adjustable chain length option to accommodate various necklines and personal preferences., High-Quality Craftsmanship: Emphasize the craftsmanship and attention to detail that goes into creating each necklace., Nickel free and Lead free as per International Standards that makes it very skin friendly. The plating is non-allergic and safe for all environments.Earring Clasp TypePush PlugsEarring LengthSmall(smaller than ear lobe)"
+        },
+        {
+          "heading": "Sales Package",
+          "body": "Pack of 2 Jewellery set for Women and Girls"
+        },
+        {
+          "heading": "Finish",
+          "body": "Silver & Rosegold Toned, Heavy Polished Diamond Used"
+        },
+        {
+          "heading": "Other Features",
+          "body": "Adjustable Length: Provide an adjustable chain length option to accommodate various necklines and personal preferences., High-Quality Craftsmanship: Emphasize the craftsmanship and attention to detail that goes into creating each necklace., Nickel free and Lead free as per International Standards that makes it very skin friendly. The plating is non-allergic and safe for all environments."
+        }
+      ],
+      "product_highlights": {
+        "Base Material": "Brass",
+        "Color": "Silver, Blue, White",
+        "Plating": "Gold-plated",
+        "Occasion": "Love, Religious, Wedding & Engagement"
+      },
+      "specifications": {}
+    }
+  }
+}

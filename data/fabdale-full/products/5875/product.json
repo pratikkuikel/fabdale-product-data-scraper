@@ -1,0 +1,38 @@
+{
+  "product_id": "5875",
+  "sku": "Fab-Dress-FSHD-001BK-M",
+  "product": {
+    "name": "Fablina Shirt-style midi dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm64c673554c3ce?pid=KDEHDMR65RMYV2UJ&marketplace=FLIPKART&lid=LSTKDEHDMR65RMYV2UJ3U9IN6&swatchAttr=size&pageUID=1775494354363"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHDMR65RMYV2UJ",
+    "path": "../../sources/pid-KDEHDMR65RMYV2UJ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm64c673554c3ce?pid=KDEHDMR65RMYV2UJ&marketplace=FLIPKART&lid=LSTKDEHDMR65RMYV2UJ3U9IN6&swatchAttr=size&pageUID=1775494354363",
+    "scraped_at": "2026-08-15T22:27:22.230Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm64c673554c3ce?pid=KDEHDMR65RMYV2UJ&marketplace=FLIPKART&lid=LSTKDEHDMR65RMYV2UJ3U9IN6&swatchAttr=size&pageUID=1775494354363\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itm64c673554c3ce?pid=KDEHDMR65RMYV2UJ&marketplace=FLIPKART&lid=LSTKDEHDMR65RMYV2UJ3U9IN6&swatchAttr=size&pageUID=1775494354363\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:27:22.363Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

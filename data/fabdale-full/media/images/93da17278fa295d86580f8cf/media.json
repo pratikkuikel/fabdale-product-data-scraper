@@ -1,0 +1,30 @@
+{
+  "key": "93da17278fa295d86580f8cf",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T20:39:52.478Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/2/i/m-kurto-dimmy105-dimmy-resized-original-imah34uyg4zqtrwu.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/2/i/m-kurto-dimmy105-dimmy-resized-original-imah34uyg4zqtrwu.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/a/j/c/m-kurto-dimmy105-dimmy-original-imah34uym3r7ggnf.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/a/j/c/m-kurto-dimmy105-dimmy-original-imah34uym3r7ggnf.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/6/t/s/m-kurto-dimmy105-dimmy-original-imah34uyxc7qgysn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/6/t/s/m-kurto-dimmy105-dimmy-original-imah34uyxc7qgysn.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

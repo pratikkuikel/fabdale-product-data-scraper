@@ -1,0 +1,23 @@
+{
+  "key": "edf2a8025d0bbb2dc6e9fea3",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T20:52:47.899Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mangalsutra-tanmaniya/w/q/x/-original-imahgf9ftxrpudg7.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mangalsutra-tanmaniya/w/q/x/-original-imahgf9ftxrpudg7.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ring/o/y/s/adjustable-4-gntr1046-toe-ring-goldfish-original-imahfxb6zjvyygqn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ring/o/y/s/adjustable-4-gntr1046-toe-ring-goldfish-original-imahfxb6zjvyygqn.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

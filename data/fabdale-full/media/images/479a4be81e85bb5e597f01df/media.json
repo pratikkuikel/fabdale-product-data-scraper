@@ -1,0 +1,44 @@
+{
+  "key": "479a4be81e85bb5e597f01df",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T21:13:59.793Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/z/d/k/s-dr11264-sheetal-associates-resized-original-imah2xccfsvqwam7.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/z/d/k/s-dr11264-sheetal-associates-resized-original-imah2xccfsvqwam7.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/i/h/y/s-dr11264-sheetal-associates-original-imah2xcceh6nvbhz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/i/h/y/s-dr11264-sheetal-associates-original-imah2xcceh6nvbhz.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/y/y/n/s-dr11264-sheetal-associates-original-imah2xccuprp8qzt.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/y/y/n/s-dr11264-sheetal-associates-original-imah2xccuprp8qzt.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/o/y/s-dr11264-sheetal-associates-original-imah2xccxysj39fn.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/4/o/y/s-dr11264-sheetal-associates-original-imah2xccxysj39fn.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/c/x/y/s-dr11264-sheetal-associates-original-imah2xccwk9jku9n.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/dress/c/x/y/s-dr11264-sheetal-associates-original-imah2xccwk9jku9n.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

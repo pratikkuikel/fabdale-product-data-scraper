@@ -1,0 +1,38 @@
+{
+  "product_id": "5808",
+  "sku": "Fab-Dress-MISS-010PK-XXL",
+  "product": {
+    "name": "Moonette Ice-Cream Printed-Midi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itmdd6540c9b901a?pid=KDEHAKQZJUU6MGWV&marketplace=FLIPKART&lid=LSTKDEHAKQZJUU6MGWV2PIZG5&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHAKQZJUU6MGWV",
+    "path": "../../sources/pid-KDEHAKQZJUU6MGWV/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itmdd6540c9b901a?pid=KDEHAKQZJUU6MGWV&marketplace=FLIPKART&lid=LSTKDEHAKQZJUU6MGWV2PIZG5&swatchAttr=size",
+    "scraped_at": "2026-08-15T22:21:34.935Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itmdd6540c9b901a?pid=KDEHAKQZJUU6MGWV&marketplace=FLIPKART&lid=LSTKDEHAKQZJUU6MGWV2PIZG5&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/miss-chief-girls-midi-knee-length-casual-dress/p/itmdd6540c9b901a?pid=KDEHAKQZJUU6MGWV&marketplace=FLIPKART&lid=LSTKDEHAKQZJUU6MGWV2PIZG5&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:21:35.010Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

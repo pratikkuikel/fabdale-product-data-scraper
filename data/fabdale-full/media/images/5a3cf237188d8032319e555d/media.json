@@ -1,0 +1,44 @@
+{
+  "key": "5a3cf237188d8032319e555d",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T21:34:15.894Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/d/2/5-6-years-let-your-little-one-shine-like-a-star-with-this-resized-original-imahfcqzaghakbzp.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/d/2/5-6-years-let-your-little-one-shine-like-a-star-with-this-resized-original-imahfcqzaghakbzp.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/2/g/e/4-5-years-laxmi-this-elegant-dress-is-at-the-top-of-the-wish-original-imahaqghggqmwv7g.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/2/g/e/4-5-years-laxmi-this-elegant-dress-is-at-the-top-of-the-wish-original-imahaqghggqmwv7g.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/6/p/5/4-5-years-laxmi-this-elegant-dress-is-at-the-top-of-the-wish-original-imahaqghct47cyhj.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/6/p/5/4-5-years-laxmi-this-elegant-dress-is-at-the-top-of-the-wish-original-imahaqghct47cyhj.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/t/t/t/4-5-years-laxmi-this-elegant-dress-is-at-the-top-of-the-wish-original-imahaqghfufykwhz.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/t/t/t/4-5-years-laxmi-this-elegant-dress-is-at-the-top-of-the-wish-original-imahaqghfufykwhz.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/5/5/g/4-5-years-laxmi-this-elegant-dress-is-at-the-top-of-the-wish-original-imahaqghgya8vp6t.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/shopsy-kids-dress/5/5/g/4-5-years-laxmi-this-elegant-dress-is-at-the-top-of-the-wish-original-imahaqghgya8vp6t.jpeg?q=100",
+      "local_path": "assets/images/image-005.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KDEGE8DQYRRH8674",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/purnkamaay-trendz-girls-maxi-full-length-party-dress/p/itmf56b8ff7aaabc?pid=KDEGE8DQYRRH8674&marketplace=FLIPKART&lid=LSTKDEGE8DQYRRH86747KVJWO&swatchAttr=size&pageUID=1775494212970\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/purnkamaay-trendz-girls-maxi-full-length-party-dress/p/itmf56b8ff7aaabc?pid=KDEGE8DQYRRH8674&marketplace=FLIPKART&lid=LSTKDEGE8DQYRRH86747KVJWO&swatchAttr=size&pageUID=1775494212970\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "5864"
+  ],
+  "source_path": "sources/pid-KDEGE8DQYRRH8674/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T22:26:57.793Z",
+  "completed_at": "2026-08-15T22:26:58.041Z"
+}

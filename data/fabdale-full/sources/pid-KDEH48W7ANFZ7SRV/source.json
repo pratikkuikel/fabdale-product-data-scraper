@@ -1,0 +1,176 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/miss-chief-baby-girls-below-knee-festive-wedding-dress/p/itmfdfdf586ae156?pid=KDEH48W7ANFZ7SRV&marketplace=FLIPKART&lid=LSTKDEH48W7ANFZ7SRV5FCVZG&swatchAttr=size&pageUID=1775149993241",
+    "scraped_at": "2026-08-15T22:08:37.883Z",
+    "final_url": "https://www.flipkart.com/miss-chief-baby-girls-below-knee-festive-wedding-dress/p/itmfdfdf586ae156?pid=KDEH48W7ANFZ7SRV&marketplace=FLIPKART&lid=LSTKDEH48W7ANFZ7SRV5FCVZG&swatchAttr=size&pageUID=1775149993241"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T22:09:14.979Z"
+  },
+  "content": {
+    "title": "Miss & Chief Baby Girls Below Knee Festive/Wedding Dress",
+    "short_description": "Buy Miss & Chief Baby Girls Below Knee Festive/Wedding Dress for Rs.1299.0 online. Miss & Chief Baby Girls Below Knee Festive/Wedding Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "description": "Buy Miss & Chief Baby Girls Below Knee Festive/Wedding Dress for Rs.1299.0 online. Miss & Chief Baby Girls Below Knee Festive/Wedding Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/u/n/6-12-months-d-28-miss-chief-resized-original-imah48w6zyfhea69.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/u/n/6-12-months-d-28-miss-chief-resized-original-imah48w6zyfhea69.jpeg?q=100",
+        "local_path": "../../media/images/e71e91dae7a6698268cdf933/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/i/f/6-12-months-d-28-miss-chief-original-imah48w6cwdqvwtr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/i/f/6-12-months-d-28-miss-chief-original-imah48w6cwdqvwtr.jpeg?q=100",
+        "local_path": "../../media/images/e71e91dae7a6698268cdf933/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/x/p/6-12-months-d-28-miss-chief-original-imah48w6n3cpfmgj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/x/p/6-12-months-d-28-miss-chief-original-imah48w6n3cpfmgj.jpeg?q=100",
+        "local_path": "../../media/images/e71e91dae7a6698268cdf933/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/r/t/6-12-months-d-28-miss-chief-original-imah48w6zhpugmun.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/r/t/6-12-months-d-28-miss-chief-original-imah48w6zhpugmun.jpeg?q=100",
+        "local_path": "../../media/images/e71e91dae7a6698268cdf933/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/i/1/6-12-months-d-28-miss-chief-original-imah48w6sketbyug.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/i/1/6-12-months-d-28-miss-chief-original-imah48w6sketbyug.jpeg?q=100",
+        "local_path": "../../media/images/e71e91dae7a6698268cdf933/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Miss & Chief Baby Girls Below Knee Festive/Wedding Dress",
+      "description": "Buy Miss & Chief Baby Girls Below Knee Festive/Wedding Dress for Rs.1299.0 online. Miss & Chief Baby Girls Below Knee Festive/Wedding Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/g/u/n/6-12-months-d-28-miss-chief-resized-original-imah48w6zyfhea69.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/i/f/6-12-months-d-28-miss-chief-original-imah48w6cwdqvwtr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/x/p/6-12-months-d-28-miss-chief-original-imah48w6n3cpfmgj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/m/r/t/6-12-months-d-28-miss-chief-original-imah48w6zhpugmun.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/x/i/1/6-12-months-d-28-miss-chief-original-imah48w6sketbyug.jpeg?q=70"
+      ],
+      "sku": "KDEH48W7ANFZ7SRV",
+      "color": "Pink",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 167,
+        "ratingCount": 3952,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Miss & Chief",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 251,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Bishal Biswas",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-07",
+          "reviewBody": "Extremely cute dress. Blindly go for it within 12 months age.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Satrughna Behera",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-10",
+          "reviewBody": "Product is quality best and size perfect thank you 😊 Flipkart",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth every penny",
+          "author": {
+            "name": "Rajeshwari Kadri",
+            "@type": "Person"
+          },
+          "datePublished": "2024-12-09",
+          "reviewBody": "Superb",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e71e91dae7a6698268cdf933",
+      "path": "media/images/e71e91dae7a6698268cdf933/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "key": "bf9a235f6a923bf698e39d62",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T20:41:59.064Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/p/q/y/m-dm38-dimmy-resized-original-image65ynxzbgyf7.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/p/q/y/m-dm38-dimmy-resized-original-image65ynxzbgyf7.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l2xmqvk0/kurta/f/z/a/m-dm38-dimmy-original-image65yzdtqpffe.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l2xmqvk0/kurta/f/z/a/m-dm38-dimmy-original-image65yzdtqpffe.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l2c753k0/kurta/k/y/6/m-ku50-digimi-original-imagdpffc9e57hvr.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l2c753k0/kurta/k/y/6/m-ku50-digimi-original-imagdpffc9e57hvr.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

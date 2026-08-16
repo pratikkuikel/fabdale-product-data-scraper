@@ -1,26 +1,209 @@
 {
   "source": {
     "url": "https://www.flipkart.com/tibra-collection-men-embroidered-straight-kurta/p/itmdbc5b890a7e20?pid=KTAGMY3NQNUP9YZW&marketplace=FLIPKART&lid=LSTKTAGMY3NQNUP9YZWBZBWZR&swatchAttr=size&pageUID=1774107406050",
-    "scraped_at": "2026-08-15T13:59:39.316Z",
+    "scraped_at": "2026-08-15T19:58:31.317Z",
     "final_url": "https://www.flipkart.com/tibra-collection-men-embroidered-straight-kurta/p/itmdbc5b890a7e20?pid=KTAGMY3NQNUP9YZW&marketplace=FLIPKART&lid=LSTKTAGMY3NQNUP9YZWBZBWZR&swatchAttr=size&pageUID=1774107406050"
   },
   "crawl": {
-    "status": "failed",
-    "error": "page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/tibra-collection-men-embroidered-straight-kurta/p/itmdbc5b890a7e20?pid=KTAGMY3NQNUP9YZW&marketplace=FLIPKART&lid=LSTKTAGMY3NQNUP9YZWBZBWZR&swatchAttr=size&pageUID=1774107406050\", waiting until \"domcontentloaded\"\u001b[22m\n",
-    "attempt_count": 3,
-    "completed_at": "2026-08-15T14:00:41.337Z"
+    "status": "success",
+    "error": null,
+    "attempt_count": 4,
+    "completed_at": "2026-08-15T19:58:38.454Z"
   },
   "content": {
-    "title": null,
-    "short_description": null,
-    "description": null,
-    "specifications": {}
+    "title": "Tibra Collection Men Embroidered Straight Kurta",
+    "short_description": "Color: Orange\nFabric: Cotton Blend\nPattern: Embroidered\nType: Straight\nFit: Regular Fit",
+    "description": "Elegant Embroidered Kurta\nThis men's kurta features exquisite embroidery on the front panel, adding a touch of elegance and so…\n\nComfortable Cotton Blend Fabric\nCrafted from a high-quality cotton blend fabric, this kurta offers a comfortable and breathable feel…\n\nClassic Mandarin Neck\nDesigned with a traditional Mandarin collar, this kurta exudes a timeless charm. The Mandarin collar…\n\nVersatile Knee Length\nWith its knee-length design, this straight-cut kurta offers versatility and modern style. The length…\n\nEasy Care and Maintenance\nMaintaining this kurta is a breeze, as it can be machine washed as per the tag instructions. This al…",
+    "specifications": {
+      "Pattern": "Embroidered",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Fit": "Regular Fit",
+      "Color": "Orange"
+    }
   },
   "media": {
-    "images": [],
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/h/3/y/s-patti-101-tibra-collection-original-imahktfykywszhaa.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/h/3/y/s-patti-101-tibra-collection-original-imahktfykywszhaa.jpeg?q=100",
+        "local_path": "../../media/images/fa044e14d39fcce7ee38b8a5/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/x/l/s-patti-101-tibra-collection-original-imahktfyzhknwqgh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/x/l/s-patti-101-tibra-collection-original-imahktfyzhknwqgh.jpeg?q=100",
+        "local_path": "../../media/images/fa044e14d39fcce7ee38b8a5/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/l/x/s-patti-101-tibra-collection-original-imahktfyz6zjh3db.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/l/x/s-patti-101-tibra-collection-original-imahktfyz6zjh3db.jpeg?q=100",
+        "local_path": "../../media/images/fa044e14d39fcce7ee38b8a5/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/g/9/s-patti-101-tibra-collection-original-imahktfybjkyzhex.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/g/9/s-patti-101-tibra-collection-original-imahktfybjkyzhex.jpeg?q=100",
+        "local_path": "../../media/images/fa044e14d39fcce7ee38b8a5/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/1/t/b/s-patti-101-tibra-collection-original-imahktfy2eedwyyq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/1/t/b/s-patti-101-tibra-collection-original-imahktfy2eedwyyq.jpeg?q=100",
+        "local_path": "../../media/images/fa044e14d39fcce7ee38b8a5/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
     "videos": []
   },
   "raw": {
-    "json_ld": null
+    "json_ld": {
+      "name": "Tibra Collection Men Embroidered Straight Kurta",
+      "description": "Tibra Collection Men Embroidered Straight Kurta - Buy Tibra Collection Men Embroidered Straight Kurta For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/h/3/y/s-patti-101-tibra-collection-original-imahktfykywszhaa.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/u/x/l/s-patti-101-tibra-collection-original-imahktfyzhknwqgh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/0/l/x/s-patti-101-tibra-collection-original-imahktfyz6zjh3db.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/g/9/s-patti-101-tibra-collection-original-imahktfybjkyzhex.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/1/t/b/s-patti-101-tibra-collection-original-imahktfy2eedwyyq.jpeg?q=70"
+      ],
+      "sku": "KTAGMY3NQNUP9YZW",
+      "color": "Orange",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 1515,
+        "ratingCount": 25996,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Tibra Collection",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 320,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Super!",
+          "author": {
+            "name": "Pradipta Sau",
+            "@type": "Person"
+          },
+          "datePublished": "2022-09-25",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Shruty Raut",
+            "@type": "Person"
+          },
+          "datePublished": "2022-11-05",
+          "reviewBody": "Best ever kurta... 😍😍😍😍in this price gooo for it as shown as picture",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Simply awesome",
+          "author": {
+            "name": "Rahul Sharma ",
+            "@type": "Person"
+          },
+          "datePublished": "2022-10-27",
+          "reviewBody": "Very very good product i am soo happy 😊😊",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Elegant Embroidered Kurta",
+          "body": "This men's kurta features exquisite embroidery on the front panel, adding a touch of elegance and so…"
+        },
+        {
+          "heading": "Comfortable Cotton Blend Fabric",
+          "body": "Crafted from a high-quality cotton blend fabric, this kurta offers a comfortable and breathable feel…"
+        },
+        {
+          "heading": "Classic Mandarin Neck",
+          "body": "Designed with a traditional Mandarin collar, this kurta exudes a timeless charm. The Mandarin collar…"
+        },
+        {
+          "heading": "Versatile Knee Length",
+          "body": "With its knee-length design, this straight-cut kurta offers versatility and modern style. The length…"
+        },
+        {
+          "heading": "Easy Care and Maintenance",
+          "body": "Maintaining this kurta is a breeze, as it can be machine washed as per the tag instructions. This al…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Embroidered",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Fit": "Regular Fit",
+        "Color": "Orange"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "fa044e14d39fcce7ee38b8a5",
+      "path": "media/images/fa044e14d39fcce7ee38b8a5/media.json",
+      "reused": true
+    },
+    "videos": null
   }
 }

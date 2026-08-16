@@ -1,0 +1,212 @@
+{
+  "product_id": "5653",
+  "sku": "Fab-Dress-PURNB-019BK-L",
+  "product": {
+    "name": "Parnika Multi-colored floral pattern",
+    "parent_id": "5655",
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm1adebc8590947?pid=KDEHHHFMFYKQ3YFZ&marketplace=FLIPKART&lid=LSTKDEHHHFMFYKQ3YFZVEDBQ4&swatchAttr=size&pageUID=1775115854525"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHHHFMFYKQ3YFZ",
+    "path": "../../sources/pid-KDEHHHFMFYKQ3YFZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm1adebc8590947?pid=KDEHHHFMFYKQ3YFZ&marketplace=FLIPKART&lid=LSTKDEHHHFMFYKQ3YFZVEDBQ4&swatchAttr=size&pageUID=1775115854525",
+    "scraped_at": "2026-08-15T21:46:52.592Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm1adebc8590947?pid=KDEHHHFMFYKQ3YFZ&marketplace=FLIPKART&lid=LSTKDEHHHFMFYKQ3YFZVEDBQ4&swatchAttr=size&pageUID=1775115854525"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:47:14.901Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress",
+    "short_description": "Fabric: Georgette, Cotton Blend\nPattern: Floral Print\nType: Fit and Flare Dress\nOccasion: Casual\nPrimary Color: Black",
+    "description": "Additional Features\nOther FeaturesGive your child a stylish look this season with this attractive frock from PURNKAMAAY TRENDZ on Flipkart. Pair it with a sneaker and trendy handbag to get her ready for a Birthday, Photo shoots or parties and other festive occasions. This adorable baby girl’s frock is made from satin silk fabric with a digital floral print pattern. It features a round neckline, half sleeve crop shrug with brooch. Frock has a Pullover and fixed self-fabric belt at waist. Get stylish this season with this light and comfortable shrug style party wear baby girl’s frock. Be the sunshine of everyone’s eyes dressed with this trendy crop shrug babygo girl’s dress.Other DimensionsThis uniquely designed Product is made of very fine quality material and comes in various ranges & varieties and hence fulfills the need of all.\n\nOther Features\nGive your child a stylish look this season with this attractive frock from PURNKAMAAY TRENDZ on Flipkart. Pair it with a sneaker and trendy handbag to get her ready for a Birthday, Photo shoots or parties and other festive occasions. This adorable baby girl’s frock is made from satin silk fabric with a digital floral print pattern. It features a round neckline, half sleeve crop shrug with brooch. Frock has a Pullover and fixed self-fabric belt at waist. Get stylish this season with this light and comfortable shrug style party wear baby girl’s frock. Be the sunshine of everyone’s eyes dressed with this trendy crop shrug babygo girl’s dress.\n\nOther Dimensions\nThis uniquely designed Product is made of very fine quality material and comes in various ranges & varieties and hence fulfills the need of all.",
+    "specifications": {
+      "Type": "Fit and Flare Dress",
+      "Occasion": "Casual",
+      "Pattern": "Floral Print",
+      "Primary Color": "Black",
+      "Fabric": "Georgette, Cotton Blend"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e78a89ecc3de2a1c4cb8e639",
+      "path": "media/images/e78a89ecc3de2a1c4cb8e639/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/u/q/1-2-years-pushpa-alka-original-imah97hqnyaryuck.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/u/q/1-2-years-pushpa-alka-original-imah97hqnyaryuck.jpeg?q=100",
+        "local_path": "../../media/images/e78a89ecc3de2a1c4cb8e639/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/j/g/3-4-years-s-pushpa-black-evara-original-imah99w92gvpmttu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/j/g/3-4-years-s-pushpa-black-evara-original-imah99w92gvpmttu.jpeg?q=100",
+        "local_path": "../../media/images/e78a89ecc3de2a1c4cb8e639/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/r/v/1-2-years-pushpa-alka-original-imah97hq4f9mgvdh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/r/v/1-2-years-pushpa-alka-original-imah97hq4f9mgvdh.jpeg?q=100",
+        "local_path": "../../media/images/e78a89ecc3de2a1c4cb8e639/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/l/e/1-2-years-pushpa-alka-original-imah97hqfznqbfdc.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/l/e/1-2-years-pushpa-alka-original-imah97hqfznqbfdc.jpeg?q=100",
+        "local_path": "../../media/images/e78a89ecc3de2a1c4cb8e639/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/8/a/1-2-years-pushpa-alka-original-imah97hqfkmqhjat.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/8/a/1-2-years-pushpa-alka-original-imah97hqfkmqhjat.jpeg?q=100",
+        "local_path": "../../media/images/e78a89ecc3de2a1c4cb8e639/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress for Rs.1299.0 online. PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/p/u/q/1-2-years-pushpa-alka-original-imah97hqnyaryuck.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/i/j/g/3-4-years-s-pushpa-black-evara-original-imah99w92gvpmttu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/r/v/1-2-years-pushpa-alka-original-imah97hq4f9mgvdh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/z/l/e/1-2-years-pushpa-alka-original-imah97hqfznqbfdc.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/q/8/a/1-2-years-pushpa-alka-original-imah97hqfkmqhjat.jpeg?q=70"
+      ],
+      "sku": "KDEHHHFMFYKQ3YFZ",
+      "color": "BLACK",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 36,
+        "ratingCount": 1112,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 259,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Murthy Gowda",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-07",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Debasis  Gorai ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-02",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Madhavi Madhu",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-19",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Additional Features",
+          "body": "Other FeaturesGive your child a stylish look this season with this attractive frock from PURNKAMAAY TRENDZ on Flipkart. Pair it with a sneaker and trendy handbag to get her ready for a Birthday, Photo shoots or parties and other festive occasions. This adorable baby girl’s frock is made from satin silk fabric with a digital floral print pattern. It features a round neckline, half sleeve crop shrug with brooch. Frock has a Pullover and fixed self-fabric belt at waist. Get stylish this season with this light and comfortable shrug style party wear baby girl’s frock. Be the sunshine of everyone’s eyes dressed with this trendy crop shrug babygo girl’s dress.Other DimensionsThis uniquely designed Product is made of very fine quality material and comes in various ranges & varieties and hence fulfills the need of all."
+        },
+        {
+          "heading": "Other Features",
+          "body": "Give your child a stylish look this season with this attractive frock from PURNKAMAAY TRENDZ on Flipkart. Pair it with a sneaker and trendy handbag to get her ready for a Birthday, Photo shoots or parties and other festive occasions. This adorable baby girl’s frock is made from satin silk fabric with a digital floral print pattern. It features a round neckline, half sleeve crop shrug with brooch. Frock has a Pullover and fixed self-fabric belt at waist. Get stylish this season with this light and comfortable shrug style party wear baby girl’s frock. Be the sunshine of everyone’s eyes dressed with this trendy crop shrug babygo girl’s dress."
+        },
+        {
+          "heading": "Other Dimensions",
+          "body": "This uniquely designed Product is made of very fine quality material and comes in various ranges & varieties and hence fulfills the need of all."
+        }
+      ],
+      "product_highlights": {
+        "Type": "Fit and Flare Dress",
+        "Occasion": "Casual",
+        "Pattern": "Floral Print",
+        "Primary Color": "Black",
+        "Fabric": "Georgette, Cotton Blend"
+      },
+      "specifications": {}
+    }
+  }
+}

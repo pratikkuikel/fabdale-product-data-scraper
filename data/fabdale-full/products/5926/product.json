@@ -1,0 +1,38 @@
+{
+  "product_id": "5926",
+  "sku": "Fab-Dress-FSHD-008MR-XL",
+  "product": {
+    "name": "Fablina Two-tone maxi dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fashion-dream-girls-calf-length-festive-wedding-dress/p/itm1650c9218aa56?pid=KDEGA3ESM8NASXHR&marketplace=FLIPKART&lid=LSTKDEGA3ESM8NASXHRDFEK2K&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGA3ESM8NASXHR",
+    "path": "../../sources/pid-KDEGA3ESM8NASXHR/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fashion-dream-girls-calf-length-festive-wedding-dress/p/itm1650c9218aa56?pid=KDEGA3ESM8NASXHR&marketplace=FLIPKART&lid=LSTKDEGA3ESM8NASXHRDFEK2K&swatchAttr=size",
+    "scraped_at": "2026-08-15T22:32:59.020Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/fashion-dream-girls-calf-length-festive-wedding-dress/p/itm1650c9218aa56?pid=KDEGA3ESM8NASXHR&marketplace=FLIPKART&lid=LSTKDEGA3ESM8NASXHRDFEK2K&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/fashion-dream-girls-calf-length-festive-wedding-dress/p/itm1650c9218aa56?pid=KDEGA3ESM8NASXHR&marketplace=FLIPKART&lid=LSTKDEGA3ESM8NASXHRDFEK2K&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:32:59.105Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

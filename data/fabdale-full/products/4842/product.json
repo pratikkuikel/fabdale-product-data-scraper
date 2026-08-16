@@ -1,0 +1,159 @@
+{
+  "product_id": "4842",
+  "sku": "Fab-Kurta-DMMY-009LB-S",
+  "product": {
+    "name": "Devansh Zip Front shirt",
+    "parent_id": "5345",
+    "notes": "https://www.flipkart.com/dimmy-men-solid-straight-kurta/p/itmaffef347ddc01?pid=KTAGEYBXATDZN2DV&lid=LSTKTAGEYBXATDZN2DVFPDYAN&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGEYBXATDZN2DV",
+    "path": "../../sources/pid-KTAGEYBXATDZN2DV/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/dimmy-men-solid-straight-kurta/p/itmaffef347ddc01?pid=KTAGEYBXATDZN2DV&lid=LSTKTAGEYBXATDZN2DVFPDYAN&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T20:39:54.264Z",
+    "final_url": "https://www.flipkart.com/dimmy-men-solid-straight-kurta/p/itmaffef347ddc01?pid=KTAGEYBXATDZN2DV&lid=LSTKTAGEYBXATDZN2DVFPDYAN&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:40:03.778Z"
+  },
+  "content": {
+    "title": "DIMMY Men Solid Straight Kurta",
+    "short_description": "DIMMY Men Solid Straight Kurta - Buy DIMMY Men Solid Straight Kurta For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "description": "DIMMY Men Solid Straight Kurta - Buy DIMMY Men Solid Straight Kurta For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "96cef70d5c85fdcd888d6724",
+      "path": "media/images/96cef70d5c85fdcd888d6724/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l2xmqvk0/kurta/g/u/k/s-ku09-digimi-original-image5yh6spzsbme.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l2xmqvk0/kurta/g/u/k/s-ku09-digimi-original-image5yh6spzsbme.jpeg?q=100",
+        "local_path": "../../media/images/96cef70d5c85fdcd888d6724/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l2c753k0/kurta/t/a/m/xl-ku12-digimi-original-imagdpdgpdszywae.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l2c753k0/kurta/t/a/m/xl-ku12-digimi-original-imagdpdgpdszywae.jpeg?q=100",
+        "local_path": "../../media/images/96cef70d5c85fdcd888d6724/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/l2xmqvk0/kurta/t/x/a/s-ku09-digimi-original-image5yhtzyxpd38.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/l2xmqvk0/kurta/t/x/a/s-ku09-digimi-original-image5yhtzyxpd38.jpeg?q=100",
+        "local_path": "../../media/images/96cef70d5c85fdcd888d6724/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "DIMMY Men Solid Straight Kurta",
+      "description": "DIMMY Men Solid Straight Kurta - Buy DIMMY Men Solid Straight Kurta For Only Rs. 1399.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/l2xmqvk0/kurta/g/u/k/s-ku09-digimi-original-image5yh6spzsbme.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l2c753k0/kurta/t/a/m/xl-ku12-digimi-original-imagdpdgpdszywae.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/l2xmqvk0/kurta/t/x/a/s-ku09-digimi-original-image5yhtzyxpd38.jpeg?q=70"
+      ],
+      "sku": "KTAGEYBXATDZN2DV",
+      "color": "Sky Blue",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 548,
+        "ratingCount": 8717,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "DIMMY",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 250,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Really Nice",
+          "author": {
+            "name": "Avinash  Kumar rajak ",
+            "@type": "Person"
+          },
+          "datePublished": "2022-09-12",
+          "reviewBody": "Nice quality kurta",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Digambar Munde",
+            "@type": "Person"
+          },
+          "datePublished": "2022-05-24",
+          "reviewBody": "Good one",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Snehasis Baram",
+            "@type": "Person"
+          },
+          "datePublished": "2023-01-29",
+          "reviewBody": "Awesome ❤️❤️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

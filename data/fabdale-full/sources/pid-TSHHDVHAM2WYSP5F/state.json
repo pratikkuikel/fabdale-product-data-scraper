@@ -1,0 +1,21 @@
+{
+  "source_key": "pid-TSHHDVHAM2WYSP5F",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/vebnor-solid-men-polo-neck-brown-t-shirt/p/itmd01d322997e92?pid=TSHHDVHAM2WYSP5F&lid=LSTTSHHDVHAM2WYSP5FHFOTO9&marketplace=FLIPKART&sattr[]=color&st=color\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/vebnor-solid-men-polo-neck-brown-t-shirt/p/itmd01d322997e92?pid=TSHHDVHAM2WYSP5F&lid=LSTTSHHDVHAM2WYSP5FHFOTO9&marketplace=FLIPKART&sattr[]=color&st=color\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "4995",
+    "4996",
+    "4997",
+    "4998",
+    "4999",
+    "5187",
+    "5188"
+  ],
+  "source_path": "sources/pid-TSHHDVHAM2WYSP5F/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T21:01:10.269Z",
+  "completed_at": "2026-08-15T21:01:10.411Z"
+}

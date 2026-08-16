@@ -1,0 +1,38 @@
+{
+  "product_id": "5855",
+  "sku": "Fab-Dress-PURN-002G-M",
+  "product": {
+    "name": "Parnika Triple-tiered ruffled skir",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-girls-maxi-full-length-party-dress/p/itm4f66bd3ea67c2?pid=KDEGDPAAF5UPPQPU&lid=LSTKDEGDPAAF5UPPQPUNDMQEN&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGDPAAF5UPPQPU",
+    "path": "../../sources/pid-KDEGDPAAF5UPPQPU/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-girls-maxi-full-length-party-dress/p/itm4f66bd3ea67c2?pid=KDEGDPAAF5UPPQPU&lid=LSTKDEGDPAAF5UPPQPUNDMQEN&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T22:26:39.453Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/purnkamaay-trendz-girls-maxi-full-length-party-dress/p/itm4f66bd3ea67c2?pid=KDEGDPAAF5UPPQPU&lid=LSTKDEGDPAAF5UPPQPUNDMQEN&marketplace=FLIPKART&sattr[]=color&st=color\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/purnkamaay-trendz-girls-maxi-full-length-party-dress/p/itm4f66bd3ea67c2?pid=KDEGDPAAF5UPPQPU&lid=LSTKDEGDPAAF5UPPQPUNDMQEN&marketplace=FLIPKART&sattr[]=color&st=color\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:26:42.116Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

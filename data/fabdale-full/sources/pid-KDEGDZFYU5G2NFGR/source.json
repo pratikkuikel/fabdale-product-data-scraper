@@ -1,0 +1,160 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-girls-above-knee-party-dress/p/itmb6a1f315826a0?pid=KDEGDZFYU5G2NFGR&marketplace=FLIPKART&lid=LSTKDEGDZFYU5G2NFGROOPQLE&swatchAttr=size&pageUID=1775145864262",
+    "scraped_at": "2026-08-15T21:52:38.660Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-girls-above-knee-party-dress/p/itmb6a1f315826a0?pid=KDEGDZFYU5G2NFGR&marketplace=FLIPKART&lid=LSTKDEGDZFYU5G2NFGROOPQLE&swatchAttr=size&pageUID=1775145864262"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:52:53.944Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Girls Above Knee Party Dress",
+    "short_description": "Buy PURNKAMAAY TRENDZ Girls Above Knee Party Dress for Rs.1499.0 online. PURNKAMAAY TRENDZ Girls Above Knee Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "description": "Buy PURNKAMAAY TRENDZ Girls Above Knee Party Dress for Rs.1499.0 online. PURNKAMAAY TRENDZ Girls Above Knee Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/n/z/2-3-years-good-looking-printed-frocks-for-girls-product-fabric-resized-original-imaghqeexhpaeuhg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/n/z/2-3-years-good-looking-printed-frocks-for-girls-product-fabric-resized-original-imaghqeexhpaeuhg.jpeg?q=100",
+        "local_path": "../../media/images/9bc85a20d03627553a8740f8/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/x/0/2-3-years-good-looking-printed-frocks-for-girls-product-fabric-original-imaghqeegmdzgpjr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/x/0/2-3-years-good-looking-printed-frocks-for-girls-product-fabric-original-imaghqeegmdzgpjr.jpeg?q=100",
+        "local_path": "../../media/images/9bc85a20d03627553a8740f8/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/s/u/2-3-years-good-looking-printed-frocks-for-girls-product-fabric-original-imaghqeetrhrvptm.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/s/u/2-3-years-good-looking-printed-frocks-for-girls-product-fabric-original-imaghqeetrhrvptm.jpeg?q=100",
+        "local_path": "../../media/images/9bc85a20d03627553a8740f8/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Girls Above Knee Party Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Girls Above Knee Party Dress for Rs.1499.0 online. PURNKAMAAY TRENDZ Girls Above Knee Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/k/n/z/2-3-years-good-looking-printed-frocks-for-girls-product-fabric-resized-original-imaghqeexhpaeuhg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/n/x/0/2-3-years-good-looking-printed-frocks-for-girls-product-fabric-original-imaghqeegmdzgpjr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/s/u/2-3-years-good-looking-printed-frocks-for-girls-product-fabric-original-imaghqeetrhrvptm.jpeg?q=70"
+      ],
+      "sku": "KDEGDZFYU5G2NFGR",
+      "color": "PINK",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.1,
+        "reviewCount": 35,
+        "ratingCount": 599,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 338,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2022-09-18",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Gurpreet Kaur",
+            "@type": "Person"
+          },
+          "datePublished": "2022-09-17",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-23",
+          "reviewBody": "She is just 2 years old and 5 years dress looking perfect. Awesome 😎 n pretty 😍 look.",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "9bc85a20d03627553a8740f8",
+      "path": "media/images/9bc85a20d03627553a8740f8/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

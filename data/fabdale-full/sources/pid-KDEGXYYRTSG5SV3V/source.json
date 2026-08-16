@@ -1,0 +1,134 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/evosel-girls-midi-knee-length-casual-dress/p/itm29fbe8c49c4ff?pid=KDEGXYYRTSG5SV3V&marketplace=FLIPKART&lid=LSTKDEGXYYRTSG5SV3VPTNDW5&swatchAttr=size&pageUID=1775060609653",
+    "scraped_at": "2026-08-15T21:39:29.525Z",
+    "final_url": "https://www.flipkart.com/evosel-girls-midi-knee-length-casual-dress/p/itm29fbe8c49c4ff?pid=KDEGXYYRTSG5SV3V&marketplace=FLIPKART&lid=LSTKDEGXYYRTSG5SV3VPTNDW5&swatchAttr=size&pageUID=1775060609653"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:39:45.583Z"
+  },
+  "content": {
+    "title": "EVOSEL Girls Midi/Knee Length Casual Dress (Pink, Short Sleeve)",
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kids-dress/c/v/0/1-2-years-titali-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu8kgpewtyfg.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kids-dress/c/v/0/1-2-years-titali-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu8kgpewtyfg.jpeg?q=100",
+        "local_path": "../../media/images/cb1983ac336a4f5f51aa8fbc/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kids-dress/j/l/e/1-2-years-titali-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu8kaz7xkzjg.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kids-dress/j/l/e/1-2-years-titali-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu8kaz7xkzjg.jpeg?q=100",
+        "local_path": "../../media/images/cb1983ac336a4f5f51aa8fbc/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kids-dress/4/k/c/1-2-years-titali-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu8kgfm2yvzz.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kids-dress/4/k/c/1-2-years-titali-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu8kgfm2yvzz.jpeg?q=100",
+        "local_path": "../../media/images/cb1983ac336a4f5f51aa8fbc/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kids-dress/n/h/a/1-2-years-titali-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwuc3ftveu496.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kids-dress/n/h/a/1-2-years-titali-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwuc3ftveu496.jpeg?q=100",
+        "local_path": "../../media/images/cb1983ac336a4f5f51aa8fbc/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kids-dress/r/c/z/1-2-years-titali-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu8kh7ec3ctj.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/800/1070/xif0q/kids-dress/r/c/z/1-2-years-titali-this-elegant-dress-is-at-the-top-of-the-wish-original-imagwu8kh7ec3ctj.jpeg?q=100",
+        "local_path": "../../media/images/cb1983ac336a4f5f51aa8fbc/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/i/g/v/5-6-years-trendy-girls-white-dress-rkdress-resized-original-imahjx26fcrs7huk.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/i/g/v/5-6-years-trendy-girls-white-dress-rkdress-resized-original-imahjx26fcrs7huk.jpeg?q=100",
+        "local_path": "../../media/images/cb1983ac336a4f5f51aa8fbc/assets/images/image-006.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/r/e/b/3-4-years-pavitra-this-elegant-dress-is-at-the-top-of-the-wish-original-imahng2qyevdg2zr.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/r/e/b/3-4-years-pavitra-this-elegant-dress-is-at-the-top-of-the-wish-original-imahng2qyevdg2zr.jpeg?q=100",
+        "local_path": "../../media/images/cb1983ac336a4f5f51aa8fbc/assets/images/image-007.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/m/v/l/0-6-months-0-6m-maroon-bow-frock-uniqueee-resized-original-imahjkhnduye4zv3.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/m/v/l/0-6-months-0-6m-maroon-bow-frock-uniqueee-resized-original-imahjkhnduye4zv3.jpeg?q=100",
+        "local_path": "../../media/images/cb1983ac336a4f5f51aa8fbc/assets/images/image-008.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/x/b/r/3-6-months-baby-girl-dress-pack-of-2-strawberry-bag-br-world-original-imah32gax7fvytgr.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/x/b/r/3-6-months-baby-girl-dress-pack-of-2-strawberry-bag-br-world-original-imah32gax7fvytgr.jpeg?q=100",
+        "local_path": "../../media/images/cb1983ac336a4f5f51aa8fbc/assets/images/image-009.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/e/r/s/5-6-years-2026-1175-pink-fashionhub-original-imahm4c7gf4rq8mg.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/e/r/s/5-6-years-2026-1175-pink-fashionhub-original-imahm4c7gf4rq8mg.jpeg?q=100",
+        "local_path": "../../media/images/cb1983ac336a4f5f51aa8fbc/assets/images/image-010.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/b/s/u/6-7-years-love-bard-kavia-fashion-original-imahzxhzg4e6zntr.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/b/s/u/6-7-years-love-bard-kavia-fashion-original-imahzxhzg4e6zntr.jpeg?q=100",
+        "local_path": "../../media/images/cb1983ac336a4f5f51aa8fbc/assets/images/image-011.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/h/h/9/6-7-years-d21-s26-white-2-satjal-fab-original-imahhryjjtw7dyhg.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/h/h/9/6-7-years-d21-s26-white-2-satjal-fab-original-imahhryjjtw7dyhg.jpeg?q=100",
+        "local_path": "../../media/images/cb1983ac336a4f5f51aa8fbc/assets/images/image-012.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/4/f/x/5-6-years-mama-bottom-minnat-fashion-original-imahmty9rmfzdsga.jpeg?q=80",
+        "download_url": "https://rukminim1.flixcart.com/image/530/710/xif0q/kids-dress/4/f/x/5-6-years-mama-bottom-minnat-fashion-original-imahmty9rmfzdsga.jpeg?q=100",
+        "local_path": "../../media/images/cb1983ac336a4f5f51aa8fbc/assets/images/image-013.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null,
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "cb1983ac336a4f5f51aa8fbc",
+      "path": "media/images/cb1983ac336a4f5f51aa8fbc/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

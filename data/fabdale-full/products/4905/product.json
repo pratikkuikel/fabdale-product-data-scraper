@@ -1,0 +1,228 @@
+{
+  "product_id": "4905",
+  "sku": "Fab-Jewel-BRAD-014PW",
+  "product": {
+    "name": "Bradox Gold-Plated  Bangle Set",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/brado-jewellery-brass-diamond-bangle/p/itmaf962b7cf8601?pid=BBAHA8EJH86C8HM5&lid=LSTBBAHA8EJH86C8HM5UK3D7M&marketplace=FLIPKART&sattr[]=color&sattr[]=size&sattr[]=pack_of&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-BBAHA8EJH86C8HM5",
+    "path": "../../sources/pid-BBAHA8EJH86C8HM5/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/brado-jewellery-brass-diamond-bangle/p/itmaf962b7cf8601?pid=BBAHA8EJH86C8HM5&lid=LSTBBAHA8EJH86C8HM5UK3D7M&marketplace=FLIPKART&sattr[]=color&sattr[]=size&sattr[]=pack_of&st=color",
+    "scraped_at": "2026-08-15T20:51:07.070Z",
+    "final_url": "https://www.flipkart.com/brado-jewellery-brass-diamond-bangle/p/itmaf962b7cf8601?pid=BBAHA8EJH86C8HM5&lid=LSTBBAHA8EJH86C8HM5UK3D7M&marketplace=FLIPKART&sattr[]=color&sattr[]=size&sattr[]=pack_of&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:51:23.589Z"
+  },
+  "content": {
+    "title": "brado jewellery Brass Diamond Brass Bangle",
+    "short_description": "Color: Gold\nOccasion: Everyday, Love, Religious, Wedding & Engagement, Workwear\nBase Material: Brass\nBangle Size: Free\nPlating: Brass",
+    "description": "Diamond Features\nDiamond Color GradeDDiamond ClarityFLDiamond ShapeRoundNatural/Synthetic DiamondSyntheticDiamond ColorWhiteDiamond Weight0.07 carat\n\nModel Name\nPack of 2 Pair Gold Plated Bangles for Women and Girls\n\nModel Number\n000000 - Rubi - Kadu & Kirikirikura Kadu\n\nOccasion\nEveryday, Love, Religious, Wedding & Engagement, Workwear\n\nAdditional Features\nOther FeaturesWhether you’re attending a formal event, going to the office, or enjoying a casual day out, this watch adds a touch of sophistication and glamour to your look.\n\nOther Features\nWhether you’re attending a formal event, going to the office, or enjoying a casual day out, this watch adds a touch of sophistication and glamour to your look.\n\nProduct Details\nPlatingBrassSilver Weight8.5 gCertificationBrand CertificationBody StructureOpenDesignHeavyOther MaterialsBrassOccasionEveryday, Love, Religious, Wedding & Engagement, Workwear",
+    "specifications": {
+      "Color": "Gold",
+      "Base Material": "Brass",
+      "Bangle Size": "Free",
+      "Occasion": "Everyday, Love, Religious, Wedding & Engagement, Workwear",
+      "Plating": "Brass"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "9b52f6a9c4d31824cec472a0",
+      "path": "media/images/9b52f6a9c4d31824cec472a0/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/y/7/9/-original-imahfvyztnubmvfe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/y/7/9/-original-imahfvyztnubmvfe.jpeg?q=100",
+        "local_path": "../../media/images/9b52f6a9c4d31824cec472a0/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/z/m/o/-original-imahg2gxzya4sutv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/z/m/o/-original-imahg2gxzya4sutv.jpeg?q=100",
+        "local_path": "../../media/images/9b52f6a9c4d31824cec472a0/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/v/n/2/-original-imahhbvcbuy8xnzh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/v/n/2/-original-imahhbvcbuy8xnzh.jpeg?q=100",
+        "local_path": "../../media/images/9b52f6a9c4d31824cec472a0/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/q/f/q/-original-imahg2gxtpgce6gr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/q/f/q/-original-imahg2gxtpgce6gr.jpeg?q=100",
+        "local_path": "../../media/images/9b52f6a9c4d31824cec472a0/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/u/6/q/-original-imahg2gxrguxenen.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/u/6/q/-original-imahg2gxrguxenen.jpeg?q=100",
+        "local_path": "../../media/images/9b52f6a9c4d31824cec472a0/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "brado jewellery Brass Diamond Brass Bangle",
+      "description": "brado jewellery Brass Diamond Brass Bangle - Buy brado jewellery Brass Diamond Brass Bangle only for Rs. 999.0 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/y/7/9/-original-imahfvyztnubmvfe.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/z/m/o/-original-imahg2gxzya4sutv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/v/n/2/-original-imahhbvcbuy8xnzh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/q/f/q/-original-imahg2gxtpgce6gr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/u/6/q/-original-imahg2gxrguxenen.jpeg?q=70"
+      ],
+      "sku": "BBAHA8EJH86C8HM5",
+      "color": "Gold",
+      "category": "bangle_bracelet_armlet",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 26,
+        "ratingCount": 460,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "brado jewellery",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 287,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Not good",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-22",
+          "reviewBody": "It very small size waste of money really",
+          "reviewRating": {
+            "ratingValue": 2,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-11",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Pratiksha Manal",
+            "@type": "Person"
+          },
+          "datePublished": "2026-07-10",
+          "reviewBody": "Nice quality and design",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Diamond Features",
+          "body": "Diamond Color GradeDDiamond ClarityFLDiamond ShapeRoundNatural/Synthetic DiamondSyntheticDiamond ColorWhiteDiamond Weight0.07 carat"
+        },
+        {
+          "heading": "Model Name",
+          "body": "Pack of 2 Pair Gold Plated Bangles for Women and Girls"
+        },
+        {
+          "heading": "Model Number",
+          "body": "000000 - Rubi - Kadu & Kirikirikura Kadu"
+        },
+        {
+          "heading": "Occasion",
+          "body": "Everyday, Love, Religious, Wedding & Engagement, Workwear"
+        },
+        {
+          "heading": "Additional Features",
+          "body": "Other FeaturesWhether you’re attending a formal event, going to the office, or enjoying a casual day out, this watch adds a touch of sophistication and glamour to your look."
+        },
+        {
+          "heading": "Other Features",
+          "body": "Whether you’re attending a formal event, going to the office, or enjoying a casual day out, this watch adds a touch of sophistication and glamour to your look."
+        },
+        {
+          "heading": "Product Details",
+          "body": "PlatingBrassSilver Weight8.5 gCertificationBrand CertificationBody StructureOpenDesignHeavyOther MaterialsBrassOccasionEveryday, Love, Religious, Wedding & Engagement, Workwear"
+        }
+      ],
+      "product_highlights": {
+        "Color": "Gold",
+        "Base Material": "Brass",
+        "Bangle Size": "Free",
+        "Occasion": "Everyday, Love, Religious, Wedding & Engagement, Workwear",
+        "Plating": "Brass"
+      },
+      "specifications": {}
+    }
+  }
+}

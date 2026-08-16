@@ -1,0 +1,175 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/fubar-slim-fit-men-brown-trousers/p/itmef9e4cb486a3d?pid=TROFG7YG4UPR2GJ4&marketplace=FLIPKART&lid=LSTTROFG7YG4UPR2GJ42F53G7&swatchAttr=size&pageUID=1778061582223",
+    "scraped_at": "2026-08-15T23:34:06.571Z",
+    "final_url": "https://www.flipkart.com/fubar-slim-fit-men-brown-trousers/p/itmef9e4cb486a3d?pid=TROFG7YG4UPR2GJ4&marketplace=FLIPKART&lid=LSTTROFG7YG4UPR2GJ42F53G7&swatchAttr=size&pageUID=1778061582223"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T23:34:31.843Z"
+  },
+  "content": {
+    "title": "FUBAR Slim Fit Men Brown Trousers",
+    "short_description": "Color: Brown\nType: Casual Trousers\nFit: Slim Fit\nRise: Mid",
+    "description": "Styling Tips by Mayank, Fashion Influencer\nFashion a classic look for any occasion by donning these refined trousers. Team it with a polo shirt…",
+    "specifications": {
+      "Fit": "Slim Fit",
+      "Color": "Brown",
+      "Type": "Casual Trousers",
+      "Rise": "Mid"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/o/y/2/34-variant-5c-fubar-resized-original-imahye2aj5vekwdb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/o/y/2/34-variant-5c-fubar-resized-original-imahye2aj5vekwdb.jpeg?q=100",
+        "local_path": "../../media/images/00efa0a11442806ca794329f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/y/r/6/34-variant-5c-fubar-original-imahye2asqfwn5xq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/y/r/6/34-variant-5c-fubar-original-imahye2asqfwn5xq.jpeg?q=100",
+        "local_path": "../../media/images/00efa0a11442806ca794329f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/u/7/6/34-variant-5c-fubar-original-imahye2avf8ftjhw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/u/7/6/34-variant-5c-fubar-original-imahye2avf8ftjhw.jpeg?q=100",
+        "local_path": "../../media/images/00efa0a11442806ca794329f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Slim Fit Men Brown Trousers",
+      "description": "FUBAR Slim Fit Men Brown Trousers - Buy FUBAR Slim Fit Men Brown Trousers For Only Rs. 1758.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/o/y/2/34-variant-5c-fubar-resized-original-imahye2aj5vekwdb.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/y/r/6/34-variant-5c-fubar-original-imahye2asqfwn5xq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/u/7/6/34-variant-5c-fubar-original-imahye2avf8ftjhw.jpeg?q=70"
+      ],
+      "sku": "TROFG7YG4UPR2GJ4",
+      "color": "Biege",
+      "category": "trouser",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 188,
+        "ratingCount": 2925,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 383,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2020-07-09",
+          "reviewBody": "Good quality and a little bit strechable.Value of money.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Rajesh  Yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2020-09-05",
+          "reviewBody": "Ok",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Chandan  Murmu",
+            "@type": "Person"
+          },
+          "datePublished": "2021-10-25",
+          "reviewBody": "Awasome",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Styling Tips by Mayank, Fashion Influencer",
+          "body": "Fashion a classic look for any occasion by donning these refined trousers. Team it with a polo shirt…"
+        }
+      ],
+      "product_highlights": {
+        "Fit": "Slim Fit",
+        "Color": "Brown",
+        "Type": "Casual Trousers",
+        "Rise": "Mid"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "00efa0a11442806ca794329f",
+      "path": "media/images/00efa0a11442806ca794329f/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

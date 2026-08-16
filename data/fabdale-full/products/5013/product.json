@@ -1,0 +1,38 @@
+{
+  "product_id": "5013",
+  "sku": "Fab-Dress-PURNB-017BL-S",
+  "product": {
+    "name": "Parnika Navy blue gathered Maxi",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-maxi-full-length-party-dress/p/itme9887bc8a2587?pid=KDEHGNRZHUG25ET8&marketplace=FLIPKART&lid=LSTKDEHGNRZHUG25ET8G3MIVW&swatchAttr=size&pageUID=1775115126841"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHGNRZHUG25ET8",
+    "path": "../../sources/pid-KDEHGNRZHUG25ET8/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-maxi-full-length-party-dress/p/itme9887bc8a2587?pid=KDEHGNRZHUG25ET8&marketplace=FLIPKART&lid=LSTKDEHGNRZHUG25ET8G3MIVW&swatchAttr=size&pageUID=1775115126841",
+    "scraped_at": "2026-08-15T21:02:06.605Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/purnkamaay-trendz-baby-girls-maxi-full-length-party-dress/p/itme9887bc8a2587?pid=KDEHGNRZHUG25ET8&marketplace=FLIPKART&lid=LSTKDEHGNRZHUG25ET8G3MIVW&swatchAttr=size&pageUID=1775115126841\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/purnkamaay-trendz-baby-girls-maxi-full-length-party-dress/p/itme9887bc8a2587?pid=KDEHGNRZHUG25ET8&marketplace=FLIPKART&lid=LSTKDEHGNRZHUG25ET8G3MIVW&swatchAttr=size&pageUID=1775115126841\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T21:02:06.659Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

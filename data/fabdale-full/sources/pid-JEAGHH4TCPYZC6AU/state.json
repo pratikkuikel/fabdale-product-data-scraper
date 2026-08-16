@@ -1,0 +1,18 @@
+{
+  "source_key": "pid-JEAGHH4TCPYZC6AU",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/supernova-inc-slim-men-dark-blue-jeans/p/itm5ab81f968051d?pid=JEAGHH4TCPYZC6AU&marketplace=FLIPKART&lid=LSTJEAGHH4TCPYZC6AUBU6EZJ&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/supernova-inc-slim-men-dark-blue-jeans/p/itm5ab81f968051d?pid=JEAGHH4TCPYZC6AU&marketplace=FLIPKART&lid=LSTJEAGHH4TCPYZC6AUBU6EZJ&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "6457",
+    "6458",
+    "6459",
+    "6460"
+  ],
+  "source_path": "sources/pid-JEAGHH4TCPYZC6AU/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T23:12:46.829Z",
+  "completed_at": "2026-08-15T23:12:47.036Z"
+}

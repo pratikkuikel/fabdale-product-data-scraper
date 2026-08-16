@@ -1,0 +1,187 @@
+{
+  "product_id": "4908",
+  "sku": "Fab-Jewel-BRAD-016GL",
+  "product": {
+    "name": "Bradox  Everyday Wear Bangle Set",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/brado-jewellery-brass-diamond-gold-plated-bangle/p/itm65f719a16045f?pid=BBAHBPJ5BACGZBGP&lid=LSTBBAHBPJ5BACGZBGP3SB2FB&marketplace=FLIPKART&sattr[]=color&sattr[]=size&sattr[]=pack_of&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-BBAHBPJ5BACGZBGP",
+    "path": "../../sources/pid-BBAHBPJ5BACGZBGP/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/brado-jewellery-brass-diamond-gold-plated-bangle/p/itm65f719a16045f?pid=BBAHBPJ5BACGZBGP&lid=LSTBBAHBPJ5BACGZBGP3SB2FB&marketplace=FLIPKART&sattr[]=color&sattr[]=size&sattr[]=pack_of&st=color",
+    "scraped_at": "2026-08-15T20:51:51.417Z",
+    "final_url": "https://www.flipkart.com/brado-jewellery-brass-diamond-gold-plated-bangle/p/itm65f719a16045f?pid=BBAHBPJ5BACGZBGP&lid=LSTBBAHBPJ5BACGZBGP3SB2FB&marketplace=FLIPKART&sattr[]=color&sattr[]=size&sattr[]=pack_of&st=color"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:52:01.634Z"
+  },
+  "content": {
+    "title": "brado jewellery Brass Diamond Gold-plated Bangle",
+    "short_description": "brado jewellery Brass Diamond Gold-plated Bangle - Buy brado jewellery Brass Diamond Gold-plated Bangle only for Rs. 999.0 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+    "description": "brado jewellery Brass Diamond Gold-plated Bangle - Buy brado jewellery Brass Diamond Gold-plated Bangle only for Rs. 999.0 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+    "specifications": {}
+  },
+  "media_bundle": {
+    "images": {
+      "key": "2590745dd0765351d14e4c3a",
+      "path": "media/images/2590745dd0765351d14e4c3a/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/h/f/x/-original-imahhbvdh2shmpr8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/h/f/x/-original-imahhbvdh2shmpr8.jpeg?q=100",
+        "local_path": "../../media/images/2590745dd0765351d14e4c3a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/b/l/r/-original-imahhbvdzcjcvw7z.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/b/l/r/-original-imahhbvdzcjcvw7z.jpeg?q=100",
+        "local_path": "../../media/images/2590745dd0765351d14e4c3a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/k/t/t/-original-imahhbvddwnbbzs3.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/k/t/t/-original-imahhbvddwnbbzs3.jpeg?q=100",
+        "local_path": "../../media/images/2590745dd0765351d14e4c3a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/o/0/o/-original-imahhbvd8gynzxjj.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/o/0/o/-original-imahhbvd8gynzxjj.jpeg?q=100",
+        "local_path": "../../media/images/2590745dd0765351d14e4c3a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/1/t/u/-original-imahhbvdn5uyzq3t.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/1/t/u/-original-imahhbvdn5uyzq3t.jpeg?q=100",
+        "local_path": "../../media/images/2590745dd0765351d14e4c3a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "brado jewellery Brass Diamond Gold-plated Bangle",
+      "description": "brado jewellery Brass Diamond Gold-plated Bangle - Buy brado jewellery Brass Diamond Gold-plated Bangle only for Rs. 999.0 from Flipkart.com. Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/h/f/x/-original-imahhbvdh2shmpr8.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/b/l/r/-original-imahhbvdzcjcvw7z.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/k/t/t/-original-imahhbvddwnbbzs3.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/o/0/o/-original-imahhbvd8gynzxjj.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/bangle-bracelet-armlet/1/t/u/-original-imahhbvdn5uyzq3t.jpeg?q=70"
+      ],
+      "sku": "BBAHBPJ5BACGZBGP",
+      "color": "Gold, Bronze",
+      "category": "bangle_bracelet_armlet",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 32,
+        "ratingCount": 575,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "brado jewellery",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 158,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Great product",
+          "author": {
+            "name": "Pagilla anitha",
+            "@type": "Person"
+          },
+          "datePublished": "2025-05-30",
+          "reviewBody": "It is very worth ❤️and awesome",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Value-for-money",
+          "author": {
+            "name": "Malakondaiah  Naramala",
+            "@type": "Person"
+          },
+          "datePublished": "2026-02-21",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Delightful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-12-09",
+          "reviewBody": "Good one nice 👍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  }
+}

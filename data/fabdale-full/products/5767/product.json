@@ -1,0 +1,38 @@
+{
+  "product_id": "5767",
+  "sku": "Fab-Dress-MISS-003G-L",
+  "product": {
+    "name": "Moonette Border floral pattern Maxi-Dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/miss-chief-girls-maxi-full-length-casual-dress/p/itm4b67dac474df6?pid=KDEHYYFPH86ZQHHX&marketplace=FLIPKART&lid=LSTKDEHYYFPH86ZQHHXAFBN4D&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHYYFPH86ZQHHX",
+    "path": "../../sources/pid-KDEHYYFPH86ZQHHX/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/miss-chief-girls-maxi-full-length-casual-dress/p/itm4b67dac474df6?pid=KDEHYYFPH86ZQHHX&marketplace=FLIPKART&lid=LSTKDEHYYFPH86ZQHHXAFBN4D&swatchAttr=size",
+    "scraped_at": "2026-08-15T22:17:40.772Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/miss-chief-girls-maxi-full-length-casual-dress/p/itm4b67dac474df6?pid=KDEHYYFPH86ZQHHX&marketplace=FLIPKART&lid=LSTKDEHYYFPH86ZQHHXAFBN4D&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/miss-chief-girls-maxi-full-length-casual-dress/p/itm4b67dac474df6?pid=KDEHYYFPH86ZQHHX&marketplace=FLIPKART&lid=LSTKDEHYYFPH86ZQHHXAFBN4D&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:17:40.889Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

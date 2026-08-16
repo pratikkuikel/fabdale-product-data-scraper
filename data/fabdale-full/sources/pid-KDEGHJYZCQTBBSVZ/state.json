@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KDEGHJYZCQTBBSVZ",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itm573ef9f23d9d5?pid=KDEGHJYZCQTBBSVZ&marketplace=FLIPKART&lid=LSTKDEGHJYZCQTBBSVZRWMUQQ&swatchAttr=size&pageUID=1776075642892\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itm573ef9f23d9d5?pid=KDEGHJYZCQTBBSVZ&marketplace=FLIPKART&lid=LSTKDEGHJYZCQTBBSVZRWMUQQ&swatchAttr=size&pageUID=1776075642892\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "6277"
+  ],
+  "source_path": "sources/pid-KDEGHJYZCQTBBSVZ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T23:09:06.268Z",
+  "completed_at": "2026-08-15T23:09:06.862Z"
+}

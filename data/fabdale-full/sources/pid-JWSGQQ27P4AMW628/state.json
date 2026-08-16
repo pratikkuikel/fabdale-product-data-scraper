@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-JWSGQQ27P4AMW628",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "4886"
+  ],
+  "source_path": "sources/pid-JWSGQQ27P4AMW628/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T20:45:58.408Z",
+  "completed_at": "2026-08-15T20:46:11.494Z"
+}

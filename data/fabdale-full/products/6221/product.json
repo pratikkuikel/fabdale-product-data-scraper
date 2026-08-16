@@ -1,0 +1,38 @@
+{
+  "product_id": "6221",
+  "sku": "Fab-Dress-ZENT-002G-S",
+  "product": {
+    "name": "Zestelle Tulle fabric Party Dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/ikonacas-trend-girls-calf-length-festive-wedding-dress/p/itm680a1846546ee?pid=KDEHHU8F9JX2DADW&marketplace=FLIPKART&lid=LSTKDEHHU8F9JX2DADWG9BTV3&swatchAttr=size&pageUID=1777881162502"
+  },
+  "source_bundle": {
+    "key": "pid-KDEHHU8F9JX2DADW",
+    "path": "../../sources/pid-KDEHHU8F9JX2DADW/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/ikonacas-trend-girls-calf-length-festive-wedding-dress/p/itm680a1846546ee?pid=KDEHHU8F9JX2DADW&marketplace=FLIPKART&lid=LSTKDEHHU8F9JX2DADWG9BTV3&swatchAttr=size&pageUID=1777881162502",
+    "scraped_at": "2026-08-15T23:05:31.194Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/ikonacas-trend-girls-calf-length-festive-wedding-dress/p/itm680a1846546ee?pid=KDEHHU8F9JX2DADW&marketplace=FLIPKART&lid=LSTKDEHHU8F9JX2DADWG9BTV3&swatchAttr=size&pageUID=1777881162502\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/ikonacas-trend-girls-calf-length-festive-wedding-dress/p/itm680a1846546ee?pid=KDEHHU8F9JX2DADW&marketplace=FLIPKART&lid=LSTKDEHHU8F9JX2DADWG9BTV3&swatchAttr=size&pageUID=1777881162502\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T23:05:31.228Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "product_id": "6150",
+  "sku": "Fab-Dress-AARY-019LB-L",
+  "product": {
+    "name": "Aamira Two-tone maxi dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm2ad0e1c2478f5?pid=KDEH8TG3GE4GKQTH&marketplace=FLIPKART&lid=LSTKDEH8TG3GE4GKQTHNFAV3U&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-KDEH8TG3GE4GKQTH",
+    "path": "../../sources/pid-KDEH8TG3GE4GKQTH/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm2ad0e1c2478f5?pid=KDEH8TG3GE4GKQTH&marketplace=FLIPKART&lid=LSTKDEH8TG3GE4GKQTHNFAV3U&swatchAttr=size",
+    "scraped_at": "2026-08-15T22:58:13.713Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm2ad0e1c2478f5?pid=KDEH8TG3GE4GKQTH&marketplace=FLIPKART&lid=LSTKDEH8TG3GE4GKQTHNFAV3U&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/aarya-designer-girls-maxi-full-length-party-dress/p/itm2ad0e1c2478f5?pid=KDEH8TG3GE4GKQTH&marketplace=FLIPKART&lid=LSTKDEH8TG3GE4GKQTHNFAV3U&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:58:13.784Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

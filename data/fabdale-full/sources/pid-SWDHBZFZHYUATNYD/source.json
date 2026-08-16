@@ -1,0 +1,193 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/piludi-solid-kurta-salwar-dupatta-set/p/itm39cd4951f793f?pid=SWDHBZFZHYUATNYD&marketplace=FLIPKART&lid=LSTSWDHBZFZHYUATNYD9PVVWI&swatchAttr=size&pageUID=1772640232058",
+    "scraped_at": "2026-08-15T20:56:16.760Z",
+    "final_url": "https://www.flipkart.com/piludi-solid-kurta-salwar-dupatta-set/p/itm39cd4951f793f?pid=SWDHBZFZHYUATNYD&marketplace=FLIPKART&lid=LSTSWDHBZFZHYUATNYD9PVVWI&swatchAttr=size&pageUID=1772640232058"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:56:36.177Z"
+  },
+  "content": {
+    "title": "PILUDI Solid Kurta, Salwar & Dupatta Set",
+    "short_description": "Color: Green\nPattern: Solid\nType: Kurta, Salwar & Dupatta Set\nTop Type: Kurti\nBottom Type: Salwar",
+    "description": "Salwar Kurta Dupatta Details\nKurta FabricRayon BlendSalwar FabricViscoseTypeKurta, Salwar & Dupatta SetDupatta FabricCrepeKurta TypeStraightNeckV NeckSleeve3/4 SleeveTop TypeKurtiBottom TypeSalwarColorGreenPatternSolidDetail PlacementAll - OverDupatta IncludedYesOrnamentation TypeNonePattern/Print TypeAppliqueSecondary ColorGreenSizeXLSleeve StyleRegular SleevesSuitable ForEthnic WearSurface StylingAppliqueTrendSolid Kurtas",
+    "specifications": {
+      "Type": "Kurta, Salwar & Dupatta Set",
+      "Top Type": "Kurti",
+      "Bottom Type": "Salwar",
+      "Color": "Green",
+      "Pattern": "Solid"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/9/q/b/xl-sw-kalyani-piludi-house-original-imahakq6apbhrqpe.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/9/q/b/xl-sw-kalyani-piludi-house-original-imahakq6apbhrqpe.jpeg?q=100",
+        "local_path": "../../media/images/7bda08cf8e4e3dd21a17973d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/3/w/xl-sw-kalyani-piludi-house-original-imahakq6gsqbgyje.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/3/w/xl-sw-kalyani-piludi-house-original-imahakq6gsqbgyje.jpeg?q=100",
+        "local_path": "../../media/images/7bda08cf8e4e3dd21a17973d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/c/z/xl-sw-kalyani-piludi-house-original-imahakq6gzcktmxg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/c/z/xl-sw-kalyani-piludi-house-original-imahakq6gzcktmxg.jpeg?q=100",
+        "local_path": "../../media/images/7bda08cf8e4e3dd21a17973d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/g/z/xl-sw-kalyani-piludi-house-original-imahakq6azh2wnrz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/g/z/xl-sw-kalyani-piludi-house-original-imahakq6azh2wnrz.jpeg?q=100",
+        "local_path": "../../media/images/7bda08cf8e4e3dd21a17973d/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/w/y/xl-sw-kalyani-piludi-house-original-imahakq6uhgb7ftb.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/w/y/xl-sw-kalyani-piludi-house-original-imahakq6uhgb7ftb.jpeg?q=100",
+        "local_path": "../../media/images/7bda08cf8e4e3dd21a17973d/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PILUDI Solid Kurta, Salwar & Dupatta Set",
+      "description": "PILUDI Solid Kurta, Salwar & Dupatta Set - Buy PILUDI Solid Kurta, Salwar & Dupatta Set For Only Rs. 1999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/9/q/b/xl-sw-kalyani-piludi-house-original-imahakq6apbhrqpe.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/z/3/w/xl-sw-kalyani-piludi-house-original-imahakq6gsqbgyje.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/c/z/xl-sw-kalyani-piludi-house-original-imahakq6gzcktmxg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/j/g/z/xl-sw-kalyani-piludi-house-original-imahakq6azh2wnrz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/p/w/y/xl-sw-kalyani-piludi-house-original-imahakq6uhgb7ftb.jpeg?q=70"
+      ],
+      "sku": "SWDHBZFZHYUATNYD",
+      "color": "Green",
+      "category": "salwar_kurta_dupatta",
+      "aggregateRating": {
+        "ratingValue": 3.6,
+        "reviewCount": 41,
+        "ratingCount": 418,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PILUDI",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 457,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Just okay",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2026-03-09",
+          "reviewBody": "Kurta fitting just ok but pajama so tight can't wear..",
+          "reviewRating": {
+            "ratingValue": 3,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Just wow!",
+          "author": {
+            "name": "Shanti",
+            "@type": "Person"
+          },
+          "datePublished": "2025-10-05",
+          "reviewBody": "Fabric is so soft and breathable. Loved the colour and overall look of the suit",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Very poor",
+          "author": {
+            "name": "Divyashree P",
+            "@type": "Person"
+          },
+          "datePublished": "2026-07-15",
+          "reviewBody": "Not a good",
+          "reviewRating": {
+            "ratingValue": 1,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Salwar Kurta Dupatta Details",
+          "body": "Kurta FabricRayon BlendSalwar FabricViscoseTypeKurta, Salwar & Dupatta SetDupatta FabricCrepeKurta TypeStraightNeckV NeckSleeve3/4 SleeveTop TypeKurtiBottom TypeSalwarColorGreenPatternSolidDetail PlacementAll - OverDupatta IncludedYesOrnamentation TypeNonePattern/Print TypeAppliqueSecondary ColorGreenSizeXLSleeve StyleRegular SleevesSuitable ForEthnic WearSurface StylingAppliqueTrendSolid Kurtas"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Kurta, Salwar & Dupatta Set",
+        "Top Type": "Kurti",
+        "Bottom Type": "Salwar",
+        "Color": "Green",
+        "Pattern": "Solid"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "7bda08cf8e4e3dd21a17973d",
+      "path": "media/images/7bda08cf8e4e3dd21a17973d/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

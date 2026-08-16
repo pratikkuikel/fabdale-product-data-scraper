@@ -1,0 +1,196 @@
+{
+  "product_id": "5556",
+  "sku": "Fab-Dress-PURNB-004PK-M",
+  "product": {
+    "name": "Parnika Knee Length Party Midi",
+    "parent_id": "5569",
+    "notes": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-midi-knee-length-party-dress/p/itm9980bc612403d?pid=KDEGSTJQNZBNH3DZ&marketplace=FLIPKART&lid=LSTKDEGSTJQNZBNH3DZX7NCQV&swatchAttr=size&pageUID=1774975423838"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGSTJQNZBNH3DZ",
+    "path": "../../sources/pid-KDEGSTJQNZBNH3DZ/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-midi-knee-length-party-dress/p/itm9980bc612403d?pid=KDEGSTJQNZBNH3DZ&marketplace=FLIPKART&lid=LSTKDEGSTJQNZBNH3DZX7NCQV&swatchAttr=size&pageUID=1774975423838",
+    "scraped_at": "2026-08-15T21:22:43.194Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-baby-girls-midi-knee-length-party-dress/p/itm9980bc612403d?pid=KDEGSTJQNZBNH3DZ&marketplace=FLIPKART&lid=LSTKDEGSTJQNZBNH3DZX7NCQV&swatchAttr=size&pageUID=1774975423838"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:23:00.501Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Baby Girls Midi/Knee Length Party Dress",
+    "short_description": "Fabric: Satin\nPattern: Polka Print\nType: Pleated\nOccasion: Party\nPrimary Color: Pink",
+    "description": "Playful Polka Print\nThis pleated kid's dress features a playful polka print design, adding a touch of fun and charm to y…\n\nAsymmetric Neckline\nThe dress is designed with an asymmetric neckline, giving it a unique and stylish look that stands o…\n\nComfortable and Stylish\nCrafted from satin fabric, this dress offers a soft and comfortable feel against your child's skin, …\n\nPerfect for Parties\nIdeal for parties and special occasions, this midi-length dress is sure to make your child the cente…\n\nSleeveless Style\nFeaturing an off-shoulder sleeveless design, this dress allows your little one to move freely and co…",
+    "specifications": {
+      "Type": "Pleated",
+      "Occasion": "Party",
+      "Pattern": "Polka Print",
+      "Primary Color": "Pink",
+      "Fabric": "Satin"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "b5df10f328dd5b851d37e5e7",
+      "path": "media/images/b5df10f328dd5b851d37e5e7/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/q/s/3-4-years-joya-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imags7mkksvqh8dz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/q/s/3-4-years-joya-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imags7mkksvqh8dz.jpeg?q=100",
+        "local_path": "../../media/images/b5df10f328dd5b851d37e5e7/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/a/w/3-4-years-joya-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imags7mkhtv7f3yp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/a/w/3-4-years-joya-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imags7mkhtv7f3yp.jpeg?q=100",
+        "local_path": "../../media/images/b5df10f328dd5b851d37e5e7/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Baby Girls Midi/Knee Length Party Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Baby Girls Midi/Knee Length Party Dress for Rs.1299.0 online. PURNKAMAAY TRENDZ Baby Girls Midi/Knee Length Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/d/q/s/3-4-years-joya-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imags7mkksvqh8dz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/a/w/3-4-years-joya-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imags7mkhtv7f3yp.jpeg?q=70"
+      ],
+      "sku": "KDEGSTJQNZBNH3DZ",
+      "color": "pink",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 47,
+        "ratingCount": 1109,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 269,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "bhumi  bhumi ",
+            "@type": "Person"
+          },
+          "datePublished": "2023-09-07",
+          "reviewBody": "The dress is beautiful and comfortable ..loved the fitting😍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Very Good",
+          "author": {
+            "name": "Nancy birdi",
+            "@type": "Person"
+          },
+          "datePublished": "2024-03-31",
+          "reviewBody": "Very nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-01-21",
+          "reviewBody": "Nice 👍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Playful Polka Print",
+          "body": "This pleated kid's dress features a playful polka print design, adding a touch of fun and charm to y…"
+        },
+        {
+          "heading": "Asymmetric Neckline",
+          "body": "The dress is designed with an asymmetric neckline, giving it a unique and stylish look that stands o…"
+        },
+        {
+          "heading": "Comfortable and Stylish",
+          "body": "Crafted from satin fabric, this dress offers a soft and comfortable feel against your child's skin, …"
+        },
+        {
+          "heading": "Perfect for Parties",
+          "body": "Ideal for parties and special occasions, this midi-length dress is sure to make your child the cente…"
+        },
+        {
+          "heading": "Sleeveless Style",
+          "body": "Featuring an off-shoulder sleeveless design, this dress allows your little one to move freely and co…"
+        }
+      ],
+      "product_highlights": {
+        "Type": "Pleated",
+        "Occasion": "Party",
+        "Pattern": "Polka Print",
+        "Primary Color": "Pink",
+        "Fabric": "Satin"
+      },
+      "specifications": {}
+    }
+  }
+}

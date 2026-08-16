@@ -1,0 +1,193 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm38a239d5a3230?pid=KDEH8KR3Z4774CYC&marketplace=FLIPKART&lid=LSTKDEH8KR3Z4774CYCN7VUJI&swatchAttr=size&pageUID=1775143644804",
+    "scraped_at": "2026-08-15T21:48:24.156Z",
+    "final_url": "https://www.flipkart.com/purnkamaay-trendz-girls-midi-knee-length-casual-dress/p/itm38a239d5a3230?pid=KDEH8KR3Z4774CYC&marketplace=FLIPKART&lid=LSTKDEH8KR3Z4774CYCN7VUJI&swatchAttr=size&pageUID=1775143644804"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:48:40.154Z"
+  },
+  "content": {
+    "title": "PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress",
+    "short_description": "Fabric: Georgette, Cotton Blend\nPattern: Floral Print\nType: Fit and Flare Dress\nOccasion: Casual\nPrimary Color: Purple",
+    "description": "Style Code\nNEW_This Elegant Dress is at the top of the wish list for the new season From Fashion Dream on Flipkart. Pair it with trendy Handbag and lovely accessories to get her ready for a Birthday, Christmas, Photo shoots or parties and other festive occasions. This self-design open front crop shrug styled dress is made up of satin fabric with floral digital print pattern. This frock features a round neckline, cap sleeve crop shrug with brooches. Frock has a hidden zipper at the back side and a fixed self-fabric belt at waist. Give your little one's look like a princess with this charming and royal design Midi Frock. Keep your baby girl’s look classy with this super-cute shrug styled dress.",
+    "specifications": {
+      "Type": "Fit and Flare Dress",
+      "Occasion": "Casual",
+      "Pattern": "Floral Print",
+      "Primary Color": "Purple",
+      "Fabric": "Georgette, Cotton Blend"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/r/x/4-5-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3mhyhdejn.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/r/x/4-5-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3mhyhdejn.jpeg?q=100",
+        "local_path": "../../media/images/530f7e2d0a2737c6cab79b75/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/p/h/4-5-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr33mnyge9k.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/p/h/4-5-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr33mnyge9k.jpeg?q=100",
+        "local_path": "../../media/images/530f7e2d0a2737c6cab79b75/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/i/v/1-2-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3zxzgzquy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/i/v/1-2-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3zxzgzquy.jpeg?q=100",
+        "local_path": "../../media/images/530f7e2d0a2737c6cab79b75/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/0/p/l/1-2-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3jtwjg2cp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/0/p/l/1-2-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3jtwjg2cp.jpeg?q=100",
+        "local_path": "../../media/images/530f7e2d0a2737c6cab79b75/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/d/d/1-2-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3smrcf4xw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/d/d/1-2-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3smrcf4xw.jpeg?q=100",
+        "local_path": "../../media/images/530f7e2d0a2737c6cab79b75/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress",
+      "description": "Buy PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress for Rs.1299.0 online. PURNKAMAAY TRENDZ Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/r/x/4-5-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3mhyhdejn.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/s/p/h/4-5-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr33mnyge9k.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/i/v/1-2-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3zxzgzquy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/0/p/l/1-2-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3jtwjg2cp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/d/d/1-2-years-new-this-elegant-dress-is-at-the-top-of-the-wish-list-original-imah8kr3smrcf4xw.jpeg?q=70"
+      ],
+      "sku": "KDEH8KR3Z4774CYC",
+      "color": "LAVNDER",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4.3,
+        "reviewCount": 36,
+        "ratingCount": 1112,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "PURNKAMAAY TRENDZ",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 272,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Murthy Gowda",
+            "@type": "Person"
+          },
+          "datePublished": "2024-05-07",
+          "reviewBody": "Good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Debasis  Gorai ",
+            "@type": "Person"
+          },
+          "datePublished": "2024-07-02",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Madhavi Madhu",
+            "@type": "Person"
+          },
+          "datePublished": "2025-02-19",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Style Code",
+          "body": "NEW_This Elegant Dress is at the top of the wish list for the new season From Fashion Dream on Flipkart. Pair it with trendy Handbag and lovely accessories to get her ready for a Birthday, Christmas, Photo shoots or parties and other festive occasions. This self-design open front crop shrug styled dress is made up of satin fabric with floral digital print pattern. This frock features a round neckline, cap sleeve crop shrug with brooches. Frock has a hidden zipper at the back side and a fixed self-fabric belt at waist. Give your little one's look like a princess with this charming and royal design Midi Frock. Keep your baby girl’s look classy with this super-cute shrug styled dress."
+        }
+      ],
+      "product_highlights": {
+        "Type": "Fit and Flare Dress",
+        "Occasion": "Casual",
+        "Pattern": "Floral Print",
+        "Primary Color": "Purple",
+        "Fabric": "Georgette, Cotton Blend"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "530f7e2d0a2737c6cab79b75",
+      "path": "media/images/530f7e2d0a2737c6cab79b75/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

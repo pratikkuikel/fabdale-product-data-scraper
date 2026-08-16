@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-KDEGXGPGEZEA4CJW",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "5620",
+    "5621"
+  ],
+  "source_path": "sources/pid-KDEGXGPGEZEA4CJW/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T21:39:46.609Z",
+  "completed_at": "2026-08-15T21:40:09.172Z"
+}

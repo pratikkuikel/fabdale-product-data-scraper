@@ -1,0 +1,23 @@
+{
+  "key": "8e6182f45106904fbf6e7645",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T20:28:51.304Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/v/y/x/l-derfv02-deelmo-resized-original-imagwzqgsn76fp9z.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/v/y/x/l-derfv02-deelmo-resized-original-imagwzqgsn76fp9z.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/w/9/l-uplkih02-dimmy-original-imagwnbnmmnxh82d.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/w/9/l-uplkih02-dimmy-original-imagwnbnmmnxh82d.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

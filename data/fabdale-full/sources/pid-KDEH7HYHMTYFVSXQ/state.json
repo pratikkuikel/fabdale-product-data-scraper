@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KDEH7HYHMTYFVSXQ",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/zenat-girls-midi-knee-length-casual-dress/p/itm55b618ad5a1e7?pid=KDEH7HYHMTYFVSXQ&marketplace=FLIPKART&lid=LSTKDEH7HYHMTYFVSXQDNFGAT&swatchAttr=size&pageUID=1776074443541\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/zenat-girls-midi-knee-length-casual-dress/p/itm55b618ad5a1e7?pid=KDEH7HYHMTYFVSXQ&marketplace=FLIPKART&lid=LSTKDEH7HYHMTYFVSXQDNFGAT&swatchAttr=size&pageUID=1776074443541\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "6261"
+  ],
+  "source_path": "sources/pid-KDEH7HYHMTYFVSXQ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T23:08:07.114Z",
+  "completed_at": "2026-08-15T23:08:07.910Z"
+}

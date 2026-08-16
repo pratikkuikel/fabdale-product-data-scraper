@@ -1,0 +1,217 @@
+{
+  "product_id": "6773",
+  "sku": "Fab-Trousers-FUBR-001CR-M",
+  "product": {
+    "name": "FUBAR Cotton Blend Slim Trousers",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/fubar-slim-fit-men-cream-trousers/p/itm7ebcb451f2b8c?pid=TROGMUERTVTNHADG&marketplace=FLIPKART&lid=LSTTROGMUERTVTNHADG6OP3RA&swatchAttr=size"
+  },
+  "source_bundle": {
+    "key": "pid-TROGMUERTVTNHADG",
+    "path": "../../sources/pid-TROGMUERTVTNHADG/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/fubar-slim-fit-men-cream-trousers/p/itm7ebcb451f2b8c?pid=TROGMUERTVTNHADG&marketplace=FLIPKART&lid=LSTTROGMUERTVTNHADG6OP3RA&swatchAttr=size",
+    "scraped_at": "2026-08-15T23:22:08.662Z",
+    "final_url": "https://www.flipkart.com/fubar-slim-fit-men-cream-trousers/p/itm7ebcb451f2b8c?pid=TROGMUERTVTNHADG&marketplace=FLIPKART&lid=LSTTROGMUERTVTNHADG6OP3RA&swatchAttr=size"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T23:22:27.659Z"
+  },
+  "content": {
+    "title": "FUBAR Slim Fit Men Cream Trousers",
+    "short_description": "Color: Cream\nType: Casual Trousers\nFit: Slim Fit\nRise: Mid",
+    "description": "Classic Pattern\nWith their checkered pattern, these men's trousers offer a classic and timeless style. The checkered…\n\nSlim and Stylish Fit\nFeaturing a slim fit, these trousers provide a sleek and modern look. The slim fit silhouette accent…\n\nSecure Closure\nDesigned with a button closure, these trousers ensure a secure and snug fit around the waist. The bu…\n\nComfortable Fabric\nMade from a high-quality cotton blend fabric, these trousers offer a comfortable and breathable feel…\n\nEasy Care\nThese trousers are easy to care for with gentle machine wash. You can maintain their quality and app…\n\nVersatile Occasion\nPerfect for casual occasions, these trousers can be dressed up or down to suit any event. Whether yo…",
+    "specifications": {
+      "Fit": "Slim Fit",
+      "Color": "Cream",
+      "Type": "Casual Trousers",
+      "Rise": "Mid"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "ed5749b395b2e2802f7dafa1",
+      "path": "media/images/ed5749b395b2e2802f7dafa1/media.json",
+      "reused": true
+    },
+    "videos": {
+      "key": "559e59680fe933696c9c303b",
+      "path": "media/videos/559e59680fe933696c9c303b/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/e/z/e/34-kctr-chk-tr5555-crm-fubar-original-imahye2c3gktgcqt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/e/z/e/34-kctr-chk-tr5555-crm-fubar-original-imahye2c3gktgcqt.jpeg?q=100",
+        "local_path": "../../media/images/ed5749b395b2e2802f7dafa1/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/2/c/2/34-kctr-chk-tr5555-crm-fubar-original-imahye2cvvnfjkga.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/2/c/2/34-kctr-chk-tr5555-crm-fubar-original-imahye2cvvnfjkga.jpeg?q=100",
+        "local_path": "../../media/images/ed5749b395b2e2802f7dafa1/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/s/5/n/32-kctr-fom-5555-crm-fubar-original-imahye2awxjughcz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/s/5/n/32-kctr-fom-5555-crm-fubar-original-imahye2awxjughcz.jpeg?q=100",
+        "local_path": "../../media/images/ed5749b395b2e2802f7dafa1/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNyqGu4VxjQVyW5Ts6UzGUaQ/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Slim Fit Men Cream Trousers",
+      "description": "FUBAR Slim Fit Men Cream Trousers - Buy FUBAR Slim Fit Men Cream Trousers For Only Rs. 1648.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/e/z/e/34-kctr-chk-tr5555-crm-fubar-original-imahye2c3gktgcqt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/2/c/2/34-kctr-chk-tr5555-crm-fubar-original-imahye2cvvnfjkga.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/s/5/n/32-kctr-fom-5555-crm-fubar-original-imahye2awxjughcz.jpeg?q=70"
+      ],
+      "sku": "TROGMUERTVTNHADG",
+      "color": "Butter",
+      "category": "trouser",
+      "aggregateRating": {
+        "ratingValue": 3.8,
+        "reviewCount": 381,
+        "ratingCount": 5932,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 383,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-08-07",
+          "reviewBody": "It has good quality material not the best but good for price. The colour also looks nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Aruna  Suri",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-09",
+          "reviewBody": "Nice",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Brilliant",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2023-06-24",
+          "reviewBody": "Super .",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Pattern",
+          "body": "With their checkered pattern, these men's trousers offer a classic and timeless style. The checkered…"
+        },
+        {
+          "heading": "Slim and Stylish Fit",
+          "body": "Featuring a slim fit, these trousers provide a sleek and modern look. The slim fit silhouette accent…"
+        },
+        {
+          "heading": "Secure Closure",
+          "body": "Designed with a button closure, these trousers ensure a secure and snug fit around the waist. The bu…"
+        },
+        {
+          "heading": "Comfortable Fabric",
+          "body": "Made from a high-quality cotton blend fabric, these trousers offer a comfortable and breathable feel…"
+        },
+        {
+          "heading": "Easy Care",
+          "body": "These trousers are easy to care for with gentle machine wash. You can maintain their quality and app…"
+        },
+        {
+          "heading": "Versatile Occasion",
+          "body": "Perfect for casual occasions, these trousers can be dressed up or down to suit any event. Whether yo…"
+        }
+      ],
+      "product_highlights": {
+        "Fit": "Slim Fit",
+        "Color": "Cream",
+        "Type": "Casual Trousers",
+        "Rise": "Mid"
+      },
+      "specifications": {}
+    }
+  }
+}

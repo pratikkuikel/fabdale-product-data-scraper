@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-KDEHECFSFFCRMMRN",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "5545",
+    "5547"
+  ],
+  "source_path": "sources/pid-KDEHECFSFFCRMMRN/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T21:20:50.424Z",
+  "completed_at": "2026-08-15T21:21:12.696Z"
+}

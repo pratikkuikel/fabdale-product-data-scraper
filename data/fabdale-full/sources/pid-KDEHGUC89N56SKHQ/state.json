@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KDEHGUC89N56SKHQ",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itmf81afd2129b2a?pid=KDEHGUC89N56SKHQ&marketplace=FLIPKART&lid=LSTKDEHGUC89N56SKHQNWHQ3K&swatchAttr=size&pageUID=1775576790808\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/fashion-dream-girls-calf-length-casual-dress/p/itmf81afd2129b2a?pid=KDEHGUC89N56SKHQ&marketplace=FLIPKART&lid=LSTKDEHGUC89N56SKHQNWHQ3K&swatchAttr=size&pageUID=1775576790808\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "5896"
+  ],
+  "source_path": "sources/pid-KDEHGUC89N56SKHQ/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T22:29:46.101Z",
+  "completed_at": "2026-08-15T22:29:46.261Z"
+}

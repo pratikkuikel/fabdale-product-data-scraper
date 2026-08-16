@@ -1,0 +1,38 @@
+{
+  "product_id": "6244",
+  "sku": "Fab-Dress-ZENT-003PK-XL",
+  "product": {
+    "name": "Zestelle Large 3D floral appliqué",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itm14a8bb59047c5?pid=KDEGN9TYKTUPBNVH&lid=LSTKDEGN9TYKTUPBNVHICEQHH&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGN9TYKTUPBNVH",
+    "path": "../../sources/pid-KDEGN9TYKTUPBNVH/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itm14a8bb59047c5?pid=KDEGN9TYKTUPBNVH&lid=LSTKDEGN9TYKTUPBNVHICEQHH&marketplace=FLIPKART&sattr[]=color&st=color",
+    "scraped_at": "2026-08-15T23:06:59.829Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itm14a8bb59047c5?pid=KDEGN9TYKTUPBNVH&lid=LSTKDEGN9TYKTUPBNVHICEQHH&marketplace=FLIPKART&sattr[]=color&st=color\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itm14a8bb59047c5?pid=KDEGN9TYKTUPBNVH&lid=LSTKDEGN9TYKTUPBNVHICEQHH&marketplace=FLIPKART&sattr[]=color&st=color\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T23:06:59.967Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

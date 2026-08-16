@@ -1,0 +1,162 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/nexakids-indi-girls-midi-knee-length-casual-dress/p/itmd1ccf37c6fd2e?pid=KDEHYSJTGZ2D9YE5&marketplace=FLIPKART&lid=LSTKDEHYSJTGZ2D9YE55G0LRE&swatchAttr=size&pageUID=1777615052636",
+    "scraped_at": "2026-08-15T21:41:21.843Z",
+    "final_url": "https://www.flipkart.com/nexakids-indi-girls-midi-knee-length-casual-dress/p/itmd1ccf37c6fd2e?pid=KDEHYSJTGZ2D9YE5&marketplace=FLIPKART&lid=LSTKDEHYSJTGZ2D9YE55G0LRE&swatchAttr=size&pageUID=1777615052636"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T21:41:37.895Z"
+  },
+  "content": {
+    "title": "nexakids Indi Girls Midi/Knee Length Casual Dress",
+    "short_description": "Fabric: Cotton Blend\nPattern: Printed\nType: A- Line Dress\nOccasion: Casual\nPrimary Color: Purple",
+    "description": "Buy nexakids Indi Girls Midi/Knee Length Casual Dress for Rs.1999.0 online. nexakids Indi Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {
+      "Type": "A- Line Dress",
+      "Occasion": "Casual",
+      "Pattern": "Printed",
+      "Primary Color": "Purple",
+      "Fabric": "Cotton Blend"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/r/2/i/4-5-years-ne237-nexakids-original-imahysjt8nh4x5jt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/r/2/i/4-5-years-ne237-nexakids-original-imahysjt8nh4x5jt.jpeg?q=100",
+        "local_path": "../../media/images/4e1bd30411096a9569a328ae/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/n/j/4-5-years-ne237-nexakids-original-imahysjtupsfdbhy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/n/j/4-5-years-ne237-nexakids-original-imahysjtupsfdbhy.jpeg?q=100",
+        "local_path": "../../media/images/4e1bd30411096a9569a328ae/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/d/p/4-5-years-ne237-nexakids-original-imahysjthmkz5hfv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/d/p/4-5-years-ne237-nexakids-original-imahysjthmkz5hfv.jpeg?q=100",
+        "local_path": "../../media/images/4e1bd30411096a9569a328ae/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/w/y/j/4-5-years-ne237-nexakids-original-imahysjtbzgzcuk8.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/w/y/j/4-5-years-ne237-nexakids-original-imahysjtbzgzcuk8.jpeg?q=100",
+        "local_path": "../../media/images/4e1bd30411096a9569a328ae/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "nexakids Indi Girls Midi/Knee Length Casual Dress",
+      "description": "Buy nexakids Indi Girls Midi/Knee Length Casual Dress for Rs.1999.0 online. nexakids Indi Girls Midi/Knee Length Casual Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/r/2/i/4-5-years-ne237-nexakids-original-imahysjt8nh4x5jt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/u/n/j/4-5-years-ne237-nexakids-original-imahysjtupsfdbhy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/t/d/p/4-5-years-ne237-nexakids-original-imahysjthmkz5hfv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/w/y/j/4-5-years-ne237-nexakids-original-imahysjtbzgzcuk8.jpeg?q=70"
+      ],
+      "sku": "KDEHYSJTGZ2D9YE5",
+      "color": "Purple",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 3.5,
+        "ratingCount": 4,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "nexakids",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 430,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Type": "A- Line Dress",
+        "Occasion": "Casual",
+        "Pattern": "Printed",
+        "Primary Color": "Purple",
+        "Fabric": "Cotton Blend"
+      },
+      "specifications": {
+        "Brand": "nexakids",
+        "Style Code": "NE237",
+        "Brand Color": "Purple",
+        "Size": "4 - 5 Years",
+        "Type": "A- Line Dress",
+        "Occasion": "Casual",
+        "Ideal For": "Girls",
+        "Pattern": "Printed",
+        "Primary Color": "Purple",
+        "Fabric": "Cotton Blend",
+        "Sleeve Type": "Full Sleeve",
+        "Suitable For": "Western Wear",
+        "Fabric Details": "Cotton",
+        "Net Quantity": "1 Dress",
+        "Belt Included": "No",
+        "Character": "No Character",
+        "Closure": "Pullover",
+        "Detail Placement": "All - Over",
+        "Fabric Care": "Gentle Machine Wash",
+        "Label Size": "4-5Y",
+        "Length": "Midi/Knee Length",
+        "Lining Material": "Cotton",
+        "Model Name": "Premium",
+        "Neck Type": "Round",
+        "Print Type": "Digital Prints",
+        "Sleeve Style": "Regular Sleeves",
+        "Surface Styling": "None",
+        "Trend": "Long Dress"
+      }
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "4e1bd30411096a9569a328ae",
+      "path": "media/images/4e1bd30411096a9569a328ae/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

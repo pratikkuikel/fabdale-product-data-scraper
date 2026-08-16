@@ -1,0 +1,38 @@
+{
+  "product_id": "6266",
+  "sku": "Fab-Dress-ZENT-005RD-XXL",
+  "product": {
+    "name": "Zestelle 3D ruffled heart Print Dress",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itme19ac7c107d47?pid=KDEGKZHYPFWXFPZD&lid=LSTKDEGKZHYPFWXFPZD4J8NXM&marketplace=FLIPKART"
+  },
+  "source_bundle": {
+    "key": "pid-KDEGKZHYPFWXFPZD",
+    "path": "../../sources/pid-KDEGKZHYPFWXFPZD/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itme19ac7c107d47?pid=KDEGKZHYPFWXFPZD&lid=LSTKDEGKZHYPFWXFPZD4J8NXM&marketplace=FLIPKART",
+    "scraped_at": "2026-08-15T23:08:17.761Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itme19ac7c107d47?pid=KDEGKZHYPFWXFPZD&lid=LSTKDEGKZHYPFWXFPZD4J8NXM&marketplace=FLIPKART\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/zenat-girls-maxi-full-length-party-dress/p/itme19ac7c107d47?pid=KDEGKZHYPFWXFPZD&lid=LSTKDEGKZHYPFWXFPZD4J8NXM&marketplace=FLIPKART\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T23:08:17.824Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "product_id": "4734",
+  "sku": "Fab-Kurta-ZAR-001GR-L",
+  "product": {
+    "name": "Zorvan Modern Kurta-style shirt",
+    "parent_id": "5352",
+    "notes": "https://www.flipkart.com/zartha-men-solid-straight-kurta/p/itm0694fb3d1c052?pid=KTAGSUZETSTJZUDU&marketplace=FLIPKART&lid=LSTKTAGSUZETSTJZUDUPG7OJL&swatchAttr=size&pageUID=1774175871035"
+  },
+  "source_bundle": {
+    "key": "pid-KTAGSUZETSTJZUDU",
+    "path": "../../sources/pid-KTAGSUZETSTJZUDU/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/zartha-men-solid-straight-kurta/p/itm0694fb3d1c052?pid=KTAGSUZETSTJZUDU&marketplace=FLIPKART&lid=LSTKTAGSUZETSTJZUDUPG7OJL&swatchAttr=size&pageUID=1774175871035",
+    "scraped_at": "2026-08-15T20:24:22.819Z",
+    "final_url": "https://www.flipkart.com/zartha-men-solid-straight-kurta/p/itm0694fb3d1c052?pid=KTAGSUZETSTJZUDU&marketplace=FLIPKART&lid=LSTKTAGSUZETSTJZUDUPG7OJL&swatchAttr=size&pageUID=1774175871035"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:24:28.267Z"
+  },
+  "content": {
+    "title": "ZARTHA Men Solid Straight Kurta",
+    "short_description": "Color: Dark Green\nFabric: Cotton Blend\nPattern: Solid\nType: Straight\nFit: REGULAR FIT",
+    "description": "ZARTHA Men Solid Straight Kurta - Buy ZARTHA Men Solid Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Solid",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Fit": "REGULAR FIT",
+      "Color": "Dark Green"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "9f84f324303e5916762a61d5",
+      "path": "media/images/9f84f324303e5916762a61d5/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/7/n/d/s-kurta1504-zartha-resized-original-imagsuzdaaqd3fzs.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/7/n/d/s-kurta1504-zartha-resized-original-imagsuzdaaqd3fzs.jpeg?q=100",
+        "local_path": "../../media/images/9f84f324303e5916762a61d5/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/2/h/s-kurta1504-zartha-original-imagsuzdygmzvtwp.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/2/h/s-kurta1504-zartha-original-imagsuzdygmzvtwp.jpeg?q=100",
+        "local_path": "../../media/images/9f84f324303e5916762a61d5/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/b/a/s-kurta1504-zartha-original-imagsuzd7y2gv6zg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/b/a/s-kurta1504-zartha-original-imagsuzd7y2gv6zg.jpeg?q=100",
+        "local_path": "../../media/images/9f84f324303e5916762a61d5/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/l/t/s-kurta1504-zartha-original-imagsuzdcyn7ra4j.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/l/t/s-kurta1504-zartha-original-imagsuzdcyn7ra4j.jpeg?q=100",
+        "local_path": "../../media/images/9f84f324303e5916762a61d5/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/2/7/s-kurta1504-zartha-original-imagsuzdwg44cmwf.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/2/7/s-kurta1504-zartha-original-imagsuzdwg44cmwf.jpeg?q=100",
+        "local_path": "../../media/images/9f84f324303e5916762a61d5/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "ZARTHA Men Solid Straight Kurta",
+      "description": "ZARTHA Men Solid Straight Kurta - Buy ZARTHA Men Solid Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/7/n/d/s-kurta1504-zartha-resized-original-imagsuzdaaqd3fzs.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/2/h/s-kurta1504-zartha-original-imagsuzdygmzvtwp.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/l/b/a/s-kurta1504-zartha-original-imagsuzd7y2gv6zg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/l/t/s-kurta1504-zartha-original-imagsuzdcyn7ra4j.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/z/2/7/s-kurta1504-zartha-original-imagsuzdwg44cmwf.jpeg?q=70"
+      ],
+      "sku": "KTAGSUZETSTJZUDU",
+      "color": "DARK GREEN",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 1807,
+        "ratingCount": 23383,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "ZARTHA",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 344,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Must buy!",
+          "author": {
+            "name": "Swecchha Tiwary",
+            "@type": "Person"
+          },
+          "datePublished": "2024-09-03",
+          "reviewBody": "Perfect",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Bhagyesh  Mahale",
+            "@type": "Person"
+          },
+          "datePublished": "2023-10-20",
+          "reviewBody": "The product is really good and the quality of the cloth is also excellent Overall value for money",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Terrific purchase",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-18",
+          "reviewBody": "Good quality",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Solid",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Fit": "REGULAR FIT",
+        "Color": "Dark Green"
+      },
+      "specifications": {}
+    }
+  }
+}

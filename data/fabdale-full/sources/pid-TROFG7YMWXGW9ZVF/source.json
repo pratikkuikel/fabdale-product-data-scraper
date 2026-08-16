@@ -1,0 +1,181 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/fubar-slim-fit-men-black-trousers/p/itmfg7yfdevcbejn?pid=TROFG7YMWXGW9ZVF&marketplace=FLIPKART&lid=LSTTROFG7YMWXGW9ZVFQJ34HL&swatchAttr=size&pageUID=1778061789896",
+    "scraped_at": "2026-08-15T23:35:53.245Z",
+    "final_url": "https://www.flipkart.com/fubar-slim-fit-men-black-trousers/p/itmfg7yfdevcbejn?pid=TROFG7YMWXGW9ZVF&marketplace=FLIPKART&lid=LSTTROFG7YMWXGW9ZVFQJ34HL&swatchAttr=size&pageUID=1778061789896"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T23:36:06.823Z"
+  },
+  "content": {
+    "title": "FUBAR Slim Fit Men Black Trousers",
+    "short_description": "Color: Black\nType: Casual Trousers\nFit: Slim Fit",
+    "description": "Retro Checkered Trousers\nBoard the Retro train with this retro checkered trouser. The classic pattern guarantees style while …",
+    "specifications": {
+      "Fit": "Slim Fit",
+      "Color": "Black",
+      "Type": "Casual Trousers"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/b/x/i/28-variant-5a-fubar-original-imahye2apmvphg5x.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/b/x/i/28-variant-5a-fubar-original-imahye2apmvphg5x.jpeg?q=100",
+        "local_path": "../../media/images/426a09c70a85f268970ea94f/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/1/k/a/28-variant-5a-fubar-original-imahye2ach7zhutz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/1/k/a/28-variant-5a-fubar-original-imahye2ach7zhutz.jpeg?q=100",
+        "local_path": "../../media/images/426a09c70a85f268970ea94f/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/w/r/w/28-variant-5a-fubar-original-imahye2azcy9cdzd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/w/r/w/28-variant-5a-fubar-original-imahye2azcy9cdzd.jpeg?q=100",
+        "local_path": "../../media/images/426a09c70a85f268970ea94f/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/m/h/s/28-variant-5a-fubar-original-imahye2adcwbetxy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/m/h/s/28-variant-5a-fubar-original-imahye2adcwbetxy.jpeg?q=100",
+        "local_path": "../../media/images/426a09c70a85f268970ea94f/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "FUBAR Slim Fit Men Black Trousers",
+      "description": "FUBAR Slim Fit Men Black Trousers - Buy FUBAR Slim Fit Men Black Trousers For Only Rs. 1758.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/b/x/i/28-variant-5a-fubar-original-imahye2apmvphg5x.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/1/k/a/28-variant-5a-fubar-original-imahye2ach7zhutz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/w/r/w/28-variant-5a-fubar-original-imahye2azcy9cdzd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/trouser/m/h/s/28-variant-5a-fubar-original-imahye2adcwbetxy.jpeg?q=70"
+      ],
+      "sku": "TROFG7YMWXGW9ZVF",
+      "color": "Black",
+      "category": "trouser",
+      "aggregateRating": {
+        "ratingValue": 3.9,
+        "reviewCount": 188,
+        "ratingCount": 2925,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "FUBAR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 383,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Good choice",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2020-07-09",
+          "reviewBody": "Good quality and a little bit strechable.Value of money.",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "Rajesh  Yadav",
+            "@type": "Person"
+          },
+          "datePublished": "2020-09-05",
+          "reviewBody": "Ok",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Chandan  Murmu",
+            "@type": "Person"
+          },
+          "datePublished": "2021-10-25",
+          "reviewBody": "Awasome",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Retro Checkered Trousers",
+          "body": "Board the Retro train with this retro checkered trouser. The classic pattern guarantees style while …"
+        }
+      ],
+      "product_highlights": {
+        "Fit": "Slim Fit",
+        "Color": "Black",
+        "Type": "Casual Trousers"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "426a09c70a85f268970ea94f",
+      "path": "media/images/426a09c70a85f268970ea94f/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

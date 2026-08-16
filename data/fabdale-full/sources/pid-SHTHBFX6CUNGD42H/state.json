@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-SHTHBFX6CUNGD42H",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "5062",
+    "5063"
+  ],
+  "source_path": "sources/pid-SHTHBFX6CUNGD42H/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T21:09:04.567Z",
+  "completed_at": "2026-08-15T21:09:11.959Z"
+}

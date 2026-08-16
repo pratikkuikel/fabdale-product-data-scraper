@@ -1,0 +1,168 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/miss-chief-girls-above-knee-party-dress/p/itm52b382d010a42?pid=KDEH2YYJVB3HF4H3&marketplace=FLIPKART&lid=LSTKDEH2YYJVB3HF4H3CNMCAA&swatchAttr=size&pageUID=1775148307463",
+    "scraped_at": "2026-08-15T22:01:19.325Z",
+    "final_url": "https://www.flipkart.com/miss-chief-girls-above-knee-party-dress/p/itm52b382d010a42?pid=KDEH2YYJVB3HF4H3&marketplace=FLIPKART&lid=LSTKDEH2YYJVB3HF4H3CNMCAA&swatchAttr=size&pageUID=1775148307463"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T22:01:39.591Z"
+  },
+  "content": {
+    "title": "Miss & Chief Girls Above Knee Party Dress",
+    "short_description": "Buy Miss & Chief Girls Above Knee Party Dress for Rs.1299.0 online. Miss & Chief Girls Above Knee Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "description": "Buy Miss & Chief Girls Above Knee Party Dress for Rs.1299.0 online. Miss & Chief Girls Above Knee Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+    "specifications": {}
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/a/m/4-5-years-kdm-red-chx-miss-chief-resized-original-imah2yygz52jkzbh.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/a/m/4-5-years-kdm-red-chx-miss-chief-resized-original-imah2yygz52jkzbh.jpeg?q=100",
+        "local_path": "../../media/images/d9b160ee1d9d743685d2619d/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/1/d/4-5-years-kdm-red-chx-miss-chief-original-imah2yygeqtpykqt.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/1/d/4-5-years-kdm-red-chx-miss-chief-original-imah2yygeqtpykqt.jpeg?q=100",
+        "local_path": "../../media/images/d9b160ee1d9d743685d2619d/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/r/x/4-5-years-kdm-red-chx-miss-chief-original-imah2yygkndmtbjq.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/r/x/4-5-years-kdm-red-chx-miss-chief-original-imah2yygkndmtbjq.jpeg?q=100",
+        "local_path": "../../media/images/d9b160ee1d9d743685d2619d/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/a/0/k/4-5-years-kdm-red-chx-miss-chief-original-imah2yygwx6jezsw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/a/0/k/4-5-years-kdm-red-chx-miss-chief-original-imah2yygwx6jezsw.jpeg?q=100",
+        "local_path": "../../media/images/d9b160ee1d9d743685d2619d/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Miss & Chief Girls Above Knee Party Dress",
+      "description": "Buy Miss & Chief Girls Above Knee Party Dress for Rs.1299.0 online. Miss & Chief Girls Above Knee Party Dress at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/l/a/m/4-5-years-kdm-red-chx-miss-chief-resized-original-imah2yygz52jkzbh.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/b/1/d/4-5-years-kdm-red-chx-miss-chief-original-imah2yygeqtpykqt.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/j/r/x/4-5-years-kdm-red-chx-miss-chief-original-imah2yygkndmtbjq.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kids-dress/a/0/k/4-5-years-kdm-red-chx-miss-chief-original-imah2yygwx6jezsw.jpeg?q=70"
+      ],
+      "sku": "KDEH2YYJVB3HF4H3",
+      "color": "Green",
+      "category": "kids_dress",
+      "aggregateRating": {
+        "ratingValue": 4,
+        "reviewCount": 104,
+        "ratingCount": 2672,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "Miss & Chief",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 300,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Worth the money",
+          "author": {
+            "name": "TUNi LATA MAHALI",
+            "@type": "Person"
+          },
+          "datePublished": "2024-08-02",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2024-11-21",
+          "reviewBody": "So pretty 😍",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Nice product",
+          "author": {
+            "name": "Anu Sharma",
+            "@type": "Person"
+          },
+          "datePublished": "2025-04-29",
+          "reviewBody": "Such a nice dress 😍",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {},
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "d9b160ee1d9d743685d2619d",
+      "path": "media/images/d9b160ee1d9d743685d2619d/media.json",
+      "reused": true
+    },
+    "videos": null
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KDEHYAR53DSAXZME",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/fashion-dream-girls-midi-knee-length-casual-dress/p/itm16a815b3ccbc7?pid=KDEHYAR53DSAXZME&marketplace=FLIPKART&lid=LSTKDEHYAR53DSAXZMEUWGVI5&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/fashion-dream-girls-midi-knee-length-casual-dress/p/itm16a815b3ccbc7?pid=KDEHYAR53DSAXZME&marketplace=FLIPKART&lid=LSTKDEHYAR53DSAXZMEUWGVI5&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "6001"
+  ],
+  "source_path": "sources/pid-KDEHYAR53DSAXZME/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T22:39:39.129Z",
+  "completed_at": "2026-08-15T22:39:39.300Z"
+}

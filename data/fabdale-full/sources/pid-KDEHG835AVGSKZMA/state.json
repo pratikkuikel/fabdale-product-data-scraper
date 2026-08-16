@@ -1,0 +1,16 @@
+{
+  "source_key": "pid-KDEHG835AVGSKZMA",
+  "status": "success",
+  "attempt_count": 1,
+  "error": null,
+  "product_keys": [
+    "5689",
+    "5693"
+  ],
+  "source_path": "sources/pid-KDEHG835AVGSKZMA/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T21:57:23.277Z",
+  "completed_at": "2026-08-15T21:57:47.078Z"
+}

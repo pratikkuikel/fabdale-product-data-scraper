@@ -1,0 +1,215 @@
+{
+  "product_id": "4607",
+  "sku": "Fab-Kurta-VBNR-005PK-S",
+  "product": {
+    "name": "Verve Criss-cross geometric Print Kurtha Set",
+    "parent_id": "5285",
+    "notes": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itm0b17648bbe5b9?pid=KTAH93A95SRH6V4N&marketplace=FLIPKART&lid=LSTKTAH93A95SRH6V4NM03IPI&swatchAttr=size&pageUID=1774279317034"
+  },
+  "source_bundle": {
+    "key": "pid-KTAH93A95SRH6V4N",
+    "path": "../../sources/pid-KTAH93A95SRH6V4N/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itm0b17648bbe5b9?pid=KTAH93A95SRH6V4N&marketplace=FLIPKART&lid=LSTKTAH93A95SRH6V4NM03IPI&swatchAttr=size&pageUID=1774279317034",
+    "scraped_at": "2026-08-15T20:11:25.126Z",
+    "final_url": "https://www.flipkart.com/vebnor-men-self-design-straight-kurta/p/itm0b17648bbe5b9?pid=KTAH93A95SRH6V4N&marketplace=FLIPKART&lid=LSTKTAH93A95SRH6V4NM03IPI&swatchAttr=size&pageUID=1774279317034"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:11:32.107Z"
+  },
+  "content": {
+    "title": "VeBNoR Men Self Design Straight Kurta",
+    "short_description": "Color: Pink\nFabric: Jacquard\nPattern: Self Design\nType: Straight\nFit: Regular",
+    "description": "Classic Jacquard Fabric\nCrafted from high-quality jacquard fabric, this kurta offers a luxurious feel and a sophisticated lo…\n\nChic Hip-Length Style\nDesigned in a trendy hip-length style, this kurta provides a modern and stylish silhouette. The leng…\n\nMandarin Neckline Elegance\nFeaturing a Mandarin/Chinese neck, this kurta exudes sophistication and style. The neckline adds a t…\n\nAll-Over Self Design Pattern\nThe intricate self-design pattern covers the entire kurta, creating a cohesive and stylish look. Thi…",
+    "specifications": {
+      "Pattern": "Self Design",
+      "Type": "Straight",
+      "Fabric": "Jacquard",
+      "Fit": "Regular",
+      "Color": "Pink"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "e9adc53a48ee346b5adf714a",
+      "path": "media/images/e9adc53a48ee346b5adf714a/media.json",
+      "reused": false
+    },
+    "videos": {
+      "key": "79613d4f848246db26c2eb9f",
+      "path": "media/videos/79613d4f848246db26c2eb9f/media.json",
+      "reused": false
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/3/n/s-kt5-vebnor-original-imahpfzf8xhyzhjr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/3/n/s-kt5-vebnor-original-imahpfzf8xhyzhjr.jpeg?q=100",
+        "local_path": "../../media/images/e9adc53a48ee346b5adf714a/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/a/e/c/s-kt5-vebnor-original-imahpfzfvkadtdyz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/a/e/c/s-kt5-vebnor-original-imahpfzfvkadtdyz.jpeg?q=100",
+        "local_path": "../../media/images/e9adc53a48ee346b5adf714a/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/3/s/f/s-kt5-vebnor-original-imahpfzfqmgpe4ey.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/3/s/f/s-kt5-vebnor-original-imahpfzfqmgpe4ey.jpeg?q=100",
+        "local_path": "../../media/images/e9adc53a48ee346b5adf714a/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/h/o/s-kt5-vebnor-original-imahpfzffgyfxrjy.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/h/o/s-kt5-vebnor-original-imahpfzffgyfxrjy.jpeg?q=100",
+        "local_path": "../../media/images/e9adc53a48ee346b5adf714a/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/t/k/s-kt5-vebnor-original-imahpfzfgrrrqkay.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/t/k/s-kt5-vebnor-original-imahpfzfgrrrqkay.jpeg?q=100",
+        "local_path": "../../media/images/e9adc53a48ee346b5adf714a/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": [
+      {
+        "source_url": "https://vod1.flixcart.com//fk-p-transcode-video/cgt/FPS/CNmOZt2kBORvGl81iUjFmUEg/manifest.m3u8",
+        "local_path": null,
+        "downloaded": false,
+        "reason": "streaming_manifest"
+      }
+    ]
+  },
+  "raw": {
+    "json_ld": {
+      "name": "VeBNoR Men Self Design Straight Kurta",
+      "description": "VeBNoR Men Self Design Straight Kurta - Buy VeBNoR Men Self Design Straight Kurta For Only Rs. 999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/3/n/s-kt5-vebnor-original-imahpfzf8xhyzhjr.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/a/e/c/s-kt5-vebnor-original-imahpfzfvkadtdyz.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/3/s/f/s-kt5-vebnor-original-imahpfzfqmgpe4ey.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/q/h/o/s-kt5-vebnor-original-imahpfzffgyfxrjy.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/t/k/s-kt5-vebnor-original-imahpfzfgrrrqkay.jpeg?q=70"
+      ],
+      "sku": "KTAH93A95SRH6V4N",
+      "color": "Pink",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 4.2,
+        "reviewCount": 676,
+        "ratingCount": 12011,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "VeBNoR",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 248,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Fabulous!",
+          "author": {
+            "name": "Arvind kumar Arvind kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-22",
+          "reviewBody": "Good product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Classy product",
+          "author": {
+            "name": "Ayush Kundu",
+            "@type": "Person"
+          },
+          "datePublished": "2025-06-29",
+          "reviewBody": "Nice products",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Rohit Kumar",
+            "@type": "Person"
+          },
+          "datePublished": "2025-03-06",
+          "reviewBody": "Best product",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Classic Jacquard Fabric",
+          "body": "Crafted from high-quality jacquard fabric, this kurta offers a luxurious feel and a sophisticated lo…"
+        },
+        {
+          "heading": "Chic Hip-Length Style",
+          "body": "Designed in a trendy hip-length style, this kurta provides a modern and stylish silhouette. The leng…"
+        },
+        {
+          "heading": "Mandarin Neckline Elegance",
+          "body": "Featuring a Mandarin/Chinese neck, this kurta exudes sophistication and style. The neckline adds a t…"
+        },
+        {
+          "heading": "All-Over Self Design Pattern",
+          "body": "The intricate self-design pattern covers the entire kurta, creating a cohesive and stylish look. Thi…"
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Self Design",
+        "Type": "Straight",
+        "Fabric": "Jacquard",
+        "Fit": "Regular",
+        "Color": "Pink"
+      },
+      "specifications": {}
+    }
+  }
+}

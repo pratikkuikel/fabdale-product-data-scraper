@@ -1,0 +1,38 @@
+{
+  "product_id": "6484",
+  "sku": "Fab-Jeans-SUPR-003LB-L",
+  "product": {
+    "name": "Sandstone Slim Stretchable Jogger JeanS",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/supernova-inc-slim-men-light-blue-jeans/p/itm0462b269ee3cf?pid=JEAFVEG2HMKFDKBP&marketplace=FLIPKART&lid=LSTJEAFVEG2HMKFDKBPYIPVDE&swatchAttr=size&pageUID=1778150153218"
+  },
+  "source_bundle": {
+    "key": "pid-JEAFVEG2HMKFDKBP",
+    "path": "../../sources/pid-JEAFVEG2HMKFDKBP/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/supernova-inc-slim-men-light-blue-jeans/p/itm0462b269ee3cf?pid=JEAFVEG2HMKFDKBP&marketplace=FLIPKART&lid=LSTJEAFVEG2HMKFDKBPYIPVDE&swatchAttr=size&pageUID=1778150153218",
+    "scraped_at": "2026-08-15T23:15:19.467Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/supernova-inc-slim-men-light-blue-jeans/p/itm0462b269ee3cf?pid=JEAFVEG2HMKFDKBP&marketplace=FLIPKART&lid=LSTJEAFVEG2HMKFDKBPYIPVDE&swatchAttr=size&pageUID=1778150153218\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/supernova-inc-slim-men-light-blue-jeans/p/itm0462b269ee3cf?pid=JEAFVEG2HMKFDKBP&marketplace=FLIPKART&lid=LSTJEAFVEG2HMKFDKBPYIPVDE&swatchAttr=size&pageUID=1778150153218\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T23:15:19.522Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media_bundle": null,
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/shrivalli-girls-midi-knee-length-party-dress/p/itmdd2edd52d18ae?pid=KDEHGFD2SJ9A7Q5Y&marketplace=FLIPKART&lid=LSTKDEHGFD2SJ9A7Q5Y5KA86S&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1777626045309",
+    "scraped_at": "2026-08-15T22:25:43.867Z",
+    "final_url": "about:blank"
+  },
+  "crawl": {
+    "status": "failed",
+    "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/shrivalli-girls-midi-knee-length-party-dress/p/itmdd2edd52d18ae?pid=KDEHGFD2SJ9A7Q5Y&marketplace=FLIPKART&lid=LSTKDEHGFD2SJ9A7Q5Y5KA86S&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1777626045309\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/shrivalli-girls-midi-knee-length-party-dress/p/itmdd2edd52d18ae?pid=KDEHGFD2SJ9A7Q5Y&marketplace=FLIPKART&lid=LSTKDEHGFD2SJ9A7Q5Y5KA86S&fm=eyJ3dHAiOiJyZWNvIiwicHJwdCI6InBwIiwibWlkIjoicHJvZHVjdFJlY29tbWVuZGF0aW9uL3NpbWlsYXIifQ%3D%3D&swatchAttr=size&pageUID=1777626045309\", waiting until \"domcontentloaded\"\u001b[22m\n",
+    "attempt_count": 3,
+    "completed_at": "2026-08-15T22:25:43.986Z"
+  },
+  "content": {
+    "title": null,
+    "short_description": null,
+    "description": null,
+    "specifications": {}
+  },
+  "media": {
+    "images": [],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": null
+  }
+}

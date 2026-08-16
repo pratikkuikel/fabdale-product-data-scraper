@@ -1,0 +1,37 @@
+{
+  "key": "67f682f6b4b142e8cb272548",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-08-15T20:36:19.948Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/m/k/h/s-bidfr03-dimmy-original-imahgke3fkqynsbu.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/m/k/h/s-bidfr03-dimmy-original-imahgke3fkqynsbu.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/c/h/s-bidfr03-dimmy-original-imahgke3dqtae7hw.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/c/h/s-bidfr03-dimmy-original-imahgke3dqtae7hw.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/k/d/s-bidfr03-dimmy-original-imahgke3ggqthrb2.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/k/d/s-bidfr03-dimmy-original-imahgke3ggqthrb2.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/1/q/s-bidfr03-dimmy-original-imahgke3hhhdyw2w.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/d/1/q/s-bidfr03-dimmy-original-imahgke3hhhdyw2w.jpeg?q=100",
+      "local_path": "assets/images/image-004.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

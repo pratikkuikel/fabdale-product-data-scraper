@@ -1,0 +1,199 @@
+{
+  "product_id": "6364",
+  "sku": "Fab-Kurta-HEMD-003 WH-XL",
+  "product": {
+    "name": "Hridhaan Beach shirt",
+    "parent_id": null,
+    "notes": "https://www.flipkart.com/hemadhav-men-striped-straight-kurta/p/itm590a71211721a?pid=KTAH56C9SMGNCHTT&lid=LSTKTAH56C9SMGNCHTTU2V4DA&marketplace=FLIPKART&sattr[]=color&st=color"
+  },
+  "source_bundle": {
+    "key": "pid-KTAH56C9SMGNCHTT",
+    "path": "../../sources/pid-KTAH56C9SMGNCHTT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/hemadhav-men-striped-straight-kurta/p/itm590a71211721a?pid=KTAH56C9SMGNCHTT&marketplace=FLIPKART&lid=LSTKTAH56C9SMGNCHTTU2V4DA&swatchAttr=size&pageUID=1774113387456",
+    "scraped_at": "2026-08-15T20:18:22.876Z",
+    "final_url": "https://www.flipkart.com/hemadhav-men-striped-straight-kurta/p/itm590a71211721a?pid=KTAH56C9SMGNCHTT&marketplace=FLIPKART&lid=LSTKTAH56C9SMGNCHTTU2V4DA&swatchAttr=size&pageUID=1774113387456"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:18:30.249Z"
+  },
+  "content": {
+    "title": "HEMADHAV Men Striped Straight Kurta",
+    "short_description": "Color: White\nFabric: Cotton Blend\nPattern: Striped\nType: Straight\nFit: Regular",
+    "description": "HEMADHAV Men Striped Straight Kurta - Buy HEMADHAV Men Striped Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "Pattern": "Striped",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Fit": "Regular",
+      "Color": "White"
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "61fad7685630ee0de67ddcc5",
+      "path": "media/images/61fad7685630ee0de67ddcc5/media.json",
+      "reused": true
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/e/g/m-kurta1402-madhavista-resized-original-imah5yu7gb92gzan.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/e/g/m-kurta1402-madhavista-resized-original-imah5yu7gb92gzan.jpeg?q=100",
+        "local_path": "../../media/images/61fad7685630ee0de67ddcc5/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/9/q/m-kurta1402-madhavista-original-imah5yu7dqcycqvg.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/9/q/m-kurta1402-madhavista-original-imah5yu7dqcycqvg.jpeg?q=100",
+        "local_path": "../../media/images/61fad7685630ee0de67ddcc5/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/g/j/m-kurta1402-madhavista-original-imah5yu7d4m46frv.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/g/j/m-kurta1402-madhavista-original-imah5yu7d4m46frv.jpeg?q=100",
+        "local_path": "../../media/images/61fad7685630ee0de67ddcc5/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/n/z/m-kurta1402-madhavista-original-imah5yu7p7yhr6nu.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/n/z/m-kurta1402-madhavista-original-imah5yu7p7yhr6nu.jpeg?q=100",
+        "local_path": "../../media/images/61fad7685630ee0de67ddcc5/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/f/d/m-kurta1402-madhavista-original-imah5yu77zthrazz.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/f/d/m-kurta1402-madhavista-original-imah5yu77zthrazz.jpeg?q=100",
+        "local_path": "../../media/images/61fad7685630ee0de67ddcc5/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "HEMADHAV Men Striped Straight Kurta",
+      "description": "HEMADHAV Men Striped Straight Kurta - Buy HEMADHAV Men Striped Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/e/g/m-kurta1402-madhavista-resized-original-imah5yu7gb92gzan.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/t/9/q/m-kurta1402-madhavista-original-imah5yu7dqcycqvg.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/w/g/j/m-kurta1402-madhavista-original-imah5yu7d4m46frv.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/i/n/z/m-kurta1402-madhavista-original-imah5yu7p7yhr6nu.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/j/f/d/m-kurta1402-madhavista-original-imah5yu77zthrazz.jpeg?q=70"
+      ],
+      "sku": "KTAH56C9SMGNCHTT",
+      "color": "WHITE FLORAL",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 304,
+        "ratingCount": 3236,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "HEMADHAV",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 356,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-31",
+          "reviewBody": "Quality is too good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-11",
+          "reviewBody": "Super...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Soumalya Roy",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-10",
+          "reviewBody": "Very satisfied with the product quality and design.\nValue for money✔️✔️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "Pattern": "Striped",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Fit": "Regular",
+        "Color": "White"
+      },
+      "specifications": {}
+    }
+  }
+}

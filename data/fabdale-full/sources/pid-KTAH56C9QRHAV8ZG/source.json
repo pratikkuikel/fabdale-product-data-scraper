@@ -1,0 +1,193 @@
+{
+  "source": {
+    "url": "https://www.flipkart.com/hemadhav-men-striped-straight-kurta/p/itm7d2b7e867b7ab?pid=KTAH56C9QRHAV8ZG&marketplace=FLIPKART&lid=LSTKTAH56C9QRHAV8ZG9GPOPC&swatchAttr=size&pageUID=1774113488174",
+    "scraped_at": "2026-08-15T20:18:31.358Z",
+    "final_url": "https://www.flipkart.com/hemadhav-men-striped-straight-kurta/p/itm7d2b7e867b7ab?pid=KTAH56C9QRHAV8ZG&marketplace=FLIPKART&lid=LSTKTAH56C9QRHAV8ZG9GPOPC&swatchAttr=size&pageUID=1774113488174"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-08-15T20:18:42.973Z"
+  },
+  "content": {
+    "title": "HEMADHAV Men Striped Straight Kurta",
+    "short_description": "Color: Multicolor\nFabric: Cotton Blend\nPattern: Striped\nType: Straight\nFit: Regular",
+    "description": "Other Details\nPlease Check Your Size Before You Order. ( All Measurement are in Inches. ) [ S - 38, M - 40, L - 42, XL - 44, XXL - 46 ]. PRODUCT COLOUR MAY SLIGHTLY VARY DUE TO PHOTOGRAPHIC LIGHTING SOURCES OR YOUR MONITOR SETTINGS. [ WASH WITH SIMILAR COLOURS ].",
+    "specifications": {
+      "Pattern": "Striped",
+      "Type": "Straight",
+      "Fabric": "Cotton Blend",
+      "Fit": "Regular",
+      "Color": "Multicolor"
+    }
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/r/b/7/xl-kurta1405-bellstone-resized-original-imah4rtygbmnh4at.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/r/b/7/xl-kurta1405-bellstone-resized-original-imah4rtygbmnh4at.jpeg?q=100",
+        "local_path": "../../media/images/53e063817e8d02d6b0ce44ab/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/h/g/s/xxl-kurta1401-hemadhav-original-imahfsv5hhzphep7.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/h/g/s/xxl-kurta1401-hemadhav-original-imahfsv5hhzphep7.jpeg?q=100",
+        "local_path": "../../media/images/53e063817e8d02d6b0ce44ab/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/e/l/xxl-kurta1401-hemadhav-original-imahfsv52gxf6y6f.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/e/l/xxl-kurta1401-hemadhav-original-imahfsv52gxf6y6f.jpeg?q=100",
+        "local_path": "../../media/images/53e063817e8d02d6b0ce44ab/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/1/n/xxl-kurta1401-hemadhav-original-imahfsv5e2gzapfd.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/1/n/xxl-kurta1401-hemadhav-original-imahfsv5e2gzapfd.jpeg?q=100",
+        "local_path": "../../media/images/53e063817e8d02d6b0ce44ab/assets/images/image-004.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/p/8/x/xxl-kurta1401-hemadhav-original-imahfsv5dgtqzdtx.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/p/8/x/xxl-kurta1401-hemadhav-original-imahfsv5dgtqzdtx.jpeg?q=100",
+        "local_path": "../../media/images/53e063817e8d02d6b0ce44ab/assets/images/image-005.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "HEMADHAV Men Striped Straight Kurta",
+      "description": "HEMADHAV Men Striped Straight Kurta - Buy HEMADHAV Men Striped Straight Kurta For Only Rs. 1499.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/r/b/7/xl-kurta1405-bellstone-resized-original-imah4rtygbmnh4at.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/h/g/s/xxl-kurta1401-hemadhav-original-imahfsv5hhzphep7.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/b/e/l/xxl-kurta1401-hemadhav-original-imahfsv52gxf6y6f.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/e/1/n/xxl-kurta1401-hemadhav-original-imahfsv5e2gzapfd.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/kurta/p/8/x/xxl-kurta1401-hemadhav-original-imahfsv5dgtqzdtx.jpeg?q=70"
+      ],
+      "sku": "KTAH56C9QRHAV8ZG",
+      "color": "YELLOW PRINT",
+      "category": "kurta",
+      "aggregateRating": {
+        "ratingValue": 3.7,
+        "reviewCount": 304,
+        "ratingCount": 3236,
+        "@type": "AggregateRating"
+      },
+      "brand": {
+        "name": "HEMADHAV",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 364,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-07-31",
+          "reviewBody": "Quality is too good",
+          "reviewRating": {
+            "ratingValue": 4,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Perfect product!",
+          "author": {
+            "name": "Flipkart Customer",
+            "@type": "Person"
+          },
+          "datePublished": "2025-08-11",
+          "reviewBody": "Super...",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        },
+        {
+          "name": "Wonderful",
+          "author": {
+            "name": "Soumalya Roy",
+            "@type": "Person"
+          },
+          "datePublished": "2025-09-10",
+          "reviewBody": "Very satisfied with the product quality and design.\nValue for money✔️✔️",
+          "reviewRating": {
+            "ratingValue": 5,
+            "bestRating": 5,
+            "@type": "Rating"
+          },
+          "@type": "Review"
+        }
+      ],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [
+        {
+          "heading": "Other Details",
+          "body": "Please Check Your Size Before You Order. ( All Measurement are in Inches. ) [ S - 38, M - 40, L - 42, XL - 44, XXL - 46 ]. PRODUCT COLOUR MAY SLIGHTLY VARY DUE TO PHOTOGRAPHIC LIGHTING SOURCES OR YOUR MONITOR SETTINGS. [ WASH WITH SIMILAR COLOURS ]."
+        }
+      ],
+      "product_highlights": {
+        "Pattern": "Striped",
+        "Type": "Straight",
+        "Fabric": "Cotton Blend",
+        "Fit": "Regular",
+        "Color": "Multicolor"
+      },
+      "specifications": {}
+    }
+  },
+  "media_bundle": {
+    "images": {
+      "key": "53e063817e8d02d6b0ce44ab",
+      "path": "media/images/53e063817e8d02d6b0ce44ab/media.json",
+      "reused": false
+    },
+    "videos": null
+  }
+}

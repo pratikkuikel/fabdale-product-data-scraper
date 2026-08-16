@@ -1,0 +1,15 @@
+{
+  "source_key": "pid-KDEHAF4QKAMKDRSY",
+  "status": "failed",
+  "attempt_count": 3,
+  "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.flipkart.com/aarya-designer-girls-midi-knee-length-casual-dress/p/itm99c8934141a83?pid=KDEHAF4QKAMKDRSY&marketplace=FLIPKART&lid=LSTKDEHAF4QKAMKDRSYDDKEL5&swatchAttr=size\nCall log:\n\u001b[2m  - navigating to \"https://www.flipkart.com/aarya-designer-girls-midi-knee-length-casual-dress/p/itm99c8934141a83?pid=KDEHAF4QKAMKDRSY&marketplace=FLIPKART&lid=LSTKDEHAF4QKAMKDRSYDDKEL5&swatchAttr=size\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "product_keys": [
+    "6086"
+  ],
+  "source_path": "sources/pid-KDEHAF4QKAMKDRSY/source.json",
+  "image_quality": 100,
+  "download_media": true,
+  "extractor_version": 2,
+  "started_at": "2026-08-15T22:50:04.118Z",
+  "completed_at": "2026-08-15T22:50:04.316Z"
+}
