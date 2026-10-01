@@ -43,6 +43,14 @@ export async function scrapeProduct({
       description: null,
       specifications: {}
     },
+    product_type: 'unknown',
+    variants: [],
+    variant_discovery: {
+      attribute: 'size',
+      status: 'pending',
+      selected_value: null,
+      error: null
+    },
     media: {
       images: [],
       videos: []
@@ -69,6 +77,7 @@ export async function scrapeProduct({
 
     const jsonLd = await extractProductJsonLd(page);
     const extracted = await extractProductContent(page, jsonLd);
+    const variantDiscovery = await extractProductVariants(page);
     const mediaCandidates = await collectMediaCandidates(page, jsonLd, [...capturedMediaUrls]);
     const resolvedMedia = resolveMedia
       ? await resolveMedia({
@@ -98,6 +107,9 @@ export async function scrapeProduct({
     const media = resolvedMedia.media;
     const mediaFailures = [...media.images, ...media.videos]
       .filter((item) => !item.downloaded && !['streaming_manifest', 'media_disabled'].includes(item.reason));
+    const errors = [];
+    if (mediaFailures.length > 0) errors.push(`${mediaFailures.length} media asset(s) failed to download`);
+    if (variantDiscovery.status === 'incomplete') errors.push(variantDiscovery.error);
 
     const result = {
       ...baseResult,
@@ -106,10 +118,18 @@ export async function scrapeProduct({
         final_url: page.url()
       },
       crawl: {
-        status: mediaFailures.length > 0 ? 'partial' : 'success',
-        error: mediaFailures.length > 0 ? `${mediaFailures.length} media asset(s) failed to download` : null
+        status: errors.length > 0 ? 'partial' : 'success',
+        error: errors.length > 0 ? errors.join('; ') : null
       },
       content: extracted.content,
+      product_type: variantDiscovery.product_type,
+      variants: variantDiscovery.variants,
+      variant_discovery: {
+        attribute: 'size',
+        status: variantDiscovery.status,
+        selected_value: variantDiscovery.selected_value,
+        error: variantDiscovery.error
+      },
       media,
       media_bundle: resolvedMedia.bundle,
       raw: {
@@ -136,6 +156,97 @@ export async function scrapeProduct({
   } finally {
     await page.close();
   }
+}
+
+export async function extractProductVariants(page, pageUrl = null) {
+  return page.evaluate((requestedPageUrl) => {
+    const clean = (value) => value?.replace(/\s+/g, ' ').trim() || '';
+    const currentUrl = new URL(requestedPageUrl || window.location.href);
+    const currentPid = currentUrl.searchParams.get('pid')?.toUpperCase() || null;
+    const currentPath = currentUrl.pathname.replace(/\/$/, '');
+    const selectedLabel = [...document.querySelectorAll('div,span')]
+      .find((node) => /^selected\s+size\s*:?$/i.test(clean(node.textContent)));
+    const selectedValue = clean(selectedLabel?.nextElementSibling?.textContent) || null;
+    const rawCandidates = [];
+
+    for (const anchor of document.querySelectorAll('a[href]')) {
+      const rawHref = anchor.getAttribute('href')?.trim() || '';
+      if (!rawHref || rawHref.startsWith('#')) continue;
+
+      const size = clean(anchor.textContent);
+      if (!size || size.length > 30 || /^size chart$/i.test(size)) continue;
+
+      let url;
+      try {
+        url = new URL(anchor.href, currentUrl);
+      } catch {
+        continue;
+      }
+
+      const pid = url.searchParams.get('pid')?.toUpperCase() || null;
+      const sameProductPath = url.pathname.replace(/\/$/, '') === currentPath;
+      if (!pid || !sameProductPath) continue;
+
+      const unavailableText = [
+        anchor.getAttribute('aria-label'),
+        anchor.getAttribute('title'),
+        anchor.getAttribute('data-tooltip'),
+        anchor.parentElement?.getAttribute('aria-label'),
+        anchor.parentElement?.getAttribute('title'),
+        anchor.className,
+        anchor.parentElement?.className
+      ].map(clean).join(' ');
+      const explicitlyDisabled = anchor.hasAttribute('disabled')
+        || anchor.getAttribute('aria-disabled') === 'true'
+        || anchor.parentElement?.getAttribute('aria-disabled') === 'true'
+        || /(?:out\s*of\s*stock|unavailable|disabled)/i.test(unavailableText);
+
+      rawCandidates.push({
+        size,
+        pid,
+        url: url.toString(),
+        available: !explicitlyDisabled,
+        selected: pid === currentPid || Boolean(selectedValue && size.toLowerCase() === selectedValue.toLowerCase())
+      });
+    }
+
+    const variants = [];
+    const seenPids = new Set();
+    for (const candidate of rawCandidates) {
+      if (seenPids.has(candidate.pid)) continue;
+      seenPids.add(candidate.pid);
+      variants.push(candidate);
+    }
+
+    const hasSizeSelector = Boolean(selectedLabel) || variants.length > 1;
+    if (!hasSizeSelector) {
+      return {
+        product_type: 'simple',
+        variants: [],
+        status: 'not_applicable',
+        selected_value: null,
+        error: null
+      };
+    }
+
+    if (variants.length === 0) {
+      return {
+        product_type: 'unknown',
+        variants: [],
+        status: 'incomplete',
+        selected_value: selectedValue,
+        error: 'A size selector was visible, but no size-specific product URLs could be extracted'
+      };
+    }
+
+    return {
+      product_type: 'variable',
+      variants,
+      status: 'complete',
+      selected_value: selectedValue || variants.find((variant) => variant.selected)?.size || null,
+      error: null
+    };
+  }, pageUrl);
 }
 
 async function detectBlock(page) {

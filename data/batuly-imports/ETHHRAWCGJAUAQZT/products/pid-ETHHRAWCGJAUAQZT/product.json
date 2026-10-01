@@ -1,0 +1,190 @@
+{
+  "product_id": null,
+  "sku": null,
+  "product": {
+    "name": null,
+    "parent_id": null,
+    "notes": null
+  },
+  "source_bundle": {
+    "key": "pid-ETHHRAWCGJAUAQZT",
+    "path": "../../sources/pid-ETHHRAWCGJAUAQZT/source.json"
+  },
+  "source": {
+    "url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itme2f204197fc67?pid=ETHHRAWCGJAUAQZT&lid=LSTETHHRAWCGJAUAQZTFRRVYI&marketplace=FLIPKART&q=Divashree+Floral+Salwar+Suit+Set+&store=clo%2Fcfv%2Fitg%2Ftys&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_X60Av-CALots5nZ0q7r6eKwxrC15kXSVfvOSLJZrrd3GcM86XQQ_XjCHIA01jbAuSIUdatUS_9BgMuwNciGpuRi0EuPboWHq03kCN-ZCWispAY6J3G12BByeOeEq8rlZ&ppt=sp&ppn=sp&ssid=8kgxf7354w0000001790828545396&qH=34fcca1f3b5d69e6&ov_redirect=true",
+    "scraped_at": "2026-10-01T04:45:52.947Z",
+    "final_url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itme2f204197fc67?pid=ETHHRAWCGJAUAQZT&lid=LSTETHHRAWCGJAUAQZTFRRVYI&marketplace=FLIPKART&q=Divashree+Floral+Salwar+Suit+Set+&store=clo%2Fcfv%2Fitg%2Ftys&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_X60Av-CALots5nZ0q7r6eKwxrC15kXSVfvOSLJZrrd3GcM86XQQ_XjCHIA01jbAuSIUdatUS_9BgMuwNciGpuRi0EuPboWHq03kCN-ZCWispAY6J3G12BByeOeEq8rlZ&ppt=sp&ppn=sp&ssid=8kgxf7354w0000001790828545396&qH=34fcca1f3b5d69e6&ov_redirect=true"
+  },
+  "crawl": {
+    "status": "success",
+    "error": null,
+    "attempt_count": 1,
+    "completed_at": "2026-10-01T04:45:58.138Z"
+  },
+  "content": {
+    "title": "Divastri Women Kurta Pant Dupatta Set",
+    "short_description": "Fabric: Cotton Rayon\nPattern: Printed\nFabricCotton Rayon: PatternPrinted",
+    "description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+    "specifications": {
+      "FabricCotton Rayon": "PatternPrinted",
+      "Fabric": "Cotton Rayon",
+      "Pattern": "Printed"
+    }
+  },
+  "product_type": "variable",
+  "variants": [
+    {
+      "size": "M",
+      "pid": "ETHHRAWCKGBFJRZM",
+      "url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itme2f204197fc67?pid=ETHHRAWCKGBFJRZM&marketplace=FLIPKART&lid=LSTETHHRAWCKGBFJRZMBCYTFG&q=Divashree+Floral+Salwar+Suit+Set+&fm=Search&swatchAttr=size",
+      "available": true,
+      "selected": false
+    },
+    {
+      "size": "L",
+      "pid": "ETHHRAWCMGZZSU7Q",
+      "url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itme2f204197fc67?pid=ETHHRAWCMGZZSU7Q&marketplace=FLIPKART&lid=LSTETHHRAWCMGZZSU7QTEQMZU&q=Divashree+Floral+Salwar+Suit+Set+&fm=Search&swatchAttr=size",
+      "available": true,
+      "selected": false
+    },
+    {
+      "size": "XL",
+      "pid": "ETHHRAWCGJAUAQZT",
+      "url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itme2f204197fc67?pid=ETHHRAWCGJAUAQZT&marketplace=FLIPKART&lid=LSTETHHRAWCGJAUAQZTFRRVYI&q=Divashree+Floral+Salwar+Suit+Set+&fm=Search&swatchAttr=size",
+      "available": true,
+      "selected": true
+    },
+    {
+      "size": "XXL",
+      "pid": "ETHHRAWC5F4HQRWH",
+      "url": "https://www.flipkart.com/divastri-women-kurta-pant-dupatta-set/p/itme2f204197fc67?pid=ETHHRAWC5F4HQRWH&marketplace=FLIPKART&lid=LSTETHHRAWC5F4HQRWHTVZQWZ&q=Divashree+Floral+Salwar+Suit+Set+&fm=Search&swatchAttr=size",
+      "available": true,
+      "selected": false
+    }
+  ],
+  "variant_discovery": {
+    "attribute": "size",
+    "status": "complete",
+    "selected_value": "XL",
+    "error": null
+  },
+  "media_bundle": {
+    "images": {
+      "key": "7ce0cb01f0ccea14f41626f0",
+      "path": "media/images/7ce0cb01f0ccea14f41626f0/media.json",
+      "reused": false
+    },
+    "videos": null
+  },
+  "media": {
+    "images": [
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/u/z/m-d-pink-1920-divastri-original-imahrawbnpv66hba.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/u/z/m-d-pink-1920-divastri-original-imahrawbnpv66hba.jpeg?q=100",
+        "local_path": "../../media/images/7ce0cb01f0ccea14f41626f0/assets/images/image-001.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/i/8/l-d-pink-1920-divastri-original-imahrawbwytn8fzw.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/i/8/l-d-pink-1920-divastri-original-imahrawbwytn8fzw.jpeg?q=100",
+        "local_path": "../../media/images/7ce0cb01f0ccea14f41626f0/assets/images/image-002.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      },
+      {
+        "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/k/r/l-d-pink-1920-divastri-original-imahrawb6ny5qcnr.jpeg?q=70",
+        "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/k/r/l-d-pink-1920-divastri-original-imahrawb6ny5qcnr.jpeg?q=100",
+        "local_path": "../../media/images/7ce0cb01f0ccea14f41626f0/assets/images/image-003.jpg",
+        "downloaded": true,
+        "content_type": "image/jpeg"
+      }
+    ],
+    "videos": []
+  },
+  "raw": {
+    "json_ld": {
+      "name": "Divastri Women Kurta Pant Dupatta Set",
+      "description": "Divastri Women Kurta Pant Dupatta Set - Buy Divastri Women Kurta Pant Dupatta Set For Only Rs. 2999.0 Online in India. Shop Online For Apparels. Huge Collection of Branded Clothes Only at Flipkart.com",
+      "image": [
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/u/z/m-d-pink-1920-divastri-original-imahrawbnpv66hba.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/i/8/l-d-pink-1920-divastri-original-imahrawbwytn8fzw.jpeg?q=70",
+        "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/k/r/l-d-pink-1920-divastri-original-imahrawb6ny5qcnr.jpeg?q=70"
+      ],
+      "sku": "ETHHRAWCGJAUAQZT",
+      "color": "PINK",
+      "category": "ethnic_set",
+      "brand": {
+        "name": "Divastri",
+        "@type": "Brand"
+      },
+      "offers": {
+        "price": 663,
+        "priceCurrency": "INR",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "shippingDetails": {
+          "shippingRate": {
+            "value": 0,
+            "currency": "INR",
+            "@type": "MonetaryAmount"
+          },
+          "shippingDestination": {
+            "addressCountry": "IN",
+            "@type": "DefinedRegion"
+          },
+          "@type": "OfferShippingDetails"
+        },
+        "hasMerchantReturnPolicy": {
+          "applicableCountry": "IN",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": 10,
+          "returnFees": "https://schema.org/FreeReturn",
+          "@type": "MerchantReturnPolicy"
+        },
+        "@type": "Offer"
+      },
+      "review": [],
+      "@context": "https://schema.org",
+      "@type": "Product"
+    },
+    "dom": {
+      "meta_description": null,
+      "highlights": [],
+      "description": null,
+      "description_sections": [],
+      "product_highlights": {
+        "FabricCotton Rayon": "PatternPrinted",
+        "Fabric": "Cotton Rayon",
+        "Pattern": "Printed"
+      },
+      "specifications": {
+        "In the Box": "Items Included1 KURTA, 1 PENT, 1 DUPTTA",
+        "Items Included": "1 KURTA, 1 PENT, 1 DUPTTA",
+        "Brand": "Divastri",
+        "Fabric": "Cotton Rayon",
+        "Additional Garments": "Dupatta",
+        "Style Code": "D-Pink-1920",
+        "Top type": "Kurta",
+        "Bottom type": "Pant",
+        "Pattern": "Printed",
+        "Color": "Pink",
+        "Brand Color": "PINK",
+        "Detail Placement": "All - Over, Yoke",
+        "Dupatta Included": "Yes",
+        "Ideal For": "Women",
+        "Print Type": "Block Print",
+        "Size": "XL Regular",
+        "Sleeve Length": "3/4 Sleeve",
+        "Sleeve Style": "Regular Sleeve",
+        "Product Details": "Neck V Neck",
+        "Neck": "V Neck",
+        "Generic NameEthnic Sets": "Country of OriginIndia",
+        "Generic Name": "Ethnic Sets",
+        "Country of Origin": "India",
+        "Name and address of the Manufacturer": "ANGIRA CREATION",
+        "Name and address of the Packer": "ANGIRA CREATION"
+      }
+    }
+  }
+}

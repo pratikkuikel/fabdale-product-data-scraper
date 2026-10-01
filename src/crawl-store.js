@@ -125,6 +125,14 @@ export class CrawlStore {
         source: sourceResult.source,
         crawl: sourceResult.crawl,
         content: sourceResult.content,
+        product_type: sourceResult.product_type ?? 'unknown',
+        variants: sourceResult.variants ?? [],
+        variant_discovery: sourceResult.variant_discovery ?? {
+          attribute: 'size',
+          status: 'unknown',
+          selected_value: null,
+          error: null
+        },
         media_bundle: sourceResult.media_bundle ?? null,
         media: rewriteMediaPaths(sourceResult.media, sourceKey),
         raw: sourceResult.raw

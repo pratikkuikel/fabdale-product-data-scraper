@@ -9,6 +9,7 @@
   },
   "scripts": {
     "scrape": "node src/index.js",
+    "validate:output": "node scripts/validate-product-output.js",
     "install:browsers": "playwright install chromium",
     "test": "node --test"
   },

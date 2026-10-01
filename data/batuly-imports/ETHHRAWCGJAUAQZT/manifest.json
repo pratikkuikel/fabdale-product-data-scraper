@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "created_at": "2026-10-01T04:45:51.841Z",
+  "updated_at": "2026-10-01T04:45:58.142Z",
+  "interrupted": false,
+  "settings": {
+    "image_quality": 100,
+    "download_media": true,
+    "max_attempts_per_run": 3,
+    "delay_ms": 1000,
+    "retry_delay_ms": 2000,
+    "extractor_version": 3
+  },
+  "sources": {
+    "pid-ETHHRAWCGJAUAQZT": {
+      "source_key": "pid-ETHHRAWCGJAUAQZT",
+      "status": "success",
+      "attempt_count": 1,
+      "error": null,
+      "product_keys": [
+        "pid-ETHHRAWCGJAUAQZT"
+      ],
+      "source_path": "sources/pid-ETHHRAWCGJAUAQZT/source.json",
+      "image_quality": 100,
+      "download_media": true,
+      "extractor_version": 3,
+      "started_at": "2026-10-01T04:45:51.843Z",
+      "completed_at": "2026-10-01T04:45:58.138Z"
+    }
+  },
+  "products": {
+    "pid-ETHHRAWCGJAUAQZT": {
+      "product_id": null,
+      "sku": null,
+      "parent_id": null,
+      "source_key": "pid-ETHHRAWCGJAUAQZT",
+      "product_path": "products/pid-ETHHRAWCGJAUAQZT/product.json",
+      "status": "success",
+      "error": null
+    }
+  },
+  "summary": {
+    "sources": {
+      "total": 1,
+      "queued": 0,
+      "processing": 0,
+      "success": 1,
+      "partial": 0,
+      "blocked": 0,
+      "failed": 0
+    },
+    "products": {
+      "total": 1,
+      "queued": 0,
+      "processing": 0,
+      "success": 1,
+      "partial": 0,
+      "blocked": 0,
+      "failed": 0
+    }
+  }
+}

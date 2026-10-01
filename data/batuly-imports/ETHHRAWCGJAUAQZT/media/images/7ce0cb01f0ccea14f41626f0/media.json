@@ -1,0 +1,30 @@
+{
+  "key": "7ce0cb01f0ccea14f41626f0",
+  "type": "images",
+  "image_quality": 100,
+  "download_media": true,
+  "created_at": "2026-10-01T04:45:58.128Z",
+  "items": [
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/u/z/m-d-pink-1920-divastri-original-imahrawbnpv66hba.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/x/u/z/m-d-pink-1920-divastri-original-imahrawbnpv66hba.jpeg?q=100",
+      "local_path": "assets/images/image-001.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/i/8/l-d-pink-1920-divastri-original-imahrawbwytn8fzw.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/g/i/8/l-d-pink-1920-divastri-original-imahrawbwytn8fzw.jpeg?q=100",
+      "local_path": "assets/images/image-002.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    },
+    {
+      "source_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/k/r/l-d-pink-1920-divastri-original-imahrawb6ny5qcnr.jpeg?q=70",
+      "download_url": "https://rukmini1.flixcart.com/image/1500/1500/xif0q/ethnic-set/v/k/r/l-d-pink-1920-divastri-original-imahrawb6ny5qcnr.jpeg?q=100",
+      "local_path": "assets/images/image-003.jpg",
+      "downloaded": true,
+      "content_type": "image/jpeg"
+    }
+  ]
+}

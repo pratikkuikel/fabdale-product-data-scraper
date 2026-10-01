@@ -9,6 +9,8 @@ The scraper reads Batuly data and public Flipkart pages. It does **not** update 
 Ready and live-validated for controlled sample crawls:
 
 - CSV, JSON, or single-URL input
+- Automatic simple-product versus size-variable classification
+- Size-specific Flipkart URLs, PIDs, selection, and availability signals
 - Highest exposed 1500px Flipkart gallery images at `q=100`
 - Exact Flipkart PID deduplication
 - Shared image bundles for identical galleries
@@ -22,7 +24,7 @@ Not yet ready for an unattended complete catalog crawl:
 
 - It does not discover every color swatch within a Flipkart product family.
 - It only scrapes Flipkart URLs/PIDs already present in the Batuly export.
-- It does not yet produce an explicit family → color → size mapping.
+- It does not yet discover every color and combine them into a complete family → color → size mapping.
 - The Laravel/Datahub S3 importer is not implemented.
 
 Before crawling the complete catalog, add color-family discovery so every color gets one gallery while sizes reuse that color's gallery.
@@ -104,6 +106,8 @@ npm run scrape -- \
   --product-id 1234 \
   --output data/single-product
 ```
+
+Single-URL mode automatically inspects Flipkart's size selector. Products without a size selector are emitted as `simple`. Products with size links are emitted as `variable`, with every discovered size's actual Flipkart URL and PID. The scraper never constructs variant URLs by guessing.
 
 ## Resume
 
@@ -249,6 +253,37 @@ Each Batuly product result preserves:
 - product-scoped JSON-LD
 - raw DOM extraction for later normalization improvements
 - product gallery images and video metadata
+- `simple` or `variable` product classification
+- size-specific Flipkart URLs/PIDs for variable products
+
+### Product variant contract
+
+Variable products expose the selected size and every discovered size link:
+
+```json
+{
+  "product_type": "variable",
+  "variant_discovery": {
+    "attribute": "size",
+    "status": "complete",
+    "selected_value": "XS",
+    "error": null
+  },
+  "variants": [
+    {
+      "size": "XS",
+      "pid": "KTAHDFD8AWFXJRFV",
+      "url": "https://www.flipkart.com/...?pid=KTAHDFD8AWFXJRFV",
+      "available": true,
+      "selected": true
+    }
+  ]
+}
+```
+
+Products without a size selector expose `"product_type": "simple"`, an empty `variants` array, and `variant_discovery.status` of `not_applicable`. If a size selector is visible but its product links cannot be extracted, the product type remains `unknown` and the crawl is marked `partial`; this prevents silently importing an incomplete variable product as simple.
+
+For Batuly, match each discovered `size` to its variant and preserve that entry's `url` in the variant's notes. Shared content and media can be reused across sizes.
 
 ### Product attributes contract
 
@@ -295,12 +330,12 @@ Flipkart product family
 └── unresolved source colors
 ```
 
-The next scraper capability must:
+The remaining family-discovery capability must:
 
 1. Discover all Flipkart color swatches/PIDs in a family.
 2. Visit one representative source per color.
 3. Trust the Product highlights `Color` value instead of guessing from SKU.
-4. Map size variants beneath that color.
+4. Retain the discovered size variants beneath that color.
 5. Reuse one image gallery for all sizes of the color.
 6. Keep same-color/different-gallery conflicts separate and visible.
 7. Preserve untrusted or missing colors as unresolved.

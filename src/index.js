@@ -32,6 +32,8 @@ if (values.help) {
 
 Options:
   --output <dir>          Output directory (default: data)
+  --url <flipkart-url>    Scrape one Flipkart product and discover its size variants
+  --sku <sku>             Optional Batuly SKU for single-URL mode
   --product-id <id>      Select a Batuly product ID; repeat or comma-separate
   --status <status>      Select prior statuses; repeat or comma-separate
   --offset <n>           Skip input rows before applying --limit

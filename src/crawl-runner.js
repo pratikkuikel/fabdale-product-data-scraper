@@ -3,7 +3,7 @@ import { MediaStore } from './media-store.js';
 import { scrapeProduct } from './scrape-product.js';
 
 const RETRYABLE_STATUSES = new Set(['failed', 'partial']);
-export const EXTRACTOR_VERSION = 2;
+export const EXTRACTOR_VERSION = 3;
 
 export async function runCrawl({
   products,
@@ -231,6 +231,14 @@ function failedSourceResult(input, error) {
       short_description: null,
       description: null,
       specifications: {}
+    },
+    product_type: 'unknown',
+    variants: [],
+    variant_discovery: {
+      attribute: 'size',
+      status: 'failed',
+      selected_value: null,
+      error: message
     },
     media: {
       images: [],
